@@ -1,0 +1,590 @@
+---
+record_id: batch.motif.native-american-ethnology-kwakiutl-1-boas-hunt-archive-l7127-l7219
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+passage_locator:
+  label: INDUSTRIES / II. HUNTING, FISHING, AND FOOD-GATHERING / III. PRESERVATION
+    OF FOOD / IV. RECIPES; lines 7127-7219
+  start: '7127'
+  end: '7219'
+  translation: Ethnology of the Kwakiutl, Part 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives procedural recipes for salmon-spawn and sockeye salmon:
+    roasting spawn by fire or on a hot stone, boiling silver-salmon spawn for household
+    eating, soaking winter split sockeye under stones, boiling and serving it with
+    oil and water to guests, and quick-scorching split salmon for a hungry owner.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When salmon are first caught by trolling, a woman takes whole salmon-spawn,
+    places it in roasting-tongs, sets it by the fire until it turns white, and it
+    is eaten hot at once.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Roasted salmon-spawn is not eaten cold, is not dipped in oil, and much water
+    is drunk after it is eaten.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Another preparation heats a flat stone, lays whole salmon-spawn on it, sets
+    it edgewise by the fire, waits until the spawn turns white, scrapes it off, and
+    eats it hot.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hot-stone preparation is called "stuck-on-the-stone" and is not used for
+    inviting people from another house; only the owner eats it.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Silver-salmon spawn is put in a kettle, covered with water, placed on the
+    fire, and boiled only until it becomes white.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The woman gives spoons to her children and husband and sets the kettle of
+    boiled spawn before them; they eat it quickly at noon and in the evening, not
+    in the morning because it makes one sleepy.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In winter, split sockeye salmon are soaked in a water-filled soaking-box and
+    held under water with two large stones for four or six days until soft.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The softened split salmon are cut into pieces, put in a kettle, covered with
+    an old mat, given a little water, boiled, and the cover is struck with tongs so
+    that steam will not come through.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: For guests, the woman places cooked split salmon in a dish, prepares an oil-dish,
+    spreads a food-mat, and sets the food and oil before those who are to eat.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Before eating the guest meal, the eaters rinse their mouths and drink water;
+    they then break the split salmon, dip it in oil, and eat it.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: After the guest meal, the woman clears and washes the dish, provides water
+    for hand-washing, and the husband draws fresh water for the guests to drink before
+    a second course.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: When the owner is hungry, she takes split salmon from the soaking-box, scorches
+    it by the fire with tongs until steam comes through, and eats it dipped in oil;
+    this is called "cooked quickly for those who are hungry."
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: woman
+  description: 'The woman performs most preparation and serving actions: taking spawn,
+    cutting salmon, filling vessels, cooking, placing food before household members
+    or guests, and cleaning dishes.'
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: fishermen who go trolling
+  description: They first catch various kinds of salmon by trolling.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: children
+  description: They receive spoons from the woman and eat boiled silver-salmon spawn
+    from the kettle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: husband
+  description: He eats boiled spawn with the children and later draws fresh water
+    during the guest-serving sequence.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:5
+  name_or_label: guests or those given to eat
+  description: They receive cooked split salmon, oil, and water; they rinse, drink,
+    eat, wash hands, and wait for a second course.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: owner
+  description: The owner alone eats the "stuck-on-the-stone" spawn, and the owner
+    also quick-cooks split salmon when hungry.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:8
+roles:
+- id: role:1
+  label: cook or preparer
+  assigned_to:
+  - fig:1
+  basis: The woman handles the spawn, kettles, soaking-box, cutting, boiling, roasting,
+    and serving preparations.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: host or server
+  assigned_to:
+  - fig:1
+  basis: She gives spoons to household members and later places dishes, oil, water,
+    and food-mats before guests.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:3
+  label: food recipient or eater
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Children, husband, and guests are explicitly described as eating the prepared
+    foods.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:4
+  label: fishers
+  assigned_to:
+  - fig:2
+  basis: The passage says the salmon are first caught by fishermen who go trolling.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: fresh-water drawer
+  assigned_to:
+  - fig:4
+  basis: During the guest meal, the husband of the woman draws fresh water.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: owner-consumer
+  assigned_to:
+  - fig:6
+  basis: Only the owner eats the hot-stone spawn, and the owner quick-cooks split
+    salmon when hungry.
+  evidence_refs:
+  - ev:2
+  - ev:8
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire and fireside used for roasting spawn, heating stones, boiling
+    kettles, and scorching split salmon.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+- id: sym:2
+  label: water
+  literal_form: Water used to cover spawn for boiling, fill the soaking-box, soften
+    split salmon, rinse mouths, wash hands, and drink after eating.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: salmon-spawn or roe
+  literal_form: Whole salmon-spawn or salmon-roe roasted, cooked on a hot stone, or
+    boiled.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: split sockeye salmon
+  literal_form: Split salmon soaked, boiled, served to guests, or quick-scorched for
+    hunger.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:5
+  label: oil and oil-dish
+  literal_form: Oil placed in an oil-dish for dipping split salmon; roasted spawn
+    is specifically not dipped in oil.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:8
+- id: sym:6
+  label: stones
+  literal_form: A flat stone heated for cooking spawn and two large stones placed
+    on split salmon to keep it under water.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:7
+  label: tongs
+  literal_form: Roasting-tongs or tongs used to hold spawn, remove covers and salmon,
+    strike the kettle covering, and scorch quick-cooked salmon.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:8
+  label: mats
+  literal_form: An old mat used as a kettle cover and a food-mat spread before those
+    who are given food.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Roasted salmon-spawn by the fire
+  summary: After salmon are caught by trolling, the woman places whole spawn in roasting-tongs,
+    sets it by the fire until white, and the spawn is eaten hot with water drunk afterward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: '"Stuck-on-the-stone" spawn'
+  summary: A flat stone is heated, spawn is laid on it and set by the fire until white,
+    then scraped off and eaten hot; the preparation is limited to the owner and not
+    used for inviting another house.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Boiled silver-salmon spawn for the household
+  summary: The woman boils spawn in water until white and sets the kettle with spoons
+    before her children and husband; they eat at noon or evening and drink water afterward.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Winter soaking and boiling of split sockeye
+  summary: In winter, split sockeye salmon are soaked in a water-filled box under
+    stones for several days, then cut, covered with a mat in a kettle, and boiled
+    by the fire.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Serving cooked sockeye to guests
+  summary: The woman removes cooked split salmon, prepares dish and oil-dish, spreads
+    a food-mat, and serves guests who rinse, drink, eat salmon dipped in oil, wash
+    hands, drink fresh water, and wait for a second course.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Quick cooking for hunger
+  summary: When the owner is hungry, she takes split salmon from the soaking-box,
+    holds it with tongs by the fire until steam comes through, and eats it dipped
+    in oil.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Heat-marked food transformation
+  taxonomy_refs: []
+  basis: 'Several preparations judge doneness by visible change: salmon-spawn turns
+    white after fire or boiling, and quick-cooked split salmon is done when steam
+    comes through.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: This is a culinary procedure rather than a mythic transformation motif.
+- id: motif:2
+  label: Water after and around eating
+  taxonomy_refs: []
+  basis: Water is repeatedly drunk after spawn, used for soaking and cooking, and
+    supplied to guests for mouth-rinsing, hand-washing, and drinking.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage gives practical meal etiquette and food preparation; it does
+    not state a symbolic meaning for water.
+- id: motif:3
+  label: Owner-only food restriction
+  taxonomy_refs: []
+  basis: The "stuck-on-the-stone" spawn is said not to be used for inviting people
+    of another house; only the owner eats it.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The reason for the restriction is not explained in the passage.
+- id: motif:4
+  label: Host-controlled meal sequence
+  taxonomy_refs: []
+  basis: The woman arranges food, oil, water, and matting before guests, and the guest
+    meal follows ordered actions of rinsing, drinking, eating, washing hands, drinking
+    again, and waiting for another course.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No explicit sacred or ceremonial interpretation is stated.
+- id: motif:5
+  label: Household distribution of freshly cooked spawn
+  taxonomy_refs: []
+  basis: Boiled silver-salmon spawn is served by the woman to her children and husband
+    with spoons and eaten quickly at specified times of day.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage frames this as a food recipe and household practice.
+- id: motif:6
+  label: Soaking under stones before cooking
+  taxonomy_refs: []
+  basis: Winter split sockeye are submerged in a soaking-box and weighted by stones
+    for four or six days before being cut and cooked.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a preservation and preparation pattern, not a stated mythic symbol.
+- id: motif:7
+  label: Contrasting use of oil by food type
+  taxonomy_refs: []
+  basis: Roasted spawn and hot-stone spawn are specifically not dipped in oil, while
+    cooked split salmon and quick-cooked split salmon are dipped in oil when eaten.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The text does not explain the contrast beyond describing practice.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7127-7137; Roasted Salmon-Spawn, first preparation
+  quote_or_summary: 'Salmon first caught by trolling are prepared as spawn: the woman
+    puts whole spawn or roe in roasting-tongs, sets it by the fire until white, eats
+    it hot, does not dip it in oil, and drinks much water afterward.'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 7137-7149; Roasted Salmon-Spawn, hot-stone preparation
+  quote_or_summary: A flat stone is heated, whole spawn is laid on it and set edgewise
+    by the fire until white; the food is called "stuck-on-the-stone," scraped off,
+    eaten hot without oil, followed by water, and reserved for the owner rather than
+    guests from another house.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 7150-7162; Boiled Spawn of Silver-Salmon
+  quote_or_summary: The woman puts silver-salmon spawn in a kettle, covers it with
+    water, boils it briefly until white, gives spoons to children and husband, sets
+    the kettle before them, and they eat it at noon or evening and drink water afterward.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 7163-7174; Sockeye-Salmon, winter soaking
+  quote_or_summary: In winter the woman fills a soaking-box with water, places split
+    salmon in it, weighs them down with two large stones, and leaves them four or
+    six days until soft.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 7174-7187; Sockeye-Salmon, boiling preparation
+  quote_or_summary: The woman takes soaked split salmon to the kettle, cuts it into
+    three pieces, covers it with an old mat, pours a little water over it, boils it,
+    and strikes the top cover with tongs so that steam does not come through.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: summary
+  locator: lines 7187-7200; Sockeye-Salmon, serving guests before and during eating
+  quote_or_summary: The woman prepares dish, oil-dish, and oil; removes the cooked
+    split salmon with tongs; spreads a food-mat; places dish and oil-dish before guests;
+    gives water for rinsing and drinking; and the guests eat pieces of salmon dipped
+    in oil.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summary only.
+- id: ev:7
+  type: summary
+  locator: lines 7200-7211; Sockeye-Salmon, after eating
+  quote_or_summary: After eating, the woman clears the dish, puts leftovers in the
+    kettle, washes the dish, sets water before the eaters for hand-washing, and the
+    husband draws fresh water for them to drink before they wait for the second course.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summary only.
+- id: ev:8
+  type: summary
+  locator: lines 7211-7219; Sockeye-Salmon, quick cooking for hunger
+  quote_or_summary: When the owner is hungry, she takes a split salmon from the soaking-box,
+    holds it with tongs, scorches it by the fire until steam comes through, calls
+    it "cooked quickly for those who are hungry," and eats it dipped in oil.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The procedural food-preparation details are clear, but the passage has OCR
+    artifacts and line-number interruptions. Motif candidates are treated as culinary
+    and social patterns, not as mythic interpretations. No comparison claims were
+    made because the passage itself does not compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Available taxonomy symbol refs were used only for fire and water. No motif-family taxonomy refs were assigned because the passage does not state a mythic or sacred framework.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-ethnology-kwakiutl-1-boas-hunt-archive__l7127-l7219
+  passage_sha256=ff3673112b9c906bc191da958fe952c7c584cdd1665d4facf3a7b25f5ea7e3c6
+

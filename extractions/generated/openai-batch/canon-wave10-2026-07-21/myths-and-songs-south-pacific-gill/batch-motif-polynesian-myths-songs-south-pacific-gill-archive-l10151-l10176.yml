@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l10151-l10176
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: INUINU  TAI.  FIRST  OFFSHOOT. / INUINU  RUA.  SECOND  OFFSHOOT. / INUINU  TORU.  THIRD  OFFSHOOT.
+    / INUINU   A  FOURTH  OFFSHOOT.; lines 10151-10176
+  start: '10151'
+  end: '10176'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A solo and chorus instruct waiting five days, preparing another feast,
+    repeating the observance, and then ending mourning and returning home. The passage
+    says this was done for Ura in his grave and compares the dry feast to Tiki's.
+  language: English with Mangaian text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chorus says to wait five days.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speakers say they will prepare another feast and repeat the action again
+    and again.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The solo voice says Koroa will not quickly weary.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The solo voice addresses a beloved son and says the mourning will be over.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speakers say they will return to their dwellings.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states the observance was for Ura in his grave.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The chorus says a dry feast was borne, comparing it to Tiki's.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: communal speakers
+  description: The solo and chorus speaking as a group who wait, prepare feasts, mourn,
+    and return to dwellings.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Koroa
+  description: Named figure said not to quickly weary.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: beloved son
+  description: Addressee called a beloved son.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Ura
+  description: Named figure described as being in his grave.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Tiki
+  description: Named figure invoked in comparison with a dry feast.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: mourning-feast participants
+  assigned_to:
+  - fig:1
+  basis: The speakers wait five days, prepare another feast, continue the action,
+    and later return to their dwellings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: steadfast mourner or participant
+  assigned_to:
+  - fig:2
+  basis: Koroa is said not to quickly weary in the context of repeated mourning-feast
+    actions.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: addressed beloved son
+  assigned_to:
+  - fig:3
+  basis: The solo voice directly addresses a 'beloved son.'
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: deceased figure in grave
+  assigned_to:
+  - fig:4
+  basis: The passage says the action was for Ura in his grave.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: comparison figure
+  assigned_to:
+  - fig:5
+  basis: The chorus compares the dry feast to Tiki's.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: five-day waiting period
+  literal_form: five days
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: feast
+  literal_form: another feast; feast all dry
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:3
+  label: grave
+  literal_form: Ura in his grave
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: dwellings
+  literal_form: our dwellings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: waiting and preparing another feast
+  summary: The chorus calls for waiting five days and says another feast will be prepared.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: continued mourning and return home
+  summary: The solo voice says the repeated observance is completed, Koroa will not
+    quickly weary, mourning will end, and the speakers will return to their dwellings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: feast for Ura in the grave
+  summary: The observance is identified as being for Ura in his grave, and the chorus
+    says a dry feast was borne like Tiki's.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: repeated funerary feast for the dead
+  taxonomy_refs: []
+  basis: The passage describes waiting five days, preparing another feast repeatedly,
+    and identifies the act as for Ura in his grave.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage does not explain the rite beyond the song lines.
+- id: motif:2
+  label: mourning completed by return to dwellings
+  taxonomy_refs:
+  - return
+  basis: The speakers say the mourning will be over and that they will return to their
+    dwellings.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy term 'return' is broader than the literal domestic
+    return described here; no heroic journey pattern is stated.
+- id: motif:3
+  label: ritual comparison to Tiki's feast
+  taxonomy_refs: []
+  basis: The chorus describes bearing a dry feast and compares it to Tiki's.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives no further information about Tiki or why the feast is
+    'dry.'
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, the feast for Ura is explicitly likened to Tiki's feast.
+  claim_level: same_function
+  target: Tiki's feast
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The text supplies only the brief comparison 'like Tiki's' and does
+    not explain Tiki's role or rite.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10151-10176
+  quote_or_summary: '"Wait patiently ... five days"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 10151-10176
+  quote_or_summary: '"we will prepare yet another feast" and "Again and again will
+    we do this."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 10151-10176
+  quote_or_summary: '"Koroa will not quickly weary."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 10151-10176
+  quote_or_summary: '"Then, beloved son, our mourning will be over"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 10151-10176
+  quote_or_summary: '"finally we''ll return to our dwellings."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: lines 10151-10176
+  quote_or_summary: '"''Twas for Ura in his grave"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: quote
+  locator: lines 10151-10176
+  quote_or_summary: '"We bore a feast, all dry, like Tiki''s."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is brief and song-like, with limited context. Literal figures
+    and actions are clear, but ritual interpretation is constrained.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references are limited to the supplied lists and used cautiously.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l10151-l10176
+  passage_sha256=2b69c03045840c7f318ebc46e159f339c8545887932cef37fa5233fc1591a1aa
+

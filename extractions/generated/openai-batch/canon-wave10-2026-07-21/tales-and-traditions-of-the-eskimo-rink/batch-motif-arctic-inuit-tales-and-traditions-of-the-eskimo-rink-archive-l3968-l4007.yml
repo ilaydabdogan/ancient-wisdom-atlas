@@ -1,0 +1,407 @@
+---
+record_id: batch.motif.arctic-inuit-tales-and-traditions-of-the-eskimo-rink-archive-l3968-l4007
+source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+passage_locator:
+  label: INTRODUCTION. / INTRODUCTION. / INTRODUCTION. / INTRODUCTION.; lines 3968-4007
+  start: '3968'
+  end: '4007'
+  translation: Tales and Traditions of the Eskimo
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The introduction gives precautions for using tales as historical sources.
+    It says similar events may be compressed into one tale, discusses traditions about
+    hostilities between Eskimo and ancient Scandinavian settlers in southern Greenland,
+    notes that one remarkable tale is claimed by two districts, and summarizes a widespread
+    tale about a man who seeks to cross the frozen ocean by training wild beasts to
+    pull his sledge. The author suggests this last tale may reflect a series of stories
+    about acquiring the first dogs through domestication of wild animals such as wolves.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author states that a series of similar occurrences within a limited time
+    may be reduced to a single record representing them all.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Eskimo entering southern Greenland began hostilities
+    with ancient Scandinavian settlers, who were eventually defeated or disappeared.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says several traditions about feuds between the parties must once
+    have existed, but most were forgotten except one or two.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: One remarkable tale is said to be claimed by both districts where ruins of
+    old colonies are found, with each district claiming to be the heroes' homestead.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A widespread tale treats of a man who wished to cross the frozen ocean.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: For the crossing, the man caught different wild beasts and trained them to
+    pull his sledge.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The author suggests that the sledge-animal story may represent similar tales
+    from a period when Eskimo obtained their first dogs by domesticating a wild animal
+    such as the wolf.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that tales survived only if they were entertaining to audiences
+    and easy to understand without elaborate explanation.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Eskimo in southern Greenland
+  description: A group said to have invaded the southern part of Greenland and begun
+    hostilities with ancient Scandinavian settlers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: ancient Scandinavian settlers
+  description: Settlers in southern Greenland with whom the Eskimo began hostilities;
+    they are described as ultimately defeated or as having disappeared.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: heroes mentioned in the remarkable tale
+  description: Heroes in a tale claimed by both districts where old colony ruins are
+    found; each district claims to be their homestead.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: man who wished to cross the frozen ocean
+  description: A man in a widespread tale who wanted to cross the frozen ocean and
+    trained wild beasts to pull his sledge.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: different wild beasts
+  description: Wild animals caught by the man and trained to pull his sledge.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: first dogs or wild animal such as the wolf
+  description: Animals mentioned in the author's conjecture that the tale may relate
+    to the first dogs obtained by domesticating a wild species such as the wolf.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: invading group
+  assigned_to:
+  - fig:1
+  basis: The passage says the Eskimo invaded southern Greenland and began hostilities.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: opposing settlers
+  assigned_to:
+  - fig:2
+  basis: The ancient Scandinavian settlers are described as the party with whom the
+    Eskimo fought and who were later defeated or disappeared.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: localized tale heroes
+  assigned_to:
+  - fig:3
+  basis: The heroes' homestead is claimed by each of two districts associated with
+    old colony ruins.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: would-be ocean crosser
+  assigned_to:
+  - fig:4
+  basis: The man is described as wishing to cross the frozen ocean.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: trained draught animals
+  assigned_to:
+  - fig:5
+  basis: The beasts are caught and trained to pull the man's sledge.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: conjectured domestication source
+  assigned_to:
+  - fig:6
+  basis: The author connects the story with the acquisition of first dogs by domesticating
+    a wild animal such as the wolf.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: frozen ocean
+  literal_form: frozen ocean
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: sledge
+  literal_form: sledge pulled by trained wild beasts
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: wild beasts as draught animals
+  literal_form: different wild beasts caught and trained to pull a sledge
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: first dogs or wolf-like origin animal
+  literal_form: first dogs obtained by domesticating a wild animal such as the wolf
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Hostilities and later feud traditions
+  summary: The passage describes Eskimo hostilities with ancient Scandinavian settlers
+    in southern Greenland and says traditions about multiple feuds were later mostly
+    lost, leaving only one or two tales.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Two districts claim the same heroic tale
+  summary: A remarkable tale is said to belong to both districts where old colony
+    ruins are found, and each district claims to be the homestead of the tale's heroes.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Preparation to cross the frozen ocean
+  summary: In a widespread tale, a man who wants to cross the frozen ocean catches
+    different wild beasts and trains them to pull his sledge.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Conjectured background of first dogs
+  summary: The author suggests that the sledge-animal story may represent similar
+    tales from the period when Eskimo first obtained dogs by domesticating wild animals
+    such as wolves.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: many similar events condensed into one tale
+  taxonomy_refs: []
+  basis: The author explicitly warns that similar occurrences may have been reduced
+    to a single record representing them all.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a source-critical pattern stated by the editor, not a full myth
+    episode.
+- id: motif:2
+  label: historical feud preserved in a few surviving tales
+  taxonomy_refs: []
+  basis: The passage links hostilities between Eskimo and Scandinavian settlers with
+    later feud traditions, most of which were forgotten except one or two.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives little content from the surviving tales themselves.
+- id: motif:3
+  label: heroic tale localized to multiple districts
+  taxonomy_refs: []
+  basis: The same remarkable tale is claimed by two districts, and each claims the
+    heroes' homestead.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not provide the tale's plot.
+- id: motif:4
+  label: crossing the frozen ocean with trained animal power
+  taxonomy_refs:
+  - departure
+  basis: A widespread tale is summarized as involving a man who wants to cross the
+    frozen ocean and trains wild beasts to pull his sledge.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage supplies only a brief summary; the departure classification
+    is broad.
+- id: motif:5
+  label: origin of sledge dogs through domestication of wild animals
+  taxonomy_refs: []
+  basis: The author suggests the sledge-animal tale may represent similar tales about
+    the first dogs obtained by domesticating wild animals such as wolves.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is presented as conjectural by the author rather than as explicit
+    narrative content.
+- id: motif:6
+  label: audience selection of tales by entertainment and intelligibility
+  taxonomy_refs: []
+  basis: The passage states that tales could survive only if entertaining and easy
+    to comprehend.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This concerns oral transmission conditions, not a mythic plot motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the widespread frozen-ocean sledge tale with a broader
+    series of similar tales about acquiring first dogs through domestication of wild
+    animals.
+  claim_level: same_motif
+  target: similar Eskimo tales about first dogs and domesticated wild draught animals
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is explicitly conjectural in the passage and no parallel
+    tale is quoted.
+- id: claim:2
+  claim: The passage supports a local-variant comparison by saying that the same remarkable
+    tale is claimed by both districts where old colony ruins occur.
+  claim_level: same_motif
+  target: the remarkable tale as claimed by two districts with old colony ruins
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The actual tale content and variant details are not given.
+- id: claim:3
+  claim: The passage places some surviving tales in a historical-contact setting involving
+    Eskimo and ancient Scandinavian settlers in southern Greenland.
+  claim_level: historical_contact
+  target: Eskimo traditions about feuds with ancient Scandinavian settlers
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage summarizes the contact setting but does not provide independent
+    historical evidence or the full narratives.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3970-3977
+  quote_or_summary: The author says similar occurrences within a limited time may
+    be reduced to a single record representing them all.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 3978-3986
+  quote_or_summary: When Eskimo invaded southern Greenland, they began hostilities
+    with ancient Scandinavian settlers, who were eventually defeated or disappeared;
+    later generations likely had traditions about many feuds.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 3987-3994
+  quote_or_summary: Most feud traditions were forgotten except one or two; a remarkable
+    tale is claimed by both districts containing old colony ruins, and each claims
+    the heroes' homestead.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 3994-4002
+  quote_or_summary: A tale treats of "a man who wished to cross the frozen ocean"
+    and who caught wild beasts and trained them "to pull his sledge."
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 4002-4005
+  quote_or_summary: The author says it is not improbable that the story represents
+    similar tales from the period when Eskimo first obtained dogs by domesticating
+    wild animals such as the wolf.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 4006-4007
+  quote_or_summary: The author states that tales survived only if they entertained
+    audiences and were easy to comprehend without elaborate explanation.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an introductory source-critical discussion rather than a full
+    tale. Motif candidates relying on the frozen-ocean tale are based on a brief summary,
+    and the domestication connection is the author's stated conjecture.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were assigned only where directly supportable from the passage and available list.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:arctic-inuit-tales-and-traditions-of-the-eskimo-rink-archive__l3968-l4007
+  passage_sha256=f0e99fc26e573299d3b8da5d93190f15c8ee13d522e0144a9fc8c48ae4a82f03
+

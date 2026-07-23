@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l22347-l22366
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: VOL.  II. / NINTH  BOOK  OP  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. /
+    NINTH  BOOK  OF  THE  ROYAL; lines 22347-22366
+  start: '22347'
+  end: '22366'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage says that Indians called Spaniards gods and used the name Uira-ccocha
+    because the Spaniards could uncover secrets. The author cites Gomara's similar
+    account from Cuba and generalizes that New World Indians attributed unfamiliar
+    Spanish advantages, including horses, oxen, mills, arches, guns, and a letter,
+    to supernatural causes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The people described went out saying that Spaniards could be called gods and
+    given the name Uira-ccocha because they could find out great secrets.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Gomara tells a similar story about the first occupation
+    of Cuba.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator says Indians of the New World attributed Spanish advantages to
+    a supernatural cause when those things were beyond their experience.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The listed Spanish advantages include riding horses, ploughing with oxen,
+    making mills, spanning rivers with arches, and firing guns to kill at a distance.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Two Indians called their master a god because of the letter.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the Spaniards
+  description: A collective group called gods and Uira-ccocha because they could find
+    out secrets and possessed unfamiliar advantages.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Indians of the New World
+  description: A collective described as attributing unfamiliar Spanish advantages
+    to supernatural causes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: the two Indians
+  description: Two Indians who called their master a god because of a letter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: their master
+  description: The master of the two Indians, called a god because of the letter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Gomara
+  description: A cited author who is said to tell a similar story about Cuba.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: called divine or godlike
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The Spaniards are said to be called gods and Uira-ccocha, and the master
+    is called a god because of the letter.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: attributors of supernatural cause
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The Indians are described as attributing Spanish advantages to supernatural
+    causes; the two Indians call their master a god because of the letter.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: possessors of unfamiliar advantages
+  assigned_to:
+  - fig:1
+  basis: The passage lists horses, oxen, mills, arches, guns, and other advantages
+    associated with the Spaniards.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: cited teller of similar story
+  assigned_to:
+  - fig:5
+  basis: The passage says Gomara tells a similar story about Cuba.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Uira-ccocha name
+  literal_form: the name Uira-ccocha applied to Spaniards
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: letter
+  literal_form: a letter because of which the master is called a god
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Spanish advantages
+  literal_form: horses, oxen, mills, arches over rivers, guns, and similar things
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Spaniards named gods and Uira-ccocha
+  summary: The people described say the Spaniards may be called gods and Uira-ccocha
+    because they can find out great secrets.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: General attribution of Spanish advantages to supernatural causes
+  summary: The narrator explains that Indians of the New World interpreted unfamiliar
+    Spanish capacities and technologies as having supernatural causes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Master called a god because of the letter
+  summary: Two Indians call their master a god because of a letter.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Cuban parallel cited
+  summary: The narrator cites Gomara as telling a similar story about the first occupation
+    of Cuba.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: divine status inferred from secret-finding knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The Spaniards are called gods and Uira-ccocha because they can find out great
+    secrets, and the master is called a god because of a letter.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage supports association with knowledge and letters, but the available
+    taxonomy term 'wisdom' is broad and should be reviewed.
+- id: motif:2
+  label: unfamiliar technology attributed to supernatural cause
+  taxonomy_refs: []
+  basis: The narrator says Indians attributed Spanish advantages such as horses, oxen,
+    mills, arches, and guns to supernatural causes.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level pattern rather than a named taxonomy motif in
+    the supplied list.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the described attribution of divine status
+    or supernatural cause to a similar story that Gomara tells about the first occupation
+    of Cuba.
+  claim_level: same_motif
+  target: Gomara's similar story concerning Cuba's first occupation
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Cuban story is not narrated in this passage, so the comparison
+    rests only on the author's brief statement that it is similar.
+- id: claim:2
+  claim: The narrator presents the attribution of unfamiliar Spanish advantages to
+    supernatural causes as a recurrent pattern among different New World nations.
+  claim_level: independent_recurrence
+  target: Various nations of the New World encountering unfamiliar Spanish practices
+    and technologies
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage generalizes broadly and does not provide separate detailed
+    examples for each nation.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 22347-22352
+  quote_or_summary: '"the Spaniards might well be called gods, and have the name Uira-ccocha,
+    when they could find out such great secrets"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 22354-22356
+  quote_or_summary: '"Gomara tells a similar story touching what took place when Cuba
+    was first occupied."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 22356-22364
+  quote_or_summary: The narrator says that the same kind of response appeared in different
+    places, and that Indians of the New World attributed Spanish advantages to supernatural
+    causes, including horses, oxen, mills, arches over rivers, and guns.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 22365-22366
+  quote_or_summary: '"the two Indians called their master a god, because of the letter"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labeling and taxonomy mapping
+    require review because the supplied taxonomy has no exact category for supernatural
+    attribution of unfamiliar colonial technologies or letters.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No unsupported historical-contact claim is made; comparisons are limited to the explicit statement in the passage and the author's own generalization.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l22347-l22366
+  passage_sha256=bef0601c9ff8d3ed649ae64c8c20d9b5e7d7655057e4cf4883eeecbdb98dd4ff
+

@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l7350-l7376
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: XXXI. / MBULU NI KABULU. / XXXI. / JACKAL AND HARE.; lines 7350-7376
+  start: '7350'
+  end: '7376'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“I, Jackal, oh! I have met an omen!”"
+  summary: Jackal and Hare go to the bush to play a hiding game. Jackal hides twice
+    and Hare finds him. Hare then hides in a hole and opens his eyes wide; Jackal
+    sees the eyes, becomes afraid, flees, and cries that he has met an omen. Hare
+    laughs and tells Jackal that it was only he hiding.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Jackal and Hare are presented as friends or comrades who go to the bush to
+    play.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jackal hides first, and Hare seeks and finds him crouching.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Jackal hides a second time, and Hare again finds him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hare says he will hide and tells Jackal that Jackal cannot see him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hare hides in a hole and opens his eyes wide.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Jackal looks into the hole, sees Hare’s eyes, becomes afraid, and flees crying
+    that he has met an omen.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Hare laughs and explains that Jackal had only found Hare hiding, after boasting
+    that he could see him.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Jackal of Ngonga
+  description: An animal figure who plays friendship with Hare, invites Hare to the
+    bush, hides, searches for Hare, and is frightened by Hare’s eyes in a hole.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Hare
+  description: An animal figure and comrade of Jackal who finds Jackal when he hides,
+    then hides in a hole and frightens Jackal with his open eyes.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: animal playmate
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both figures go together to the bush to play.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: initial hider
+  assigned_to:
+  - fig:1
+  basis: Jackal hides first while Hare seeks and finds him.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: successful seeker
+  assigned_to:
+  - fig:2
+  basis: Hare finds Jackal when Jackal hides.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: frightened seeker
+  assigned_to:
+  - fig:1
+  basis: Jackal seeks Hare, looks into the hole, becomes afraid, and flees crying.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: concealed trickster
+  assigned_to:
+  - fig:2
+  basis: Hare hides in a hole, opens his eyes, then laughs at Jackal’s fear and explains
+    the trick.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: hole
+  literal_form: A hole in which Hare hides.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: opened eyes in the hole
+  literal_form: Hare opens big eyes while hidden in the hole.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: omen
+  literal_form: Jackal calls what he sees in the hole an omen.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: bush
+  literal_form: The bush where Jackal and Hare go to play.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Invitation to play in the bush
+  summary: Jackal invites Hare to go to the bush to play, and they go there together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jackal hides and Hare finds him
+  summary: Jackal hides twice, and Hare searches for and finds him each time.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hare hides in a hole
+  summary: Hare takes his turn hiding, hides in a hole, and opens his eyes wide while
+    Jackal searches.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Jackal mistakes Hare for an omen
+  summary: Jackal sees the eyes in the hole, becomes afraid, flees, and cries that
+    he has met an omen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:5
+  label: Hare reveals the trick
+  summary: Hare laughs and tells Jackal that he had only been hiding, pointing out
+    that Jackal fled after claiming he could see him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal trickster uses concealment to frighten a companion
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Hare hides in a hole, presents frightening eyes to Jackal, and then laughs
+    and explains the deception after Jackal flees.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly call Hare a trickster; the motif label
+    is inferred from the described action.
+- id: motif:2
+  label: boaster frightened by the thing he claimed he could find
+  taxonomy_refs: []
+  basis: Jackal says he will see Hare, but when he finds Hare in the hole he becomes
+    afraid and runs away crying.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level pattern rather than a named taxonomy item.
+- id: motif:3
+  label: mistaken supernatural sign
+  taxonomy_refs: []
+  basis: Jackal interprets Hare’s eyes in the hole as an omen rather than recognizing
+    Hare.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only Jackal’s speech names the sight as an omen; the narrative later reveals
+    it was Hare.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7350-7354
+  quote_or_summary: The passage is titled “Jackal and Hare”; Jackal of Ngonga is said
+    to play friendship with Hare, and Jackal invites Hare to go play in the bush.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 7355-7363
+  quote_or_summary: Jackal hides, Hare seeks and finds him crouching; Jackal laughs,
+    hides again, and Hare finds him again.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 7364-7370
+  quote_or_summary: Hare says he will hide; Jackal says he will see him. Hare hides
+    in a hole and opens big eyes. Jackal looks into the hole, becomes afraid, flees,
+    and cries that he has met an omen.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 7371-7375
+  quote_or_summary: Hare laughs and asks why Jackal is silly and running away crying,
+    explaining that he was the one hiding after Jackal had claimed he could see him.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: citation
+  locator: '7376'
+  quote_or_summary: 'The passage closes with a formulaic ending: “Thus far it reached.
+    The end.”'
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence and figures are clear. Motif labels are candidate interpretations
+    based on the described hiding, fright, and revelation; no external comparison
+    is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode with another tradition or corpus.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l7350-l7376
+  passage_sha256=192fdae6f5bc2895526d1b7f2553668eafdca231723ccb12b5e42d2eec53f319
+

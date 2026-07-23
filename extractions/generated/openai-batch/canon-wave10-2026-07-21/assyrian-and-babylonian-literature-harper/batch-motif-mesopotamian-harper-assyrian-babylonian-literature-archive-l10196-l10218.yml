@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l10196-l10218
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: AN    INSCRIPTION    OF   ASHURBANIPAL / ASSYRIAN   AND   BABYLONIAN   LITERATURE
+    / INSCRIPTION   OF   NABOPOLASSAR  131 / INSCRIPTION   OF  NABOPOLASSAR  133;
+    lines 10196-10218
+  start: '10196'
+  end: '10218'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: O Etemenanki, grant blessing to the king who has restored thee!
+  summary: The king-speaker addresses Marduk and Etemenanki, asking that his dedication
+    and restoration works receive divine favor, that his handiwork and throne endure
+    forever, and that the restored temple bless him and remind Marduk of his deeds
+    when Marduk dwells there.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says that he dedicated an object or work to be gazed at, as in
+    former days.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker addresses Marduk as his lord and asks Marduk to look favorably
+    on his good deeds.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker describes Marduk's exalted command as unalterable and asks that
+    the work of his hands endure forever.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker compares the desired permanence of his throne's foundation with
+    the bricks of Etemenanki, which are said to remain firm forever.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker addresses Etemenanki and asks it to grant blessing to the king
+    who restored it.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that Marduk joyfully takes up his abode in the temple,
+    and the speaker asks the temple to recall his gracious deeds to Marduk.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Nabopolassar / king-speaker
+  description: The first-person royal speaker in the inscription; he refers to his
+    hands, his throne, his deeds, and is called the king who restored Etemenanki.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Marduk
+  description: Addressed as the speaker's lord; his exalted command is described as
+    unalterable, and he is said to take up his abode in the temple with joy.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Etemenanki / the temple
+  description: A temple with enduring bricks; it has been restored by the king, is
+    addressed directly, and is associated with Marduk's abode.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: royal restorer
+  assigned_to:
+  - fig:1
+  basis: The speaker is identified as the king who restored Etemenanki and asks for
+    the foundation of his throne to be established for all time.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: supplicant and dedicant
+  assigned_to:
+  - fig:1
+  basis: The speaker says he dedicated the work and repeatedly petitions Marduk and
+    the temple for favor, endurance, blessing, and remembrance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: divine lord with unalterable command
+  assigned_to:
+  - fig:2
+  basis: Marduk is addressed as lord, and his exalted command is said to be unalterable.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: deity dwelling in the temple
+  assigned_to:
+  - fig:2
+  basis: The passage says that Marduk takes up his abode in the temple with joy.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: restored temple and addressed divine abode
+  assigned_to:
+  - fig:3
+  basis: Etemenanki is restored by the king, asked to grant blessing, and described
+    as the place where Marduk takes up his abode.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: restored temple as divine abode
+  literal_form: Etemenanki / the temple
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: enduring bricks
+  literal_form: bricks of Etemenanki
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: foundation of the throne
+  literal_form: foundation of my throne
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Dedication and prayer to Marduk
+  summary: The king-speaker says he dedicated a work for public sight and asks Marduk
+    to favor his good deeds and make his handiwork endure forever.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Permanence of throne and temple bricks
+  summary: The king-speaker asks Marduk to establish his throne's foundation for all
+    time, comparing this permanence to the enduring bricks of Etemenanki.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Temple blessing and remembrance before Marduk
+  summary: Etemenanki is asked to bless the king who restored it, and the temple is
+    asked to remind Marduk of the king's deeds when Marduk dwells there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Temple restoration securing enduring kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The king restores Etemenanki, asks for blessing, and asks Marduk to establish
+    the foundation of his throne for all time.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents a royal prayer and building inscription; it does
+    not narrate accession or a full legitimating myth.
+- id: motif:2
+  label: Dedicatory exchange of royal works for divine favor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The speaker dedicates and restores sacred architecture, then asks Marduk
+    and the temple for favor, endurance, blessing, and remembrance of his deeds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The exchange is implied through petitions after dedication and restoration,
+    not stated as a formal contract.
+- id: motif:3
+  label: God takes residence in restored sanctuary
+  taxonomy_refs: []
+  basis: The temple is restored and addressed as the place in which Marduk joyfully
+    takes up his abode.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No broader cosmological symbolism is stated in the passage.
+- id: motif:4
+  label: Enduring foundation and monumental permanence
+  taxonomy_refs: []
+  basis: The speaker asks that the work of his hands endure forever and compares his
+    throne's foundation with the firm bricks of Etemenanki.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a literal building-and-kingship permanence motif; no additional
+    mythic episode is narrated.
+comparison_claims:
+- id: claim:1
+  claim: The passage functions as a royal-legitimacy pattern in which temple restoration,
+    divine blessing, and the enduring foundation of the king's throne are linked.
+  claim_level: same_function
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional motif-family classification only; the passage
+    does not itself compare traditions or make a historical-contact claim.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 10196-10200
+  quote_or_summary: '"my lord, as in days of old, I dedicated it for a sight to be
+    gazed at."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 10201-10203
+  quote_or_summary: '"O Marduk, my lord, look with favour upon my goodly deeds!"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 10204-10207
+  quote_or_summary: '"At thy exalted command, which can not be altered, let the performance
+    of my hands endure forever!"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 10208-10212
+  quote_or_summary: '"Like the bricks of Etemenanki... do thou establish the foundation
+    of my throne for all time!"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: 10213-10215
+  quote_or_summary: '"O Etemenanki, grant blessing to the king who has restored thee!"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: 10216-10218
+  quote_or_summary: '"When Marduk with joy takes up his abode in thee... O temple,
+    recall to Marduk, my lord, my gracious deeds!"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Figures and actions are explicit in the passage. Motif labels are cautious
+    functional classifications based on the royal prayer and temple-restoration language;
+    broader cosmological readings are not inferred.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available symbol taxonomy refs were assigned because the passage names temple, bricks, and throne foundation but not cave, fire, milk, mountain, serpent, tree, or water.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l10196-l10218
+  passage_sha256=996dd361ae9198c6d2b24b012268251859ab17820cbee2b79f34f2c4b42edd7b
+

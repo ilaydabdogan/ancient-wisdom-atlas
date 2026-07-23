@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l5500-l5538
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SIXTH  BOOK  OF  THE  KOYAL / COMMENTARIES  OF  THE  YNCAS. / CHAPTER  VIH.
+    / SIXTH  BOOK  OF  THE  ROYAL; lines 5500-5538
+  start: '5500'
+  end: '5538'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes an ordered record system using strings and knots.
+    Items are grouped under generic heads; arms and vassals are listed in fixed orders;
+    people are counted by village, province, sex, and age. Finer strings of the same
+    color mark supplements or exceptions, such as widowers. Knots on threads indicate
+    numerical values from units to tens of thousands, with larger numbers possible
+    but rarely needed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Recorded items are organized under generic heads, with cereals and pulses
+    given as an example in a fixed sequence.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Weapons are recorded in an order that begins with those considered most noble
+    and proceeds through several weapon types.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Vassals are enumerated first by village and then by the whole province combined.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Men are counted on successive strings by descending age groups, from sixty
+    and upwards down to babies at the breast; women are counted in the same order.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Some strings have finer strings of the same color attached as supplements
+    or exceptions to the chief record.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A supplementary string can record widowers of the same age when the main string
+    records married men of that age.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The accounts are made annually and relate to one year only.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Knots indicate units, tens, hundreds, thousands, and tens of thousands.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The system rarely or never goes beyond tens of thousands because each village
+    and district is recorded separately.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage states that larger numbers could be recorded and expressed in
+    the language, although there was no occasion to use higher numbers.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Numbers are counted by knots made on threads, with each number divided from
+    the next and the knots for each number grouped together.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The grouped knots are visually compared to knots represented on the girdle
+    of St. Francis.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: unnamed recorders
+  description: The unnamed agents who place categories in order, record quantities,
+    enumerate vassals, and count numbers by knots on threads.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: vassals and population groups
+  description: The people counted in the record system, including natives of villages
+    and provinces, men and women by age, babies at the breast, and widowers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: recording and enumerating agents
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly describes what 'they' placed, recorded, enumerated,
+    and counted by knots.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+- id: role:2
+  label: counted population
+  assigned_to:
+  - fig:2
+  basis: The passage lists vassals, men and women by age, babies, and widowers as
+    people counted or specified in the records.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: main record strings
+  literal_form: strings used to arrange categories such as age groups and population
+    counts
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: supplementary strings
+  literal_form: finer strings of the same color attached to main strings as supplements
+    or exceptions
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: knots on threads
+  literal_form: knots made on threads to count numbers
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: place-value numbers
+  literal_form: units, tens, hundreds, thousands, and tens of thousands indicated
+    by knots
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: St. Francis girdle knots
+  literal_form: knots represented on the girdle of the ever blessed Patriarch St.
+    Francis
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Ordering of recorded categories
+  summary: Recorded materials are arranged under generic heads and in fixed sequences,
+    including cereals, pulses, weapons, and vassals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Use of supplementary strings
+  summary: Finer same-colored strings are attached to main strings to add supplements
+    or exceptions, such as widowers corresponding to married men of the same age.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Numerical knot notation
+  summary: Numbers are represented by knots on threads, with values from units to
+    tens of thousands and each number separated from the next.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: knotted-thread accounting system
+  taxonomy_refs: []
+  basis: The passage describes numbers counted by knots on threads, with knots indicating
+    numerical values and grouped by number.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: This is an administrative record pattern in the passage, not a mythic
+    episode.
+- id: motif:2
+  label: hierarchical classification of goods, weapons, and people
+  taxonomy_refs: []
+  basis: The passage describes generic headings, ordered lists of cereals and arms,
+    and population counts arranged by village, province, sex, and age.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The hierarchy is practical and enumerative; no sacred or mythological
+    hierarchy is stated in this passage.
+- id: motif:3
+  label: supplement and exception attached to a main record
+  taxonomy_refs: []
+  basis: The passage explains that finer strings of the same color are attached to
+    chief strings to mark supplements or exceptions, such as widowers.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as a record-keeping device, not as a narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage makes a visual comparison between grouped knots on record threads
+    and knots represented on the girdle of St. Francis.
+  claim_level: visual_similarity
+  target: knots represented on the girdle of the ever blessed Patriarch St. Francis
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is only visual and illustrative; the passage does not
+    claim shared function, origin, or historical contact.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5500-5506
+  quote_or_summary: Recorded items are placed "under its generic head," with cereals
+    and pulses illustrated by the order wheat, barley, beans, and millet.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 5506-5510
+  quote_or_summary: For arms, "they placed those that were considered most noble,"
+    followed by lances, darts, bows and arrows, shields, axes, and slings.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5510-5516
+  quote_or_summary: Vassals are counted first by village and then by province; strings
+    count men by age from sixty and upwards down to babies at the breast, and women
+    are counted in the same order.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 5518-5525
+  quote_or_summary: Some strings have finer strings of the same color attached for
+    supplements or exceptions; a supplementary string may count widowers when the
+    main string counts married men of the same age, and the accounts are annual.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 5525-5531
+  quote_or_summary: The knots indicated "units, tens, hundreds, thousands, and tens
+    of thousands," and rarely went beyond that because villages and districts were
+    counted separately.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:6
+  type: summary
+  locator: lines 5531-5535
+  quote_or_summary: The passage says larger numbers, even hundreds of thousands, could
+    be recorded and expressed in the language, but higher numbers were not used because
+    there was no occasion.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence from supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 5535-5538
+  quote_or_summary: Numbers are "counted by knots made on the threads"; knots for
+    each number are grouped together, "like the knots represented on the girdle" of
+    St. Francis.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and administrative, making literal extraction
+    strong. Motif candidates are treated as record-keeping patterns rather than mythological
+    motifs. The only comparison claim is explicitly made in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy symbol or motif family was assigned because the passage concerns quipu-like record keeping, strings, and knots, none of which are listed among the provided taxonomy symbol refs or directly supported motif families.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l5500-l5538
+  passage_sha256=844372fe5277ed0de04fc84821a1217efbf66ce047819021d8df7dfa01118734
+

@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.korean-korean-tales-allen-archive-l192-l251
+source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+passage_locator:
+  label: Korean Tales / INTRODUCTORY. / INTRODUCTORY. / INTRODUCTORY.; lines 192-251
+  start: '192'
+  end: '251'
+  translation: Korean Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Introductory ethnographic passage describing Korean registration practices,
+    bodily and moral characterizations, questions of origin, claims about ancient
+    written records and a traditional first king descending from heaven, long isolation
+    from the West, clothing, food, cattle, and domestic architecture including heated
+    floors.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says records of male births and deaths are kept but not always
+    reliable; males aged fifteen are registered by a Department of Registration, which
+    issues tablets with name and address, and children also receive tablets to prevent
+    getting lost.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people are described as well built, strong, loyal, contented, intelligent,
+    and easy to teach.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the people share many characteristics with Chinese and Japanese
+    neighbors but seem to have a distinct parentage.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says the people slightly resemble the aborigines of America and
+    that their ancestors are believed to have come from the north.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says written records are said to date back three thousand years.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says the traditional first king descended from heaven five thousand
+    years ago.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage presents Korea as an old civilization that long barred itself
+    against Western civilization.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage describes clothing made mostly from imported cotton sheeting,
+    rice and wheat as regional staples, large cattle, beef consumption, and hides
+    as an export.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage describes houses as comfortable, one-story, arranged around courts,
+    and heated by underfloor flues covered by flagstone, cement, and oil paper.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Korean people
+  description: The collective people described in the introductory passage, including
+    their registration practices, traits, origin questions, food, clothing, and houses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: traditional first king
+  description: A first king said by tradition to have descended from heaven five thousand
+    years ago.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: ancestors of the Korean people
+  description: Ancestors who are believed in the passage to have come from the north.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: people under ethnographic description
+  assigned_to:
+  - fig:1
+  basis: The passage describes the people’s registration, attributes, cultural practices,
+    diet, housing, and relation to neighboring peoples and the West.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: heaven-descended first ruler
+  assigned_to:
+  - fig:2
+  basis: The passage identifies a traditional first king and says he descended from
+    heaven five thousand years ago.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: northern-origin ancestors
+  assigned_to:
+  - fig:3
+  basis: The passage states that the ancestors are believed to have come from the
+    north.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: heaven
+  literal_form: Heaven, named as the place from which the traditional first king descended.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: registration tablet
+  literal_form: Tablet bearing name and address, issued by the Department of Registration
+    to males and generally also to children.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: north
+  literal_form: The north, named as the believed origin place of the ancestors.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: registration with name-and-address tablets
+  summary: The passage describes state registration of males at fifteen and the issuing
+    of tablets, with children also given tablets to prevent their being lost.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: origin and antiquity claims
+  summary: The passage raises questions of origin, says the ancestors are believed
+    to have come from the north, says written records are very old, and reports that
+    the traditional first king descended from heaven five thousand years ago.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: domestic and material setting
+  summary: The passage describes clothing, diet, cattle, export hides, and houses
+    with underfloor heating and court-based compounds.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: heaven-descended first king
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage says the traditional first king descended from heaven five thousand
+    years ago, presenting the first ruler as originating from a heavenly realm.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only a brief introductory statement, not a full foundation
+    myth; it does not specify divine parentage, birth circumstances, succession rites,
+    or explicit legitimation doctrine.
+- id: motif:2
+  label: ancestral origin from the north
+  taxonomy_refs: []
+  basis: The passage reports a belief that the ancestors of the people came from the
+    north.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: This is phrased as an ethnographic origin belief rather than a developed
+    mythic episode, and no narrative figures or events are provided.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 192-201
+  quote_or_summary: Birth and death records are kept; males of fifteen are registered
+    at the Hang Sung Poo, which issues tablets with name and address; children generally
+    also receive tablets so they do not get lost.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 203-212
+  quote_or_summary: The people are described as strong, loyal, contented, intelligent,
+    and as sharing characteristics with Chinese and Japanese neighbors while appearing
+    to have a different parentage.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 212-216
+  quote_or_summary: The passage says the people slightly resemble the aborigines of
+    America and that their ancestors are believed to have come from the north.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 216-220
+  quote_or_summary: "“Their written records are said to date back three thousand years.
+    Their traditional first king descended from heaven five thousand years ago.”"
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 220-231
+  quote_or_summary: The passage characterizes Korea as an ancient civilization that
+    long barred its doors against the newer Western civilization and practiced virtues
+    for centuries behind isolation.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 232-242
+  quote_or_summary: The passage describes clothing of imported cotton sheeting, regional
+    staples of rice and wheat, large cattle, beef consumption, and hides as an export.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 242-251
+  quote_or_summary: Houses are described as well built and comfortable, heated by
+    underfloor flues beneath flagstone, cement, and oil paper; houses are one-story,
+    built around courts, and grouped in walled compounds.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The ethnographic details are clear. Motif extraction is limited because the
+    passage contains only a brief reference to a heaven-descended first king and a
+    northern-origin belief, not a full myth narrative. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. Comparison claims are omitted because the passage does not itself support a specific comparative mythology claim beyond internal origin statements.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-tales-allen-archive__l192-l251
+  passage_sha256=1bb63298df0c79f3371956374b5a9a15bb632b92243c357430582d37ddcda94d
+

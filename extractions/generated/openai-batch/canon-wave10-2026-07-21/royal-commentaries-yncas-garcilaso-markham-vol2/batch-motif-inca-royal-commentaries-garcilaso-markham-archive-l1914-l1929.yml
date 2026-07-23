@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l1914-l1929
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: HOW  THEY  CONQUERED  AND  CIVILISED  THE  NEW  VASSALS. / FIFTH  BOOK  OF  THE  ROYAL
+    / COMMENTARIES  OF  TIIE  YNCAS. / FIFTH  BOOK  OF  THE  BOYAL; lines 1914-1929
+  start: '1914'
+  end: '1929'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage says that Indians who have become Christians still remember
+    the Ync a kings, invoking them by name with tears and groans during work. It praises
+    the Ynca kings as exceptionally kind, careful, liberal, and bountiful toward their
+    vassals, and presents the recorded laws and customs of Peru as reasonable and
+    useful for gentler Christian conversion.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says that Christianized Indians still cannot forget the former
+    rulers.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: During work, the Indians call upon the former rulers by name with tears and
+    loud groans.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage characterizes the Kings Yncas as kind, careful for their vassals'
+    welfare, diligent, liberal, and bountiful.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage compares the Kings Yncas with ancient kings in Asia, Africa, and
+    Europe, saying no such kings are read of as equally careful and bountiful toward
+    vassals.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says that historical facts about ancient Peruvian laws, rights,
+    customs, ordinances, and manner of life should be known to aid gentler Christian
+    conversion.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Indians of Peru
+  description: People described as having become Christians while still remembering
+    and invoking the former rulers.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Kings Yncas
+  description: Former rulers praised as exceptionally kind, diligent, liberal, and
+    bountiful toward their vassals.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: ancient kings in Asia, Africa, or Europe
+  description: External royal figures invoked as a comparison group for the claimed
+    benevolence of the Ynca kings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: reader
+  description: The implied reader who may understand ancient Peruvian laws, customs,
+    and manner of life from the recorded historical facts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Christianized remembered subjects
+  assigned_to:
+  - fig:1
+  basis: They are described as Christians who still cannot forget the former rulers.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: vassals with remembered obligations or attachment
+  assigned_to:
+  - fig:1
+  basis: The passage discusses the welfare of the rulers' vassals and the Indians'
+    continuing invocation of the kings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: benevolent royal rulers
+  assigned_to:
+  - fig:2
+  basis: They are described as unusually kind, careful, diligent, liberal, and bountiful
+    toward vassals.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: comparative royal group
+  assigned_to:
+  - fig:3
+  basis: They are named as a cross-regional comparison for the Ynca kings' treatment
+    of vassals.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: recipient of historical instruction
+  assigned_to:
+  - fig:4
+  basis: The passage says the reader may understand ancient laws, rights, customs,
+    ordinances, and manner of life from the recorded facts.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: tears and loud groans
+  literal_form: The Indians call upon the rulers by name during work with tears and
+    loud groans.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: names of former rulers
+  literal_form: The Indians call upon the Kings Yncas by their names.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Work-time invocation of former rulers
+  summary: Christianized Indians are described as remembering the former rulers and
+    calling upon them by name during work with tears and groans.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Praise and comparison of royal care
+  summary: The narrator praises the Kings Yncas as unusually benevolent toward vassals
+    and contrasts them with ancient kings from Asia, Africa, and Europe.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Historical customs as aid to conversion
+  summary: The narrator says that recorded facts about Peruvian laws and customs should
+    be known so that conversion to Christianity may occur with greater ease and gentleness.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: benevolent kingship remembered by subjects
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage grounds the positive memory of the Kings Yncas in their exceptional
+    care, liberality, and bounty toward vassals, and shows subjects still invoking
+    them by name.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt praises royal conduct but does not narrate a formal coronation,
+    descent claim, divine sanction, or dynastic myth.
+- id: motif:2
+  label: customary wisdom used for gentle conversion
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents knowledge of ancient laws, rights, customs, ordinances,
+    and manner of life as useful for easing Christian conversion.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage frames this as historical and missionary instruction rather
+    than as a mythic wisdom episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly contrasts the Kings Yncas' care for vassals with that
+    of ancient kings in Asia, Africa, and Europe, claiming the Yncas were unmatched
+    in kindness, diligence, liberality, and bounty.
+  claim_level: same_function
+  target: ancient kings in Asia, Africa, or Europe as a comparative royal category
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The excerpt provides no named kings, source citations, or specific
+    examples from Asia, Africa, or Europe; the comparison is the narrator's generalizing
+    claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1914-1918
+  quote_or_summary: Christianized Indians are said to be unable to forget the rulers
+    and to call upon them by name during work with tears and loud groans.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1918-1923
+  quote_or_summary: The Kings Yncas are described as more kind, careful of vassals'
+    welfare, diligent, liberal, and bountiful than ancient kings read of in Asia,
+    Africa, or Europe.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1923-1929
+  quote_or_summary: The recorded historical facts are said to show ancient Peruvian
+    laws, rights, customs, ordinances, and manner of life, whose reasonableness should
+    be known to support easier and gentler Christian conversion.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is expository praise rather than a narrative myth episode; motif
+    labels are therefore broad and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata; no external taxonomy IDs beyond the provided available references were added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l1914-l1929
+  passage_sha256=8a4c3f1a808ccdb59775802761e0667ff33ee6571b0e1d893b2dbcf092cca34c
+

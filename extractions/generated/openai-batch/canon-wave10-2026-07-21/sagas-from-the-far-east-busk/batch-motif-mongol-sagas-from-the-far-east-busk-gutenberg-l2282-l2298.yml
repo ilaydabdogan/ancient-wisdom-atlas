@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.mongol-sagas-from-the-far-east-busk-gutenberg-l2282-l2298
+source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+passage_locator:
+  label: HOW THE SCHIMNU-KHAN WAS SLAIN. / TALE IV. / THE PIG'S HEAD SOOTHSAYER. /
+    TALE V.; lines 2282-2298
+  start: '2282'
+  end: '2298'
+  translation: Sagas from the Far East
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: At the start of Tale V, the Well-and-wise-walking Khan realizes he has
+    again failed to reach the end and object of his journey. He returns to the cool
+    grove, summons the Siddhî-kür, threatens the mango-tree, and carries the Siddhî-kür
+    bound in a many-coloured bag. The Siddhî-kür asks for a tale to ease the journey;
+    when the Khan stays silent, the Siddhî-kür asks for a token permitting him to
+    tell one. The Khan nods, and the Siddhî-kür begins the tale.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Well-and-wise-walking Khan finds that he has again missed the end and
+    object of his journey.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Khan returns without hesitation to the cool grove and summons the Siddhî-kür
+    to come with him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Khan threatens to hew down the mango-tree.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Khan carries the Siddhî-kür along bound in a bag of many colours, described
+    as having room to stow away a hundred.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Siddhî-kür asks the Khan to tell a tale to beguile the weariness of the
+    way.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Khan answers nothing when asked to tell a tale.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Siddhî-kür asks for a token showing that the Khan wants him to tell a
+    tale.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Khan nods his head backwards, and the Siddhî-kür begins to tell a tale.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Well-and-wise-walking Khan
+  description: A Khan who has again failed to reach his journey's end and object,
+    returns to the grove, summons the Siddhî-kür, carries him bound, remains silent,
+    and gives a token by nodding.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Siddhî-kür
+  description: A figure summoned by the Khan, carried bound in a many-coloured bag,
+    who asks for storytelling and then begins a tale after receiving a token.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: returning journeyer
+  assigned_to:
+  - fig:1
+  basis: The Khan has again missed the end and object of his journey and once more
+    goes to the cool grove.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: summoner and coercer
+  assigned_to:
+  - fig:1
+  basis: The Khan summons the Siddhî-kür and threatens to hew down the mango-tree.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: silent recipient of request
+  assigned_to:
+  - fig:1
+  basis: The Khan gives no verbal answer to the request for a tale, but later nods
+    as a token.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: bound captive
+  assigned_to:
+  - fig:2
+  basis: The Siddhî-kür is borne along bound in the Khan's bag.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: journey storyteller
+  assigned_to:
+  - fig:2
+  basis: The Siddhî-kür asks for permission to tell a tale and then begins one after
+    the Khan nods.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: cool grove
+  literal_form: A cool grove to which the Khan returns.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mango-tree
+  literal_form: A mango-tree that the Khan threatens to hew down.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bag of many colours
+  literal_form: A many-coloured bag with room to stow away a hundred, used to carry
+    the bound Siddhî-kür.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: backward nod as token
+  literal_form: The Khan nods his head backwards as a token authorizing the Siddhî-kür
+    to tell a tale.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Return to the grove after failed journey
+  summary: The Khan realizes he has again failed to reach his journey's aim and immediately
+    returns to the cool grove, summoning the Siddhî-kür and threatening the mango-tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Bound transport and request for a tale
+  summary: The Khan carries the Siddhî-kür bound in a many-coloured bag. The Siddhî-kür
+    asks the Khan to tell a tale to ease the journey.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Silent token and beginning of tale
+  summary: After the Khan stays silent, the Siddhî-kür asks for a token authorizing
+    him to tell a tale. The Khan nods backwards, and the Siddhî-kür begins.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Repeated return after failed quest objective
+  taxonomy_refs:
+  - return
+  - mystical_quest
+  basis: The Khan has again missed the end and object of his journey and once more
+    returns to the grove.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states the repeated failure and return, but does not explain
+    the larger quest objective.
+- id: motif:2
+  label: Captive carried in a bag
+  taxonomy_refs: []
+  basis: The Siddhî-kür is carried along bound in a many-coloured bag.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the available motif
+    families do not directly name this pattern.
+- id: motif:3
+  label: Tale told to ease the journey
+  taxonomy_refs: []
+  basis: The Siddhî-kür asks for a tale to beguile the weariness of the way and begins
+    one after receiving the Khan's token.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a frame-story pattern in the passage; no external comparison is
+    made.
+- id: motif:4
+  label: Threat against a tree used in summoning
+  taxonomy_refs: []
+  basis: The Khan summons the Siddhî-kür while threatening to hew down the mango-tree.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not state why the tree is effective or whether it has
+    sacred status.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2282-2287
+  quote_or_summary: The Khan finds he has again missed the end and object of his journey
+    and immediately returns to the cool grove, summoning the Siddhî-kür.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 2286-2288
+  quote_or_summary: The Khan threatens to hew down the mango-tree.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 2289-2291
+  quote_or_summary: The Khan bears the Siddhî-kür along bound in a many-coloured bag
+    described as large enough to stow away a hundred.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 2291-2292
+  quote_or_summary: '"Tell thou now a tale to beguile the weariness of the way."'
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; brief quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2292-2296
+  quote_or_summary: The Khan gives no answer; the Siddhî-kür asks instead for a token
+    showing that the Khan wants him to tell a tale.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 2297-2298
+  quote_or_summary: The Khan nods his head backwards, and the Siddhî-kür begins to
+    tell the tale.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summary prepared for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal frame action is clear. Motif-family assignment is limited because
+    the passage gives only the frame episode and not the larger quest context. No
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. No external identifications or cross-tradition comparisons added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mongol-sagas-from-the-far-east-busk-gutenberg__l2282-l2298
+  passage_sha256=337a7ca893c3aa390250abfcf72de18df4a206740df2264be746713d10fb58de
+

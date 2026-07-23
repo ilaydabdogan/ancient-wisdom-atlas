@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l19891-l19914
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  IX. / COMMENTARIES  OF  THE  YNCAS. / CHAPTER  X. / WHAT  HUAYNA  CCAPAC  SAID  TOUCHING  THE  SUN.;
+    lines 19891-19914
+  start: '19891'
+  end: '19914'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: he looked upon the sun with more freedom than is usual
+  summary: Huayna Ccapac returns toward Cuzco after withdrawing his army from Passau.
+    At Cuzco during the Raymi feast of the sun, he gazes at the sun in a way described
+    as prohibited and disrespectful. The High Priest, identified as one of his uncles,
+    rebukes him for the unlawful act.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Huayna Ccapac orders his army withdrawn from Passau, which is described as
+    a boundary of the empire in that direction.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After taking leave of his troops, Huayna Ccapac returns toward Cuzco while
+    visiting provinces, conferring benefits, and administering justice.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Huayna Ccapac arrives at Cuzco in time to celebrate Raymi, described as the
+    principal feast of the sun.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Raymi festival is said to last nine days.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: On one day of the festival, Huayna Ccapac looks at the sun more freely than
+    usual and continues gazing for some time.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says this manner of looking at the sun was prohibited because
+    it appeared disrespectful.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The High Priest is identified as one of Huayna Ccapac's uncles and stands
+    by his side.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The High Priest asks Huayna Ccapac what he is doing and reminds him that the
+    act is unlawful.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Huayna Ccapac
+  description: The Ynca who withdraws his army from Passau, returns toward Cuzco,
+    participates in Raymi, and gazes at the sun.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: High Priest
+  description: A High Priest, identified as one of Huayna Ccapac's uncles, who stands
+    beside him and rebukes him for gazing at the sun unlawfully.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Ynca ruler
+  assigned_to:
+  - fig:1
+  basis: The passage calls Huayna Ccapac the Ynca and describes him commanding an
+    army and administering justice while traveling through provinces.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: High Priest and royal uncle
+  assigned_to:
+  - fig:2
+  basis: The passage calls the figure the High Priest, says he was one of Huayna Ccapac's
+    uncles, and shows him correcting the ruler's unlawful ritual behavior.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Sun
+  literal_form: The sun, named as the focus of the principal feast called Raymi and
+    the object of Huayna Ccapac's gaze.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Prohibited sun-gaze
+  literal_form: Turning the eyes upon the sun and continuing to gaze at it despite
+    a stated prohibition.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Withdrawal from Passau and return toward Cuzco
+  summary: Huayna Ccapac withdraws the army from Passau, leaves the troops, and travels
+    toward Cuzco while visiting provinces and administering justice.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Raymi festival and gaze at the sun
+  summary: At Cuzco, during the nine-day Raymi feast of the sun, Huayna Ccapac looks
+    at the sun in a way described as freer than usual and prohibited.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: High Priest's rebuke
+  summary: The High Priest, Huayna Ccapac's uncle, stands beside him and says that
+    his act is unlawful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Royal participation in the sun feast
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Ynca arrives at Cuzco in time to celebrate Raymi, the principal feast
+    of the sun.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: 'The taxonomy link is tentative: the passage shows royal participation
+    in a major solar festival but does not explicitly state a doctrine of legitimation.'
+- id: motif:2
+  label: Forbidden gaze at a sacred celestial body
+  taxonomy_refs: []
+  basis: Huayna Ccapac gazes at the sun in a way the passage describes as prohibited
+    and disrespectful.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not include a punishment, omen, or divine response after
+    the prohibited gaze.
+- id: motif:3
+  label: Priestly correction of a ruler's ritual transgression
+  taxonomy_refs: []
+  basis: The High Priest stands beside the Ynca and admonishes him that his action
+    is unlawful.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage records the rebuke but does not state the broader institutional
+    consequences.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19895-19901
+  quote_or_summary: Huayna Ccapac withdraws the army from Passau, leaves the troops,
+    and returns toward Cuzco while visiting provinces, conferring benefits, and administering
+    justice.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 19901-19906
+  quote_or_summary: At Cuzco, Huayna Ccapac arrives in time to celebrate Raymi, described
+    as the principal feast of the sun lasting nine days.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: quote
+  locator: lines 19906-19911
+  quote_or_summary: "“he looked upon the sun with more freedom than is usual” and
+    the act is described as “prohibited” and “disrespectful.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: lines 19911-19914
+  quote_or_summary: 'The High Priest, “one of his uncles,” asks: “What do you do,
+    O Ynca!” and says the act is unlawful.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are cautious because the passage is brief and gives limited interpretive framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not provide an explicit cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l19891-l19914
+  passage_sha256=7d637c4045319d2f2cf3ce2b8b581be83de3dde73b11c6476d04492c98dae97d
+

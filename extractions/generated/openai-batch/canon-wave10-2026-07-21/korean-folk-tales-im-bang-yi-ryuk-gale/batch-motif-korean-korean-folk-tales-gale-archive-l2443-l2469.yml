@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.korean-korean-folk-tales-gale-archive-l2443-l2469
+source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+passage_locator:
+  label: THE  MAN  WHO  BECAME  A  PIG  77 / THE  OLD  WOMAN  GOBLIN  79 / XVIII /
+    THE  GRATEFUL  GHOST; lines 2443-2469
+  start: '2443'
+  end: '2469'
+  translation: Korean Folk Tales - Imps, Ghosts and Fairies
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A Koryo-period scholar traveling to an examination hears unexplained sneezing
+    near roadside creepers in the mountains. His servant digs near the roots and finds
+    a dead man's skull, whose nostrils are obstructed by roots. The narration explains
+    the sneezing as the annoyed spirit's reaction. The candidate washes, wraps, and
+    reburies the skull.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The tale section is titled "The Grateful Ghost."
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The setting is the Koryo Dynasty during a time when an examination was to
+    be held, and a scholar travels from a far-distant part of the country to take
+    part.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At the close of day, the scholar is among mountains and hears sneezing from
+    roadside creepers and bushes while seeing no one.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The scholar dismounts, enters the brake, listens, and orders his servant to
+    dig near the creeper roots from which the sound seems to come.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The servant digs and finds a dead man's skull filled with earth, with creeper
+    roots passing through the nostrils.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The narration states that the sneezing is caused by the spirit's annoyance
+    at the obstruction of the nose.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The candidate feels sorry, washes the skull in clean water, wraps it in paper,
+    and reburies it in its former hillside place.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: scholar / candidate
+  description: A scholar traveling from a distant part of the country to take an examination;
+    later called the candidate who cares for the skull.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: servant
+  description: The scholar's servant, ordered to dig near the creeper roots; he digs
+    and finds the skull.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: dead man / spirit
+  description: A dead man represented by a skull; the spirit is annoyed because roots
+    have passed through the nostrils.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: travelling examination candidate
+  assigned_to:
+  - fig:1
+  basis: The figure is described as a scholar traveling to take part in an examination
+    and later as the candidate.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: digging servant
+  assigned_to:
+  - fig:2
+  basis: The servant is ordered to dig and finds the skull.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: disturbed spirit associated with remains
+  assigned_to:
+  - fig:3
+  basis: The skull belongs to a dead man, and the sneezing is explained as the spirit's
+    annoyance at the obstructed nose.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: caretaker of disturbed remains
+  assigned_to:
+  - fig:1
+  basis: The candidate washes, wraps, and reburies the skull after feeling sorry.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: mountains
+  literal_form: mountains where the scholar finds himself at the close of day
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: roadside creepers and bushes
+  literal_form: creepers, bushes, and creeper roots by the roadside
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: dead man's skull
+  literal_form: a skull full of earth, with creeper roots through the nostrils
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: clean water
+  literal_form: clean water used to wash the skull
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: paper wrapping
+  literal_form: paper in which the skull is wrapped before reburial
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Journey and unseen sneezing in the mountains
+  summary: A scholar traveling to an examination reaches the mountains near evening
+    and hears sneezing from roadside vegetation, though no one is visible.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Discovery of the obstructed skull
+  summary: The scholar investigates the sound, orders his servant to dig by the creeper
+    roots, and the servant finds a dead man's skull whose nostrils are penetrated
+    by roots; the spirit's annoyance explains the sneezing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Washing, wrapping, and reburial
+  summary: The candidate responds with pity by washing the skull in clean water, wrapping
+    it in paper, and reburying it on the hillside.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: unseen ghost signaled by bodily sound
+  taxonomy_refs: []
+  basis: An unseen sneeze is heard from vegetation, then traced to a skull; the narration
+    attributes the sound to the annoyed spirit.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The extracted passage gives only the initial manifestation and explanation.
+- id: motif:2
+  label: aid to disturbed remains of the dead
+  taxonomy_refs: []
+  basis: The candidate responds to the disturbed skull by washing it, wrapping it,
+    and reburying it.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No later consequence of the reburial is included in this line range.
+- id: motif:3
+  label: grateful ghost setup
+  taxonomy_refs: []
+  basis: The section title names a grateful ghost, and the visible passage shows a
+    living candidate helping a disturbed dead person's remains.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: low
+  cautions: The excerpt does not yet show gratitude, reward, or reciprocal action
+    by the ghost.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 2443-2445
+  quote_or_summary: Section XVIII is titled "THE GRATEFUL GHOST."
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; short title citation.
+- id: ev:2
+  type: summary
+  locator: lines 2447-2452
+  quote_or_summary: In the Koryo Dynasty, when an examination is to be held, a scholar
+    travels from a distant region to participate; near evening he is among the mountains.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: quote
+  locator: lines 2452-2454
+  quote_or_summary: The scholar "heard a sneezing from among the creepers and bushes
+    by the roadside, but could see no one."
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 2455-2459
+  quote_or_summary: The scholar dismounts, enters the brake, listens again, identifies
+    the sound as seeming to come from creeper roots, and orders his servant to dig
+    there.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 2459-2462
+  quote_or_summary: The servant finds a dead man's skull filled with earth; creeper
+    roots pass through its nostrils, and the sneezing is explained as the spirit's
+    annoyance at the discomfort.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: lines 2464-2469
+  quote_or_summary: The candidate feels sorry, washes the skull in clean water, wraps
+    it in paper, and reburies it in its former place on the hillside.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the visible passage. Motif confidence
+    is limited because the line range ends mid-sentence and does not include the ghost's
+    later gratitude or any reward.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were made because the excerpt itself does not provide enough evidence for historical, linguistic, or cross-tradition comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-folk-tales-gale-archive__l2443-l2469
+  passage_sha256=4cea8db0741690f0ba106b62253b9a8bac10c84c2325fd511c89b021be57cef8
+

@@ -1,0 +1,436 @@
+---
+record_id: batch.motif.korean-korean-tales-allen-archive-l1408-l1471
+source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+passage_locator:
+  label: THE  ENCHANTED  WINE-JUG . 43 / THE  ENCHANTED  WINE-JUG.  45 / THE  ENCHANTED  WINE-JUG.  47
+    / THE  ENCHANTED  WINE-JUG.; lines 1408-1471
+  start: '1408'
+  end: '1471'
+  translation: Korean Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A cat and dog try to recover a gem from a box by arranging for rats to
+    gnaw a hole. The dog gives plans, the cat negotiates with the rat, and a contract
+    protects the rat. After months, the hole is made but too small; the cat cannot
+    reach the gem, and a mouse is sent in, though the mouse and gem cannot pass back
+    through the opening.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The dog proposes that rats gnaw through the box so the gem can be obtained.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cat accepts the dog’s judgment and goes to seek an interview with the
+    master rat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The dog imitates the gait of a yang ban or official, then gets into a fight
+    with curs; the cat climbs a wall and howls until people disperse the fight.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The rat accepts the proposal after being assured of safety, and a contract
+    is made for relays to work until the box is perforated.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Because the ice has broken up, the cat and dog remain in the neighborhood
+    for months, living scantily and making both friends and enemies.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The cat nearly attacks a fat rat but remembers the compact in time; the rat
+    is the other party to the contract.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The rat reports that the hole is complete but too small at the inside end;
+    the cat can put in his paw but cannot reach the gem.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The dog suggests putting a mouse into the box to bring out the gem, but the
+    mouse and its load cannot fit out through the hole.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Dog
+  description: A companion of the cat who devises plans, imitates a yang ban, fights
+    curs, and later suggests using a mouse to retrieve the gem.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: Cat / “Thomas”
+  description: A companion of the dog who seeks the rat, howls from a wall during
+    the dog’s fight, nearly attacks the contracting rat, and tries to reach the gem
+    with his paw.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Master rat / contracting rat
+  description: A rat who accepts the proposal after assurance of safety, enters a
+    contract, and later reports that the hole in the box is complete.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Rat relays
+  description: Rats arranged to work in relays to gnaw through the box.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Mouse
+  description: A small animal put into the box to bring out the gem, but unable to
+    exit with the load through the small hole.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Curs
+  description: Dogs who fight with the dog after intruding on his period of self-congratulation.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Inmates of the house
+  description: People awakened by the uproar who come out and disperse the contestants.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Yang ban / official
+  description: A high-status official whose haughty gait is imitated by the dog.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Strategic counselor
+  assigned_to:
+  - fig:1
+  basis: The dog’s judgment is praised, and he gives practical plans for using rats
+    and later a mouse to obtain the gem.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: Intermediary envoy
+  assigned_to:
+  - fig:2
+  basis: The cat goes to obtain an interview with the master rat and later communicates
+    the rat’s news to the dog.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: Contracted breacher of the box
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The rat accepts the proposal, a contract is made, and relays are to work
+    until the box is perforated.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Predator restrained by compact
+  assigned_to:
+  - fig:2
+  basis: The cat nearly attacks the rat but remembers the contract, avoiding a mistake
+    that would defeat their object.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Small retrieval helper
+  assigned_to:
+  - fig:5
+  basis: The mouse is put into the box to bring out the gem.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: Fight opponents
+  assigned_to:
+  - fig:6
+  basis: The curs fight with the dog after intruding upon him.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: Dispersers of conflict
+  assigned_to:
+  - fig:7
+  basis: The house inmates awaken and disperse the contestants.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: Imitated social superior
+  assigned_to:
+  - fig:8
+  basis: The dog imitates the haughty gait of the yang ban or official.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Gem
+  literal_form: The gem inside the box that the animals seek to obtain.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: Perforated box
+  literal_form: A box that must be gnawed through before the gem can be reached.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: Contract or compact
+  literal_form: The agreement securing the rat’s safety and labor in the gem-recovery
+    plan.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: Official gait
+  literal_form: The dog’s wagging ears and tail and swinging stride in imitation of
+    a yang ban’s haughty walk.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Dog’s plan and cat’s mission
+  summary: The dog proposes that rats gnaw through the box to obtain the gem, and
+    the cat goes to seek the master rat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dog imitates official and fights
+  summary: The dog imitates the haughty walk of a yang ban, fights with curs, and
+    the cat’s howling brings house inmates who disperse the fight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Contract with the rat
+  summary: The rat accepts the proposal under assurance of safety, and work is organized
+    by relays until the box is perforated.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Months of waiting
+  summary: The cat and dog cannot easily return because the ice has broken up, so
+    they stay nearby for months and survive on a scant living.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Cat remembers the compact
+  summary: The cat nearly attacks the contracting rat but stops after remembering
+    the agreement.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Failed extraction through the small hole
+  summary: The hole is complete but too small for easy recovery; the cat cannot reach
+    the gem, and a mouse sent inside cannot exit with the gem.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Clever animal counsel for retrieving a hidden valuable object
+  taxonomy_refs:
+  - wisdom
+  basis: The dog devises the rat-gnawing plan and later the mouse-in-the-box plan
+    to obtain the gem.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is limited to practical clever judgment, not to
+    doctrinal or esoteric wisdom.
+- id: motif:2
+  label: Predator and prey bound by a compact
+  taxonomy_refs: []
+  basis: The cat, a natural predator, nearly attacks the rat but refrains because
+    of the contract that supports their shared goal.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage presents a practical contract; it does not support labeling
+    the exchange as sacred.
+- id: motif:3
+  label: Small helper sent into an inaccessible container
+  taxonomy_refs: []
+  basis: After the cat cannot reach the gem through the hole, a mouse is put into
+    the box to bring it out.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The attempt fails in this excerpt because the mouse and gem cannot pass
+    through the hole.
+- id: motif:4
+  label: Animal alliance to recover a gem
+  taxonomy_refs: []
+  basis: Dog, cat, rat, rat relays, and mouse cooperate or are enlisted in a plan
+    centered on obtaining the gem from the box.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The excerpt is mid-tale and does not provide the full origin or final
+    outcome of the gem-recovery effort.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1408-1417
+  quote_or_summary: The dog’s plan is to have rats gnaw a hole through the box so
+    the gem can be obtained; the cat acknowledges the dog’s judgment and goes to seek
+    the master rat.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1418-1429
+  quote_or_summary: The dog imitates the haughty gait of a yang ban or official, fights
+    with curs, and the cat howls from a wall until house inmates disperse the contestants.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1430-1442
+  quote_or_summary: The rat accepts the proposal after assurance of safety; a contract
+    provides that relays will work until the box is perforated and the cat summoned.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1443-1450
+  quote_or_summary: After the ice breaks up, the cat and dog cannot easily return
+    home and remain nearby for months, living scantily and making friends and enemies.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1451-1462
+  quote_or_summary: On a warm night the cat nearly attacks a large rat, but remembers
+    the contract in time; the rat is the other party to the contract.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 1463-1471
+  quote_or_summary: The rat says the hole is completed but too small at the inside
+    end; the cat cannot reach the gem, and the dog suggests sending a mouse into the
+    box, but the mouse and load cannot fit out.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear at the literal level but begins and ends mid-action,
+    so broader tale function and final outcome are not available here. No comparison
+    claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only supplied passage text and metadata; available taxonomy references were applied only where directly supported.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-tales-allen-archive__l1408-l1471
+  passage_sha256=90e330d31abd5c03236ab137dd84a9aa1b4e34c6293769a4b9a44f5ca9e48d7e
+

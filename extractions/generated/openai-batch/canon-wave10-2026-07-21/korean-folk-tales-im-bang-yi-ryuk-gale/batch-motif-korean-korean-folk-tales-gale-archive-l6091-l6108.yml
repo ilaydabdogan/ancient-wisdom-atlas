@@ -1,0 +1,217 @@
+---
+record_id: batch.motif.korean-korean-folk-tales-gale-archive-l6091-l6108
+source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+passage_locator:
+  label: XLIII / THE  PROPITIOUS  MAGPIE / THE  PROPITIOUS  MAGPIE  201 / THE  BUDDHA
+    '  203; lines 6091-6108
+  start: '6091'
+  end: '6108'
+  translation: Korean Folk Tales - Imps, Ghosts and Fairies
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A servant identifies a person called Choi the Buddha as Yun-tok, who is
+    traveling to his country home in Changwon. The listeners recognize him as the
+    Prime Minister, become afraid, dismantle their tent and food arrangements, and
+    hurry to make a deep salaam while asking pardon. A narrator note explains that
+    the old Buddha was a special name for this famous minister.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The servant says the man is called Choi the Buddha, that his real name is
+    Yun-tok, and that he is traveling to his country home in Changwon.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The listeners recognize the person as the Prime Minister and are overcome
+    by fear.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The group strikes their tent and clears away the eatables.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The group runs to make their deepest salaam and to ask pardon for their sin.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that the old Buddha was a special name by which the famous
+    minister was known.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the servant
+  description: A servant who identifies Choi the Buddha as Yun-tok and reports his
+    destination.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Choi the Buddha / Yun-tok / the Prime Minister
+  description: A famous minister known by the special name old Buddha; he is said
+    to be on his way to his country home in Changwon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: unidentified group
+  description: The people who recognize the Prime Minister, become afraid, dismantle
+    their tent and food, make a deep salaam, and ask pardon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: identifier
+  assigned_to:
+  - fig:1
+  basis: The servant states the man's name, real name, and destination.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recognized high official
+  assigned_to:
+  - fig:2
+  basis: He is recognized as the Prime Minister and described as a famous minister
+    known by a special name.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: pardon-seeking group
+  assigned_to:
+  - fig:3
+  basis: They make a deep salaam and ask pardon for their sin after recognizing the
+    Prime Minister.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: deep salaam
+  literal_form: deepest salaam
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Buddha epithet
+  literal_form: Choi the Buddha / old Buddha
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Servant reveals the name and destination
+  summary: The servant states that the person called Choi the Buddha is really named
+    Yun-tok and is traveling to Changwon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Recognition and request for pardon
+  summary: The group recognizes the man as the Prime Minister, becomes afraid, clears
+    away their tent and food, and makes a deep salaam while asking pardon.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Narrator explains the epithet
+  summary: The narration explains that old Buddha was a special name used for the
+    famous minister.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: revealed identity of a powerful person
+  taxonomy_refs: []
+  basis: A servant's identification causes the group to recognize the person as the
+    Prime Minister and react with fear.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage preserves the revelation and reaction, but not the earlier
+    circumstances that led to the offense.
+- id: motif:2
+  label: formal submission and plea for pardon after wrongdoing
+  taxonomy_refs: []
+  basis: After recognizing the Prime Minister, the group makes a deep salaam and asks
+    pardon for their sin.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The exact nature of the sin is not stated in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6091-6095
+  quote_or_summary: The servant says the person is called Choi the Buddha, is really
+    named Yun-tok, and is traveling to his country home in Changwon.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 6095-6101
+  quote_or_summary: The group recognizes the person as the Prime Minister, becomes
+    afraid, strikes the tent, clears away food, makes a deep salaam, and asks pardon
+    for their sin.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 6102-6105
+  quote_or_summary: The narration states that old Buddha was a special name by which
+    the famous minister was known.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive and not
+    tied to supplied taxonomy families. No external comparison claims are made from
+    this passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The line-range label appears to include surrounding title metadata; extraction is based only on the supplied passage text.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-folk-tales-gale-archive__l6091-l6108
+  passage_sha256=63efec09509208d4f58a0a1c6f6affa4d2951ff45c6e0f48adf846226c3fef3f
+

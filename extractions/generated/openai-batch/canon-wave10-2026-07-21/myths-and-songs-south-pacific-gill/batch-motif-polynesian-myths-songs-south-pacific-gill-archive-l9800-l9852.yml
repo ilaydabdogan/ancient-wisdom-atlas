@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l9800-l9852
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: TUMU.  INTRODUCTION. / PAPA. / FOUNDATION. / FIRST  OFFSHOOT.; lines 9800-9852
+  start: '9800'
+  end: '9852'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A solo and chorus describe a farewell to beloved parents, mourning for
+    a son, a fair wind toward spirit-land/Iva, and movement through ghost-associated
+    coastal places including Anakura and Double Cave before departure over the billows.
+  language: English with Mangaian names and terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A solo voice says farewell to beloved parents and calls for a mourning procession
+    to follow.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage asks listeners to weep for a son described as tenderly natured.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A fair wind is said to bear the speaker to spirit-land, glossed as Iva.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A favouring breeze sweeps the entrance of the ghost-cave Anakura.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The chorus tells listeners to hear the hum of ghosts or spirits.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: Spirits are described as passing over rocks and crowding along the beach by
+    Double Cave.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A male figure is said to be about to depart and to skim lightly over the crest
+    of the billows.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: departing son or speaker
+  description: The voice farewells his parents, is mourned as a son, and is later
+    described as about to depart and skimming over the billows.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: beloved parents
+  description: Parents directly addressed in the farewell.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: ghosts or spirits
+  description: Ghosts or spirits whose hum is heard, passing over rocks and crowding
+    along the beach by Double Cave.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: departing son
+  assigned_to:
+  - fig:1
+  basis: The passage calls for mourning for a son and later says he is about to depart.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: parents addressed in farewell
+  assigned_to:
+  - fig:2
+  basis: The solo voice begins by bidding farewell to beloved parents.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ghostly crowd near coastal caves
+  assigned_to:
+  - fig:3
+  basis: The passage names ghosts or spirits at Anakura and by Double Cave.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: spirit-land Iva
+  literal_form: spirit-land, literally Iva
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fair or favouring wind
+  literal_form: fair wind or favouring breeze
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: ghost-cave Anakura
+  literal_form: entrance of the ghost-cave Anakura
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: rocks and beach
+  literal_form: rocks and beach along the shore
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Double Cave
+  literal_form: Double Cave by the beach
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: billows
+  literal_form: crest of the billows
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Farewell and mourning before departure
+  summary: The speaker bids farewell to beloved parents, asks for mourning, and speaks
+    of a fair wind carrying him to spirit-land/Iva.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ghost-cave Anakura
+  summary: A favouring breeze moves at the entrance of the ghost-cave Anakura, and
+    the hum of ghosts is heard.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Spirits by Double Cave and departure over the billows
+  summary: Spirits pass over rocks and crowd along the beach by Double Cave while
+    the departing figure skims over the billows.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Departure to spirit-land
+  taxonomy_refs:
+  - afterlife_journey_map
+  - departure
+  basis: The speaker farewells parents, is mourned as a son, and is borne by a fair
+    wind toward spirit-land/Iva before departing over the billows.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The excerpt gives named places and motion toward spirit-land but does
+    not provide a full afterlife itinerary.
+- id: motif:2
+  label: Ghost-cave threshold and spirit crowd
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage locates ghosts or spirits at the entrance of Anakura and along
+    the beach by Double Cave.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: A threshold function is suggested by the cave entrance and spirit setting,
+    but the passage does not explicitly state a ritual or cosmological interpretation.
+- id: motif:3
+  label: Mourning farewell to parents
+  taxonomy_refs:
+  - departure
+  basis: The solo voice bids farewell to beloved parents and calls for a mourning
+    procession before the journey to spirit-land.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage frames this as a song stanza; the broader narrative context
+    is not included in the supplied excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared cautiously with an afterlife-journey or departure
+    pattern because it describes farewell, mourning, named ghostly places, and movement
+    toward spirit-land.
+  claim_level: same_motif
+  target: afterlife_journey_map and departure motif families
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal motif-family comparison only; the supplied passage
+    does not support claims of historical contact, common inheritance, or specific
+    external parallels.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9800-9852, FOUNDATION stanza
+  quote_or_summary: The solo voice farewells beloved parents, asks that a mourning
+    procession follow, calls for weeping over a tender son, and says a fair wind will
+    bear him to spirit-land/Iva.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 9800-9852, FIRST OFFSHOOT opening
+  quote_or_summary: A favouring breeze sweeps the entrance of the ghost-cave Anakura,
+    and the chorus calls attention to the hum of ghosts.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 9800-9852, FIRST OFFSHOOT continuation
+  quote_or_summary: The hum is identified with spirits passing over rocks and crowding
+    along the beach by Double Cave; the passage says he is about to depart.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 9800-9852, FIRST OFFSHOOT closing chorus
+  quote_or_summary: The chorus describes him as lightly skimming over the crest of
+    the billows.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied excerpt. Motif labels are cautious
+    because the passage is a brief song segment with limited surrounding narrative
+    context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparisons or unsupported taxonomy identifiers were added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l9800-l9852
+  passage_sha256=18fb0e5cd6a591824b9b7f24b5b817ed1272fdb41728083776f07c570f207d0b
+

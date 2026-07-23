@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l1427-l1471
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / FIFTH  BOOK  OF  THE  BOYAL / CHAPTER  IX.
+    / COMMENTARIES  OP  THE  YNCAS.; lines 1427-1471
+  start: '1427'
+  end: '1471'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Peruvian/Inca household production, supervision of
+    work, storage of surplus wool and necessities, support of religious and royal
+    houses, universal training in practical arts, and the distinction between ordinary
+    household skills and specialist occupations serving nonordinary needs or lords.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Household cloth production was checked by visits, and idle persons were punished.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Surplus wool was placed in storehouses, which are described as full of wool
+    and other necessities for human life when the Spaniards arrived.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator praises the government as noble and provident and says the Indians
+    provided necessities and sustained houses of religion and those of the King and
+    Lord.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Boys were taught arts considered necessary for sustaining human life, and
+    ordinary needs were not handled by separate tradesmen in the manner described
+    for Europeans.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Men knew how to weave, make clothes, till and manure land, and build houses;
+    wool given by the Ynca is described as equivalent to giving clothes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Women also knew the practical arts, practiced them diligently, and helped
+    their husbands.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Special occupations for nonordinary needs included silversmiths, painters,
+    potters, boatmen, accountants, and musicians.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Masters for special work in weaving, tilling, and building served the Lords,
+    while common people could meet household needs without paying another person.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Indians of Peru / common people
+  description: People described as learning practical arts, producing ordinary household
+    necessities, and sustaining human life through household labor.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Ynca / King and Lord
+  description: Royal figure associated with giving wool and with houses sustained
+    by the provisioning system.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Women
+  description: Women are described as knowing the same practical arts, practicing
+    them diligently, and helping their husbands.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Special artisans and masters
+  description: Specialized workers include silversmiths, painters, potters, boatmen,
+    accountants, musicians, and masters for special work serving the Lords.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Spaniards
+  description: The Spaniards are mentioned as arriving when storehouses were full
+    of wool and necessities.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: royal provider and beneficiary of sustained houses
+  assigned_to:
+  - fig:2
+  basis: The Ynca gives wool, and the passage says houses of the King and Lord were
+    sustained.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: household producers and learners of necessary arts
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Boys, men, and women are described as learning or practicing the arts needed
+    for ordinary household life.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: specialist workers for nonordinary or elite service
+  assigned_to:
+  - fig:4
+  basis: The passage lists special artisans and says masters for special work served
+    the Lords.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: arriving outsiders used as temporal reference
+  assigned_to:
+  - fig:5
+  basis: The Spaniards are mentioned only in relation to the time when the full storehouses
+    were observed.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: wool
+  literal_form: Surplus wool stored in storehouses and wool given by the Ynca, described
+    as equivalent to clothes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: storehouses
+  literal_form: Storehouses full of wool and other things necessary for human life.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: cloth and clothes
+  literal_form: Cloth made for wife and children and clothes that men could make for
+    themselves from wool.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Supervised production and surplus storage
+  summary: Household cloth production is inspected, idleness is punished, and surplus
+    wool is stored with other necessities.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Universal instruction in household arts
+  summary: Boys, men, and women are described as learning or practicing ordinary skills
+    needed for household subsistence, including weaving, farming, and building.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: scene:3
+  label: Specialist occupations and elite service
+  summary: Specialized crafts and offices are distinguished from ordinary household
+    work, and masters for special labor are said to serve the Lords.
+  figure_refs:
+  - fig:4
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Provident royal provisioning and storage
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage praises a provident government, describes storehouses full of
+    necessities, and presents the Ynca as giving wool that effectively supplies clothing.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is a chronicle passage about social administration rather than a
+    mythic episode; the royal_legitimacy taxonomy is supported only in the broad sense
+    of praised royal provisioning.
+- id: motif:2
+  label: Household self-sufficiency through universal practical arts
+  taxonomy_refs: []
+  basis: The passage says boys were taught necessary arts, men and women knew practical
+    skills, and common people could meet household needs without paying another person.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a social pattern, not a supernatural or narrative myth motif.
+- id: motif:3
+  label: Supervised labor and punishment of idleness
+  taxonomy_refs: []
+  basis: The passage states that visits checked whether cloth production was done
+    and that idle persons were punished.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The provided excerpt begins mid-context, so the full administrative setting
+    is only partially visible.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1427-1430
+  quote_or_summary: Cloth production for the household is checked by visits, and the
+    idle are punished.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1430-1438
+  quote_or_summary: Surplus wool is stored; storehouses are described as full of wool
+    and necessities when Spaniards arrived; the government is praised for providing
+    necessities and sustaining religious and royal houses.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1442-1450
+  quote_or_summary: The Indians of Peru are said to teach each boy necessary arts,
+    with no separate ordinary tradesmen such as tailors, shoemakers, or weavers.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1450-1458
+  quote_or_summary: Men know weaving, making clothes, farming, manuring, and building;
+    wool from the Ynca is compared to receiving clothes; women also know and practice
+    these arts.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1458-1466
+  quote_or_summary: Special occupations include silversmiths, painters, potters, boatmen,
+    accountants, and musicians; masters for special work in ordinary labors serve
+    the Lords.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1466-1471
+  quote_or_summary: Common people are said to be able to do all necessary household
+    work without paying another person.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward, but motif identification is limited
+    because the passage is administrative and ethnographic rather than mythic. No
+    comparison claims were made because the passage itself does not support a specific
+    comparative linkage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were kept minimal; symbols are treated as salient literal objects rather than asserted mythic symbols.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l1427-l1471
+  passage_sha256=2cafbacc59a272915fb7a21a94b08d3d6b2a2bfc4e289003f88c090d523d0078
+

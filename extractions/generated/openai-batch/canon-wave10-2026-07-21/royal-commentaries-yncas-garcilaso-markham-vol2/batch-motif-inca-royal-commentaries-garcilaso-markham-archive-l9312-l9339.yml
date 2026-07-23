@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l9312-l9339
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / SIXTH  BOOK  OP  THE  ROYAL / COMMENTARIES  OP  THE  YNCAS.
+    / CHAPTER  XXX VI.; lines 9312-9339
+  start: '9312'
+  end: '9339'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes YNCA Pachacutec, acting with his council, making
+    and confirming laws for the good of the people, public peace, sovereignty, temple
+    ceremonies, family obedience and marriage consent, inheritance to lordships, and
+    judicial integrity.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: YNCA Pachacutec made many laws, rules, ordinances, and customs with the advice
+    of his council.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stated aims of the laws included the good of the people in numerous provinces,
+    public peace, and the king's sovereignty.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Pachacutec abolished customs or rules described as detrimental to public peace
+    or sovereignty.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The statutes named offenses including blasphemy, patricide, fratricide, homicide,
+    treason, adultery, child-stealing, seduction, theft, and arson.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says Pachacutec regulated ceremonies of the temple.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Pachacutec confirmed laws enacted by earlier Yncas, including rules on sons
+    serving fathers, marriage consent, legitimacy of children, inheritance to lordships,
+    and prohibiting judges from accepting bribes.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: YNCA Pachacutec
+  description: The king who, with advice from his council, made, abolished, enacted,
+    and confirmed laws.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Council
+  description: Advisers with whose advice the king made laws, rules, ordinances, and
+    customs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Yncas his ancestors
+  description: Earlier Yncas whose laws Pachacutec confirmed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Judges
+  description: Officials forbidden from receiving bribes from litigants.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Litigants
+  description: Persons from whom judges were forbidden to receive bribes.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: king and lawgiver
+  assigned_to:
+  - fig:1
+  basis: The passage says this king made, abolished, enacted, and confirmed laws.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: guardian of sovereignty and public order
+  assigned_to:
+  - fig:1
+  basis: The passage says he abolished things detrimental to public peace or sovereignty
+    and enacted statutes against named offenses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: royal advisers
+  assigned_to:
+  - fig:2
+  basis: The king made laws with the advice of his council.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: ancestral legislators
+  assigned_to:
+  - fig:3
+  basis: The passage says earlier Yncas had enacted laws that Pachacutec confirmed.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: judicial officials
+  assigned_to:
+  - fig:4
+  basis: Judges are mentioned in the rule forbidding acceptance of bribes.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: participants in legal disputes
+  assigned_to:
+  - fig:5
+  basis: Litigants are named as the persons from whom judges must not receive bribes.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: temple ceremonies
+  literal_form: ceremonies of the temple
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: ancestral laws
+  literal_form: laws enacted by the Yncas his ancestors
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: inheritance to lordships
+  literal_form: laws of inheritance to lordships
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Royal legislation and reform
+  summary: Pachacutec, advised by his council, establishes laws for provinces and
+    abolishes practices harmful to public peace or sovereignty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Statutes for offenses and temple ceremonies
+  summary: Pachacutec enacts statutes against named crimes and gives regulations for
+    temple ceremonies.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Confirmation of ancestral and social laws
+  summary: Pachacutec confirms earlier YNCA laws on family obedience, marriage consent,
+    legitimacy, inheritance, and judicial bribery.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: royal lawgiver establishing order
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The king makes laws for provinces, public peace, sovereignty, temple ceremonies,
+    family order, inheritance, and judicial conduct.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is historical-legal narration rather than a mythic episode;
+    the motif identification is limited to the royal-order pattern present in the
+    text.
+- id: motif:2
+  label: confirmation of ancestral law
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Pachacutec confirms laws enacted by the Yncas his ancestors and upholds inheritance
+    to lordships according to ancient provincial customs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not describe a ritual enthronement or divine sanction;
+    the legitimacy pattern is inferred from ancestral continuity and inheritance law.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9312-9321
+  quote_or_summary: Chapter heading identifies laws of YNCA Pachacutec; the king,
+    with council advice, made laws and abolished measures detrimental to public peace
+    or sovereignty.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9321-9326
+  quote_or_summary: The passage lists statutes against major offenses and mentions
+    regulations for the ceremonies of the temple.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9326-9334
+  quote_or_summary: Pachacutec confirms laws attributed to Ynca ancestors, including
+    rules that sons obey fathers until age twenty-five and that marriages require
+    parental consent for validity and legitimacy of children.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9334-9339
+  quote_or_summary: The passage says Pachacutec confirmed inheritance to lordships
+    according to ancient provincial customs and forbade judges to receive bribes from
+    litigants.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear about legal and royal-administrative content. Motif
+    extraction is cautious because the excerpt is chronicle/legal material, not a
+    narrative myth episode. No comparison claims were added because the passage itself
+    does not make comparative links.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy symbols were directly present in the passage. Motif taxonomy was limited to royal_legitimacy where supported by royal lawmaking, sovereignty, ancestral law, and inheritance.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l9312-l9339
+  passage_sha256=a395588e1779917ea7aae85fdf8c013b9270908fc6d566bb67d9b7eed080fbf0
+

@@ -1,0 +1,525 @@
+---
+record_id: batch.motif.native-american-fox-texts-jones-archive-l6274-l6456
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+passage_locator:
+  label: AND FOR THAT REASON DROWNS HER DAUGHTER.1 / THUS OBTAIN CRAWFISHES TO EAT.1
+    / CEASED FROM HER EVIL CONDUCT.1 / AND DREAMS.; lines 6274-6456
+  start: '6274'
+  end: '6456'
+  translation: Fox Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The supplied passage contains overlapping Duck-visit material and the opening
+    of a Kingfisher visit. Duck hosts Wisa'ka by preparing rice through a distinctive
+    action involving water, a kettle, movement, the cry “Kwan,” and muting into the
+    kettle; Wisa'ka eats and returns to his grandmother. In a reciprocal visit, Duck
+    comes to Wisa'ka; Wisa'ka tries to imitate Duck's method but drops dung into the
+    water, after which Duck has the water discarded and prepares the food himself.
+    A numbered version repeats Wisa'ka's visit to Duck and adds that Wisa'ka learned
+    the method by observing. The passage ends as Wisa'ka asks to visit Kingfisher
+    and arrives at Kingfisher's dwelling.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Duck tells his wife to hang or put on water, moves around or above the kettle,
+    says “Kwan,” and mutes into the kettle while rice is being prepared for Wisa'ka.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: obs:2
+  text: Duck's wife or Duck woman stirs the cooking rice and serves it in a vessel
+    or bowl to Wisa'ka.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: obs:3
+  text: Wisa'ka eats the prepared food, says he is full, and returns to the place
+    where he and his grandmother live.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: obs:4
+  text: Wisa'ka's grandmother says that visiting one another is a regular practice
+    among his uncles.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When Duck visits Wisa'ka, Wisa'ka orders water to be hung up and attempts
+    the same preparation, but dung drops into the water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Duck tells the old woman to pour out the spoiled water, wash the kettle, and
+    fetch new water before Duck prepares the rice himself.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Wisa'ka reports to his grandmother that he observed Duck's cooking method
+    and has learned it; the grandmother says that his uncles learn things by observation.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:8
+  text: The next episode begins with Wisa'ka asking to visit Kingfisher, whom he calls
+    his little brother, and then entering Kingfisher's dwelling.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Wisa'ka / Wlsalka / Wlsa'ka
+  description: Visitor to Duck, eater of the prepared rice, attempted host to Duck,
+    speaker to his grandmother about learning Duck's method, and initiator of the
+    later Kingfisher visit.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Duck
+  description: Wisa'ka's little brother in the Duck-visit material; he hosts Wisa'ka,
+    prepares rice through his own method, later visits Wisa'ka, and corrects Wisa'ka's
+    failed attempt.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Duck's wife / Duck woman
+  description: Female helper in Duck's lodge who puts on or hangs up water, stirs
+    the rice, and serves it to Wisa'ka.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:4
+  name_or_label: Wisa'ka's grandmother / old woman
+  description: Grandmother who advises Wisa'ka about visiting, receives his return
+    report, and in the reciprocal visit handles the water and kettle when directed.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:9
+- id: fig:5
+  name_or_label: Kingfisher
+  description: Named as Wisa'ka's little brother and the intended host of the next
+    visit; Wisa'ka reaches the place where Kingfisher lives.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: visiting kinsman or guest
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Wisa'ka visits Duck for food; Duck later visits Wisa'ka.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:2
+  label: host or food provider
+  assigned_to:
+  - fig:2
+  - fig:1
+  basis: Duck successfully prepares food for Wisa'ka; Wisa'ka attempts to host Duck
+    by imitating the preparation.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+- id: role:3
+  label: cooking assistant
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Duck's wife and the old woman or grandmother handle water, kettle, stirring,
+    serving, or cleaning in the cooking scenes.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: role:4
+  label: elder counselor and receiver of report
+  assigned_to:
+  - fig:4
+  basis: The grandmother advises Wisa'ka about visiting and later asks about what
+    Duck cooked for him.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:5
+  label: anticipated next host
+  assigned_to:
+  - fig:5
+  basis: Wisa'ka asks to visit Kingfisher and arrives at the place where Kingfisher
+    lives, but the supplied passage does not include the hosting scene.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: cooking water
+  literal_form: Water hung up, put on, fetched, poured out, and replaced for use in
+    the kettle.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: kettle and serving vessel
+  literal_form: Kettle used for cooking and vessel or bowl used for serving the rice.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: rice as guest food
+  literal_form: Rice cooked and served to Wisa'ka; in the failed imitation scene the
+    kettle must be cleaned before rice is prepared again.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:9
+- id: sym:4
+  label: circular or overhead cooking motion
+  literal_form: Duck walks round in a circle or flies overhead near the hanging kettle
+    while preparing the rice; Wisa'ka tries a circular movement when imitating him.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:9
+- id: sym:5
+  label: mute or dung in the cooking scene
+  literal_form: Duck's translated action is described as muting into the kettle; Wisa'ka's
+    attempted imitation is described as dung dropping into the water.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+scenes:
+- id: scene:1
+  label: Duck hosts Wisa'ka in the opening fragment
+  summary: Duck has water prepared, performs his characteristic action while saying
+    “Kwan,” the Duck woman stirs and serves rice, and Wisa'ka eats until full.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Grandmother comments on mutual visiting
+  summary: After Wisa'ka returns from Duck's lodge, his grandmother says that his
+    uncles will always visit one another.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Duck visits Wisa'ka and Wisa'ka fails to imitate the cooking method
+  summary: Duck comes to Wisa'ka's dwelling. Wisa'ka attempts Duck's cooking procedure,
+    but dung drops into the water. Duck orders the water discarded, the kettle cleaned,
+    and new water fetched, then prepares the food himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Numbered Duck-visit version
+  summary: Wisa'ka asks his grandmother where he can visit for food, chooses Duck,
+    reaches Duck's lodge, and is given a large bowl of rice prepared by Duck's own
+    method.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Wisa'ka reports learning by observation
+  summary: Wisa'ka tells his grandmother how Duck prepares rice and says he has learned
+    the method by observing; the grandmother generalizes that his uncles learn by
+    observation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: Opening of Kingfisher visit
+  summary: Wisa'ka asks permission to visit Kingfisher, his little brother, and enters
+    Kingfisher's dwelling.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: reciprocal kinsman visits for food
+  taxonomy_refs: []
+  basis: Wisa'ka visits Duck, Duck later visits Wisa'ka, and the grandmother says
+    that visiting one another is typical of Wisa'ka's uncles.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage frames the figures as kin terms such as elder brother, little
+    brother, and uncles, but does not provide a broader social explanation beyond
+    the visit pattern.
+- id: motif:2
+  label: food produced through an animal host's distinctive bodily action
+  taxonomy_refs: []
+  basis: Duck repeatedly prepares rice by a distinctive sequence involving movement
+    around or above the kettle, the cry “Kwan,” and muting into the kettle while water
+    and rice are handled.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The extraction retains the translation's wording “mute/muted” and does
+    not add a biological or ritual explanation beyond the passage.
+- id: motif:3
+  label: failed imitation of another being's food-making method
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Wisa'ka observes Duck's method and attempts to reproduce it when Duck visits,
+    but the result is dung in the water and requires cleaning and replacement before
+    Duck prepares the food.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+  confidence: medium
+  cautions: 'The taxonomy assignment is cautious: the passage shows boundary-crossing
+    imitation and failure, but it does not explicitly label Wisa''ka as a trickster
+    in this excerpt.'
+- id: motif:4
+  label: learning by observation
+  taxonomy_refs:
+  - wisdom
+  basis: Wisa'ka says he has learned Duck's method by watching, and the grandmother
+    states that his uncles learn things by observation.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The wisdom taxonomy reference is broad; the passage emphasizes observation
+    and practical learning rather than an explicit wisdom teaching.
+comparison_claims:
+- id: claim:1
+  claim: 'The two Duck-host accounts in the supplied passage present the same basic
+    food-hosting motif: Duck prepares rice for Wisa''ka through the “Kwan” and muting
+    sequence, and Wisa''ka eats the result.'
+  claim_level: same_motif
+  target: Opening Duck-host fragment compared with numbered story 6 Duck-host episode
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage appears to include overlapping or repeated Duck-visit material;
+    this claim does not infer textual history or version priority.
+- id: claim:2
+  claim: 'The Kingfisher opening repeats the visit-to-animal-little-brother setup
+    found in the Duck visit: Wisa''ka asks his grandmother about visiting a little
+    brother and then goes to that figure''s dwelling.'
+  claim_level: same_function
+  target: Duck visit setup compared with Kingfisher visit opening
+  evidence_refs:
+  - ev:6
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the opening of the Kingfisher episode is included, so no claim
+    is made about Kingfisher's food provision or later plot.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6274-6456, opening Duck-host fragment
+  quote_or_summary: Duck tells his wife to hang up water, moves in a circle saying
+    “Kwan,” mutes while Duck woman stirs rice, and she serves the food to Wisa'ka.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summarized with minimal short quoted terms.
+- id: ev:2
+  type: summary
+  locator: lines 6274-6456, Wisa'ka returns to grandmother after Duck visit
+  quote_or_summary: Wisa'ka says he is full and goes home; his grandmother asks whether
+    he visited Duck and says his uncles will always visit one another.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6274-6456, Duck visits Wisa'ka
+  quote_or_summary: Duck visits Wisa'ka; Wisa'ka has water hung up, walks in a circle,
+    and dung drops into the water as he attempts the cooking act.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6274-6456, Duck corrects failed preparation
+  quote_or_summary: Duck tells the old woman to pour out the water, wash the kettle,
+    and fetch new water; Duck then walks in a circle, says “Kwan,” mutes, and the
+    rice is cooked.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summarized with minimal short quoted term.
+- id: ev:5
+  type: summary
+  locator: lines 6274-6456, end of reciprocal Duck visit
+  quote_or_summary: Duck and Wisa'ka eat; Duck says he is going home and the story
+    ending is marked.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6274-6456, numbered story 6 opening
+  quote_or_summary: Wisa'ka asks his grandmother where he can visit to get something
+    to eat; he chooses Duck, and the grandmother approves the walk.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6274-6456, Duck hosts Wisa'ka in numbered story 6
+  quote_or_summary: Duck tells his wife to put on water, decides on rice, flies a
+    little way upward, mutes into the kettle until it is full, and has the food poured
+    into a bowl for Wisa'ka.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 6274-6456, Wisa'ka eats and leaves in numbered story 6
+  quote_or_summary: Wisa'ka eats the large bowl of food, says he is full, notes the
+    long distance home and his grandmother's waiting, and departs.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 6274-6456, Wisa'ka reports Duck's method
+  quote_or_summary: Wisa'ka tells his grandmother that Duck boils water, flies above
+    the kettle, says “Kwan,” and prepares rice; Wisa'ka says he learned the method
+    by observing, and the grandmother says his uncles learn by observation.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summarized with minimal short quoted term.
+- id: ev:10
+  type: summary
+  locator: lines 6274-6456, beginning of Kingfisher episode
+  quote_or_summary: Wisa'ka tells his grandmother he wants to visit Kingfisher, his
+    little brother; she agrees, and Wisa'ka goes to Kingfisher's place and enters.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The supplied excerpt includes OCR/transcription irregularities, repeated
+    or overlapping Duck material, editorial interruptions, and variant spellings of
+    Wisa'ka. Motif candidates are based only on repeated actions and speeches within
+    the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The extraction treats Wisa'ka, Wlsalka, Wlsa'ka, and similar spellings as the same named figure because they occur in the supplied passage as variants of the same participant. The translation's term “mute/muted” is retained without adding explanation beyond the immediate cooking context.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-fox-texts-jones-archive__l6274-l6456
+  passage_sha256=40f16e952b5f46cb70024e1ebc767336a4cae1bef493e98589a8d2089293ce8e
+

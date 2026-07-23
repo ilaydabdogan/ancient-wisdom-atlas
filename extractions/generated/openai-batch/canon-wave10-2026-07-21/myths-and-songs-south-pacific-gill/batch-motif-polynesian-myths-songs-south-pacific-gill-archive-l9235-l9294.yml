@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l9235-l9294
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: FOUNDATION. / UNUUNU    A. / FOURTH    OFFSHOOT. / UNUUNU    RIMA.; lines
+    9235-9294
+  start: '9235'
+  end: '9294'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A Mangaian song passage with English translation names Vera, Veetini, a
+    mother addressed by the speaker, the sea, earth, western skies, and a perilous
+    path to spirit-land. It refers to Veetini returning to earth, wishes that Vera
+    might revisit earth over the shimmering sea, and has a first-person speaker departing
+    far away by a path to spirit-land.
+  language: Mangaian and English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented as a song or chant with headings and performance
+    labels including UNUUNU A, FOURTH OFFSHOOT, Solo, Chorus, PAPA, and UNUUNU RIMA.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chorus describes traversing rugged shores before Vera gains the western
+    skies.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that Veetini once returned to earth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage wishes that Vera might revisit earth while gliding over the shimmering
+    sea.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A first-person speaker says they go far away and addresses a mother.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The speaker’s destination is described as spirit-land, reached by a perilous
+    path.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A Mangaian stanza names a vaka and Koatu-taii-roa near lines that also name
+    Vera.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Vera
+  description: Named figure associated with western skies and with a wished-for revisit
+    to earth over the sea.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Veetini
+  description: Named figure said to have once returned to earth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: mother / Manga
+  description: Addressee of the first-person speaker in the translated line, 'I go
+    far away, mother.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: unnamed first-person speaker
+  description: Speaker who says they go far away by a perilous path to spirit-land.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: returning or revisiting figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Vera is wished to revisit earth, and Veetini is said to have once returned
+    to earth.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: departing traveler
+  assigned_to:
+  - fig:4
+  basis: The speaker says they go far away by a perilous path to spirit-land.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: addressed mother
+  assigned_to:
+  - fig:3
+  basis: The first-person speaker addresses 'mother' while announcing departure.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sea passage
+  literal_form: shimmering sea / moana / tai
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: perilous path to spirit-land
+  literal_form: perilous path to spirit-land
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: western skies
+  literal_form: western skies
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: earth as return-destination
+  literal_form: earth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: vaka
+  literal_form: vaka
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Rugged-shore traversal and western skies
+  summary: The chorus speaks of traversing rugged shores before Vera reaches the western
+    skies.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Return or revisit to earth
+  summary: Veetini is said to have once returned to earth, and Vera is wished to revisit
+    earth over the shimmering sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Departure to spirit-land
+  summary: A first-person speaker addresses a mother and says they go far away by
+    a perilous path to spirit-land.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Vaka stanza
+  summary: A Mangaian stanza mentions a vaka and Koatu-taii-roa near lines naming
+    Vera.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Journey to spirit-land by a perilous path
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The translated chorus explicitly describes travel 'by a perilous path to
+    spirit-land.'
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage is lyric and fragmentary; it does not provide a full itinerary
+    or map.
+- id: motif:2
+  label: Departure from home or kin toward spirit-land
+  taxonomy_refs:
+  - departure
+  basis: The first-person speaker tells the mother, 'I go far away,' and the chorus
+    identifies the route as a path to spirit-land.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not state the cause of departure.
+- id: motif:3
+  label: Return or revisit to earth
+  taxonomy_refs:
+  - return
+  basis: Veetini is said to have once returned to earth, and Vera is wished to revisit
+    earth.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly define the realm from which Vera or Veetini
+    returns.
+- id: motif:4
+  label: Sea as route of transition
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Vera’s wished revisit to earth is described as gliding over the shimmering
+    sea, while the same passage also names travel to spirit-land.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The text does not explicitly say that the sea itself is the path to spirit-land.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 9235-9294
+  quote_or_summary: Passage headings and labels include UNUUNU A, FOURTH OFFSHOOT,
+    Solo, Chorus, PAPA, and UNUUNU RIMA.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 9235-9294
+  quote_or_summary: '"traverse these rugged shores, / Ere Vera gain the western skies."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 9235-9294
+  quote_or_summary: '"Veetini ^ once returned to earth."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 9235-9294
+  quote_or_summary: '"O that Vera might but revisit earth, / Gliding over the shimmering
+    sea."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 9235-9294
+  quote_or_summary: '"I go far away, mother, / ... / By a perilous path to spirit-land."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 9235-9294
+  quote_or_summary: '"E kiato / te vaka e kia mau ai e ! / Kia mau ai i Koatu-taii-roa.
+    / Noo mai Vera i te tapaa i mua !"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a short bilingual lyric with fragmentary context. Motifs involving
+    departure, return, sea passage, and spirit-land are directly suggested by the
+    English translation, but narrative sequence and mythic relationships are not fully
+    specified.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparisons were added. Taxonomy references are limited to supplied motif families and symbols supported by the passage text.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l9235-l9294
+  passage_sha256=1cef24eef5336aceb2c5971baa54a8c0a015fffe9bfcac61d151912f7392b616
+

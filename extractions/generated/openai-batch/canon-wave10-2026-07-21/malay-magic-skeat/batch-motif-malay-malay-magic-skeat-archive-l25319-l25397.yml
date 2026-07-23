@@ -1,0 +1,370 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l25319-l25397
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: BUFFALO  FIGHTS / THE  BULL- RING / DANCES,  SPOPTS , AND  GAMES / THE  FIGHT;
+    lines 25319-25397
+  start: '25319'
+  end: '25397'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes buffalo-bull fights in Pahang: bulls stab and lift
+    one another with their horns, one eventually shows exhaustion, flees, and is briefly
+    pursued. It also states that buffalo bulls keep to their own ground, that fighting
+    on home ground gives an advantage, and that match organizers select neutral or
+    weaker-owned ground depending on the match. The narrator comments on the brutality
+    of such fights, their status as cherished local custom, and compares interference
+    with them to banning English fox-hunting.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A rare fight is described in which one bull threw an opponent after lifting
+    it off its feet; the defeated bull landed on its back, and the exhausted victor
+    could only make a weak stab toward the exposed stomach.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: During the fight, stabs and lifts follow rapidly, horns click, bulls blow
+    and snort, and the turf is stamped into mud by their hoofs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A beaten bull lowers its head, turns, and runs away; the victor pursues briefly,
+    and people in the path of either animal are endangered.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator states that buffalo bulls have a recognized rule against trespass
+    and that every buffalo-bull has its own ground.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A bull brought to another bull’s ground is said to fight with little heart
+    and may be beaten by a smaller opponent fighting on its own land.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Equally matched bulls are taken to neutral ground; badly matched bulls are
+    taken to the weaker bull’s land.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator calls the fights brutal but says prohibition without the consent
+    of Pahang chiefs and people would breach the understanding under British Protection,
+    because animal sports are cherished local institutions.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage compares Pahang animal sports with English fox-hunting in a discussion
+    of cruelty and sporting enthusiasm.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: contending buffalo bulls
+  description: Buffalo-bulls engaged in contests by stabbing, lifting, snorting, and
+    defending or avoiding each other’s ground.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: victorious bull
+  description: The bull that throws or outlasts its opponent and pursues the defeated
+    animal after it flees.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: vanquished or exhausted bull
+  description: The bull that is thrown, lowers its head in exhaustion, turns away,
+    and flees.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Chiefs and people of Pahang
+  description: The local population whose consent is said to be necessary before prohibiting
+    animal sports regarded as cherished institutions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: animal combatant
+  assigned_to:
+  - fig:1
+  basis: The bulls stab, lift, and struggle against one another in organized contests.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: victor and pursuer
+  assigned_to:
+  - fig:2
+  basis: The victor attempts to stab an exposed opponent and later pursues the defeated
+    bull after it flees.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: defeated fugitive
+  assigned_to:
+  - fig:3
+  basis: The beaten bull shows exhaustion by lowering its head, then turns and runs
+    away.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: holders of local custom
+  assigned_to:
+  - fig:4
+  basis: The passage states that animal sports are cherished institutions of the people
+    of Pahang and that their chiefs and people would need to consent to prohibition.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: territorial owner
+  assigned_to:
+  - fig:1
+  basis: Every buffalo-bull is said to have its own ground, and contest outcomes depend
+    on whether a bull fights on its own or another’s ground.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: horns as fighting implements
+  literal_form: horns used in stabbing and heard clicking during the fight
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: lowered head as exhaustion sign
+  literal_form: the beaten bull’s head goes down
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: own ground as territorial boundary
+  literal_form: each buffalo-bull’s own ground
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: neutral ground as contest setting
+  literal_form: neutral ground selected for equally matched bulls
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: rare throw and weak follow-up stab
+  summary: One bull lifts and throws its opponent; the defeated bull rolls onto its
+    back, but the victor is too exhausted to do more than make a weak stab at it.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: rapid horn fight ending in flight
+  summary: The bulls exchange rapid stabs and lifts until one lowers its head, turns,
+    and flees, with the victor pursuing for a short distance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: territorial rules for arranging contests
+  summary: Buffalo bulls are described as avoiding trespass; organizers choose neutral
+    ground for equal matches and the weaker bull’s ground for unequal matches.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: custom and cruelty commentary
+  summary: The narrator condemns the fights as brutal while explaining that prohibition
+    would conflict with the pledge not to interfere with Pahang customs, then compares
+    the issue to English fox-hunting.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: animal combat as cherished public custom
+  taxonomy_refs: []
+  basis: The passage presents buffalo fights as organized animal contests and states
+    that animal sports are among the cherished institutions of Pahang.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is an ethnographic sporting pattern, not an explicit mythic or sacred
+    motif in the passage.
+- id: motif:2
+  label: territorial advantage in animal combat
+  taxonomy_refs: []
+  basis: The passage says every buffalo-bull has its own ground, avoids trespass,
+    and fights less effectively when brought onto another bull’s land.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The account frames this as buffalo behavior and fight management, not
+    as a supernatural law.
+- id: motif:3
+  label: defeat signaled by lowered head, flight, and pursuit
+  taxonomy_refs: []
+  basis: A beaten bull lowers its head, flees, and is briefly pursued by the victor.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The motif is behavioral and narrative-sequential; no ritual interpretation
+    is supplied.
+- id: motif:4
+  label: contest venue selected to balance unequal opponents
+  taxonomy_refs: []
+  basis: Equal bulls are matched on neutral ground, while badly matched bulls are
+    brought to the weaker bull’s land.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives this as a practical arrangement; broader symbolic meaning
+    is not stated.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the buffaloes’ rule against trespass to the idea
+    of an animal law, introduced alongside Kipling’s 'Law of the Jungle'.
+  claim_level: same_function
+  target: Kipling’s 'Law of the Jungle' as a literary animal code
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the narrator’s literary analogy; the passage does not claim
+    shared tradition, historical contact, or mythic inheritance.
+- id: claim:2
+  claim: The passage compares Pahang animal sports with English fox-hunting as cherished
+    sports criticized for cruelty.
+  claim_level: same_function
+  target: English fox-hunting / the Quorn hunting tradition
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is ethical and social rather than mythological.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 25319-25333
+  quote_or_summary: A bull is reported once to have thrown an opponent after lifting
+    it; the vanquished bull turned on its back, while the victor was too exhausted
+    to do more than make a weak stab at the exposed stomach.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: public domain
+- id: ev:2
+  type: summary
+  locator: 25334-25351
+  quote_or_summary: Stabs and lifts follow rapidly amid clicking horns, blowing and
+    snorting; the turf is churned into mud, one bull lowers its head in exhaustion,
+    turns, flees, and is briefly pursued by the victor.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: public domain
+- id: ev:3
+  type: summary
+  locator: 25352-25361
+  quote_or_summary: 'After mentioning Kipling’s ''Law of the Jungle'', the narrator
+    says buffaloes possess one recognized law: ''Thou shalt not commit trespass'';
+    every buffalo-bull has its own ground.'
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: public domain
+- id: ev:4
+  type: summary
+  locator: 25362-25372
+  quote_or_summary: A bull brought onto another bull’s ground fights with little heart
+    and may be beaten by a weaker home-ground opponent; equal bulls fight on neutral
+    ground, and badly matched bulls on the weaker bull’s land.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: public domain
+- id: ev:5
+  type: summary
+  locator: 25373-25388
+  quote_or_summary: The fights are called brutal, but prohibition without the consent
+    of the Chiefs and people of Pahang is said to breach the terms of British Protection;
+    animal sports are described as cherished local institutions.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: public domain
+- id: ev:6
+  type: summary
+  locator: 25389-25397
+  quote_or_summary: The narrator compares interference with Pahang animal sports to
+    Parliament banning hunting for cruelty to the fox, and argues that hunting may
+    be more cruel than what occurs in a Malay cock-pit or bull-ring.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: public domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a descriptive account of animal fighting, territorial behavior,
+    and colonial-era custom rather than a mythological narrative. Motif labels therefore
+    describe observable social and behavioral patterns only.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied, because the passage does not explicitly support one of the supplied mythic categories.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l25319-l25397
+  passage_sha256=5ab85715be9023d3dd475c488fb3ed511b40b2f60b5e807e3891481c38a9d3fb
+

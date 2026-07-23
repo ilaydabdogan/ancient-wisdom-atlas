@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l13816-l14064
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: THE   BABYLONIAN   CHRONICLE  203 / THE   BABYLONIAN   CHRONICLE  205 / THE  ASSYRIAN    EPONYM-LIST
+    / THE   ASSYRIAN  EPONYM-LIST; lines 13816-14064
+  start: '13816'
+  end: '14064'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a section of the Assyrian Eponym-List, giving a descending
+    sequence of annual entries from 838 to 703. Most entries are personal names; some
+    are explicitly marked as kings. A canon note reports that an assassin murdered
+    the King of Assyria, and another note says Sin-ahe-erba possibly took his seat
+    on the throne on the twelfth day of the month Ab.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is organized as an annual eponym-list with numbered year entries
+    descending from 838 to 703.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several entries explicitly identify named persons as “the king,” including
+    Shalmaneser, Shamshi-Ramman, Ramman-nirari, Ashur-dan, Ashur-nirari, and Tiglath-pileser.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Some names in the list are damaged or uncertain, shown by asterisks, brackets,
+    parentheses, or question marks.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A canon note states that an assassin murdered the King of Assyria.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A canon note says that on the twelfth day of the month Ab, Sin-ahe-erba possibly
+    took his seat on the throne.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A variant canon identifies Sin-ahe-erba as King of Assyria.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Named annual eponyms
+  description: A sequence of annual name-bearers listed by year; most are given only
+    by personal name.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Kings named in the eponym entries
+  description: Named persons in the list who are explicitly marked as “the king.”
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Unnamed assassin
+  description: An unnamed assassin mentioned in a canon note as killing the King of
+    Assyria.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: King of Assyria, murdered ruler
+  description: The King of Assyria named only by title in the canon note reporting
+    the murder.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Sin-ahe-erba
+  description: A named ruler identified in variant canon material as King of Assyria
+    and associated with possibly taking his seat on the throne.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: annual eponym or name-bearer
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage is an eponym-list arranged by year entries containing personal
+    names.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: king
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: Certain entries and canon notes explicitly use the terms “the king,” “King
+    of Assyria,” or equivalent title for these figures.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:3
+  label: assassin
+  assigned_to:
+  - fig:3
+  basis: The canon note says an assassin murdered the King of Assyria.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: murdered ruler
+  assigned_to:
+  - fig:4
+  basis: The canon note identifies the killed figure as the King of Assyria.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: throne accession subject
+  assigned_to:
+  - fig:5
+  basis: The canon note says Sin-ahe-erba possibly took his seat on the throne.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: throne
+  literal_form: throne
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Annual eponym sequence
+  summary: The passage lists successive years and names, with some entries marked
+    as kings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Assassination and possible accession note
+  summary: A canon note reports that an assassin murdered the King of Assyria, and
+    another note associates Sin-ahe-erba with possibly taking his seat on the throne
+    on a specific date.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: regicide and royal succession
+  taxonomy_refs: []
+  basis: The canon notes place the murder of the King of Assyria near a statement
+    that Sin-ahe-erba possibly took his seat on the throne.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The passage is annalistic and fragmentary rather than a developed mythic
+    narrative; the throne statement is bracketed as uncertain, and the text does not
+    explicitly interpret the event as legitimate succession.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13816-14064, entries 838-703
+  quote_or_summary: The section titled “THE ASSYRIAN EPONYM-LIST” gives annual entries
+    numbered from 838 down to 703, each associated with one or more names.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: entries 828, 823, 810, 771, 753, 743
+  quote_or_summary: 'Several entries identify named persons as kings: Shalmaneser,
+    Shamshi-Ramman, Ramman-nirari, Ashur-dan, Ashur-nirari, and Tiglath-pileser are
+    each marked as “the king” or “[the king].”'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: entries 800, 799, 724, 717 and related entries
+  quote_or_summary: Some readings are visibly uncertain or damaged, including entries
+    with asterisks, bracketed restorations, parenthetical signs, and question marks.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: quote
+  locator: footnote after entries 706-703, Canon V 10
+  quote_or_summary: "“An assassin murdered the King of Assyria.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:5
+  type: quote
+  locator: footnote after entries 706-703, Canon V 11
+  quote_or_summary: "“On the twelfth day of the month Ab, Sin-ahe-erba [? took his
+    seat on the throne ?].”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:6
+  type: quote
+  locator: footnote after entries 706-703, Canon IV
+  quote_or_summary: "“Sin-ahe-erba, King of Assyria.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The eponym-list structure and king/assassination notes are clear, but many
+    names are damaged or uncertain, and the only motif-like element is a brief annalistic
+    note rather than a narrative episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy symbol refs are directly supported by the passage. No comparison claims were made because the passage itself does not compare the event to another tradition or motif family.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l13816-l14064
+  passage_sha256=8f1a4675af36fbe0a0ded5125d95669ebaabd895843e474199b9660efcd80681
+

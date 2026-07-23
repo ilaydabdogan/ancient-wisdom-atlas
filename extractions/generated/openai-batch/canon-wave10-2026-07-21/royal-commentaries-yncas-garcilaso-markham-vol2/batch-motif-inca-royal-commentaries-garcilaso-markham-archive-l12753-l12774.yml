@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l12753-l12774
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SEVENTH  BOOK  OF  THE  EOYAL / COMMENTARIES  OF  THE  YNCAS. / CHAPTER  XXI.
+    / REBELLION  IN  CHILE  AGAINST  THE  GOVERNOR  VALDIVIA.; lines 12753-12774
+  start: '12753'
+  end: '12774'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The chapter opening describes Chile after conquest being divided, with
+    Valdivia receiving a rich repartimiento containing gold, many vassals, and a large
+    annual tribute. The narrator says desire for gold increased as more was supplied
+    by the Indians, who were not accustomed to the labor needed to obtain it. A note
+    summarizes Valdivia's campaigns against several Chilean peoples and his founding
+    of seven cities.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chapter title identifies the subject as a rebellion in Chile against Governor
+    Valdivia.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the conquest, the kingdom of Chile was divided, and a knight identified
+    in context with Valdivia received a rich repartimiento.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The repartimiento is described as containing much gold, many vassals, and
+    an annual tribute of one hundred thousand pesos de oro.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator states that thirst for the metal was insatiable and increased
+    in proportion to the quantity given by the Indians.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Indians are described as not accustomed to the labor necessary for obtaining
+    gold; the supplied excerpt breaks off before completing the next clause.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note says Valdivia subjugated the Promaucaes, who had repulsed the Ynca
+    invasion, as well as their allies the Cauquenes and Pencones.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The note says Valdivia crossed the Maulé, defeated the Araucos and other tribes,
+    overran their country, and founded seven Chilian cities.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Valdivia
+  description: Governor Valdivia, also referred to as a knight who received a rich
+    repartimiento in Chile after the conquest.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Indians of the repartimiento
+  description: Indians associated with the repartimiento, described as giving gold
+    and as not accustomed to the labor needed to obtain it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Promaucaes, Cauquenes, Pencones, Araucos, and other Chilean groups
+  description: Groups named in the note as subjugated, allied, or defeated in Valdivia's
+    campaigns.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: governor
+  assigned_to:
+  - fig:1
+  basis: The chapter title names Valdivia as governor.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of repartimiento and tribute
+  assigned_to:
+  - fig:1
+  basis: The passage says a rich repartimiento with gold, vassals, and annual tribute
+    fell to this knight's share.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: tribute-giving vassals unaccustomed to gold labor
+  assigned_to:
+  - fig:2
+  basis: The Indians are linked to the gold given and described as not accustomed
+    to the labor required to obtain it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: conqueror and city founder
+  assigned_to:
+  - fig:1
+  basis: The note summarizes Valdivia's subjugations, defeats of local groups, overrun
+    country, and founding of seven cities.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: subjugated or defeated peoples
+  assigned_to:
+  - fig:3
+  basis: The note names these groups in relation to Valdivia's campaigns of subjugation
+    and defeat.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: gold as desired tribute metal
+  literal_form: gold; pesos de oro
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: large annual tribute amount
+  literal_form: one hundred thousand pesos de oro
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: repartimiento as conquered allotment
+  literal_form: rich repartimiento containing gold and vassals
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Division of conquered Chile
+  summary: After conquest, Chile is divided, and Valdivia receives a wealthy repartimiento
+    with gold, vassals, and tribute.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Increasing demand for gold
+  summary: The narrator links increasing quantities of gold supplied by the Indians
+    to an increasing and insatiable desire for the metal, while noting that the Indians
+    were not accustomed to the labor required to obtain it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Valdivia's campaigns summarized in note
+  summary: A note recounts Valdivia's subjugation or defeat of several Chilean groups,
+    the crossing of the Maulé, the overrunning of territory, and the founding of seven
+    Chilian cities.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: insatiable desire for gold
+  taxonomy_refs: []
+  basis: The narrator explicitly says thirst for the metal is insatiable and grows
+    with the amount given by the Indians.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a moral-historical pattern in a conquest narrative, not presented
+    as a sacred or mythic motif in the supplied passage.
+- id: motif:2
+  label: conqueror receives conquered land, vassals, and tribute
+  taxonomy_refs: []
+  basis: The passage describes post-conquest division of Chile and the assignment
+    of a wealthy repartimiento with vassals and gold tribute to Valdivia.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an administrative and colonial pattern rather than a clearly mythological
+    motif.
+- id: motif:3
+  label: subjugation followed by city founding
+  taxonomy_refs: []
+  basis: The note links Valdivia's victories and overrunning of territory with the
+    founding of seven Chilian cities.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The motif is extracted as a narrative pattern from the note; the passage
+    does not frame the sequence symbolically.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12753-12757
+  quote_or_summary: 'Chapter heading: rebellion in Chile against Governor Valdivia.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12758-12764
+  quote_or_summary: After conquest, Chile was divided; a knight received a rich repartimiento
+    with much gold, many vassals, and annual tribute of one hundred thousand pesos
+    de oro.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 12764-12768
+  quote_or_summary: The narrator says the "thirst for this metal is insatiable" and
+    increased with what the Indians gave.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 12768-12770
+  quote_or_summary: The Indians were not accustomed to the labor necessary for obtaining
+    gold; the excerpt ends mid-sentence after this point.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: note 1 within lines 12753-12774
+  quote_or_summary: The note says Valdivia subjugated the Promaucaes and their allies,
+    crossed the Maulé, defeated the Araucos and other tribes, overran their country,
+    and founded seven Chilian cities.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The historical extraction is straightforward, but the supplied passage ends
+    mid-sentence and is not primarily mythological. Motif candidates are therefore
+    treated as narrative patterns rather than established taxonomy matches. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned; gold, tribute, and repartimiento are retained as passage-specific symbolic objects/pattern markers only.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l12753-l12774
+  passage_sha256=cf6e0923081a3a879684377f176b35dc705e53b0288ba662719d86cfe3975992
+

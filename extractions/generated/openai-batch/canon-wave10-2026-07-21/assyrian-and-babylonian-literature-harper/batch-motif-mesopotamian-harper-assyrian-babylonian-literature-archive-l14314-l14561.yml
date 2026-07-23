@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l14314-l14561
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: THE   ASSYRIAN  EPONYM-LIST / ASSYRIAN   EPONYM-LIST,  WITH   NOTES / ASSYRIAN    EPONYM-LIST,  WITH   NOTES
+    / ASSYRIAN   EPONYM-LIST,  WITH   NOTES; lines 14314-14561
+  start: '14314'
+  end: '14561'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A segment of the Assyrian Eponym List records yearly eponyms, offices or
+    places associated with them, and brief notices of campaigns or events, including
+    movements to named lands and cities, a plague, divine movement to Der, and Nabu
+    entering a new temple.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is structured as a numbered chronological eponym list, with entries
+    naming officials or kings and attaching brief destination notices such as movements
+    to lands or cities.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some entries identify Assyrian kings as eponyms, including Ramman-nirari,
+    Shulmanu-asharidu, and Ashur-dan.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:3
+  text: Several entries describe movement toward named places, including Der, Media,
+    Babylon, Urartu, Damascus, and other lands or cities.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: obs:4
+  text: One entry records that the great god went to Der.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: A later entry records that Nabu entered the new temple.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: One entry records a plague after a destination notice to the sea-coast.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: A note explains that the phrase 'In the land' means the king remained in the
+    land and that no expedition was undertaken.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ramman-nirari
+  description: Named as King of Assyria in an entry associated with movement to Media.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Shulmanu-asharidu
+  description: Named as King of Assyria in an entry associated with movement to Urartu.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Ashur-dan
+  description: Named as King of Assyria in an entry associated with movement to the
+    city Gananati.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: the great god
+  description: A divine figure whose movement to Der is recorded in two entries.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: fig:5
+  name_or_label: Nabu
+  description: A divine figure recorded as entering the new temple.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: named eponyms and officials
+  description: The passage repeatedly names officeholders such as commanders-in-chief,
+    major-domo figures, ministers, governors, and officers in yearly entries.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: eponym or named yearly official
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  basis: The list presents numbered annual entries headed by personal names and titles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: King of Assyria
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage explicitly identifies these figures as kings of Assyria.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: deity named in calendrical event notice
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The list records actions of the great god and Nabu as notable events within
+    annual entries.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+symbols:
+- id: sym:1
+  label: Der
+  literal_form: city or place named as a destination for the great god and in other
+    destination notices
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: sym:2
+  label: new temple
+  literal_form: temple entered by Nabu
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: plague
+  literal_form: plague noted in a yearly entry
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: named lands and cities
+  literal_form: geographical destinations repeatedly named in the list, including
+    Media, Urartu, Babylon, and others
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Chronological eponym entries with destinations
+  summary: The passage lists successive annual entries, each naming an eponym or official
+    and often noting movement to a land or city.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Divine movement to Der
+  summary: An annual notice states that the great god went to Der; another later entry
+    similarly states that the great god went to the city Der.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: scene:3
+  label: Nabu enters the new temple
+  summary: An annual entry records movement to Media and adds that Nabu entered the
+    new temple.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Plague notice
+  summary: An entry associated with movement to the sea-coast records a plague.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: No-expedition note
+  summary: A footnote explains that the expression 'In the land' indicates that the
+    king remained in the land and no expedition was undertaken.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Annual eponym and expedition formula
+  taxonomy_refs: []
+  basis: The passage repeatedly combines an annual eponym or official name with a
+    brief notice of movement to a named land or city.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a chronicle or administrative pattern rather than a mythic narrative
+    motif.
+- id: motif:2
+  label: Divine procession or temple-entry notice
+  taxonomy_refs: []
+  basis: 'The list includes brief ritual or divine-event notices: the great god going
+    to Der and Nabu entering the new temple.'
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: medium
+  cautions: The passage gives only terse notices and does not explain ritual context,
+    mythic meaning, or theology.
+- id: motif:3
+  label: Calamity recorded in a year list
+  taxonomy_refs: []
+  basis: One entry records a plague as a notable event within the chronological list.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage does not state a cause or divine interpretation for the plague.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14314-14561, multiple entries
+  quote_or_summary: The passage is a numbered eponym list in which named officials,
+    kings, and officeholders are followed by terse notices, often beginning with 'To'
+    and naming a land or city.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: entry 810 within lines 14314-14561
+  quote_or_summary: "[Ramman-nirari, King of] Assyria. To Media."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: entry 781 within lines 14314-14561
+  quote_or_summary: "[Shulmanu-asharidu], King of Assyria. To the land of Urartu (Armenia)."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: entry 771 within lines 14314-14561
+  quote_or_summary: "[Ashur-dan, King of As]syria. To the city Gananati."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: entry 815 within lines 14314-14561
+  quote_or_summary: To Der. The great god went to Der.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: entry 787 within lines 14314-14561
+  quote_or_summary: To Media. Nabu entered the new temple.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: entry 803 within lines 14314-14561
+  quote_or_summary: To the sea-coast. A plague.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:8
+  type: quote
+  locator: footnote to entry 811 within lines 14314-14561
+  quote_or_summary: That is, the king remained in the land. No expedition was undertaken.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:9
+  type: quote
+  locator: entry 785 within lines 14314-14561
+  quote_or_summary: To the land of Hubushkia. The great god went to the city Der.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because the passage is a terse eponym chronicle rather than a mythic narrative.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif-family or symbol references were assigned because the passage does not clearly support the available taxonomy categories.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l14314-l14561
+  passage_sha256=0b85d437edcacfb55049c0a703c0168244313a7904cb42d0b26a7901a3dbbe90
+

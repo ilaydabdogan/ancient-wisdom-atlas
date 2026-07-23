@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.polynesian-maori-polynesian-mythology-grey-archive-l7097-l7156
+source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+passage_locator:
+  label: THE EMIGKATION OF MANAIA. 223 / THE EMIGKATION OF MANAIA. 225 / THE EMIGRATION
+    OF MANAIA. 227 / THE EMIGRATION OF MANAIA. 229; lines 7097-7156
+  start: '7097'
+  end: '7156'
+  translation: Polynesian Mythology and Ancient Traditional History of the New Zealand
+    Race
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: there they landed on this island, — on Aotea.
+  summary: Manaia's party lands on Aotea after finding a dog beside a stranded whale.
+    They rejoice at reaching the country they sought, plan shelter and whale division,
+    begin clearing land, then wander along the shore seeking a village site. Other
+    canoes arrive at the first landing place, claim the sheds, cleared ground, and
+    whale, and the two parties dispute who arrived first.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A dog is seen beside the stranded carcass of a whale near the shore where
+    the party lands.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The party lands on Aotea and recognizes it as the country they had been seeking.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Manaia tells his men to build a house for shelter before cutting up the whale.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Manaia's people obey, with some collecting building materials and others clearing
+    ground for planting.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Members of the party disagree about the best place for a village and move
+    along the beach while exploring.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The exploring party becomes separated from the landing place and from the
+    whale.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Other canoes arrive after Tokomaru and land where Tokomaru had been drawn
+    up on the beach.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The later-arriving people see Tokomaru's marks in the sand, the sheds, and
+    the cleared land.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The later-arriving people claim the sheds, cleared ground, and whale that
+    belonged to the first-landed canoe's people.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The two parties greet one another and then each side claims to have arrived
+    before the other.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Manaia
+  description: Leader who addresses his men and gives directions about building shelter
+    and cutting up the whale.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Manaia's people / people of the first canoe
+  description: The party that lands on Aotea, obeys Manaia, begins settlement work,
+    explores the shore, and later claims earlier arrival.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Dog
+  description: A dog found beside the stranded whale at the landfall.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: People of the later canoes / second canoe
+  description: People who arrive after Tokomaru, claim the first party's sheds, cleared
+    land, and whale, and dispute arrival priority.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: chief and director
+  assigned_to:
+  - fig:1
+  basis: Manaia addresses his men and his people obey his directions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: first-landed settlers
+  assigned_to:
+  - fig:2
+  basis: They land on Aotea, begin shelter building and ground clearing, and explore
+    for a village site.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: animal at landing place
+  assigned_to:
+  - fig:3
+  basis: The dog is present beside the whale near the shore where the party lands.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: later-arriving claimants
+  assigned_to:
+  - fig:4
+  basis: They arrive after Tokomaru and claim sheds, cleared ground, and the whale.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: arrival-priority disputants
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Each party says it arrived before the other.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Aotea
+  literal_form: island / sought country
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: stranded whale
+  literal_form: whale carcass on shore
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: dog beside whale
+  literal_form: dog at the side of the stranded whale
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Tokomaru
+  literal_form: canoe drawn up on the beach
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: settlement works
+  literal_form: sheds and cleared ground
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:6
+  label: shore and beach
+  literal_form: shore, beach, sand marks
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Landfall on Aotea
+  summary: The party pulls to shore after seeing the dog and whale and lands on Aotea.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Recognition and first settlement tasks
+  summary: The party rejoices at finding the sought country; Manaia orders shelter
+    construction before cutting up the whale, and the people begin building and clearing
+    land.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Search for a village site
+  summary: People call out competing preferred village sites and wander along the
+    beach away from the landing place and whale.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Arrival of later canoes
+  summary: Other canoes land at Tokomaru's beach site, see the signs of prior work,
+    and claim the sheds, clearings, and whale.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Dispute over precedence
+  summary: The two parties find and greet each other, then each says it arrived first.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Landfall in the sought country
+  taxonomy_refs:
+  - departure
+  basis: The emigrating party reaches Aotea and identifies it as the country they
+    had been seeking.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy term 'departure' is only an approximate fit because
+    this passage emphasizes arrival and settlement rather than the initial leaving.
+- id: motif:2
+  label: Animal and stranded whale at landfall
+  taxonomy_refs: []
+  basis: The party sees a dog beside a stranded whale at the shore where it lands.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explicitly state a symbolic or supernatural function
+    for the dog or whale.
+- id: motif:3
+  label: Founding settlement through shelter building and ground clearing
+  taxonomy_refs: []
+  basis: After landing, Manaia orders shelter construction and the people collect
+    materials and clear ground for planting.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a settlement-action motif, not matched to a supplied taxonomy
+    family.
+- id: motif:4
+  label: Competing claims to first arrival and land-use signs
+  taxonomy_refs: []
+  basis: Later arrivals claim the first party's sheds, cleared ground, and whale,
+    and both parties assert prior arrival.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage ends mid-dispute, so the outcome and wider significance are
+    not present in the provided text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7097-7104
+  quote_or_summary: The party sees the dog beside a stranded whale, pulls to shore,
+    and lands on Aotea.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 7105-7113
+  quote_or_summary: They rejoice that this is the country they sought; Manaia tells
+    his men to build a shelter before cutting up the whale.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 7113-7118
+  quote_or_summary: Manaia's people obey; some collect materials for shelter and others
+    clear and prepare ground for planting.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 7119-7138
+  quote_or_summary: People call out different preferred village sites, stop their
+    work, explore along the shore, and become separated from the landing place and
+    the whale.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 7139-7149
+  quote_or_summary: Other canoes arrive after Tokomaru at the same beach, see the
+    canoe marks, sheds, and clearings, and claim the sheds, cleared ground, and whale.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: lines 7150-7156
+  quote_or_summary: The two groups find and greet one another; when asked about arrival,
+    each side claims long-standing presence and then claims to have arrived first.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Passage actions and figures are clear, but the excerpt begins and ends within
+    a larger narrative. No external comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy assignment is minimal because most observed patterns do not map directly to the provided motif-family list.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-maori-polynesian-mythology-grey-archive__l7097-l7156
+  passage_sha256=ff3c209516f96d70c66f7d52479491a797566db8e49b2d6b3340670b0e729047
+

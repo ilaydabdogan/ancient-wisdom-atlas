@@ -1,0 +1,221 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l20209-l20222
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XII. / NINTH  BOOK  OF  THE  BOYAL / CHAPTER  XIII. / TWO  FAMOUS  ROADS  THAT  THERE  WERE  IN  PERU.;
+    lines 20209-20222
+  start: '20209'
+  end: '20222'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: two royal roads which extend throughout Peru, from north to south
+  summary: 'The passage introduces two famous royal roads in Peru, attributed to Huayna
+    Ccapac: one along the coast and one through the inland mountains. The narrator
+    notes that historians admired these grand works and says he will quote their accounts.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The chapter is introduced as concerning two famous roads in Peru.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator says the two royal roads extend throughout Peru from north to
+    south and are attributed to Huayna Ccapac.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One road passes along the coast, while the other traverses the inland mountains.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Historians are said to speak admiringly of the roads, which the narrator describes
+    as too grand to be fully depicted.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The narrator states that he will repeat what each historian has said about
+    the roads, copying the passages word for word.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Huayna Ccapac
+  description: The Inca ruler in whose life the two royal roads are mentioned and
+    to whom they are attributed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: historians
+  description: Writers whose accounts of the roads are said to express admiration
+    and will be quoted by the narrator.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: narrator
+  description: The first-person compiler who introduces the roads and says he will
+    repeat historians' accounts word for word.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: ruler associated with royal roads
+  assigned_to:
+  - fig:1
+  basis: The passage says the two royal roads are attributed to Huayna Ccapac.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: admiring witnesses or authorities
+  assigned_to:
+  - fig:2
+  basis: The passage says historians speak of the works in terms of admiration.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: compiler of historical testimony
+  assigned_to:
+  - fig:3
+  basis: The narrator says he will repeat what each historian has said, copying passages
+    word for word.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: royal roads
+  literal_form: two royal roads extending through Peru from north to south
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: coast road
+  literal_form: a road passing along the coast
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: mountain road
+  literal_form: a road traversing the mountains inland
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Introduction of the two royal roads
+  summary: The narrator introduces two royal roads throughout Peru, attributes them
+    to Huayna Ccapac, distinguishes their coastal and mountain routes, and prepares
+    to cite historians' descriptions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal works attributed to a ruler
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage presents grand roads spanning Peru as royal roads attributed
+    to Huayna Ccapac and treated admiringly by historians.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage states attribution and admiration, but it does not explicitly
+    argue divine sanction, succession rights, or a mythic origin for the roads.
+- id: motif:2
+  label: paired routes through contrasting landscapes
+  taxonomy_refs:
+  - duality
+  basis: The passage presents two roads, one along the coast and one through the inland
+    mountains, as a paired infrastructure crossing Peru north to south.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The contrast is geographic and literal; no symbolic dualism is explained
+    in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 20209-20211
+  quote_or_summary: '"TWO FAMOUS ROADS THAT THERE WERE IN PERU."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 20213-20216
+  quote_or_summary: '"the two royal roads which extend throughout Peru, from north
+    to south, because they are attributed to him"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 20216-20218
+  quote_or_summary: '"One of them passes along the coast, and the other traverses
+    the mountains inland."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 20218-20221
+  quote_or_summary: Historians admire the works, and the narrator says their grandeur
+    exceeds description.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:5
+  type: summary
+  locator: lines 20221-20222
+  quote_or_summary: The narrator says he will repeat each historian's account on the
+    subject word for word.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignments are cautious because
+    the passage is historical and descriptive rather than explicitly mythic or symbolic.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison beyond the local description of royal roads.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l20209-l20222
+  passage_sha256=da832c649dfb732202e176f4a68045bd27303658d90bbf4b5af3994bcb49a404
+

@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l27844-l27856
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: REPORTS  OF  THE  MAGICIANS  AND  ASTROLOGERS  457 / IX.    OMENS   FROM   STARS
+    / XIII.    OMENS   FROM   THUNDER / XIV.    OMENS   FROM  EARTHQUAKES; lines 27844-27856
+  start: '27844'
+  end: '27856'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage lists earthquake omens: quakes in Nisan, at night, and in
+    Tebet are associated with revolt, harm or devastation to the land, the king entering
+    the city of his foe, and ruin to the prince''s palace. One report is attributed
+    to Apia and another to the Chief Astrologer.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a section on omens from earthquakes.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An earthquake in Nisan is associated with the king's land revolting from him.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An earthquake during the night is associated with harm or devastation coming
+    to the land.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The first set of omens is attributed to Apia.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage reports that an earthquake occurred last night.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An earthquake in Tebet is associated with the king sitting in the city of
+    his foe.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: An earthquake in Tebet is associated with the palace of the prince being smitten
+    and going to ruins.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The second set of omens is attributed to the Chief Astrologer.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the king
+  description: A king whose land may revolt from him and who may sit in the city of
+    his foe.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the prince
+  description: A prince whose palace is said in the omen to be smitten and go to ruins.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: the king's foe
+  description: The foe associated with the city in which the king will sit.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Apia
+  description: Named in the attribution following the first set of omens.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: the Chief Astrologer
+  description: Titled source in the attribution following the second set of omens.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: king
+  assigned_to:
+  - fig:1
+  basis: The passage refers to the king's land and to the king sitting in the city
+    of his foe.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: prince
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the palace of the prince.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: foe
+  assigned_to:
+  - fig:3
+  basis: The passage refers to the city of the king's foe.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: attributed report source
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The omen units end with attributions to Apia and to the Chief Astrologer.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: astrological specialist
+  assigned_to:
+  - fig:5
+  basis: The source is titled Chief Astrologer.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: earthquake omen
+  literal_form: the earth quakes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Nisan
+  literal_form: the month Nisan
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: night
+  literal_form: during the night / in the night / last night
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Tebet
+  literal_form: the month Tebet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: the land
+  literal_form: the king's land / the land
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:6
+  label: city of the foe
+  literal_form: the city of his foe
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: prince's palace
+  literal_form: the palace of the prince
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Nisan and night earthquake omens from Apia
+  summary: The first omen unit states that an earthquake in Nisan means the king's
+    land will revolt, and that an earthquake at night means harm or devastation to
+    the land; the unit is attributed to Apia.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Reported earthquake and Tebet omens from the Chief Astrologer
+  summary: The second unit reports an earthquake the previous night, then gives Tebet
+    earthquake omens concerning the king in the city of his foe and the ruin of the
+    prince's palace; it repeats the night earthquake omen of harm or devastation to
+    the land and is attributed to the Chief Astrologer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Earthquake as omen of political revolt and devastation
+  taxonomy_refs: []
+  basis: The passage repeatedly treats earthquakes as omens for revolt, harm, devastation,
+    enemy-city occupation, and palace ruin.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not state a divine cause or broader mythic narrative;
+    the motif is extracted as an omen-pattern only.
+- id: motif:2
+  label: Calendrical differentiation of portents
+  taxonomy_refs: []
+  basis: Earthquakes in Nisan and in Tebet receive different named consequences.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Only two named months are present in the supplied passage.
+- id: motif:3
+  label: Nighttime earthquake as omen of harm to the land
+  taxonomy_refs: []
+  basis: Both omen units connect an earthquake at night with harm or devastation to
+    the land.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The outcome is phrased as harm or devastation, without further narrative
+    detail.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '27844'
+  quote_or_summary: "“OMENS FROM EARTHQUAKES”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source metadata; short quotation from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 27846-27849
+  quote_or_summary: An earthquake in Nisan is said to mean the king's land will revolt;
+    an earthquake at night is said to bring harm or devastation to the land; the unit
+    is attributed to Apia.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 27851-27856
+  quote_or_summary: The report says there was an earthquake last night; earthquakes
+    in Tebet are linked to the king sitting in the city of his foe and the prince's
+    palace being smitten and ruined; a night earthquake is linked with harm or devastation
+    to the land; the unit is attributed to the Chief Astrologer.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage is brief and formulaic, making literal extraction straightforward.
+    No comparison claims were made because the supplied passage does not itself support
+    cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No supplied taxonomy motif family was assigned; the extracted motifs are passage-level omen patterns.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l27844-l27856
+  passage_sha256=ef90227c3375df928450054bbf4d873090d12f95b4493483ae71aa90f4e9b4a4
+

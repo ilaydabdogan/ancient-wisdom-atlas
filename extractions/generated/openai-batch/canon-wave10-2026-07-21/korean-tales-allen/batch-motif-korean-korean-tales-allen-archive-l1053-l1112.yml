@@ -1,0 +1,431 @@
+---
+record_id: batch.motif.korean-korean-tales-allen-archive-l1053-l1112
+source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+passage_locator:
+  label: THE  RABBIT  AND  OTHER  LEGENDS.  3 1 / THE  RABBIT  AND  OTHER  LEGENDS.  33
+    / THE  RABBIT  AND  OTHER  LEGENDS.  35 / THE  RABBIT  AND  OTHER  LEGENDS.  37;
+    lines 1053-1112
+  start: '1053'
+  end: '1112'
+  translation: Korean Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A rabbit, curious about the underwater realm, accepts a turtle’s offer
+    to carry him there. In a magnificent underwater palace, attendant fishes escort
+    him to the sick king’s chamber, where doctors discuss taking the rabbit’s eyes
+    before he dies. After learning the plot, the rabbit claims that his real eyes
+    are buried in the sand and that he is wearing crystal substitutes, offering to
+    return on the turtle’s back to fetch one real eye for the king.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The rabbit asks whether water gets into the eyes and mouth and privately longs
+    to see strange sights.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The turtle says water bothers them no more than air after they become accustomed
+    to it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The rabbit says he would like to see the place but cannot live in water like
+    a fish.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The turtle offers to carry the rabbit on his back if the rabbit gives him
+    his fore-paws.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The rabbit accepts the offer, is fixed on the turtle’s back at the beach,
+    and they go down into the water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The rabbit becomes somewhat accustomed to the water after initial discomfort.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Attendant fishes escort the rabbit through a magnificent palace to the sick
+    king’s chamber, where learned doctors are gathered.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The rabbit overhears a discussion about securing his eyes before he dies and
+    learns the plot from an attendant.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The rabbit says he has real eyes and mountain-crystal eyes, and that he buried
+    his real eyes in the sand before riding the turtle.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The rabbit offers to fetch one real eye for the king if he is allowed to ride
+    back on the turtle.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: rabbit
+  description: A land animal curious about the underwater place; he rides the turtle,
+    discovers a plot against him, and claims to have removable real eyes and crystal
+    substitute eyes.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: turtle
+  description: A water-dwelling animal who says water is manageable, conceals excitement,
+    and offers to carry the rabbit underwater on his back.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: king
+  description: A sick ruler in the underwater palace whose disorder is the reason
+    the rabbit’s eye is sought.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: learned doctors
+  description: A council of doctors in the sick king’s chamber who discuss how to
+    secure the rabbit’s eyes before he dies.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: attendant fishes and attendant
+  description: Fishes escort the rabbit through the palace; an attendant explains
+    the plot to him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: curious visitor to the underwater realm
+  assigned_to:
+  - fig:1
+  basis: The rabbit wants to see the place and accepts transport into the water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: carrier and guide across the water boundary
+  assigned_to:
+  - fig:2
+  basis: The turtle offers to take the rabbit down into the water on his back.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: sick ruler needing a cure
+  assigned_to:
+  - fig:3
+  basis: The king is in a sick chamber, and the rabbit says one real eye could cure
+    his majesty’s disorder.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: medical council seeking the rabbit’s eyes
+  assigned_to:
+  - fig:4
+  basis: The doctors gather in the king’s chamber and discuss securing the rabbit’s
+    eyes before he dies.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: threatened speaker using deception
+  assigned_to:
+  - fig:1
+  basis: After learning the plot, the rabbit claims his real eyes are buried in the
+    sand and that he is wearing crystal eyes.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: palace attendants and informant
+  assigned_to:
+  - fig:5
+  basis: Attendant fishes escort the rabbit, and an attendant explains the plot to
+    him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: water boundary
+  literal_form: water and underwater passage
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: underwater palace
+  literal_form: gorgeous palace under the water
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: rabbit’s eyes as desired remedy
+  literal_form: the rabbit’s eyes, to be secured before he dies and used for the king’s
+    disorder
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: mountain-crystal substitute eyes
+  literal_form: a pair of eyes made of mountain crystals, according to the rabbit’s
+    claim
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: buried real eyes
+  literal_form: the rabbit’s claimed real eyes buried in the sand before he mounted
+    the turtle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Rabbit questions the turtle about the water
+  summary: The rabbit asks how water affects eyes and mouth, and the turtle replies
+    that it is no trouble once one is accustomed to it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Turtle offers underwater transport
+  summary: The rabbit says he wants to see the place but cannot live in water; the
+    turtle offers to carry him on his back.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Descent into the water
+  summary: At the beach, the rabbit is fixed on the turtle’s back, and they go down
+    into the water; the rabbit is uncomfortable at first but becomes more accustomed
+    to it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Arrival at the palace and sick chamber
+  summary: The rabbit sees the magnificent palace and is escorted by attendant fishes
+    to the sick king’s chamber, where learned doctors welcome him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Rabbit discovers the eye plot
+  summary: The rabbit overhears discussion about taking his eyes before he dies; after
+    questioning an attendant, he understands the plot and fears for his life.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Rabbit claims hidden real eyes
+  summary: The rabbit claims that he is wearing crystal eyes and has left his real
+    eyes buried in the sand, then offers to return with one for the king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Journey across the land-water boundary on an animal carrier
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The land-dwelling rabbit cannot travel in the water alone, so the turtle
+    carries him into the underwater realm.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage shows a boundary crossing
+    but does not itself name a trickster type.
+- id: motif:2
+  label: Underwater royal palace and animal court
+  taxonomy_refs: []
+  basis: The rabbit is escorted through a magnificent underwater palace to a sick
+    king’s chamber with attendants and doctors.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches an underwater palace or
+    animal court.
+- id: motif:3
+  label: Body part sought as cure for a sick ruler
+  taxonomy_refs: []
+  basis: The doctors discuss securing the rabbit’s eyes before he dies, and the rabbit
+    later says one eye may cure the king’s disorder.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not state the full medical theory or outcome of the intended
+    cure.
+- id: motif:4
+  label: Deceptive claim of removable substitute eyes
+  taxonomy_refs:
+  - trickster_boundary
+  basis: To respond to the danger, the rabbit claims he has real eyes buried in the
+    sand and is currently using mountain-crystal substitute eyes.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The deception is explicit, but the passage ends before showing whether
+    the ruse succeeds.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1053-1062
+  quote_or_summary: The rabbit asks if water troubles the eyes and mouth and longs
+    to see strange sights; the turtle says water is like air once one is accustomed
+    to it.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public-domain source metadata; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1063-1075
+  quote_or_summary: The rabbit says he wants to see the place but cannot live in water;
+    the turtle says he cannot go alone but may ride on the turtle’s back.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public-domain source metadata; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1076-1086
+  quote_or_summary: After further assurance, the rabbit accepts, is fixed on the turtle’s
+    back at the beach, and they go into the water; he eventually becomes accustomed
+    to it.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public-domain source metadata; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1087-1097
+  quote_or_summary: The rabbit is charmed by the magnificent palace and is escorted
+    by attendant fishes to the sick king’s chamber, where learned doctors welcome
+    him.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public-domain source metadata; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1098-1105
+  quote_or_summary: The rabbit hears discussion about securing his eyes before he
+    dies; an attendant explains the plot, and the rabbit wonders if he will get out
+    alive.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public-domain source metadata; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 1106-1112
+  quote_or_summary: The rabbit says he has real eyes and mountain-crystal eyes, claims
+    his real eyes are buried in the sand, and offers to fetch one for the king on
+    the turtle’s back.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public-domain source metadata; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is internally clear for figures, scenes, and symbols. Motif taxonomy
+    mapping is cautious because the available taxonomy contains only broad categories,
+    and no comparison claim is made within the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata; comparison claims are left empty because no passage-internal comparative statement is present.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-tales-allen-archive__l1053-l1112
+  passage_sha256=9108a60b19bb8d02a2caf82ede4082a355f4870af7b43d332a9f029806825297
+

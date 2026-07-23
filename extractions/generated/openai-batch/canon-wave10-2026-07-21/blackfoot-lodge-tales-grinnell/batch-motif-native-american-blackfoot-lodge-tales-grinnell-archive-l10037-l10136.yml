@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.native-american-blackfoot-lodge-tales-grinnell-archive-l10037-l10136
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+passage_locator:
+  label: HUNTING    .,  241 / THE   BLACKFOOT   IN   WAR / THE    BLACKFOOT    IN    WAR  243
+    / THE   BLACKFOOT   IN   WAR  245; lines 10037-10136
+  start: '10037'
+  end: '10136'
+  translation: Blackfoot Lodge Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage explains the Plains practice called counting coup: a warrior
+    gains honor by approaching an enemy closely enough to strike or touch that person
+    with an object in hand. It distinguishes this act from killing or scalping, describes
+    its danger and social prestige, notes the counting and recounting of coups in
+    ceremonies, and compares differing understandings of coup among Blackfeet, Pawnees,
+    Cheyennes, and other Plains tribes.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the term “count coup” derives from French usage and
+    translates an Indian phrase meaning to strike the enemy.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Counting coup is described as physically approaching an enemy within arm’s
+    length and striking or touching the enemy with something held in the hand.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says killing an enemy or scalping him may be praiseworthy, but
+    is presented as less brave than striking or touching him by hand-held means.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Objects named as usable for the blow include a whip, coupstick, club, lance,
+    gun muzzle, and bow.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The person on whom a coup was counted did not necessarily have to be injured;
+    the act could be performed on a woman being captured or a child being made prisoner.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Counting coup could involve danger because the enemy might still resist, shoot,
+    or injure the approaching warrior.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A warrior’s first coup and later coups were remembered and numbered, and warriors
+    recounted coups at some dances and religious ceremonies, including the Medicine
+    Lodge.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Among the Blackfeet, riding over and knocking down an enemy on foot, or violently
+    riding one’s horse against a mounted enemy, could be regarded as a coup.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage says Plains tribes differed in what they counted as a coup; Pawnees
+    required actual touching of the enemy.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: warrior counting coup
+  description: A warrior who approaches an enemy closely enough to strike or touch
+    him with an object in hand.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: enemy or captive touched in coup
+  description: The person on whom the coup is counted; the passage includes enemies
+    defending themselves, fallen foes, women being captured, and children being made
+    prisoner.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Plains tribes
+  description: Tribes mentioned in relation to coup practices include Blackfeet, Pawnees,
+    Cheyennes, and others.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: honor-seeking warrior
+  assigned_to:
+  - fig:1
+  basis: The passage says the act proves bravery and brings respect to the man who
+    performs it.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: target of coup
+  assigned_to:
+  - fig:2
+  basis: The passage describes the person struck or touched as the one on whom the
+    coup is counted.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: tradition bearers with varying coup rules
+  assigned_to:
+  - fig:3
+  basis: The passage compares how different Plains tribes defined what counted as
+    a coup.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: coup touch or blow
+  literal_form: A touch or blow delivered at close range with something held in the
+    hand.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: hand-held coup implements
+  literal_form: Whip, coupstick, club, lance, gun muzzle, bow, or other object held
+    in the hand.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: numbered coups
+  literal_form: Remembered and numbered coups recounted by warriors.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: approach and touch of the enemy
+  summary: A warrior demonstrates courage by coming within arm’s length of an enemy
+    and striking or touching that person with a hand-held object.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: danger of coup against resisting foe
+  summary: The warrior may attempt the coup against an enemy who is still able to
+    resist, wound, or kill him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: recounting coups in ceremony
+  summary: Warriors remember and number coups and recount them at dances and religious
+    ceremonies such as the Medicine Lodge.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: tribal variation in defining coup
+  summary: Different Plains tribes recognize different acts as coups; the Blackfeet
+    include some horse-based acts, while the Pawnees require actual touching of the
+    enemy.
+  figure_refs:
+  - fig:3
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: martial honor through perilous touch
+  taxonomy_refs: []
+  basis: The passage identifies the most esteemed act as approaching close enough
+    to an enemy to touch or strike him, with the danger itself proving courage.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is an ethnographic war-custom pattern rather than a narrative myth
+    episode.
+- id: motif:2
+  label: numbered deeds of bravery remembered and ritually recounted
+  taxonomy_refs:
+  - initiation
+  basis: The passage says the first coup is a proud event in a young warrior’s life,
+    subsequent coups are numbered, and warriors recount them at dances and religious
+    ceremonies.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly call the first coup an initiation rite;
+    the taxonomy reference is only a broad thematic fit.
+- id: motif:3
+  label: intertribal variation in heroic-war deed rules
+  taxonomy_refs: []
+  basis: The passage states that each Plains tribe had its own view of what constituted
+    a coup and gives Blackfeet and Pawnee examples.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a comparative cultural pattern within the passage, not a mythic
+    narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents counting coup, or striking the enemy, as a broadly recognized
+    Plains war-honor pattern, while also noting that definitions differed by tribe.
+  claim_level: same_function
+  target: Blackfeet, Pawnees, Cheyennes, and other Plains tribes’ coup practices
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  counter_evidence_refs:
+  - ev:7
+  confidence: high
+  limitations: The comparison is limited to the tribes and examples named in the passage
+    and does not establish a single uniform practice.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10045-10056
+  quote_or_summary: The phrase “count coup” is explained as coming from French usage
+    and as nearly translating an Indian phrase meaning to strike the enemy.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10058-10070
+  quote_or_summary: The most creditable act is to prove courage by approaching close
+    enough to an enemy to strike or touch him with something held in the hand; this
+    is identified as counting coup.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10072-10086
+  quote_or_summary: The blow could be made with a whip, coupstick, club, lance, gun
+    muzzle, bow, or other object; injury was not required, and coups could be counted
+    on women being captured or children being made prisoner.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10088-10103
+  quote_or_summary: A coup could be dangerous because the enemy might still defend
+    himself, rise, shoot, or otherwise injure the approaching warrior; men often fought
+    to the death.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 10105-10116
+  quote_or_summary: Striking the blow is an important life event; a young warrior’s
+    first coup and later coups are remembered and numbered, and warriors recount coups
+    at dances and ceremonies such as the Medicine Lodge.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10118-10129
+  quote_or_summary: Some dangerous acts could also count as coups; among the Blackfeet,
+    riding over an enemy on foot or riding violently against a mounted foe was regarded
+    as a coup.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 10131-10136
+  quote_or_summary: Each Plains tribe held its own view of what constituted a coup;
+    Pawnees were strict and counted it only when the enemy’s person was actually touched.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explicit about the war-custom pattern and intertribal comparison.
+    Motif-family mapping is cautious because the passage is ethnographic rather than
+    mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy symbol refs are directly present in this passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-blackfoot-lodge-tales-grinnell-archive__l10037-l10136
+  passage_sha256=86c352db542a5e1492ddf84384c7903e016f94191e40391805a12f20332c0bfc
+

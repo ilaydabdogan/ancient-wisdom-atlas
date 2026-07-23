@@ -1,0 +1,561 @@
+---
+record_id: batch.motif.native-american-chinook-texts-boas-archive-l2080-l2171
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+passage_locator:
+  label: Chinook Texts / BOAS J; lines 2080-2171
+  start: '2080'
+  end: '2171'
+  translation: Chinook Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes two Blue-Jay episodes in which he observes or benefits
+    from others' food-producing actions, invites them to his house, and fails when
+    he tries to repeat their methods. It then begins a story of Ckulkulo'L, the salmon-harpoon,
+    who catches steel-head salmon but withholds it from his elder sister while she
+    continues to feed him roots; she discovers evidence of his concealment and tells
+    him to leave the house.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Blue-Jay invites Magpie to come for his kettle, then prepares a kettle with
+    water, a salmon egg, and hot stones, imitating Magpie's earlier action.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Blue-Jay's kettle contains nothing, while Magpie repeats the procedure with
+    a dry salmon egg and hot stones and fills the kettle with salmon eggs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Blue-Jay and his sister visit Duck; Duck's five children wash, dive, each
+    bring up trout, and after repeated dives fill a mat with trout that are roasted
+    and served.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Blue-Jay invites Duck to retrieve the mat and then has his sister's children
+    try to wash and dive, but they cannot dive properly, become very cold, and return
+    empty-handed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Ckulkulo'L's elder sister tells him to catch steel-head salmon like other
+    people; he makes a harpoon, catches a salmon, roasts it, and eats it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Ckulkulo'L repeatedly considers giving parts of the salmon to his sister but
+    rejects each option and gives her none, while she returns from digging roots and
+    feeds him roasted roots.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:7
+  text: People comment that Ckulkulo'L has large salmon and does not give anything
+    to his sister; she initially thinks they are making fun of her brother.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The elder sister smells grease, finds grease and a salmon egg, realizes Ckulkulo'L
+    has withheld food, gives the egg to him, and later tells him to leave the house.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Blue-Jay
+  description: A figure who visits Magpie and Duck, invites them back, and tries to
+    imitate their food-producing actions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Io'i / Blue-Jay's sister
+  description: Blue-Jay's elder sister or sister-companion, named Io'i in the Duck
+    episode, who accompanies him and has children.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Magpie
+  description: A visitor who successfully fills a kettle with salmon eggs using a
+    dry salmon egg and hot stones.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Duck
+  description: Host figure visited by Blue-Jay and his sister; she directs her children
+    to wash and later arrives at Blue-Jay's house with them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Duck's five children
+  description: Duck's children who wash, dive, and bring up trout.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Blue-Jay's sister's children
+  description: Children of Blue-Jay's sister who are told to wash and dive but fail
+    to bring up fish.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Ckulkulo'L / the salmon-harpoon
+  description: A younger brother who makes a harpoon, catches steel-head salmon, eats
+    the salmon himself, and hides the fact from his sister.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: Ckulkulo'L's elder sister
+  description: An elder sister who digs roots, feeds her younger brother, discovers
+    grease and a salmon egg, and tells him to leave the house.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:9
+  name_or_label: the people
+  description: Unspecified people who comment on the size of Ckulkulo'L's salmon and
+    on his failure to give food to his sister.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: failed imitator and inviter
+  assigned_to:
+  - fig:1
+  basis: Blue-Jay invites Magpie and Duck to his house and tries to reproduce their
+    food-producing procedures, but the attempts fail.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: successful food producer or host
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Magpie produces salmon eggs in a kettle; Duck's children procure trout, and
+    Duck's household feeds the visitors.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: elder sister and cautious companion
+  assigned_to:
+  - fig:2
+  basis: Blue-Jay's sister accompanies him, comments that visitors come because he
+    invited them, and is linked to the children Blue-Jay sends to dive.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: diving food-gatherers
+  assigned_to:
+  - fig:5
+  basis: Duck's children dive repeatedly and bring up trout.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: unsuccessful kin-imitators
+  assigned_to:
+  - fig:6
+  basis: Blue-Jay's sister's children attempt to dive but return empty-handed and
+    nearly dead with cold.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: younger brother who withholds food
+  assigned_to:
+  - fig:7
+  basis: Ckulkulo'L catches and eats salmon while repeatedly refusing to give portions
+    to his sister.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: elder sister provider and discoverer
+  assigned_to:
+  - fig:8
+  basis: The elder sister digs and roasts roots for her brother, then discovers grease
+    and a salmon egg that reveal his withheld salmon.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:8
+  label: community commentators
+  assigned_to:
+  - fig:9
+  basis: The people publicly remark that Ckulkulo'L has salmon and gives none to his
+    sister.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire and hot stones
+  literal_form: Fire, heated stones, and roasting/boiling heat used in food preparation.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: water
+  literal_form: Water in the kettle and water at the beach where figures wash or dive.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: salmon egg
+  literal_form: A salmon egg used in the kettle episode and later found as evidence
+    in Ckulkulo'L's concealment.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: sym:4
+  label: kettle
+  literal_form: A kettle into which water, a salmon egg, and hot stones are placed.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:5
+  label: mat full of trout
+  literal_form: A mat filled with trout after Duck's children dive; Blue-Jay later
+    tells Duck to retrieve the mat.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: salmon-harpoon
+  literal_form: The harpoon made and used by Ckulkulo'L to catch steel-head salmon;
+    also part of his descriptive label.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: roots
+  literal_form: Roots, including potentilla roots, dug and roasted by the elder sister
+    and given to her brother.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:8
+  label: ten dives
+  literal_form: The repeated action described as diving ten times in both the successful
+    Duck-child episode and the failed imitation.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:9
+  label: steel-head salmon
+  literal_form: Steel-head salmon caught, roasted, and eaten by Ckulkulo'L.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Magpie's kettle and Blue-Jay's failed imitation
+  summary: Blue-Jay tries to make salmon eggs in a kettle with a salmon egg, water,
+    and hot stones, but nothing appears; Magpie repeats the process successfully.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Duck's trout diving and Blue-Jay's failed diving imitation
+  summary: Duck's children successfully dive for trout and fill a mat, but Blue-Jay's
+    sister's children fail when asked to imitate the diving.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  - sym:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Ckulkulo'L catches salmon and withholds it
+  summary: Ckulkulo'L makes a harpoon, catches salmon while his sister digs roots,
+    roasts and eats the salmon, and gives none to his sister despite considering several
+    portions.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  - sym:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: The elder sister discovers the concealed food
+  summary: Ckulkulo'L's elder sister finds evidence of grease and a salmon egg, understands
+    that he withheld food, and tells him to leave the house.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: failed imitation of another being's food-producing practice
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Blue-Jay attempts to reproduce Magpie's kettle method and Duck's diving method
+    after inviting them back, but both attempts fail and others remark that he can
+    do only one thing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage supports failed imitation and boundary of capacity; the taxonomy
+    link to trickster_boundary is interpretive because the passage does not explicitly
+    label Blue-Jay as a trickster.
+- id: motif:2
+  label: reciprocal visiting and food-gift hospitality
+  taxonomy_refs: []
+  basis: Blue-Jay and his sister visit households where food is procured and served,
+    and Blue-Jay then invites the providers to his own house to retrieve objects.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No sacred or ritual status for the exchange is stated in the passage.
+- id: motif:3
+  label: sibling pair with violated food sharing
+  taxonomy_refs:
+  - sibling_pair
+  basis: Ckulkulo'L and his elder sister form a sibling pair in which the sister feeds
+    him roots while he catches salmon and gives her none.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage ends with the sister's command to leave; later consequences
+    are outside the supplied excerpt.
+- id: motif:4
+  label: food remnant exposes concealed consumption
+  taxonomy_refs: []
+  basis: The sister finds grease and a salmon egg that reveal Ckulkulo'L has been
+    eating salmon without sharing it.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage gives the discovery but not a fully narrated resolution beyond
+    the command to leave.
+- id: motif:5
+  label: commanded departure after household breach
+  taxonomy_refs:
+  - departure
+  basis: After discovering Ckulkulo'L's conduct, the elder sister tells him to leave
+    the house.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: Only the command to leave is present; an actual departure is not narrated
+    in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The Magpie-kettle episode and the Duck-diving episode have the same internal
+    narrative function: a skilled food-producing household or visitor provides food,
+    Blue-Jay invites them back, and his attempt to imitate the method fails.'
+  claim_level: same_function
+  target: Internal repetition between the Blue-Jay/Magpie kettle episode and the Blue-Jay/Duck
+    diving episode
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal structural comparison within the supplied passage
+    only; it does not claim historical contact, common inheritance, or an external
+    motif parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2080-2171, Magpie-kettle setup segment
+  quote_or_summary: Blue-Jay tells Magpie to come for the kettle; next morning Blue-Jay
+    prepares his house, finds a salmon egg, heats stones, puts water and the egg into
+    the kettle, adds hot stones, covers it, and imitates Magpie's procedure.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2080-2171, Magpie-kettle result segment
+  quote_or_summary: Blue-Jay uncovers the kettle and finds nothing; Magpie remarks
+    that Blue-Jay can do only one thing, then uses one dry salmon egg and hot stones
+    so that the kettle becomes full of salmon eggs.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 2080-2171, Duck visit and trout-diving segment
+  quote_or_summary: Blue-Jay and his sister visit Duck; Duck sends her five children
+    to wash, they dive and each carry trout, and after ten dives their mat is full
+    of trout that are roasted and served to the visitors.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 2080-2171, Duck return and failed diving segment
+  quote_or_summary: Blue-Jay invites Duck to come for the mat; when Duck arrives with
+    her children, Blue-Jay sends his sister's children to wash and dive, but their
+    backs stay above water, they become almost dead with cold after ten dives, and
+    they return empty-handed.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 2080-2171, opening Ckulkulo'L segment
+  quote_or_summary: Ckulkulo'L, called the salmon-harpoon, is told by his elder sister
+    to catch steel-head salmon; he makes a harpoon, catches a salmon while she digs
+    roots, roasts it, rejects giving her any portion, eats the whole fish, and is
+    later fed roasted roots by her.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 2080-2171, repeated salmon-withholding segment
+  quote_or_summary: 'On later days the pattern repeats: Ckulkulo''L catches large
+    salmon, people remark that he gives nothing to his sister, and his sister initially
+    thinks they are mocking her brother.'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 2080-2171, discovery and command-to-leave segment
+  quote_or_summary: The elder sister smells grease, finds grease and a salmon egg,
+    realizes Ckulkulo'L has acted against her by never giving her food, gives him
+    the egg, and the next morning tells him to leave the house.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is based only on the supplied passage. Motif labels are
+    conservative; taxonomy mappings that go beyond explicit wording are marked with
+    cautions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparative claims are made. Comparison claim is limited to the repeated internal structure of the two Blue-Jay food-imitation episodes.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-chinook-texts-boas-archive__l2080-l2171
+  passage_sha256=383124469ef070861fbc13ac447e730f5e9f1d8332cf3de923f326f1a9b4b584
+

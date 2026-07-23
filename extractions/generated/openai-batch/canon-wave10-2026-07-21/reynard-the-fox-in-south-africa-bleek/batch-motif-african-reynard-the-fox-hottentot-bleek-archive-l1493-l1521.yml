@@ -1,0 +1,363 @@
+---
+record_id: batch.motif.african-reynard-the-fox-hottentot-bleek-archive-l1493-l1521
+source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+passage_locator:
+  label: JACKAL  FABLES. / THE  HYENA. / CL  0  UD-EA  TING.  1 5 / THE  HYENA.; lines
+    1493-1521
+  start: '1493'
+  end: '1521'
+  translation: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A female hyena addresses her children after returning from a marauding
+    expedition, naming threats she has faced while getting food. The passage then
+    begins a jackal story: a jackal sees a fish-laden wagon, fails to get into it
+    from behind, runs ahead, lies in the road as if dead, and is noticed by the wagon
+    party.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A female hyena returns from a marauding expedition and addresses her young
+    ones about perils she encountered.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hyena names fire, stone, assegais, and guns as threatening things.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The hyena says her children seek food from her and asks whether she gets anything
+    easily.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A jackal living on the borders of the colony sees a wagon returning from the
+    seaside laden with fish.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The jackal tries to get into the wagon from behind but cannot.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The jackal runs ahead and lies in the road as if dead.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When the wagon comes up to the jackal, the leader speaks to the driver and
+    calls the jackal a fine kaross for the driver's wife.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the Hyena
+  description: Female animal speaker who returns from a marauding expedition and addresses
+    her young ones.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the Hyena's young ones
+  description: The children addressed by the hyena, who seek food from her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the Jackal
+  description: Animal living on the borders of the colony who sees the fish wagon,
+    tries to enter it, and then lies in the road as if dead.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: the wagon leader
+  description: The person who calls out to the driver when the wagon reaches the jackal.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: the driver
+  description: The wagon driver addressed by the leader.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: the driver's wife
+  description: A woman mentioned by the leader as the possible recipient of a kaross.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: marauding parent and food provider
+  assigned_to:
+  - fig:1
+  basis: The hyena returns from a marauding expedition, addresses her young as children,
+    and speaks of their seeking food from her.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dependent children
+  assigned_to:
+  - fig:2
+  basis: They are called the hyena's young ones and children who seek food from her.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: deceptive food seeker
+  assigned_to:
+  - fig:3
+  basis: The jackal approaches a fish-laden wagon, fails to enter it, and then lies
+    in the road as if dead.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: wagon leader and speaker
+  assigned_to:
+  - fig:4
+  basis: The leader cries out to the driver when the wagon reaches the jackal.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: driver and addressee
+  assigned_to:
+  - fig:5
+  basis: The driver is addressed by the leader in the wagon scene.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: mentioned potential recipient
+  assigned_to:
+  - fig:6
+  basis: The leader refers to the driver's wife as the person for whom the jackal
+    could be a kaross.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire named as a threat
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: stone
+  literal_form: stone named as a threat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: assegais
+  literal_form: assegais named as threats
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: guns
+  literal_form: guns named as threats
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: fish cargo
+  literal_form: fish loaded on the wagon returning from the seaside
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: wagon
+  literal_form: wagon returning from the seaside laden with fish
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:7
+  label: road
+  literal_form: road where the jackal lies as if dead
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: feigned death posture
+  literal_form: the jackal lying in the road as if dead
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: kaross
+  literal_form: the jackal is spoken of as a fine kaross for the driver's wife
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hyena addresses her children after danger
+  summary: The hyena returns from marauding, lists threats, and tells her children
+    that getting food is not easy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jackal intercepts fish wagon
+  summary: A jackal sees a wagon laden with fish, fails to climb in from behind, runs
+    ahead, and lies in the road as if dead.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Wagon party notices the feigned corpse
+  summary: The wagon reaches the jackal, and the leader tells the driver that the
+    jackal would make a fine kaross for the driver's wife.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: dangerous food provisioning by an animal parent
+  taxonomy_refs: []
+  basis: The hyena speaks as a parent whose children seek food from her, while she
+    names multiple threats encountered after a marauding expedition.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a brief address rather than a developed narrative episode.
+- id: motif:2
+  label: feigned death to approach food-bearing humans
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The jackal sees fish on a wagon, cannot enter it from behind, then runs ahead
+    and lies in the road as if dead, prompting the wagon party to stop and notice
+    him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The excerpt ends before the outcome of the jackal's deception is shown.
+comparison_claims:
+- id: claim:1
+  claim: 'The jackal episode fits a cautious trickster-boundary comparison: an animal
+    uses deception at the boundary between road and wagon to gain access to human-carried
+    food.'
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the setup of the deception is present in this line range; the
+    success or failure of the trick is not included.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1493-1505
+  quote_or_summary: The hyena returns from a marauding expedition, addresses her young,
+    says fire, stone, assegais, and guns threaten, and says the children seek food
+    from her.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1507-1516
+  quote_or_summary: A jackal living on the borders of the colony sees a wagon returning
+    from the seaside laden with fish and tries unsuccessfully to get into it from
+    behind.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1516-1518
+  quote_or_summary: The jackal runs ahead of the wagon and lies in the road as if
+    dead.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1518-1521
+  quote_or_summary: When the wagon reaches the jackal, the leader tells the driver
+    that it is a fine kaross for the driver's wife.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal details are clear, but the selected range appears to combine
+    a hyena address with the beginning of a jackal fable and ends before the jackal
+    episode resolves.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The passage range includes both a short hyena address and the opening setup of a jackal deception episode; they are treated as separate scenes within the same selected passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-reynard-the-fox-hottentot-bleek-archive__l1493-l1521
+  passage_sha256=e27c0a09e89174bd4cae84fc3692bdece19a18c93eef5407d4fd199dc2f8fdd2
+

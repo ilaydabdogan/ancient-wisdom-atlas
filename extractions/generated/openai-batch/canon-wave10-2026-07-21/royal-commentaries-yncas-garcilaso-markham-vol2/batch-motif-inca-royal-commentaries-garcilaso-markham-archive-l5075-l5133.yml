@@ -1,0 +1,442 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l5075-l5133
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SIXTH  BOOK  OP  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. / SIXTH  BOOK  OP  THE  ROYAL
+    / CHAPTER  V.; lines 5075-5133
+  start: '5075'
+  end: '5133'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Inca royal obsequies: kings were embalmed so that
+    their bodies appeared alive; their internal organs were interred in a temple at
+    Tampu near the Yucay River; Cieza is cited concerning buildings at Tampu and gold
+    used as mortar; when an Inca or great Curaca died, favored servants and beloved
+    wives were buried alive or killed, reportedly voluntarily, so they could serve
+    their lord in a corporeal afterlife; officers sometimes limited the number of
+    volunteers; embalmed royal bodies were placed before the figure of the sun in
+    the temple.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The obsequies for kings are described as solemn and lasting for a year.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The body of a king was embalmed, and the method is said to be unknown.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The embalmed royal bodies were said to remain so perfect that they appeared
+    alive.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The internal organs were interred in a temple at Tampu on the banks of the
+    Yucay River near Cuzco.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Cieza is cited as saying that in edifices at Tampu or another place of the
+    same name, gold was used instead of mortar in part of a royal palace or temple
+    of the sun.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When an Inca or great Curaca died, favored servants and beloved wives were
+    buried alive with him or killed.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The stated reason was that these attendants were to serve their lord in the
+    other life.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that the people believed in another corporeal life after
+    this life.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage says that the victims volunteered to be killed or killed themselves
+    out of love for their lord.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Officers sometimes intervened to limit the number of those going with the
+    deceased, saying others could serve the master later as they died.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: After embalming, the bodies of the kings were placed in front of the figure
+    of the sun in the temple.
+  category: setting
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Ynca kings
+  description: Royal dead whose obsequies, embalming, organ interment, and temple
+    placement are described.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:9
+- id: fig:2
+  name_or_label: Great Curaca
+  description: A high-status deceased lord whose death could be followed by the burial
+    or killing of attendants and wives.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Favourite servants
+  description: Servants of an Inca or great Curaca who were buried alive or killed
+    with him, according to the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Most beloved wives
+  description: Wives of an Inca or great Curaca who were buried alive or killed with
+    him, according to the passage.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Officers
+  description: Officials who limited the number of volunteers accompanying the deceased
+    lord.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Pedro de Cieza
+  description: Cited authority whose words about Tampu buildings and gold used as
+    mortar are reported.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: deceased ruler or lord
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes the deaths and funerary treatment of kings, an Inca,
+    or a great Curaca.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: attendant in death
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Servants and wives are said to accompany the deceased so as to serve him
+    in the other life.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: beloved wife of the deceased
+  assigned_to:
+  - fig:4
+  basis: The passage specifically names the most beloved wives among those buried
+    alive or killed.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: funerary regulator
+  assigned_to:
+  - fig:5
+  basis: Officers intervened when too many volunteered to accompany the deceased.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: cited chronicler
+  assigned_to:
+  - fig:6
+  basis: Cieza is quoted as an authority on buildings at Tampu.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: embalmed royal body
+  literal_form: Preserved body of a king appearing alive
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: sym:2
+  label: interred internal organs
+  literal_form: Internal organs buried in a temple at Tampu
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Tampu temple
+  literal_form: Temple at Tampu on the banks of the Yucay River
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Yucay River
+  literal_form: River on whose banks Tampu is located
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: gold mortar
+  literal_form: Gold used instead of mortar to unite stones in a royal palace or temple
+    of the sun
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: figure of the sun
+  literal_form: Figure of the sun before which embalmed kings were placed in the temple
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Royal embalming and preservation
+  summary: The king's body is embalmed by an unknown method and is said to appear
+    alive after preservation.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Organ interment at Tampu
+  summary: The internal organs of the royal dead are buried in a temple at Tampu,
+    near the Yucay River and Cuzco.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Cieza's report on Tampu buildings
+  summary: Cieza is cited regarding grand buildings at Tampu and the claim that gold
+    was used as mortar in a royal palace or temple of the sun.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Attendants accompany the deceased lord
+  summary: At the death of an Inca or great Curaca, favored servants and beloved wives
+    are buried alive or killed, with the stated purpose of serving him in the other
+    corporeal life.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Officials limit volunteers
+  summary: Officers intervene when too many people volunteer to accompany the deceased,
+    saying the remainder may serve the master later as they die.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Embalmed kings before the sun figure
+  summary: After embalming, royal bodies are placed before the figure of the sun in
+    the temple.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: retainer death for service in the afterlife
+  taxonomy_refs:
+  - sacrifice
+  basis: Servants and wives are buried alive or killed with the deceased lord because
+    they are expected to serve him in the other life.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage emphasizes voluntary participation and rejects coercion; that
+    claim reflects the source's presentation and should be reviewed historically.
+- id: motif:2
+  label: corporeal afterlife continuation of social rank
+  taxonomy_refs: []
+  basis: The passage states that the people believed in another corporeal life after
+    death and that attendants would continue serving their lord there.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: No detailed journey, geography, judgment, or map of the afterlife is given
+    in this passage.
+- id: motif:3
+  label: lifelike embalmed royal ancestor
+  taxonomy_refs: []
+  basis: The royal bodies are embalmed and described as so perfectly preserved that
+    they appeared alive, then placed in a temple before the figure of the sun.
+  evidence_refs:
+  - ev:2
+  - ev:9
+  confidence: medium
+  cautions: The passage describes preservation and placement but does not explicitly
+    explain ritual function beyond the funerary context.
+- id: motif:4
+  label: royal body associated with sun temple imagery
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Embalmed bodies of kings are placed before the figure of the sun in the temple,
+    and Cieza's cited report also refers to a temple of the sun or royal palace at
+    Tampu.
+  evidence_refs:
+  - ev:4
+  - ev:9
+  confidence: low
+  cautions: The passage does not explicitly state a legitimating function; the taxonomy
+    link is inferred from royal-solar placement and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5075-5080
+  quote_or_summary: Chapter heading and opening state that the kings' obsequies were
+    solemn and lasted for a year.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 5081-5089
+  quote_or_summary: The body was embalmed by an unknown method; preserved bodies appeared
+    alive, as noted for five Inca bodies found in 1559.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 5089-5095
+  quote_or_summary: The internal organs were interred in a temple at Tampu on the
+    banks of the Yucay River, less than five miles from Cuzco, amid imposing cut-stone
+    buildings.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 5095-5107
+  quote_or_summary: Pedro de Cieza is cited as saying that in buildings at Tampu,
+    or another place of that name, gold was used instead of mortar in part of a royal
+    palace or temple of the sun.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 5108-5113
+  quote_or_summary: "“When an Ynca or any great Curaca died, his favourite servants
+    and most beloved wives were buried alive with him or killed.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quote used.
+- id: ev:6
+  type: summary
+  locator: lines 5113-5118
+  quote_or_summary: The stated belief was that attendants must serve their lord in
+    the other life, which was understood as corporeal rather than spiritual.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 5118-5126
+  quote_or_summary: The passage says the victims volunteered to be killed or killed
+    themselves out of love for their lord, and denies that they were killed unwillingly
+    by force.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 5126-5131
+  quote_or_summary: The number of volunteers was sometimes so large that officers
+    intervened, saying enough had gone and the rest could serve the master later as
+    they died.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: lines 5132-5133
+  quote_or_summary: After embalming, the bodies of the kings were placed in front
+    of the figure of the sun in the temple.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear on funerary actions and beliefs, but the supplied excerpt
+    ends mid-sentence after the placement of royal bodies in the temple. Motif taxonomy
+    assignments, especially royal_legitimacy, require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. Source spelling and terminology such as Ynca, Curaca, Tampu, and Yucay are retained in labels where relevant.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l5075-l5133
+  passage_sha256=3ebe5e4bb72e783e877312e5e1899685f0d161975dd783352483ccfa6b9cd728
+

@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l409-l476
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: ORIGIN  OF  THE  UNIVERSE / SHAPE  OF  THE  EARTH / NATURE / CAUSE  OF  THE  TIDES;
+    lines 409-476
+  start: '409'
+  end: '476'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives two explanations of tides involving Pusat Tassek or Pusat
+    tasek, described as a cavern, huge ocean-bottom hole, or Navel of the Lake/Seas
+    inhabited by a vast or gigantic crab. In one account the crab’s return displaces
+    water and causes flood tide, while its departure lets water rush into the cavern
+    and causes ebb. In Clifford’s variant the crab blocks the aperture to the underworld
+    while seated; rivers raise the sea then, and ebb occurs when the crab leaves and
+    waters pour down through the hole. The passage also discusses the legendary Pauh
+    Janggi tree, said in Malay fable to grow in the central whirlpool or Navel of
+    the Seas, sometimes on a sunken bank and guarded by dragons, and notes its prominence
+    in Malay romances and shadow-plays.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pusat Tassek is described as a cavern called the navel of the lake, inhabited
+    by a vast crab.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the first explanation, the crab’s return to its abode displaces water and
+    causes the flow of the tide, while its departure lets water rush into the cavern
+    and causes the ebb.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Clifford’s variant describes Pusat tasek, the Navel of the Seas, as a huge
+    hole in the ocean bottom.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In Clifford’s variant, a gigantic crab sits in the hole and twice daily gets
+    out to search for food.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: While the crab sits in the hole, its bulk blocks the aperture and prevents
+    ocean waters from pouring into the underworld; when absent, waters pour through
+    the hole and the ebb occurs.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Pauh Janggi tree is said in Malay fable to grow in the central whirlpool
+    or Navel of the Seas.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Some versions add that the Pauh Janggi tree grows on a sunken bank and is
+    guarded by dragons.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Pauh Janggi tree is reported to figure largely in Malay romances, especially
+    those used in Malay shadow-plays.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: vast or gigantic crab
+  description: A crab inhabiting or sitting in Pusat Tassek/Pusat tasek, leaving and
+    returning at stated times or twice daily.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: dragons
+  description: Dragons that guard the Pauh Janggi tree in some versions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: tide-causing sea creature
+  assigned_to:
+  - fig:1
+  basis: The crab’s movement or position is used to explain the flow and ebb of the
+    tide.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: aperture blocker and food-seeker
+  assigned_to:
+  - fig:1
+  basis: In Clifford’s account, the crab fills and blocks the ocean-bottom aperture
+    while sitting in it and leaves twice daily to search for food.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: tree guardians
+  assigned_to:
+  - fig:2
+  basis: Some versions say the Pauh Janggi tree is guarded by dragons.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Pusat Tassek / Pusat tasek, Navel of the Lake or Seas
+  literal_form: A cavern, huge ocean-bottom hole, central whirlpool, or maritime aperture
+    associated with the tides.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: giant crab
+  literal_form: A vast or gigantic crab occupying the sea/lake navel and controlling
+    water movement by leaving, returning, or blocking the hole.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Pauh Janggi tree
+  literal_form: A wonderful legendary tree said to grow in the central whirlpool or
+    Navel of the Seas, and in some versions on a sunken bank.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: sunken bank
+  literal_form: A submerged bank on which the Pauh Janggi tree grows in some versions.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: underworld below the sea aperture
+  literal_form: The place into which ocean waters would pour through the great hole
+    when not blocked by the crab.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Crab movement causes ebb and flow
+  summary: A vast crab inhabits the cavern called Pusat Tassek; its return displaces
+    water and causes the tide to flow, and its departure lets water rush into the
+    cavern and causes ebb.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Crab blocks the Navel of the Seas
+  summary: In Clifford’s variant, a gigantic crab sits in the ocean-bottom hole and
+    blocks waters from descending to the underworld; when it leaves to search for
+    food, waters pour downward and the ebb results.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pauh Janggi at the sea navel
+  summary: The Pauh Janggi tree grows in the central whirlpool or Navel of the Seas;
+    some versions place it on a sunken bank and add dragon guardians.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Tides caused by a giant crab at the sea navel
+  taxonomy_refs: []
+  basis: Both explanations account for tidal ebb and flow through the actions or position
+    of a vast or gigantic crab in Pusat Tassek/Pusat tasek.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: 'The two accounts differ in mechanism: one emphasizes displaced water
+    from the crab’s movement, while the other emphasizes the crab blocking or unblocking
+    a hole to the underworld.'
+- id: motif:2
+  label: Central sea navel or maritime world-center aperture
+  taxonomy_refs:
+  - world_center
+  basis: The passage names Pusat Tassek/Pusat tasek as the Navel of the Lake or Seas
+    and also locates the Pauh Janggi tree in the central whirlpool or Navel of the
+    Seas.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage supplies a central maritime image but does not fully describe
+    a cosmological world center beyond the navel/central-whirlpool language.
+- id: motif:3
+  label: Legendary tree at the Navel of the Seas
+  taxonomy_refs:
+  - world_center
+  basis: Malay fable places the Pauh Janggi tree in the central whirlpool or Navel
+    of the Seas, and some versions add a sunken bank and dragon guardians.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage calls the tree wonderful and legendary but does not explicitly
+    state an axis or sacred-tree cosmology.
+- id: motif:4
+  label: Dragon-guarded tree
+  taxonomy_refs: []
+  basis: Some versions add that the Pauh Janggi tree is guarded by dragons.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives only a brief note about the guardians and does not narrate
+    an episode involving them.
+comparison_claims:
+- id: claim:1
+  claim: 'The two tide explanations in the passage are variants of the same functional
+    pattern: Pusat Tassek/Pusat tasek and its crab account for tidal ebb and flow.'
+  claim_level: same_function
+  target: The initial tide account and Clifford’s slightly different explanation within
+    the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: 'The mechanisms are not identical: one uses water displacement as the
+    crab returns and departs, while the other uses blockage and unblocking of a hole
+    leading to the underworld.'
+- id: claim:2
+  claim: The Pauh Janggi tree is presented as a recurring motif in nearby Malay narrative
+    and performance tradition.
+  claim_level: same_motif
+  target: Malay romances and Malay shadow-plays mentioned in the passage
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage notes recurrence in romances and shadow-plays but does
+    not quote or summarize specific episodes from those works.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 409-416
+  quote_or_summary: Pusat Tassek is described as the navel of the lake, a cavern inhabited
+    by a vast crab; its return causes the tide’s flow and its departure causes the
+    ebb.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; supplied metadata says full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 419-432
+  quote_or_summary: Clifford describes Pusat tasek, the Navel of the Seas, as a huge
+    ocean-bottom hole where a gigantic crab sits; when present it blocks waters from
+    the underworld, and when absent waters pour through, causing ebb.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; supplied metadata says full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 433-453
+  quote_or_summary: A note discusses belief in the submarine origin of a nut associated
+    with a great palm and reports the fame of the nut’s virtues in Europe.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; supplied metadata says full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 454-466
+  quote_or_summary: The note identifies Pauh Janggi as the Malay name for the tree
+    said in Malay fable to grow in the central whirlpool or Navel of the Seas.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; supplied metadata says full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 466-470
+  quote_or_summary: Some versions add that the tree grows upon a sunken bank and is
+    guarded by dragons.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; supplied metadata says full text allowed.
+- id: ev:6
+  type: summary
+  locator: lines 470-473
+  quote_or_summary: The Pauh Janggi tree is said to figure largely in Malay romances,
+    especially those forming the subject of Malay shadow-plays.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; supplied metadata says full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based entirely on the supplied passage. Motif taxonomy links
+    are cautious where the passage gives central or navel imagery but not a full cosmological
+    explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No unsupported external comparisons were added; comparison claims are limited to variants and nearby Malay romance/shadow-play tradition explicitly mentioned in the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l409-l476
+  passage_sha256=ea7bb37b426b3f4bca48a77381957a3fa02ae695417566b496f51cbe08a03e38
+

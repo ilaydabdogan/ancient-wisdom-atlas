@@ -1,0 +1,411 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l27392-l27433
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: THEATRICAL  EXHIBITIONS / EXHORTATION  TO  THE  PERFORMERS / THEATRICAL  EXHIBITIONS
+    / CEREMONIAL; lines 27392-27433
+  start: '27392'
+  end: '27433'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A theatrical ceremonial sequence begins with a tray containing incense
+    and prepared rice. The Lagu Pemanggil, or Invocation, is performed on instruments
+    while the Pawang fumigates the fiddle, masks, daggers, and other properties. He
+    lights and charms three tapers, waves them in three directions, places them on
+    selected objects, marks a brazen ring with lime and a cross-shaped sign, then
+    shrouds his head and handles rice in the incense before sprinkling it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes the performers’ costumes as picturesque and intentionally
+    rural.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A tray containing a brazier of incense and small bowls of variously prepared
+    rice is brought in before the ceremony begins.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The instruments are in their places when the ceremony commences, although
+    the players need not all be in place.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The first named part of the ceremony is the Lagu Pemanggil, identified as
+    an Invocation, performed on instruments and accompanied by the Pawang.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Pawang heaps incense on a brazier in front of him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Pawang waves the fiddle, masks, wooden daggers, and other company properties
+    in the incense until they are fumigated.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Pawang lights three tapers, charms them, and holds them between his closed
+    palms with straight fingers and crossed thumbs.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Pawang waves the tapers toward the right, in front of him, and then toward
+    the left.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The three tapers are distributed onto the rebab, the big gong, and the edge
+    of a brazen ring near where the Pawang sits.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Pawang uses moist lime from a betel-leaf box to smear the metal ring and
+    make the sign of the cross inside it.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The Pawang shrouds his head with a black cloth, holds a handful of rice in
+    the incense, and sprinkles some of it.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Pawang
+  description: Ritual specialist who accompanies the invocation and performs the fumigation,
+    taper, marking, and rice actions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: performers or company
+  description: The theatrical performers or company whose costumes and properties
+    are described in the ceremonial setting.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: ritual officiant
+  assigned_to:
+  - fig:1
+  basis: The Pawang accompanies the invocation and carries out the ritual handling
+    of incense, instruments, tapers, lime, ring, cloth, and rice.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: theatrical company
+  assigned_to:
+  - fig:2
+  basis: The passage refers to performers’ costumes and to the company’s masks, wooden
+    daggers, and other properties.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: incense brazier
+  literal_form: A brazier of incense placed on a tray and used by the Pawang for fumigating
+    objects and rice.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: sym:2
+  label: rice
+  literal_form: Small bowls of rice variously prepared, and later a handful of rice
+    held in the incense and sprinkled.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:3
+  label: rebab or fiddle
+  literal_form: A fiddle named as the rebab, fumigated in incense and later given
+    the first taper.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: masks and wooden daggers
+  literal_form: The company’s masks, wooden daggers, and other properties, waved in
+    incense until fumigated.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: three lighted tapers
+  literal_form: Three tapers lit, charmed, held between closed palms, waved in three
+    directions, and placed on selected objects.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: big gong
+  literal_form: A large gong that receives the second taper.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: brazen ring with lime cross
+  literal_form: A brazen ring near the Pawang, smeared with moist lime and marked
+    inside with the sign of the cross.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:8
+  label: black cloth
+  literal_form: A black cloth used by the Pawang to shroud his head.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:9
+  label: betel-leaf box and moist lime
+  literal_form: A betel-leaf box containing moist lime, into which the Pawang dips
+    his finger before marking the metal ring.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: ceremonial preparation
+  summary: A tray with incense and prepared rice is brought in, and the instruments
+    are set in place for the ceremony.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: invocation and fumigation
+  summary: The Lagu Pemanggil is played while the Pawang adds incense to the brazier
+    and fumigates the rebab, masks, wooden daggers, and other properties.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: charming and placement of three tapers
+  summary: The Pawang lights and charms three tapers, holds them in a specified hand
+    posture, waves them right, front, and left, then places them on the rebab, gong,
+    and brazen ring.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: lime marking and rice handling
+  summary: The Pawang marks the brazen ring with lime and a cross-shaped sign, shrouds
+    his head with black cloth, holds rice in the incense, and sprinkles some of it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: ritual invocation opening a theatrical ceremony
+  taxonomy_refs: []
+  basis: The passage names the first part of the ceremony as the Lagu Pemanggil, or
+    Invocation, performed on instruments with the Pawang.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a ceremonial sequence but does not provide a wider comparative
+    explanation.
+- id: motif:2
+  label: fumigation of performance instruments and properties
+  taxonomy_refs: []
+  basis: The Pawang waves the rebab, masks, wooden daggers, and other properties in
+    incense until they are fumigated.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The specific ritual meaning of the fumigation is not explained in this
+    excerpt.
+- id: motif:3
+  label: three charmed tapers waved in directions
+  taxonomy_refs: []
+  basis: Three tapers are lit, charmed, held between closed palms, waved right, front,
+    and left, and then placed on selected ritual objects.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The number three and the directional order are explicit, but their symbolic
+    interpretation is not supplied in the passage.
+- id: motif:4
+  label: ritual marking of a ring with lime and cross-shaped sign
+  taxonomy_refs: []
+  basis: The Pawang smears the metal ring with moist lime and makes the sign of the
+    cross inside the ring.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage records the gesture but does not explain whether the cross-shaped
+    sign has local, Islamic, Christian, or other significance.
+- id: motif:5
+  label: shrouded-head rice rite with incense
+  taxonomy_refs: []
+  basis: After marking the ring, the Pawang covers his head with a black cloth, holds
+    rice in incense, and sprinkles some of it.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The end of the action is truncated at the passage boundary, so the complete
+    rite may continue beyond this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 27392-27396
+  quote_or_summary: The performers’ costumes are described as picturesque and intentionally
+    rural.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 27397-27403
+  quote_or_summary: A tray with a brazier of incense and small bowls of prepared rice
+    is brought in; the instruments are in place as the ceremony begins.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 27404-27409
+  quote_or_summary: The Lagu Pemanggil, identified as an Invocation, is performed
+    on the instruments and accompanied by the Pawang, who heaps incense on a brazier.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 27409-27415
+  quote_or_summary: The Pawang waves the rebab, masks, wooden daggers, and other company
+    properties in the incense until they are fumigated.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 27416-27423
+  quote_or_summary: The Pawang lights and charms three tapers, holds them between
+    closed palms with straight fingers and crossed thumbs, and waves them right, front,
+    and left.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 27423-27427
+  quote_or_summary: The tapers are placed on the rebab, on the big gong, and on the
+    edge of a brazen ring near the Pawang’s seat.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 27427-27431
+  quote_or_summary: The Pawang uses moist lime from a betel-leaf box to smear the
+    metal ring and make the sign of the cross inside it.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 27431-27433
+  quote_or_summary: The Pawang shrouds his head with a black cloth, holds a handful
+    of rice in the incense, and sprinkles some of it.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The sequence of ritual actions and objects is clear in the excerpt. Motif
+    labels are descriptive candidates only; the passage does not provide comparative
+    interpretation. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. Available taxonomy symbol refs were used only for explicit fire-bearing objects such as the incense brazier and lighted tapers; no motif-family taxonomy refs were assigned.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l27392-l27433
+  passage_sha256=d4824c6922f0a7ed62ce529d55b17f9fe410cd8b3e7650424284f40c77b96c91
+

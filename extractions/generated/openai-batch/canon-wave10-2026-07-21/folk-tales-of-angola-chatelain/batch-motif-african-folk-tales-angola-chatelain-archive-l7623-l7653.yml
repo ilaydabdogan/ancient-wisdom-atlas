@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l7623-l7653
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: PARTRIDGE AND TURTLE. / XXXVIII. / XXXVIII. / FROG AND HIS TWO WIVES.; lines
+    7623-7653
+  start: '7623'
+  end: '7653'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“I am in trouble !”"
+  summary: Frog Kumboto has two wives housed in opposite directions while he stays
+    in the middle. Both wives cook mush and send messengers for him at the same time.
+    Unable to decide which wife to visit first without offending the other, Frog sings
+    that he is in trouble; the tale explains that what people hear as frog-croaking
+    is actually this speech.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Frog Kumboto is said to have married two wives.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One wife is housed on the East and the other on the West, while Frog’s favorite
+    place is in the middle.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Both wives cook mush, and the mush is ready at the same time.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Each wife sends a messenger to fetch Frog.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The messengers arrive at Frog at the same time and both report that he has
+    been sent for.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Frog says he does not know what to do because either wife may complain if
+    he goes first to the other.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Frog sings repeatedly that he is in trouble.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator says people hear Frog’s sound as croaking, but the tale states
+    he is saying that he is in trouble.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Frog Kumboto
+  description: A frog who has married two wives and is called by both at the same
+    time.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: head-wife / superior wife
+  description: One of Frog’s wives, described as the head-wife or superior, who cooks
+    mush and sends a messenger for him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: inferior wife
+  description: One of Frog’s wives, described as inferior, who cooks mush and sends
+    a messenger for him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: two messengers
+  description: Messengers sent separately by the two wives to fetch Frog, arriving
+    at the same time.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: husband with two wives
+  assigned_to:
+  - fig:1
+  basis: Frog Kumboto is introduced as having married two wives.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: head-wife / superior wife
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly calls one wife the head-wife and superior.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: inferior wife
+  assigned_to:
+  - fig:3
+  basis: The passage explicitly calls the other wife inferior.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: speaker in a dilemma
+  assigned_to:
+  - fig:1
+  basis: Frog states that he does not know what to do when both wives send for him
+    at the same time.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: summoning messengers
+  assigned_to:
+  - fig:4
+  basis: Each wife sends a messenger to fetch Frog, and both messengers deliver the
+    summons.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: east-west separation
+  literal_form: one wife’s house on the East and the other wife’s house on the West,
+    with Frog in the middle
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: simultaneous mush meal
+  literal_form: mush cooked by both wives and ready at the same time
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: frog croak as speech
+  literal_form: Kuo-kuo / kuó-kuó croaking interpreted as the words “I am in trouble”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Frog’s divided household
+  summary: Frog Kumboto has two wives in separate directions, one on the East and
+    one on the West, while he stays in the middle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Two simultaneous summonses
+  summary: Both wives finish cooking mush at the same time and each sends a messenger
+    to fetch Frog; the messengers arrive together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Frog’s troubled croak
+  summary: Frog cannot choose which wife to visit first without provoking complaint,
+    so he sings that he is in trouble; the narrator identifies this as the meaning
+    of frog-croaking.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal sound explained as meaningful speech
+  taxonomy_refs: []
+  basis: The tale explicitly explains that what people call Frog’s croaking is actually
+    Frog saying that he is in trouble.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No provided taxonomy reference directly names an etiological animal-sound
+    motif.
+- id: motif:2
+  label: two-sided domestic dilemma
+  taxonomy_refs:
+  - duality
+  basis: Frog is placed between two wives located East and West, and simultaneous
+    summonses force an impossible choice between them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy term 'duality' is broad; the passage supports a
+    two-sided arrangement but not a developed cosmological dualism.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7623-7630
+  quote_or_summary: Frog Kumboto marries two wives; one is housed on the East, the
+    other on the West, and Frog’s favored place is in the middle.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 7631-7635
+  quote_or_summary: Both wives cook mush, it is done at the same time, and each wife
+    sends a messenger to fetch Frog.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 7636-7644
+  quote_or_summary: The messengers arrive together and both say Frog has been sent
+    for; Frog says he does not know which wife to visit first because either may complain.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: quote
+  locator: lines 7644-7648
+  quote_or_summary: "“I am in trouble ! I am in trouble !”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:5
+  type: summary
+  locator: lines 7649-7653
+  quote_or_summary: 'The narrator repeats that both wives cooked and sent for Frog
+    at the same time, then states that what people call croaking is Frog speaking:
+    he says he is in trouble.'
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the available taxonomy lacks a specific etiological animal-sound category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l7623-l7653
+  passage_sha256=6748689d3ee8e5525fa1cbe282f3d4ee3a59d7b8ffa2781d91269881562900e2
+

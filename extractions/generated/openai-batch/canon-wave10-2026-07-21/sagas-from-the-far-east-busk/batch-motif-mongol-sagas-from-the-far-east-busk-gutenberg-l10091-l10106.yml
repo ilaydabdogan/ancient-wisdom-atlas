@@ -1,0 +1,245 @@
+---
+record_id: batch.motif.mongol-sagas-from-the-far-east-busk-gutenberg-l10091-l10106
+source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+passage_locator:
+  label: TALE VII. / TALE VIII. / TALE IX. / TALE X.; lines 10091-10106
+  start: '10091'
+  end: '10106'
+  translation: Sagas from the Far East
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes to Tale X cite Greek writers and Lassen on Indian drink,
+    wine import despite religious prohibition, widow burning with the husband's body,
+    Manu on punishment of false witness, and hair shaving as a degrading punishment.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says Greek writers on India asserted that Indians were prone to
+    the temptation of drink and noted wine import despite a religious prohibition.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says a wife's giving herself to be burned with her husband's body
+    was an ancient custom, though far from universal.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage directs comparison to Manu, dharma śāstra viii.29, concerning
+    punishment of the false witness.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says shaving off the hair was regarded as the most degrading of
+    punishments.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Indians
+  description: A group described in the note as subject to drink temptation and as
+    importing wine despite religious prohibition.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Greek writers on India
+  description: External writers cited as asserting details about Indian drink and
+    as alluding to widow burning.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: wife
+  description: A wife described in the cited custom as giving herself to be burned
+    with her husband's body.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: husband
+  description: The husband whose body is burned in the cited custom.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: false witness
+  description: A legal offender mentioned in connection with punishment in Manu.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: described ethnic group
+  assigned_to:
+  - fig:1
+  basis: The note reports statements about Indians and wine or drink.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: cited external authorities
+  assigned_to:
+  - fig:2
+  basis: Greek writers are cited for claims about Indian customs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: wife in funerary custom
+  assigned_to:
+  - fig:3
+  basis: The note describes a wife giving herself to be burned with the husband's
+    body.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: deceased spouse in funerary custom
+  assigned_to:
+  - fig:4
+  basis: The husband's body is the body with which the wife is burned.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: legal offender
+  assigned_to:
+  - fig:5
+  basis: The false witness is mentioned as subject of a punishment comparison.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: wine
+  literal_form: wine as an imported article despite religious prohibition
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: funerary burning
+  literal_form: wife burned with the body of her husband
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: shaved hair
+  literal_form: hair shaved off as degrading punishment
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: prohibited intoxicant and temptation to drink
+  taxonomy_refs: []
+  basis: The note mentions drink as a temptation and wine import despite religious
+    prohibition.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: This is an editorial ethnographic note, not a narrative episode; no supplied
+    taxonomy motif directly matches intoxicant prohibition.
+- id: motif:2
+  label: widow burned with husband's body
+  taxonomy_refs:
+  - sacrifice
+  basis: The note describes the custom that a wife should give herself to be burned
+    with her husband's body.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage calls it a custom and says it was not universal; it does not
+    explicitly label the act as sacrifice or present it as a narrative event.
+- id: motif:3
+  label: punishment of false witness
+  taxonomy_refs: []
+  basis: The note cites Manu on punishment concerning a false witness.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage supplies only a cross-reference, not the content of the punishment
+    or a mythic narrative context.
+- id: motif:4
+  label: hair shaving as disgrace punishment
+  taxonomy_refs: []
+  basis: The note states that shaving off hair was considered the most degrading punishment.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage gives a cultural/legal note rather than a narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly directs comparison to Manu, dharma śāstra viii.29,
+    for a punishment concerning false witness.
+  claim_level: same_function
+  target: Mânu, dh. sh. viii. 29
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the cross-reference is provided; the actual Manu passage and the
+    Tale X narrative context are not included in the supplied passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: TALE X, note 1; lines 10091-10106
+  quote_or_summary: Greek writers on India are cited as saying Indians were tempted
+    by drink and imported wine despite religious prohibition.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: TALE X, note 2; lines 10091-10106
+  quote_or_summary: The note says a wife's burning with her husband's body was a very
+    ancient custom alluded to by Greek writers, but not universal.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: TALE X, note 3; lines 10091-10106
+  quote_or_summary: The note says to compare Manu, dharma śāstra viii.29, concerning
+    punishment of the false witness.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: TALE X, note 4; lines 10091-10106
+  quote_or_summary: The note says shaving off hair was considered the most degrading
+    punishment.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is a set of editorial notes rather than a narrative passage.
+    Literal extraction is straightforward, but motif identification is tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No broader tale context was used; extraction is limited to the supplied lines and metadata.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mongol-sagas-from-the-far-east-busk-gutenberg__l10091-l10106
+  passage_sha256=8dde93164cdf91549fa10d264a4a5044ab6254b2529d4c1e2a48f94b3b111679
+

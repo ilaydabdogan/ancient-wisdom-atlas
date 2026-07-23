@@ -1,0 +1,510 @@
+---
+record_id: batch.motif.native-american-blackfoot-lodge-tales-grinnell-archive-l7733-l7775
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+passage_locator:
+  label: DAILY    LIFE    AND    CUSTOMS  1 83 / DAILY    LIFE    AND    CUSTOMS  1S5
+    / DAILY    LIFE    AND    CUSTOMS  189 / DAILY    LIFE    AND    CUSTOMS  I93;
+    lines 7733-7775
+  start: '7733'
+  end: '7775'
+  translation: Blackfoot Lodge Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a power seeker who may keep his undertaking secret,
+    then details Blackfeet burial customs: three burial modes, fear of reusing a lodge
+    where a man dies, preparation of corpses by female relatives, wrapping and scaffold
+    placement, burial goods for men and women, suspended platforms in lodges, and
+    a special lodge burial for a great chief or noted warrior with personal effects
+    and horses killed outside.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A seeker after power did not always, and perhaps did not often, tell anyone
+    what he was going to do.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Three Blackfeet burial modes are listed: platforms in trees, platforms in
+    lodges, and ground burial in lodges.'
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A lodge in which a man dies is never used again because people fear the man's
+    ghost.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After death, the body of a man, woman, or child is immediately prepared for
+    burial by the nearest female relations.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The corpse was wrapped in robes and sometimes a lodge covering laced with
+    rawhide ropes, then placed on a platform of lodge poles arranged in tree branches.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When the deceased was a man, weapons and often medicine were buried with him.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: For women, cooking utensils and implements for tanning robes were placed on
+    the scaffolds.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: When a man was buried on a platform in a lodge, the platform was usually suspended
+    from the lodge poles.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: For a great chief or noted warrior, the lodge could be moved from camp to
+    brush and secured with pegs, stones, and a rope tied to a central peg.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: In the special lodge burial, beds were made, the corpse was placed as if asleep,
+    personal items were set nearby, the door was closed, and no one entered again.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Outside the special burial lodge, a number of the deceased man's horses, often
+    twenty or more, were killed.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: seeker after power
+  description: A person seeking power who may keep the undertaking secret.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: deceased person
+  description: A dead man, woman, or child whose body is prepared for burial.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: nearest female relations
+  description: Female relatives who prepare the body for burial.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: deceased man
+  description: A male deceased person buried with weapons and often medicine.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: deceased woman
+  description: A female deceased person associated in burial with cooking utensils
+    and implements for tanning robes.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: great chief or noted warrior
+  description: A high-status deceased man given a special lodge burial with personal
+    objects placed near him.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:7
+  name_or_label: horses of the deceased man
+  description: Horses killed outside the lodge during the special burial of a great
+    chief or noted warrior.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: power seeker
+  assigned_to:
+  - fig:1
+  basis: The passage calls the person a seeker after power and describes secrecy about
+    what he was going to do.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceased
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage discusses burial preparation and treatment of dead persons.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:10
+- id: role:3
+  label: body preparers
+  assigned_to:
+  - fig:3
+  basis: The nearest female relations prepare the body for burial.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: male deceased with weapons and medicine
+  assigned_to:
+  - fig:4
+  basis: Men are described as being buried with weapons and often medicine.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: female deceased with domestic and robe-tanning implements
+  assigned_to:
+  - fig:5
+  basis: Women are associated with cooking utensils and implements for tanning robes
+    placed on scaffolds.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: honored high-status deceased
+  assigned_to:
+  - fig:6
+  basis: A great chief or noted warrior receives an elaborated lodge burial.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+- id: role:7
+  label: horses killed outside burial lodge
+  assigned_to:
+  - fig:7
+  basis: The passage states that horses were killed outside the lodge.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: tree burial platform
+  literal_form: Platform of lodge poles arranged on branches of a tree
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: death lodge
+  literal_form: Lodge used for burial or abandoned after a death in it
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  - ev:9
+  - ev:10
+- id: sym:3
+  label: corpse wrappings
+  literal_form: Robes, lodge covering, and rawhide ropes used to wrap the corpse
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: male burial goods
+  literal_form: Weapons and medicine buried with a deceased man
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: sym:5
+  label: female burial goods
+  literal_form: Cooking utensils and implements for tanning robes placed with women
+    on scaffolds
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: secured lodge center
+  literal_form: Rope from the lodge poles tied to a peg in the ground at the lodge
+    center where the fireplace would ordinarily be
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: sleep-like corpse placement
+  literal_form: Corpse placed on a bed lying as if asleep
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:8
+  label: horses killed outside lodge
+  literal_form: Often twenty or more horses killed outside the burial lodge
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: secret power-seeking
+  summary: A seeker after power may not tell others what he is going to do.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: listed Blackfeet burial modes
+  summary: The passage lists tree-platform, lodge-platform, and lodge-ground burial
+    practices and notes fear of reusing a lodge where a man has died.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: preparation and scaffold burial
+  summary: Female relatives prepare the corpse, wrap it in robes and sometimes a lodge
+    covering, and place it on a lodge-pole platform in a tree; burial goods differ
+    for men and women.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: platform burial inside a lodge
+  summary: A man's burial platform inside a lodge is usually suspended from the lodge
+    poles.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: special burial of a chief or noted warrior
+  summary: A chief's or warrior's lodge may be moved and secured, the corpse placed
+    on a bed as if asleep with weapons, pipe, war clothing, and medicine nearby, the
+    lodge closed forever, and horses killed outside.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: concealed power-seeking undertaking
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage describes a seeker after power who often does not tell anyone
+    what he is going to do.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage fragment does not describe the action's ritual form or outcome;
+    the taxonomy mapping is tentative.
+- id: motif:2
+  label: abandoned death lodge because of ghost fear
+  taxonomy_refs: []
+  basis: A lodge in which a man dies is not reused because people fear the man's ghost.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic burial custom rather than a narrative episode.
+- id: motif:3
+  label: scaffold or tree-platform burial with wrappings
+  taxonomy_refs: []
+  basis: The passage describes corpses wrapped in robes and sometimes lodge covering,
+    then placed on a lodge-pole platform in tree branches.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No explicit mythic interpretation is given in the passage.
+- id: motif:4
+  label: burial goods matched to the deceased person's social role
+  taxonomy_refs: []
+  basis: Weapons and medicine accompany men; cooking utensils and robe-tanning implements
+    accompany women.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage describes material practice but does not explain symbolic
+    meaning.
+- id: motif:5
+  label: high-status lodge burial with personal effects and killed horses
+  taxonomy_refs: []
+  basis: A great chief or noted warrior is laid in a specially secured lodge with
+    personal objects nearby, and horses are killed outside.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The passage says the horses were killed but does not explicitly label
+    the act as sacrifice.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7733-7735
+  quote_or_summary: A seeker after power did not always or often tell anyone what
+    he was going to do.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 7736-7739
+  quote_or_summary: 'Three burial modes are listed: platforms in trees, platforms
+    in lodges, and on the ground in lodges.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 7739-7743
+  quote_or_summary: If a man dies in a lodge, the lodge is never used again because
+    people fear the man's ghost; the lodge may wrap the body or be used for burial.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 7744-7747
+  quote_or_summary: As soon as a man, woman, or child dies, nearest female relations
+    prepare the body for burial.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 7747-7754
+  quote_or_summary: The corpse is wrapped in robes and a lodge covering laced with
+    rawhide ropes, then placed on a platform of lodge poles in tree branches; sometimes
+    the lodge covering is omitted.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 7754-7756
+  quote_or_summary: If the deceased was a man, his weapons and often his medicine
+    were buried with him.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 7756-7759
+  quote_or_summary: For women, cooking utensils and implements for tanning robes were
+    placed on the scaffolds.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 7759-7761
+  quote_or_summary: When a man was buried on a platform in a lodge, the platform was
+    usually suspended from lodge poles.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 7762-7770
+  quote_or_summary: For a great chief or noted warrior, the lodge could be moved from
+    camp into brush and secured with pegs, stones, and a rope tied to a central peg.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:10
+  type: summary
+  locator: lines 7770-7774
+  quote_or_summary: Beds are made around the lodge; the corpse lies as if asleep with
+    weapons, pipe, war clothing, and medicine nearby; the door is closed and no one
+    enters again.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:11
+  type: summary
+  locator: lines 7774-7775
+  quote_or_summary: Outside the lodge, many of the man's horses, often twenty or more,
+    were killed.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal ethnographic details are explicit in the passage. Motif labels are
+    descriptive and require review because the passage is not a myth narrative and
+    gives limited interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not compare these practices with another motif family, text, or tradition.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-blackfoot-lodge-tales-grinnell-archive__l7733-l7775
+  passage_sha256=e941049f8404a25951f65876a28c7df71a97879bb96e6eae1021e16fc5fe5291
+

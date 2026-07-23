@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l12730-l12750
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XX. / COMMENTARIES  OF  THE  YNCAS. / SEVENTH  BOOK  OF  THE  EOYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 12730-12750
+  start: '12730'
+  end: '12750'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Valdivia as a successful conqueror and prudent governor
+    whose prospects were ended by an Indian causing his death. The narrator presents
+    this death as a famous and deplorable deed by Indians since the arrival of the
+    Spaniards, and announces an intention to recount the reports and origins of the
+    battle that led to it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Valdivia is described as having performed very grand achievements in the conquest
+    of a kingdom.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Valdivia is described as governing with prudence and judgment, with prospects
+    of prosperity for himself and his people.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says an Indian's fierce ardour ended Valdivia's life and broke
+    the prospect of prosperity.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Valdivia's death is identified as the death of a Governor and Captain-General.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The death is described as among the most famous and notable deeds done by
+    Indians in the empire of the Yncas since the Spaniards arrived, and as deplorable.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The narrator says he will set down what happened so that reports of the ill-fated
+    battle that arrived in Peru may be known.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator says that, to make the story intelligible, he must describe the
+    origin and commencement of the events leading to the battle.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Valdivia
+  description: A Governor and Captain-General associated with conquest and governance,
+    whose life is ended in the episode being introduced.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: an Indian
+  description: An Indian whose fierce ardour is said to have ended Valdivia's life.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Indians
+  description: A collective group to whom the passage attributes the notable deed
+    of Valdivia's death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Spaniards
+  description: A collective group mentioned as having arrived before the period in
+    which the deed is judged notable.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: narrating voice
+  description: The first-person narrator who proposes to recount what happened and
+    explain the events leading to the battle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: Governor and Captain-General
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls Valdivia's death the death of this Governor
+    and Captain-General.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: conqueror and prudent governor
+  assigned_to:
+  - fig:1
+  basis: Valdivia is described as achieving much in conquest and governing with prudence
+    and judgment.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: agent of Valdivia's death
+  assigned_to:
+  - fig:2
+  basis: The passage says the fierce ardour of an Indian ended Valdivia's life.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: collective agents of a notable deed
+  assigned_to:
+  - fig:3
+  basis: The death is characterized as a famous and notable deed done by Indians.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: announcing chronicler
+  assigned_to:
+  - fig:5
+  basis: The narrator states an intention to set down what happened and to describe
+    the origins of the events.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: life-thread image
+  literal_form: the thread of his life
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Valdivia's conquest, governance, and death
+  summary: Valdivia is introduced as a successful conqueror and prudent governor whose
+    prospects are ended by an Indian causing his death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Narrator frames the death as a notable battle episode
+  summary: The narrator describes the death as a famous and deplorable deed by Indians
+    and states that he will recount what happened, including reports in Peru and the
+    events leading to the battle.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: notable death of a conquering governor by an indigenous adversary
+  taxonomy_refs: []
+  basis: The passage centers on the death of Valdivia, a Governor and Captain-General
+    involved in conquest and governance, and treats the death as a famous deed by
+    Indians.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a historical chronicle passage rather than a mythic narrative;
+    no supernatural or available taxonomy motif is directly supported.
+- id: motif:2
+  label: chronicle preface to an ill-fated battle
+  taxonomy_refs: []
+  basis: The narrator announces that he will recount the battle reports and first
+    explain the origins of events leading to the battle.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a narrative-framing pattern, not a distinct mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12731-12735
+  quote_or_summary: "“He performed very grand achievements in the conquest of that
+    kingdom. He governed with great prudence and judgment...”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 12735-12737
+  quote_or_summary: "“if the fierce ardour of an Indian had not broken all by cutting
+    the thread of his life.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 12737-12743
+  quote_or_summary: "“the death of this Governor and Captain-General was one of the
+    most famous and notable deeds that had been done by the Indians... since the Spaniards
+    arrived”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 12743-12747
+  quote_or_summary: "“I propose to set down here what actually happened... that the
+    first and second report of this ill-fated battle... may be known”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 12747-12750
+  quote_or_summary: "“to make the story intelligible, it will be necessary to describe
+    the origin and commencement of the events which led to it.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear about figures and narrative framing. Motif identification
+    is limited because the passage is historical and contains no explicit comparative
+    or supernatural motif material.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif or symbol reference was assigned; the life-thread item records a textual image rather than a literal object in the scene.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l12730-l12750
+  passage_sha256=3930d8332a23cec14698d496bba90ed243199d7c6a4c186f07768141dd00b82e
+

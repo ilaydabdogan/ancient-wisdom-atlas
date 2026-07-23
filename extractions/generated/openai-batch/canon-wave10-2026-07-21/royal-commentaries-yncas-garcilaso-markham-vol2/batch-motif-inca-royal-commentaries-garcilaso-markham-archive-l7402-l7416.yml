@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l7402-l7416
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / SIXTH  BOOK  OF  THE  ROYAL / CHAPTER  XXIII.
+    / HOW  THEY  DRANK  TO  EACH  OTHER  AND  IN  WHAT  ORDER.; lines 7402-7416
+  start: '7402'
+  end: '7416'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: The Ynca, seated in his golden chair... sent to the members of the tribes
+    called Hanau Cuzco and Hurin Cuzco, desiring them to drink, in his name...
+  summary: The passage describes an ordered drinking ceremony initiated by the Ynca
+    from a golden chair and platform. He directs Hanau Cuzco and Hurin Cuzco members
+    to drink in his name with distinguished Indians from other nations, first honoring
+    brave war captains, then Curacas according to status and proximity to Cuzco.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Ynca is seated in a golden chair placed on a platform of the same metal.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Ynca sends to members of Hanau Cuzco and Hurin Cuzco and directs them
+    to drink in his name with distinguished Indians from other nations.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The first invited persons are captains who have shown valour in war.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Captains who are not lords of vassals are preferred to Curacas because of
+    their bravery.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A Curaca who is both a lord of vassals and a war captain is honored on both
+    grounds.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After the captains, the Ynca orders Curacas living near Cuzco to be invited.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Ynca
+  description: Ruler seated in a golden chair on a golden platform, directing the
+    drinking order.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Members of Hanau Cuzco and Hurin Cuzco
+  description: Members of two named Cuzco groups directed by the Ynca to drink in
+    his name with distinguished Indians from other nations.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Distinguished Indians belonging to other nations
+  description: Persons from other nations with whom the Hanau Cuzco and Hurin Cuzco
+    members are directed to drink.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Captains who had shown valour in war
+  description: War captains invited first; their bravery can place them before Curacas
+    even when they are not lords of vassals.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Curacas
+  description: Lords of vassals; a Curaca who is also a war captain receives honor
+    on both grounds, and Curacas near Cuzco are invited after the captains.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: ceremonial ruler issuing drinking order
+  assigned_to:
+  - fig:1
+  basis: The Ynca directs others to drink in his name and orders the sequence of invitations.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: Cuzco participants acting in the Ynca's name
+  assigned_to:
+  - fig:2
+  basis: They are directed to drink in the Ynca's name with distinguished Indians
+    from other nations.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: honored outsiders in drinking ceremony
+  assigned_to:
+  - fig:3
+  basis: They are described as distinguished Indians belonging to other nations and
+    are included in the drinking order.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: first-honored war captains
+  assigned_to:
+  - fig:4
+  basis: The text says captains who had shown valour in war are invited first and
+    preferred for bravery.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: ranked lords of vassals
+  assigned_to:
+  - fig:5
+  basis: Curacas are described in relation to lordship over vassals, possible military
+    distinction, and order of invitation.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: golden chair and platform
+  literal_form: golden chair placed on a platform of the same metal
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: drinking in the Ynca's name
+  literal_form: ordered act of drinking in the Ynca's name with distinguished persons
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Ynca initiates ordered drinking ceremony
+  summary: The Ynca sits on a golden chair and platform and instructs Hanau Cuzco
+    and Hurin Cuzco members to drink in his name with distinguished Indians from other
+    nations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ranking of invitees by military and Curaca status
+  summary: The invitation order begins with valiant war captains. Bravery can outrank
+    Curaca status, while a Curaca who is also a captain is honored for both lordship
+    and military service; Curacas near Cuzco are invited next.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ordered ceremonial exchange under royal authority
+  taxonomy_refs:
+  - sacred_exchange
+  - royal_legitimacy
+  basis: The passage presents an ordered act of drinking in the Ynca's name, directed
+    from the ruler's elevated golden seat and structured by rank, war valor, and Curaca
+    status.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is historical-ethnographic and does not explicitly call the
+    drinking sacred; the taxonomy links are thematic candidates requiring human review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7402-7406
+  quote_or_summary: '"The Ynca, seated in his golden chair, which was placed on a
+    platform of the same metal"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7406-7410
+  quote_or_summary: The Ynca sends to Hanau Cuzco and Hurin Cuzco members, directing
+    them to drink in his name with distinguished Indians from other nations.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7410-7413
+  quote_or_summary: The first invited are captains who had shown valor in war; even
+    without vassals, they are preferred to Curacas for bravery.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7413-7415
+  quote_or_summary: A Curaca who is both a lord of vassals and a war captain is honored
+    on both accounts.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 7415-7416
+  quote_or_summary: Next, the Ynca orders Curacas living near Cuzco to be invited.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the passage. Motif taxonomy assignment
+    is plausible but interpretive because the passage does not explicitly frame the
+    drinking as sacred or mythic.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not compare this ceremony to another tradition or motif family beyond the available taxonomy candidate assignment.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l7402-l7416
+  passage_sha256=971c3ada2e9f98a6f62b89afd41bcfdd5caa59c2dcf36b64be5c698cb97430a7
+

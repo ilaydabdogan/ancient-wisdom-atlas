@@ -1,0 +1,167 @@
+---
+record_id: batch.motif.native-american-eastern-cree-skinner-archive-l7015-l7032
+source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/eastern-cree-northern-saulteaux-skinner.md
+passage_locator:
+  label: HABITATIONS. ' / CLOTHING AND TOILETTES. / MANUFACTURES. / PREPARATION OF
+    FOOD.; lines 7015-7032
+  start: '7015'
+  end: '7032'
+  translation: Notes on the Eastern Cree and Northern Saulteaux
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes obtaining fire with a twirling stick fitted into
+    a hole, birch punk used as touchwood, and shredded birchbark added for flame.
+    It records a 1909 demonstration by Abitcininis at Wabigoon Lake near Dinorwic,
+    using a self-made model with a base board held between the knees, a bow in the
+    right hand, and the shaft steadied with the left palm; smoke appeared after about
+    three minutes, but the demonstration stopped for lack of tinder.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fire is obtained after several minutes using a twirling stick fitted into
+    a hole.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Birch punk is used as touchwood around the hole, and shredded birchbark is
+    added when smouldering begins to produce flame.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Abitcininis demonstrated the method on June 8, 1909, while living on Wabigoon
+    Lake near Dinorwic.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The demonstrator used a model he had made himself.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The demonstrator knelt on the ground, held the base board between his knees,
+    held the bow in his right hand, and kept the shaft upright with his left palm.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Smoke appeared after about three minutes, but the demonstrator stopped because
+    he had no tinder.
+  category: sequence
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Abitcininis
+  description: A person living on Wabigoon Lake near Dinorwic who demonstrated the
+    fire-making model on June 8, 1909.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: fire-making demonstrator
+  assigned_to:
+  - fig:1
+  basis: The passage says Abitcininis demonstrated the model and describes his actions
+    in operating it.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire obtained by friction, first as smoke or smouldering touchwood
+    and then flame.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: birch tinder materials
+  literal_form: Birch punk used for touchwood and shredded birchbark added to produce
+    flame.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: bow-drill apparatus
+  literal_form: A base board, twirling stick or shaft, bow, and hole used to generate
+    smoke and fire.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Preparation of fire with birch tinder
+  summary: The passage explains that fire is produced by placing birch punk around
+    the hole for a twirling stick and adding shredded birchbark once smouldering begins.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Abitcininis demonstrates the fire-making model
+  summary: Abitcininis kneels, braces the base board between his knees, operates the
+    bow and shaft, produces smoke after about three minutes, and stops because tinder
+    is lacking.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7015-7019
+  quote_or_summary: Fire is obtained after about five minutes by using birch punk
+    as touchwood around the hole for a twirling stick; when it smoulders, shredded
+    birchbark is added to obtain flame.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/eastern-cree-northern-saulteaux-skinner.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 7020-7029
+  quote_or_summary: 'On June 8, 1909, Abitcininis, living on Wabigoon Lake near Dinorwic,
+    demonstrated a self-made model: he knelt, held the base board between his knees,
+    used the bow in his right hand, steadied the shaft with his left palm, got smoke
+    in about three minutes, and stopped because he had no tinder.'
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/eastern-cree-northern-saulteaux-skinner.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a material-culture description of fire making. No mythic narrative
+    motif or passage-supported comparison claim is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The opening phrase has an unclear antecedent from preceding lines and was not used as a separate interpreted object.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-eastern-cree-skinner-archive__l7015-l7032
+  passage_sha256=2d14f459f704b8455e96a84a06436eaecf09c31ff9e7e0d4d81c40a11e2d618e
+

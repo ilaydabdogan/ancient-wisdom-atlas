@@ -1,0 +1,382 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l2874-l2894
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: FIFTH  BOOK  OF  THE  ROYAL / CHAPTER  XIX. / COMMENTARIES  OP  THE  YNCAS.
+    / FIFTH  BOOK  OF  THE  ROYAL; lines 2874-2894
+  start: '2874'
+  end: '2894'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes offerings of drink and meat to the Sun, the sending
+    of messengers after a victory to inform and thank the Sun, orders for renewed
+    sacrifices, a message to virgins dedicated to the Sun crediting their prayers
+    and merits, and a chasqui sent to the prince's father with news and a request
+    to remain in place.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Liquor that appeared to have disappeared was said to have been drunk by the
+    Sun, while the narrator explains that the Sun's heat evaporated it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Plates of meat were put out so that the Sun might eat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When a great event happened, a special messenger was sent to tell the Sun
+    what had happened and offer thanks.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the victory, prince Uira-ccochia Ynca sent a messenger to the Sun with
+    news of the victory and orders to priests to gather those who had fled for thanksgiving
+    and new sacrifices.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Another messenger was sent to the virgins dedicated to the Sun with news that
+    the victory had been granted in return for their prayers and merits.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A messenger called chasqui was sent to the Ynca, the prince's father, with
+    an account of events and a request that he remain where he was until the prince
+    came to him.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the Sun
+  description: The Sun is treated as receiving drink and meat offerings, being informed
+    of victory, and being thanked.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: prince Uira-ccochia Ynca
+  description: The prince sends messengers after the victory and gives orders concerning
+    thanksgivings and sacrifices.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: priests
+  description: The priests are ordered to gather those who had fled so that thanksgivings
+    and new sacrifices may be made.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: virgins dedicated to the Sun
+  description: They receive news that the victory had been granted in return for their
+    prayers and merits.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: special messenger to the Sun
+  description: A messenger is sent to tell the Sun what happened and to offer thanks.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: messenger to the virgins dedicated to the Sun
+  description: A messenger is sent to announce the victory to the virgins dedicated
+    to the Sun.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: chasqui
+  description: A messenger called chasqui is sent to the Ynca, the prince's father.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: the Ynca, the prince's father
+  description: He receives an account of events and is asked not to move from his
+    current place until the prince comes to him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: those who had fled
+  description: They are to be gathered by the priests for thanksgivings and new sacrifices.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: solar recipient of offerings and thanksgiving
+  assigned_to:
+  - fig:1
+  basis: The Sun is said to drink liquor, receive meat, hear news of victory, and
+    receive thanks.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: royal sender after victory
+  assigned_to:
+  - fig:2
+  basis: The prince sends messengers to the Sun, the dedicated virgins, and his father
+    after the victory.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: ritual officiants
+  assigned_to:
+  - fig:3
+  basis: The priests are ordered to assemble those who fled for thanksgivings and
+    new sacrifices.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: dedicated religious women credited with prayer and merit
+  assigned_to:
+  - fig:4
+  basis: The victory is reported to them as granted in return for their prayers and
+    merits.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: envoys carrying ritual or political news
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Messengers are sent to the Sun, to the virgins dedicated to the Sun, and
+    to the prince's father.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: royal father receiving report
+  assigned_to:
+  - fig:8
+  basis: The Ynca, identified as the prince's father, receives an account of events
+    and a request to remain in place.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: fugitives to be gathered for ritual
+  assigned_to:
+  - fig:9
+  basis: Those who had fled are to be gathered so that thanksgivings and new sacrifices
+    can be made.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Sun
+  literal_form: the Sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: drink offering
+  literal_form: liquor put out for the Sun and said to be drunk by the Sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: meat offering
+  literal_form: plates of meat put out so that the Sun might eat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: new sacrifices
+  literal_form: new sacrifices to be made after the victory
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Food and drink offerings to the Sun
+  summary: Liquor and plates of meat are placed out for the Sun; the disappearance
+    of liquor is described as the Sun drinking it, with evaporation also noted.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Victory reported to the Sun
+  summary: According to custom after a great event, prince Uira-ccochia Ynca sends
+    a messenger to the Sun with news of victory and instructions for thanksgiving
+    and sacrifices.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Victory announced to the dedicated virgins
+  summary: A messenger tells the virgins dedicated to the Sun that the victory was
+    granted in return for their prayers and merits.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Report sent to the prince's father
+  summary: A chasqui carries an account of events to the prince's father and asks
+    him to remain where he is until the prince arrives.
+  figure_refs:
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Offerings to the Sun in thanksgiving after victory
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: The passage links offerings, thanksgiving, and new sacrifices to the Sun
+    after a victory.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage describes ritual practice rather than a full mythic narrative.
+- id: motif:2
+  label: Victory granted in return for prayers and merits
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The victory is explicitly reported as having been granted in return for the
+    prayers and merits of the virgins dedicated to the Sun.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage reports the claim but does not detail the prayers or the mechanism
+    of granting the victory.
+- id: motif:3
+  label: Messenger sent to a divine or celestial recipient after a great event
+  taxonomy_refs: []
+  basis: The passage states that after great events a special messenger was sent to
+    the Sun, and that Uira-ccochia Ynca followed this custom after the victory.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly names this messenger pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2874-2878
+  quote_or_summary: Liquor that seemed to disappear was said to have been drunk by
+    the Sun, with evaporation by the Sun's heat noted; plates of meat were also put
+    out for the Sun to eat.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2878-2881
+  quote_or_summary: When a great event happened, a special messenger was sent to the
+    Sun to report it and offer thanks.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2881-2887
+  quote_or_summary: Prince Uira-ccochia Ynca sent a messenger to the Sun with news
+    of the victory and ordered priests to gather those who had fled for thanksgivings
+    and new sacrifices.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2887-2891
+  quote_or_summary: Another messenger was sent to the virgins dedicated to the Sun
+    with news that the victory had been granted in return for their prayers and merits.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2891-2894
+  quote_or_summary: A messenger called chasqui was sent to the Ynca, the prince's
+    father, with an account of events and a request that he remain in place until
+    the prince arrived.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports the figures, ritual actions, offerings, messengers,
+    and thanksgiving/sacrifice motifs. Broader motif-family assignment is more tentative
+    because the passage is a chronicle-style ritual description rather than a complete
+    mythic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another text or tradition.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l2874-l2894
+  passage_sha256=50584f9d11e344daee693001516fde8dd2f24d80c2ad68c684733f7b720ae8f9
+

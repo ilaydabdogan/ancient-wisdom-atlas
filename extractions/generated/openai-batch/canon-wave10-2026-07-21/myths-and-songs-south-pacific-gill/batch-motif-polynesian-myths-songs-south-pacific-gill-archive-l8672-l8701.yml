@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l8672-l8701
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: COMPOSED    IN    MEMORY    OF    VAIANA,    BY    HER    HUSBAND     NAUPATA,
+    / IN    1824. / CHAPTER    IX. / THE  SOUL.; lines 8672-8701
+  start: '8672'
+  end: '8701'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: '"I do not belong to this world now"'
+  summary: Veetini rests with relatives after the sun is temporarily detained, then
+    leads a procession westward to a sacred stream near the setting sun. He says he
+    must leave the living, calls for the sun to be thrust down so he may descend to
+    nether-land, and disappears over the western ocean in the sun's last rays while
+    his parents can grasp only a shadow.
+  language: English with a Mangaian song line and English translation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A prayer is granted so that the sun is detained while Veetini and his friends
+    rest in a temporary booth at Karanga-iti.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Veetini rises and leads a mixed glad and sorrowful procession westward along
+    the beach as the sun resumes its usual motion.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The procession reaches Vairorongo, identified as Kongo's sacred stream, facing
+    the setting sun; Veetini's body lies nearby on a hill.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: As the sun disappears and the ocean is covered with golden light, Veetini
+    says he must go and tells his parents that he no longer belongs to this world.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Veetini calls for the sun to be thrust down so that he may descend to nether-land.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The parents try to detain Veetini by force, but they grasp only a shadow.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Veetini glides swiftly over the western ocean in the ruddy track of the sun
+    and disappears with its last rays.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Veetini
+  description: A figure whose body lies nearby, who speaks with relatives, says he
+    cannot remain in this world, calls for descent to nether-land, and disappears
+    over the western ocean.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Veetini's parents
+  description: Weeping parents who beg Veetini to stay and then attempt to detain
+    him by force.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Veetini's friends and relatives
+  description: Friends and relatives who rest with Veetini and take part in the procession.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: departing dead or soul-like figure
+  assigned_to:
+  - fig:1
+  basis: Veetini's body lies nearby; he says he no longer belongs to this world, cannot
+    be physically grasped, and disappears toward nether-land.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: mourning kin who try to detain the departing one
+  assigned_to:
+  - fig:2
+  basis: The parents weep, beg Veetini to stay, and try to hold him by force.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: companions in farewell procession
+  assigned_to:
+  - fig:3
+  basis: Friends and relatives rest with Veetini and are included in the procession
+    he leads westward.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: setting sun and sun-track
+  literal_form: The sun, its golden or ruddy light, and its track over the ocean
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: western ocean
+  literal_form: The ocean to the west over which Veetini glides
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: nether-land
+  literal_form: Tekurutukia, named as the place to which Veetini says he will descend
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: shadow
+  literal_form: A shadow grasped by the parents when they try to hold Veetini
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Kongo's sacred stream
+  literal_form: Vairorongo, described as Kongo's sacred stream facing the setting
+    sun
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: temporary booth at Karanga-iti
+  literal_form: An extempore house or booth erected for Veetini
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Rest while the sun is detained
+  summary: After a granted prayer, the sun is detained for a short time while Veetini
+    and companions rest in a temporary booth at Karanga-iti.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Westward procession to the sacred stream
+  summary: Veetini leads a glad and sorrowful procession along the beach toward the
+    west, reaching Vairorongo as daylight fades and his body lies nearby.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Farewell speech and call for descent
+  summary: At sunset, Veetini says he must leave, refuses his parents' pleas, and
+    calls for the sun to be thrust down so that he may descend to nether-land.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Failed detention and disappearance westward
+  summary: The parents try to hold Veetini but grasp a shadow; Veetini glides over
+    the western ocean in the sun's ruddy track and disappears with the last rays.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: afterlife journey westward with the setting sun
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Veetini's body is nearby, he says he no longer belongs to this world, calls
+    for descent to nether-land, and travels over the western ocean in the track of
+    the setting sun.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives a localized route and destination but does not provide
+    a complete map of the afterlife.
+- id: motif:2
+  label: departure from living relatives
+  taxonomy_refs:
+  - departure
+  basis: Veetini leads a farewell procession, refuses his parents' pleas to remain,
+    eludes their attempt to detain him, and disappears.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is specifically a post-mortem departure, not a voluntary heroic departure
+    from ordinary life.
+- id: motif:3
+  label: temporary arrest of the sun
+  taxonomy_refs: []
+  basis: A granted prayer detains the sun so Veetini may rest and converse, and Veetini
+    later calls for the sun to be thrust down.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The opening sentence is fragmentary in the supplied passage, so the speaker
+    or full context of the prayer is not visible.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8672-8676
+  quote_or_summary: A granted prayer detains the sun while Veetini and friends rest
+    in an extempore house or booth at Karanga-iti.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 8678-8683
+  quote_or_summary: Veetini leads the procession west along the beach to Vairorongo,
+    Kongo's sacred stream, facing the setting sun; his body lies nearby on a hill.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 8683-8689
+  quote_or_summary: At sunset, Veetini says he must go; when his parents beg him to
+    stay, he replies, "I cannot; I do not belong to this world now."
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 8690-8692
+  quote_or_summary: '"Thrust down the sun, / That I may descend to nether-land!"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 8694-8698
+  quote_or_summary: The parents attempt to detain Veetini but grasp a shadow; he glides
+    over the western ocean in the ruddy track of the sun and disappears with the last
+    rays.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: citation
+  locator: line 8700
+  quote_or_summary: The passage is headed or concluded as "Veetini; or, The Immortality
+    of the Soul."
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short title citation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied lines. Motif labels
+    are cautious because the passage is excerpted from a larger chapter and begins
+    mid-sentence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external sources or unsupported taxonomy identifiers were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l8672-l8701
+  passage_sha256=2cd3e66764250449b397fd4d06e5c22e99c1d20c529448999f9cb66c5f69c70a
+

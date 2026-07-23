@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.korean-korean-folk-tales-gale-archive-l5710-l5737
+source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+passage_locator:
+  label: XXXVII / IM,  THE  HUNTER / XXXVIII / THE  MAGIC  INVASION  OF  SEOUL; lines
+    5710-5737
+  start: '5710'
+  end: '5737'
+  translation: Korean Folk Tales - Imps, Ghosts and Fairies
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A Seoul gentleman crossing the Han River falls asleep and dreams of a majestic
+    armed stranger on a red horse. The stranger marks the gentleman's open hand with
+    a pen-mark identified as the sign of the God of War and instructs him to wait
+    at the landing after crossing. Seven horses loaded with network hampers will come
+    toward the capital; the gentleman is to call the horsemen, show the sign, witness
+    their suicides, and then take and pile up the loads.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A gentleman of Seoul is crossing the Han River by boat, nods, falls asleep,
+    and dreams.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the dream, he meets a man with Gothic eyebrows, almond eyes, a red face,
+    great height, green clothing, a long beard, a sword, and a red horse.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The stranger asks the gentleman to open his hand and puts a pen-mark on it,
+    described as the sign of the God of War.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The stranger tells the gentleman not to go directly to Seoul after crossing
+    but to wait at the landing.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The stranger says seven horses loaded with network hampers will shortly appear
+    on their way to the capital.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The stranger instructs the gentleman to call the horsemen, open his hand,
+    and show them the sign.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The stranger predicts that the horsemen will all commit suicide in the gentleman's
+    presence when they see the sign.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After the horsemen's deaths, the gentleman is instructed to take the loads
+    and pile them up; the supplied passage ends before the instruction is completed.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: gentleman of Seoul
+  description: A gentleman from Seoul crossing the Han River by boat who falls asleep
+    and dreams.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: august stranger in the dream
+  description: A majestic man in green with red face, long beard, great sword, and
+    red horse; he gives the hand-mark and instructions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: horsemen
+  description: The horsemen whom the gentleman is told to call and to whom he is to
+    show the sign; they are predicted to commit suicide.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: seven loaded horses
+  description: Seven horses loaded with network hampers, proceeding toward the capital.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: dreaming traveler
+  assigned_to:
+  - fig:1
+  basis: He is crossing the river, falls asleep, and has the dream.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: martial dream stranger and sign-giver
+  assigned_to:
+  - fig:2
+  basis: He appears armed and mounted, marks the gentleman's hand with the sign of
+    the God of War, and gives instructions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: predicted recipients of the sign
+  assigned_to:
+  - fig:3
+  basis: They are to be called and shown the sign, after which they are predicted
+    to commit suicide.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: load-bearing horses
+  assigned_to:
+  - fig:4
+  basis: They are described as seven horses loaded with network hampers and traveling
+    toward the capital.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Han River crossing
+  literal_form: Han River crossed in a boat
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sign of the God of War
+  literal_form: pen-mark placed on the gentleman's open hand
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: red horse
+  literal_form: red horse ridden by the dream stranger
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: great sword
+  literal_form: great sword at the dream stranger's side
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: seven loaded horses and hampers
+  literal_form: seven horses loaded with network hampers
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: River crossing and dream onset
+  summary: A gentleman of Seoul crosses the Han River by boat, nods off, and enters
+    a dream.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Encounter with the martial stranger
+  summary: In the dream, the gentleman meets a majestic armed stranger on a red horse,
+    who marks his hand with the sign of the God of War.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Instructions for the landing
+  summary: The stranger tells the gentleman to wait at the landing, confront seven
+    loaded horses and their horsemen, show the hand-sign, and then gather the loads
+    after the horsemen die.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Dream encounter gives travel instructions
+  taxonomy_refs: []
+  basis: A traveler falls asleep while crossing a river and receives detailed directions
+    from a stranger in a dream.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The supplied passage gives only the beginning of the tale, so the outcome
+    of the instructions is not shown.
+- id: motif:2
+  label: Authorizing hand-mark from a martial power
+  taxonomy_refs: []
+  basis: The stranger puts a pen-mark on the gentleman's open hand and identifies
+    it as the sign of the God of War, to be shown to others.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage does not state whether the stranger himself is the God of
+    War or only gives that god's sign.
+- id: motif:3
+  label: Fatal recognition of a supernatural sign
+  taxonomy_refs: []
+  basis: The horsemen are predicted to commit suicide when they see the sign on the
+    gentleman's hand.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The motive for the horsemen's suicide is not explained in the supplied
+    lines.
+- id: motif:4
+  label: Interception of mysterious loads bound for the capital
+  taxonomy_refs: []
+  basis: Seven horses carrying network hampers are said to be traveling to Seoul,
+    and the gentleman is instructed to take the loads after showing the sign.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage ends before identifying the contents or purpose of the loads.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5714-5717
+  quote_or_summary: A gentleman of Seoul crosses the Han River by boat, nods, falls
+    asleep, and dreams.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 5717-5724
+  quote_or_summary: The dream figure has striking eyes and brows, a red face, great
+    height, green clothing, a long beard, a great sword, and a red horse.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 5725-5728
+  quote_or_summary: The stranger makes a pen-mark on the open hand as the "sign of
+    the God of War."
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 5728-5732
+  quote_or_summary: The stranger tells the gentleman to wait at the landing; seven
+    horses loaded with network hampers will come, traveling toward the capital.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 5732-5737
+  quote_or_summary: The gentleman is told to call the horsemen, show the sign, and
+    then take and pile the loads after the horsemen commit suicide in his presence.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited to the supplied passage, which ends mid-instruction
+    after the command to pile up the loads. Motif candidates describe patterns visible
+    within the excerpt without adding later narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparisons were added because the supplied passage alone does not identify a specific comparative tradition or motif family beyond the literal dream-command and sign episodes.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-folk-tales-gale-archive__l5710-l5737
+  passage_sha256=c8185560e19aed494055d9e837f886443dca0e16eb81704bd0daaf1f1f05e39b
+

@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l19166-l19172
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 319 / TEIT, THE THOMPSON
+    INDIANS OF BRITISH COLUMBIA. 321 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA.
+    323 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 325; lines 19166-19172
+  start: '19166'
+  end: '19172'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes hunting-related prohibitions involving menstruating
+    women, contact with clothing or moccasins made by them, women’s avoidance of the
+    heads of dead game animals, and feared consequences including bad luck, bear attacks,
+    sickness, and spells on a hunter’s weapons. The final line begins an additional
+    prohibition about women eating the head of a deer, but the sentence is incomplete
+    in the supplied excerpt.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hunter was said to receive bad luck from eating with, having intercourse
+    with, or wearing clothes or moccasins made or patched by a menstruating woman.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same prohibited contact was said to cause bears to attack the hunter fiercely
+    if they smelled him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Women did not pass in front of the head of a dead deer, mountain-sheep, or
+    bear.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says the dead game animals might throw sickness on a woman if
+    she committed this indignity.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says the dead game animals might cast a spell on the weapons of
+    the hunter who had killed the animal.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The excerpt begins to state that women were not supposed to eat the head of
+    a deer, but the sentence is cut off.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: hunter
+  description: A hunter whose luck, safety from bears, and weapons may be affected
+    by the described prohibitions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: menstruating woman or women
+  description: Women during menstruation, and women subject to restrictions involving
+    dead game animals’ heads.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: bears
+  description: Bears that may attack a hunter fiercely if they smell him after prohibited
+    contact.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: dead deer, mountain-sheep, or bear
+  description: Dead game animals whose heads women avoid passing in front of, and
+    which are said to be able to cause sickness or cast spells on weapons.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: hunter affected by taboo consequences
+  assigned_to:
+  - fig:1
+  basis: The hunter is described as receiving bad luck, being vulnerable to bear attack,
+    and having weapons subject to a spell.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: woman associated with prohibitions
+  assigned_to:
+  - fig:2
+  basis: The passage names menstruating women as a source of prohibited contact and
+    women as subject to restrictions around game heads.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:3
+  label: attacking animal
+  assigned_to:
+  - fig:3
+  basis: Bears are said to attack the hunter fiercely if they smell him after prohibited
+    contact.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: retaliating game animal
+  assigned_to:
+  - fig:4
+  basis: The animals are said to punish indignity by causing sickness or affecting
+    the hunter’s weapons.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: tabooed clothing and moccasins
+  literal_form: Clothes or moccasins made or patched by a menstruating woman.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: head of dead game animal
+  literal_form: The head of a dead deer, mountain-sheep, or bear.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: hunter’s weapons
+  literal_form: The weapons of the hunter who killed the animal.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Menstrual-contact hunting restriction
+  summary: The passage states that eating with, sexual intercourse with, or wearing
+    items made or patched by a menstruating woman would bring a hunter bad luck and
+    expose him to fierce bear attack if smelled.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Avoidance of dead game animal heads
+  summary: Women avoid passing in front of the heads of dead deer, mountain-sheep,
+    or bears; the animals may respond by causing sickness to the woman or by casting
+    a spell on the hunter’s weapons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Incomplete head-eating prohibition
+  summary: The supplied excerpt begins an additional rule that women should not eat
+    the head of a deer, but the sentence is incomplete.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: menstrual taboo affecting hunting success and animal danger
+  taxonomy_refs: []
+  basis: The hunter’s contact with a menstruating woman or items made by her is linked
+    to bad luck and bear attack.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly names menstrual taboo or hunting
+    pollution.
+- id: motif:2
+  label: game-animal head taboo with retaliatory sickness and weapon magic
+  taxonomy_refs: []
+  basis: Women avoid the heads of dead game animals because those animals may cause
+    sickness or affect the hunter’s weapons.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The final head-eating prohibition is incomplete in the supplied passage,
+    so its exact scope is uncertain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19166-19168
+  quote_or_summary: Eating with, having intercourse with, or wearing clothes or moccasins
+    made or patched by a menstruating woman is said to give the hunter bad luck.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 19168-19169
+  quote_or_summary: The same prohibited contact is said to cause bears to attack the
+    hunter fiercely if they smell him.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 19169-19170
+  quote_or_summary: Women never passed in front of the head of a dead deer, mountain-sheep,
+    or bear.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 19170-19171
+  quote_or_summary: For this indignity, the animals might cause sickness in the woman
+    or cast a spell on the weapons of the hunter who killed the animal.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: line 19172
+  quote_or_summary: The excerpt begins to state that women were not supposed to eat
+    the head of a deer, but the supplied sentence is incomplete.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal restrictions and consequences are explicit. Motif labels are descriptive
+    and not linked to supplied taxonomy refs. No comparison claims are made because
+    the passage itself does not support cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The excerpt ends mid-sentence, limiting extraction of the final prohibition.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l19166-l19172
+  passage_sha256=fdc9c501130d021ef65d62ece0e12a1e1be3776a4c9718c63f33379ef0adbafe
+

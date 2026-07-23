@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.mongol-sagas-from-the-far-east-busk-gutenberg-l4523-l4537
+source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+passage_locator:
+  label: THE AVARICIOUS BROTHER. / TALE XV. / THE USE OF MAGIC LANGUAGE. / TALE XVI.;
+    lines 4523-4537
+  start: '4523'
+  end: '4537'
+  translation: Sagas from the Far East
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: he once more took the way of the cool grove; and having taken the Siddhî-kür
+    captive as before in his bag
+  summary: After failing again in the object of his journey, the Well-and-wise-walking
+    Khan returns toward the cool grove, captures the Siddhî-kür in a large bag tied
+    with a many-coloured cord, and carries him to present to his master and teacher
+    Nâgârg'una. During the journey, the Siddhî-kür asks for a tale or a signal to
+    tell one; the Khan gives the signal, and the Siddhî-kür begins to speak.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Well-and-wise-walking Khan is said to have again failed in the end and
+    object of his journey.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Khan once more takes the way of the cool grove.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Khan takes the Siddhî-kür captive in a bag that has place for a hundred.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Khan fastens the bag's mouth with a cord woven of a hundred threads of
+    different colours.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Khan carries the Siddhî-kür to present him to his Master and Teacher Nâgârg'una.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: As they travel, the Siddhî-kür asks the Khan either to beguile the way with
+    a tale or to give a signal for the Siddhî-kür to tell one.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Khan gives the signal for the Siddhî-kür to tell a tale, and the Siddhî-kür
+    begins speaking.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Well-and-wise-walking Khan
+  description: A Khan who has failed again in the object of his journey, returns to
+    the cool grove, captures the Siddhî-kür, and carries him toward Nâgârg'una.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Siddhî-kür
+  description: A captive figure placed in the Khan's bag; during the journey he asks
+    for tale-telling and begins to tell a tale after receiving a signal.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Nâgârg'una
+  description: Named as the Khan's Master and Teacher, to whom the Siddhî-kür is to
+    be presented.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: returning traveler after failed objective
+  assigned_to:
+  - fig:1
+  basis: The Khan has again failed in the object of his journey and once more takes
+    the way of the cool grove.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: captor and carrier
+  assigned_to:
+  - fig:1
+  basis: The Khan captures the Siddhî-kür in a bag and bears him along.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: captive being transported
+  assigned_to:
+  - fig:2
+  basis: The Siddhî-kür is taken captive in the Khan's bag and carried along.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: journey tale-teller
+  assigned_to:
+  - fig:2
+  basis: The Siddhî-kür asks for a signal to tell a tale and begins after the signal
+    is given.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: master and teacher intended as recipient
+  assigned_to:
+  - fig:3
+  basis: Nâgârg'una is called the Khan's Master and Teacher and is the intended recipient
+    of the captive Siddhî-kür.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cool grove
+  literal_form: cool grove
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: capacious bag
+  literal_form: bag with place for a hundred
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hundred-thread many-coloured cord
+  literal_form: cord woven of a hundred threads of different colours
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: signal for tale-telling
+  literal_form: signal given so the Siddhî-kür should tell a tale
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Return to the cool grove after failure
+  summary: The Khan, having again failed in the object of his journey, takes the way
+    of the cool grove once more.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Capture and binding of the Siddhî-kür
+  summary: The Khan places the Siddhî-kür captive in a large bag and secures the bag
+    with a hundred-thread many-coloured cord.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Transport toward Nâgârg'una
+  summary: The Khan bears the captive Siddhî-kür along in order to present him to
+    his Master and Teacher Nâgârg'una.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Journey storytelling begins
+  summary: On the way, the Siddhî-kür asks for tale-telling or permission to tell
+    a tale; the Khan signals, and the Siddhî-kür begins.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: renewed journey after repeated failure
+  taxonomy_refs: []
+  basis: The Khan has again failed in his journey's object and once more sets out
+    toward the cool grove.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not explain the broader objective of the journey.
+- id: motif:2
+  label: captive being enclosed and bound in a special container
+  taxonomy_refs: []
+  basis: The Siddhî-kür is captured in a bag with place for a hundred and the bag
+    is fastened with a hundred-thread cord of different colours.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not state that the bag or cord is magical, only that
+    they are unusually described.
+- id: motif:3
+  label: captive transported to a master or teacher
+  taxonomy_refs: []
+  basis: The Khan carries the captive Siddhî-kür to present him to his Master and
+    Teacher Nâgârg'una.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The purpose of the presentation is not given in this passage.
+- id: motif:4
+  label: journey-beguiling embedded tale
+  taxonomy_refs: []
+  basis: During travel, the Siddhî-kür requests that the way be beguiled with a tale
+    or that he be signaled to tell one, and he begins telling after the signal.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The content of the tale is outside this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4523-4528
+  quote_or_summary: When the Khan saw he had again failed in the end and object of
+    his journey, he once more took the way of the cool grove.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 4528-4530
+  quote_or_summary: He took the Siddhî-kür captive as before in his bag, "in which
+    there was place for a hundred."
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 4530-4532
+  quote_or_summary: He made fast the mouth of the bag with a "cord woven of a hundred
+    threads of different colours."
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: 4532-4533
+  quote_or_summary: The Khan bore the Siddhî-kür along to present him to his Master
+    and Teacher Nâgârg'una.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 4535-4536
+  quote_or_summary: As they went, the Siddhî-kür asked the Khan to beguile the way
+    with a tale or give a signal for the Siddhî-kür to tell one.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 4536-4537
+  quote_or_summary: After the Khan gave the signal, the Siddhî-kür began to tell a
+    tale.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are passage-level candidates;
+    broader tale-cycle significance and taxonomy assignment require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly establish relation to an external tradition or named motif family.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mongol-sagas-from-the-far-east-busk-gutenberg__l4523-l4537
+  passage_sha256=7837fe03953cae63c287fda1d065e946328310b48414956e3e6f824850ed0430
+

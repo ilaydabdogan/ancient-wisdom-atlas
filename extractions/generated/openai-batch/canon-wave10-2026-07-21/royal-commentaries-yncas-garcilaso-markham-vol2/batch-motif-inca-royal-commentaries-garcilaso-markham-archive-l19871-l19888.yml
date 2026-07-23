@@ -1,0 +1,216 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l19871-l19888
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OP  THE  VNCAS.  443 / NINTH  BOOK  OF  THE  ROYAL / CHAPTER  IX.
+    / COMMENTARIES  OF  THE  YNCAS.; lines 19871-19888
+  start: '19871'
+  end: '19888'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“the tradition of these Indians touching the giants ... the spring of pitch
+    which is found in the same place”"
+  summary: The narrator notes that José de Acosta and Agustín de Zárate tell the same
+    story briefly, while Pedro de Cieza gives more detail. The extracted Cieza material
+    is said to preserve an Indian tradition concerning giants and an account of a
+    spring of pitch in the same place.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Father José de Acosta and Agustín de Zárate are said to tell the same story
+    briefly.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pedro de Cieza is said to give a more detailed account in his fifty-second
+    chapter.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The extracted material from Cieza is described as preserving a tradition of
+    these Indians concerning giants.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The same account includes a spring of pitch found in the same place, described
+    as noteworthy.
+  category: object
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Father José de Acosta
+  description: Named source said to tell the same story briefly.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Agustín de Zárate
+  description: Named as the Accountant-General and as a source said to tell the same
+    story briefly.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Pedro de Cieza
+  description: Named source said to enter into more detail and to have his history
+    excerpted.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: these Indians
+  description: Collective group whose tradition concerning giants is mentioned.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: giants
+  description: Beings mentioned as the subject of the Indians' tradition.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: brief source for same story
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says Acosta and Zárate tell the same story briefly.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: detailed cited source
+  assigned_to:
+  - fig:3
+  basis: The passage says Cieza enters into more detail and that material is extracted
+    from his history.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: tradition-holders
+  assigned_to:
+  - fig:4
+  basis: The passage refers to the tradition of these Indians concerning giants.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: figures in reported tradition
+  assigned_to:
+  - fig:5
+  basis: The passage identifies giants as the subject of the reported tradition.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: spring of pitch
+  literal_form: spring of pitch
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Chronicle sources compared
+  summary: The narrator states that Acosta and Zárate tell the same story briefly
+    and that Cieza gives a more detailed version.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tradition of giants and pitch spring
+  summary: The extracted Cieza account is presented as evidence for an Indian tradition
+    concerning giants and for a spring of pitch located in the same place.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: local tradition concerning giants
+  taxonomy_refs: []
+  basis: The passage explicitly refers to an Indian tradition touching giants.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not include the content of the giant tradition, only
+    a reference to its existence.
+- id: motif:2
+  label: notable pitch spring at the tradition site
+  taxonomy_refs: []
+  basis: The passage mentions a spring of pitch found in the same place as the reported
+    tradition and calls it worthy of note.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage treats the spring as noteworthy but does not explain a ritual,
+    mythic, or symbolic function.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself states that Acosta and Zárate tell the same story and
+    that Cieza gives a more detailed version, indicating the same reported narrative
+    across named chronicle sources.
+  claim_level: same_motif
+  target: accounts by José de Acosta, Agustín de Zárate, and Pedro de Cieza concerning
+    the reported story
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only the narrator's source comparison and does
+    not reproduce the detailed story in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19871-19880
+  quote_or_summary: Acosta and Zárate are said to tell the same story briefly; Cieza
+    is said to enter into more detail in chapter fifty-two.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 19882-19888
+  quote_or_summary: "“the tradition of these Indians touching the giants ... the spring
+    of pitch which is found in the same place”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal source and object references are clear, but the passage is fragmentary
+    and does not include the detailed Cieza story.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy reference directly matches giants or a pitch spring; taxonomy fields are therefore left empty.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l19871-l19888
+  passage_sha256=069e225dbda643e680f3699ba26285fb50387f9a57f4b85964b5e91d0c805832
+

@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l23027-l23052
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / VOL.  II. / NINTH  BOOK  OF  THE  ROYAL /
+    COMMENTARIES  OF  THE  YNCAS.; lines 23027-23052
+  start: '23027'
+  end: '23052'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: the Sun, whose children they were
+  summary: The passage describes belief in Ynca claims of descent from the Sun, then
+    recounts how Atahuallpa, after victory, falsely promised to restore Huascar and
+    establish peace, summoned royal Yncas to Cuzco, and ordered them killed to prevent
+    insurrection.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says that people readily believed stories spread by the Yncas
+    concerning the Sun and that the Yncas were the Sun's children.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Atahuallpa is said to have made cruel use of his victory.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Atahuallpa pretended that he intended to restore Huascar to his throne.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Atahuallpa summoned the Yncas in the empire, including governors, ministers
+    of peace, masters of the camp, and war captains, to assemble at Cuzco.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Atahuallpa pretended that he wanted to arrange future rules and statutes so
+    the two kingdoms could live in peace and brotherhood.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Yncas of royal blood obeyed the summons, except those prevented by age,
+    sickness, distance, or inability to arrive in time.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When the assembled Yncas were gathered, Atahuallpa ordered them put to death
+    in different ways to secure himself against possible insurrection.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Atahuallpa
+  description: Victorious ruler who summons the Yncas under pretexts of restoration,
+    statutes, peace, and brotherhood, then orders them killed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Huascar
+  description: Ruler whom Atahuallpa pretends he intends to restore to his throne.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Yncas of the blood royal
+  description: Royal-blood Yncas who obey Atahuallpa's summons to Cuzco and are ordered
+    put to death after assembling.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Sun
+  description: The celestial being or deity concerning whom the Yncas spread stories;
+    the passage says the Yncas were the Sun's children.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: victorious deceiver and killer of royal kin
+  assigned_to:
+  - fig:1
+  basis: Atahuallpa uses victory to summon the Yncas under peaceful and restorative
+    pretexts, then orders them killed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: throne-holder named in a false restoration claim
+  assigned_to:
+  - fig:2
+  basis: Atahuallpa claims he intends to restore Huascar to his throne.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: summoned royal victims
+  assigned_to:
+  - fig:3
+  basis: The royal-blood Yncas obey the summons and are killed after assembly.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: divine or celestial parent of the Yncas
+  assigned_to:
+  - fig:4
+  basis: The passage states that the Yncas were children of the Sun.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: solar descent
+  literal_form: the Sun as parent of the Yncas
+  associated_figures:
+  - fig:4
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: royal blood
+  literal_form: Yncas of the blood royal
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Belief in Ynca solar descent
+  summary: The passage reports that people believed stories spread by the Yncas about
+    the Sun and the Yncas' status as the Sun's children.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: False summons to Cuzco
+  summary: Atahuallpa pretends he will restore Huascar and create peaceful statutes
+    between kingdoms, and summons the Yncas to Cuzco.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Assembly and killing of the royal Yncas
+  summary: The royal-blood Yncas obey the summons, assemble, and are ordered killed
+    by Atahuallpa to prevent insurrection.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal legitimacy through solar descent
+  taxonomy_refs:
+  - royal_legitimacy
+  - divine_parent_child
+  basis: The passage states that the Yncas spread stories concerning the Sun and that
+    they were the Sun's children.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The chronicler frames the claim skeptically as stories believed by simple
+    people; the passage does not elaborate the full doctrine of Inca solar descent.
+- id: motif:2
+  label: deceptive peace summons followed by royal purge
+  taxonomy_refs: []
+  basis: Atahuallpa pretends to seek restoration, statutes, peace, and brotherhood,
+    gathers royal Yncas, and orders them killed to prevent insurrection.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a narrative-political pattern in the passage rather than a named
+    taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 23027-23031
+  quote_or_summary: People readily believed stories spread by the Yncas concerning
+    "the Sun, whose children they were."
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 23033-23041
+  quote_or_summary: After his victory, Atahuallpa pretends he intends to restore Huascar
+    to the throne and summons the Yncas in the empire, including civil and military
+    leaders, to Cuzco.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 23041-23047
+  quote_or_summary: Atahuallpa claims he wants to arrange future rules and statutes
+    so the two kingdoms can live in peace and brotherhood.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 23047-23050
+  quote_or_summary: All Yncas of royal blood obey the summons, except those unable
+    because of age, sickness, distance, or lack of time.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 23050-23052
+  quote_or_summary: Once they are assembled, Atahuallpa orders them put to death in
+    different ways so he will be secure against possible insurrection.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The political sequence and solar descent language are explicit. Motif labeling
+    is cautious because the passage is historical-chronicle narrative and does not
+    develop a mythic episode beyond the solar descent claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l23027-l23052
+  passage_sha256=5b16bec8b829a71fd1426068a7339f63008c386372b945d4e546884b04996c0d
+

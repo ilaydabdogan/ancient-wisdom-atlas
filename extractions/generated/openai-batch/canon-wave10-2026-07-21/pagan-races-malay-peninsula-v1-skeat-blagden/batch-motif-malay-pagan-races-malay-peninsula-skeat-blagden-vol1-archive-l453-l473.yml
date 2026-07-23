@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.malay-pagan-races-malay-peninsula-skeat-blagden-vol1-archive-l453-l473
+source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+passage_locator:
+  label: INTRODUCTION / INTRODUCTION / INTRODUCTION / ENVIRONMENT; lines 453-473
+  start: '453'
+  end: '473'
+  translation: Pagan Races of the Malay Peninsula, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Malay Peninsula jungle fauna as largely arboreal,
+    listing tree-living mammals, reptiles, and other animals. It emphasizes flying
+    or gliding creatures such as flying-foxes, fruit-bats, flying squirrels, flying
+    lemurs, flying lizards, and flying frogs, and explains that some truly fly while
+    others glide between trees using membranes or folds of skin.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A large proportion of the jungle fauna of the Peninsula is described as having
+    learned to live in trees.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists bear, leopard, panther, other cats except the tiger, bear-cat,
+    civet, squirrels, apes, monkeys, snakes, and lizards among tree-living animals.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Flying-foxes, fruit-bats, flying squirrels, flying lemurs, flying lizards,
+    and flying frogs are described as notable arboreal creatures.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Some creatures, such as flying-foxes, are described as true bats that really
+    fly.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Other creatures are described as gliding from one tree to another after taking
+    off from a trunk at a height, then climbing and repeating the glide.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Flying squirrels and flying lemurs are said to use a stretched fold of skin
+    between the fore and hind legs as a parachute-like membrane.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: arboreal jungle fauna
+  description: The denizens of the jungle that live in trees, including numerous mammals
+    and reptiles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: flying or gliding creatures
+  description: Flying-foxes, fruit-bats, flying squirrels, flying lemurs, flying lizards,
+    and flying frogs, described as unusual arboreal creatures.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: flying-foxes
+  description: True bats named for the fox-like character of their heads and described
+    as really flying.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: flying squirrels and flying lemurs
+  description: Animals that glide between trees using a fold of skin stretched between
+    the fore and hind legs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: snakes
+  description: Snakes are included among the tree-living denizens of the jungle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: tree-dwelling fauna
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The passage describes these animals as part of the jungle population that
+    lives in trees.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: unusual aerial arboreal creatures
+  assigned_to:
+  - fig:2
+  basis: The passage singles out flying and gliding creatures as especially interesting
+    among the arboreal population.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: true flying bat
+  assigned_to:
+  - fig:3
+  basis: Flying-foxes are described as true bats that really fly.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: gliding animal
+  assigned_to:
+  - fig:4
+  basis: Flying squirrels and flying lemurs are described as gliding between trees
+    using a stretched membrane.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: tree habitat
+  literal_form: trees and tree trunks of the jungle
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: serpentine animal
+  literal_form: snakes
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: wingless gliding membrane
+  literal_form: fold of skin stretched between fore and hind legs, used like a parachute
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: arboreal jungle environment
+  summary: The passage presents the Malay Peninsula jungle as populated by many animals
+    that live in trees.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: flight and gliding among tree animals
+  summary: The passage distinguishes true flying bats from animals that glide from
+    tree to tree using skin membranes.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 453-461
+  quote_or_summary: The passage states that a major and characteristic portion of
+    Peninsula jungle fauna lives in trees, listing bear, leopard, panther, other cats
+    except tiger, bear-cat, civet, squirrels, apes, monkeys, snakes, and lizards.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 461-465
+  quote_or_summary: The passage calls the most interesting arboreal creatures bizarre
+    and “half-animal, half-bird,” naming flying-foxes, fruit-bats, flying squirrels,
+    flying lemurs, flying lizards, and flying frogs.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; brief quote included.
+- id: ev:3
+  type: summary
+  locator: lines 466-473
+  quote_or_summary: The passage explains that flying-foxes are true bats that fly,
+    while many other creatures glide from tree to tree; flying squirrels and flying
+    lemurs use a stretched fold of skin as a parachute-like membrane.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is a natural-history description of jungle fauna rather than
+    a mythic narrative. Literal environmental symbols are extractable, but no passage-supported
+    comparative myth motif or comparison claim is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No candidate mythological motifs or comparison claims were added because the passage itself only describes fauna and locomotion in the Peninsula jungle.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-pagan-races-malay-peninsula-skeat-blagden-vol1-archive__l453-l473
+  passage_sha256=855514b7153c7c374909d1924e59efde04f6f1e0ba6da5a728a7f0f25d883dbd
+

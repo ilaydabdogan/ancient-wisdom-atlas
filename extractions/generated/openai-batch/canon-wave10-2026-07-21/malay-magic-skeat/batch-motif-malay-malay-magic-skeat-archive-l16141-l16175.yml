@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l16141-l16175
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: REPTILES  AND  REPTILE  CHARMS / HABITS  OF  THE  CROCODILE / REPTILES  AND  REPTILE  CHARMS
+    / MAN- EATING  CROCODILES; lines 16141-16175
+  start: '16141'
+  end: '16175'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes how a man-eating crocodile kills and swallows prey,
+    notes a parallel with the boa, and recounts three escapes from crocodiles: Lebai
+    ‘Ali escaping after being left in mud as the tide fell, Si Ka’ escaping up a stem
+    while losing a toe, and a Klang launch youth escaping by putting his thumbs into
+    the crocodile’s eyes.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man-eating crocodile is described as bending its tail under its belly, breaking
+    a victim’s backbone, dashing the body against a trunk or root to break limb bones,
+    and swallowing the body whole.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the crocodile’s swallowing method forms a parallel
+    to the boa’s method of devouring prey.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Lebai ‘Ali is said to have been caught by a crocodile at Batu Burok during
+    an ebbing tide, smothered in thick mud, and left while the crocodile waited; he
+    escaped when the falling tide carried the crocodile farther away.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Si Ka’ is said to have been pushed under a bamboo root by a crocodile, climbed
+    an overhanging stem, and escaped after the crocodile caught his great toe, which
+    he surrendered.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A youth belonging to the Government launch at Klang is said to have escaped
+    by putting his thumbs into the crocodile’s eyes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Malay authorities are reported as asserting that crocodile eyes protrude from
+    their sockets on stalks.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: man-eating crocodile
+  description: A crocodile that attacks, subdues, and attempts to devour human victims.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Lebai ‘Ali
+  description: A man caught by a crocodile at Batu Burok who escaped when the crocodile
+    drifted away with the ebbing tide.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Si Ka’
+  description: A man caught by a crocodile who climbed an overhanging stem and escaped
+    after losing his great toe.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: youth belonging to the Government launch at Klang
+  description: A youth who escaped a crocodile by putting his thumbs into its eyes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: predatory devourer
+  assigned_to:
+  - fig:1
+  basis: The crocodile is described as killing or trying to subdue human victims and
+    swallowing bodies whole.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: human escapee
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Each named or described human figure escapes after being caught by a crocodile.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: man-eating crocodile
+  literal_form: crocodile
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: water and falling tide
+  literal_form: ebb tide, falling tide, river bank
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: mud confinement
+  literal_form: thick mud
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: root and stem escape support
+  literal_form: bamboo root and overhanging stem
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: crocodile eyes
+  literal_form: eyes protruding from sockets on stalks
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: boa
+  literal_form: boa
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Crocodile method of devouring prey
+  summary: The crocodile breaks a victim’s backbone and limb bones before swallowing
+    the body whole; the passage compares this method with the boa.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lebai ‘Ali escapes with the ebbing tide
+  summary: Lebai ‘Ali is caught, smothered in mud, and left by the crocodile, then
+    escapes when the falling tide carries the crocodile away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Si Ka’ climbs away and loses a toe
+  summary: Si Ka’ waits until the crocodile is farther off, climbs an overhanging
+    stem, and escapes while giving up his great toe to the crocodile.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Klang youth blinds or presses the crocodile’s eyes
+  summary: A youth from the Government launch at Klang escapes by putting his thumbs
+    into the crocodile’s eyes; the passage adds a reported belief about protruding
+    crocodile eyes.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: devouring reptile crushes and swallows prey whole
+  taxonomy_refs: []
+  basis: The passage describes the crocodile breaking bones and swallowing the body
+    whole, with an explicit comparison to the boa.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The available taxonomy includes serpent, but the primary animal here is
+    a crocodile; the serpent link is only through the passage’s boa comparison.
+- id: motif:2
+  label: miraculous escape from a man-eating crocodile
+  taxonomy_refs: []
+  basis: The passage introduces the cases as miraculous escapes and gives three examples
+    of humans escaping crocodiles.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The accounts are presented as reported cases within a crocodile-charm
+    context, not as a single formal tale cycle.
+- id: motif:3
+  label: escape by attacking the predator’s eyes
+  taxonomy_refs: []
+  basis: The Klang youth escapes by putting his thumbs into the crocodile’s eyes.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: Only one example of this expedient is given in the passage.
+- id: motif:4
+  label: loss of a body part as the price of escape
+  taxonomy_refs: []
+  basis: Si Ka’ escapes after the crocodile catches his great toe, which he surrenders
+    as the price of liberty.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives this as one incident rather than a generalized rule.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the crocodile’s method of devouring prey
+    to the boa’s method, at the level of predatory technique.
+  claim_level: same_function
+  target: boa method of devouring prey
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is the narrator’s explicit analogy; it does not by itself establish
+    a shared mythic motif beyond functional similarity.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16141-16151
+  quote_or_summary: The crocodile breaks the victim’s backbone and limb bones, swallows
+    the body whole, and is compared to the boa in its method of devouring prey.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 16151-16160
+  quote_or_summary: Lebai ‘Ali is caught by a crocodile at Batu Burok during an ebbing
+    tide, left in thick mud, and escapes when the falling tide carries the crocodile
+    farther away.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 16161-16168
+  quote_or_summary: Si Ka’ is pushed under a bamboo root by a crocodile, climbs an
+    overhanging stem, and escapes though the crocodile catches his great toe.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 16169-16175
+  quote_or_summary: A Klang Government launch youth escapes by putting his thumbs
+    into the crocodile’s eyes; Malay authorities are said to describe crocodile eyes
+    as protruding on stalks.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The events and figures are explicit. Motif labels are descriptive and need
+    review because the passage is presented as reported crocodile lore rather than
+    a formal myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata; taxonomy references are limited to explicitly supported available refs.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l16141-l16175
+  passage_sha256=fe31cf09cf61abcd4f96804c384082b61c483a14084138dfbc6f0f9db44ff3d5
+

@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l1764-l1780
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: ANOTHER  ACCOUNT / ROYAL  SANCTITY / REGALIA  OF  MALAY  SOVEREIGNS / MAGIC  POWERS  OF  THE  REGALIA;
+    lines 1764-1780
+  start: '1764'
+  end: '1780'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage remarks that Peninsular Malays still regard asking pardon
+    before mentioning the king''s name as imperative. It also explains the expression
+    that a ruler is master of fresh water in the ocean by citing Leyden''s Malay Annals:
+    when fresh water was exhausted, Raja Sang Sapurba had circles of rotan or bamboo
+    placed in the water, descended into a small boat, and put his feet into the water
+    within the circles.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that asking pardon for mentioning the king's name is considered
+    imperative among Peninsular Malays.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage gives the expression “master of fresh water in the ocean” and
+    says it is explained by a passage in Leyden's Malay Annals.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the cited Malay Annals passage, all fresh water has been exhausted.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Raja Sang Sapurba directs others to bring rotans, tie them in circles, and
+    throw them into the water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Raja Sang Sapurba descends into a small boat and inserts his feet into the
+    water within the circles of bamboo or rotan.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the king
+  description: A king whose name requires an apology or pardon before being mentioned.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Peninsular Malays
+  description: The people said to consider asking pardon before mentioning the king's
+    name imperative.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Raja Sang Sapurba
+  description: A ruler in the cited Malay Annals passage who acts when fresh water
+    is exhausted.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: sacralized ruler
+  assigned_to:
+  - fig:1
+  basis: The passage says mentioning the king's name requires asking pardon.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: community observing royal speech taboo
+  assigned_to:
+  - fig:2
+  basis: Peninsular Malays are described as considering the apology for the king's
+    name imperative.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ruler associated with fresh water in the ocean
+  assigned_to:
+  - fig:3
+  basis: The expression about mastery of fresh water in the ocean is explained by
+    the cited episode involving Raja Sang Sapurba's actions in the water.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: fresh water in the ocean
+  literal_form: fresh water in the ocean
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: king's name
+  literal_form: the spoken or mentioned name of the king
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: rotan or bamboo circles in water
+  literal_form: rotans tied in circles and thrown into the water; circles of bamboo
+    or rotan
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: ruler's feet in water
+  literal_form: Raja Sang Sapurba's feet inserted into water within the circles
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Royal name requires pardon
+  summary: The passage notes that Peninsular Malays consider it necessary to ask pardon
+    when mentioning the king's name.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Raja Sang Sapurba and fresh water in the ocean
+  summary: When fresh water is exhausted, Raja Sang Sapurba orders rotan circles put
+    into the water, goes into a small boat, and places his feet into the water within
+    the circles.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal speech taboo and sanctity of the ruler's name
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The king's name is treated as requiring a formal apology before mention,
+    indicating special royal sanctity within the passage.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage directly supports royal sanctity, while the broader taxonomy
+    label royal_legitimacy is an approximate fit rather than an explicit claim of
+    succession or political legitimacy.
+- id: motif:2
+  label: ruler associated with producing or commanding fresh water in the ocean
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The title-like expression 'master of fresh water in the ocean' is explained
+    through Raja Sang Sapurba's ritualized action in ocean water after fresh water
+    is exhausted.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt ends before stating the result of the action, so the passage
+    only implies the water-related power through the expression and setup.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links the expression 'master of fresh water in the
+    ocean' to a cited episode in Leyden's Malay Annals involving Raja Sang Sapurba
+    and fresh water scarcity.
+  claim_level: same_motif
+  target: Leyden's Malay Annals, p. 37, episode of Raja Sang Sapurba and fresh water
+    in the ocean
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The cited episode is only partially quoted in this line range, and
+    the outcome of Raja Sang Sapurba's action is not included.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1764-1769
+  quote_or_summary: The author remarks that Peninsular Malays still consider it imperative
+    to ask pardon when mentioning the king's name.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 1769-1772
+  quote_or_summary: The expression “who is master of fresh water in the ocean” is
+    explained by a passage in Leyden's Malay Annals.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 1772-1774
+  quote_or_summary: In the cited passage, all fresh water has been exhausted.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1774-1777
+  quote_or_summary: Raja Sang Sapurba directs people to bring rotans, tie them into
+    circles, and throw them into the water.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1777-1780
+  quote_or_summary: Raja Sang Sapurba descends into a small boat and inserts his feet
+    into the water within the circles of bamboo or rotan.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal details are clear, but the line range ends before the cited episode's
+    result, limiting certainty about the water-power motif.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l1764-l1780
+  passage_sha256=609cf26791b925c8770d67b4b318faf731e33c04bb05827837abbe32e79d18c3
+

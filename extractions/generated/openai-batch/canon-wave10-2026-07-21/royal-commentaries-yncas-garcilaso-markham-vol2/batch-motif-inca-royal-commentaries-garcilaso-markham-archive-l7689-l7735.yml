@@ -1,0 +1,303 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l7689-l7735
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / SIXTH  BOOK  OF  THE  ROYAL / CHAPTER  XXV.
+    / COMMENTARIES  OF  THE  YNCAS.; lines 7689-7735
+  start: '7689'
+  end: '7735'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes training and testing of novices: they are struck
+    with rods to test endurance, faced with threatening movements of weapons by an
+    expert captain to test fearlessness, and required to learn how to make war equipment,
+    shields, and sandals.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Novices are expected to receive blows with rods without showing pain in the
+    face or flinching with limbs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A novice who shows pain or flinches is reproved and told that inability to
+    endure rod blows implies inability to withstand enemy weapons.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The novices are placed in rows before a captain who is skilled in arms.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The captain wields either a two-handed club called a macana or a spear called
+    a chuqui near the novices, including near their eyes and legs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A novice who shows fear by winking or drawing back a foot is reproved with
+    an argument comparing the harmless test to enemy weapons intended to kill.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The novices are expected to remain immovable during the weapon test.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The novices are expected to know how to make offensive weapons used in war,
+    including bows and arrows, a leather-strap-thrown dart, a pointed lance, and a
+    reed sling.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The only defensive arms mentioned are shields called huallcanca, which the
+    novices have to learn to make.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The novices also have to learn how to make shoes called usuta or usnta, described
+    as sandals made from one piece of leather or reed fastened with reed or wool cords.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: novices
+  description: Trainees undergoing endurance, weapon-fear, and craft exercises.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: captain skilled in arms
+  description: A captain and master in the use of arms who performs weapon movements
+    among the novices.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: enemy
+  description: Enemy fighters are invoked in admonitions as users of weapons intended
+    to injure or kill.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: tested novice
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly calls the trainees novices and describes their tests
+    and required skills.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: martial examiner
+  assigned_to:
+  - fig:2
+  basis: The captain is described as a master in arms who wields weapons among the
+    novices to test their fear response.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: threatening opponent invoked in instruction
+  assigned_to:
+  - fig:3
+  basis: Reproofs compare the training blows and feigned weapon strikes with real
+    enemy weapons.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: rod blows
+  literal_form: blows with rods
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: macana
+  literal_form: two-handed club or post-like weapon called macana
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: chuqui
+  literal_form: spear called chuqui
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: war-making crafts
+  literal_form: bows, arrows, dart with leather strap, pointed lance, reed sling,
+    shield, and sandals
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Endurance under rod blows
+  summary: Novices are struck with rods and expected not to show pain or flinch; those
+    who do are reproved by comparison with enemy weapons.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Weapon-fear test
+  summary: A skilled captain moves a macana or chuqui close to the novices' eyes and
+    legs; signs of fear lead to reproof.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Manufacture of war gear and footwear
+  summary: Novices must learn to make specified offensive weapons, shields, and sandals
+    or shoes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: initiation through endurance and martial testing
+  taxonomy_refs:
+  - initiation
+  basis: The passage describes novices undergoing pain endurance, fear-resistance
+    trials with weapons, and required learning of martial crafts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is historical-ethnographic description rather than a mythic
+    narrative; the motif label identifies a ritual/training pattern only.
+- id: motif:2
+  label: royal or elite martial preparation
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Within the Royal Commentaries context, the passage describes formal novice
+    preparation through controlled trials and war equipment manufacture, but this
+    excerpt alone does not specify royal status for the novices.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: low
+  cautions: Royal or elite legitimacy is not explicit in the supplied lines; this
+    candidate depends on broader chapter context not included here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7689-7702
+  quote_or_summary: Novices are struck with rods and must not show pain or flinch;
+    those who do are told such weakness would prevent them from withstanding enemy
+    weapons.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7703-7713
+  quote_or_summary: The novices are arranged in rows while a captain skilled in arms
+    wields a macana or chuqui near their eyes and legs.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7713-7722
+  quote_or_summary: A novice who winks or draws back a foot is told that fear of a
+    harmless weapon predicts greater fear of enemies using weapons to kill; the novices
+    are expected to stand immovable.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7723-7729
+  quote_or_summary: Novices are expected to make offensive weapons, including bows
+    and arrows, a dart thrown with a leather strap, a pointed lance, and a reed sling.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 7729-7732
+  quote_or_summary: The only defensive arms are shields called huallcanca, and novices
+    must learn to make them.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 7732-7735
+  quote_or_summary: The novices must also learn to make shoes called usuta/usnta from
+    leather or reed, fastened with reed or wool cords and compared to sandals.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for the supplied lines. Motif identification
+    as initiation is supported by the novice tests, but mythological interpretation
+    should be reviewed because the passage is descriptive rather than narrative myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage does not itself compare the rite to another mythic tradition or motif family beyond the direct initiation-pattern classification.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l7689-l7735
+  passage_sha256=050b97a37fb9382e9f8228699a813d93e9761f5c750138d230e6cc277f5ef7be
+

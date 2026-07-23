@@ -1,0 +1,273 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l23551-l23577
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: THE   MAOLU   SERIES  379 / COLOPHON / THE   MAQLU   SERIES  38 1 / THIRD  TABLET;
+    lines 23551-23577
+  start: '23551'
+  end: '23577'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: An incantation addresses a sorceress whose words, tongue, lips, and footsteps
+    are associated with hostile enchantment, bewitchment, and death. The speaker places
+    bans on her mouth, tongue, eyes, feet, knees, and hands, binds her hands, invokes
+    Sin to destroy part of her body and cast her into an abyss of water and fire,
+    and compares her pallor to the circle of a seal.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is labeled as the third tablet and begins with an incantation.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The incantation addresses a figure called a sorceress.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The sorceress is described as having an unfriendly word in her heart and as
+    producing enchantment and bewitchment by her tongue and lips.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Death is said to follow in the sorceress's footsteps.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The speaker puts the sorceress's mouth, tongue, eyes, feet, knees, and hands
+    under a ban.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker binds the sorceress's hands behind her.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Sin is invoked to destroy the front part of the sorceress's body and cast
+    her into an abyss of water and fire.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The sorceress's face is wished to become pale and wan like the circle of a
+    seal.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed incantation speaker
+  description: The voice that addresses the sorceress, places bans on her body parts,
+    binds her hands, and invokes Sin.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: sorceress
+  description: A female magical opponent addressed by the incantation; her words,
+    tongue, lips, and footsteps are associated with hostile enchantment, bewitchment,
+    and death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Sin
+  description: A divine figure invoked to destroy part of the sorceress's body and
+    cast her into an abyss of water and fire.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: incantation speaker or ritual voice
+  assigned_to:
+  - fig:1
+  basis: The passage is an incantation in which the first-person speaker addresses
+    and acts verbally against the sorceress.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: hostile sorceress
+  assigned_to:
+  - fig:2
+  basis: The addressed figure is named sorceress and is linked with unfriendly words,
+    enchantment, bewitchment, and death.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: invoked divine punisher
+  assigned_to:
+  - fig:3
+  basis: Sin is invoked to destroy and cast the sorceress into an abyss.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: banned mouth and tongue
+  literal_form: mouth and tongue placed under a ban
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: bound hands
+  literal_form: hands bound behind the sorceress
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: abyss of water and fire
+  literal_form: abyss of water and fire
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: circle of the seal
+  literal_form: circle of this seal
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Accusation of the sorceress
+  summary: The incantation addresses the sorceress and identifies her speech and movement
+    with hostile magic and death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Banning and binding of the sorceress
+  summary: The speaker places the sorceress's body parts under a ban and binds her
+    hands behind her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Invocation of Sin and abyss punishment
+  summary: Sin is invoked to destroy part of the sorceress's body and cast her into
+    an abyss of water and fire; the sorceress's face is wished to become pale like
+    a seal-circle.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: verbal banning and bodily binding of a magical enemy
+  taxonomy_refs: []
+  basis: The incantation repeatedly places the sorceress's mouth, tongue, eyes, feet,
+    knees, and hands under a ban and binds her hands.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level ritual pattern; no supplied taxonomy reference
+    directly names it.
+- id: motif:2
+  label: divine punishment of a hostile sorceress
+  taxonomy_refs:
+  - divine_judgment
+  basis: Sin is invoked to destroy the sorceress and cast her into an abyss of water
+    and fire.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is an incantatory wish or command rather than a narrative
+    account of completed judgment.
+- id: motif:3
+  label: water-and-fire abyss as punitive destination
+  taxonomy_refs: []
+  basis: The sorceress is wished to be cast into an abyss described as containing
+    water and fire.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain the abyss or develop a broader cosmological
+    setting.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23551-23561
+  quote_or_summary: The third tablet begins with an incantation addressing a sorceress
+    whose heart contains an unfriendly word, whose tongue and lips produce enchantment
+    and bewitchment, and in whose footsteps death follows.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: 23562-23569
+  quote_or_summary: The speaker places the sorceress's mouth, tongue, eyes, feet,
+    knees, and hands under a ban and binds her hands behind her.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: 23570-23572
+  quote_or_summary: Sin is invoked to destroy the front part of the sorceress's body
+    and cast her into an abyss of water and fire.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: 23573-23575
+  quote_or_summary: The sorceress is compared to the circle of a seal, and her face
+    is wished to grow pale and wan.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and direct, supporting extraction of figures, actions,
+    symbols, and local ritual motifs. Broader motif-family assignments are limited
+    because the passage is an incantatory formula rather than an extended mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this incantation to another tradition or motif family beyond the candidate motifs extracted from its contents.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l23551-l23577
+  passage_sha256=4b71757ea65d082da2c99e394415932a748ae8345b6a701df4f776e7b6100317
+

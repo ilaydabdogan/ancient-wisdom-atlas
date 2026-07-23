@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.mongol-sagas-from-the-far-east-busk-gutenberg-l1826-l1846
+source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+passage_locator:
+  label: THE GOLD-SPITTING PRINCE. / TALE III. / HOW THE SCHIMNU-KHAN WAS SLAIN. /
+    TALE IV.; lines 1826-1846
+  start: '1826'
+  end: '1846'
+  translation: Sagas from the Far East
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The Well-and-wise-walking Khan resumes his journey after another failure,
+    reaches the grove of the dead, compels the Siddhî-kür down from a mango-tree by
+    threatening to fell it, binds him in a bag, and carries him toward Nâgârg'una.
+    On the long journey the Siddhî-kür asks for a tale or a token permitting him to
+    tell one; the silent Khan nods, and the Siddhî-kür begins a tale.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Khan recognizes that he has again missed the end and object of his journey
+    and sets out again as before.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Khan reaches, with toil and terror, a cool grove where the dead lie.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At the Khan's approach, the Siddhî-kür climbs into a mango-tree and then comes
+    down when the Khan threatens to fell the tree.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Khan binds the Siddhî-kür in his bag and carries him away to offer to
+    the Master and Teacher Nâgârg'una.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: After many days of travel, the Siddhî-kür asks for a tale, saying the way
+    is long and weary.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Khan gives no answer because he remembers the monition of Nâgârg'una.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The Siddhî-kür asks for a token permitting him to tell a tale; the Khan nods
+    his head backward, and the Siddhî-kür begins telling.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Well-and-wise-walking Khan
+  description: A Khan who resumes an arduous journey, reaches the grove, compels the
+    Siddhî-kür down from the tree, binds him, carries him toward Nâgârg'una, and remains
+    silent until giving a nodding token.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Siddhî-kür
+  description: A figure found at the grove where the dead lie; he climbs into a mango-tree,
+    is bound in a bag, asks for a tale or token during the journey, and then begins
+    telling a tale.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Master and Teacher Nâgârg'una
+  description: The Khan intends to offer the Siddhî-kür to him, and the Khan remains
+    silent because of his monition.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: returning quester
+  assigned_to:
+  - fig:1
+  basis: The Khan again sets out after missing the end and object of his journey.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: silent captor and carrier
+  assigned_to:
+  - fig:1
+  basis: The Khan binds the Siddhî-kür in a bag, carries him away, and avoids speaking
+    because of Nâgârg'una's monition.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: captured tree-refuge figure
+  assigned_to:
+  - fig:2
+  basis: The Siddhî-kür climbs into a mango-tree, descends under threat to the tree,
+    and is bound in the Khan's bag.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: captive storyteller
+  assigned_to:
+  - fig:2
+  basis: During the journey, the Siddhî-kür requests a tale or a token to tell one
+    and begins his tale after the Khan nods.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: master recipient and instructor
+  assigned_to:
+  - fig:3
+  basis: The Khan carries the Siddhî-kür to offer to Nâgârg'una and remains silent
+    because of Nâgârg'una's monition.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: grove of the dead
+  literal_form: cool grove where the dead lie
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mango-tree refuge
+  literal_form: mango-tree into which the Siddhî-kür climbs
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: binding bag
+  literal_form: the Khan's bag used to bind and carry the Siddhî-kür
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: backward nod token
+  literal_form: the Khan nods his head backwards as a sign authorizing the Siddhî-kür
+    to tell a tale
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Return to the grove and capture of the Siddhî-kür
+  summary: After failing again, the Khan returns to the grove of the dead. The Siddhî-kür
+    climbs a mango-tree, descends when the Khan threatens to fell it, and is bound
+    in the Khan's bag to be carried to Nâgârg'una.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Silent journey and request for a tale
+  summary: After many days of travel, the Siddhî-kür asks for a tale because the way
+    is long and weary, but the Khan remains silent because of Nâgârg'una's monition.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Token and beginning of the tale
+  summary: The Siddhî-kür asks for a sign that he should tell a tale. The Khan nods
+    backward, and the Siddhî-kür begins speaking.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: renewed arduous quest after failure
+  taxonomy_refs:
+  - departure
+  - mystical_quest
+  basis: The Khan has again missed his objective and again sets out as before, reaching
+    the grove with toil and terror.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives the repeated departure and arduous travel, but the larger
+    purpose of the quest is only partly visible in this excerpt.
+- id: motif:2
+  label: being in a tree compelled to descend by threat to the tree
+  taxonomy_refs: []
+  basis: The Siddhî-kür climbs into a mango-tree and comes down when the Khan threatens
+    to fell it.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage supports the action pattern, but does not itself state a broader
+    sacred-tree interpretation.
+- id: motif:3
+  label: captured being carried as an offering to a master
+  taxonomy_refs: []
+  basis: The Khan binds the Siddhî-kür in a bag and carries him away to offer to Nâgârg'una.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The nature of the offering is not explained in the excerpt.
+- id: motif:4
+  label: silence under instruction during a supernatural journey
+  taxonomy_refs: []
+  basis: The Khan does not answer the Siddhî-kür because he remembers Nâgârg'una's
+    monition.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The content of the monition is not fully quoted here; the passage only
+    shows that it causes the Khan's silence.
+- id: motif:5
+  label: captive storyteller opens a framed tale after receiving a token
+  taxonomy_refs:
+  - wisdom
+  basis: The Siddhî-kür asks for a tale or a token allowing him to tell one; after
+    the Khan nods, he begins a tale.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The wisdom taxonomy reference is provisional because the excerpt establishes
+    storytelling but not the tale's content or teaching.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage explicitly presents this episode as a recurrence of a frame-journey
+    pattern: the Khan has again failed, again sets out, captures the Siddhî-kür, travels
+    silently, and permits another tale through a token.'
+  claim_level: same_function
+  target: recurring frame-journey and tale-opening pattern within the tale cycle
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This claim is limited to recurrence signaled inside the excerpt; it
+    does not establish historical contact or comparison with an external tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1826-1835
+  quote_or_summary: The Khan again misses his objective, sets out as before, reaches
+    the cool grove where the dead lie, compels the Siddhî-kür down from a mango-tree
+    by threatening to fell it, binds him in a bag, and carries him to offer to Nâgârg'una.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summary of provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 1837-1844
+  quote_or_summary: After many days, the Siddhî-kür says the way is long and weary
+    and asks for a tale or at least a token that he should tell one; the Khan remains
+    silent because of Nâgârg'una's monition.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summary of provided passage.
+- id: ev:3
+  type: summary
+  locator: line 1846
+  quote_or_summary: The Khan nods his head backward, and the Siddhî-kür begins his
+    tale.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summary of provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is direct from the provided passage. Motif labels are
+    conservative and mostly passage-internal; taxonomy references are used only where
+    the available taxonomy closely fits the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external sources or unstated tale-cycle context were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mongol-sagas-from-the-far-east-busk-gutenberg__l1826-l1846
+  passage_sha256=88b74f5325f52bdde6a85880ca084fa914ddb0ad5c9cd0392ba1cc539819e412
+

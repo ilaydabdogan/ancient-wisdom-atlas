@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l16387-l16396
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: PROUD  BOY  AND  THE  ANIMAL  MEDICINE.  323 / PROUD-BOY  AND  THE  ANIMAL  MEDICINE.  325
+    / PROUD  BOY  AND  THE  ANIMAL  MEDICINE.  327 / PROUD-BOY  AND  THE  ANIMAL  MEDICINE.  329;
+    lines 16387-16396
+  start: '16387'
+  end: '16396'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A little boy leaves a village near Fremont, Nebraska, enters thick timber,
+    finds many Magpies, and unsuccessfully tries to shoot them before running after
+    one. A source note says the story was told by Little-Chief, Chaui, is generally
+    related during the Bear ceremony and sometimes to children, and teaches poor boys
+    that bears are friends from whom mysterious power may be secured if approached
+    properly.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage places the people near Fremont, Nebraska, many years ago.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A little boy wanders away from the village into thick timber.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The boy finds many Magpies in the timber.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The boy tries to shoot some of the Magpies but cannot hit them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The boy runs after one Magpie, which flies up and lights again.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A note states that the story is generally related during the Bear ceremony
+    and also outside the ceremonial lodge to children.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The note states that the story is especially meant to inform poor boys that
+    bears are their friends and that mysterious power can be secured from the bear
+    family if the boys approach properly.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: little boy
+  description: A little boy who leaves the village, enters timber, and pursues Magpies
+    unsuccessfully.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Magpies
+  description: Many Magpies found by the boy in the thick timber; they avoid being
+    shot, and one is chased by the boy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: bears / bear family
+  description: Bears are described in the note as friends of poor boys and as a family
+    from whom mysterious power may be secured if approached properly.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: children / poor boys
+  description: Children are named as an audience for the story; poor boys are singled
+    out as those meant to learn about the friendship and power of the bears.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: wandering child
+  assigned_to:
+  - fig:1
+  basis: The boy wanders away from the village and enters the thick timber.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: unsuccessful bird-hunter and pursuer
+  assigned_to:
+  - fig:1
+  basis: The boy tries to shoot Magpies, misses them, and then runs after one.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: elusive birds
+  assigned_to:
+  - fig:2
+  basis: The Magpies are not hit by the boy, and one flies up and lights as he pursues
+    it.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: friendly source of mysterious power
+  assigned_to:
+  - fig:3
+  basis: The note says the bears are friends and that mysterious power can be secured
+    from the bear family if approached properly.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: intended young recipients of instruction
+  assigned_to:
+  - fig:4
+  basis: The note says the story is told to children and is especially meant to inform
+    poor boys about the bears.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: thick timber
+  literal_form: thick timber
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Magpies
+  literal_form: many Magpies
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bear family
+  literal_form: bears / bear family
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: ceremonial lodge
+  literal_form: ceremonial lodge
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Boy leaves the village for the timber
+  summary: In the time when the people lived near Fremont, Nebraska, a little boy
+    wanders from the village into thick timber.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Boy pursues Magpies
+  summary: The boy finds many Magpies, fails to shoot them, and runs after one that
+    keeps flying up and lighting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bear ceremony teaching context
+  summary: A note identifies the story as told by Little-Chief, Chaui, and says it
+    is usually told during the Bear ceremony and also to children, especially to teach
+    poor boys about bears as friends and sources of mysterious power.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: child departs from village into woodland
+  taxonomy_refs:
+  - departure
+  basis: The narrative begins with a little boy wandering away from the village into
+    thick timber.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Only the opening of the story is present; the later function of this departure
+    is not shown in the supplied passage.
+- id: motif:2
+  label: elusive animal pursuit
+  taxonomy_refs: []
+  basis: The boy cannot hit the Magpies and then runs after one that continues to
+    move away by flying up and lighting.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage cuts off during the pursuit, so the full narrative role of
+    the Magpie is uncertain.
+- id: motif:3
+  label: animal medicine power from bear family
+  taxonomy_refs:
+  - initiation
+  basis: The note says the story is associated with the Bear ceremony and teaches
+    that poor boys may secure mysterious power from the bear family if they approach
+    properly.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The supplied passage gives this as a contextual note rather than narrating
+    the acquisition of power in the excerpt itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16387-16389
+  quote_or_summary: Many years ago, when the people lived near Fremont, Nebraska,
+    a little boy wandered away from the village and entered thick timber.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 16389-16391
+  quote_or_summary: In the timber the boy found many Magpies, tried unsuccessfully
+    to shoot them, and finally ran after one that would fly up and light.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 16392-16396
+  quote_or_summary: A note says the story was told by Little-Chief, Chaui; it is generally
+    related during the Bear ceremony and also outside the ceremonial lodge to children,
+    especially to tell poor boys that bears are friends and that mysterious power
+    may be obtained from the bear family if approached properly.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward, but the passage is a brief opening
+    plus a contextual note; motif candidates involving bear medicine and initiation
+    rely on the note rather than a narrated event in this excerpt. No comparison claims
+    were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l16387-l16396
+  passage_sha256=964ceae9ce4cd8371e02cd85bcc8320d032605fcd354671d1c908520f6c52ea9
+

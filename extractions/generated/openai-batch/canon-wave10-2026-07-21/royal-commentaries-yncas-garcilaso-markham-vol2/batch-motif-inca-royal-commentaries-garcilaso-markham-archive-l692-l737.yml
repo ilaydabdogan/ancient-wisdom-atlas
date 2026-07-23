@@ -1,0 +1,303 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l692-l737
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / CHAPTER  III. / FIFTH  BOOK  OF  THE  ROYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 692-737
+  start: '692'
+  end: '737'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes agricultural manuring practices in Inca territories,
+    especially the use of llama dung in the cold Collao and sea-bird droppings on
+    the coast. It emphasizes legal protection of seabirds and the royal allocation
+    of guano-producing islands and manure portions to provinces, villages, and individuals,
+    with death penalties for disturbing birds or violating assigned limits.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In the Collao, where maize could not be grown because of cold, potato and
+    pulse crops were manured with llama dung.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On the coast from below Arequipa to Tarapaca, sea-bird droppings were used
+    as manure, and the birds bred on desert islands.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says that in the time of the Kings Yncas, landing on the islands
+    during breeding season and killing the birds at any time were unlawful on pain
+    of death.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: By order of the Ynca, each island was assigned to a particular province or
+    to multiple provinces, with marks indicating limits.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The assigned manure areas were subdivided for villages and individuals, and
+    taking manure from another's portion or beyond one's allotted amount was punished
+    by death.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: sea birds
+  description: Large and small coastal birds that breed on desert islands and produce
+    droppings used as manure.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: llamas
+  description: Animals whose dung was used as manure for crops of potatoes and pulses
+    in the Collao.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Kings Yncas / the Ynca
+  description: Royal authority associated with protecting the birds and ordering the
+    allocation of islands and manure portions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: provinces, villages, and individuals
+  description: Communities and persons assigned specific island, village, and individual
+    portions of manure resources.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: manure-producing birds
+  assigned_to:
+  - fig:1
+  basis: Their droppings are described as the manure used along the coast.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: protected breeding animals
+  assigned_to:
+  - fig:1
+  basis: Laws forbade landing during breeding season and killing the birds, both on
+    pain of death.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: manure source
+  assigned_to:
+  - fig:2
+  basis: Their dung was used to manure potato and pulse crops in the Collao.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: royal regulator and allocator
+  assigned_to:
+  - fig:3
+  basis: The passage attributes bird protection to the time of the Kings Yncas and
+    island allocation to the order of the Ynca.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: allocated resource users
+  assigned_to:
+  - fig:4
+  basis: Provinces, villages, and individuals receive defined portions and are penalized
+    for encroachment or excess taking.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: agricultural manure
+  literal_form: Llama dung and sea-bird droppings used to fertilize crops.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: desert island breeding sites
+  literal_form: Desert islands on the coast where sea birds breed and manure accumulates.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: boundary marks and limits
+  literal_form: Marks set up to define provincial limits and prevent encroachment.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: snowy mountain peak image
+  literal_form: Heaps of manure seen from a distance as resembling peaks of snowy
+    mountains.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Inland manuring in cold Collao
+  summary: The Collao is described as too cold for maize, and its potato and pulse
+    crops are fertilized with llama dung.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Coastal guano islands and protected birds
+  summary: Along the coast, sea-bird droppings provide manure; birds breed on desert
+    islands, and royal-period laws prohibit disturbing or killing them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Royal allocation of manure portions
+  summary: The Ynca orders islands and manure areas to be apportioned among provinces,
+    villages, and individuals, with marked boundaries and death penalties for violations.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Royal allocation and protection of fertility resources
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage links the Ynca or Kings Yncas with protecting birds that produce
+    agricultural manure and with assigning islands and resource limits to provinces,
+    villages, and individuals.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The passage is primarily administrative and agricultural; it does not
+    explicitly present a mythic, divine, or sacred legitimation claim.
+- id: motif:2
+  label: Guarded resource boundaries under severe penalty
+  taxonomy_refs: []
+  basis: The passage repeatedly describes fixed limits for manure collection and death
+    penalties for disturbing birds, taking from another portion, or exceeding one's
+    allotted amount.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a governance pattern in the passage rather than an explicitly
+    mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 692-700
+  quote_or_summary: The Collao is described as too cold for maize, and potato and
+    pulse crops there are manured with llama dung.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 702-716
+  quote_or_summary: On the coast from below Arequipa to Tarapaca, sea-bird droppings
+    are the manure; the birds breed on desert islands, and the manure heaps are compared
+    to snowy mountain peaks.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 716-724
+  quote_or_summary: In the time of the Kings Yncas, landing on the islands during
+    breeding season and killing the birds at any time were prohibited on pain of death.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 725-731
+  quote_or_summary: Each island was set apart by order of the Ynca for a province
+    or provinces, with marks to show limits and prevent encroachment.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 732-737
+  quote_or_summary: Island resources were further divided for villages and individuals;
+    taking manure from another's portion or more than one's allotment was punished
+    by death.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is strong. Motif assignment is tentative because the passage
+    is a historical-administrative description rather than an explicit mythic narrative.
+    No passage-supported cross-tradition comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used; no external taxonomy identifiers or comparative claims were added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l692-l737
+  passage_sha256=5a23c114fb3c2fea4d7ad2dcaf3913148d59d32f2d16bce4e26b803144525935
+

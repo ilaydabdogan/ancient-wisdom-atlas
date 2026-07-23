@@ -1,0 +1,188 @@
+---
+record_id: batch.motif.african-reynard-the-fox-hottentot-bleek-archive-l942-l976
+source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+passage_locator:
+  label: XXIV  PREIACE. / PREFACE.  XXV / XXVIU  PEEFACE. / FSEFACK  XXIX; lines 942-976
+  start: '942'
+  end: '976'
+  translation: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A preface passage catalogs manuscript materials and topics in Nama Hottentot
+    literature, including a legend on the origin of differences in modes of life between
+    Hottentots/Namaqua and Bushmen, a list of ethnographic and narrative subjects,
+    and H. C. Knudsen's second manuscript on Namaqua grammar.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that a manuscript supplied a legend titled as the origin
+    of difference in modes of life between Hottentots and Bushmen, and notes that
+    this legend was not yet possessed in the Hottentot language.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes the available stock of Nama Hottentot literature as
+    including three fables and four tales.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The catalogued topics include different kinds of rain, Bethany in Great Namaqualand,
+    the Damara, the Grassy Plain, diseases, birds' nests, marriage and wedding among
+    the Namaqua, authority among the Namaqua, Jewish similarities, Heitsi Eibip or
+    Kabip, origin of modes of life of Namaqua and Bushmen, coming of age among Hottentots,
+    tribal names and etymology, and questions of Egyptian, Phoenician, Jewish, or
+    Moabitic origin.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage identifies Mr. Knudsen's second manuscript as a grammar-oriented
+    work in the Namaqua language and lists its treatment of alphabet, nouns, adjectives,
+    pronouns, numerals, verbs, interrogative sentences, and concluding remarks.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Hottentots (term used in source)
+  description: A named group in the legend title, the language note, and a catalogued
+    topic on coming of age.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Bushmen (term used in source)
+  description: A named group in the legend title concerning differences in modes of
+    life and in the catalogued topic on the origin of modes of life of Namaqua and
+    Bushmen.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Namaqua
+  description: A named group in catalogued topics including marriage and wedding,
+    authority, origin of modes of life with Bushmen, and grammar in the Namaqua language.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: H. C. Knudsen
+  description: The person named in connection with the second manuscript titled as
+    material for a grammar in the Namaqua language.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: manuscript-associated compiler or author
+  assigned_to:
+  - fig:4
+  basis: The passage calls the grammar work Mr. Knudsen's second manuscript and gives
+    the title with the name H. C. Knudsen.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: subjects of origin-of-lifeways titles
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage names Hottentots and Bushmen in a legend about differences in
+    modes of life, and names Namaqua and Bushmen in a related catalogued origin topic.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: subjects of catalogued ethnographic topics
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage lists topics such as coming of age among Hottentots and marriage,
+    wedding, and authority among the Namaqua.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: origin of differences in modes of life between groups
+  taxonomy_refs: []
+  basis: A legend is titled as explaining the origin of difference in modes of life
+    between Hottentots and Bushmen, and a catalogued topic similarly concerns the
+    origin of modes of life of Namaqua and Bushmen.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: Only titles or catalog entries are given; the narrative content, agents,
+    and plot are not present in the passage.
+- id: motif:2
+  label: coming-of-age or initiation topic
+  taxonomy_refs:
+  - initiation
+  basis: The catalogued list includes a topic titled Coming of Age among the Hottentots.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage provides only an ethnographic heading, not a mythic episode
+    or ritual description.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 942-947
+  quote_or_summary: A manuscript supplied a legend on the origin of difference in
+    modes of life between Hottentots and Bushmen, not yet possessed in the Hottentot
+    language.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 948-963
+  quote_or_summary: The preface lists three fables and four tales and catalogs topics
+    including rain, Bethany, Damara, Grassy Plain, diseases, birds' nests, Namaqua
+    marriage and authority, Jewish similarities, Heitsi Eibip or Kabip, origin of
+    modes of life of Namaqua and Bushmen, coming of age, tribal names, and origin
+    questions.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 965-976
+  quote_or_summary: Mr. Knudsen's second manuscript is titled as material for a grammar
+    in the Namaqua language and covers introductory remarks, the Hottentot alphabet,
+    parts of speech, interrogative sentences, and concluding remarks.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a preface/catalog rather than a narrative. Motif candidates
+    are inferred only from listed titles and therefore require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No narrative scenes or symbolic objects are described in this passage; symbols and comparison claims are left empty.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-reynard-the-fox-hottentot-bleek-archive__l942-l976
+  passage_sha256=491f2694c1d25ca132c1e3388372513bfd3a55b8ce92076cc3f7175bae5ee77c
+

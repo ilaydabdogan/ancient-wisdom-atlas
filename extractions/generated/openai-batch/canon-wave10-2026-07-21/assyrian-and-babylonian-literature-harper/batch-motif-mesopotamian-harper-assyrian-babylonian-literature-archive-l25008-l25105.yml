@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l25008-l25105
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: ASSYRIAN   AND   BABYLONIAN   LITERATURE / A   RITUAL  TABLET  403 / ASSYRIAN   AND  BABYLONIAN   LITERATURE
+    / A   RITUAL  TABLET  405; lines 25008-25105
+  start: '25008'
+  end: '25105'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A ritual prescription directs the washing of specified meat portions in
+    a basin, their placement before a series of named deities, the lighting of a censer,
+    and a step toward it. It then directs the sacrificer to raise his hand, pray,
+    prostrate himself, remove a table before each deity, pour out four jugs of sesame
+    wine before the censer, remove the censer, prostrate himself, and kneel.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The right thigh, hinga flesh, and shume flesh are to be washed in a basin.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The washed meat portions are to be laid before Ramman, Marduk, A-a, Bu-ne-ne,
+    Kettu, Mesharu, and the protecting god in repeated instructions.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: For each placement of meat portions, the censer is to be lit and a step is
+    to be made toward the censer.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The sacrificer is instructed to raise his hand, pray, and prostrate himself.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A table standing before a deity is to be cleared away.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Four jugs of sesame wine standing on the table are to be taken and poured
+    out before the censer.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After the pouring, the censer is to be taken away, and the sacrificer is to
+    prostrate himself and kneel.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The clearing and pouring sequence is repeated for the protecting god, Mesharu,
+    Kettu, Bu-ne-ne, A-a, Marduk, and Ramman.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the sacrificer
+  description: The ritual actor instructed to raise his hand, pray, prostrate himself,
+    clear away tables, pour out sesame wine, remove the censer, prostrate himself,
+    and kneel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Ramman
+  description: A deity before whom meat portions are laid and from whose table the
+    wine-pouring sequence is later performed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Marduk
+  description: A deity before whom meat portions are laid and from whose table the
+    wine-pouring sequence is later performed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: A-a
+  description: A deity before whom meat portions are laid and from whose table the
+    wine-pouring sequence is later performed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:5
+  name_or_label: Bu-ne-ne
+  description: A deity before whom meat portions are laid and from whose table the
+    wine-pouring sequence is later performed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:6
+  name_or_label: Kettu
+  description: A deity before whom meat portions are laid and from whose table the
+    wine-pouring sequence is later performed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:7
+  name_or_label: Mesharu
+  description: A deity before whom meat portions are laid and from whose table the
+    wine-pouring sequence is later performed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:8
+  name_or_label: the protecting god
+  description: A deity or divine figure before whom meat portions are laid and from
+    whose table the wine-pouring sequence is performed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: ritual officiant
+  assigned_to:
+  - fig:1
+  basis: The passage calls this figure the sacrificer and gives him the ritual actions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: recipient of ritual presentation
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: The passage directs offerings or ritual actions before each named divine
+    figure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: washed meat portions
+  literal_form: right thigh, hinga flesh, and shume flesh washed in a basin and laid
+    before deities
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: basin
+  literal_form: bason used to wash the meat portions
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: censer
+  literal_form: censer that is lit, approached, receives wine poured before it, and
+    is taken away
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: four jugs of sesame wine
+  literal_form: four jugs of sesame wine standing on the table and poured out before
+    the censer
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: table before the deity
+  literal_form: table standing before each deity, cleared away during the rite
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:6
+  label: gestures of submission and prayer
+  literal_form: raised hand, prayer, prostration, and kneeling by the sacrificer
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Presentation of washed meat before the deities
+  summary: The ritual instructions repeat that meat portions are washed in a basin,
+    laid before each listed deity, followed by lighting the censer and stepping toward
+    it.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Prayer, prostration, and libation before the censer
+  summary: The sacrificer raises his hand, prays, prostrates himself, clears the table
+    before a deity, pours four jugs of sesame wine before the censer, removes the
+    censer, prostrates himself, and kneels. The sequence is repeated for multiple
+    deities.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacrifice with meat offering and libation
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage calls the actor a sacrificer and prescribes meat portions laid
+    before deities and sesame wine poured out before the censer.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is procedural and does not narrate a mythic episode; the motif
+    identification is limited to ritual action.
+- id: motif:2
+  label: ordered ritual approach to divine recipients
+  taxonomy_refs: []
+  basis: The instructions repeat a fixed sequence of washing, presentation before
+    named deities, censer lighting, prayer gestures, clearing tables, and pouring
+    wine.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No broader mythological narrative or explanatory symbolism is supplied
+    in the passage.
+- id: motif:3
+  label: ritual exchange through offerings to gods
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Offerings and libations are directed before multiple divine figures in a
+    formal ritual sequence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not state a reciprocal divine response, benefit, or covenantal
+    exchange; the classification rests only on the offering structure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 25008-25039
+  quote_or_summary: 'Repeated instruction: wash the right thigh, hinga flesh, and
+    shume flesh in a basin, lay them before a deity, light the censer, and make a
+    step toward the censer.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 25008-25043
+  quote_or_summary: The listed recipients in the meat-presentation sequence are Ramman,
+    Marduk, A-a, Bu-ne-ne, Kettu, Mesharu, and the protecting god.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 25044-25066
+  quote_or_summary: The sacrificer is directed to raise his hand, pray, prostrate
+    himself, and clear away the table standing before a deity.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 25050-25076
+  quote_or_summary: The sacrificer takes four jugs of sesame wine from the table,
+    pours them out before the censer, removes the censer, prostrates himself, and
+    kneels.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 25044-25105
+  quote_or_summary: The table-clearing and wine-pouring sequence is repeated before
+    the protecting god, Mesharu, Kettu, Bu-ne-ne, A-a, Marduk, and Ramman.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The ritual actions and figures are explicit. Motif assignments are cautious
+    because the passage is a ritual prescription rather than a narrative myth. No
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l25008-l25105
+  passage_sha256=666dab149fd9699fa8b0f8deff71253e4418e5b2e0a8eb43ee739d4ce8454b48
+

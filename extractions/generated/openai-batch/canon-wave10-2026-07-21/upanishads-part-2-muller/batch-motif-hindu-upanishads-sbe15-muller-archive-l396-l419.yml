@@ -1,0 +1,246 @@
+---
+record_id: batch.motif.hindu-upanishads-sbe15-muller-archive-l396-l419
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+passage_locator:
+  label: INTRODUCTION. / UPANISHADS. / INTRODUCTION. / PP- 385-393;; lines 396-419
+  start: '396'
+  end: '419'
+  translation: The Upanishads, Part II (Sacred Books of the East, Vol. 15)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: manas originally dealt with percepts, the buddhi with concepts
+  summary: A translator defends choices about rendering terms for mental faculties
+    and the unknowable, distinguishes manas from buddhi, and adds philological notes
+    on textual readings and a comparison with the Panchadasi.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says he will not quarrel with a friend over translating man as
+    “to comprehend” rather than “to perceive.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker prefers his own translation because he treats manas and buddhi
+    as two sides of the common sensory faculty.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker states that manas originally dealt with percepts, while buddhi
+    dealt with concepts.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The critic’s main objection concerns translating airutam, amatam, and avi^;7atam
+    as “what cannot be heard,” “what cannot be perceived,” and “what cannot be known,”
+    rather than as “not heard,” “not comprehended,” and “not known.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker asks why the critic did not consider what reason there may have
+    been for deviating from the original and translating avi^;7ata as unknowable.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A note reports that Mr. Nehemiah Goreh writes aprakshyo, that Roer’s edition
+    and Sankara’s commentary give the same form, and that grammar requires apraksho.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A note states that the Panchadasi distinguishes manas and buddhi by assigning
+    deliberation to manas and decision or greater certainty to buddhi.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: speaker-translator
+  description: First-person translator who defends his rendering of cognitive terms
+    and discusses manas and buddhi.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: friend or critic
+  description: Person whose preferred translation and criticism are addressed by the
+    speaker.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Mr. Nehemiah Goreh
+  description: Named as writing the form aprakshyo.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Roer
+  description: Named in connection with an edition of the Chandogya-upanishad that
+    adopted a reading.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Sankara
+  description: Named through reference to Sankara’s commentary, where the same form
+    is given.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: translator and defender of rendering
+  assigned_to:
+  - fig:1
+  basis: The speaker states his translation preference and explains his reasons.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: critic or interlocutor
+  assigned_to:
+  - fig:2
+  basis: The passage refers to a friend’s alternative translation and a critic’s objection.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: cited philological authority or source
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The note cites these names in support of or relation to textual readings.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Defense of translation choices
+  summary: The speaker addresses a friend or critic, explains a distinction between
+    manas and buddhi, and defends rendering certain terms as indicating what cannot
+    be heard, perceived, or known.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Philological and philosophical notes
+  summary: The notes discuss variant readings associated with named authorities and
+    cite the Panchadasi’s distinction between manas and buddhi.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: limits of cognition and the unknowable
+  taxonomy_refs:
+  - wisdom
+  basis: The passage discusses terms rendered as what cannot be heard, perceived,
+    or known, and distinguishes mental faculties involved in perception, comprehension,
+    deliberation, and decision.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: low
+  cautions: This is a translator’s philosophical and philological discussion, not
+    a mythic narrative; the taxonomy link to wisdom is broad and conceptual.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously relates its distinction between manas and buddhi to
+    the Panchadasi, since both distinguish the two faculties, though by different
+    criteria.
+  claim_level: same_function
+  target: Panchadasi I,20 distinction between manas and buddhi
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is explicitly between philosophical definitions, not
+    between mythic motifs or narrative episodes.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 396-403
+  quote_or_summary: The speaker says he will not quarrel over translating man, prefers
+    his own rendering, and explains manas and buddhi as sides of the common sensory
+    faculty, with manas tied to percepts and buddhi to concepts.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain; source metadata marks full text as allowed.
+- id: ev:2
+  type: summary
+  locator: 403-408
+  quote_or_summary: The critic objects to rendering airutam, amatam, and avi^;7atam
+    as forms of what cannot be heard, perceived, or known instead of as not heard,
+    comprehended, or known.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain; source metadata marks full text as allowed.
+- id: ev:3
+  type: summary
+  locator: 410-413
+  quote_or_summary: The speaker asks why the critic did not consider the possible
+    reason for translating avi^;7ata as unknowable despite deviation from the original.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain; source metadata marks full text as allowed.
+- id: ev:4
+  type: summary
+  locator: 414-417
+  quote_or_summary: A note says Mr. Nehemiah Goreh writes aprakshyo, Roer’s Chandogya-upanishad
+    edition and Sankara’s commentary give the same form, but grammar requires apraksho.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain; source metadata marks full text as allowed.
+- id: ev:5
+  type: summary
+  locator: 418-419
+  quote_or_summary: A note cites Panchadasi I,20 as distinguishing manas and buddhi
+    by deliberation and decision, or by degree of certainty.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain; source metadata marks full text as allowed.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but the passage is commentary rather
+    than mythic narrative. Motif assignment is therefore tentative and conceptual.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No concrete mythic symbols from the supplied taxonomy occur in this passage; symbols are left empty.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:hindu-upanishads-sbe15-muller-archive__l396-l419
+  passage_sha256=b9a067af3f0b6dcea22bec0f84762a271848447c01b68db067bd68f09ed9ec5f
+

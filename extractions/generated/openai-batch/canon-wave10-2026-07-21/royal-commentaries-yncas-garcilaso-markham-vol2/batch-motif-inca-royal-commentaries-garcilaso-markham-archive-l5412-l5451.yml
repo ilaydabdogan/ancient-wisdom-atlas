@@ -1,0 +1,358 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l5412-l5451
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  VII. / OF  THE  POSTS  AND  RUNNERS  AND  OF  THE  MESSAGES  THEY
+    / CARRIED. / SIXTH  BOOK  OF  THE  KOYAL; lines 5412-5451
+  start: '5412'
+  end: '5451'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Inca message transmission by Chasqui runners, verbal
+    relay between huts, knotted colored strings called Quipus used as records or cyphers
+    for government information, increased numbers of runners when messages were many,
+    and smoke signaling by day at stations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Chasqui carried verbal messages because the Indians of Peru are described
+    as not using writing in letters.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Verbal messages were kept few, curt, and direct to avoid misunderstanding
+    or forgetting.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An approaching messenger cried out when he saw the hut to warn the next runner
+    to be ready.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Within hearing, the Chasqui shouted the message repeatedly until it was understood,
+    or delivered it more formally on arrival.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Messages were relayed from one runner to another until reaching their destination.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Some dispatches were carried by knots on colored threads or strings rather
+    than by spoken words.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The knots and colors of strings are described as a cypher understood by the
+    Inca and his governors for administrative guidance.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The knotted strings signified numbers of men, arms, clothes, provisions, or
+    other requested information.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The knotted strings were called Quipus, meaning to knot or a knot, and were
+    understood as records.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: When there were many messages, the number of runners increased, with eight
+    to twelve placed in each hut.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Another method of sending messages was raising smoke at each station by day.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Chasqui
+  description: Messenger or runner who carried and relayed messages.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Inca
+  description: Ruler who, with his governors, understood the cypher of knots and colors.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Governors
+  description: Officials who, with the Inca, understood the cypher of knots and colors
+    for guidance.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: verbal messenger
+  assigned_to:
+  - fig:1
+  basis: The Chasqui carried verbal dispatches and shouted messages to the next station.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: relay runner
+  assigned_to:
+  - fig:1
+  basis: Messages were passed from one Chasqui to another until they reached the destination.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: reader of administrative cypher
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The Inca and governors understood the knots and colors as a cypher for necessary
+    guidance.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: relay hut
+  literal_form: hut used as a station for runners
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:2
+  label: spoken cry
+  literal_form: cried or shouted warning and message
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: knotted colored strings
+  literal_form: knots on threads or strings of different colours
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: smoke signal
+  literal_form: smoke raised at each station by day
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Verbal relay between runner stations
+  summary: A Chasqui approaches a hut, cries out to prepare the next runner, repeats
+    the message until understood, and the message is passed onward to its destination.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Quipu record transmission
+  summary: Non-verbal dispatches are represented by knots and colors on strings, forming
+    a cypher used by the Inca and governors to track quantities and required actions.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Expansion and smoke signaling at stations
+  summary: For many messages, more runners are placed in huts, and smoke can be raised
+    at each station by day as another way to send messages.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: relay runners carrying official messages
+  taxonomy_refs: []
+  basis: The passage describes messages passed from one Chasqui to another through
+    huts until they reach a destination.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: This is an administrative communications pattern rather than a mythic
+    narrative motif in this passage.
+- id: motif:2
+  label: knotted strings as records and cypher
+  taxonomy_refs: []
+  basis: The passage describes Quipus as knots and colored strings functioning as
+    records and as a cypher understood by rulers and governors.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage gives practical record-keeping information and does not assign
+    sacred or mythological meaning to the Quipus.
+- id: motif:3
+  label: smoke signals between stations
+  taxonomy_refs: []
+  basis: The passage describes raising smoke at each station by day as another way
+    of sending messages.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage is truncated after mentioning daytime smoke and does not give
+    the full description of the signaling system.
+comparison_claims:
+- id: claim:1
+  claim: The Chasqui's warning cry is explicitly compared to a postman blowing a horn
+    to alert a posthouse to prepare a horse.
+  claim_level: same_function
+  target: postman horn warning at a posthouse
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is an explanatory analogy in the passage; it does not
+    establish historical contact or shared origin.
+- id: claim:2
+  claim: Quipus are presented as serving a record and dispatch function in place of
+    letters or alphabetic writing.
+  claim_level: same_function
+  target: letters or writing used for dispatches and records
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage states functional equivalence for record transmission,
+    while also noting that the system used knots and colors rather than letters.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5412-5419
+  quote_or_summary: The Chasqui carried verbal dispatches because the Indians of Peru
+    are described as unable to write; the words were few, curt, and direct.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 5420-5424
+  quote_or_summary: '"He who came with the message began to cry out as soon as he
+    caught sight of the hut" and this is compared to a postman blowing a horn near
+    a posthouse.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 5425-5431
+  quote_or_summary: The Chasqui shouted the message two, three, or four times until
+    understood, or delivered it more formally on arrival; it was passed from one to
+    another until reaching its destination.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5432-5437
+  quote_or_summary: Other dispatches were carried not verbally but through knots on
+    threads or strings of different colors, in place of letters.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5438-5442
+  quote_or_summary: The method of recording was a cypher by which the Inca and governors
+    understood what was necessary for their guidance.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5443-5447
+  quote_or_summary: The knots and colors signified numbers of men, arms, clothes,
+    provisions, or other information needed so things could be made, sent, or hurried
+    forward.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 5447-5450
+  quote_or_summary: '"The Indians called these knotted strings Quipus" and understood
+    them as records.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: summary
+  locator: lines 5451-5453
+  quote_or_summary: When many messages existed, runners were increased, with eight
+    to twelve placed in each hut.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 5454-5455
+  quote_or_summary: Another way of sending messages was by raising smoke at each station
+    by day; the provided passage ends before completing the next phrase.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The communications and record-keeping details are explicit. Motif status
+    is medium because the passage is administrative-historical rather than mythological,
+    and the final smoke-signal sentence is truncated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied because the passage does not support the listed mythological motif families or listed elemental symbols directly, except that smoke is mentioned without the listed fire symbol appearing in the supplied text.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l5412-l5451
+  passage_sha256=3d69c3540aed2ebcd6b77578a7b679955ced7e7234c36c43450d9a7d3525b35c
+

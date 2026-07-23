@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l21979-l22016
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OE  THE  YNCAS. / NINTH  BOOK  OP  THE  ROYAL / CHAPTER  XXVII.
+    / OP  THE  OLIVE;  AND  WHO  FIRST  INTRODUCED  IT  INTO  PERU.; lines 21979-22016
+  start: '21979'
+  end: '22016'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The chapter describes Don Antonio de Ribera returning to Peru in 1560 with
+    olive seedlings from Seville. Only three of one hundred seedlings survived the
+    voyage. He planted them in a walled garden in the valley of the Rimac and heavily
+    guarded them so no one could take even a leaf. Unnamed persons nevertheless stole
+    one plant, sent it to Chile, propagated it successfully for three years, and then
+    secretly returned it to its original place without the owner learning who had
+    done so.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Don Antonio de Ribera returned in 1560 with olive plants from Seville after
+    having been in Spain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Of one hundred seedlings brought in two large jars, only three were alive
+    when he reached the City of the Kings.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: He placed the surviving olive plants in a walled piece of ground in the valley
+    of the Rimac, where he also cultivated various Spanish fruits and vegetables.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: To prevent anyone from taking even a leaf for planting elsewhere, Don Antonio
+    stationed more than a hundred men described by the source as “negros” and thirty
+    dogs to watch and guard the olive plants day and night.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Unnamed others stole one of the three olive plants, either by watching better
+    than the dogs or by bribing the guards.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The stolen plant was sent to Chile, about six hundred leagues from the City
+    of the Kings, and kept there for three years.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In Chile, cuttings from the plant rooted successfully and grew into olive
+    trees.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After three years the plant was secretly returned to the same spot from which
+    it had been taken, and the owner never learned who committed the theft or restitution.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Don Antonio de Ribera
+  description: Formerly a citizen of the City of the Kings and Procurator-General
+    of Peru; he brought olive seedlings from Seville, planted them in his garden,
+    and guarded them.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Unnamed thieves and restituters
+  description: Unidentified persons who stole one of the three olive plants, sent
+    it to Chile, and later returned it secretly.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: More than a hundred guards described as “negros”
+  description: A group stationed by Don Antonio to watch the olive plants day and
+    night.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Thirty dogs
+  description: Dogs stationed with the human guards to watch and guard the olive plants.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Introducer of olive plants to Peru
+  assigned_to:
+  - fig:1
+  basis: The passage says Don Antonio returned with olive plants from Seville in 1560.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Guardian of restricted plants
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  basis: Don Antonio arranged a guard of men and dogs to prevent anyone taking even
+    a leaf from the olive plants.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Secret takers of a guarded plant
+  assigned_to:
+  - fig:2
+  basis: Unnamed others managed to steal one of the three olive plants.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Secret restituters
+  assigned_to:
+  - fig:2
+  basis: The plant was later returned to the original spot so secretly that the owner
+    did not know who made the restitution.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Olive plant or olive tree
+  literal_form: Three surviving olive plants from Seville; one stolen plant later
+    propagated into young olive trees.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: Walled garden
+  literal_form: A piece of ground surrounded by a wall in the valley of the Rimac
+    where the olive plants were planted.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Plant cutting or leaf as propagating fragment
+  literal_form: A leaf or cutting from the olive plants, treated as something that
+    could be planted elsewhere; later cuttings in Chile rooted successfully.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Arrival of scarce surviving seedlings
+  summary: Don Antonio de Ribera returns from Spain with olive seedlings from Seville;
+    only three of one hundred survive to the City of the Kings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Planting in a guarded walled garden
+  summary: The surviving olive plants are planted in Don Antonio’s walled garden in
+    the Rimac valley and guarded by men and dogs to prevent removal of any leaf.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Theft and transfer to Chile
+  summary: Unidentified persons steal one olive plant despite the guards and send
+    it to Chile, far from the City of the Kings.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Propagation and secret return
+  summary: The stolen plant is kept in Chile for three years, produces successful
+    cuttings, and is then secretly returned to its original place without the owner
+    discovering who took or restored it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Introduction of a foreign cultivated tree by a named agent
+  taxonomy_refs: []
+  basis: The passage identifies Don Antonio de Ribera as bringing olive plants from
+    Seville to Peru in 1560.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The account is framed as colonial agricultural history rather than mythic
+    or sacred narrative.
+- id: motif:2
+  label: Guarded valuable plant
+  taxonomy_refs: []
+  basis: The olive plants are enclosed in a walled garden and guarded day and night
+    so no one can take even a leaf for propagation elsewhere.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not assign explicit sacred status to the plant.
+- id: motif:3
+  label: Theft of a restricted plant leading to wider propagation
+  taxonomy_refs: []
+  basis: One of the three guarded olive plants is stolen, sent to Chile, and used
+    to produce cuttings that root and grow into olive trees.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: Although theft of a valuable plant is present, the text presents it as
+    a practical agricultural episode, not as sacred theft.
+- id: motif:4
+  label: Secret restitution after multiplication
+  taxonomy_refs: []
+  basis: After three years of propagation, the stolen plant is returned to its original
+    spot without the owner knowing who stole or restored it.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not identify the agents or their motives.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21983-21990
+  quote_or_summary: Don Antonio de Ribera returned in 1560 with olive plants from
+    Seville; of one hundred seedlings brought in two large jars, only three were alive
+    on arrival at the City of the Kings.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 21990-21996
+  quote_or_summary: He placed the surviving plants in a beautiful walled piece of
+    ground in the valley of the Rimac, where he cultivated grapes, figs, pomegranates,
+    melons, oranges, limes, and other Spanish produce.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 21996-22002
+  quote_or_summary: To keep anyone from getting even a leaf to plant elsewhere, Don
+    Antonio stationed more than a hundred men described as “negros” and thirty dogs
+    to watch and guard the olive plants day and night.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; short quotation of source term included for identification.
+- id: ev:4
+  type: summary
+  locator: lines 22002-22010
+  quote_or_summary: Unnamed others managed to steal one of the three plants, sent
+    it to Chile six hundred leagues away, and kept it there for three years, where
+    cuttings rooted successfully and grew into olive trees.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 22010-22016
+  quote_or_summary: At the end of three years the plant was secretly returned to the
+    same spot, and the owner never knew who committed the theft or made the restitution.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a historical agricultural anecdote in a chronicle; motifs
+    are extracted as narrative patterns, not as claims of mythic or sacred meaning.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction limited to the supplied line range; the final sentence in the provided passage is incomplete.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l21979-l22016
+  passage_sha256=b60ae8e76ec0587bb023f72db165fa9b19e8ab1b9bbd4ba55928872b2fb9cc25
+

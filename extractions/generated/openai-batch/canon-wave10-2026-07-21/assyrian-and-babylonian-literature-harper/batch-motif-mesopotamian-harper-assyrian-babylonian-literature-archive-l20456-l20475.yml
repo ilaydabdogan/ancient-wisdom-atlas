@@ -1,0 +1,273 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l20456-l20475
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: USUALLY    CALLED / THE    BABYLONIAN    NIMROD    EPIC / THE   GILGAMESH   NARRATIVE  325
+    / TABLET   II; lines 20456-20475
+  start: '20456'
+  end: '20475'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: Not does Gilgamesh leave the son to his father, nor the maiden to the warrior,
+    nor the wife to her husband.
+  summary: Tablet II introduces Gilgamesh as ruler of Erech. His rule becomes unpopular
+    because he compels the city's young men into service and takes maidens to his
+    court. Parents lament and appeal to the gods of heaven and Bel of Erech, saying
+    Gilgamesh leaves neither sons, maidens, nor wives with their proper households
+    and has no rival in the land.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Gilgamesh is introduced as the ruler of Erech.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gilgamesh's rule soon became unpopular.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Gilgamesh compelled all the young men of the city to enter his service.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Gilgamesh carried off maidens to his court.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Parents complained with wailing and lament.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The complaint says Gilgamesh does not leave the son to his father, the maiden
+    to the warrior, or the wife to her husband.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The complaint addresses the gods of heaven and Bel of Erech.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The complaint describes Gilgamesh as having no rival in the land.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Gilgamesh
+  description: Ruler of Erech whose rule becomes unpopular; he compels young men into
+    service, carries off maidens, and is said to have no rival.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: young men of the city
+  description: Young men compelled by Gilgamesh to enter his service.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: maidens
+  description: Maidens carried off by Gilgamesh to his court.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: parents
+  description: Parents who complain, wail, and lament about Gilgamesh's actions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: gods of heaven
+  description: Divine beings addressed by the complainants.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Bel of Erech
+  description: Divine figure addressed by the complainants as one who brought a son
+    into existence.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ruler of Erech
+  assigned_to:
+  - fig:1
+  basis: The passage introduces Gilgamesh as ruler of Erech.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: unrivaled and unpopular ruler
+  assigned_to:
+  - fig:1
+  basis: His rule becomes unpopular, and the complaint says he has no rival.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: subjects taken into service or court
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Young men are compelled into service and maidens are carried to the court.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: complainants
+  assigned_to:
+  - fig:4
+  basis: The parents complain and their wailing and lament are heard.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: divine addressees
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The complaint directly addresses the gods of heaven and Bel of Erech.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Gilgamesh's unpopular rule in Erech
+  summary: Gilgamesh is introduced as the ruler of Erech, but his rule becomes unpopular
+    because he compels the city's young men into service and takes maidens to his
+    court.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Parents lament and appeal to the gods
+  summary: Parents complain that Gilgamesh disrupts family and marital relationships;
+    they address the gods of heaven and Bel of Erech and describe Gilgamesh as without
+    a rival.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Oppressive ruler prompts communal lament
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage presents a ruler whose conduct makes his rule unpopular and causes
+    parents to lament and complain to divine powers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The excerpt shows a crisis of rulership but does not yet provide a resolution
+    or explicit statement about legitimate kingship.
+- id: motif:2
+  label: Appeal to divine powers for relief from a human ruler
+  taxonomy_refs:
+  - divine_judgment
+  basis: The complainants address the gods of heaven and Bel of Erech after describing
+    Gilgamesh's disruptive actions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The passage contains an appeal to deities but does not show an enacted
+    divine judgment within this line range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 20456-20461
+  quote_or_summary: Tablet II is said to be mostly preserved; Gilgamesh is introduced
+    as ruler of Erech, and his rule soon becomes unpopular.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: 20461-20464
+  quote_or_summary: Gilgamesh compels all the young men of the city to enter his service
+    and carries off maidens to his court.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: 20464-20470
+  quote_or_summary: The parents complain; their wailing and lament are described as
+    heard everywhere.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: quote
+  locator: 20466-20468
+  quote_or_summary: '"Not does Gilgamesh leave the son to his father, nor the maiden
+    to the warrior, nor the wife to her husband."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: quote
+  locator: 20471-20473
+  quote_or_summary: '"Ye gods of heaven, and thou Bel of Erech, who didst bring my
+    son into existence"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: quote
+  locator: '20475'
+  quote_or_summary: '"He (Gilgamesh) has not a rival"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are cautious because the excerpt presents the complaint but not the subsequent
+    narrative response.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No symbolic objects from the supplied symbol taxonomy are present in this passage; comparison claims are omitted because the passage does not itself make or require a cross-text comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l20456-l20475
+  passage_sha256=7ec49fa229180ba3e715dbac15c67a340da94f1b42636465a29bfa7b31b3308a
+

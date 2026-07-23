@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l16416-l16430
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XII. / OF  THE  TREE  CALLED  MULLI,  AND  OF  THEIR  PEPPER. /
+    COMMENTARIES  OP  THE  YNCAS. / EIGHTH  BOOK  OP  THE  ROYAL; lines 16416-16430
+  start: '16416'
+  end: '16430'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a pepper called chinchi uchuj: it is small and round,
+    very hot, grown in small quantities, and highly esteemed. Poisonous reptiles are
+    said to flee from the pepper and its plant. A Spaniard from Mexico is reported
+    as eating roasted capsicums at every meal, Spaniards returning from the Indies
+    are said to prefer these peppers to the East Indies kind, and Indians are said
+    to value them highly.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The pepper called chinchi uchuj is described as small and round, like a cherry
+    with its stalk.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chinchi uchuj pepper is described as burning more than other peppers.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The pepper is grown in small quantities and is therefore more highly esteemed.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Poisonous reptiles flee from the pepper and from its plant.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator reports hearing a Spaniard from Mexico say that the pepper was
+    pleasing to look at and that he ate two roasted capsicums at every meal.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Spaniards returning to Spain from the Indies are said to eat these peppers
+    regularly and prefer them to the East Indies kind.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Indians are described as so fond of the peppers that they value them above
+    all the other fruits mentioned.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: poisonous reptiles
+  description: Poisonous reptiles that flee from the pepper and its plant.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Spaniard from Mexico
+  description: A Spaniard who had arrived from Mexico and is reported as speaking
+    about the pepper and eating roasted capsicums.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Spaniards returning from the Indies
+  description: Spaniards returning to Spain from the Indies who eat the peppers regularly
+    and prefer them to the East Indies kind.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Indians
+  description: Indians described as very fond of the peppers and valuing them highly.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: narrator
+  description: The first-person narrator who reports hearing the Spaniard's statement.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: repelled animals
+  assigned_to:
+  - fig:1
+  basis: The reptiles are said to flee from the pepper and its plant.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: reported individual consumer
+  assigned_to:
+  - fig:2
+  basis: The Spaniard from Mexico is reported as saying he ate two roasted capsicums
+    at every meal.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: regular consumers and preferers
+  assigned_to:
+  - fig:3
+  basis: These Spaniards are said to eat the peppers regularly and prefer them to
+    the East Indies kind.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: high valuers of the pepper
+  assigned_to:
+  - fig:4
+  basis: The Indians are described as fond of the peppers and valuing them above other
+    fruits mentioned.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: reporting observer
+  assigned_to:
+  - fig:5
+  basis: The narrator states that he heard the Spaniard from Mexico make the reported
+    statement.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: chinchi uchuj pepper
+  literal_form: A small, round, cherry-like pepper with a stalk, described as especially
+    burning and highly esteemed.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: pepper plant
+  literal_form: The plant from which poisonous reptiles are said to flee.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: poisonous reptiles
+  literal_form: Poisonous reptiles that flee from the pepper and its plant.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: roasted capsicums
+  literal_form: Two roasted capsicums eaten at every meal by the reported Spaniard
+    from Mexico.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Description of the chinchi uchuj pepper
+  summary: The passage describes the pepper's shape, heat, rarity, esteem, and its
+    effect on poisonous reptiles.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Human consumption and valuation of the pepper
+  summary: A Spaniard from Mexico, Spaniards returning from the Indies, and Indians
+    are described as eating, preferring, or highly valuing the pepper.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: plant or fruit repels poisonous reptiles
+  taxonomy_refs: []
+  basis: The passage states that poisonous reptiles flee from the pepper and from
+    its plant.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents this as a descriptive property of the pepper plant,
+    not as an explicit mythic episode or named traditional motif.
+- id: motif:2
+  label: rare fiery fruit highly valued as food
+  taxonomy_refs: []
+  basis: The pepper is described as especially burning, grown in small quantities,
+    highly esteemed, regularly eaten by Spaniards, and highly valued by Indians.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: This is primarily an ethnobotanical and culinary description; its status
+    as a comparative mythic motif is uncertain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16416-16430
+  quote_or_summary: The pepper called chinchi uchuj is described as small and round
+    like a cherry with its stalk, more burning than others, grown in small quantities,
+    and highly esteemed.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 16416-16430
+  quote_or_summary: "“The poisonous reptiles fly from the pepper and from its plant.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 16416-16430
+  quote_or_summary: The narrator reports hearing a Spaniard from Mexico say the pepper
+    was pleasing to look at and that he ate two roasted capsicums at every meal.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 16416-16430
+  quote_or_summary: Spaniards returning to Spain from the Indies are said to eat these
+    peppers regularly and prefer them to the kind from the East Indies.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 16416-16430
+  quote_or_summary: Indians are described as fond of the peppers and as valuing them
+    more than all the other fruits previously mentioned.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif candidates are tentative
+    because the passage is descriptive and culinary rather than a mythic narrative.
+    No comparison claims were generated; the East Indies reference is a culinary preference
+    comparison, not a supported myth-motif comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. No taxonomy references were assigned because the passage does not explicitly support the available motif-family or symbol labels.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l16416-l16430
+  passage_sha256=f730af8c159eee11ae7fa88af85e235fb697a7bf66f70b4e91985ddfe2b6f60a
+

@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l2070-l2084
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / CHAPTER  XIV. / THE  ORDER  THEY  KEPT  IN  THEIR  PROPERTY,  BOTH  PUBLIC  AND
+    / SPECIAL.; lines 2070-2084
+  start: '2070'
+  end: '2084'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: After conquering a province and assuming sovereignty, the ruling group
+    appoints governors and religious instructors, then orders an inventory, recorded
+    by knots, of landscape features and resources including mountains, pastures, mines,
+    salt-works, springs, lakes, and rivers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A province is described as conquered.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sovereignty over the people of the province is assumed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Governors and instructors of idolatry are given to the people.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The actions are presented as part of establishing a new order of things.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: An order is issued to record the extent and number of specified lands, resources,
+    and waters by means of knots.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The listed items include mountains, pasture lands, mines, salt-works, springs,
+    lakes, and rivers.
+  category: object
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: conquering ruling group
+  description: The plural subject that conquers a province, assumes sovereignty, appoints
+    governors and instructors, and issues the recording order.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: people of the conquered province
+  description: The people over whom sovereignty is assumed and to whom governors and
+    instructors are given.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: governors
+  description: Officials given to the people after the province is conquered.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: instructors of idolatry
+  description: Religious instructors given to the people after the province is conquered.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: conquerors and sovereign authority
+  assigned_to:
+  - fig:1
+  basis: They conquer the province, assume sovereignty over the people, appoint officials
+    and instructors, and issue the order for recording.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: conquered population
+  assigned_to:
+  - fig:2
+  basis: They are the people over whom sovereignty is assumed after the province is
+    conquered.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: appointed governors
+  assigned_to:
+  - fig:3
+  basis: Governors are given to the people after conquest.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: appointed religious instructors
+  assigned_to:
+  - fig:4
+  basis: The passage says instructors of idolatry are given to the people after conquest.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: knotted record
+  literal_form: knots
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: mountains
+  literal_form: mountains
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: water sources and courses
+  literal_form: springs, lakes, rivers
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: resource sites
+  literal_form: pasture lands, mines, salt-works
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Conquest and administrative settlement
+  summary: After conquering a province and assuming sovereignty, the ruling group
+    gives the people governors and instructors in order to establish a new order.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Knotted inventory of territory and resources
+  summary: An order calls for recording by knots the extent and number of mountains,
+    pasture lands, mines, salt-works, springs, lakes, and rivers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Sovereignty established through administrative ordering
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage presents conquest, assumption of sovereignty, appointment of
+    governors and instructors, and territorial-resource inventory as steps in establishing
+    a new order.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is administrative-historical and does not state divine authorization,
+    ritual legitimation, or a mythic charter.
+- id: motif:2
+  label: Landscape inventory by knotted records
+  taxonomy_refs: []
+  basis: The passage specifically describes recording the extent and number of natural
+    features and resource sites by means of knots.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a practical record-keeping pattern in the passage, not an explicit
+    mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2070-2078
+  quote_or_summary: "“Having conquered a province, assumed the sovereignty over the
+    people, and given them governors and instructors of the idolatry...”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 2078-2084
+  quote_or_summary: "“an order was issued to record, by means of their knots, the
+    extent and number of the mountains, pasture lands, mines, salt-works, springs,
+    lakes, rivers.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward, but motif classification is cautious
+    because the passage is primarily administrative rather than mythic. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l2070-l2084
+  passage_sha256=7a2610bd6a3c040e7872fc372ee090d1e866eb3b3f23624e8120f91e594afcbd
+

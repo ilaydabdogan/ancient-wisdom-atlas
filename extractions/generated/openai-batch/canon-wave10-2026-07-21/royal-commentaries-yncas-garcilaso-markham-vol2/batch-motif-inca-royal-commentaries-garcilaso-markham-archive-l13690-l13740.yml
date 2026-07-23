@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l13690-l13740
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XXVII. / THE  FORTRESS  OP  CUZCO.  THE  SIZE  OP  ITS  STONES.
+    / VOL.  II. / SEVENTH  BOOK  01'  THE  BOYAL; lines 13690-13740
+  start: '13690'
+  end: '13740'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the stones of the fortress of Cuzco, including a
+    rock called saycmsca, or “tired,” because it did not reach the building site.
+    It emphasizes the long-distance transport of immense stones, their precise fitting
+    without European measuring tools or lifting machinery, and the narrator’s reliance
+    on Father José de Acosta and other correspondents for measurements.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A rock is said to be called saycmsca, translated as “tired,” because it never
+    reached the site of the edifice.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One stone was reportedly brought from fifteen leagues away and transported
+    across the river Yucay.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Other stones came from Muyna, five leagues from Cuzco.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stones were fitted so closely that the point of a knife could scarcely
+    be inserted between them, and some contact points could scarcely be seen.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that the builders lacked square, ruler, cranes, pulleys,
+    or other lifting engines for raising and lowering the large stones.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The narrator cites Father José de Acosta as an authority who measured many
+    stones of the fortress.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator says he asked schoolfellows for measurements and wanted exact,
+    notarized measurements because the stone size and labor were the most wonderful
+    aspects of the edifice.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Indians
+  description: The group identified as calling the rock saycmsca, or “tired.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Father José de Acosta
+  description: An authority cited by the narrator; he measured many stones of the
+    fortress and wrote about the same fortress.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Narrator
+  description: The speaker who discusses the stones, cites Acosta, and requested measurements
+    from schoolfellows.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Schoolfellows
+  description: Correspondents whom the narrator asked to send particulars about the
+    measurements of the larger stones.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: namers of the rock
+  assigned_to:
+  - fig:1
+  basis: They are said to call the rock saycmsca, or “tired.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: measurement authority
+  assigned_to:
+  - fig:2
+  basis: He is cited as having taken exact measurements of many stones and as an authority
+    for the account.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: compiler and evaluator of testimony
+  assigned_to:
+  - fig:3
+  basis: The narrator compares reports, cites Acosta, and states what measurements
+    he wanted.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: measurement correspondents
+  assigned_to:
+  - fig:4
+  basis: They sent measurements after being asked by the narrator, though their report
+    was not as clear and precise as desired.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: tired rock
+  literal_form: A rock called saycmsca, glossed as “tired,” because it did not reach
+    the site of the edifice.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: enormous fitted stones
+  literal_form: Large fortress stones fitted so closely that a knife point could scarcely
+    be inserted between them.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: river crossing
+  literal_form: The river Yucay, across which a stone was transported.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Transport and naming of the stones
+  summary: The passage recounts a named rock that failed to reach the building site
+    and reports that a stone was transported from fifteen leagues away across the
+    Yucay, while others came from Muyna.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Astonishment at the fortress masonry
+  summary: The passage reflects on how immense stones were repeatedly raised, lowered,
+    and fitted with extreme precision despite the absence of measuring and lifting
+    devices.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Collection of measurement testimony
+  summary: The narrator cites Acosta as a clearer authority on the size of the stones
+    and discusses imperfect measurements sent by schoolfellows.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: astonishing megalithic construction without visible machinery
+  taxonomy_refs: []
+  basis: The passage emphasizes enormous stones, close-fitting masonry, repeated raising
+    and lowering, and the absence of cranes, pulleys, rulers, or other engines.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a historical-antiquarian description rather than an explicit mythic
+    episode; no supplied taxonomy motif directly matches it.
+- id: motif:2
+  label: named failed or wearied stone
+  taxonomy_refs: []
+  basis: A rock is given a name meaning “tired” because it did not reach the edifice.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage reports an etiological name for a stone but does not elaborate
+    a full narrative about it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13690-13700
+  quote_or_summary: A rock is called saycmsca, or “tired,” because it did not reach
+    the edifice; one stone was brought from fifteen leagues away and transported across
+    the river Yucay.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 13700-13710
+  quote_or_summary: Stones from Muyna, five leagues from Cuzco, are described; the
+    stones are adjusted so closely that a knife point can scarcely be inserted and
+    contact points can scarcely be seen.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 13710-13720
+  quote_or_summary: The passage states that the stones must have been raised and lowered
+    many times, though the builders had no square, ruler, cranes, pulleys, or lifting
+    engine; the stones were extremely large.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 13720-13729
+  quote_or_summary: Father José de Acosta is said to have discussed the same fortress
+    and taken exact measurements of many stones, so the narrator refers to him as
+    an authority.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 13729-13740
+  quote_or_summary: The narrator says schoolfellows sent particulars, but not as clearly
+    as desired; he wanted exact measurements by varas and ochavas, attested by notaries,
+    because the stones’ size and the required labor were most wonderful.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif identification is limited because
+    the passage is descriptive and does not present an explicit comparative myth or
+    supplied taxonomy match. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No historical-contact or broad comparative claims are inferred from this passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l13690-l13740
+  passage_sha256=fa69c45a58d407416f6f03c0c24342fbe9e23de2f61994e0299b051a78e0570e
+

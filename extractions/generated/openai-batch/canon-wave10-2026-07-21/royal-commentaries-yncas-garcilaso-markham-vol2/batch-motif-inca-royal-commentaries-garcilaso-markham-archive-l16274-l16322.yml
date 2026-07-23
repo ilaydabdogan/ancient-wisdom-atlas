@@ -1,0 +1,246 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l16274-l16322
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XI. / OP  THE  FRUIT  OF  THE  LARGER  TREES. / EIGHTH  BOOK  OP  THE  ROYAL
+    / COMMENTARIES  OP  THE  YNCAS.; lines 16274-16322
+  start: '16274'
+  end: '16322'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes several fruits of larger trees: an unnamed sweet
+    fruit with cotton-like white pulp and an inedible black pip; the palta, named
+    by Indians from a province and compared by Spaniards to a pear; and the rucma,
+    rendered by Spaniards as lucarna, with a chestnut-like but bitter kernel. It also
+    notes Spanish misunderstandings or renamings of Indian fruits and names.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed fruit is described as containing white pulp like cotton, tasting
+    sweet, keeping long after sun exposure, and having an inedible black bean-like
+    pip.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some Spaniards unfamiliar with the unnamed fruit scolded Indians who offered
+    it, thinking they were being offered cotton as a joke.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Spaniards call the palta a pear because of its green color and shape, while
+    Indians call it palta because it came from a province of that name.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The palta is described as much larger than a Spanish pear, with a rind, pulp,
+    and a central kernel or bone; it is said to be good and wholesome for sick people
+    and suitable for conserve with sugar.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A footnote identifies the palta as Persea gratissima and describes its tree
+    as slender, very tall, and dome-topped.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The rucma is called lucarna by Spaniards, which the passage attributes to
+    Spanish alteration of Indian names.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The rucma is described as coarse but not known to be unwholesome, about the
+    size and shape of an orange, with a chestnut-like kernel whose white inside is
+    bitter and inedible.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Spaniards
+  description: A group described as unfamiliar with some Indian fruits, comparing
+    or renaming them according to Spanish terms, and altering Indian names.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Indians
+  description: A group described as offering the unnamed fruit and using the names
+    palta and rucma for fruits.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: Foreign comparers and renamers
+  assigned_to:
+  - fig:1
+  basis: The passage says Spaniards mistake the cotton-like pulp, call the palta a
+    pear by resemblance, and render rucma as lucarna.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Indigenous providers and namers
+  assigned_to:
+  - fig:2
+  basis: The passage describes Indians offering the unnamed fruit and using the names
+    palta and rucma.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Cotton-like fruit pulp
+  literal_form: White pulp inside an unnamed fruit, compared to cotton.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Black pip
+  literal_form: Black bean-like pip inside the white pulp, described as not good to
+    eat.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Palta fruit
+  literal_form: Large pear-like fruit with rind, pulp, and central kernel or bone.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: Palta tree
+  literal_form: Slender, very tall tree with a dome-like top.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Rucma fruit
+  literal_form: Orange-sized fruit with a chestnut-like bitter kernel.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Misrecognition of cotton-like fruit pulp
+  summary: Indians offer an unnamed sweet fruit; some Spaniards unfamiliar with it
+    mistake the white pulp for cotton and think they are being mocked.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Naming and description of palta
+  summary: The palta is explained through Indian provenance naming and Spanish resemblance
+    naming, then described by size, rind, pulp, kernel, and food uses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Naming and description of rucma
+  summary: The rucma is described as lucarna in Spanish usage, with remarks on name
+    alteration, taste, coarseness, and its inedible chestnut-like kernel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16274-16284
+  quote_or_summary: An unnamed fruit has white cotton-like pulp; Spaniards unfamiliar
+    with it scold Indians who offer it, thinking it is cotton given as a joke; the
+    fruit is sweet, keeps after sun exposure, and has an inedible black bean-like
+    pip.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 16285-16301
+  quote_or_summary: The fruit called pear by Spaniards is called palta by Indians
+    because it came from Palta province; it is larger than a Spanish pear, has rind,
+    pulp, and central kernel, and is said to be wholesome for sick people and good
+    with sugar as conserve.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 16302-16314
+  quote_or_summary: The fruit called rucma by Indians is called lucarna by Spaniards;
+    the passage says this is a Spanish corruption of an Indian name. It is a coarse,
+    tolerable, somewhat sweet fruit with an orange-like shape and a chestnut-like
+    bitter inedible kernel.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: footnote 1 within lines 16315-16322
+  quote_or_summary: A footnote identifies palta as Persea gratissima, describes its
+    rind, green edible substance, chestnut-like kernel, brandy use for the kernel,
+    and a slender, very tall tree with a dome-like top.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is chiefly botanical and ethnographic; no mythological motif
+    or comparison claim is directly supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No candidate mythological motifs were extracted because the passage does not present sacred, mythic, ritual, or comparative narrative content.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l16274-l16322
+  passage_sha256=1a40287b60e6bb0dfd44c2d1bfdb50d292898ede594ed419b8674f2e9e5b1d42
+

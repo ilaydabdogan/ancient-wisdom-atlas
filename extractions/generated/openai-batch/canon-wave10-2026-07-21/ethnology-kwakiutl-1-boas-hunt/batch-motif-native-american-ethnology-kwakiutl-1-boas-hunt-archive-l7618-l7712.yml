@@ -1,0 +1,425 @@
+---
+record_id: batch.motif.native-american-ethnology-kwakiutl-1-boas-hunt-archive-l7618-l7712
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+passage_locator:
+  label: INDUSTRIES / II. HUNTING, FISHING, AND FOOD-GATHERING / III. PRESERVATION
+    OF FOOD / IV. RECIPES; lines 7618-7712
+  start: '7618'
+  end: '7712'
+  translation: Ethnology of the Kwakiutl, Part 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives procedural descriptions for serving a cooked food, preparing
+    scorched halibut skin, preparing boiled or “poked” halibut skin, and beginning
+    a recipe for boiled halibut edges. It lists tools, cooking actions, eating order,
+    washing, disposal of leftovers, restrictions on feast use, and the handling of
+    dried fish products.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A woman uses an oil-dish, small dish, tongs, a flat piece of sandstone, a
+    kettle, and a food-mat while serving cooked food.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the opening meal sequence, the eaters drink fresh water before eating,
+    drink water after eating, wash their hands, and then wait for a second course.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: For scorched halibut skin, dried skin is taken from where it has been hanging
+    in the rear of the house, held with tongs, blistered and scorched, rolled in a
+    mat, trodden to soften it, shaken, broken into pieces, and eaten hot.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Scorched halibut skin is eaten quickly while hot because it becomes hard when
+    cold.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Poked halibut skin is made from skin kept a long time whose fat has turned
+    red; it is cut, boiled in a kettle, and pressed under the boiling water with tongs.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Poked halibut skin is eaten hot with the hands; leftovers are poured outside
+    because the food is not considered good when boiled again after cooling.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Scorched and poked halibut skin are described as owner-only foods, not feast
+    foods, and they are not dipped in oil because they are fat.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The next recipe begins by saying drying halibut edges are tied in the middle
+    with narrow cedar-bark strips and hung in the rear of the fire.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: woman or owner preparing food
+  description: The person who handles the utensils, cooks or heats the halibut skin,
+    serves food, eats owner-only preparations, and cleans dishes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: those who eat with her
+  description: Meal participants who drink water, eat, wash their hands, and in one
+    sequence wait for a second course.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: old people
+  description: People who sometimes eat the liquid of poked salmon with spoons and
+    eat dried halibut with the poked skin.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: chief and tribe
+  description: Mentioned only in the statement that poked skin is not given at a feast
+    given by the chief to his tribe.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: food preparer and server
+  assigned_to:
+  - fig:1
+  basis: The woman takes the dishes, tongs, kettle, skin, and mat, prepares the food,
+    sets it before eaters, and washes dishes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: owner-consumer of non-feast food
+  assigned_to:
+  - fig:1
+  basis: The passage says the owner eats scorched or poked skin and that these foods
+    are not given at feasts.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: meal participants
+  assigned_to:
+  - fig:2
+  basis: They drink water, eat the food set before them, wash their hands, and wait
+    for the second course.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: occasional elder consumers
+  assigned_to:
+  - fig:3
+  basis: Old people are said sometimes to eat liquid with spoons and dried halibut
+    with poked skin.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: feast context figures named by exclusion
+  assigned_to:
+  - fig:4
+  basis: The chief and tribe are mentioned only to state that poked skin is not given
+    at such a feast.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Fresh water for drinking, boiling water in the kettle, and water for
+    washing dishes and hands.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: fire
+  literal_form: Fire used for heating the kettle, scorching halibut skin, and as the
+    location near which halibut edges are hung.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: oil and oil-dish
+  literal_form: Oil poured into an oil-dish for the opening meal; oil is specifically
+    not used with fatty scorched or poked skin.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:4
+  label: tongs
+  literal_form: Tongs used to take out hot items, hold halibut skin while scorching,
+    and poke skin under boiling water.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: food-mat
+  literal_form: Mat used for serving food and for rolling, treading, striking, and
+    shaking scorched halibut skin.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:6
+  label: halibut skin
+  literal_form: Dried or aged halibut skin prepared by scorching or by boiling and
+    poking under water.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: rear of the house
+  literal_form: Place where dried halibut skin is hung before preparation.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:8
+  label: cedar-bark ties and halibut edges
+  literal_form: Drying halibut edges tied in the middle with narrow strips of cedar-bark.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Opening cooked-food serving sequence
+  summary: The woman removes cooked food, arranges oil, dishes, tongs, sandstone,
+    and mat, breaks the food into pieces, serves it, and the eaters drink water before
+    and after eating, wash hands, and wait for a second course.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Scorching and eating dried halibut skin
+  summary: The woman takes dried halibut skin from the rear of the house, scorches
+    it over heat, softens and cleans it with a mat, breaks it into pieces, and it
+    is eaten hot.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: scene:3
+  label: Boiling and poking aged halibut skin
+  summary: The owner cuts aged halibut skin, boils it, pokes it under the water with
+    tongs, eats it hot, discards leftovers outside, washes the dish, and has hands
+    washed with fresh water.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Beginning of boiled halibut-edges preparation
+  summary: The passage begins a new recipe by describing halibut edges that are drying,
+    tied with cedar-bark strips, and hung in the rear of the fire.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:8
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ordered cooking, serving, drinking, and washing sequence
+  taxonomy_refs: []
+  basis: The passage repeatedly gives step-by-step sequences for preparation, serving,
+    drinking water, eating, washing dishes, and washing hands.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: This is a food-practice pattern, not a mythological narrative motif.
+- id: motif:2
+  label: preserved fish transformed by heat and eaten before hardening
+  taxonomy_refs: []
+  basis: Dried or aged halibut skin is made edible through scorching or boiling and
+    must be eaten hot because it hardens when cold.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as culinary instruction; no symbolic interpretation
+    is stated.
+- id: motif:3
+  label: owner-only food excluded from feasting
+  taxonomy_refs: []
+  basis: Scorched skin and poked skin are said not to be given at feasts and to be
+    eaten only by the owner.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The social meaning of the restriction is not explained in the passage.
+- id: motif:4
+  label: fatness governs avoidance of added oil
+  taxonomy_refs: []
+  basis: Both scorched and poked skin are not dipped into oil because they are described
+    as fat.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a practical culinary classification unless further context establishes
+    symbolic meaning.
+- id: motif:5
+  label: drying and hanging fish products before later preparation
+  taxonomy_refs: []
+  basis: Halibut skin is taken down from where it has been hanging, and the next recipe
+    begins with halibut edges tied with cedar-bark strips and hung near the fire.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage is incomplete at the end of the line range, so the full boiled-halibut-edges
+    procedure is not included.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7618-7632, opening cooking and serving sequence
+  quote_or_summary: A woman arranges oil, dishes, tongs, sandstone, kettle, and food-mat,
+    serves cooked food, and the eaters drink water before and after eating, wash hands,
+    and wait for a second course.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7633-7657, Scorched Halibut-Skin
+  quote_or_summary: Dried halibut skin is taken from the rear of the house, held with
+    tongs, blistered and scorched, rolled and trodden in a mat, shaken, broken, and
+    eaten quickly while hot because it hardens when cold.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7658-7683, Poked Halibut-Skin preparation
+  quote_or_summary: When long-kept skin has red fat, the owner cuts it, boils it in
+    a half-full kettle, and uses tongs to keep it under the water; this gives the
+    name “poked skin.”
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; brief quoted term from public-domain text.
+- id: ev:4
+  type: summary
+  locator: lines 7684-7703, Poked Halibut-Skin eating and cleanup
+  quote_or_summary: Poked skin is eaten hot with the hands; leftovers are poured outside
+    because it is not good when boiled again after cooling; dishes are washed, fresh
+    water is used for handwashing, no second course follows, and old people sometimes
+    eat liquid with spoons and dried halibut.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7653-7657 and 7704-7709, feast and oil restrictions
+  quote_or_summary: Scorched skin and poked skin are not given at feasts; only the
+    owner eats them, and they are not dipped into oil because they are fat.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7710-7712, Boiled Halibut-Edges opening
+  quote_or_summary: 'The next recipe begins: drying halibut edges are tied in the
+    middle with narrow cedar-bark strips and hung in the rear of the fire.'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The procedural food-preparation details are explicit. Candidate motifs are
+    practical foodways patterns rather than mythological motifs. No comparison claims
+    were extracted because the passage does not itself compare these practices to
+    another corpus or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The passage ends at the beginning of the Boiled Halibut-Edges recipe, so only the opening detail of that recipe is represented.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-ethnology-kwakiutl-1-boas-hunt-archive__l7618-l7712
+  passage_sha256=07a4b6f9b5d60465159aa2e80a5bbca406ecfab4182a0af08939b56d64779c2e
+

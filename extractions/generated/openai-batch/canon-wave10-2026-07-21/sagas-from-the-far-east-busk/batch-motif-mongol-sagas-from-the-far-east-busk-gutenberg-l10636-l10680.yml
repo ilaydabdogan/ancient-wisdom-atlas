@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.mongol-sagas-from-the-far-east-busk-gutenberg-l10636-l10680
+source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+passage_locator:
+  label: TALE XV. / TALE XVI. / TALE XVII. / TALE XVIII.; lines 10636-10680
+  start: '10636'
+  end: '10680'
+  translation: Sagas from the Far East
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage consists of editorial notes to Tale XVIII: an etymological
+    note on Shanggasba; an explanation that Garudâ is alluded to as an image over
+    a shrine; a historical and textual excursus on silk in India, Greece, Rome, Manu,
+    the Râmajana, and the Mâha Bhârata; and a comparative note linking an episode
+    and the rest of the story to two Tyrolean tales.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Shanggasba is glossed as possibly from Tibetan words meaning “of good fame,”
+    but more probably from Mongolian sSang, meaning “treasure.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Garudâ is identified by cross-reference to an earlier note, and the allusion
+    here is said to concern an image of him over a shrine.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Silk is described as cultivated in India from an early date, with indigenous
+    silkworm species and a later introduction of the Chinese silkworm into India.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note summarizes Greek and Roman references to silk, including descriptions
+    of its texture, production, trade, luxury use, and value.
+  category: other
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The note says Manu restricted luxurious use of silk and prescribed laying
+    aside silken clothing for men entering hermit life in the jungle.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Râma is cited as putting on a penitential habit over his silken robe.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Mâha Bhârata is cited for tribute to Judhishthira that includes kîtaga,
+    described as an “insect-product” designating both silk and cochineal.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The editor states that a similar episode occurs in a North Tyrolean tale called
+    “Prince Radpot,” and that the rest of the story recalls “The three Black Dogs.”
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Shanggasba
+  description: A named term in the note, etymologically connected either with Tibetan
+    words meaning “of good fame” or with Mongolian sSang, “treasure.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Garudâ
+  description: A being whose allusion in this place is explained as an image over
+    a shrine.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Râma
+  description: Cited from the Râmajana as putting on a penitential habit over his
+    silken robe.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Judhishthira
+  description: Cited from the Mâha Bhârata as the recipient of tribute that includes
+    kîtaga, the insect-product.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: etymologically glossed name
+  assigned_to:
+  - fig:1
+  basis: The note explains possible Tibetan and Mongolian derivations of the name.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: shrine-image figure
+  assigned_to:
+  - fig:2
+  basis: The note says the allusion is to an image of Garudâ over a shrine.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: penitential-clothing exemplar
+  assigned_to:
+  - fig:3
+  basis: Râma is cited as wearing a penitential habit over a silken robe.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: recipient of tribute
+  assigned_to:
+  - fig:4
+  basis: Judhishthira is named as receiving tribute that includes kîtaga.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: treasure-name element
+  literal_form: Mongolian sSang, glossed as “treasure”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Garudâ image over shrine
+  literal_form: image of Garudâ over a shrine
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: silk
+  literal_form: silken clothing, silk texture, insect-product
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: penitential habit
+  literal_form: penitential habit worn over a silken robe
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: kîtaga insect-product
+  literal_form: kîtaga, an insect-product designating silk and cochineal
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Etymology and shrine-image notes
+  summary: The notes gloss Shanggasba’s possible derivations and explain Garudâ as
+    an image over a shrine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Silk excursus and textual examples
+  summary: The passage discusses the cultivation, trade, luxury value, and religious
+    or literary uses of silk, including examples from Manu, the Râmajana, and the
+    Mâha Bhârata.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Tyrolean tale comparison
+  summary: The editor compares an unspecified episode and the rest of the story with
+    two tales from North Tirol.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacred image over a shrine
+  taxonomy_refs: []
+  basis: The note identifies the Garudâ allusion as an image placed over a shrine.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an editorial note and does not describe a full narrative
+    episode involving the shrine image.
+- id: motif:2
+  label: renunciation of luxurious clothing for hermit or penitential life
+  taxonomy_refs: []
+  basis: The note says hermits were to lay aside silk, and cites Râma putting on a
+    penitential habit over a silken robe.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This motif is drawn from cited comparative or explanatory material, not
+    from a narrated event in the provided tale passage.
+- id: motif:3
+  label: precious insect-product brought as tribute
+  taxonomy_refs: []
+  basis: The Mâha Bhârata citation names kîtaga, an insect-product associated with
+    silk and cochineal, among tribute objects brought to Judhishthira.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The tribute context is only briefly cited as a textual example of the
+    word kîtaga.
+comparison_claims:
+- id: claim:1
+  claim: The editor states that a similar episode occurs in a North Tyrolean tale
+    collected near Schwaz and published as “Prince Radpot.”
+  claim_level: same_motif
+  target: North Tyrolean tale “Prince Radpot”
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The provided passage does not identify the episode or give details
+    of the Tyrolean analogue.
+- id: claim:2
+  claim: The editor says that the rest of the story recalls a tale called “The three
+    Black Dogs.”
+  claim_level: same_motif
+  target: "“The three Black Dogs”"
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The wording “recalls” is general, and the passage gives no specific
+    shared plot elements.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10636-10638
+  quote_or_summary: "“Shanggasba is possibly a Tibetian word ... = ‘of good fame,’
+    but more probably ... Mongolian sSang, ‘treasure.’”"
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 10640-10642
+  quote_or_summary: "“Garudâ: see note 2, Tale I. The allusion in this place is to
+    an image of him over a shrine.”"
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 10644-10656
+  quote_or_summary: The note says silk was cultivated early in India, describes indigenous
+    silkworm species and their host trees, dates the Chinese silkworm’s introduction
+    to India, and summarizes early Greek misunderstandings and references to silk
+    production.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 10656-10674
+  quote_or_summary: The note discusses Roman trade and luxury use of silk, its high
+    value, restrictions in Manu, the laying aside of silk for jungle hermit life,
+    Râma’s penitential habit over silk, and kîtaga as tribute to Judhishthira in the
+    Mâha Bhârata.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:5
+  type: quote
+  locator: lines 10676-10680
+  quote_or_summary: "“A similar episode occurs in a tale collected in the neighbourhood
+    of Schwaz in North Tirol ... ‘Prince Radpot’ ... The rest of the story recalls
+    ... ‘The three Black Dogs’ ...”"
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is mostly editorial annotation rather than narrative. Literal
+    extraction is relatively clear, but motif candidates are limited and should be
+    reviewed against the full Tale XVIII context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were not assigned because the passage does not clearly support the provided motif-family IDs beyond general thematic resemblance.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mongol-sagas-from-the-far-east-busk-gutenberg__l10636-l10680
+  passage_sha256=028a576b6920e74d7c8367453a578c72686b8afcfa1c8c7ee4188c9e20f1a5b1
+

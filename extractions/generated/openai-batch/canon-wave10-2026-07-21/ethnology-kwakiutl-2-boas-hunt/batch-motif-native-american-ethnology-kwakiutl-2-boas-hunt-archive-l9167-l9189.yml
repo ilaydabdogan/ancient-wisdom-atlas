@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.native-american-ethnology-kwakiutl-2-boas-hunt-archive-l9167-l9189
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-2-boas-hunt.md
+passage_locator:
+  label: Ethnology of the Kwakiutl, Part 2 / BOAS) SOCIAL DIVISIONS OF THE KWAG-IIL
+    829 / FAMILY HISTORIES; lines 9167-9189
+  start: '9167'
+  end: '9189'
+  translation: Ethnology of the Kwakiutl, Part 2
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A speaker warns K!wak!wabalas not to leave the supernatural place and then
+    disappears. K!wak!wabalas wakes, washes in the lake, spends the day eating berries,
+    returns near evening, washes again, and sleeps in a house of hemlock-branches.
+    In a dream a short man appears, asks why he came to the supernatural place, hears
+    that he came to obtain supernatural power, identifies himself as Ts!Eqomei.Elsa-na,
+    says K!wak!wabalas will obtain a great treasure, and tells him to keep washing
+    in the supernatural lake before disappearing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker says he can hardly notice the smell of human beings on K!wak!wabalas
+    and tells him not to leave the place where he is.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same speaker says there is no greater supernatural power anywhere except
+    the house of Cannibal-at-North-End-of-World, and then disappears.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: K!wak!wabalas wakes, washes himself in the lake, waits until day comes, eats
+    berries, and returns when it is nearly evening.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At evening, K!wak!wabalas washes himself in the lake, enters his house of
+    hemlock-branches, lies down, and sleeps.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In his dream, K!wak!wabalas sees a short man come and stand in the house.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The short man asks why K!wak!wabalas came to the supernatural place, and K!wak!wabalas
+    replies that he came to get supernatural power from it.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The short man identifies himself as Ts!Eqomei.Elsa-na, says friends have talked
+    about K!wak!wabalas, says he will obtain a great treasure from them, tells him
+    to keep washing in the supernatural lake, and disappears.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: K!wak!wabalas
+  description: Person who wakes, washes in the lake, stays in a house of hemlock-branches,
+    dreams, and says he came to obtain supernatural power.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: unnamed disappearing speaker
+  description: Speaker at the beginning of the passage who comments on the smell of
+    human beings, warns K!wak!wabalas not to leave, mentions greater supernatural
+    power, and disappears.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Ts!Eqomei.Elsa-na
+  description: Short man seen in K!wak!wabalas's dream; he questions him, identifies
+    himself, promises a great treasure, instructs him to keep washing in the supernatural
+    lake, and disappears.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: seeker of supernatural power
+  assigned_to:
+  - fig:1
+  basis: K!wak!wabalas states that he came to the supernatural place because he wanted
+    to get supernatural power from it.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: warning or instructing speaker
+  assigned_to:
+  - fig:2
+  basis: The speaker tells K!wak!wabalas not to leave and describes the supernatural
+    power associated with the place and another house.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dream visitor and instructor
+  assigned_to:
+  - fig:3
+  basis: The short man appears in a dream, asks why K!wak!wabalas came, promises treasure,
+    and tells him to continue washing in the supernatural lake.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: supernatural lake
+  literal_form: lake used for repeated washing and called supernatural by the dream
+    visitor
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: house of hemlock-branches
+  literal_form: K!wak!wabalas's house of hemlock-branches where he lies down and dreams
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: house of Cannibal-at-North-End-of-World
+  literal_form: house named by the disappearing speaker as the only place with greater
+    supernatural power
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: great treasure
+  literal_form: great treasure that Ts!Eqomei.Elsa-na says K!wak!wabalas will obtain
+    from them
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: warning at the supernatural place
+  summary: An unnamed speaker warns K!wak!wabalas not to leave the place, compares
+    its supernatural power with that of the house of Cannibal-at-North-End-of-World,
+    and disappears.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: washing, day activity, and return
+  summary: K!wak!wabalas wakes, washes in the lake, spends the day eating berries,
+    and returns near evening.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: evening washing and dream encounter
+  summary: After washing again, K!wak!wabalas sleeps in his hemlock-branch house and
+    dreams of a short man who questions him, learns he seeks supernatural power, names
+    himself Ts!Eqomei.Elsa-na, promises treasure, instructs him to keep washing in
+    the supernatural lake, and disappears.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: quest for supernatural power at a supernatural place
+  taxonomy_refs:
+  - mystical_quest
+  - initiation
+  basis: K!wak!wabalas explicitly says he came to the supernatural place to obtain
+    supernatural power, and the dream visitor gives instructions for continuing the
+    process.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is a fragment and does not yet show the full outcome of the
+    quest or initiation.
+- id: motif:2
+  label: ritual washing in a supernatural lake
+  taxonomy_refs:
+  - initiation
+  basis: K!wak!wabalas washes repeatedly in the lake, and Ts!Eqomei.Elsa-na instructs
+    him to keep washing in the supernatural lake.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The text presents repeated washing and instruction, but the ritual framework
+    is inferred only from the immediate context of seeking supernatural power.
+- id: motif:3
+  label: dream visitor promises treasure and guidance
+  taxonomy_refs: []
+  basis: A short man appears in a dream, identifies himself, says K!wak!wabalas will
+    obtain a great treasure, and gives instructions before disappearing.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No broader comparative taxonomy reference is assigned from the supplied
+    list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9167-9170
+  quote_or_summary: A speaker says he can hardly notice the smell of human beings,
+    tells K!wak!wabalas not to leave the place, says there is no greater supernatural
+    power except the house of Cannibal-at-North-End-of-World, and disappears.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-2-boas-hunt.md
+  rights_note: Public domain source; passage provided in request.
+- id: ev:2
+  type: summary
+  locator: lines 9171-9174
+  quote_or_summary: K!wak!wabalas wakes, washes himself in the lake, waits until day,
+    eats berries, and comes back when it is nearly evening.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-2-boas-hunt.md
+  rights_note: Public domain source; passage provided in request.
+- id: ev:3
+  type: summary
+  locator: lines 9174-9177
+  quote_or_summary: At evening he washes in the lake, enters his house of hemlock-branches,
+    lies down, and falls asleep.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-2-boas-hunt.md
+  rights_note: Public domain source; passage provided in request.
+- id: ev:4
+  type: summary
+  locator: lines 9177-9179
+  quote_or_summary: In his dream he sees a short man come and stand in the house.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-2-boas-hunt.md
+  rights_note: Public domain source; passage provided in request.
+- id: ev:5
+  type: summary
+  locator: lines 9179-9184
+  quote_or_summary: The short man asks why K!wak!wabalas came to the supernatural
+    place, and K!wak!wabalas replies that he came because he wanted to get supernatural
+    power from it.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-2-boas-hunt.md
+  rights_note: Public domain source; passage provided in request.
+- id: ev:6
+  type: summary
+  locator: lines 9184-9189
+  quote_or_summary: The short man names himself Ts!Eqomei.Elsa-na, says friends have
+    talked about K!wak!wabalas, says he will obtain a great treasure from them, tells
+    him to keep washing in the supernatural lake, and disappears.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-2-boas-hunt.md
+  rights_note: Public domain source; passage provided in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is internally clear enough for basic extraction, but the OCR
+    is noisy and the excerpt begins and ends mid-episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Names are retained in cautious normalized form from the OCR passage where possible; variant spacing and punctuation in the supplied text may reflect OCR artifacts.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-ethnology-kwakiutl-2-boas-hunt-archive__l9167-l9189
+  passage_sha256=e704b93dc690ec02606e9af2a8d15b541e4440f3c0d4687e69b890c7ebb99689
+

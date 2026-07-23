@@ -1,0 +1,180 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l3555-l3609
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: BOAS, THE MYTHOLOGY OF THE BELLA COOLA INDIANS. / VILLAGE. / MUS.) / ANCESTORS.;
+    lines 3555-3609
+  start: '3555'
+  end: '3609'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: |-
+    ANCESTORS.
+
+    é’mlaix’, O’mq’omki-
+    lik ia and their sister
+    Sxéma’na.
+  summary: The passage is a fragmentary ancestor and place list. It names é’mlaix’,
+    O’mq’omki-lik ia, and their sister Sxéma’na, then lists multiple locations along
+    Bella Coola River and nearby waterways and landmarks, including Mount Nisq!r’lst,
+    South Bentinck Arm, Salmon River, Dean Inlet, and a group of numbered sites called
+    Ta’lio.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed “ANCESTORS.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage names é’mlaix’, O’mq’omki-lik ia, and their sister Sxéma’na.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage lists several locations on or above Bella Coola River, including
+    locations above numbered sites and one at the junction of Nusa’tsem and Bella
+    Coola Rivers.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage mentions a location at the foot of Mount Nisq!r’lst.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says Nos. 25-27 jointly are called Ta’lio.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage mentions the head of South Bentinck Arm, the mouth of Salmon River
+    at Dean Inlet, and Dean Inlet.
+  category: setting
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: é’mlaix’
+  description: Named under the passage heading “ANCESTORS.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: O’mq’omki-lik ia
+  description: Named under the passage heading “ANCESTORS,” alongside é’mlaix’ and
+    Sxéma’na.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Sxéma’na
+  description: Named as the sister of é’mlaix’ and O’mq’omki-lik ia.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: ancestor
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The names appear under the heading “ANCESTORS.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sister
+  assigned_to:
+  - fig:3
+  basis: The passage calls Sxéma’na “their sister.”
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: waterways
+  literal_form: Bella Coola River; Nusa’tsem River; South Bentinck Arm; Salmon River;
+    Dean Inlet
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: mountain landmark
+  literal_form: Mount Nisq!r’lst
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Ancestor and location list
+  summary: A fragmentary list names ancestors and then enumerates river, inlet, arm,
+    and mountain locations associated with numbered sites or village entries.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3555-3560
+  quote_or_summary: "“ANCESTORS. é’mlaix’, O’mq’omki- / lik ia and their sister /
+    Sxéma’na.”"
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 3561-3594
+  quote_or_summary: The passage lists places along Bella Coola River, including above
+    Nuxa‘lk'!, above numbered sites, at the junction of Nusa’tsem and Bella Coola
+    Rivers, and at the foot of Mount Nisq!r’lst.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 3595-3609
+  quote_or_summary: The passage lists further places, including the head of South
+    Bentinck Arm, Nos. 25-27 jointly called Ta’lio, the mouth of Salmon River at Dean
+    Inlet, and Dean Inlet.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage appears to be a fragmentary table or list rather than a narrative
+    episode. Named figures and geographic settings are extractable, but no clear mythic
+    action or comparative motif is supported by this excerpt alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No candidate motifs or comparison claims were extracted because the passage only provides ancestor names and geographic listings, without a narrative pattern or explicit comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l3555-l3609
+  passage_sha256=bd067ca62f384e5fb29abef5454f31b0c91601cfc9474ff1f4d1dcbf43d67ee6
+

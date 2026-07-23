@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.korean-korean-tales-allen-archive-l1115-l1131
+source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+passage_locator:
+  label: THE  RABBIT  AND  OTHER  LEGENDS.  33 / THE  RABBIT  AND  OTHER  LEGENDS.  35
+    / THE  RABBIT  AND  OTHER  LEGENDS.  37 / THE  RABBIT  AND  OTHER  LEGENDS.  39;
+    lines 1115-1131
+  start: '1115'
+  end: '1131'
+  translation: Korean Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The fishes are ashamed of having kidnapped the rabbit. The turtle is ordered
+    to carry the rabbit to a designated place. Once released to dig for his eyes in
+    the sand, the rabbit shakes off the water, tells the turtle he has only one pair
+    of eyes and will keep them, flees up the mountain side, and thereafter avoids
+    the turtle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The fishes are ashamed of their rude conduct in forcibly kidnapping the rabbit.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The turtle is commanded to carry the rabbit, described as a guest, to the
+    designated place.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The rabbit is released by the turtle to dig for the eyes in the sand.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The rabbit shakes water from his coat after being released.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The rabbit winks at the turtle and says the turtle should dig for the eyes
+    himself.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The rabbit says he has only one pair of eyes and intends to keep them.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The rabbit runs up the mountain side.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Afterward, the rabbit keeps away from the turtle.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: rabbit
+  description: Kidnapped animal guest who is carried by the turtle, released to dig
+    for his eyes, refuses to give up his only pair of eyes, and escapes up the mountain
+    side.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: fishes
+  description: Aquatic captors who are ashamed of having forcibly kidnapped the rabbit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: turtle
+  description: Carrier of the rabbit to the designated place; later addressed by the
+    rabbit and called his clumsy betrayer.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: kidnapped guest
+  assigned_to:
+  - fig:1
+  basis: The passage says the rabbit was forcibly kidnapped and then calls him the
+    guest being carried.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ashamed kidnappers
+  assigned_to:
+  - fig:2
+  basis: The fishes are ashamed of forcibly kidnapping the rabbit.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: commanded carrier and betrayer
+  assigned_to:
+  - fig:3
+  basis: The turtle is commanded to carry the rabbit and is later addressed as the
+    rabbit's clumsy betrayer.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: escapee using a verbal pretext
+  assigned_to:
+  - fig:1
+  basis: The rabbit is released to dig for the eyes, then says he will keep his only
+    pair and flees.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: eyes
+  literal_form: The rabbit's one pair of eyes, which he refuses to surrender.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: sand
+  literal_form: Sand where the rabbit is released to dig for the eyes.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: water
+  literal_form: Water shaken from the rabbit's coat after release.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: wink
+  literal_form: The rabbit's wink at the turtle before refusing to surrender the eyes.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: mountain side
+  literal_form: The mountain side up which the rabbit flees.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Captors ashamed and turtle sent with rabbit
+  summary: The fishes are ashamed of having kidnapped the rabbit, and the turtle is
+    ordered to carry the guest to the designated place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rabbit released to dig for eyes
+  summary: The turtle releases the rabbit to dig in the sand; the rabbit shakes off
+    water, winks at the turtle, and says he will keep his only pair of eyes.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Escape up the mountain
+  summary: The rabbit runs up the mountain side and is thereafter careful to avoid
+    the turtle.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: captive animal escapes by verbal deception
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The rabbit is released under the pretext of digging for eyes, then refuses,
+    says he will keep his only pair, and flees up the mountain side.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage gives only the escape episode
+    and does not explicitly label the rabbit as a trickster.
+- id: motif:2
+  label: body part sought but withheld
+  taxonomy_refs: []
+  basis: The rabbit's eyes are the object to be dug for, but he states he has only
+    one pair and intends to keep them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The full prior reason for seeking the eyes is outside this passage range.
+- id: motif:3
+  label: etiological animal avoidance
+  taxonomy_refs: []
+  basis: The closing sentence states that the rabbit has ever after been careful to
+    give the turtle a wide berth.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage supports an origin-style explanation for avoidance, but no
+    broader comparative claim is made here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1115-1122
+  quote_or_summary: The fishes are ashamed of forcibly kidnapping the rabbit, and
+    the turtle is commanded to carry the guest to the designated place.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 1124-1126
+  quote_or_summary: The rabbit is released by the turtle to dig for the eyes in the
+    sand, and he shakes water from his coat.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 1126-1129
+  quote_or_summary: The rabbit winks at the turtle, tells him to dig for the eyes
+    himself, and says he has only one pair, which he will keep.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 1129-1131
+  quote_or_summary: "“he tore away up the mountain side” and afterward gave the turtle
+    “a wide berth.”"
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; short quotation for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence is clear in the supplied passage. Motif labels are candidate-level
+    and limited by the absence of the preceding setup.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparison to another text, tradition, or motif family beyond candidate motif classification.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-tales-allen-archive__l1115-l1131
+  passage_sha256=205642c6895b2d3974e070c09562dd6ed3509e2a566c99112f8dbdcab0a37841
+

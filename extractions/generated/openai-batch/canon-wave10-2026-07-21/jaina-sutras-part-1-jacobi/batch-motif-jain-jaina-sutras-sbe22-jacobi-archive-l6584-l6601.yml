@@ -1,0 +1,244 @@
+---
+record_id: batch.motif.jain-jaina-sutras-sbe22-jacobi-archive-l6584-l6601
+source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+passage_locator:
+  label: BOOK II, LECTURE I, LESSON 8. 1OQ / NINTH LESSON. / BOOK II, LECTURE I, LESSON
+    IO. / TENTH LESSON.; lines 6584-6601
+  start: '6584'
+  end: '6601'
+  translation: 'Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred
+    Books of the East, Vol. 22)'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A single mendicant who has gathered alms for many is instructed not to
+    distribute them on his own. He must go to the place where his teacher or related
+    spiritual authorities are, announce his intention to give the alms to such relations,
+    and distribute only the portion commanded, even the whole if so ordered.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage concerns a single mendicant who has collected alms for many people.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Giving the collected alms to chosen recipients without consulting fellow-ascetics
+    is described as sinful and prohibited.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The mendicant is instructed to go to the place where his teacher and related
+    religious authorities are located.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mendicant's speech names near or remote spiritual relations, including
+    teacher, sub-teacher, religious guide, Sthavira, head of a Gana, Ganadhara, and
+    founder of a Gana.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Another person may command that a certain portion, or the whole amount, be
+    given, and the mendicant should give that amount.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: single mendicant
+  description: A mendicant who has collected alms for many and must seek consultation
+    before distributing them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: fellow-ascetics
+  description: Persons whom the mendicant should consult before distributing the collected
+    alms.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: near or remote spiritual relations
+  description: 'Religious relations named as possible recipients: teacher, sub-teacher,
+    religious guide, Sthavira, head of a Gana, Ganadhara, and founder of a Gana.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the other
+  description: The person who may answer the mendicant and command what portion of
+    the alms should be given.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: alms-collecting mendicant
+  assigned_to:
+  - fig:1
+  basis: The passage says a single mendicant has collected alms for many and must
+    distribute them according to instruction.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: consulted fellow-ascetics
+  assigned_to:
+  - fig:2
+  basis: The passage states that distributing alms without consulting fellow-ascetics
+    would be sinful.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: spiritual relations as intended recipients
+  assigned_to:
+  - fig:3
+  basis: The mendicant is to announce that he will give alms to near or remote spiritual
+    relations and lists their offices.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: person commanding the portion
+  assigned_to:
+  - fig:4
+  basis: The other may answer and command that a portion, or the whole, be given.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: alms-food
+  literal_form: food or alms collected for many
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: portion
+  literal_form: the portion or whole amount commanded for distribution
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Prohibition of unilateral alms distribution
+  summary: A single mendicant who has collected alms for many is warned not to give
+    them to whomever he chooses without consultation, because this is described as
+    sinful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Request to give alms to spiritual relations
+  summary: The mendicant goes to the place where his teacher and other religious authorities
+    are and states that he has near or remote spiritual relations to whom he will
+    give the alms.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Distribution according to command
+  summary: Another person may command the amount to be given, whether a portion or
+    the whole, and the mendicant should give exactly that amount.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: regulated giving of collected alms
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage presents alms-food as something collected for many and redistributed
+    only through religious consultation and command, rather than by private preference.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is primarily disciplinary instruction; the taxonomy reference
+    is a broad fit based on regulated religious giving, not an explicit mythic exchange
+    narrative.
+- id: motif:2
+  label: obedience to ascetic authority in resource distribution
+  taxonomy_refs: []
+  basis: The mendicant must not act alone but must consult and follow the commanded
+    portion, even if the whole is ordered.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is an ethical-regulatory pattern rather than a mythic narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6584-6589
+  quote_or_summary: A single mendicant has collected alms for many; giving them away
+    without consulting fellow-ascetics is called sinful and prohibited.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6589-6596
+  quote_or_summary: The mendicant should go where his teacher and related authorities
+    are and say he has near or remote spiritual relations, listing several religious
+    offices, to whom he will give the alms.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6596-6600
+  quote_or_summary: The other may tell him to give a specific portion; he should give
+    as much as commanded, including the whole if the whole is commanded.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal disciplinary sequence is explicit. Motif assignment is cautious
+    because the passage is prescriptive monastic conduct rather than mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not make a comparison to another tradition or motif family beyond supporting cautious motif candidates.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:jain-jaina-sutras-sbe22-jacobi-archive__l6584-l6601
+  passage_sha256=b8c0a5b8315e4c14daabcf8f98bbe4f03562dd9d947f09200dca7b9f5285e8cb
+

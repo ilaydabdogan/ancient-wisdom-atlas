@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.polynesian-ancient-history-maori-v3-white-archive-l10557-l10591
+source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+passage_locator:
+  label: TE-WEEA AND NIGHT ATTACK. 227 / PAUA-COLLECTORS KILLED. 229 / ANCIENT MAOUI
+    AMUSEMENTS. 231 / CHAPTER XII.; lines 10557-10591
+  start: '10557'
+  end: '10591'
+  translation: The Ancient History of the Maori, His Mythology and Traditions, Volume
+    3
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A warrior’s sacred chant is recited over his weapon as he enters battle.
+    The speaker chants to heaven, earth, and the pit below, addresses an enemy, contrasts
+    darkness around the enemy with sunlight and day around himself, and says gentle
+    winds and air bind around him and add their power to his.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker chants an incantation to heaven, earth, and a pit below.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker addresses an enemy directly and invites the enemy to show rage,
+    weapons, bravery, power, and noble deeds.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The enemy is described as being under gloom, mist, night, and denser darkness.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker describes sunshine, day, lifting clouds, and a bright daylight
+    sky as being with or over himself.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: Gentle winds and passing air are said to be with the speaker, binding around
+    him and adding their power to his.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The prose note identifies the chant as a warrior’s sacred chant repeated over
+    his weapon as he enters battle.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: chanting warrior
+  description: The implied speaker who recites the sacred chant over his weapon before
+    entering battle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: enemy
+  description: The opponent addressed by the speaker and associated with gloom, mist,
+    night, and darkness.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: warrior-chanter
+  assigned_to:
+  - fig:1
+  basis: The prose note calls the text a warrior’s sacred chant repeated over a weapon
+    as he enters battle.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: battle opponent
+  assigned_to:
+  - fig:2
+  basis: The chant addresses “mine enemy” and challenges the addressee to display
+    rage, weapons, bravery, and power.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: weapon empowered by chant
+  literal_form: weapon
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: heaven-earth-pit address
+  literal_form: heaven, earth, and pit below
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: darkness around enemy
+  literal_form: gloom, mist, night, denser darkness
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: light around speaker
+  literal_form: sunshine, blaze of day, lifting clouds, bright daylight sky
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: supporting winds and air
+  literal_form: gentle breathing winds and passing air
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: battle incantation over weapon
+  summary: A warrior recites a sacred chant over his weapon as he enters battle, addressing
+    cosmic directions and confronting an enemy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: scene:2
+  label: opposed darkness and daylight
+  summary: The chant contrasts the enemy’s darkness, mist, and night with the speaker’s
+    sunshine, daylight, lifting clouds, and bright sky, while winds and air add power
+    to the speaker.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacred battle chant empowering a weapon
+  taxonomy_refs: []
+  basis: The passage explicitly identifies the text as a sacred chant repeated over
+    a warrior’s weapon as he enters battle.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage provides the ritual use but does not describe the battle outcome.
+- id: motif:2
+  label: battlefield opposition of darkness and light
+  taxonomy_refs:
+  - duality
+  basis: The chant repeatedly places gloom, mist, night, and darkness with the enemy,
+    while sunshine, day, clouds lifting, and bright sky are associated with the speaker.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The duality reading is based on repeated imagery in the chant; the passage
+    does not supply an explicit doctrinal explanation.
+- id: motif:3
+  label: natural forces adding power to a warrior
+  taxonomy_refs: []
+  basis: Gentle winds and passing air are said to bind around the speaker and add
+    their power to his.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage states the association with wind and air but does not clarify
+    whether these are personified beings, ritual forces, or poetic imagery.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 10559-10563
+  quote_or_summary: "“I chant my incantation now to heaven, / To earth, and pit below.”"
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: public_domain
+- id: ev:2
+  type: summary
+  locator: 10563-10573
+  quote_or_summary: The speaker addresses “mine enemy” and calls on the enemy to show
+    rage with weapons, bravery, power, and feet displaying noble deeds.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: public_domain
+- id: ev:3
+  type: summary
+  locator: 10565-10569, 10583-10585
+  quote_or_summary: The enemy is associated with gloom, closing mist, night, and denser
+    darkness, while the speaker says the sun and coming day are with him.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: public_domain
+- id: ev:4
+  type: quote
+  locator: 10587-10589
+  quote_or_summary: "“But now on me the lifting clouds / Disclose a bright and daylight
+    sky.”"
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: public_domain
+- id: ev:5
+  type: summary
+  locator: 10575-10581
+  quote_or_summary: Gentle breathing winds and passing air are with the speaker; they
+    bind around him and add their power to his.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: public_domain
+- id: ev:6
+  type: quote
+  locator: '10591'
+  quote_or_summary: "“A warrior's sacred chant repeated over his weapon as he enters
+    the battle.”"
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: public_domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The ritual function of the chant is explicit. Motif candidates involving
+    duality and natural-force empowerment are supported by imagery but should be reviewed
+    for cultural context. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied English passage and metadata were used; no external parallels or taxonomy IDs beyond the supplied list were added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-ancient-history-maori-v3-white-archive__l10557-l10591
+  passage_sha256=b553761fb06de114a8ce69828c93bc83fd304af45e7c159b45e8cee74f62bff8
+

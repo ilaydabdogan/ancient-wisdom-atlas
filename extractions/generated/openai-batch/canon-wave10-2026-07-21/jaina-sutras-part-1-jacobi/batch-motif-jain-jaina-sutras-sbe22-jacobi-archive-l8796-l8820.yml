@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.jain-jaina-sutras-sbe22-jacobi-archive-l8796-l8820
+source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+passage_locator:
+  label: BOOK II, LECTURE 5, LESSON I. 159 / SIXTH LECTURE, / BEGGING FOR A BOWL 1
+    . / FIRST LESSON.; lines 8796-8820
+  start: '8796'
+  end: '8820'
+  translation: 'Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred
+    Books of the East, Vol. 22)'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: A monk or a nun should not wipe or rub a wet or moist alms-bowl.
+  summary: The passage gives rules for monks and nuns concerning when an alms-bowl
+    may be wiped, when it should be carried, and how it should be cared for during
+    heavy rain. It closes the lecture called “Begging for a Bowl.”
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A monk or nun should not wipe or rub an alms-bowl while it is wet or moist.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the water has dried and moisture is gone from the alms-bowl, the monk
+    or nun may wipe or rub it circumspectly.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A monk or nun entering or leaving a householder’s abode for alms should do
+    so with their bowl.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The bowl is also to be taken when going to an outdoor place for religious
+    practices or study, and when wandering from village to village.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: During strong and widely spread rain, the same care prescribed for clothes
+    is to be applied to the alms-bowl.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage marks the end of the Sixth Lecture, called “Begging for a Bowl.”
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: a monk or a nun
+  description: Generic Jain mendicant addressed by the rules for handling and carrying
+    the alms-bowl.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: householder
+  description: A householder whose abode may be entered or left by the monk or nun
+    for the sake of alms.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: regulated mendicant
+  assigned_to:
+  - fig:1
+  basis: The passage instructs the monk or nun about wiping the bowl, carrying it
+    for alms and religious activity, and caring for it in rain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: householder associated with alms context
+  assigned_to:
+  - fig:2
+  basis: The householder is mentioned through the abode that may be entered or left
+    for the sake of alms.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: alms-bowl
+  literal_form: alms-bowl or bowl
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: water or moisture on the bowl
+  literal_form: wet or moist state; water and moisture on the alms-bowl
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: heavy rain
+  literal_form: strong and widely spread rain
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: clothes as care comparison
+  literal_form: clothes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: householder’s abode
+  literal_form: abode of a householder
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Bowl wiped only after drying
+  summary: The monk or nun refrains from wiping a wet or moist alms-bowl, but may
+    wipe or rub it once water and moisture have disappeared.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Movement with the bowl
+  summary: The monk or nun carries the bowl when entering or leaving a householder’s
+    abode for alms, going outdoors for religious practices or study, or wandering
+    between villages.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Care of the bowl in rain
+  summary: If heavy rain falls, the alms-bowl is to receive the same care as prescribed
+    for clothes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: conditional handling of a monastic implement
+  taxonomy_refs: []
+  basis: The bowl may not be wiped while wet or moist, but may be wiped circumspectly
+    after drying.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a disciplinary pattern rather than a narrative mythic motif.
+- id: motif:2
+  label: alms-bowl accompanies mendicant movement
+  taxonomy_refs: []
+  basis: The bowl accompanies the monk or nun in alms-seeking, outdoor religious practice
+    or study, and village-to-village wandering.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states required conduct but does not describe an exchange
+    of alms or its ritual consequences.
+- id: motif:3
+  label: protective care of ascetic object during rain
+  taxonomy_refs: []
+  basis: Strong widespread rain triggers a rule that the alms-bowl should be cared
+    for in the same way as clothes.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The exact care procedure is referred to another lesson and is not given
+    in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8796-8800
+  quote_or_summary: "“A monk or a nun should not wipe or rub a wet or moist alms-bowl”;
+    after water has dried and moisture is gone, they may wipe or rub it circumspectly."
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 8802-8806
+  quote_or_summary: A monk or nun entering or leaving a householder’s abode for alms
+    should have the bowl; the bowl is also taken to an outdoor place for religious
+    practices or study and while wandering from village to village.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 8808-8811
+  quote_or_summary: "“If a strong and widely spread rain pours down,” the same care
+    prescribed for clothes should be taken for the alms-bowl."
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 8815-8817
+  quote_or_summary: "“End of the Sixth Lecture, called Begging for a Bowl.”"
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain translation; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Candidate motifs are framed as ritual-disciplinary
+    patterns, not as broader mythological claims. No comparison claims are made because
+    the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No historical-contact, common-inheritance, or cross-text comparison claims were extracted from this passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:jain-jaina-sutras-sbe22-jacobi-archive__l8796-l8820
+  passage_sha256=fad018e5339114a1cae30e7f54656ff2ec263f0e914eb00c696525422f27cd32
+

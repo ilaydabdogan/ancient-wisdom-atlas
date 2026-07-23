@@ -1,0 +1,192 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l3841-l4112
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: XXX       ASSYRIAN   AND   BABYLONIAN  LITERATURE / THE    TOWER    OF  BABEL.
+    / I    I / CONTENTS; lines 3841-4112
+  start: '3841'
+  end: '4112'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a table of contents for selected Assyrian and Babylonian
+    texts, listing titles, translators, and page numbers. It includes royal inscriptions,
+    letters, chronicles, contracts, creation accounts, and shorter legends.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is formatted as a contents list with page numbers and translator
+    attributions.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The contents list includes a work titled as a legend concerning the birth
+    and boyhood of Sargon I.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The contents list includes multiple royal or official texts, including letters,
+    inscriptions, annals, chronicles, and accession or battle texts connected with
+    named rulers.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The contents list includes Babylonian creation-account titles.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The contents list includes a title referring to a fight between Marduk and
+    Tiamat.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Sargon I
+  description: Named in a contents title as the subject of a legend concerning birth
+    and boyhood.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Marduk
+  description: Named in a contents title as one party in a fight with Tiamat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Tiamat
+  description: Named in a contents title as one party in a fight with Marduk.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: subject of birth-and-boyhood legend
+  assigned_to:
+  - fig:1
+  basis: The title identifies Sargon I as the subject of a legend concerning birth
+    and boyhood.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: combatant in titled fight account
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The title names Marduk and Tiamat as the figures in a fight.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: birth-and-boyhood legend of a named figure
+  taxonomy_refs: []
+  basis: The contents list includes a title concerning the birth and boyhood of Sargon
+    I.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage gives only a title, not narrative details; no miraculous or
+    sacred birth motif can be assigned from this evidence alone.
+- id: motif:2
+  label: Babylonian creation accounts
+  taxonomy_refs: []
+  basis: The contents list includes a Babylonian account of creation and a second
+    Babylonian account of creation.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only titles are present; the passage does not summarize the cosmogonic
+    content.
+- id: motif:3
+  label: fight between Marduk and Tiamat
+  taxonomy_refs: []
+  basis: The contents list includes a title referring to another account of the fight
+    between Marduk and Tiamat.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The title supports a combat motif, but the passage does not describe the
+    nature, cause, outcome, or cosmological meaning of the fight.
+comparison_claims:
+- id: claim:1
+  claim: Within the contents list, the titles for a Babylonian creation account, a
+    second Babylonian creation account, and another account involving the fight between
+    Marduk and Tiamat can be cautiously compared as related creation or cosmogony-associated
+    entries in the same volume.
+  claim_level: same_function
+  target: Babylonian creation-account and Marduk-Tiamat fight entries in the same
+    contents list
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage is a table of contents only; it does not provide narrative
+    content showing shared motifs beyond title-level association.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3841-4112
+  quote_or_summary: The passage presents a contents list with page numbers and translator
+    names.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: 3845-3850
+  quote_or_summary: "“Legend concerning the Birth and Boyhood of Sargon I”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 3851-4094
+  quote_or_summary: The contents list includes numerous titles for letters, inscriptions,
+    annals, chronicles, contracts, royal building operations, accessions, and battles
+    associated with named rulers.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: quote
+  locator: 4096-4102
+  quote_or_summary: "“The Babylonian Account of the Creation” and “A Second Babylonian
+    Account of the Creation”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: 4104-4108
+  quote_or_summary: "“Another Account of the Fight between Marduk and Tiamat”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The extraction is reliable for the contents-list facts. Motif identification
+    is limited because the passage contains titles only, not the narrative passages
+    themselves.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No symbols or narrative scenes were extracted because the passage is a table of contents rather than a mythic narrative passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l3841-l4112
+  passage_sha256=b08474c2635013606cc0f5ca5e9f4599201fd62e725429288372960a366a405e
+

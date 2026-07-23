@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.korean-korean-folk-tales-gale-archive-l5856-l5886
+source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+passage_locator:
+  label: THE  MAGIC  INVASION  OF  SEOUL  189 / XXXIX / THE  AWFUL  LITTLE  GOBLIN
+    / THE  AWFUL  LITTLE  GOBLIN  193; lines 5856-5886
+  start: '5856'
+  end: '5886'
+  translation: Korean Folk Tales - Imps, Ghosts and Fairies
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: It was commonly held that the boy was the Too-uk Spirit, but we cannot definitely
+    say.
+  summary: A boy gives a sarcastic smile, leaves through the gate, and disappears.
+    The frightened feast company cancels the feast; people of the house, including
+    host and guests, fall ill and many die, especially those who had scolded, tied,
+    or beaten him. The narrator reports that people commonly identified the boy as
+    the Too-uk Spirit, while withholding certainty. A note generalizes that calamity
+    comes when a clan is fated to disappear, and says respectful distance toward a
+    great spirit at a feast would have spared the guests; humans and devils are not
+    meant to dwell together.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The boy smiles sarcastically, turns around, exits through the gate, and disappears.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The company is terrified and calls off the feast.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: People of the house, including host and guests, become ill; those who scolded,
+    tied, or pounded the boy die within days, and others die after contracting illnesses
+    such as typhus.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The boy is commonly held to have been the Too-uk Spirit, but the narrator
+    states that this cannot be said definitely.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note states that calamity befalls a clan when the time comes for it to
+    disappear from the earth.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note says the guests would have escaped if they had remained reverent
+    and distant toward a great spirit at the feast instead of insulting him and making
+    him more malignant.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The note states that devils and men were never intended to dwell together.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the boy
+  description: A boy who smiles sarcastically, leaves through the gate, disappears,
+    and is commonly but uncertainly identified as the Too-uk Spirit.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the feast company
+  description: The group at the feast, including people of the house, host, and guests,
+    who become frightened, cancel the feast, and later suffer illness and death.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: those who scolded, tied, or pounded the boy
+  description: A subset of the company singled out as having mistreated the boy and
+    dying within a few days.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: ambiguous possible spirit
+  assigned_to:
+  - fig:1
+  basis: The passage reports common identification of the boy as the Too-uk Spirit
+    while denying certainty.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: supernatural visitor made malignant by insult
+  assigned_to:
+  - fig:1
+  basis: The note interprets the feast encounter as involving a great spirit whom
+    insulting behavior made more malignant.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: human feast participants
+  assigned_to:
+  - fig:2
+  basis: The company includes house members, host, and guests at a feast.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: direct mistreaters of the boy
+  assigned_to:
+  - fig:3
+  basis: They are described as scolding, tying with ropes, and pounding him.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: victims of illness and death
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage says the house members, host, guests, direct mistreaters, and
+    other company members became ill or died.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Too-uk Spirit
+  literal_form: named spirit identity associated with the boy
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: gate or door threshold
+  literal_form: the gate through which the boy leaves and the door through which the
+    note imagines a great spirit entering at feast time
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: feast
+  literal_form: the canceled feast and feast time at which the spirit encounter occurs
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: illness and typhus
+  literal_form: illness, including typhus, contracted after the boy's disappearance
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Boy exits and disappears
+  summary: After the preceding confrontation, the boy smiles sarcastically, turns,
+    goes out through the gate, and disappears.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Feast canceled and calamity follows
+  summary: The frightened company cancels the feast; household members, host, guests,
+    direct mistreaters, and others suffer illness and death.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Identification and explanatory note
+  summary: The narrator reports the common but uncertain identification of the boy
+    as the Too-uk Spirit and adds that respectful distance from a great spirit would
+    have spared the guests, since humans and devils should not dwell together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Offended supernatural visitor brings household calamity
+  taxonomy_refs: []
+  basis: The boy is possibly a spirit; after he is insulted and physically mistreated,
+    the feast company and household suffer illness and death, and the note says reverent
+    distance would have allowed them to escape.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage explicitly says the identification of the boy as the Too-uk
+    Spirit is uncertain.
+- id: motif:2
+  label: Human-spirit boundary at a feast threshold
+  taxonomy_refs: []
+  basis: The boy leaves through a gate, the note imagines a great spirit entering
+    through the door at feast time, and it concludes that devils and humans were not
+    intended to dwell together.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The threshold reading is based on the repeated door/gate language and
+    the note's boundary statement; the passage does not develop this as a formal cosmological
+    boundary.
+- id: motif:3
+  label: Clan-ending calamity
+  taxonomy_refs: []
+  basis: The note states that when the time comes for a clan to disappear from the
+    earth, calamity befalls it.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is presented in the explanatory note rather than narrated directly
+    in the immediate action.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious same-function comparison with patterns in
+    which an ambiguous supernatural visitor enters human social space, is insulted
+    or mistreated, and calamity follows.
+  claim_level: same_function
+  target: dangerous supernatural visitor / human-spirit boundary pattern
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs:
+  - ev:3
+  confidence: medium
+  limitations: No external parallel is cited in the passage, and the text explicitly
+    marks the boy's identification as the Too-uk Spirit uncertain.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5856-5858
+  quote_or_summary: The boy smiles sarcastically, turns, goes out of the gate, and
+    disappears.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5860-5867
+  quote_or_summary: The terrified company calls off the feast; people of the house,
+    host, guests, direct mistreaters, and other company members become ill or die,
+    with typhus named among the illnesses.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:3
+  type: quote
+  locator: lines 5869-5871
+  quote_or_summary: '"It was commonly held that the boy was the Too-uk Spirit, but
+    we cannot definitely say."'
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 5873-5881
+  quote_or_summary: The note says clan-ending calamity arrives when a clan's time
+    is over; if guests had treated a great spirit at the feast with reverent distance
+    rather than insult, they would have escaped.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:5
+  type: quote
+  locator: lines 5881-5883
+  quote_or_summary: '"devils and men were never intended to dwell together."'
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Narrative actions and aftermath are explicit. Motif labeling is cautious
+    because the passage itself states uncertainty about the boy's spirit identity
+    and supplies no external parallels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available symbol taxonomy refs apply directly to this passage; motif taxonomy refs left empty to avoid overmapping.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-folk-tales-gale-archive__l5856-l5886
+  passage_sha256=2725d9dca4d66301e210b24d1a4dddd0d99334b68cc2ce474eb172e3c1462cbe
+

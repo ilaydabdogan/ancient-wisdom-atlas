@@ -1,0 +1,414 @@
+---
+record_id: batch.motif.korean-korean-tales-allen-archive-l1538-l1601
+source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+passage_locator:
+  label: THE  ENCHANTED  WINE-JUG.  47 / THE  ENCHANTED  WINE-JUG. / THE  ENCHANTED  WINE-JUG.  5
+    1 / THE  ENCHANTED  WINE-JUG.; lines 1538-1601
+  start: '1538'
+  end: '1601'
+  translation: Korean Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: After a quarrel involving a dog and a cat, the cat avoids dogs and shows
+    fear responses that the narrator presents as explaining cat behavior and the relative
+    rarity of cats. The dog continues searching for a lost gem in the river. In winter,
+    he sees a man spearing fish through the ice, steals a caught fish, and brings
+    it to his impoverished master. When the master cuts open the fish, the lost gem
+    falls out. The old man stores the gem and prepares to resume his former fortune.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The cat remains on a perch until danger has passed and fears boys might knock
+    him down with stones.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After coming down, the cat avoids the dog; seeing a dog makes him recall a
+    cold ducking and time spent in a tree, spit as if full of river-water, and puff
+    his tail.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator says these events account for the scarcity of cats and the popularity
+    of dogs, and a footnote states that cats are rare in Korea while dogs are abundant.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:4
+  text: The dog continues efforts to recover the gem, dives repeatedly in vain, and
+    spends days on the riverbank.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: By winter, ice covers the place where the gem lies hidden; the dog’s stated
+    aims are to find the gem and kill the cat.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The dog sees a man spearing fish through a hole in the ice at the river.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When a fish is caught and laid down, the dog grabs it and rushes to his master.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The master is nearly destitute and is delighted to receive the fish.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: When the master cuts open the fish, the long-lost gem falls out of the fish’s
+    belly.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The dog celebrates by jumping on his master, licking him, striking him with
+    his paws, and barking.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The old man places the gem in his trunk and takes out his last money and fine
+    clothes because his fortune has returned.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: dog
+  description: A faithful old dog who seeks the lost gem, remains hostile to the cat,
+    steals a fish, and brings it to his master.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: cat
+  description: A cat who had been in conflict with the dog, stays up a tree or perch
+    until safe, and thereafter avoids dogs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: old man / master
+  description: The dog’s master, nearly reduced to begging, who receives the fish,
+    recovers the gem, and stores it in his trunk.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: fish-spearing man
+  description: A man spearing fish through a hole in the ice, whose caught fish is
+    taken by the dog.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: passing boys
+  description: Boys whom the cat fears might knock him down with stones as they pass.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: loyal animal helper and retriever
+  assigned_to:
+  - fig:1
+  basis: The dog persists in searching for the lost gem and brings to his master the
+    fish containing it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: quarreling animal rivals
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes the dog’s hostility toward the cat and the cat’s continuing
+    avoidance of dogs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: impoverished master and owner of the recovered gem
+  assigned_to:
+  - fig:3
+  basis: The master is nearly reduced to begging and receives the lost gem when the
+    fish is opened.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: incidental fisher
+  assigned_to:
+  - fig:4
+  basis: The man spears fish through the ice and lays down the catch that the dog
+    takes.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: threatening passers-by
+  assigned_to:
+  - fig:5
+  basis: The cat fears that the boys might knock him down with stones.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: lost gem
+  literal_form: The long-lost gem hidden in the river and later found in the fish’s
+    belly.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: fish containing the gem
+  literal_form: A fresh fish caught through the ice; when opened, the gem falls from
+    its belly.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: river and ice
+  literal_form: The river where the gem lies hidden, later covered by winter ice with
+    a fishing hole.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: tree or perch
+  literal_form: The elevated place where the cat spends the day after the ducking.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: trunk, money, and fine clothes
+  literal_form: The old man’s trunk containing the recovered gem, his last money,
+    and fine clothes from more fortunate days.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Cat’s fear and etiological explanation
+  summary: The cat remains above danger, later avoids the dog, reacts fearfully at
+    the sight of dogs, and the narrator presents this as explaining cat behavior and
+    the relative status of cats and dogs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: scene:2
+  label: Dog searches the river in winter
+  summary: The dog keeps trying to recover the gem, repeatedly dives, sits by the
+    riverbank, and finds that winter ice covers the place where the gem is hidden.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dog takes the fisher’s catch
+  summary: The dog watches a man spearing fish through the ice, takes a caught fish,
+    and runs with it to his master.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Gem recovered and fortune restored
+  summary: The master cuts open the fish and finds the long-lost gem inside; the dog
+    rejoices, and the old man stores the gem and prepares to wear his fine clothes
+    again.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: etiological explanation for cat-dog enmity and animal prevalence
+  taxonomy_refs: []
+  basis: The passage explicitly says the events account for the scarcity of cats and
+    popularity of dogs, and it describes enduring hostility between cat and dog.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: The explanation is local to this tale passage and should not be generalized
+    without comparison to other Korean materials.
+- id: motif:2
+  label: faithful animal helper recovers lost precious object
+  taxonomy_refs: []
+  basis: The dog persists in searching for the lost gem and brings back the fish that
+    contains it, restoring the master’s possession.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not show deliberate knowledge by the dog that the fish
+    contains the gem; the recovery may be accidental within the narrative.
+- id: motif:3
+  label: lost gem found inside a fish
+  taxonomy_refs: []
+  basis: The gem has been hidden in the river, a fish is caught at that place, and
+    the gem falls from the fish’s belly when it is opened.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain how the gem entered the fish.
+- id: motif:4
+  label: return of lost wealth or fortune
+  taxonomy_refs:
+  - return
+  basis: After the lost gem is recovered, the old man stores it and takes out money
+    and fine clothes because his fortune has returned.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage concerns return of a valuable
+    object and fortune rather than a full mythic return journey.
+comparison_claims:
+- id: claim:1
+  claim: The passage functions like an etiological animal tale because it explains
+    present animal traits and social observations through a past incident involving
+    the dog and cat.
+  claim_level: same_function
+  target: etiological animal tale pattern explaining animal behavior or prevalence
+  evidence_refs:
+  - ev:1
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No external parallel text is provided in the passage; this is a functional
+    comparison to a general pattern only.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1538-1555
+  quote_or_summary: The cat stays on a perch until safe, fears stones from boys, then
+    ever after avoids dogs; the sight of a dog makes him recall the ducking, spit,
+    and puff his tail. The narrator says this accounts for cat scarcity and dog popularity.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1556-1565
+  quote_or_summary: The dog continues searching, dives repeatedly, sits by the riverbank,
+    and by winter still aims to find the gem and kill the cat while ice covers the
+    hidden place.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1566-1583
+  quote_or_summary: The dog sees a man spearing fish through a hole in the ice, watches
+    the catch, grabs the fish when it is laid down, and rushes away to his master.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1584-1594
+  quote_or_summary: The master is nearly destitute but delighted by the fish; when
+    he cuts it open, the long-lost gem falls from the fish’s belly, and the dog rejoices.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1595-1601
+  quote_or_summary: After their joy settles, the old man places the gem in his trunk
+    and takes out his last money and fine clothes because his fortune has returned.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:6
+  type: quote
+  locator: footnote within lines 1538-1601
+  quote_or_summary: "“Cats are indeed rare in Korea, while dogs are as abundant as
+    in Constantinople.”"
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence is clear. Motif labels are conservative and mostly not
+    tied to a formal taxonomy except the broad return reference, which needs review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. The passage begins after a prior episode, so earlier details of how the gem was lost are not inferred beyond what this excerpt states.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-tales-allen-archive__l1538-l1601
+  passage_sha256=1804a1678614810c2f2c7f78518fce0efc21481692e9b23186116e88a866bb53
+

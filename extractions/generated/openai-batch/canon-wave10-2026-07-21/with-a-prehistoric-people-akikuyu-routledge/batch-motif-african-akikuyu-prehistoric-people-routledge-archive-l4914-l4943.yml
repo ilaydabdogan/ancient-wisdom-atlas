@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.african-akikuyu-prehistoric-people-routledge-archive-l4914-l4943
+source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+passage_locator:
+  label: AGRICULTURE / AGRICULTURE / AGRICULTURE  43 / FLOCKS  AND  HERDS; lines 4914-4943
+  start: '4914'
+  end: '4943'
+  translation: 'With a Prehistoric People: The Akikuyu of British East Africa'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Akikuyu ownership and valuation of goats, sheep,
+    and cattle; livestock is prized for products but chiefly as wealth, especially
+    for obtaining wives. A brief folktale reference says M'wam'bia saves a mythical
+    animal, is offered a reward, asks for goats and women, and then wants nothing
+    more. The passage also states that goats serve as a unit of value, including for
+    wife purchase and ivory transactions, with a fixed goat-to-cattle ratio.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Akikuyu are described as mainly agricultural, while most also possess
+    goats and sheep; cattle are valued property held by fewer people.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Livestock are valued for milk while alive and for flesh and hides after death,
+    but chiefly as embodiments of wealth.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: One stated purpose for accumulating livestock is to use them for the purchase
+    of wives.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In the summarized folktale reference, M'wam'bia saves the life of a mythical
+    animal or being, is asked what reward he wants, requests goats and then women,
+    and, after these are granted, asks for nothing more.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The goat is described as the unit of value; wife purchase and former ivory
+    negotiations are reckoned in goats, actual payment may include cattle, sheep,
+    and goats, and thirteen goats equal one head of cattle.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Akikuyu / M'kikuyu
+  description: The people described as agricultural, livestock-owning, and valuing
+    flocks and herds as wealth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: M'wam'bia
+  description: A boy in a folk tale who has saved the life of the animal or mythical
+    being and asks for goats and women as reward.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: N'jen'ge / saved mythical animal
+  description: A mythical figure, described in the passage as the animal whose life
+    M'wam'bia saved and who prompts him to name a reward.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: wives / women
+  description: Women or wives described as obtainable through livestock payment in
+    social practice and requested as a reward in the folk-tale reference.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: livestock-owning wealth holders
+  assigned_to:
+  - fig:1
+  basis: The passage says most Akikuyu possess goats and sheep, that cattle are valued
+    property, and that flocks and herds embody wealth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: reward recipient
+  assigned_to:
+  - fig:2
+  basis: M'wam'bia is asked to state what he wants as a reward after saving the animal's
+    life.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: mythical reward-giver
+  assigned_to:
+  - fig:3
+  basis: The saved animal or mythical N'jen'ge tells M'wam'bia to name his desired
+    reward and grants his requests.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: desired spouses or reward
+  assigned_to:
+  - fig:4
+  basis: Wives are described as purchased with livestock, and M'wam'bia asks for women
+    after asking for goats.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: livestock as wealth
+  literal_form: goats, sheep, cattle, flocks, and herds
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: milk
+  literal_form: milk from living livestock
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: goat as unit of value
+  literal_form: goat; thirteen goats to one head of cattle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Valuation of flocks and herds
+  summary: The passage describes the Akikuyu as agricultural people who also own goats,
+    sheep, and some cattle, and it states that livestock is prized especially as wealth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Livestock used in bridewealth and valuation
+  summary: Livestock accumulation is connected to wife purchase, and goats are used
+    as a unit of value for wife purchase and ivory transactions.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:3
+  label: M'wam'bia's folktale reward
+  summary: A brief folktale reference describes M'wam'bia saving a mythical animal
+    or being, being offered a reward, asking for goats and women, and then saying
+    he desires nothing more.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: livestock bridewealth exchange
+  taxonomy_refs: []
+  basis: The passage states that accumulating livestock serves the purchase of wives
+    and that goats provide the reckoning unit for such payments.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is presented chiefly as ethnographic social practice, not explicitly
+    as a mythic or sacred episode.
+- id: motif:2
+  label: saved mythical animal rewards rescuer
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The folktale reference says M'wam'bia saved the animal's life and was invited
+    to name rewards, receiving goats and women.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only a brief allusion to the folktale and does not provide
+    the full narrative context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4914-4921
+  quote_or_summary: The Akikuyu are mainly agricultural; most possess goats and sheep,
+    cattle are held by few, and livestock is prized for milk alive and flesh and hides
+    dead.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: 4921-4926
+  quote_or_summary: Livestock are described as appreciated chiefly as "the embodiment
+    of wealth," with flocks and herds compared to gold for a European.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:3
+  type: summary
+  locator: 4926-4931
+  quote_or_summary: One chief object in accumulating livestock is that they may be
+    used for purchasing wives; the author links this to a realistic element in recorded
+    folk tales.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 4931-4939
+  quote_or_summary: In the folk-tale reference, M'wam'bia has saved the animal's life;
+    the mythical N'jen'ge or animal asks what reward he wants, and he asks first for
+    goats and then for women before saying he wants nothing more.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 4940-4943
+  quote_or_summary: The goat is the unit of value; wife purchase and ivory negotiations
+    are reckoned in goats, actual payment may use cattle, sheep, and goats, and the
+    goat-to-cattle ratio is 13 to 1.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The ethnographic content is explicit. Motif identification is cautious because
+    the passage contains only a brief folktale allusion and is mainly about livestock
+    valuation and exchange practices. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. The identification of N'jen'ge with the saved animal follows the wording of the passage but should be checked against the full folk-tale context.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-akikuyu-prehistoric-people-routledge-archive__l4914-l4943
+  passage_sha256=98874a9fa72b5138f193c79c6a51eebdb2196954282e3e439c53d380bcf644f2
+

@@ -1,0 +1,187 @@
+---
+record_id: batch.motif.african-reynard-the-fox-hottentot-bleek-archive-l6994-l7143
+source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+passage_locator:
+  label: A    CATALOGUE / PUBLISHED   BT / THROUGH    THE    STATES    OF    NEW    YORK
+    / COXTEXTS :; lines 6994-7143
+  start: '6994'
+  end: '7143'
+  translation: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a publisher catalogue section listing works by R. W. Mackay,
+    Horace Mann, and Francis William Newman, with prices, formats, tables of contents,
+    and quoted reviews. One review of Mackay's work mentions the history of a theory
+    of mediation from early mythical embodiments, but the passage does not itself
+    narrate a myth or folktale episode.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists R. W. Mackay's "Intellectual Religion" as an introductory
+    chapter to "The Progress of the Intellect, as Exemplified in the Religious Development
+    of the Greeks and Hebrews."
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists Mackay's "The Progress of the Intellect" as a two-volume
+    work on the religious development of the Greeks and Hebrews.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A quoted review says Mackay's work includes analysis and history of a theory
+    of mediation from early mythical embodiments.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage lists Mackay's "The Rise and Progress of Christianity" and gives
+    contents including early Christianity, the Pauline controversy, Catholicity, the
+    origin of the Church, dogma, the Papacy, and Church theology.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage lists Horace Mann's lecture "A Few Thoughts for A Young Man."
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage lists works by Francis William Newman, including "Catholic Union"
+    and "Phases of Faith; or Passages from the History of My Creed," with quoted reviews.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: R. W. Mackay
+  description: Named author of works on intellectual religion, religious development,
+    and Christianity.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Horace Mann
+  description: Named author of a lecture titled "A Few Thoughts for A Young Man."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Francis William Newman
+  description: Named author of "Catholic Union" and "Phases of Faith."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Trübner & Co.
+  description: Publisher or bookseller named with the address 60, Paternoster Row.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: named author
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The catalogue attributes listed books or lectures to these named persons.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: publisher or bookseller
+  assigned_to:
+  - fig:4
+  basis: The passage names Trübner & Co. with a commercial address in the catalogue
+    context.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Publisher catalogue listings
+  summary: The passage presents a sequence of catalogue entries for books and lectures,
+    including bibliographic details, prices, contents, and excerpts from reviews.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6994-7032
+  quote_or_summary: Catalogue entries name Trübner & Co.; list Mackay's "Intellectual
+    Religion" and "The Progress of the Intellect, as Exemplified in the Religious
+    Development of the Greeks and Hebrews," with bibliographic details.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: quote
+  locator: lines 7033-7057
+  quote_or_summary: A review states that Mackay's work includes "the analysis and
+    history of the theory of mediation, from its earliest mythical embodiments."
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 7058-7095
+  quote_or_summary: Catalogue entry for Mackay's "The Rise and Progress of Christianity"
+    gives contents on early Christianity, Pauline controversy, Catholicity, the Church,
+    dogma, Papacy, and theology, followed by review excerpts.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 7096-7101
+  quote_or_summary: Catalogue entry lists Horace Mann's "A Few Thoughts for A Young
+    Man," described as a lecture delivered before the Boston Mercantile Library Association.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 7102-7143
+  quote_or_summary: Catalogue entries list Francis William Newman's "Catholic Union"
+    and "Phases of Faith," followed by review excerpts about the latter work.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is catalogue/back matter and contains no Khoekhoe tale episode
+    or extractable mythic motif. The only myth-related phrase is a secondary review
+    reference to early mythical embodiments, not a narrative motif in this passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No candidate motifs or symbols were extracted because the passage does not present a mythic or folktale narrative. Available taxonomy references were not applied.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-reynard-the-fox-hottentot-bleek-archive__l6994-l7143
+  passage_sha256=6285668536a3896fceee574ce36a0b61cde053d47bc5566be5d4535169f13ef0
+

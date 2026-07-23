@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.african-reynard-the-fox-hottentot-bleek-archive-l2531-l2563
+source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+passage_locator:
+  label: TEE  ZEBEA   STALLION.  41 / TEH  LOST  CHILD.  43 / THE  LION  AND  SIS  MOTHER.  49
+    / LION  FABLHS.; lines 2531-2563
+  start: '2531'
+  end: '2563'
+  translation: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: In a lion fable, a Lion and a Woman alternate falling and releasing one
+    another after kinship-addressed speeches. When the Woman falls again, the Lion
+    refuses the formula, eats her, keeps her skin whole, wears her skin, dress, and
+    ornaments, goes to her kraal looking like a woman, and refuses a little sister's
+    request for milk.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Lion jumps upon the Woman, and she asks him to rise from her using the
+    address “My Uncle.”
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Lion and the Woman hunt each other again; when the Lion falls, the Woman
+    jumps upon him, and he asks her to rise from him using the address “My Aunt.”
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After another round, the Woman falls again and repeats the conjuration, but
+    the Lion responds by questioning whether it is morning and time to rise.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Lion eats the Woman while leaving her skin whole.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Lion puts on the Woman's skin, dress, and ornaments so that he looks like
+    a woman, then goes to her kraal.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The arriving figure is described as a counterfeit woman; the little sister
+    asks her for milk, and she refuses.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The child asks the Mother of the kraal for milk, and the Mother tells her
+    to go to her sister.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: The Lion hunts with the Woman, is once released after a speech, later
+    eats her, wears her skin, dress, and ornaments, and returns to the kraal as a
+    counterfeit woman.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Woman
+  description: The Woman participates in the hunt, uses a conjuration asking the Lion
+    to rise, falls again, and is eaten; her skin, dress, and ornaments are used by
+    the Lion.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: little sister / child
+  description: A crying little sister addresses the counterfeit woman as her sister
+    and asks for milk, then asks the Mother of the kraal.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Mother of the kraal
+  description: The Mother is addressed by the child and tells the child to go to her
+    sister.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: reciprocal hunter or contest participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Lion and Woman hunt each other, fall, and jump upon one another in turn.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: devourer and impersonator
+  assigned_to:
+  - fig:1
+  basis: The Lion eats the Woman, wears her skin, dress, and ornaments, and appears
+    as a counterfeit woman at the kraal.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: devoured victim
+  assigned_to:
+  - fig:2
+  basis: The Woman is eaten, and her intact skin and clothing are used by the Lion.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: milk-requesting little sister
+  assigned_to:
+  - fig:3
+  basis: The little sister cries and asks the apparent sister and then the Mother
+    for milk.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: mother of the kraal
+  assigned_to:
+  - fig:4
+  basis: The child addresses her as Mother, and the narration calls her the Mother
+    of the kraal.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: milk requested by child
+  literal_form: milk
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: victim's skin and adornment disguise
+  literal_form: the Woman's whole skin, dress, and ornaments worn by the Lion
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: reciprocal hunt and release formula
+  summary: The Lion and Woman hunt each other; each falls in turn, and kinship-addressed
+    speeches ask the one on top to rise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: devouring and disguise
+  summary: The Lion refuses the repeated conjuration, eats the Woman, preserves her
+    skin, wears her skin, dress, and ornaments, and goes to her kraal looking like
+    a woman.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: counterfeit woman's arrival at the kraal
+  summary: The counterfeit woman arrives; the little sister asks for milk and is refused,
+    then asks the Mother, who directs her back to her sister.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: reciprocal contest governed by release speech
+  taxonomy_refs: []
+  basis: The Lion and Woman alternate falling and being jumped upon, and the one beneath
+    speaks a set request to be released.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage calls the speech a conjuration, but this excerpt does not
+    explain its wider rules or origin.
+- id: motif:2
+  label: predator impersonates devoured human by wearing the victim's skin and clothing
+  taxonomy_refs:
+  - shapeshifter
+  basis: The Lion eats the Woman, leaves her skin whole, wears her skin, dress, and
+    ornaments, and looks like a woman.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The transformation is described as physical disguise rather than explicit
+    magical shapeshifting.
+- id: motif:3
+  label: counterfeit relative enters the household
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Lion returns to the Woman's kraal as a counterfeit woman and is addressed
+    by the little sister as her sister.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The excerpt ends mid-dialogue, so the consequences of the impersonation
+    are not included.
+comparison_claims:
+- id: claim:1
+  claim: The Lion's use of the Woman's intact skin, dress, and ornaments is visually
+    similar to a shapeshifter or animal-as-human disguise pattern.
+  claim_level: visual_similarity
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage describes disguise by wearing remains and clothing, not
+    an explicit supernatural change of form or a historical relationship to another
+    tradition.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2533-2537
+  quote_or_summary: The Lion jumps upon her; she says, “My Uncle! it is morning, and
+    time to rise; Pray, rise from me!”
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; brief quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2539-2544
+  quote_or_summary: They hunt each other again; when the Lion falls and the Woman
+    jumps upon him, he asks, “My Aunt,” to rise from him.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized with brief quoted phrase.
+- id: ev:3
+  type: summary
+  locator: lines 2546-2550
+  quote_or_summary: They rise and hunt again; the Woman falls, repeats the conjuration,
+    and the Lion replies by asking whether it is morning and time to rise.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2552-2555
+  quote_or_summary: The Lion eats her, keeps her skin whole, puts on her skin, dress,
+    and ornaments, looks like a woman, and goes to her kraal.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2557-2560
+  quote_or_summary: The counterfeit woman arrives; the little sister cries and asks
+    her sister to pour out milk, but the counterfeit refuses.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 2560-2563
+  quote_or_summary: The child asks the Mother for milk, and the Mother of the kraal
+    tells her to go to her sister; the passage ends mid-sentence.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage begins mid-action and ends mid-sentence, with OCR-like irregularities
+    in several words; core actions and figures are still clear.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-reynard-the-fox-hottentot-bleek-archive__l2531-l2563
+  passage_sha256=e7bfbb1dbe21f8839683df86bd706e62579bc869db44c8088321bcdfb651ab0d
+

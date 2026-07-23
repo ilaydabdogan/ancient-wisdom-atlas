@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l2593-l2680
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: RING-TAILED  LEMUR.  41 / THE  A  YE- A  YE. / THE  CARNIVORA.  45 / THE  UNGULATA.  47;
+    lines 2593-2680
+  start: '2593'
+  end: '2680'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage surveys several animal groups in Madagascar: a river-hog related
+    to an African species, sub-fossil hippopotamus remains, abundant rodents, and
+    the distinctive, taxonomically puzzling bird life of the island. It emphasizes
+    ecological habitats, extinction, abundance, island endemism, and biogeographical
+    affinities rather than mythic narrative.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A river-hog is described as closely allied to an African species and as having
+    distinctive physical features, including high withers, a low back, little hair,
+    and a facial tubercle supported by bone.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author reports seeing tracks of the river-hog in forest, where it digs
+    for roots and can damage plantations near woods.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Wallace is cited as suggesting that the river-hog’s presence in Madagascar
+    may be explained by the swimming powers of swine and the semi-aquatic habits of
+    the genus.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Grandidier discovered sub-fossil bones of a small hippopotamus species in
+    south-west Madagascar, indicating that it formerly inhabited the island.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that Madagascar’s maritime plains, rivers, and lagoons
+    seem suited to hippopotamus habits, making its extinction difficult to explain.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Rodents in Madagascar are represented by three genera with one Muridae species
+    each, and inhabited areas are said to swarm with rats and mice.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says Madagascar is richer in birds than mammals, while lacking
+    several large or brightly colored bird groups found elsewhere.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage reports 88 genera and 111 species of land-birds, many peculiar
+    to Madagascar and difficult to classify.
+  category: attribute
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: Wallace is cited as saying that only 12 of 111 Madagascar land-birds are identical
+    with species on adjacent continents, and that many affinities point to South Asia,
+    Malaya, South America, or Pacific Islands rather than only Africa.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: river-hog
+  description: A Madagascar river-hog, closely allied to an African species, described
+    physically and by its tracks and root-digging behavior.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: small hippopotamus species
+  description: A small hippopotamus, named in the passage as H. lemerlii, known from
+    sub-fossil bones in south-west Madagascar.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: rats and mice
+  description: Rodents of Madagascar, described as abundant in inhabited parts of
+    the country.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Madagascar land-birds
+  description: Birds of Madagascar, especially land-birds, described as numerous,
+    distinctive, often peculiar to the island, and sometimes difficult to classify.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: M. Grandidier
+  description: The naturalist credited with discovering sub-fossil hippopotamus bones
+    in south-west Madagascar.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Mr. Wallace
+  description: The cited authority who offers explanations and statistics concerning
+    Madagascar’s animal distribution and bird affinities.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:6
+roles:
+- id: role:1
+  label: semi-aquatic mammal with African affinity
+  assigned_to:
+  - fig:1
+  basis: The river-hog is said to be closely allied to an African species, and Wallace
+    attributes its presence to swimming powers and semi-aquatic habits.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: sub-fossil former island inhabitant
+  assigned_to:
+  - fig:2
+  basis: Sub-fossil bones indicate that a small hippopotamus formerly inhabited Madagascar.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: abundant inhabited-area animals
+  assigned_to:
+  - fig:3
+  basis: The inhabited parts of the country are said to swarm with rats and mice.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: peculiar and isolated island fauna
+  assigned_to:
+  - fig:4
+  basis: The birds are described as having many peculiar genera, isolated forms, and
+    uncertain affinities.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: discoverer of sub-fossil remains
+  assigned_to:
+  - fig:5
+  basis: Grandidier is credited with discovering the hippopotamus bones.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: cited biogeographical authority
+  assigned_to:
+  - fig:6
+  basis: Wallace is cited for explanations of river-hog immigration and for observations
+    on Madagascar bird distribution.
+  evidence_refs:
+  - ev:2
+  - ev:6
+symbols:
+- id: sym:1
+  label: water habitat
+  literal_form: river, lagoon, swimming, and semi-aquatic habits
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: forest feeding ground
+  literal_form: forest, roots, and plantations near woods
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: island endemism
+  literal_form: peculiar genera and isolated land-bird forms in Madagascar
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: River-hog description and possible immigration
+  summary: The passage describes the river-hog’s appearance and forest behavior, then
+    cites Wallace’s suggestion that swimming and semi-aquatic habits may explain its
+    presence in Madagascar.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sub-fossil hippopotamus and extinction problem
+  summary: Grandidier’s discovery of sub-fossil hippopotamus bones is presented as
+    evidence of a former island inhabitant, while the author notes that suitable river
+    and lagoon habitats make its extinction puzzling.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Rodent abundance in inhabited areas
+  summary: The passage briefly surveys Madagascar rodents and notes that rats and
+    mice are abundant enough to become a common subject of traveller tales.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Distinctive bird life and uncertain affinities
+  summary: The passage turns to birds, emphasizing the island’s richness in land-birds,
+    the absence of some well-known bird groups, and the unusual number of peculiar
+    or isolated forms with affinities beyond Africa.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2593-2612
+  quote_or_summary: The river-hog is described as closely allied to an African species;
+    the author notes its appearance, tracks in forest, root-digging behavior, and
+    damage to plantations near woods.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2612-2619
+  quote_or_summary: Wallace is cited as proposing that swine swimming powers and semi-aquatic
+    habits could explain the river-hog’s immigration to Madagascar at a later period
+    than other mammals.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2620-2633
+  quote_or_summary: The passage says Grandidier found sub-fossil bones of a small
+    hippopotamus in south-west Madagascar, indicating former habitation; rivers and
+    lagoons are described as suitable habitat, making extinction hard to account for.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2634-2645
+  quote_or_summary: Rodentia are said to be represented by three genera with one Muridae
+    species each; inhabited parts of the country are described as swarming with rats
+    and mice, a common traveller’s tale.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2646-2660
+  quote_or_summary: Madagascar is described as richer in birds than mammals, lacking
+    some large or striking tropical bird groups but having many perching birds and
+    other remarkable forms; 88 genera and 111 species of land-birds are reported.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2660-2680
+  quote_or_summary: Wallace is cited on the unusual number of peculiar bird genera,
+    isolated classification problems, and affinities with South Asia, Malaya, South
+    America, and Pacific Islands; only 12 of 111 land-birds are said to match adjacent
+    continents.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a natural-history survey rather than a mythic narrative. Literal
+    extraction is high confidence; no mythological motifs or passage-supported mythology
+    comparisons were identified.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Taxonomy symbol reference to water is used only for literal river, lagoon, swimming, and semi-aquatic habitat language; no symbolic or mythic interpretation is asserted.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l2593-l2680
+  passage_sha256=6e6e2de877444c0a85a2c3306fe3ceab27243761e0c32c2baef0fe7641c29feb
+

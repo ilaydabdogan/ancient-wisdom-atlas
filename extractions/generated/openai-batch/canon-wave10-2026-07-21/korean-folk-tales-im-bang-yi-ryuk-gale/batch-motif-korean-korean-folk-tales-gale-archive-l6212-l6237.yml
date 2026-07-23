@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.korean-korean-folk-tales-gale-archive-l6212-l6237
+source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+passage_locator:
+  label: FAITHFUL  MO / FAITHFUL  MO / XLVII / THE  RENOWNED  MAING; lines 6212-6237
+  start: '6212'
+  end: '6237'
+  translation: Korean Folk Tales - Imps, Ghosts and Fairies
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Maing Sa-song, a Minister of State traveling south in plain clothes, takes
+    shelter from rain in a side pavilion. A young scholar, Whang Eui-hon, is there
+    reading an inscription board of verses. Whang addresses Maing as an old man and
+    asks whether he understands the verses. Maing pretends ignorance and asks for
+    an explanation. Whang says the verses were written by great men of the past from
+    their experiences to inspire later people. The passage ends mid-sentence.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Maing Sa-song is identified as a Minister of State who begins a southward
+    journey dressed in plain clothes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rain overtakes Maing on the road, and he enters a side pavilion for rest and
+    shelter.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A young scholar named Whang Eui-hon is already in the pavilion, standing with
+    his hands behind his back and reading an inscription board with verses.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Whang reads and looks around for a long time as though no one else is present.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Whang addresses Maing as “grand-dad” and asks whether he knows the flavour
+    of the verses.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Maing, described as the famous Minister, pretends ignorance, calls himself
+    an old countryman, and asks Whang to explain the meaning.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Whang says the verses were written by great men of the past from what they
+    saw and experienced, in order to inspire the souls of those who came after them.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Maing Sa-song
+  description: Minister of State; famous Minister; traveling in plain clothes; pretends
+    ignorance in conversation with Whang.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Whang Eui-hon
+  description: Young scholar in the pavilion who reads the inscription board and explains
+    the verses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: great men of the past
+  description: Past figures named in Whang’s speech as the writers of the verses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: minister traveling in plain clothes
+  assigned_to:
+  - fig:1
+  basis: Maing is introduced as Minister of State and as dressed in plain clothes
+    on a southward journey.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: feigned ignorant listener
+  assigned_to:
+  - fig:1
+  basis: The passage states that the famous Minister pretends ignorance and asks Whang
+    to explain.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: young scholar and reader of verses
+  assigned_to:
+  - fig:2
+  basis: Whang is named as a young scholar who reads the pavilion inscription board
+    and speaks about the verses.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: past authors of instructive verses
+  assigned_to:
+  - fig:3
+  basis: Whang says the verses were written by great men of the past to inspire later
+    souls.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: plain clothes
+  literal_form: Plain clothes worn by Maing during his journey.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rain
+  literal_form: Rain overtaking Maing on the road and causing him to seek shelter.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: pavilion inscription board with verses
+  literal_form: An inscription board in the pavilion on which verses were written.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Journey and rain shelter
+  summary: Maing Sa-song travels south in plain clothes and, when overtaken by rain,
+    enters a side pavilion for shelter.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Encounter before the inscription board
+  summary: Inside the pavilion, Whang Eui-hon reads the inscription board with verses
+    and then questions Maing about whether he understands them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Feigning ignorance and explanation of verses
+  summary: Maing pretends ignorance and asks for the meaning; Whang explains that
+    the verses were written by great men of the past to inspire later people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: High-status figure concealed in humble appearance
+  taxonomy_refs:
+  - wisdom
+  basis: Maing is a famous Minister of State but appears in plain clothes and pretends
+    ignorance when addressed by the young scholar.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt does not include the outcome of the encounter, so any test,
+    revelation, or reversal is not inferred.
+- id: motif:2
+  label: Written words of past masters as transmitted wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Whang describes the verses as records by great men of the past, based on
+    their experiences and meant to inspire later souls.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The final sentence is truncated at “They are like pic-,” so no further
+    metaphor is extracted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6212-6237
+  quote_or_summary: The passage is titled “THE RENOWNED MAING”; Maing Sa-song is introduced
+    as a Minister of State who begins a southward journey dressed in plain clothes.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 6212-6237
+  quote_or_summary: Rain overtakes Maing on the way, and he turns into a side pavilion
+    for rest and shelter.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 6212-6237
+  quote_or_summary: A young scholar, Whang Eui-hon, is already in the pavilion, standing
+    with his hands behind his back and reading a pavilion inscription board with verses.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 6212-6237
+  quote_or_summary: "“Well, grand-dad, do you know the flavour of verses like these?”"
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 6212-6237
+  quote_or_summary: The famous Minister pretends ignorance, calls himself an old countryman,
+    and asks Whang to tell him the meaning.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 6212-6237
+  quote_or_summary: Whang says the verses were written by great men of the past from
+    what they saw and experienced, to inspire the souls of those who came after them.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is clear for the supplied lines. Motif confidence is limited
+    because the passage ends mid-sentence and does not include the full outcome of
+    the encounter. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. The incomplete final sentence ending “They are like pic-” was not interpreted beyond the visible text.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-folk-tales-gale-archive__l6212-l6237
+  passage_sha256=ae6a5b46e54e6919c9eadc904a49f2213b80e5337fa004106d4bb5afae84d8a2
+

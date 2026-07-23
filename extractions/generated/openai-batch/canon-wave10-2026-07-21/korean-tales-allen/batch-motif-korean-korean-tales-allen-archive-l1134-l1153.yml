@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.korean-korean-tales-allen-archive-l1134-l1153
+source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+passage_locator:
+  label: THE  RABBIT  AND  OTHER  LEGENDS.  37 / THE  RABBIT  AND  OTHER  LEGENDS.  39
+    / THE  ENCHANTED  WINE-JUG; / OR,  WHY  THE  CAT  AND  DOG  ARE  ENEMIES.; lines
+    1134-1153
+  start: '1134'
+  end: '1153'
+  translation: Korean Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens a tale titled “The Enchanted Wine-Jug; or, Why the Cat
+    and Dog Are Enemies.” In ancient times, an old, gray-haired, childless, poor but
+    honest man keeps a small wine-shop by a river ferry landing. The shop has a local
+    reputation for excellent wine and for forbidding quarrels. The old man appears
+    mysteriously ageless, and his wine never runs out.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage title identifies the tale as concerning an enchanted wine-jug
+    and the reason the cat and dog are enemies.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An old gray-haired man lives by the river bank where ferry-boats land.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The old man is described as poor, honest, childless, and compelled to earn
+    his own food.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The old man keeps a small wine-shop with a local reputation.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The old man permits no quarrelling on his premises.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The shop sells only one brand of wine, described as excellent in quality.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The old man prefers customers who bring long-necked bottles and carry the
+    drink home.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The wine-shop is described as having peculiarities or mysteries.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The old man appears always to have been there and never to have seemed younger.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The old man’s wine never gives out, no matter how great the local thirst is.
+  category: attribute
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: old gray-haired man
+  description: A poor but honest, childless old man who keeps a small wine-shop by
+    the river ferry landing.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: customers
+  description: People who may bring long-necked bottles and carry wine away to their
+    homes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: cat and dog
+  description: Named in the subtitle as enemies, though not yet active in the excerpted
+    narrative.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: wine-shop keeper
+  assigned_to:
+  - fig:1
+  basis: The old man keeps a small wine-shop.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: mysteriously ageless proprietor
+  assigned_to:
+  - fig:1
+  basis: The passage says he had apparently always been there and had never seemed
+    any younger.
+  evidence_refs:
+  - ev:9
+- id: role:3
+  label: wine customers
+  assigned_to:
+  - fig:2
+  basis: The passage refers to customers who bring bottles and take the drink home.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: named animal enemies
+  assigned_to:
+  - fig:3
+  basis: The subtitle states that the tale explains why the cat and dog are enemies.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: enchanted wine-jug
+  literal_form: wine-jug named in the title as enchanted
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: inexhaustible wine
+  literal_form: wine that never gives out
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:3
+  label: river bank
+  literal_form: river’s bank where ferry-boats land
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: long-necked bottles
+  literal_form: little long-necked bottles brought by customers
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Opening setting at the riverside wine-shop
+  summary: An old gray-haired man lives by a river ferry landing and runs a small
+    wine-shop known locally for excellent wine and orderly premises.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:2
+  label: Mystery of the shop and proprietor
+  summary: 'The shop is said to have peculiar or mysterious qualities: the proprietor
+    seems ageless, and the wine never runs out.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: inexhaustible magical supply
+  taxonomy_refs: []
+  basis: The wine never gives out regardless of local demand, and the title identifies
+    an enchanted wine-jug.
+  evidence_refs:
+  - ev:1
+  - ev:10
+  confidence: medium
+  cautions: The excerpt does not yet describe the jug’s operation or explicitly connect
+    the inexhaustible wine to the jug.
+- id: motif:2
+  label: mysteriously ageless shopkeeper
+  taxonomy_refs: []
+  basis: The proprietor appears to have always been at the shop and never to have
+    seemed younger.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage presents this as a mystery but does not explain whether it
+    is supernatural.
+- id: motif:3
+  label: etiology of cat and dog enmity
+  taxonomy_refs: []
+  basis: The subtitle frames the tale as explaining why the cat and dog are enemies.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Only the title/subtitle supports this motif in the provided excerpt; the
+    narrative explanation is not included in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1134-1137
+  quote_or_summary: "“THE ENCHANTED WINE-JUG; OR, WHY THE CAT AND DOG ARE ENEMIES.”"
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 1138-1140
+  quote_or_summary: An old gray-haired man lives by the river bank where ferry-boats
+    land.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 1140-1142
+  quote_or_summary: The man is poor but honest, childless, and must earn his own food.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 1142-1144
+  quote_or_summary: He keeps a small wine-shop with a local reputation.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 1144-1146
+  quote_or_summary: The proprietor allows no quarrelling on the premises.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 1146-1148
+  quote_or_summary: He sells only one brand of wine, described as excellent.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: 1150-1152
+  quote_or_summary: He prefers customers who bring little long-necked bottles and
+    carry the drink home.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: 1152-1153
+  quote_or_summary: The wine-shop is described as having peculiarities, almost mysteries.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: '1153'
+  quote_or_summary: The old man had apparently always been there and had never seemed
+    any younger.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: '1153'
+  quote_or_summary: His wine never gave out, no matter how great the local thirst
+    might be.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The opening passage is clear for setting, figures, and mysterious wine-shop
+    features. Motif identification is limited because the excerpt ends before the
+    enchanted jug or animal-enmity plot develops.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the excerpt itself does not support a specific cross-textual comparison beyond general motif labels.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-tales-allen-archive__l1134-l1153
+  passage_sha256=6bc8e4d277357cd6fb6d05238896c5b6e576115ca20c1add00be1b69d86d7b8c
+

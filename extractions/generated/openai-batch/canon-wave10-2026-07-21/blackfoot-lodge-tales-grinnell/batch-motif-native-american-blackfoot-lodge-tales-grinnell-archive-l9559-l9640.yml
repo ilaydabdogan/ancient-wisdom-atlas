@@ -1,0 +1,483 @@
+---
+record_id: batch.motif.native-american-blackfoot-lodge-tales-grinnell-archive-l9559-l9640
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+passage_locator:
+  label: HUNTING  227 / HUNTING  229 / HUNTING  231 / HUNTING  233; lines 9559-9640
+  start: '9559'
+  end: '9640'
+  translation: Blackfoot Lodge Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Blackfoot/Pi-kun''-i buffalo hunting methods: mounted
+    men guide a herd toward camp by riding parallel to it, people charge the winded
+    herd near camp, hunters sometimes surround buffalo on foot and exhaust them, lodges
+    may be set up as a corral, and seasonal movements and preparations around buffalo
+    and pis''kuns are described. The passage also states that one encirclement method
+    closely corresponds to an early Pawnee buffalo-killing method before horses.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fresh horses were supplied at intervals to men bringing the buffalo herd.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mounted men approached a buffalo herd on a flat, then rode parallel to the
+    herd and matched its gait as it moved from walking to trotting, loping, and running.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The riders kept at a distance from the herd and changed sides behind the herd
+    when needed to keep it moving on the desired course toward camp.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the herd neared camp, many buffalo were winded, and people waiting in
+    the rolling hills charged them, causing the herd to break up.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When buffalo were not in a favorable place for driving over a cliff or into
+    a pen, hunters could surround the herd on foot on a calm day.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In the foot-surrounding method, the hunters startled the buffalo, kept them
+    inside the circle, let them mill around until exhausted, and then shot them down.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that this foot-surrounding buffalo-killing method corresponds
+    almost exactly with a Pawnee method used before horses.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Pi-kun'-i sometimes surrounded buffalo and set lodges around them, making
+    a practical corral of lodges.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Buffalo enclosed by lodges ran in a large circle because they were afraid
+    to pass between the lodges, and people killed them after they were exhausted.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: In winter, large numbers of buffalo were killed and prepared as stores of
+    dried meat.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: 'The buffalo moved seasonally: in spring toward flatter prairie away from
+    the pis''kuns, and as winter approached back close to the mountains; the Blackfeet
+    followed them as food became scarce.'
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: In late summer and early autumn, runners looked for buffalo and tracked their
+    movements, and in early autumn the pis'kuns were repaired and strengthened for
+    winter.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: buffalo herd
+  description: The herd of buffalo being driven, surrounded, exhausted, or killed
+    in the described hunting methods.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: mounted men / riders
+  description: Men on horses who ride parallel to the herd, match its pace, and guide
+    its course toward camp.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: people / Indians / Blackfeet / Pi-kun'-i
+  description: The collective hunting community that waits near camp, surrounds buffalo,
+    builds a corral of lodges, kills buffalo, stores dried meat, follows seasonal
+    buffalo movement, and repairs pis'kuns.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: runners
+  description: People sent out in late summer and early autumn to find the buffalo
+    and determine where they were moving.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Pawnees
+  description: A group mentioned as having used an early buffalo-killing method before
+    horses that the passage says corresponds almost exactly to the described foot-surrounding
+    method.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: driven and enclosed herd
+  assigned_to:
+  - fig:1
+  basis: The buffalo are guided by riders, surrounded, made to run or mill until exhausted,
+    and then killed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:2
+  label: mounted herd drivers
+  assigned_to:
+  - fig:2
+  basis: The men on horses keep pace beside the herd, maintain distance, and shift
+    position to direct its course.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: communal hunters
+  assigned_to:
+  - fig:3
+  basis: The people charge, surround, shoot, and kill buffalo in the described methods.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:4
+  label: buffalo scouts
+  assigned_to:
+  - fig:4
+  basis: The runners look for buffalo and determine their location and movement.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: seasonal provisioners and pis'kun preparers
+  assigned_to:
+  - fig:3
+  basis: The Blackfeet follow seasonal buffalo movement, prepare dried meat, and repair
+    pis'kuns for winter.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:6
+  label: comparative hunting analogue
+  assigned_to:
+  - fig:5
+  basis: The passage explicitly compares the foot-surrounding method to an early Pawnee
+    buffalo-killing method before horses.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: buffalo herd
+  literal_form: a herd of buffalo on a wide flat, later driven, encircled, exhausted,
+    and killed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: horses and fresh horses
+  literal_form: horses ridden by the men and supplied fresh at intervals
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: circle of hunters
+  literal_form: hunters surrounding the herd on foot and preventing it from breaking
+    through the circle
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: lodge corral
+  literal_form: lodges set around buffalo to form a practical corral
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: pis'kuns
+  literal_form: hunting structures repaired and strengthened in early autumn, associated
+    with winter buffalo hunting
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: mountains
+  literal_form: mountains near which buffalo move as winter approaches
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: dried meat stores
+  literal_form: great stores of dried buffalo meat prepared in winter
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: mounted buffalo drive
+  summary: Mounted men approach the herd, ride parallel to it, match its pace, maintain
+    distance, and steer it toward the desired course by changing sides when needed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: charge near camp
+  summary: The herd arrives near camp winded; people waiting in rolling hills charge,
+    and the buffalo scatter in every direction.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: foot encirclement and exhaustion
+  summary: On calm days when a cliff or pen drive is not favorable, hunters surround
+    buffalo on foot, startle them, keep them in a circle, and kill them after exhaustion.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: lodge corral hunt
+  summary: The Pi-kun'-i set lodges around buffalo to form a corral; the buffalo run
+    around inside because they fear passing between the lodges, and the people kill
+    them after they tire.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: seasonal provisioning and preparation
+  summary: The passage describes winter killing and dried meat storage, seasonal buffalo
+    movement between prairie and mountain areas, Blackfeet following the herds, runners
+    scouting, and pis'kuns being repaired for winter.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: coordinated mounted herd drive
+  taxonomy_refs: []
+  basis: Riders keep pace beside the herd at a distance and adjust their position
+    to guide the buffalo toward the desired course near camp.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic hunting pattern rather than a mythic episode in
+    the supplied passage.
+- id: motif:2
+  label: encirclement and exhaustion of animals
+  taxonomy_refs: []
+  basis: Hunters surround the herd, prevent escape, make the buffalo mill or run in
+    circles until exhausted, and then kill them.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage presents this as a practical hunting method; symbolic or ritual
+    meaning is not stated.
+- id: motif:3
+  label: dwelling structures used as a hunting barrier
+  taxonomy_refs: []
+  basis: The Pi-kun'-i set lodges around buffalo, making a corral that the buffalo
+    avoided crossing, causing them to run in a circle until exhausted.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not state a sacred or ceremonial interpretation for the
+    lodges in this context.
+- id: motif:4
+  label: seasonal buffalo movement and winter preparation
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Buffalo move between flat prairie and mountain-adjacent areas by season;
+    the Blackfeet follow them, store dried meat, send runners, and repair pis'kuns
+    for winter.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The seasonal-cycle taxonomy fit is based on subsistence movement and preparation;
+    the passage does not frame it as a cosmological cycle.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the Blackfoot/Pi-kun'-i foot-surrounding method for
+    killing buffalo corresponds almost exactly to a Pawnee buffalo-killing method
+    used before horses.
+  claim_level: same_function
+  target: Pawnee early buffalo-killing method before horses
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides an explicit authorial comparison but gives no
+    detailed Pawnee passage here beyond the statement and citation, so it does not
+    by itself establish historical contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9559-9561
+  quote_or_summary: Fresh horses are supplied at intervals to the men bringing the
+    buffalo herd.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 9563-9588
+  quote_or_summary: Men approach the buffalo on a wide flat, ride parallel to the
+    herd as its pace increases, keep about half a mile away and never nearer than
+    about four hundred yards, and shift behind the herd to keep it on the desired
+    course.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 9590-9595
+  quote_or_summary: Near camp, many buffalo are winded; the herd is led among rolling
+    hills where people wait and charge, causing the animals to scatter.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 9597-9606
+  quote_or_summary: When buffalo are not in a favorable place for a cliff or pen drive,
+    hunters may surround them on foot on a calm day, startle them, keep them within
+    the circle, let them mill around until exhausted, and shoot them down.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 9606-9610 and footnote
+  quote_or_summary: The passage says the described method corresponds almost exactly
+    with one used by the Pawnees in early days before they had horses, citing Pawnee
+    Hero Stories and Folk-Tales, p. 250.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 9610-9619
+  quote_or_summary: The Pi-kun'-i sometimes surrounded buffalo, set lodges around
+    them to make a corral, frightened the buffalo, and killed them after they ran
+    in a large circle until exhausted.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 9621-9630
+  quote_or_summary: The people had fresh or dried buffalo meat; in winter they killed
+    many buffalo and stored dried meat. In spring buffalo moved to flatter prairie
+    away from pis'kuns, and as winter approached they moved close to the mountains,
+    with the Indians following as food became scarce.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 9631-9640
+  quote_or_summary: In late summer and early autumn, runners searched for buffalo
+    and watched their movements, and in early autumn all pis'kuns were repaired and
+    strengthened for winter.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is ethnographic and concrete, so literal extraction is strong.
+    Motif labels are candidate pattern descriptions rather than claims of mythic symbolism.
+    The comparison to Pawnee practice is explicit but not elaborated in the supplied
+    passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No claims of ritual or symbolic meaning are made beyond what the passage states; most motifs are practical hunting and seasonal-subsistence patterns.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-blackfoot-lodge-tales-grinnell-archive__l9559-l9640
+  passage_sha256=f914beb16be8c6a42be5ad4b7e1adf9c6d9fee12671fb65517651e5d4b4fd0dc
+

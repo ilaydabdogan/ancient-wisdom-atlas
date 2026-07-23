@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.korean-corea-the-hermit-nation-griffis-archive-l9867-l9901
+source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+passage_locator:
+  label: CHILD  LIFE.  259 / CHILD  LIPB.  -261 / CHAPTEE  XXX. / HOUSEKEEPING,   DIET,   AND  COSTUME.;
+    lines 9867-9901
+  start: '9867'
+  end: '9901'
+  translation: Corea, the Hermit Nation
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Korean domestic architecture, settlement layout,
+    roofing materials, walls, gateways, roof forms, and window construction, with
+    brief comparisons to Chinese and Japanese architectural features.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Korean architecture is described as less magnificent than that of Japan or
+    China, with few stone ruins despite the country's antiquity.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dwellings are described as tiled or thatched and almost invariably one story
+    high.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In smaller towns, houses are described as scattered rather than arranged in
+    regular streets; in cities and the capital, streets are described as narrow and
+    tortuous.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: In rural areas, houses of the wealthy are described as set in groves with
+    gardens surrounded by hedges or fences of rushes or split bamboo.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Red-tiled roofs in cities are described as an honor allowed only to officials
+    and nobles.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Thatching is described as made from rice or barley straw, cut close, with
+    ample eaves and often neat finishing.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A low uncemented stone wall, five or six feet high, is described as surrounding
+    the dwelling.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Walls may be surmounted by bamboo or rush ramparts, wattle with white plaster,
+    and gateways with arched tiled roofing.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Some roofs are described as curved and pagoda-like, with a heavy central ridge
+    and projecting fire-hardened clay ornaments.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Doors, windows, and lintels are described as usually rectangular, and bamboo
+    is described as a common material for window frames.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Korean dwellings or houses
+  description: Domestic structures described as tiled or thatched, generally one story
+    high, and sometimes surrounded by walls, gardens, and roofed gateways.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Officials and nobles
+  description: Social groups said to be allowed the red-tiled roof as a sumptuary
+    honor.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: The wealthy in rural parts
+  description: Owners or occupants of rural houses described as surrounded by groves,
+    gardens, hedges, or fences.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: domestic architectural subject
+  assigned_to:
+  - fig:1
+  basis: The passage centers on the form, materials, and layout of Korean houses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: holders of red-roof privilege
+  assigned_to:
+  - fig:2
+  basis: The text states that red-tiled roofs are allowed only to officials and nobles.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: wealthy rural householders
+  assigned_to:
+  - fig:3
+  basis: The passage identifies the rural houses being described as houses of the
+    wealthy.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: red-tiled roof as status marker
+  literal_form: red-tiled roofs
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: enclosed dwelling compound
+  literal_form: low stone wall, bamboo or rush rampart, gateway with arched tiled
+    roofing
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: curved pagoda-like roof form
+  literal_form: curved roof with heavy central ridge and projecting fire-hardened
+    clay ornaments
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: General description of Korean domestic architecture
+  summary: The passage describes Korean houses as generally one-story, tiled or thatched,
+    and situated in settlements with irregular or narrow streets.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rural estates and roof status
+  summary: Rural houses of the wealthy are described among groves and gardens, while
+    city red-tiled roofs are described as restricted to officials and nobles.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Walls, gateways, and roof forms
+  summary: The passage describes enclosing walls, bamboo or rush ramparts, tiled gateways,
+    curved roof forms, and rectangular openings with bamboo window frames.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: status-marked architecture through restricted roofing
+  taxonomy_refs: []
+  basis: The passage explicitly identifies red-tiled roofs as a sumptuary honor reserved
+    for officials and nobles.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a social and architectural pattern, not a mythological narrative
+    motif.
+- id: motif:2
+  label: enclosed household compound
+  taxonomy_refs: []
+  basis: The dwelling is described as surrounded by a low wall and sometimes by additional
+    ramparts, plastered wattle, and a roofed gateway.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage treats this as domestic architecture; no ritual or mythic
+    meaning is stated.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares some Korean roof forms visually to curved, pagoda-like
+    roofs seen in China.
+  claim_level: visual_similarity
+  target: Chinese curved or pagoda-like roof forms
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports only a visual comparison; it does not establish
+    borrowing, influence, or shared symbolic meaning.
+- id: claim:2
+  claim: The passage compares Korean projecting fire-hardened clay roof ornaments
+    to Japanese 'stirrup' or 'devil' tiles.
+  claim_level: visual_similarity
+  target: Japanese 'stirrup' or 'devil' tiles
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports only an analogy in form; it does not state historical
+    contact or common origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9867-9876
+  quote_or_summary: 'Chapter heading and opening description: Korean architecture
+    is said to be primitive compared with Japan and China; dwellings are tiled or
+    thatched, generally one story, with scattered smaller-town houses and narrow,
+    tortuous city streets.'
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 9877-9885
+  quote_or_summary: Rural wealthy houses are described in groves with gardens and
+    hedges or fences; red-tiled roofs are restricted to officials and nobles; thatching
+    is made of rice or barley straw.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 9886-9894
+  quote_or_summary: A low uncemented stone wall surrounds the dwelling; ramparts may
+    be of bamboo, rushes, or plastered wattle, and gateways may have arched tiled
+    roofing.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 9895-9898
+  quote_or_summary: Some roofs are described as curved and pagoda-like, like roofs
+    seen in China, with heavy central ridges and clay ornaments compared to Japanese
+    stirrup or devil tiles.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 9899-9901
+  quote_or_summary: Doors, windows, and lintels are usually rectangular, and bamboo
+    is a common material for window frames.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The architectural details and comparisons are explicit in the supplied passage.
+    Motif candidates are limited because the passage is descriptive ethnography rather
+    than mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family or symbol reference is directly supported by the passage; taxonomy reference arrays are therefore left empty.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-corea-the-hermit-nation-griffis-archive__l9867-l9901
+  passage_sha256=6428e3ab3d503b976188449778936df780e823b0a397b32885681b500e6068cb
+

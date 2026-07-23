@@ -1,0 +1,357 @@
+---
+record_id: batch.motif.korean-korean-tales-allen-archive-l125-l189
+source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+passage_locator:
+  label: Korean Tales / INTRODUCTORY. / INTRODUCTORY.; lines 125-189
+  start: '125'
+  end: '189'
+  translation: Korean Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Introductory prose describing governmental offices, provincial administration,
+    royal inspectors, the Ye Dynasty, court etiquette around the king, revenue, currency,
+    banking practices, land tenure, deeds, and limited testamentary provision.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A body of officials forms the grand council of the King.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Each of the eight provinces is ruled by a governor with subordinate prefects,
+    magistrates, hamlet supervisors, and petty officials.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A government inspector appointed by the King travels in disguise to learn
+    the people's condition and determine whether magistrates abuse office or oppress
+    people.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The inspector may bring abusive magistrates to speedy justice.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The present dynasty is described as 498 years old and as founded by a revolting
+    general named Ye.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The King's name is not used, and he is described as almost sacred to his people.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: High-ranking officials bow to the ground before the King, speak only when
+    addressed, and use a special honorific court language.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Official revenues are paid partly in kind, and the King receives revenue from
+    the sale of ginseng as his private purse.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage describes copper cash, a new mint producing copper, silver, and
+    gold coins, and government-related financial orders through provincial offices.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Unoccupied land belongs to the King, but a man may gain ownership of a homestead
+    after tilling it and paying taxes for three years.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Deeds may be registered with a local magistrate, and a father may make a statement
+    to provide for the children of his concubines, with execution devolving on the
+    eldest son.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: King
+  description: Central ruler associated with the grand council, appointments, court
+    etiquette, revenue, and ultimate claim over unoccupied land.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Government inspector
+  description: A special officer appointed by the King who goes about in disguise
+    to investigate public conditions and magistrates' abuses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Governor
+  description: Ruler of one of the eight provinces, with several classes of subordinate
+    officials under him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Local magistrate
+  description: A local official who may abuse office and oppress people, may be investigated
+    by the government inspector, and may register deeds.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:5
+  name_or_label: Ye
+  description: A revolting general named as the founder of the present dynasty.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: High-ranking court officials
+  description: Officials of sufficient rank to enter the King's presence; they bow,
+    wait to be addressed, and use honorific court language.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: central ruler
+  assigned_to:
+  - fig:1
+  basis: The King has a grand council, appoints special officers, receives specified
+    revenues, and is linked to land ownership rules.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:2
+  label: sacralized monarch
+  assigned_to:
+  - fig:1
+  basis: The passage says the King's name is never used and that he is almost sacred
+    to his people.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: disguised royal inspector
+  assigned_to:
+  - fig:2
+  basis: The inspector is appointed by the King and goes about in disguise to investigate
+    conditions and official abuse.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: provincial ruler
+  assigned_to:
+  - fig:3
+  basis: Each province is said to be ruled by a governor.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: local magistrate
+  assigned_to:
+  - fig:4
+  basis: Magistrates are subordinate officials who may be investigated for abuse and
+    may register deeds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: role:6
+  label: dynasty founder
+  assigned_to:
+  - fig:5
+  basis: The present dynasty is described as founded by the revolting general Ye.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: court attendants
+  assigned_to:
+  - fig:6
+  basis: These officials enter the King's presence and follow prescribed speech and
+    bowing etiquette.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Administrative hierarchy
+  summary: The passage outlines the grand council of the King and the hierarchy of
+    governors, prefects, magistrates, hamlet supervisors, and petty officials across
+    eight provinces.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Disguised inspection and justice
+  summary: A royal inspector travels in disguise to discover the people's condition
+    and whether magistrates oppress them, with authority to bring offenders to justice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dynastic origin and royal etiquette
+  summary: The passage names Ye as founder of the dynasty and describes the King's
+    sacralized status, the non-use of his name, bowing before him, and honorific court
+    speech.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Royal and official revenues
+  summary: The passage describes payments in kind to officials and the King's private
+    revenue from ginseng sales.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Land, deeds, and inheritance provision
+  summary: The passage describes the King's claim over unoccupied land, homestead
+    acquisition after three years of tillage and taxes, deed registration, and a father's
+    provision for concubines' children through a statement executed by the eldest
+    son.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sacralized kingship and royal authority
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage describes the King as almost sacred, states that his name is
+    not used, and presents formal court submission through bowing and honorific speech.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is expository description rather than a mythic or folktale
+    narrative; the taxonomy link is based on royal sacrality and authority, not on
+    an explicit legitimacy myth.
+- id: motif:2
+  label: disguised royal official investigating injustice
+  taxonomy_refs: []
+  basis: The government inspector is appointed by the King, goes about in disguise,
+    investigates popular conditions and abuses by magistrates, and can bring offenders
+    to justice.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents this as an administrative office, not as a narrative
+    episode; no supernatural or explicitly mythic element is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 125-133
+  quote_or_summary: Officials form the King's grand council; each of the eight provinces
+    is ruled by a governor with subordinate prefects, magistrates, hamlet supervisors,
+    and petty officials.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 135-142
+  quote_or_summary: The government inspector's duty is to "go about in disguise" to
+    learn the people's condition and determine whether any magistrate abuses office
+    or oppresses the people; such a magistrate may be brought to speedy justice.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 144-153
+  quote_or_summary: The dynasty has existed 498 years and was founded by a revolting
+    general named Ye; the King's name is never used, he is almost sacred, and officials
+    bow to the ground and use honorific court language before him.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 155-161
+  quote_or_summary: Revenues are paid in kind as well as money; the King receives
+    the revenue from ginseng sales as his private purse.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 163-172
+  quote_or_summary: The passage describes copper cash, new minting of copper, silver,
+    and gold coins, and government financial orders through provincial offices with
+    help from brokers.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 174-180
+  quote_or_summary: Unoccupied land belongs to the King; a man may take a homestead,
+    till it, pay taxes for three years, and then own it, after which the government
+    must purchase it if needed.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 182-189
+  quote_or_summary: Deeds are given as receipts and quit-claims and may be registered
+    with the local magistrate; a father may make a will or statement for concubines'
+    children, executed by the eldest son.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The administrative and court details are explicit. Motif candidates are limited
+    because the passage is introductory ethnographic prose rather than a mythic tale.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy symbol is directly supported by this passage; symbols are therefore left empty.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-tales-allen-archive__l125-l189
+  passage_sha256=d2981a735ab041bfdaeb86fc7ac0d9c2b16f774ac94a539e219e727ed32960d9
+

@@ -1,0 +1,391 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l30615-l30707
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: KATIKA  LIMA / KATIKA  TUJOH / BINTANG  DUA-B'LAS / MAGIC  SQUARES; lines
+    30615-30707
+  start: '30615'
+  end: '30707'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Malay astrological reckoning and divination systems,
+    emphasizing magic squares as mystic numerical-geometrical figures. It notes European
+    and Malay forms of magic squares, a reversed form generally used by Malays, practical
+    use by Malay astrologers, crescent or crescent-and-star start markers, and coloured
+    five-square groupings.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Malay systems of reckoning were treated from an astrological
+    point of view as a basis for divination.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ideas about lucky and unlucky times and seasons are described as mixed with
+    the mystic influence of numbers and geometrical figures.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A magic square is described as a set of numbers arranged in a square so that
+    vertical, horizontal, and diagonal columns produce the same sums.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says an ordinary form of magic square formerly used in Europe
+    is occasionally found among the Malays.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The form of magic square generally used by Malays is described as the same
+    figure reversed.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The ordinary Malay astrologer is said to understand little of the peculiar
+    properties of a magic square and to sometimes make mistakes arranging the figures.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: In divinatory use, the astrologer is said usually to begin at one corner and
+    count straight on.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The beginning place is usually distinguished by a small solitary crescent
+    or by a crescent and star above the square.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Some five-squares use colours, with twenty-five squares divided into five
+    groups of five, each group assigned a different colour.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage refers to a Siamese mode of designating cycle years by animal
+    names as having been adopted.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Malays
+  description: The group described as treating reckoning systems astrologically for
+    divination and as generally using a reversed form of magic square.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: ordinary Malay astrologer
+  description: A practitioner described as using magic squares for divination, often
+    beginning from a marked corner, and sometimes misunderstanding or misarranging
+    the figures.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Siamese
+  description: The passage names a Siamese mode of designating cycle years by animal
+    names.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: users of astrological-divinatory reckoning
+  assigned_to:
+  - fig:1
+  basis: The Malays are described as treating systems of reckoning as a basis for
+    divination and generally using the reversed magic-square form.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: magic-square diviner
+  assigned_to:
+  - fig:2
+  basis: The ordinary Malay astrologer is described arranging and using magic squares
+    for divination.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: associated with animal-named year cycle
+  assigned_to:
+  - fig:3
+  basis: The passage refers to a Siamese mode of designating years of the cycle by
+    names of animals.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: magic square
+  literal_form: A square arrangement of numbers whose vertical, horizontal, and diagonal
+    columns give the same sums.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: reversed magic square
+  literal_form: The same magic-square figure reversed, described as the form generally
+    used by Malays.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: crescent or crescent and star marker
+  literal_form: A small solitary crescent or crescent and star placed just over the
+    square to distinguish the beginning place.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: coloured five-square grouping
+  literal_form: A twenty-five-square arrangement subdivided into five groups of five,
+    each group assigned a different colour.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: animal names for cycle years
+  literal_form: Names of animals used to designate different years of a cycle.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Astrological basis for divination
+  summary: Malay reckoning systems are presented as astrological bases for divination,
+    involving lucky and unlucky times and the mystic influence of numbers and geometrical
+    figures.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Forms of the magic square
+  summary: The passage contrasts an ordinary magic-square form formerly used in Europe
+    and occasionally found among Malays with a reversed form generally used by Malays.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Practical use by Malay astrologer
+  summary: The Malay astrologer is described as using magic squares for divination,
+    sometimes misarranging figures, beginning the count at a corner, and marking the
+    starting place with a crescent or crescent and star.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Coloured subdivision of five-squares
+  summary: Some five-square forms are coloured and subdivided into five sets of five
+    squares, each with a different colour.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divination through numerical-geometrical figures
+  taxonomy_refs: []
+  basis: The passage explicitly connects divination with mystic numbers, geometrical
+    figures, and magic squares.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a ritual-divinatory pattern rather than a narrative myth motif.
+- id: motif:2
+  label: lucky and unlucky times determined by reckoning
+  taxonomy_refs: []
+  basis: The passage describes crude notions of lucky or unlucky times and seasons
+    as systematized through astrological reckoning and numerical-geometrical influence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt does not provide a worked example of a specific lucky or unlucky
+    time.
+- id: motif:3
+  label: marked starting point in a divinatory diagram
+  taxonomy_refs: []
+  basis: The divinatory count is said to begin at a corner, with the beginning place
+    marked by a crescent or crescent and star above the square.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage states the practical marking convention but does not explain
+    its symbolic meaning.
+- id: motif:4
+  label: coloured subdivision of numerical diagram
+  taxonomy_refs: []
+  basis: The five-square is described as subdivided into five groups of five, each
+    assigned a different colour.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage does not list the colours or their exact comparative values.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the Malay magic-square form as visually related to an
+    ordinary form formerly used in Europe, with the Malay form generally being the
+    same figure reversed.
+  claim_level: visual_similarity
+  target: ordinary European magic-square form
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not establish a route of transmission or explain whether
+    similarity reflects borrowing, parallel use, or shared mathematical tradition.
+- id: claim:2
+  claim: The passage says the ordinary European form of the magic square is occasionally
+    found among Malays, suggesting use of a comparable numerical-divinatory figure
+    in both contexts.
+  claim_level: same_function
+  target: European magic-square tradition
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only broad functional comparison is supported; the passage gives no
+    detailed European ritual context.
+- id: claim:3
+  claim: The passage refers to a Siamese animal-named year cycle as adopted in the
+    reckoning context.
+  claim_level: historical_contact
+  target: Siamese animal-named cycle years
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The excerpt is brief and does not specify the adopting group in detail
+    or describe the mechanism of adoption.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 30615-30707
+  quote_or_summary: Malay systems of reckoning are described as astrological bases
+    for divination, involving lucky and unlucky times and the mystic influence of
+    numbers and geometrical figures.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 30615-30707
+  quote_or_summary: The magic square is defined as numbers arranged in a square so
+    that vertical, horizontal, and diagonal columns yield the same sums.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 30615-30707
+  quote_or_summary: An ordinary form of magic square formerly used in Europe is said
+    to be occasionally found among the Malays.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 30615-30707
+  quote_or_summary: The form generally used by the Malays is described as the same
+    magic-square figure reversed.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 30615-30707
+  quote_or_summary: The ordinary Malay astrologer is described as understanding little
+    of the magic square's peculiar properties and sometimes making mistakes in arranging
+    its figures.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 30615-30707
+  quote_or_summary: In divination the astrologer usually begins at one corner and
+    counts straight on; the start is marked by a small crescent or crescent and star
+    above the square.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 30615-30707
+  quote_or_summary: Some coloured five-squares divide twenty-five squares into five
+    groups of five, assigning a different colour to each group.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 30615-30707
+  quote_or_summary: The passage refers to a Siamese mode of designating cycle years
+    by animal names as having been adopted.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is expository and supports strong extraction of divinatory objects
+    and practices. Motif labels are cautious because the material is ritual-technical
+    rather than narrative mythology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available symbol taxonomy references directly match magic squares, crescents, stars, colours, or animal-named cycle years; taxonomy_refs are therefore left empty.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l30615-l30707
+  passage_sha256=af63f1d0f802303492266c4c5bfd8e2f76738128312a4c832d5e2854155a361d
+

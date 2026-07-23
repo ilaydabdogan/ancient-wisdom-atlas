@@ -1,0 +1,333 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l7938-l7963
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: CEREMONIES  AND  CHARMS / OTHER  FOWLING  CHARMS / FIG  UR  A T1 VE  NOMENCLA  TURE
+    / SELECTION  OF  BUILDING  SITES; lines 7938-7963
+  start: '7938'
+  end: '7963'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: Come you down quickly to God’s fold and King Solomon’s.
+  summary: The passage gives two related imprecatory charms directed at a feathered
+    creature, threatening harm from choking, vegetation, snakes, a bear-cat, falling
+    perches, the ground, and an eagle, and commanding it to come down. The passage
+    then transitions to a subsection headed “Earth.”
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The addressed being is treated as feathered and capable of perching, settling,
+    soaring, and coming down.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: One charm threatens the addressed being with choking on its own feathers or
+    a bone, entanglement by a creeper, and a bite from a leaf snake.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The charm commands the addressed being to come down quickly to God’s fold
+    and King Solomon’s.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A second imprecation is explicitly introduced as having similar import to
+    the preceding one.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The second imprecation threatens the addressed being with being eaten by a
+    bear-cat, slipping or sliding from perches, a stump falling, being bitten by a
+    ground-snake, and being attacked by an eagle if it soars to heaven.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The line range ends with the heading “(b) Earth.”
+  category: setting
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: addressed feathered creature
+  description: The unnamed addressee is described through feathers and actions such
+    as perching, settling, soaring, and coming down.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: God
+  description: God is named in the phrase “God’s fold.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: King Solomon
+  description: King Solomon is named as part of the destination or authority invoked
+    in the command to come down.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: leaf snake
+  description: A snake associated with a leaf is threatened as biting the addressee
+    if it settles on a leaf.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: bear-cat
+  description: A bear-cat is threatened as eating the addressee if it does not come
+    down.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: ground-snake
+  description: A ground-snake is threatened as biting the addressee if it settles
+    on the ground.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: eagle
+  description: An eagle is threatened as swooping upon the addressee if it soars up
+    to heaven.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: addressed target of imprecation
+  assigned_to:
+  - fig:1
+  basis: The charms speak directly to an unnamed “you” and threaten it with consequences
+    unless it comes down.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: threatening animal agent
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The leaf snake, bear-cat, ground-snake, and eagle are each named as agents
+    of threatened harm.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: named sacred or royal authority
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The command directs the addressee to come down to God’s fold and King Solomon’s.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: snake threat
+  literal_form: leaf snake and ground-snake
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: vegetal perches and entanglements
+  literal_form: creeper, leaf, bough, and leafless stump
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: upper refuge
+  literal_form: heaven as a place to which the addressee might soar
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: ground or earth
+  literal_form: ground as a place where the ground-snake may bite; heading “Earth”
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: God’s fold and King Solomon’s
+  literal_form: named destination in the command to come down
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: First imprecation commanding descent
+  summary: A charm addresses a feathered creature, threatens choking and dangers from
+    creeper and leaf snake, and commands it to come down quickly to God’s fold and
+    King Solomon’s.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Second similar imprecation with threats across places
+  summary: A second imprecation threatens the addressee with predators and unsafe
+    perches or locations, including bough, creeper, stump, ground, and heaven.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Transition to Earth subsection
+  summary: The passage closes this line range with the heading “(b) Earth.”
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: imprecatory charm compelling a feathered creature to descend
+  taxonomy_refs: []
+  basis: Both quoted passages address an unnamed feathered creature and use threats
+    to make it come down.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The immediate wider ritual context is not included beyond the supplied
+    line range.
+- id: motif:2
+  label: inescapable threats assigned to every perch or direction
+  taxonomy_refs: []
+  basis: The imprecation lists dangers if the addressee perches on bough, creeper,
+    leaf, stump, ground, or soars to heaven.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level pattern; no external comparison is inferred.
+- id: motif:3
+  label: animal predators as enforcers in a charm
+  taxonomy_refs: []
+  basis: The charm invokes leaf snake, bear-cat, ground-snake, and eagle as agents
+    that will harm the addressee in different locations.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage states the threats but does not explain the animals’ broader
+    mythic status.
+- id: motif:4
+  label: descent commanded under divine and Solomonic names
+  taxonomy_refs: []
+  basis: The addressee is commanded to come down quickly to God’s fold and King Solomon’s.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives the phrase but does not elaborate its theological or
+    magical rationale.
+comparison_claims:
+- id: claim:1
+  claim: The two imprecations in the passage have the same practical function of threatening
+    the addressee in order to make it come down.
+  claim_level: same_function
+  target: the first quoted charm and the second imprecation described as of similar
+    import
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the supplied passage only and makes no
+    claim about historical contact or wider motif distribution.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7938-7945
+  quote_or_summary: 'The first charm threatens choking by feathers or a bone, entanglement
+    on a creeper, and a leaf-snake bite, then says: “Come you down quickly to God’s
+    fold and King Solomon’s.”'
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 7946-7962
+  quote_or_summary: A second imprecation is introduced as similar and threatens bear-cat
+    attack, slipping from bough or creeper, a falling stump, a ground-snake bite,
+    and an eagle if the addressee soars to heaven.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: '7963'
+  quote_or_summary: "“(b) Earth”"
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is direct from the supplied passage. Motif labels
+    are descriptive and passage-level; no external tradition-level comparison is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage text and metadata; available taxonomy references were applied only where directly supported by the passage wording.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l7938-l7963
+  passage_sha256=6a7d021a0bff08ebb8b5f247d8a68a3b7cb321374a0e9b2b9358c389401c07a2
+

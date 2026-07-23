@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.polynesian-maori-polynesian-mythology-grey-archive-l8760-l8815
+source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+passage_locator:
+  label: THE MAGICAL WOODEN HEAD. 281 / THE MAGICAL WOODEN HEAD. 283 / THE MAGICAL
+    WOODEN HEAD. 285 / NET MAKING ACQUIRED FEOM THE FAIRIES. 289; lines 8760-8815
+  start: '8760'
+  end: '8815'
+  translation: Polynesian Mythology and Ancient Traditional History of the New Zealand
+    Race
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Kahukura mingles unnoticed with fairies as they haul a fishing net to shore
+    before dawn. While the fairies hurry to land and string fish before sunrise, he
+    repeatedly uses a slip-knot so his fish fall and the fairies stop to help him.
+    Full daylight reveals that he is a man, and the fairies flee, leaving fish, flax-stem
+    canoes, and a rush net; from the net left with Kahukura the stitch for netting
+    is first discovered.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kahukura is not noticed among the fairies because his appearance is nearly
+    as fair as theirs.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fairies haul a net toward shore and call for some of them to go before
+    a named rugged rock so the nets will not become entangled.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At the first peep of dawn, the fish are landed, and the fairies hurry to pick
+    them up, haul up the net, and finish before sunrise.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fairies do not divide the fish into separate loads as men do; each takes
+    fish he likes and strings them through the gills.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Kahukura strings fish with a slip-knot so that they fall off, receives help
+    from fairies, then unties the knot and repeats the action several times.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Kahukura's repeated slip-knot action delays the fairies in their work.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When full daylight makes a man's face distinguishable, the fairies see that
+    Kahukura is a man and disperse in confusion.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The fairies abandon their fish, a rush net, and canoes described as stems
+    of flax.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The stitch for netting a net is said to be first discovered from the net left
+    with Kahukura.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Kahukura
+  description: A man whose fair appearance lets him pass among the fairies; he hauls
+    and strings fish with them, delays them by repeatedly using a slip-knot, and remains
+    with the net they abandon.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the fairies
+  description: A fair or white group fishing with a net before sunrise; they hurry
+    to finish their work, help Kahukura with his string, and flee when daylight reveals
+    he is a man.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: concealed human among fairies
+  assigned_to:
+  - fig:1
+  basis: Kahukura is later recognized as a man, but at first is not noticed because
+    he resembles the fairies in fairness.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: fairy fishers and net users
+  assigned_to:
+  - fig:2
+  basis: The fairies haul the net, land fish, string fish, and try to finish before
+    sunrise.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: delayer by slip-knot ruse
+  assigned_to:
+  - fig:1
+  basis: Kahukura repeatedly ties a slip-knot so the fish fall and the fairies stop
+    to help him.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: abandoners of craft object
+  assigned_to:
+  - fig:2
+  basis: After discovering Kahukura is a man, the fairies flee and leave behind their
+    rush net.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: recipient of abandoned netting model
+  assigned_to:
+  - fig:1
+  basis: The net is left with Kahukura, and the passage states that the netting stitch
+    is first discovered from it.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: rush net
+  literal_form: a net made of rushes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: slip-knot and fish string
+  literal_form: a short string with a slip-knot used for stringing fish
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: dawn and sunrise deadline
+  literal_form: first peep of dawn, sunrise, and full daylight
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: fish
+  literal_form: fish landed from the net and strung through the gills
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: sea-shore fishing place
+  literal_form: sea, sandy shore, and a named rugged rock near the shore
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: flax-stem canoes
+  literal_form: canoes described as nothing but stems of flax
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Net hauling near the shore
+  summary: The fairies haul a net close to the shore, warn about a rugged rock, and
+    Kahukura pulls the net among them without being noticed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fish landed before sunrise
+  summary: At dawn the fish reach shore, and the fairies hurry to gather and string
+    them while calling for the work to be finished before the sun rises.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Slip-knot delay
+  summary: Kahukura repeatedly causes his fish to fall from the string by using a
+    slip-knot, and the fairies delay their work by helping him restring them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Daylight revelation and abandoned net
+  summary: Full daylight reveals Kahukura as a man; the fairies flee and abandon fish,
+    flax-stem canoes, and a rush net, from which the netting stitch is first discovered.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Net-making craft acquired from fairies
+  taxonomy_refs:
+  - culture_hero
+  - wisdom
+  basis: The passage states that the stitch for netting a net is first discovered
+    from the net left with Kahukura after the fairies flee.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage establishes the first discovery of the netting stitch, but
+    within this excerpt it does not narrate Kahukura teaching the craft to a community.
+- id: motif:2
+  label: Trick delaying non-human beings until daylight
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Kahukura repeatedly uses a slip-knot to delay the fairies until full daylight
+    reveals he is a man and they flee.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy label is broader than the literal event; the passage itself
+    describes a practical ruse rather than an explicit trickster identity.
+- id: motif:3
+  label: Abandoned non-human object becomes human craft model
+  taxonomy_refs: []
+  basis: The fairies abandon their rush net, and the passage connects that net with
+    the first discovery of the netting stitch.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The transfer occurs through abandonment after flight, not through an explicit
+    gift or stated theft.
+- id: motif:4
+  label: Daylight exposes a hidden human among fairies
+  taxonomy_refs: []
+  basis: The fairies do not recognize Kahukura until full daylight, then see that
+    he is a man and disperse.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: No broader cosmological rule about daylight and fairies is stated in this
+    excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared at the functional level to a culture-hero craft-origin
+    pattern, because a human obtains a practical craft model from non-human beings
+    and the passage explains the first discovery of the netting stitch.
+  claim_level: same_function
+  target: culture_hero motif family; craft-origin acquisition from fairies
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt supports an origin of the netting stitch but does not show
+    subsequent distribution of the knowledge or explicitly call Kahukura a culture
+    hero.
+- id: claim:2
+  claim: The repeated slip-knot ruse can be cautiously compared to a trickster-boundary
+    function, since deception across the human/fairy distinction leads to the fairies'
+    flight and the human possession of their net.
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage marks Kahukura as a man and the others as fairies, but
+    it does not explicitly theorize a boundary or identify Kahukura as a trickster.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8760-8771
+  quote_or_summary: Kahukura is not observed because he is nearly as fair as the fairies;
+    the fairies haul a net toward shore, warn about a named rugged rock, and he pulls
+    among them.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8772-8787
+  quote_or_summary: At the first peep of dawn the fish are landed; the fairies hurry
+    to pick up fish, haul the net, string fish through the gills, and call for the
+    work to be finished before sunrise.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8788-8806
+  quote_or_summary: Kahukura repeatedly ties a slip-knot at the end of his string
+    so the fish fall off; fairies help him knot the string and put fish on it, delaying
+    their work.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8807-8815
+  quote_or_summary: Full daylight reveals Kahukura as a man; the fairies flee in confusion,
+    abandoning fish, a rush net, and flax-stem canoes; the stitch for netting is first
+    discovered from the net left with Kahukura.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main sequence and objects are explicit. Motif-family mapping is cautious
+    because the excerpt ends mid-sentence and does not show later transmission of
+    the craft.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. OCR variants such as 'FEOM' and broken words were not treated as separate evidence.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-maori-polynesian-mythology-grey-archive__l8760-l8815
+  passage_sha256=0c6948b01213b3505b49b4d1bb7a9f7aa18b6ab7b20cc311131c7cb8097b75cf
+

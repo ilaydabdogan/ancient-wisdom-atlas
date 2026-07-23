@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.african-reynard-the-fox-hottentot-bleek-archive-l3624-l3648
+source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+passage_locator:
+  label: TEE  NAMA  WOMAN  AND  THE  ELEPHANTS.    63 / AND   OTHER  LEGENDS. / THE  LITTLE  WISE  WOMAX.  87
+    / OK,   A   RECEIPT   FOR   PUTTING  ANY   ONE   TO   SLEEP.; lines 3624-3648
+  start: '3624'
+  end: '3648'
+  translation: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A little girl has an e'ingi fruit and prompts her mother to ask for it.
+    The mother asks, receives it, and eats it. When the child returns and asks for
+    it back, the mother says it has been eaten and gives the child a needle to appease
+    her. The child then finds her father sewing thongs with thorns and begins to question
+    him about why he uses thorns.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a receipt for putting someone to sleep and includes
+    a note that the original is in the o Tyi-herero or Damara language in a manuscript
+    in Sir G. Grey's Library.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A little girl has an e'ingi, described parenthetically as some kind of fruit,
+    and asks her mother why the mother does not ask her first-born to give it.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The mother asks for the e'ingi; the girl gives it to her and goes away; the
+    mother eats it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When the child returns, she asks her mother to give back the e'ingi, and the
+    mother answers that she has eaten it.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The child says she plucked the e'ingi from their tree, and the mother gives
+    her a needle to appease her.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The little girl goes away and finds her father sewing thongs with thorns;
+    she asks why he sews with thorns, but the excerpt breaks off during her next question.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: little girl
+  description: A child called the mother's first-born; she has an e'ingi fruit, gives
+    it to her mother, later asks for it back, receives a needle, and encounters her
+    father sewing with thorns.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Mother
+  description: The little girl's mother; she requests the e'ingi, eats it, tells the
+    child it has been eaten, and gives the child a needle to appease her.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Father
+  description: The little girl's father; he is found sewing thongs with thorns.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: first-born child
+  assigned_to:
+  - fig:1
+  basis: The mother addresses the girl as 'My first-born' when asking for the e'ingi.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: mother who requests and consumes the fruit
+  assigned_to:
+  - fig:2
+  basis: The mother asks for the e'ingi after the child prompts her and then eats
+    it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: father sewing with substitute material
+  assigned_to:
+  - fig:3
+  basis: The father is found sewing thongs with thorns.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: questioning child
+  assigned_to:
+  - fig:1
+  basis: The girl repeatedly questions her mother and then questions her father about
+    his use of thorns.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: appeasing compensator
+  assigned_to:
+  - fig:2
+  basis: After eating the child's fruit, the mother gives the child a needle to appease
+    her.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: e'ingi fruit
+  literal_form: e'ingi, described as some kind of fruit
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: tree that supplied the fruit
+  literal_form: our tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: needle
+  literal_form: needle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: thorns used for sewing
+  literal_form: thorns
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: thongs being sewn
+  literal_form: thongs
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: The child gives the e'ingi to her mother
+  summary: The little girl prompts her mother to ask for the e'ingi; the mother asks
+    for it, the child gives it, and the mother eats it after the child goes away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: The eaten fruit is compensated with a needle
+  summary: The child returns, asks for the e'ingi, learns that it has been eaten,
+    complains that she plucked it from their tree, and receives a needle from her
+    mother.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: The child finds the father sewing with thorns
+  summary: The girl leaves and finds her father sewing thongs with thorns, then questions
+    why he uses thorns.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Consumed possession compensated by another object
+  taxonomy_refs: []
+  basis: The child gives her fruit to her mother, the mother eats it, and then gives
+    the child a needle to appease her.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is only the beginning of the tale, so the later function of
+    the compensation is not visible here.
+- id: motif:2
+  label: Emerging chain of object substitution
+  taxonomy_refs: []
+  basis: The fruit is replaced by a needle, and the next scene presents the father
+    using thorns where a needle would be appropriate, suggesting a possible continuation
+    from one object to another.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The excerpt ends before the child completes her question to the father,
+    so the chain pattern is not fully demonstrated in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3624-3629
+  quote_or_summary: Heading identifies the item as a receipt for putting anyone to
+    sleep; a note locates the original in the o Tyi-herero or Damara language in Sir
+    G. Grey's Library, J. Rath's manuscript.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3630-3635
+  quote_or_summary: A little girl has an e'ingi, described as some kind of fruit,
+    and prompts her mother to ask her first-born to give it.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3636-3640
+  quote_or_summary: The mother asks for the e'ingi; the girl gives it to her and goes
+    away; the mother eats the fruit.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3641-3643
+  quote_or_summary: When the child comes back and asks for the e'ingi, the mother
+    says she has eaten it.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3644-3646
+  quote_or_summary: The child says the e'ingi was plucked from their tree; the mother
+    gives her a needle to appease her.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3647-3648
+  quote_or_summary: The little girl finds her father sewing thongs with thorns and
+    asks why he sews with thorns; the passage ends mid-question.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif candidates are tentative
+    because the passage ends mid-action and does not include the full tale sequence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or historical comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-reynard-the-fox-hottentot-bleek-archive__l3624-l3648
+  passage_sha256=7a91fb1d0f066877ee5df7424d5c581a54e26e5e189bd73bc5aeef0f1097b829
+

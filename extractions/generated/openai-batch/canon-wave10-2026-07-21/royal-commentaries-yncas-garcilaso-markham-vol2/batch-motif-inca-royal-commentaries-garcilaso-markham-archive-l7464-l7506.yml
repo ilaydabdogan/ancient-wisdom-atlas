@@ -1,0 +1,357 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l7464-l7506
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XXIII. / HOW  THEY  DRANK  TO  EACH  OTHER  AND  IN  WHAT  ORDER.
+    / COMMENTARIES  OF  THE-  YNCAS. / SIXTH  BOOK  OF  THE  ROYAL; lines 7464-7506
+  start: '7464'
+  end: '7506'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the ordered ritual of drinking invitations between
+    the Ynca, captains, Curacas, royal relations, and attendants. Invitations and
+    return challenges follow rank and favor. The Ynca silently receives cups with
+    signs of adoration, touches or drinks a little from them, has attendants drink
+    for him, and the Curacas thereafter revere cups touched by the Ynca as sacred
+    objects.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cup is returned without words, accompanied by hand signs of adoration and
+    kissing the air with the lips.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Ynca sends drinking invitations to all captains but only to selected Curacas
+    described as worthy and devoted to the public good.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Other Curacas are invited by Yncas who carry cups, in those Yncas' own names
+    rather than in the name of the Ynca.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says the Curacas are satisfied with such invitations because the
+    inviter is a child of the Sun like their king.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Captains and Curacas return drinking challenges in the same order in which
+    they received them, some to the Ynca and others to his relations.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Ynca is approached without words and with signs of adoration.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Ynca receives presented cups, puts them to his lips, and drinks a little
+    from them in varying amounts according to the favor he wishes to show, regulated
+    by rank and merit.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Ynca orders attendants, described as Yncas by privilege, to drink for
+    him with the captains and Curacas and then return the cups.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The Curacas venerate cups touched by the Ynca's hands and lips, do not drink
+    from or touch them again, and regard them as idol-like objects fit for worship.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the Ynca
+  description: The royal figure who sends invitations, receives returned cups, touches
+    or drinks from them, and commands attendants to drink for him.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Curacas
+  description: Leaders who may receive drinking invitations, return drinking challenges,
+    and venerate cups touched by the Ynca.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: captains
+  description: Military leaders who receive drinking invitations and return drinking
+    challenges.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Yncas who brought the cups / royal relations
+  description: Yncas who carry cups, invite some Curacas in their own names, and are
+    treated as children of the Sun like the king.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: attendants
+  description: Attendants, described as Yncas by privilege, who drink for the Ynca
+    with captains and Curacas.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: royal ritual host
+  assigned_to:
+  - fig:1
+  basis: The Ynca initiates drinking invitations and receives returned cups in an
+    ordered ritual.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: ritual drinking participants
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Curacas and captains receive invitations and return drinking challenges.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: cup-bearing royal intermediaries
+  assigned_to:
+  - fig:4
+  basis: The passage says Yncas brought cups and invited some Curacas in their own
+    names.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: proxy drinkers for the Ynca
+  assigned_to:
+  - fig:5
+  basis: The Ynca orders attendants to drink for him with the captains and Curacas.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: child of the Sun status
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage describes the cup-bearing Yncas as children of the Sun like the
+    king.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: ritual drinking cup
+  literal_form: cups used in invitations, return challenges, and presentation to the
+    Ynca
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: signs of adoration
+  literal_form: hand signs of adoration and kissing the air with the lips
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: sacralized cup touched by the Ynca
+  literal_form: cups touched by the Ynca's hands and lips and thereafter treated as
+    sacred/idol-like objects
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: child of the Sun designation
+  literal_form: the phrase describing Yncas as children of the Sun like their king
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: selection and invitation to drink
+  summary: The Ynca invites all captains and selected worthy Curacas, while other
+    Curacas are invited by cup-bearing Yncas in their own names.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: return challenges before the Ynca
+  summary: Captains and Curacas return drinking challenges in order; those approaching
+    the Ynca do so silently with signs of adoration, and he receives their cups with
+    measured signs of favor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: veneration of touched cups
+  summary: Curacas treat cups touched by the Ynca as sacred objects, no longer drinking
+    from or touching them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritualized reciprocal drinking exchange
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage describes ordered invitations to drink, return challenges, cup
+    presentation, proxy drinking, and cup return among ranked participants.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is an ethnographic-historical description rather than a mythic
+    narrative episode.
+- id: motif:2
+  label: royal sacral authority and legitimacy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Ynca controls the ritual order, displays favor by drinking differing
+    amounts, is described through child-of-the-Sun status, and sacralizes cups by
+    touch.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage supports royal sacral status through ritual practice; it does
+    not narrate an origin myth of kingship.
+- id: motif:3
+  label: royal figures as children of the Sun
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The text says an invitation is acceptable because it comes from one who is
+    a child of the Sun like the king.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives the designation as a status claim and does not elaborate
+    a divine genealogy.
+- id: motif:4
+  label: sacred object created by contact with the ruler
+  taxonomy_refs: []
+  basis: Cups touched by the Ynca's hands and lips are no longer used normally and
+    are revered as sacred, idol-like objects.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family directly names this contact-relic pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7464-7468
+  quote_or_summary: '"cup to the Yuca without another word, only making signs of adoration
+    with his hands and kissing- the air with his lips."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 7470-7482
+  quote_or_summary: The Ynca invites all captains and selected worthy Curacas; other
+    Curacas are invited by cup-bearing Yncas in their own names, and this satisfies
+    them because the inviter is a child of the Sun like their king.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 7484-7497
+  quote_or_summary: Captains and Curacas return drinking challenges in order; the
+    Ynca is approached silently with signs of adoration, receives cups, touches them
+    to his lips or drinks a little according to favor, rank, and merit, and has privileged
+    Ynca attendants drink for him.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 7499-7506
+  quote_or_summary: Curacas hold cups touched by the Ynca's hands and lips in great
+    veneration as sacred things, no longer drink from or touch them, and regard them
+    as idol-like objects fit to be worshipped.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for ritual drinking order, royal status, and
+    sacralized cups. Motif labels are candidate classifications and should be reviewed,
+    especially divine_parent_child because the passage gives only a brief status designation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparative connection.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l7464-l7506
+  passage_sha256=93d91cdbcc7019e0dad4664de4db738af20433feefcd1480424a185c5e6dce20
+

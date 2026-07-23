@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l16732-l16772
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: OF  THE  PRECIOUS  LEAF  CALLED  CUCA,  AND  OF  TOBACCO. / B B 2 / EIGHTH  BOOK  OF  THE  ROYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 16732-16772
+  start: '16732'
+  end: '16772'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the cuca plant, its nursery planting, vine-like layering,
+    careful handling of roots and sprouts, leaf shape and delicacy, drying in the
+    sun, and transport in cane baskets protected from damp by large cane leaves.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A quoted preceding authority is identified as Bias Valera, after a statement
+    about serving one God and using the mentioned things in a Christian fashion.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cuca plants are described as about the height of a man and are planted
+    from seed in nurseries.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'The plants are handled like vines: holes are drilled as for vines, the plants
+    are layered, and care is taken that roots are not doubled because that can dry
+    up the plant.'
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When gathering leaves, handlers pick leaves from each branch but leave the
+    final sprout untouched to avoid withering the branch.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The cuca leaf is compared in shape and greenness to the arbutus leaf, but
+    is much thinner and more delicate.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After gathering, the leaves are dried in the sun because damp can damage them,
+    remove their green colour, and make them break into powder.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The leaves are carried in split-cane baskets whose outsides are covered with
+    large cane leaves to protect the cuca from wetness.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bias Valera
+  description: Named authority whose prior quoted material ends at the beginning of
+    the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: cuca cultivators and handlers
+  description: Unspecified people who plant, layer, gather, dry, and transport the
+    cuca leaves.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: quoted authority
+  assigned_to:
+  - fig:1
+  basis: The narrator states that the preceding material is from Bias Valera.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: cultivators
+  assigned_to:
+  - fig:2
+  basis: The passage describes people planting seeds in nurseries, drilling holes,
+    layering plants, and protecting roots.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: leaf gatherers and preservers
+  assigned_to:
+  - fig:2
+  basis: The passage describes people picking leaves, drying them in the sun, and
+    carrying them in protected baskets.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: cuca plant and leaf
+  literal_form: A cultivated plant about the height of a man, with delicate green
+    leaves compared to arbutus leaves.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: split-cane basket with cane-leaf covering
+  literal_form: A transport basket made from split canes and covered with large cane
+    leaves to protect cuca from wetness.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: sun-drying
+  literal_form: Freshly gathered cuca leaves placed in the sun to dry before transport.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Cultivation of cuca plants
+  summary: The passage describes cuca seeds being planted in nurseries, treated in
+    a vine-like manner, layered, and protected from root damage.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Gathering and preservation of cuca leaves
+  summary: Leaves are picked carefully without removing the final sprout, dried in
+    the sun, and packed in covered cane baskets to prevent damp damage.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16732-16738
+  quote_or_summary: The passage closes a quotation attributed to Bias Valera, including
+    a statement about serving one God and using the mentioned things in a Christian
+    fashion, then says that the preceding material was from Bias Valera.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text; summary supplied for extraction.
+- id: ev:2
+  type: summary
+  locator: 16738-16747
+  quote_or_summary: Cuca plants are said to be about the height of a man; seeds are
+    put into nurseries, holes are drilled as for vines, plants are layered, and roots
+    must not be doubled lest the plant dry up.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text; summary supplied for extraction.
+- id: ev:3
+  type: summary
+  locator: 16747-16751
+  quote_or_summary: During leaf gathering, each branch is held and leaves are picked
+    until the final sprout, which is not touched so the branch will not wither.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text; summary supplied for extraction.
+- id: ev:4
+  type: summary
+  locator: 16751-16757
+  quote_or_summary: The cuca leaf is described as like the arbutus leaf in shape and
+    greenness, but thinner and very delicate.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text; summary supplied for extraction.
+- id: ev:5
+  type: summary
+  locator: 16757-16764
+  quote_or_summary: After gathering, cuca leaves are put in the sun to dry; damp in
+    transport baskets can make them lose prized green colour and crumble into powder.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text; summary supplied for extraction.
+- id: ev:6
+  type: summary
+  locator: 16764-16772
+  quote_or_summary: The baskets used for carrying cuca are made of split canes and
+    covered outside with large cane leaves to preserve the cuca from wetness.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text; summary supplied for extraction.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is primarily descriptive and botanical. It supports extraction
+    of objects, actions, and handling practices, but it does not clearly support a
+    mythological motif or comparative claim within the supplied lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the available taxonomy does not include cuca, baskets, sun-drying, or botanical preservation, and the passage does not explicitly support broader comparative claims.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l16732-l16772
+  passage_sha256=cf84a388d621da0340a6cb611fd6b2a26153eaec7ce7bab766593f9d327780eb
+

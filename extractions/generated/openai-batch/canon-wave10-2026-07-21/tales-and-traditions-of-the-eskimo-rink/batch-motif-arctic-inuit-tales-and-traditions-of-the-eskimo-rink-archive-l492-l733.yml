@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.arctic-inuit-tales-and-traditions-of-the-eskimo-rink-archive-l492-l733
+source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+passage_locator:
+  label: CONTENTS. / THE  ESKIMO. / CONTENTS. / CONTENTS.; lines 492-733
+  start: '492'
+  end: '733'
+  translation: Tales and Traditions of the Eskimo
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents segment lists tale numbers and titles, including tales
+    about animals, angakok figures, named persons, kin pairs, under-world gifts, supernatural
+    or animal providers, geographic transformation, sunrise, siblings, and Labrador
+    or East Greenland tales.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a contents list giving numbered tale titles from 106 through
+    150.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several titles name animals or animal-like beings, including visiting animals,
+    revenging animals, a grateful bear, the Amarok, a shark, and an ocean-spider.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:3
+  text: Several titles name an angakok or angakok wisdom.
+  category: attribute
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:4
+  text: Several titles identify kin relationships, including cousins, a married couple,
+    a mother and son, and a brother-sister pair.
+  category: relationship
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+- id: obs:5
+  text: One title refers to gifts from the under-world.
+  category: object
+  evidence_refs:
+  - ev:12
+- id: obs:6
+  text: One title refers to the removal of Disco Island.
+  category: action
+  evidence_refs:
+  - ev:13
+- id: obs:7
+  text: One title refers to sunrise.
+  category: setting
+  evidence_refs:
+  - ev:14
+- id: obs:8
+  text: The passage includes titles identified as tales from East Greenland and Labrador.
+  category: setting
+  evidence_refs:
+  - ev:15
+  - ev:16
+figures:
+- id: fig:1
+  name_or_label: Angakok figures
+  description: Titles mention an angakok in South Greenland, an angakok on Kekertarsuak,
+    a married couple who were both angakok, and Angakorsiak with angakok wisdom.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: Animals and animal-like beings
+  description: Titles include visiting animals, revenging animals, a grateful bear,
+    the Amarok, a shark as provider, and an ocean-spider.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Mother and son
+  description: A title names a mother and son as Kivigtut.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:10
+- id: fig:4
+  name_or_label: Isigarsigak and his sister
+  description: A title names Isigarsigak and his sister.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:11
+- id: fig:5
+  name_or_label: Woman mated with a dog
+  description: A title refers to a woman who was mated with a dog.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:17
+roles:
+- id: role:1
+  label: Angakok or wisdom-bearing ritual specialist
+  assigned_to:
+  - fig:1
+  basis: The contents titles explicitly use the term Angakok and refer to Angakok
+    wisdom.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:2
+  label: Animal or animal-like tale subject
+  assigned_to:
+  - fig:2
+  basis: The titles identify animals or animal-like entities as central tale subjects.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: Mother-child pair
+  assigned_to:
+  - fig:3
+  basis: The title identifies a mother and son together.
+  evidence_refs:
+  - ev:10
+- id: role:4
+  label: Sibling pair
+  assigned_to:
+  - fig:4
+  basis: The title identifies Isigarsigak together with his sister.
+  evidence_refs:
+  - ev:11
+- id: role:5
+  label: Human-animal mated pair subject
+  assigned_to:
+  - fig:5
+  basis: The title states that a woman was mated with a dog.
+  evidence_refs:
+  - ev:17
+symbols:
+- id: sym:1
+  label: Under-world
+  literal_form: under-world
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+- id: sym:2
+  label: Island
+  literal_form: Disco Island
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+- id: sym:3
+  label: Sunrise
+  literal_form: sunrise
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:14
+- id: sym:4
+  label: Dog
+  literal_form: dog
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:17
+scenes:
+- id: scene:1
+  label: Contents list of tale titles
+  summary: The passage lists tale titles and numbers without narrating the tales themselves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: Sibling pair named in tale title
+  taxonomy_refs:
+  - sibling_pair
+  basis: The title 'Isigarsigak and his Sister' explicitly presents a brother-sister
+    grouping.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: Only the title is available; the passage gives no narrative details about
+    their actions or function.
+- id: motif:2
+  label: Exchange or gifts from the under-world
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The title 'The Gifts from the Under-world' indicates gifts associated with
+    an under-world source.
+  evidence_refs:
+  - ev:12
+  confidence: low
+  cautions: The contents entry does not explain who gives or receives the gifts, or
+    whether the exchange is ritual, sacred, or reciprocal.
+- id: motif:3
+  label: Angakok wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The title about Angakorsiak states that he was proud of his Angakok wisdom.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage provides only a title and does not describe the nature or
+    outcome of the wisdom.
+- id: motif:4
+  label: Human-animal mating
+  taxonomy_refs: []
+  basis: A title states that a woman was mated with a dog.
+  evidence_refs:
+  - ev:17
+  confidence: medium
+  cautions: No available taxonomy reference precisely matches this title; the narrative
+    context is absent.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 492-733
+  quote_or_summary: Contents segment listing numbered titles 106 through 150.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 492-733
+  quote_or_summary: '"The Visiting Animals"; "The Revenging Animals"'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 492-733
+  quote_or_summary: '"The Grateful Bear"; "The Amarok"'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 492-733
+  quote_or_summary: '"The Shark as Provider"'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 492-733
+  quote_or_summary: '"The Ocean-spider"'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 492-733
+  quote_or_summary: '"Kuanak, an Angakok in South Greenland"; "An Angakok on Kekertarsuak"'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 492-733
+  quote_or_summary: '"Angakorsiak was very proud of his Angakok Wisdom"'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:8
+  type: quote
+  locator: lines 492-733
+  quote_or_summary: '"The Cousins"'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:9
+  type: quote
+  locator: lines 492-733
+  quote_or_summary: '"A Married Couple remained Childless on account of their both
+    being Angakok"'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:10
+  type: quote
+  locator: lines 492-733
+  quote_or_summary: '"The Mother and Son as Kivigtut"'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:11
+  type: quote
+  locator: lines 492-733
+  quote_or_summary: '"Isigarsigak and his Sister"'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:12
+  type: quote
+  locator: lines 492-733
+  quote_or_summary: '"The Gifts from the Under-world"'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:13
+  type: quote
+  locator: lines 492-733
+  quote_or_summary: '"The Removal of Disco Island"'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:14
+  type: quote
+  locator: lines 492-733
+  quote_or_summary: '"The Sunrise"'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:15
+  type: quote
+  locator: lines 492-733
+  quote_or_summary: '"A Tale from East Greenland"; "Another Tale from East Greenland"'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:16
+  type: quote
+  locator: lines 492-733
+  quote_or_summary: '"The Swimmer, a Tale from Labrador"; "The Natives of Labrador"'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:17
+  type: quote
+  locator: lines 492-733
+  quote_or_summary: '"A Woman who was mated with a Dog"'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a table of contents rather than a narrative passage. Literal
+    extraction of titles is reliable, but motif identification is necessarily tentative
+    because plot details are absent.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were made because the passage provides only titles and does not itself support external comparative assertions.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:arctic-inuit-tales-and-traditions-of-the-eskimo-rink-archive__l492-l733
+  passage_sha256=f4ef20292f41267de4b64f4ea36271a31a51b260e0d389d98c2fce821b76ae69
+

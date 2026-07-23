@@ -1,0 +1,402 @@
+---
+record_id: batch.motif.african-reynard-the-fox-hottentot-bleek-archive-l1853-l1894
+source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+passage_locator:
+  label: FISS-STJEALIKG.  17 / THE  LEOPARD  AND   TEE  RAM.  25 / THE  SPRINGBOK  (GAZELLE).
+    / THE  ELEPHANT  AND   THE   TORTOISE.  29; lines 1853-1894
+  start: '1853'
+  end: '1894'
+  translation: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“since then the animals drink water”"
+  summary: Springbok and Jackal ask Tortoise for water and are told that it belongs
+    to Elephant. Lion asks, beats Tortoise, drinks, and the narrative says that since
+    then the animals drink water. When Elephant returns from hunting, Tortoise reports
+    that the animals have drunk the water. Elephant swallows Tortoise whole; inside
+    Elephant’s body, Tortoise tears out vital organs. Elephant dies, and Tortoise
+    exits the body and goes away.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Springbok asks Tortoise for water, and Tortoise answers that the water belongs
+    to Elephant.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jackal asks Tortoise for water, and Tortoise again answers that the water
+    belongs to Elephant.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Lion asks Little Tortoise for water and then beats Tortoise when Tortoise
+    is about to answer.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Lion drinks from the water, and the narrative states that since then the animals
+    drink water.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Elephant returns from hunting and asks Little Tortoise whether there is water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Tortoise tells Elephant that the animals have drunk the water.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Elephant asks whether he should chew Tortoise or swallow Tortoise down.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Tortoise asks to be swallowed, and Elephant swallows Tortoise whole.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After entering Elephant’s body, Tortoise tears off Elephant’s liver, heart,
+    and kidneys.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Elephant says that Little Tortoise is killing him and then dies.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:11
+  text: Tortoise comes out of Elephant’s dead body and goes wherever it likes.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Little Tortoise
+  description: A small tortoise addressed by the other animals for water; beaten by
+    Lion; swallowed whole by Elephant; kills Elephant from inside and exits the dead
+    body.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Elephant
+  description: The animal to whom the water is said to belong; returns from hunting,
+    swallows Tortoise whole, is killed when Tortoise tears out internal organs, and
+    dies.
+  role_refs:
+  - role:2
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Springbok
+  description: Comes to Tortoise and asks for water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Jackal
+  description: Comes to Tortoise and asks for water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Lion
+  description: Asks Little Tortoise for water, beats Tortoise, and drinks from the
+    water.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: the animals
+  description: A collective group said to have drunk the water; the narrative says
+    animals drink water since Lion’s action.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: answerer of water requests
+  assigned_to:
+  - fig:1
+  basis: Tortoise responds to requests from Springbok and Jackal by saying that the
+    water belongs to Elephant.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: named owner of the water
+  assigned_to:
+  - fig:2
+  basis: Tortoise states that the water belongs to Elephant.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: water requesters
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Springbok, Jackal, and Lion each ask Tortoise for water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: swallower of Tortoise
+  assigned_to:
+  - fig:2
+  basis: Elephant swallows Tortoise whole after asking whether to chew or swallow
+    Tortoise.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: swallowed survivor and internal attacker
+  assigned_to:
+  - fig:1
+  basis: Tortoise is swallowed whole, tears out Elephant’s organs from inside, and
+    emerges from Elephant’s dead body.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: victim killed from within
+  assigned_to:
+  - fig:2
+  basis: Elephant is killed after Tortoise tears off Elephant’s liver, heart, and
+    kidneys from inside the body.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: coercive drinker
+  assigned_to:
+  - fig:5
+  basis: Lion beats Tortoise and drinks the water.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: collective water drinkers
+  assigned_to:
+  - fig:6
+  basis: The narrative says the animals have drunk the water and that since then animals
+    drink water.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Water requested by several animals, said to belong to Elephant, drunk
+    by Lion and by the animals.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Elephant’s body interior
+  literal_form: Elephant’s body containing liver, heart, and kidneys, entered by the
+    swallowed Tortoise.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Requests for Elephant’s water
+  summary: Springbok and Jackal ask Tortoise for water; Tortoise refuses by saying
+    that the water belongs to Elephant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lion forces access to water
+  summary: Lion asks for water, beats Tortoise, drinks the water, and the tale states
+    that since then animals drink water.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Elephant returns and swallows Tortoise
+  summary: Elephant returns from hunting, hears that the animals have drunk the water,
+    asks whether to chew or swallow Tortoise, and swallows Tortoise whole after Tortoise
+    chooses swallowing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Tortoise kills Elephant from inside and escapes
+  summary: Inside Elephant’s body, Tortoise tears out Elephant’s liver, heart, and
+    kidneys; Elephant dies, and Tortoise exits the dead body and leaves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: etiology of animals drinking water
+  taxonomy_refs: []
+  basis: The passage explicitly links Lion drinking the water with the statement that
+    since then the animals drink water.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives an origin statement for animal water-drinking, but does
+    not frame the act as sacred or cosmological.
+- id: motif:2
+  label: guarded water opened by force
+  taxonomy_refs: []
+  basis: Tortoise repeatedly says the water belongs to Elephant, but Lion beats Tortoise
+    and drinks, after which animals are said to drink water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain why Elephant owns the water or whether access
+    was forbidden beyond Tortoise’s statements.
+- id: motif:3
+  label: small swallowed figure kills larger figure from within
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Tortoise asks to be swallowed, is swallowed whole, kills Elephant by tearing
+    out organs from inside, and emerges from the dead body.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not call Tortoise a trickster; the taxonomy reference
+    rests on the action pattern of boundary-crossing, reversal, and survival.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1853-1857
+  quote_or_summary: Springbok says, “Give me water!” and Tortoise answers, “The water
+    belongs to the Elephant.”
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1858-1861
+  quote_or_summary: Jackal says, “Give me water!” and Tortoise answers, “The water
+    belongs to the Elephant.”
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1862-1867
+  quote_or_summary: Lion asks Little Tortoise for water, beats Tortoise, drinks the
+    water, and the narrative says that since then the animals drink water.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1868-1876
+  quote_or_summary: Elephant returns from hunting, asks about the water, hears that
+    the animals have drunk it, asks whether to chew or swallow Tortoise, and swallows
+    Tortoise whole after Tortoise chooses swallowing.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1877-1882
+  quote_or_summary: After being swallowed, Tortoise enters Elephant’s body and tears
+    off Elephant’s liver, heart, and kidneys; Elephant says that Tortoise is killing
+    him.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 1883-1885
+  quote_or_summary: Elephant dies, and Tortoise comes out of Elephant’s dead body
+    and goes wherever it likes.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction follows the supplied passage directly. Motif labels are descriptive;
+    only the water symbol is directly aligned with an available symbol taxonomy entry.
+    The trickster-boundary taxonomy reference is tentative because the passage gives
+    actions but no explicit trickster label.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The passage range also includes the heading of the next tale, but the extracted material is limited to the narrative of “The Elephant and the Tortoise.”
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-reynard-the-fox-hottentot-bleek-archive__l1853-l1894
+  passage_sha256=aa6b87e6f5732d4c497e07670aec67e1c07b65f770a12db3b659e82194bf1422
+

@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.native-american-ethnology-kwakiutl-1-boas-hunt-archive-l652-l768
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+passage_locator:
+  label: Ethnology of the Kwakiutl, Part 1 / I. INDUSTRIES; lines 652-768
+  start: '652'
+  end: '768'
+  translation: Ethnology of the Kwakiutl, Part 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a technical sequence for finishing a cedar box for lily
+    bulbs and beginning the making of oil-boxes. It describes marking, cutting, drilling,
+    pegging, splitting, adzing, grooving, tying with cedar-bark rope, selecting a
+    fallen cedar tree, chopping notches, measuring boards, and splitting and smoothing
+    cedar boards with wedges, hammer, adz, and other tools.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The maker marks the bottom board, cuts along the marked line, removes material,
+    and fits the box to the bottom.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The maker drills slanting holes, makes cedar pegs, and inserts pegs into all
+    the drilled holes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The maker splits a cover piece from a cedar board, then adzes both sides and
+    the top surface.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The maker cuts grooves around the box; when this is finished, it is identified
+    as a box for lily bulbs.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The wife takes twisted cedar-bark rope and puts it around the completed box.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: For oil-box making, the husband of the woman who picks viburnum-berries carries
+    seven wedges, a hammer, a sea-lion-skin wedge-bag, and an axe into the woods.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The oil-box maker seeks a fallen cedar tree with moss on it, without branches
+    or knots, because this wood bends and does not split easily under prolonged heat
+    during oil rendering.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The maker uses span and fingerwidth measurements, chopped notches, a marking-wedge,
+    and closely placed wedges to split pieces from the cedar log.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: After splitting boards, the maker carries them outside his house and adzes
+    both faces and the edges straight.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed male box-maker / husband
+  description: A male craft worker who makes the boxes; in the oil-box section he
+    is described as the husband of the woman who picks viburnum-berries.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: wife / woman who picks viburnum-berries
+  description: A female figure associated with the male maker; she is said to put
+    twisted cedar-bark rope around the finished box, and the oil-box maker is described
+    as the husband of a woman who picks viburnum-berries.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: box-maker
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly describes him making, fitting, pegging, grooving,
+    and preparing boxes and boards.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: husband of viburnum-berry picker
+  assigned_to:
+  - fig:1
+  basis: The oil-box section identifies the worker as the husband of the woman who
+    picks viburnum-berries.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: wife assisting with rope placement
+  assigned_to:
+  - fig:2
+  basis: The passage says his wife takes twisted cedar-bark rope and puts it around
+    the box.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: viburnum-berry picker
+  assigned_to:
+  - fig:2
+  basis: The oil-box section refers to the woman who picks viburnum-berries.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cedar tree and cedar wood
+  literal_form: A fallen moss-backed cedar tree, cedar boards, cedar sticks, cedar
+    pegs, and cedar-bark rope used in box-making.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: wooden box
+  literal_form: The crafted box for lily bulbs and the oil-box under preparation.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: seven wedges and hammer
+  literal_form: A set of seven wedges and a stone hammer used to split cedar wood.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: cedar-bark rope
+  literal_form: Twisted cedar-bark rope placed around the completed lily-bulb box.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Fitting and pegging the box bottom
+  summary: The maker marks and cuts the bottom board, fits the box to it, drills slanting
+    holes, makes cedar pegs, and inserts them.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Making the cover and grooves
+  summary: The maker splits a cover from a cedar board, adzes it smooth, turns the
+    box on its side, and cuts grooves around it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rope applied to completed lily-bulb box
+  summary: After the grooves are finished and the box for lily bulbs is complete,
+    the wife puts twisted cedar-bark rope around it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Selecting cedar for oil-boxes
+  summary: The oil-box maker takes his tools into the woods and looks for a fallen
+    moss-backed cedar tree suitable for heat-resistant oil-box material.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Splitting boards from the cedar log
+  summary: The maker chops measured notches, uses wedges and hammer to split the log,
+    marks a finger-thick board, drives the marking-wedge along the line, and then
+    drives wedges to split boards.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Adzing split boards
+  summary: The maker carries split boards outside the house and adzes both sides and
+    the edges to make them straight.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Measured cedar-box manufacture
+  taxonomy_refs: []
+  basis: 'The passage repeatedly presents a staged craft pattern: measure and mark
+    the cedar, cut or split it, fit parts together, peg the box, smooth surfaces,
+    and finish the container.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a technical industry pattern, not a mythological motif, and no
+    supplied motif-family taxonomy ref is directly supported.
+- id: motif:2
+  label: Material selection by practical properties
+  taxonomy_refs: []
+  basis: For oil-boxes, the maker seeks a particular kind of fallen cedar because
+    it bends and resists splitting under heat during oil rendering.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a practical explanation only; symbolic or ritual meaning
+    is not stated.
+- id: motif:3
+  label: Spousal task division in box finishing
+  taxonomy_refs: []
+  basis: The male maker completes the box work, while the wife is specifically described
+    as putting twisted cedar-bark rope around the finished lily-bulb box.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: Only one brief task division is described; broader social interpretation
+    would require evidence outside this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 652-768; internal lines 40-55
+  quote_or_summary: The maker marks the bottom board, cuts around the mark, fits the
+    box to the bottom, drills slanting holes, cuts cedar pegs, and puts pegs into
+    the drilled holes.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 652-768; internal lines 55-70
+  quote_or_summary: The maker splits a cover piece from a cedar board with wedges
+    and hammer, adzes it smooth on both sides, and cuts grooves around the box with
+    a small crooked knife.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 652-768; internal lines 70-75
+  quote_or_summary: When the grooves go all around, the box for lily bulbs is finished;
+    the wife takes twisted cedar-bark rope and puts it around the box.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 652-768; section 'The Making of Oil-Boxes,' internal lines 1-10
+  quote_or_summary: The husband of the woman who picks viburnum-berries takes seven
+    wedges, a hammer, a sea-lion-skin wedge-bag, and an axe into the woods to find
+    a fallen moss-backed cedar tree suited to oil-box making because it bends and
+    resists splitting under heat.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 652-768; section 'The Making of Oil-Boxes,' internal lines 10-30
+  quote_or_summary: The maker chops measured notches in the cedar log, removes a block,
+    measures ten spans and four fingerwidths, and uses closely placed wedges and a
+    stone hammer to split off the top piece.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:6
+  type: summary
+  locator: lines 652-768; section 'The Making of Oil-Boxes,' internal lines 30-45
+  quote_or_summary: The maker measures a finger-thick board, marks the split line
+    with a straight-edged cedar stick and marking-wedge, drives wedges along the line,
+    carries split boards outside the house, and adzes the faces and edges.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source metadata; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a procedural ethnographic description of box-making. Literal
+    craft extraction is high confidence. Motif candidates are limited to observable
+    technical and social patterns, not mythological taxonomy motifs. No passage-supported
+    comparison claims were identified.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No supplied mythic motif-family taxonomy ref is directly supported by this passage. The available symbol taxonomy ref 'tree' is used only for the literal cedar tree and cedar-derived materials.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-ethnology-kwakiutl-1-boas-hunt-archive__l652-l768
+  passage_sha256=9234472124e348ac787ffb17c03ce7d52e8b6cb437320e3cd42335c27e9979c4
+

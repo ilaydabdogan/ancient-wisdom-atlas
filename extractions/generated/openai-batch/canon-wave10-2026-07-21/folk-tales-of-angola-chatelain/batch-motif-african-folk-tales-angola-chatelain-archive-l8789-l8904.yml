@@ -1,0 +1,236 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l8789-l8904
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: THE PAST AND THE FUTURE. / NGUNZA KILUNDU KIA NGUNZA. / NGUNZA KILUNDU KIA
+    NGUNZA. / NO. I. VERSION A.; lines 8789-8904
+  start: '8789'
+  end: '8904'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of editorial notes explaining Ki-mbundu and Portuguese-derived
+    terms, idioms, places, and cultural practices. Motif-relevant notes identify kalubungu
+    as a magic box recurring in Angolan legends and describe kola nuts and ginger
+    as both strengthening provisions and symbolic courtship acceptance tokens in Loanda.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kalubungu is defined as a magic box and is said to play an important role
+    in many Angolan legends.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says the etymology of kalubungu is uncertain and relates mbungu or
+    lu-mbungu to bamboo-tree or a piece of bamboo.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Kola nuts are described as nourishing and strengthening, and people take extra
+    supplies before heavy marches or fatiguing work.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the Loanda district, kola nuts and native ginger are eaten together, especially
+    in the early morning.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In Loanda courtship, a man sends a message to a girl or woman; if she accepts,
+    she sends him a kola nut and a piece of ginger wrapped in a triangular, heart-shaped
+    handkerchief.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Ikandu is glossed as probably deriving from Portuguese encanto and meaning
+    charm or spell.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: courtship message sender
+  description: A man who wants to court a girl or woman and sends her a message.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: courtship respondent
+  description: A girl or woman who may accept the courtship message by sending symbolic
+    objects.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: suitor or message sender
+  assigned_to:
+  - fig:1
+  basis: The passage describes a man wanting to court and sending a message.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: recipient or accepting respondent
+  assigned_to:
+  - fig:2
+  basis: The passage describes the girl or woman sending back kola nut and ginger
+    if she accedes.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: kalubungu magic box
+  literal_form: Magic box called kalubungu.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: kola nut and ginger courtship token
+  literal_form: A kola nut and a piece of ginger wrapped in a handkerchief folded
+    triangularly like a heart.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: kola nuts as strengthening provisions
+  literal_form: Kola nuts taken as an extra supply before heavy marches or tiring
+    work.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: charm or spell
+  literal_form: Ikandu, glossed as charm or spell.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Loanda courtship acceptance exchange
+  summary: A man sends a courtship message to a girl or woman; if she agrees, she
+    returns a kola nut and ginger wrapped in a triangular, heart-shaped handkerchief.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: recurring magic box in Angolan legends
+  taxonomy_refs: []
+  basis: The note explicitly defines kalubungu as a magic box and states that it has
+    an important role in many Angolan legends.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an editorial note and does not provide a specific legend
+    episode or describe the box's actions.
+- id: motif:2
+  label: courtship acceptance through object-token exchange
+  taxonomy_refs: []
+  basis: The passage describes a Loanda courtship convention in which acceptance is
+    signaled by sending kola nut and ginger wrapped in a heart-like triangular handkerchief.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as a cultural practice with symbolic meaning,
+    not as a mythic or sacred episode.
+- id: motif:3
+  label: strengthening food for arduous travel or work
+  taxonomy_refs: []
+  basis: The passage describes kola nuts as nourishing and as carried in extra supply
+    before heavy marches or fatiguing work.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a practical cultural observation; no narrative motif is developed
+    in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious recurrence claim that kalubungu belongs to
+    a wider Angolan legend pattern involving a magic box.
+  claim_level: same_motif
+  target: other Angolan legends involving kalubungu as a magic box
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No specific parallel tale, episode, or function of the box is given
+    in the supplied passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8842-8851, note 31
+  quote_or_summary: Kalubungu is described as a magic box with an important role in
+    many Angolan legends; the note also discusses uncertain etymology and possible
+    relation to bamboo terms.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8852-8855, note 32
+  quote_or_summary: Kola nuts are described as nourishing and toning, and people take
+    extra supplies before heavy marches or fatiguing work.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8855-8858, note 32
+  quote_or_summary: In the Loanda district, people eat kola nuts and native ginger
+    together, especially in the early morning; much of the market supply comes from
+    the Cazengo mountains.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8858-8863, note 32
+  quote_or_summary: 'The note states that kola nuts and ginger have symbolic meaning
+    in Loanda courtship: if a woman accepts a man''s courtship message, she sends
+    him kola nut and ginger wrapped in a triangular, heart-shaped handkerchief.'
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8836-8841, note 30
+  quote_or_summary: Ikandu is glossed as probably from Portuguese encanto, meaning
+    charm or spell.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The supplied passage is an editorial notes section rather than a continuous
+    tale episode. Symbolic and motif-relevant details are explicit, but narrative
+    functions are mostly absent.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy references were assigned because the passage does not directly support the listed motif-family or symbol IDs beyond general object-symbol extraction.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l8789-l8904
+  passage_sha256=5d1e0967b17cfadfa60ab37d1348a2184ecd8b6d87ec4d147239b8d27a748972
+

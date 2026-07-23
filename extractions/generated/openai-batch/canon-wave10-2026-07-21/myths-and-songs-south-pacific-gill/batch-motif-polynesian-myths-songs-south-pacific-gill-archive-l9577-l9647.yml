@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l9577-l9647
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: INUINU   TAI. / FIRST   OFFSHOOT. / INUINU   RUA.  SECOND   OFFSHOOT. / INUINU  TORU.  THIRD  OFFSHOOT.;
+    lines 9577-9647
+  start: '9577'
+  end: '9647'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A soloist and chorus describe a difficult journey through named places.
+    The travelers press forward, try not to miss the way, identify a landing-place
+    and difficult entrance, see a father watching, rest when the sun is low, pass
+    stones and the gloomy cave Raupa, identify themselves as friendless ghosts at
+    Auneke, look toward the setting sun, are followed and beckoned back by Mitimiti,
+    halt, depart, and wear mourning weeds and flowers.
+  language: Mangaian with English translation/glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speakers urge pressing forward on a journey and taking care not to miss
+    the way.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A landing-place is identified, and its entrance is described as difficult
+    to find.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says that a father is present on Pepeura and is watching their
+    course.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The sun is low, the travelers rest, their feet are worn over stones, and the
+    gloomy cave Raupa is visible.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speakers identify themselves as friendless ghosts who have reached Auneke.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The speakers are instructed to look eastward, look westward, and gaze at the
+    setting sun.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Mitimiti is said to follow hard behind and beckon the speaker to return.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The group halts awhile, then is told it is time to depart.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The speakers describe their garments as mourning weeds and flowers.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: journeying group / friendless ghosts
+  description: The speaking group on the journey; they describe their feet, garments,
+    halts, departure, and state that they are friendless ghosts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: my father
+  description: A father said to be on Pepeura, watching the travelers' course.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Mitimiti
+  description: A named figure said to follow hard behind and beckon the speaker to
+    return.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: ghost travelers
+  assigned_to:
+  - fig:1
+  basis: The group is on a journey, has worn feet, halts and departs, and is explicitly
+    called friendless ghosts.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:2
+  label: watching father
+  assigned_to:
+  - fig:2
+  basis: The father is said to be watching the travelers' course from Pepeura.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: beckoner to return
+  assigned_to:
+  - fig:3
+  basis: Mitimiti follows behind and beckons the speaker to return.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: difficult entrance
+  literal_form: landing-place with an entrance difficult to find
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: gloomy cave Raupa
+  literal_form: the gloomy cave Raupa
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: setting sun
+  literal_form: low sun / setting sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: stones on the path
+  literal_form: stones over which the travelers' feet are worn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: mourning weeds and flowers
+  literal_form: garments described as mourning weeds and flowers
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: beckoning return gesture
+  literal_form: Mitimiti beckoning the speaker to return
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Wayfinding toward a landing-place
+  summary: The travelers press forward on their journey, avoid missing the way, and
+    identify a landing-place with an entrance that is hard to find.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rest near stones and Raupa
+  summary: A father watches the travelers' course; the sun is low, the group rests,
+    their feet are worn over stones, and the gloomy cave Raupa is seen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Friendless ghosts at Auneke
+  summary: The travelers move slowly, identify themselves as friendless ghosts at
+    Auneke, and are directed to look eastward, westward, and at the setting sun.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Beckoned return and departure
+  summary: Mitimiti follows behind and beckons the speaker to return; the group halts,
+    then prepares to depart while wearing mourning weeds and flowers.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: afterlife journey through named waypoints
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage describes ghosts traveling through named places, wayfinding,
+    a difficult entrance, resting points, a cave, and continued departure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The excerpt is one segment of a longer song and does not give the full
+    route or final destination.
+- id: motif:2
+  label: beckoning return from the path
+  taxonomy_refs:
+  - return
+  basis: Mitimiti follows behind and beckons the speaker to return during the journey.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The identity of Mitimiti and the reason for the beckoning are not explained
+    in this excerpt.
+- id: motif:3
+  label: mourning attire of ghost travelers
+  taxonomy_refs: []
+  basis: The traveling group describes its garments as mourning weeds and flowers,
+    in a passage where the travelers are called ghosts.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The symbolic meaning of the plants or garments is not explained in the
+    passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage can be cautiously compared by function to an afterlife-journey
+    map pattern: ghosts move through named locations, seek the correct way, encounter
+    a difficult entrance, pause, and continue onward.'
+  claim_level: same_function
+  target: afterlife_journey_map motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to functional similarity within the supplied taxonomy;
+    the excerpt does not itself compare traditions or establish historical relationship.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9577-9647, opening journey lines
+  quote_or_summary: '"Press forwards on our journey; Take care that we miss not the
+    way."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 9577-9647, landing-place and entrance
+  quote_or_summary: '"Yonder is the landing-place"; the entrance is described as "so
+    difficult to find."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 9577-9647, father on Pepeura
+  quote_or_summary: '"There, too, is my father" and he is "watching our course."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 9577-9647, low sun, stones, and Raupa
+  quote_or_summary: '"The sun is low; rest we awhile"; "Our feet are worn out over
+    these stones"; "Yonder is the gloomy cave Raupa."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 9577-9647, Auneke
+  quote_or_summary: '"Let us move slowly on our way"; "We friendless ghosts have reached
+    Auneke."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: lines 9577-9647, directions and sun
+  quote_or_summary: '"Look eastward; look westward; Gaze at the setting sun."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: quote
+  locator: lines 9577-9647, Mitimiti and departure
+  quote_or_summary: '"Mitimiti is following hard behind, Beckoning me to return";
+    "Here let us halt awhile"; "''Tis time, friends, to depart."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:8
+  type: quote
+  locator: lines 9577-9647, garments
+  quote_or_summary: '"Our garments are mourning weeds and flowers."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the supplied translated glosses. Motif labeling
+    is cautious because the passage is an excerpt of a larger song and does not explain
+    all named places or figures.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references were limited to provided motif families and symbols.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l9577-l9647
+  passage_sha256=aeb1921d59d46f23264c6bf5f978926824739c9206c3c418b45c90fba778dfeb
+

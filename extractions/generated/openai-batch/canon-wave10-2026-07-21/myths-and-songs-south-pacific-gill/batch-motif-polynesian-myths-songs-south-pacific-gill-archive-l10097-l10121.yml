@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l10097-l10121
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: TUMU.  INTRODUCTION. / PAPA.  FOUNDATION. / INUINU  TAI.  FIRST  OFFSHOOT.
+    / INUINU  RUA.  SECOND  OFFSHOOT.; lines 10097-10121
+  start: '10097'
+  end: '10121'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A solo and chorus song names a feast for the dead, likens it to Tiki's
+    earlier feast, and says it was for beloved Ura, who is in his grave, condemned
+    to feed on red worms and other vile creatures, yet also addressed as a pet child
+    who has taken a place among the gods.
+  language: Mangaian with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is structured as alternating solo and chorus lines in a section
+    titled “Second Offshoot.”
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: obs:2
+  text: A feast for the dead is said to be like Tiki's feast long ago.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The feast is said to have been designed for beloved Ura.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ura is said to be condemned to feed on red worms, earth-worms, and other vile
+    creatures.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Ura is addressed as a pet child and told that he has taken his place among
+    the gods.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The feast is said to have been borne for Ura in his grave, and is described
+    as dry and like Tiki's.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Tiki
+  description: A named figure whose earlier feast is used as a comparison for the
+    feast in this song.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Ura
+  description: Beloved Ura, addressed as a pet child; said to be in his grave, condemned
+    to feed on worms and other vile creatures, and to have taken a place among the
+    gods.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the gods
+  description: A collective among whom Ura is said to have taken his place.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: precedent figure for a feast
+  assigned_to:
+  - fig:1
+  basis: The feast for the dead and the feast borne for Ura are both described as
+    like Tiki's.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: deceased recipient of a feast
+  assigned_to:
+  - fig:2
+  basis: The song says the feast was designed for Ura and was for Ura in his grave.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: one said to have taken place among the gods
+  assigned_to:
+  - fig:2
+  basis: Ura is addressed as a pet child who has taken his place among the gods.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: divine collective
+  assigned_to:
+  - fig:3
+  basis: The gods are named as the group among whom Ura has taken his place.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: feast for the dead
+  literal_form: feast
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: red worms and earth-worms
+  literal_form: red worms; earth-worms; other vile creatures
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: grave
+  literal_form: grave
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: dry feast
+  literal_form: feast described as all dry
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Feast for Ura in the grave
+  summary: The song states that a feast for the dead, modeled on Tiki's earlier feast,
+    was made for Ura. Ura is described as in his grave and feeding on worms and vile
+    creatures, while also being addressed as a pet child who has taken a place among
+    the gods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: funerary feast for a named dead person
+  taxonomy_refs: []
+  basis: The passage repeatedly identifies a feast for the dead and says it was designed
+    and borne for Ura in his grave.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain the ritual procedure or purpose beyond the
+    feast being for the dead and for Ura.
+- id: motif:2
+  label: dead person associated with worms in the grave
+  taxonomy_refs: []
+  basis: Ura is described as condemned to feed on red worms, earth-worms, and other
+    vile creatures, and is later said to be in his grave.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The song gives a vivid mortuary image but does not elaborate a wider underworld
+    geography or journey.
+- id: motif:3
+  label: deceased beloved taking a place among the gods
+  taxonomy_refs: []
+  basis: Ura is addressed as a pet child who has taken his place among the gods.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The wording supports association with the gods, but the passage does not
+    specify the mechanism, status, or theology of this placement.
+- id: motif:4
+  label: present rite modeled on an ancestral precedent
+  taxonomy_refs: []
+  basis: The feast for Ura is twice compared with Tiki's feast, described as occurring
+    long ago.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The details of Tiki's feast are not given in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the feast for Ura with Tiki's earlier feast,
+    presenting the present feast as similar to a prior precedent.
+  claim_level: same_function
+  target: Tiki's earlier feast
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the song; the passage does not provide
+    details about Tiki's feast beyond the analogy.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 10097-10121
+  quote_or_summary: "“That feast for the dead, / like Tiki's — long ago”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: 10097-10121
+  quote_or_summary: "“Was designed for our beloved Ura, / Who is condemned to feed
+    on red / worms”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: 10097-10121
+  quote_or_summary: "“Yes, on earth-worms and other vile / creatures.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: 10097-10121
+  quote_or_summary: "“Pet child, thou hast taken thy place / amongst the gods.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: 10097-10121
+  quote_or_summary: "“'Twas for Ura in his grave / We bore a feast, all dry, like
+    Tiki's.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied translation. Motif
+    labels are conservative and mostly not mapped to the supplied taxonomy because
+    the passage does not explicitly support those broader categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external context used; comparison claim limited to the passage's own comparison with Tiki's feast.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l10097-l10121
+  passage_sha256=5a3fbe952cd68a711abd6d28250d9220654ae94716e2c13dc5e46e1d06012f3f
+

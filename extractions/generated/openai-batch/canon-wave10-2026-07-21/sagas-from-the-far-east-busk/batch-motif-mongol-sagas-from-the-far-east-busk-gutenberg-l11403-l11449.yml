@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.mongol-sagas-from-the-far-east-busk-gutenberg-l11403-l11449
+source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+passage_locator:
+  label: TALE XXII. / TALE XXIII. / THE BOY-KING. / THE FALSE FRIEND.; lines 11403-11449
+  start: '11403'
+  end: '11449'
+  translation: Sagas from the Far East
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes to “The False Friend” compare the story with Arabian Nights
+    589–593, discuss a jewel-merchant entrusting a jewel to a friend without written
+    proof, explain the term stupa and related sacred structures, and note Eastern
+    tales of jewels with talismanic properties, including a magic jewelled seal-ring
+    that attracts other jewels in water.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that “The False Friend” should be compared with a story
+    in Arabian Nights, Nights 589–593.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A jewel-merchant entrusted a jewel to his friend without written proof of
+    the trust.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note says the friend did not deny receiving the jewel, because the jewel-merchant’s
+    word would be accepted against his.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A stupa is described as a shrine, sometimes a natural cave and sometimes artificially
+    hewn, containing relics or commemorating a sacred incident in the life of a Buddhist
+    teacher.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says a stupa was instituted where Shâkjamuni was traditionally
+    believed to have left a footprint.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that jewels with talismanic properties are common in Eastern
+    story.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Ktesias is cited for an Indian magic jewelled seal-ring called Pantarba, which
+    attracts other jewels when thrown into water.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A merchant is said to have drawn out one hundred and seventy-seven other jewels
+    and seals by means of the magic jewelled seal-ring.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: jewel-merchant
+  description: A merchant who entrusted a jewel to his friend without written proof.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: friend
+  description: The person to whom the jewel-merchant entrusted the jewel; the note
+    refers to his fraud and says he did not deny receiving the jewel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Shâkjamuni
+  description: A noted Buddhist teacher; the passage mentions a tradition that he
+    left a footprint and an incident near Kapilvastu connected with his serious contemplations.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: merchant with Pantarba ring
+  description: A merchant who used a magic jewelled seal-ring to draw out other jewels
+    and seals.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: entruster of jewel
+  assigned_to:
+  - fig:1
+  basis: The jewel-merchant committed a jewel to his friend without written proof.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: false friend or fraudulent trustee
+  assigned_to:
+  - fig:2
+  basis: The note identifies the recipient as the friend and refers to concealing
+    his fraud.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Buddhist teacher commemorated by stupas
+  assigned_to:
+  - fig:3
+  basis: The passage describes stupas as commemorating sacred incidents in the life
+    of a noted Buddhist teacher and gives examples involving Shâkjamuni.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: user of talismanic jewel
+  assigned_to:
+  - fig:4
+  basis: The merchant drew out jewels and seals by means of the magic jewelled seal-ring.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: entrusted jewel
+  literal_form: jewel entrusted by a jewel-merchant to his friend
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: stupa shrine
+  literal_form: stupa, described as a shrine, natural cave, or artificially hewn sacred
+    place
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: footprint shrine
+  literal_form: stupa at a place where Shâkjamuni was traditionally said to have left
+    a footprint
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: talismanic jewel
+  literal_form: magic jewelled seal-ring called Pantarba
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: water attracting jewels
+  literal_form: water into which the Pantarba ring is thrown to attract other jewels
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Unwritten trust and fraud
+  summary: A jewel-merchant entrusts a jewel to a friend without written proof; the
+    note says the friend’s fraud was not concealed by denying receipt because the
+    merchant’s word would be accepted.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Sacred Buddhist commemorative structures
+  summary: The note defines stupas as sacred shrines, sometimes caves or hewn spaces,
+    containing relics or commemorating sacred incidents connected with Buddhist teachers,
+    including Shâkjamuni.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Magic ring drawing jewels from water
+  summary: A magic jewelled seal-ring called Pantarba attracts other jewels when thrown
+    into water, and a merchant uses it to draw out many jewels and seals.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: false friend entrusted with treasure
+  taxonomy_refs: []
+  basis: The note describes a jewel-merchant entrusting a jewel to a friend and refers
+    to the friend’s fraud.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an editorial note rather than the full narrative; details
+    of the tale are not present.
+- id: motif:2
+  label: talismanic jewel attracting other jewels
+  taxonomy_refs: []
+  basis: The passage states that talismanic jewels are common in Eastern story and
+    cites a magic jewelled seal-ring that attracts jewels from water.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is cited as a comparative note, not necessarily as an episode within
+    the tale itself.
+- id: motif:3
+  label: sacred commemorative shrine at holy trace
+  taxonomy_refs: []
+  basis: The passage describes stupas as sacred shrines and mentions one associated
+    with a traditional footprint of Shâkjamuni.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The stupa discussion is explanatory background and may not correspond
+    to a narrative action in the tale.
+comparison_claims:
+- id: claim:1
+  claim: The editor explicitly invites comparison between “The False Friend” and a
+    story in Arabian Nights, Nights 589–593.
+  claim_level: same_motif
+  target: Arabian Nights, Nights 589–593
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note gives only a comparison reference and does not summarize the
+    Arabian Nights episode, so the exact shared elements cannot be verified from this
+    passage alone.
+- id: claim:2
+  claim: The note places talismanic jewels in a broader Eastern-story pattern by stating
+    that jewels endowed with talismanic properties are common in Eastern story.
+  claim_level: same_motif
+  target: Eastern story motif of talismanic jewels
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives one cited example but does not provide a full comparative
+    corpus or demonstrate direct historical connection.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 11403-11406
+  quote_or_summary: "“Compare this story with that given Nights 589-593 of Arabian
+    Nights.”"
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 11407-11423
+  quote_or_summary: The note discusses a jewel-merchant who entrusted a jewel to a
+    friend without written proof, compares this with customs of taking no written
+    acknowledgments, and says the friend did not deny receipt because the merchant’s
+    word would be accepted.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 11424-11428
+  quote_or_summary: A stupa is defined as a shrine, often a natural cave or artificially
+    hewn place, containing relics or commemorating a sacred incident in the life of
+    a Buddhist teacher.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 11428-11433
+  quote_or_summary: The passage mentions stupas instituted at a place where Shâkjamuni
+    was traditionally said to have left a footprint and at Kapilvastu over the spot
+    connected with his turn to serious contemplation.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: 11444-11445
+  quote_or_summary: "“The notion of jewels being endowed with talismanic properties
+    is common in Eastern story.”"
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: summary
+  locator: 11445-11449
+  quote_or_summary: Ktesias is cited for a magic Indian jewelled seal-ring called
+    Pantarba, which attracts other jewels when thrown into water; a merchant used
+    it to draw out one hundred and seventy-seven jewels and seals.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage consists of editorial notes rather than a full tale narrative.
+    Motifs and comparisons are therefore extracted only from explicit statements in
+    the notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No unsupported taxonomy IDs were added beyond available symbol refs for cave and water.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mongol-sagas-from-the-far-east-busk-gutenberg__l11403-l11449
+  passage_sha256=3db25bdd8a65b88453452b5dbbb98fb9d89643aa491ceeb19edafcc65a85fac5
+

@@ -1,0 +1,241 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l10984-l11035
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / SEVENTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OE  THE  YNCAS.
+    / SEVENTH  BOOK  OP  THE  ROYAL; lines 10984-11035
+  start: '10984'
+  end: '11035'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage identifies several Cuzco wards and house sites by their Inca-period
+    names and later Spanish occupants. Hatun-cancha is glossed as the great enclosure
+    and described as the site of a palace of Ynca Yupanqui. Puca Marca is glossed
+    as the red ward and described as the site of the palace of Tupac Ynca Yupanqui.
+    The passage also lists Spanish conquerors and residents associated with houses
+    in or near these areas.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hatun-cancha is translated in the passage as the great enclosure.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hatun-cancha is described as the site of a palace of Ynca Yupanqui.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Puca Marca is translated in the passage as the red ward.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Puca Marca is described as the site of the palace of Tupac Ynca Yupanqui.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage names later Spanish occupants or owners of houses south of Diego
+    Maldonado’s residence, including Francisco Hernandez Giron, Antonio Altamirano,
+    Francisco de Trias, and Sebastian de Cayalla.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A further large ward to the south is said to have contained houses of Alonzo
+    de Loaysa, Martin de Meneses, Juan de Figueroa, Don Pedro Puertocarrero, and Garcia
+    de Melo.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ynca Yupanqui
+  description: An Inca king whose palace is located at Hatun-cancha in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Tupac Ynca Yupanqui
+  description: An Inca ruler whose palace is located at Puca Marca in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Diego Maldonado
+  description: A later resident whose residence is used as a locator for nearby houses.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Antonio Altamirano
+  description: One of the first conquerors; his former house is listed beyond the
+    houses formerly belonging to Francisco Hernandez Giron.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Francisco Hernandez Giron
+  description: A Spanish figure whose former houses are listed south of Diego Maldonado’s
+    residence.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Inca royal palace-associated figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage identifies palace sites associated with Ynca Yupanqui and Tupac
+    Ynca Yupanqui.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: Spanish colonial house-associated figure
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage uses Diego Maldonado’s residence and the former houses of Spanish
+    figures to locate sites in Cuzco.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Great enclosure
+  literal_form: Hatun-cancha, glossed as the great enclosure
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Red ward
+  literal_form: Puca Marca, glossed as the red ward
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Royal palace site
+  literal_form: Palace locations associated with named Inca rulers
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Identification of Hatun-cancha
+  summary: The passage identifies Hatun-cancha as a former Inca-period site and states
+    that it contained the palace of Ynca Yupanqui.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Colonial residences near the Inca sites
+  summary: The passage lists Spanish residences and former houses around the same
+    street and nearby areas.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Identification of Puca Marca
+  summary: The passage identifies Puca Marca as the red ward and as the site of the
+    palace of Tupac Ynca Yupanqui.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Royal residence marking urban memory
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage preserves place names and palace locations associated with named
+    Inca rulers within the later colonial cityscape.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: low
+  cautions: The passage is topographical and historical rather than mythic; it does
+    not explicitly discuss ritual legitimacy, divine kingship, or succession claims.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10984-10989
+  quote_or_summary: The site was called Hatun-cancha, meaning the great enclosure,
+    and contained the palace of Ynca Yupanqui.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10989-10994
+  quote_or_summary: South of Diego Maldonado’s residence were houses formerly belonging
+    to Francisco Hernandez Giron; beyond them were houses associated with Antonio
+    Altamirano, Francisco de Trias, Sebastian de Cayalla, and others.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10994-10997
+  quote_or_summary: The ward called Puca Marca means the red ward and was the site
+    of the palace of Tupac Ynca Yupanqui.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10997-11002
+  quote_or_summary: A further large ward to the south contained houses of Alonzo de
+    Loaysa, Martin de Meneses, Juan de Figueroa, Don Pedro Puertocarrero, and Garcia
+    de Melo.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The topographical and historical details are clear, but motif identification
+    is weak because the passage does not narrate a mythic event or explicitly state
+    symbolic functions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a direct comparison to another motif family, text, or tradition.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l10984-l11035
+  passage_sha256=5e1a7d4030e8f33bfb1e2e0b62c7246f6aeaaac45ee02e6478b4af5142b43efb
+

@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l8306-l8330
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XXIX. / SIXTH  BOOK  OP  THE  BOYAL / COMMENTARIES  OF  THE  YNCAS.
+    / COMMENTARIES  OF  THE  YNCAS.; lines 8306-8330
+  start: '8306'
+  end: '8330'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports claims about the conquest of Chuquimancu and the Yuncas,
+    emphasizing gifts, promises, and hunger as instruments of subjugation. It then
+    describes the Yncas treating this conquest as a major success and ordering a small
+    but remarkable fortress at Huarcu as a lasting memorial. The narrator says he
+    saw the structure in 1560, when it still showed traces of its former grandeur.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage reports an assertion that the conquered were overcome more through
+    gifts, promises, and hunger than by force or arms.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Yncas considered the subjugation of King Chuquimancu to be an important
+    success.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Yncas ordered a fortress to be erected in the valley called Huarcu in
+    perpetual memory of the deeds of their soldiers and of the Yuncas.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The fortress is described as small in extent but grand and marvellous in construction,
+    with its base washed by the sea.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The narrator states that when he passed the fortress in 1560 it still showed
+    what it once had been.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Yncas
+  description: The group who valued the conquest highly and ordered the fortress to
+    be erected.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: King Chuquimancu
+  description: The king whose subjugation is described as a very important success
+    for the Yncas.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: The Yuncas
+  description: A group whose deeds, along with those of the Ynca soldiers, were to
+    be remembered by the fortress.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Ynca soldiers
+  description: The soldiers whose deeds were to be commemorated by the fortress.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Narrator
+  description: The first-person observer who says he passed the fortress in 1560.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Commemorating conquerors
+  assigned_to:
+  - fig:1
+  basis: The Yncas valued the conquest and ordered a fortress as a memorial.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Subjugated king
+  assigned_to:
+  - fig:2
+  basis: The passage names Chuquimancu as the king whose subjugation was important
+    to the Yncas.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Memorialized combatants or peoples
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The fortress was ordered in memory of the deeds of the Ynca soldiers and
+    the Yuncas.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Eyewitness observer
+  assigned_to:
+  - fig:5
+  basis: The narrator reports seeing the fortress in 1560.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Memorial fortress
+  literal_form: A fortress in the valley called Huarcu, small in extent but grand
+    and marvellous in construction.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Sea-washed base
+  literal_form: The fortress base being washed by the sea.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Gifts and promises
+  literal_form: Gifts and promises named as means by which conquest was achieved.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Conquest by inducement and deprivation
+  summary: The passage reports that the conquered were overcome more by gifts, promises,
+    and hunger than by direct force of arms.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fortress ordered at Huarcu
+  summary: The Yncas regard Chuquimancu’s subjugation as a major success and order
+    a fortress built at Huarcu to remember the deeds of their soldiers and the Yuncas.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Later eyewitness view
+  summary: The narrator says that in 1560 the fortress still displayed traces of its
+    former grandeur, provoking regret in observers.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Royal conquest commemorated by monumental construction
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Yncas value the conquest as important and order a fortress built as a
+    perpetual memorial of deeds associated with it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is political and commemorative; it does not explicitly frame
+    the fortress as sacred or ritual.
+- id: motif:2
+  label: Conquest through gifts, promises, and hunger rather than arms
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage contrasts gifts and promises, along with hunger, against force
+    and arms as means of conquest.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The exchange is strategic and political rather than explicitly sacred;
+    the taxonomy link is therefore tentative.
+- id: motif:3
+  label: Ruined monument preserving memory of former grandeur
+  taxonomy_refs: []
+  basis: The narrator says the fortress still showed what it once had been when seen
+    in 1560, causing regret among observers.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a literary-historical pattern in the passage, not a clearly named
+    mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8306-8312
+  quote_or_summary: '"conquered more through gifts and promises than by force, and
+    by hunger rather than by arms."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 8313-8315
+  quote_or_summary: '"The Yncas considered the subjugation of the king Chuquimancu
+    to be a very important success."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 8315-8321
+  quote_or_summary: The Yncas valued the conquest highly and ordered a fortress in
+    the valley of Huarcu as a perpetual memorial of the deeds of their own soldiers
+    and of the Yuncas.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 8321-8326
+  quote_or_summary: The fortress is described as small in extent, grand and marvellous
+    in construction, and situated with its base washed by the sea.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:5
+  type: summary
+  locator: lines 8327-8330
+  quote_or_summary: The narrator says he passed the fortress in 1560 and that it still
+    showed what it once had been, deepening the regret of those who looked at it.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the passage. Motif assignment is
+    cautious because the passage is historical-commemorative rather than explicitly
+    mythic. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Passage begins mid-sentence, so claims in the opening lines were treated cautiously and only fully legible assertions were extracted.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l8306-l8330
+  passage_sha256=1f18702181d3dadd74b4c1c4f906781acec047c6d309ca0757fc33a5f47e83fc
+

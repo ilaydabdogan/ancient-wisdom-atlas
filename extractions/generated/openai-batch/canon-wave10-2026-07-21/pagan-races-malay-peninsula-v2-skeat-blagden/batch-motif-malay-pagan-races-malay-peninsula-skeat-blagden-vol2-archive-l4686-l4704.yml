@@ -1,0 +1,223 @@
+---
+record_id: batch.motif.malay-pagan-races-malay-peninsula-skeat-blagden-vol2-archive-l4686-l4704
+source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+passage_locator:
+  label: SAKAI  OF  PERAK  65 / VOL.   II  F / MARRIAGE  CUSTOMS  AND  BELIEFS / VOL.  II;
+    lines 4686-4704
+  start: '4686'
+  end: '4704'
+  translation: Pagan Races of the Malay Peninsula, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A footnote comments that the customs of three races are very different,
+    criticizes a sweeping statement, and explains Vaughan-Stevens'' use of “exogamy”
+    as marriage between different branches of the same race rather than marriage with
+    strangers or foreigners. It gives an example with tribes A, B, and C as pure-blood
+    groups and D as a mixed Orang Laut and Jakun group: A, B, and C may take wives
+    from one another, but none may take a wife from D.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the customs of three races are very different and
+    calls a sweeping statement about them meaningless and indefensible.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Vaughan-Stevens is said to use “exogamy” for marriage within different branches
+    of the same race, not for intermarriage with strangers or foreigners.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the example, groups A, B, and C are described as pure-blood groups.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Group D is described as a mixed tribe of Orang Laut and Jakuns.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Groups A, B, and C are described as able to take wives from one another.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Groups A, B, and C are described as unable to take a wife from mixed tribe
+    D.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Group A
+  description: A pure-blood group that may take wives from B or C.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Group B
+  description: A pure-blood group that may take wives from A or C.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Group C
+  description: A pure-blood group that may take wives from B or A.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Group D
+  description: A mixed tribe of Orang Laut and Jakuns from which A, B, and C may not
+    take wives.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: pure-blood group
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage identifies A, B, and C as being of pure blood.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: mixed tribe
+  assigned_to:
+  - fig:4
+  basis: The passage identifies D as a mixed tribe of Orang Laut and Jakuns.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: permitted reciprocal marriage group
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage states that A, B, and C may take wives from one another.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: excluded wife-source group
+  assigned_to:
+  - fig:4
+  basis: The passage states that none of A, B, or C may take a wife from D.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Definition and example of exogamy
+  summary: The passage defines the cited author's use of exogamy and gives an example
+    in which three pure-blood groups may marry across their branches but may not take
+    wives from a mixed group.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Branch-to-branch exogamy within a single race
+  taxonomy_refs: []
+  basis: The passage explicitly defines exogamy as marriage within different branches
+    of the same race, rather than marriage with outsiders.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic marriage-rule pattern, not a mythic narrative
+    motif; no supplied taxonomy motif directly applies.
+- id: motif:2
+  label: Marriage prohibition against a mixed tribe
+  taxonomy_refs: []
+  basis: The example states that the pure-blood groups A, B, and C may take wives
+    from one another but not from mixed tribe D.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage reports a social rule in a footnote; it does not provide a
+    mythic explanation or symbolic interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4688-4692
+  quote_or_summary: The footnote says the customs of the three races are very different
+    and describes a sweeping statement as meaningless and indefensible.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 4694-4698
+  quote_or_summary: "“by exogamy he means marriage within the different branches of
+    the same race, not intermarriage with strangers or foreigners.”"
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 4698-4700
+  quote_or_summary: The example distinguishes A, B, and C as pure-blood groups and
+    D as a mixed tribe of Orang Laut and Jakuns.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4700-4703
+  quote_or_summary: The passage states that A may take wives from B or C, B from A
+    or C, and C from B or A.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4702-4704
+  quote_or_summary: The passage states that none of A, B, or C may take a wife from
+    the mixed tribe D.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The marriage-rule details are explicit, but their treatment as motif candidates
+    is cautious because the passage is ethnographic and does not present a mythic
+    narrative or symbolic explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No supplied taxonomy symbols are present in the passage. No comparison claims were added because the passage does not itself support a comparative mythological claim.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-pagan-races-malay-peninsula-skeat-blagden-vol2-archive__l4686-l4704
+  passage_sha256=54712de130c3f9936dd11331cf3b87e57171559bda20c3729197f237a0b51d06
+

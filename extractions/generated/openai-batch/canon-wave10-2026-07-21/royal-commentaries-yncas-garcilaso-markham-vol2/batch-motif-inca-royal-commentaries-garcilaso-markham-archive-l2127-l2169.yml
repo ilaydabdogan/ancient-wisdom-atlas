@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l2127-l2169
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: THE  ORDER  THEY  KEPT  IN  THEIR  PROPERTY,  BOTH  PUBLIC  AND / SPECIAL.
+    / FIFTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OI-'  THE  TNCAS.; lines 2127-2169
+  start: '2127'
+  end: '2169'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Inca organization of specialized mining and metal
+    work, reciprocal provisioning of laborers, central handling of common resources,
+    and a tripartite division of arable land among the Sun and its temple personnel,
+    the royal patrimony, and village inhabitants.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mines were worked only until the required amount was obtained, after which
+    they were not worked further.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Miners paid tribute through labor, received food, clothing, and tools from
+    royal or chiefly stores, and were required to work for two months.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Only people with knowledge of the special arts performed those arts; these
+    workers are called metal workers in the passage.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Copper, called anta, was used for weapons, knives, carpentry tools, cloak
+    pins, looking-glasses, digging spades, and hammers.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Copper was valued highly because it was more useful than gold and silver and
+    was in greater demand than other metals.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Salt, fish, fruit, cotton, and aloe leaves were treated as common resources
+    and sent to the Ynca.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: No individual was allowed to appropriate the common resources for private
+    use, but each person received what was required.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: An individual Indian was allowed to plant fruit trees on his own land and
+    enjoy them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: 'Arable lands were divided into three parts: one for the Sun, its temple,
+    and ministers; one for the royal patrimony; and one for the inhabitants of each
+    village.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Each Indian received a share of land sufficient to maintain his family.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ynca
+  description: Ruling authority who received common resources and divided arable lands
+    in every province.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: miners and metal workers
+  description: Specialized laborers knowledgeable in mining and metal work; their
+    tribute consisted of a limited term of labor.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: chief
+  description: A local authority whose stores could supply miners when they worked
+    for him; chiefs also used drinking vases mentioned at the start of the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: inhabitants / Indians of each village
+  description: Community members who received needed common resources and land shares
+    sufficient for family maintenance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Sun
+  description: Named sacred recipient of the first part of the divided arable lands,
+    together with its temple and ministers.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: central royal allocator and recipient
+  assigned_to:
+  - fig:1
+  basis: The Ynca receives common resources and divides arable lands among sacred,
+    royal, and village uses.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: specialist labor tribute providers
+  assigned_to:
+  - fig:2
+  basis: Miners and metal workers perform specialized labor as their tribute and receive
+    supplies from stores.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: local chiefly patron or authority
+  assigned_to:
+  - fig:3
+  basis: The passage mentions a chief's stores supplying workers when they work for
+    him.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: community beneficiaries and resource users
+  assigned_to:
+  - fig:4
+  basis: Inhabitants receive needed goods and land shares sufficient for family support.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: sacred land beneficiary
+  assigned_to:
+  - fig:5
+  basis: The first part of arable land is assigned to the Sun, its temple, and ministers.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: copper / anta
+  literal_form: Copper metal called anta, used for arms and tools.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fruit trees
+  literal_form: Fruit from trees treated as a common resource, while fruit trees may
+    also be planted on one's own land.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: waters as resource sources
+  literal_form: Sea, springs, and lakes as sources of salt and fish.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Sun estate
+  literal_form: The Sun named as recipient of a share of arable land, together with
+    temple and ministers.
+  associated_figures:
+  - fig:5
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: royal stores
+  literal_form: Stores that supply laborers and receive produce for royal and administrative
+    maintenance.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: specialized mining and metal-work labor
+  summary: Specialists mine and work metals only as needed; their labor tribute is
+    limited in duration and supported by food, clothing, and tools from stores.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: central handling of common resources
+  summary: Salt, fish, fruit, cotton, and aloe leaves are treated as common goods
+    sent to the Ynca and redistributed according to need, with no private appropriation
+    allowed.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: tripartite division of arable land
+  summary: The Ynca divides arable land into shares for the Sun and temple personnel,
+    the royal patrimony and stores, and the inhabitants of each village.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: reciprocal labor tribute and provisioning
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Miners provide labor as tribute while receiving food, clothing, and tools
+    from royal or chiefly stores, and their work obligation is limited to two months.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents an administrative labor arrangement; its sacred or
+    ritual dimension is not explicit in this section.
+- id: motif:2
+  label: sacralized royal land order
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Ynca divides arable land into shares that place the Sun and temple first,
+    the royal patrimony second, and village inhabitants third.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage supports a pattern of sacral-royal organization but does not
+    narrate a royal origin myth or enthronement episode.
+- id: motif:3
+  label: central redistribution of common goods
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Common resources are sent to the Ynca, private appropriation is disallowed,
+    and each person receives what is required.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The redistribution pattern is clear, but the passage frames it as social
+    and economic order rather than as a mythic exchange episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2127-2140
+  quote_or_summary: Mines are worked only until enough material is obtained; miners
+    pay no tribute except labor, receive food, clothing, and tools from royal or chiefly
+    stores, and work two months.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2141-2154
+  quote_or_summary: Specialized workers called metal workers use copper, called anta,
+    for weapons and many tools; copper is valued because it is more useful and more
+    demanded than gold or silver.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2155-2163
+  quote_or_summary: Salt, fish, fruit, cotton, and aloe leaves are common resources
+    sent to the Ynca; no one may appropriate them privately, each receives what is
+    required, and individuals may plant fruit trees on their own land.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2164-2169
+  quote_or_summary: 'The Yncas divide arable land into three parts: for the Sun, temple,
+    and ministers; for the royal patrimony and stores; and for the inhabitants of
+    each village, with each Indian receiving enough to maintain his family.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal administrative details are explicit. Motif labels are cautious because
+    the passage is not a mythic narrative, though it includes sacral and royal ordering
+    patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage does not itself support comparison to another specific text, tradition, or external motif pattern beyond candidate taxonomy mapping.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l2127-l2169
+  passage_sha256=b4ec72774344dd8b9e2c9beb0e176b956c2371a2b7f8793659d5d5459bb814e6
+

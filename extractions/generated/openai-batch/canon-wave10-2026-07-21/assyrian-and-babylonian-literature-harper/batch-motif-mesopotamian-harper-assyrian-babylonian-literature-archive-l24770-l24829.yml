@@ -1,0 +1,458 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l24770-l24829
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: COLOPHON / SEVENTH   TABLET / A  RITUAL  TABLET / A   RITUAL   TABLET; lines
+    24770-24829
+  start: '24770'
+  end: '24829'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A ritual prescription directs the raising of a cedar staff before Shamash,
+    the offering of an unblemished sheep, sprinklings and steps toward the slaughtered
+    animal, preparation of meat with washing and salt, placement of portions on tables
+    before Marduk and protecting deities, lighting or strewing of censers, prayer,
+    prostration, clearing of tables, and pouring out of sesame wine.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cedar staff is to be raised while standing in the presence of Shamash.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sheep is described as having unblemished flesh and auspicious appearances.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The ritual includes offering the sacrifice, holding the sheep, performing
+    sprinklings, and stepping toward the slaughtered animal.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Censers stand before a protecting god and a protecting goddess, and the instruction
+    says to strew them and repeat the previous procedure.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The right thigh, hinga flesh, and shume flesh are washed in a basin and sprinkled
+    with salt.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Prepared meat portions are placed on the tables of Marduk, the protecting
+    god, and the protecting goddess.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:7
+  text: The censer is lit after the prepared meat is placed on each divine table,
+    and a step is made toward the censer.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: The sacrificer raises his hand, prays, prostrates himself, clears away tables,
+    pours out sesame wine from a table, removes a censer, and prostrates himself again.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: second-person ritual officiant
+  description: The addressed ritual performer commanded by repeated 'thou shalt' instructions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the sacrificer
+  description: The person who holds the sheep and later raises his hand, prays, prostrates
+    himself, and clears ritual tables.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Shamash
+  description: A divine figure in whose presence the cedar staff is raised.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the sheep
+  description: An unblemished and auspicious sheep used in the sacrifice.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Marduk
+  description: A divine recipient with a table on which prepared meat is laid.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:6
+  name_or_label: protecting god
+  description: A divine recipient before whom a censer and table stand.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:7
+  name_or_label: protecting goddess
+  description: A divine recipient before whom a censer and table stand; later referred
+    to as the goddess.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: ritual officiant
+  assigned_to:
+  - fig:1
+  basis: The addressed performer is instructed to offer the sacrifice, perform sprinklings,
+    wash meat, place it on tables, light censers, and make ritual steps.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: sacrificer
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly names the sacrificer and assigns him actions of holding
+    the sheep, raising the hand, praying, prostrating, and clearing tables.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: role:3
+  label: divine recipient or divine presence
+  assigned_to:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Shamash is the divine presence before whom the staff is raised; Marduk and
+    the protecting god and goddess have tables or censers before them in the offering
+    sequence.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:4
+  label: sacrificial animal
+  assigned_to:
+  - fig:4
+  basis: The sheep is described as unblemished and auspicious, is held by the sacrificer,
+    and is associated with the offered sacrifice and slaughtered animal.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: cedar staff
+  literal_form: staff of cedar
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: unblemished sheep
+  literal_form: sheep whose flesh is unblemished and whose appearances are auspicious
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sprinklings and basin washing
+  literal_form: sprinklings; washing meat portions in a basin
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: censer
+  literal_form: censers standing before deities and being strewn or lit
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: salt
+  literal_form: salt sprinkled on washed meat portions
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: divine tables
+  literal_form: tables of Marduk, the protecting god, and the protecting goddess
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: sesame wine
+  literal_form: sesame wine standing upon a table and poured out
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Raising the cedar staff before Shamash
+  summary: The instruction begins with raising a cedar staff and standing in the presence
+    of Shamash, followed by a statement that the divinity be pleased concerning the
+    sheep.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sacrifice and sprinklings
+  summary: The sacrifice is offered; the sacrificer holds the sheep while sprinklings
+    are performed and a step is made toward the slaughtered animal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Censers before protecting deities
+  summary: Censers before the protecting god and protecting goddess are treated in
+    a repeated procedure.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Prepared meat placed on divine tables
+  summary: Specified meat portions are washed, salted, placed on the tables of Marduk
+    and the protecting deities, and accompanied by lighting the censer and stepping
+    toward it.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Prayer, prostration, and clearing away
+  summary: The sacrificer raises his hand, prays, prostrates himself, clears tables
+    before divine recipients, pours out sesame wine, removes a censer, and repeats
+    prostration.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Sacrificial offering with ritual preparation
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage prescribes offering a sheep sacrifice, performing sprinklings,
+    preparing meat portions with washing and salt, and placing them before deities.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is a ritual instruction rather than a narrative myth episode.
+- id: motif:2
+  label: Ritual gift or offering before divine recipients
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Prepared animal portions, censers, and sesame wine are handled before Shamash,
+    Marduk, and protecting deities in a sequence directed toward pleasing or addressing
+    divinity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explicitly state a reciprocal divine response; the
+    taxonomy match is based on the offering structure.
+- id: motif:3
+  label: Ritual purification through sprinkling and washing
+  taxonomy_refs: []
+  basis: The procedure includes sprinklings and washing designated meat portions in
+    a basin before salt is added and the portions are placed on divine tables.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The text gives the actions but does not explicitly name purification as
+    their purpose.
+- id: motif:4
+  label: Prayer and prostration in ritual closure
+  taxonomy_refs: []
+  basis: The sacrificer repeatedly raises his hand, prays, prostrates himself, and
+    clears ritual tables at the end of the sequence.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a procedural ritual pattern, not a comparative mythological claim
+    by itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 24770-24829; opening staff and Shamash instruction
+  quote_or_summary: '"May he raise the staff of cedar, and stand in the presence of
+    Shamash!"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 24770-24829; sheep description
+  quote_or_summary: '"this sheep, / All of whose flesh is unblemished, whose appearances
+    are auspicious."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 24770-24829; sacrifice and sprinklings instruction
+  quote_or_summary: The text instructs that the sacrifice be offered; the sacrificer
+    holds the sheep while sprinklings are performed, and a step is made toward the
+    slaughtered animal.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 24770-24829; second and third censer instructions
+  quote_or_summary: The second censer stands before the protecting god and the third
+    before the protecting goddess; each is to be strewn with the repeated procedure.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 24770-24829; Marduk table instruction
+  quote_or_summary: The right thigh, hinga flesh, and shume flesh are washed in a
+    basin, sprinkled with salt, laid on the table of Marduk, followed by lighting
+    the censer and stepping toward it.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 24770-24829; protecting god and goddess table instructions
+  quote_or_summary: The same washed and salted meat portions are laid on the tables
+    of the protecting god and protecting goddess, with a censer lit and a step made
+    toward it.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 24770-24829; goddess table clearing instruction
+  quote_or_summary: The sacrificer raises his hand, prays, prostrates himself, clears
+    the table before the goddess, pours out sesame wine from the table, removes the
+    censer, and prostrates himself.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 24770-24829; protecting god and Marduk table clearing instructions
+  quote_or_summary: The sacrificer repeats raised-hand prayer and prostration while
+    clearing the tables before the protecting god and before Marduk.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal ritual actions and figures are explicit. Motif assignments are limited
+    to broad procedural ritual patterns; no external comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not provide an explicit cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l24770-l24829
+  passage_sha256=2e94bbacff28b6982a2204ad99274eea81c4f26fc17d936e8686eb0ea6f49cf3
+

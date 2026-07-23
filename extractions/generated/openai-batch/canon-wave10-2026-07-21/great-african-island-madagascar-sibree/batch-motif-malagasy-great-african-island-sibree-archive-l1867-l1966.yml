@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l1867-l1966
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: LAGOONS.  25 / VIRGIN  FOREST.  27 / VOLCANIC  ACTION. / GEOLOGICAL  FORMATION.  31;
+    lines 1867-1966
+  start: '1867'
+  end: '1966'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage summarizes uncertain geological observations about Madagascar:
+    igneous disturbance, primary and volcanic rocks, clays, possible absence of fossils,
+    limestone and lime sources near Sirabe, springs and stalactite caves, slate in
+    the southern highlands, and reported minerals and rocks.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A line of igneous disturbance is described from Madagascar’s far north to
+    at least the twenty-third parallel, with possible continuation farther south but
+    no examination of that region.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author states that Madagascar’s geology is not yet known with exactness
+    and has not been systematically examined by a competent geologist.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The elevated central, northern, and eastern region is described as largely
+    composed of Primary and igneous rocks, including granite, gneiss, and basalt.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Quartz veins and rock-crystal are reported, and a hard whitish durable stone
+    is said to be used in Antananarivo for public buildings and native tombs.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Lower hills and high moors are usually bright red clay, with lighter clays
+    below the surface and rain-cut clefts on hillsides.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The clays are described as apparently lacking animal or vegetable organic
+    remains, making their geological age difficult to determine.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Columnar basalt, volcanic ash, decomposed lava, scoria, lava rock, and olivine
+    crystals are reported in the elevated region.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: At Sirabe, southwest of the Ankaratra mountains, a limestone deposit supplies
+    much lime used for building in the central province.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Jets of carbonic acid gas and springs are reported in the Sirabe plain, and
+    one spring has deposited rock with stalactite caves in its sides.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Clay-slate and valuable slate are reported in the southern elevated region
+    and Betsileo country; native slate roofs the royal chapel at Antananarivo.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Madagascar
+  description: The island whose geological formation is being described.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Elevated central, northern, and eastern region
+  description: A high region of the island described as largely composed of Primary
+    and igneous rocks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Sirabe
+  description: A place southwest of the Ankaratra mountains where a limestone deposit
+    and gas jets are described.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Ankaratra mountains
+  description: Mountains used as a geographic reference for the Sirabe limestone deposit.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Betsileo country and southern elevated region
+  description: Southern highland areas where clay-slate, slate, and other rocks are
+    reported.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: geological survey subject
+  assigned_to:
+  - fig:1
+  basis: The passage discusses the geology and geological formation of Madagascar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: highland igneous and primary rock zone
+  assigned_to:
+  - fig:2
+  basis: The elevated region is described as largely composed of Primary and igneous
+    rocks, with volcanic materials also noted.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: limestone and lime source locality
+  assigned_to:
+  - fig:3
+  basis: Sirabe is identified as the location of a limestone deposit supplying lime
+    for building.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: mountain landmark
+  assigned_to:
+  - fig:4
+  basis: The Ankaratra mountains locate Sirabe geographically.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: slate source region
+  assigned_to:
+  - fig:5
+  basis: The Betsileo country and southern elevated region are associated with clay-slate
+    and usable slate.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: Ankaratra mountains
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: cave
+  literal_form: stalactite caves in rock deposited by a spring
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: water
+  literal_form: springs rising to the surface
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Igneous disturbance and limits of examination
+  summary: The passage describes a north-south line of igneous disturbance and notes
+    uncertainty about the unexamined southernmost region.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Highland rocks, clays, and volcanic materials
+  summary: The elevated region is characterized by primary and igneous rocks, quartz,
+    crystals, varied clays, little organic evidence, and volcanic materials.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Sirabe limestone, gas, springs, and caves
+  summary: Sirabe is described as a local lime source near the Ankaratra mountains,
+    with carbonic acid gas jets, springs, and stalactite caves in deposited rock.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Southern highland slate reports
+  summary: The southern elevated region and Betsileo country are described as sources
+    of clay-slate and slate, including slate used on the royal chapel at Antananarivo.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1867-1875
+  quote_or_summary: A line of igneous disturbance is described from northern Madagascar
+    to at least the twenty-third parallel; possible continuation farther south remains
+    unexamined.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1877-1885
+  quote_or_summary: The author says Madagascar’s geology is little known with exactness
+    because no competent geologist has made a systematic examination.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1887-1902
+  quote_or_summary: The elevated central, northern, and eastern region is described
+    as largely Primary and igneous, with granite, gneiss, basalt, quartz veins, rock-crystal,
+    and durable building stone.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1904-1926
+  quote_or_summary: Lower hills and high moors are described as red clay with lighter
+    clays below, rain-cut clefts, alluvial valley clays, little organic remains, and
+    little stratification.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1928-1937
+  quote_or_summary: The elevated region is said to contain few recent sedimentary
+    rocks, but includes columnar basalt, volcanic ash, decomposed lava, scoria, lava
+    rock, and olivine crystals.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1939-1952
+  quote_or_summary: At Sirabe, southwest of the Ankaratra mountains, a limestone deposit
+    supplies lime; the district also has carbonic acid gas jets, springs, and rock
+    deposited with stalactite caves.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1954-1964
+  quote_or_summary: Clay-slate and valuable slate are reported in the southern elevated
+    region and Betsileo country; the royal chapel at Antananarivo is roofed with native
+    slate, and other rocks are reported in the southern highlands.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is descriptive geology rather than mythic narrative. Literal
+    natural forms matching available symbol terms are recorded without assigning symbolic
+    or motif function.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No mythological figures, ritual actions, or comparative motif claims are supported by the provided passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l1867-l1966
+  passage_sha256=0085c310e227a65e5b8ac2717086b19395657ac47d38f0940c046302a06e3a7d
+

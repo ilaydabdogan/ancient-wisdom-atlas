@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l25244-l25293
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: SMITH, ARCHAZOLOGY OF THE THOMPSON RIVER REGION. 431 / SMITH, ARCHAOLOGY
+    OF THE THOMPSON RIVER REGION, 433 / APPEND / SPENCES BRIDGE.; lines 25244-25293
+  start: '25244'
+  end: '25293'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'An archaeological catalogue entry for Spences Bridge describes surface
+    finds and one grave: its depth and covering features, a male body’s position and
+    wrappings, and numerous associated objects including tools, animal remains, ochre,
+    stone, shell, and copper items.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an appendix list and catalogue of surface finds and grave or
+    cache contents at Spences Bridge.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One grave is described as 22 inches below the surface, with boulders above
+    it, birch-bark rolls and charcoal below the boulders, fire-marked boulders, and
+    charred posts around the grave.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The body is described as a man about forty-five years old, buried face downward
+    with the head toward the south and the limbs arranged in specified positions.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The body was wrapped in woven sagebrush inner-bark fabric, covered outside
+    by a woven cat-tail stalk mat or blanket, and bound with cord.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Objects placed with or near the body included grooved arrowshaft-smoothers,
+    a woven vegetable-fibre pouch daubed with red ochre, a bone scraper, red ochre,
+    a rodent jaw, bone implements, bone cylinders, teeth, basalt pieces, a bone pendant,
+    fish vertebrae, beaver jaw and teeth, bird beaks, small mammal vertebrae, wood
+    pieces, harpoon-point parts, antler and bone pieces, and a bone skin-scraper.
+  category: object
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:6
+  text: Mr. Teit is reported to have found additional items when he discovered the
+    grave by digging into it, including basalt chips, perforated abalone shell, beaver
+    teeth, and a long copper bead or tube.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: buried man
+  description: A male body about forty-five years of age, buried face downward with
+    head toward the south.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Mr. Teit
+  description: The person reported as discovering the grave by digging into it and
+    finding several objects.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: deceased person in grave
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the body as that of a man and describes its burial
+    position and wrappings.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: grave discoverer
+  assigned_to:
+  - fig:2
+  basis: The passage states that Mr. Teit found objects when he discovered the grave
+    by digging into it.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: subsurface grave
+  literal_form: A grave 22 inches below the surface at Spences Bridge.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: fire traces in grave context
+  literal_form: Fragments of charcoal, boulders showing contact with fire, and charred
+    remains of posts around the grave.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wrapped body bundle
+  literal_form: Body wrapped in sagebrush inner-bark fabric, covered with a cat-tail
+    stalk mat or blanket, and bound with cord.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: red ochre
+  literal_form: Red ochre daubed on a woven vegetable-fibre pouch and included among
+    the contents.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: grave goods assemblage
+  literal_form: Tools, bone objects, animal parts, stone pieces, shell, and copper
+    objects associated with the body and grave.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: grave setting and covering features
+  summary: The catalogue describes a subsurface grave beneath boulders, with birch-bark
+    rolls, charcoal, fire-marked stones, and charred posts around it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: body position and wrappings
+  summary: The body of a middle-aged man is described in a face-down position with
+    head southward, wrapped in plant-fibre materials and bound with cord.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: objects associated with the grave
+  summary: The entry lists many associated objects, including tools, ochre, animal
+    remains, stone, shell, and copper items, some described as found by Mr. Teit during
+    discovery of the grave.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: subsurface burial with wrapped body and grave goods
+  taxonomy_refs: []
+  basis: The passage describes a grave containing a wrapped male body and numerous
+    associated objects, including tools, animal remains, ochre, stone, shell, and
+    copper items.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is an archaeological catalogue entry, not a myth narrative; no ritual
+    or symbolic meaning is stated in the passage.
+- id: motif:2
+  label: fire-marked grave context
+  taxonomy_refs: []
+  basis: The grave context includes charcoal, boulders that had been in contact with
+    fire, and charred posts around the grave.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage records fire traces materially but does not explain their
+    function or meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 25244-25252
+  quote_or_summary: The passage introduces an appendix catalogue of surface finds
+    and grave or cache contents at Spences Bridge.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: 25253-25263
+  quote_or_summary: A grave 22 inches below the surface is described with boulders
+    above it, birch-bark rolls, charcoal, fire-marked boulders, and charred posts
+    around the grave.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: 25264-25269
+  quote_or_summary: The body is identified as a man about forty-five years old, buried
+    face downward with head toward the south, knees slightly flexed, feet aligned
+    with the vertebral column, and arms placed under or across the body.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: 25270-25273
+  quote_or_summary: The body was wrapped in sagebrush inner-bark fabric, covered by
+    a woven cat-tail stalk mat or blanket, and bound with cord.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: 25274-25282
+  quote_or_summary: Objects described with the body include arrowshaft-smoothers,
+    a woven fibre pouch daubed with red ochre, a bone scraper, red ochre, a rodent
+    jaw, bone implements, bone cylinders, teeth, basalt points and pieces, and a bone
+    pendant.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: 25282-25289
+  quote_or_summary: Additional listed objects include fish vertebrae, parts of beaver
+    jaw and teeth, bird beaks, caudal vertebrae of a small mammal, wood pieces, an
+    arrowshaft-smoother, bone objects interpreted as harpoon-point parts, antler and
+    bone pieces, and a bone skin-scraper.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summary provided.
+- id: ev:7
+  type: summary
+  locator: 25289-25293
+  quote_or_summary: Mr. Teit is said to have found six chips of glassy basalt, perforated
+    abalone shell, beaver teeth, and a long copper bead or tube when he discovered
+    the grave by digging into it.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal archaeological details are explicit. Motif candidates are treated
+    as material mortuary patterns only; the passage provides no mythic narrative or
+    comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were generated because the passage itself does not support a comparison to another motif family, text, pattern, or tradition beyond the described material context.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l25244-l25293
+  passage_sha256=3b446ad9df692b5e82de0153391295f0afb938cc8705fc5c94fff084b9e539b5
+

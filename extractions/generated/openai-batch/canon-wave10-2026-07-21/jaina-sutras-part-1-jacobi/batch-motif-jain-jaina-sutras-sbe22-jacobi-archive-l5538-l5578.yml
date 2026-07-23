@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.jain-jaina-sutras-sbe22-jacobi-archive-l5538-l5578
+source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+passage_locator:
+  label: FIRST PART 1 . / FIRST LECTURE, / BEGGING OF FOOD 2 , / FIRST LESSON.; lines
+    5538-5578
+  start: '5538'
+  end: '5578'
+  translation: 'Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred
+    Books of the East, Vol. 22)'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A rule for male or female mendicants collecting alms says they must not
+    accept food, drink, dainties, or spices found to be affected by living beings,
+    mildew, seeds, sprouts, water, or dust, even if obtainable, because such food
+    is impure and unacceptable. If such food is accepted under pressing circumstances,
+    the mendicants should go to a secluded spot, garden, or monk's hall.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The precept addresses a male or female mendicant entering a householder's
+    abode with the intention of collecting alms.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The items under inspection are food, drink, dainties, and spices.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage identifies unacceptable conditions as being affected by or mixed
+    with living beings, mildew, seeds or sprouts, being wet with water, or being covered
+    with dust.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mendicants are instructed not to accept such food even if they can obtain
+    it, on the grounds that it is impure and unacceptable.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: If such food is accepted under pressing circumstances, the mendicants are
+    instructed to go to a secluded spot, a garden, or a monk's hall.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note identifies the 'other' whose hand or pot may contain the food as the
+    householder or giver.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note gives famine and sickness as examples of pressing circumstances in
+    which suitable food may not otherwise be available.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: male or female mendicant
+  description: A mendicant who enters a householder's abode to collect alms and is
+    bound by the food-acceptance rule.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: householder or giver
+  description: The person associated with the abode and with the hand or pot from
+    which food may be offered.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: alms-seeking mendicant
+  assigned_to:
+  - fig:1
+  basis: The passage names male or female mendicants entering a householder's abode
+    to collect alms and gives them instructions about accepting food.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: householder or giver
+  assigned_to:
+  - fig:2
+  basis: The setting is a householder's abode, and the note explains that the 'other'
+    is the householder or giver.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: alms food
+  literal_form: food, drink, dainties, and spices
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: living contamination
+  literal_form: living beings, mildew, seeds, or sprouts affecting or mixed with food
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: water
+  literal_form: food wet with water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: dust
+  literal_form: food covered with dust
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: secluded place
+  literal_form: a secluded spot, a garden, or a monk's hall
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Entering for alms and inspecting food
+  summary: A male or female mendicant enters a householder's abode to collect alms
+    and recognizes the condition of food, drink, dainties, and spices.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Refusal of impure food
+  summary: Food affected by living beings, mildew, seeds, sprouts, water, or dust
+    is not to be accepted, even if available, because it is considered impure and
+    unacceptable.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Withdrawal after pressured acceptance
+  summary: If such food is accepted under pressing circumstances, the mendicants should
+    go to a secluded spot, garden, or monk's hall.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: regulated alms-taking
+  taxonomy_refs: []
+  basis: The passage presents a rule governing how mendicants may receive food from
+    a householder or giver while collecting alms.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a monastic precept rather than a narrative mythic episode; no
+    direct taxonomy motif family is assigned.
+- id: motif:2
+  label: food impurity and refusal
+  taxonomy_refs: []
+  basis: The passage lists specific conditions that make food impure and unacceptable
+    and instructs mendicants not to accept it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives practical religious rules; broader symbolic or doctrinal
+    interpretation is not added.
+- id: motif:3
+  label: seclusion after compromised acceptance
+  taxonomy_refs: []
+  basis: When unacceptable food is accepted under pressing circumstances, the instructed
+    next action is withdrawal to a secluded spot, garden, or monk's hall.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage excerpt ends before explaining what occurs after going to
+    the secluded place.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5538-5548
+  quote_or_summary: A male or female mendicant enters a householder's abode intending
+    to collect alms and recognizes food, drink, dainties, and spices.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 5543-5549
+  quote_or_summary: '"affected by, or mixed up with, living beings, mildew, seeds
+    or sprouts, or wet with water, or covered with dust"'
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 5549-5553
+  quote_or_summary: '"they should not, even if they can get it, accept of such food,
+    thinking that it is impure and unacceptable"'
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 5554-5557
+  quote_or_summary: If they accept such food under pressing circumstances, they should
+    go to a secluded spot, a garden, or a monk's hall.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: note
+  locator: note to lines 5548-5549
+  quote_or_summary: The note explains that 'the other' means the householder or giver.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: note
+  locator: note to lines 5554-5555
+  quote_or_summary: The note gives total lack of suitable food during famine and sickness
+    as examples of pressing circumstances.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a prescriptive monastic rule with clear figures, objects,
+    and actions. Motif labels are descriptive candidates only, with no historical
+    or cross-cultural comparison inferred.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were made because the passage itself does not support a comparison to another tradition or motif family.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:jain-jaina-sutras-sbe22-jacobi-archive__l5538-l5578
+  passage_sha256=bef137234db9bcab3bbc49b51742ac52b3e0058ba6c957e7ee887627b9904457
+

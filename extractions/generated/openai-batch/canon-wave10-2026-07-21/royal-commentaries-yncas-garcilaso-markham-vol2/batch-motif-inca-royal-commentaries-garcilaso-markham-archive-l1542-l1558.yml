@@ -1,0 +1,211 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l1542-l1558
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OP  THE  YNCAS. / FIFTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS.
+    / CHAPTER  X.; lines 1542-1558
+  start: '1542'
+  end: '1558'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: they were divided according to their colours
+  summary: The passage describes how llamas belonging to the Yncas were organized
+    by colour. Each colour had a name; two-coloured animals were called Muru-muru
+    or Moromoro. A lamb born with a different colour from its parents was moved to
+    the flock matching its own colour.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage concerns llamas belonging to the Yncas.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The llamas were divided according to colour in order to keep an account of
+    the flocks.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The animals are described as having many different colours, and each colour
+    had a name.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Animals of two colours were called Muru-muru, with Moromoro given as the Spanish
+    pronunciation.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A lamb born in a colour different from its parents was moved, once raised,
+    to the flock of its own colour.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Yncas
+  description: Owners of the llamas described in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: llamas and flocks
+  description: The animals belonging to the Yncas, organized into flocks by colour.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: lamb born of a different colour
+  description: A young animal whose colour differs from its parents and which is transferred
+    to the flock matching its own colour.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: flock owners
+  assigned_to:
+  - fig:1
+  basis: The llamas are said to belong to the Yncas.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: classified herd animals
+  assigned_to:
+  - fig:2
+  basis: The llamas are divided by colour and accounted for as flocks.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: reassigned newborn animal
+  assigned_to:
+  - fig:3
+  basis: The lamb is removed to the flock of its own colour after being raised.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: colour categories
+  literal_form: Different named colours used to divide the llama flocks.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Muru-muru or Moromoro
+  literal_form: Name for llamas of two colours.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: flock of own colour
+  literal_form: A flock defined by the animal's own colour category.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Division of royal llama flocks by colour
+  summary: The llama flocks belonging to the Yncas are organized by colour, with each
+    colour named for accounting purposes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Transfer of differently coloured lamb
+  summary: When a lamb is born with a colour different from its parents, it is later
+    moved to the flock matching its own colour.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Ordering of flocks by visible attribute
+  taxonomy_refs: []
+  basis: 'The passage presents a recurring administrative pattern: animals are classified,
+    named, and assigned to flocks according to colour.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an administrative and descriptive pattern rather than an explicit
+    mythic motif; no supplied taxonomy family is directly supported.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1542-1549
+  quote_or_summary: '"llamas belonging to the Yncas"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1546-1551
+  quote_or_summary: '"they were divided according to their colours"; the passage also
+    states that the animals have many colours and that each colour had a name.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt and summary used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1551-1553
+  quote_or_summary: '"Those which were of two colours they called Muru-muru"; the
+    passage adds the Spanish pronunciation Moromoro.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt and summary used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1554-1558
+  quote_or_summary: A lamb born with a colour different from its parents was, once
+    raised, removed to the flock of its own colour.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif identification is limited
+    because the passage is administrative and does not explicitly present a mythic
+    comparison or supported taxonomy motif.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a cautious comparison to another motif family, pattern, or nearby corpus tradition.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l1542-l1558
+  passage_sha256=d6c57eeb3d5dba591e13240bbfd50af4793b23ee756421972c00a437f2dfdc62
+

@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.native-american-yana-texts-sapir-archive-l4578-l4595
+source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+passage_locator:
+  label: VI. FIXING THE SUN. / VII. WOODPECKER AND WOODRAT. / VIII. RABBIT WOMAN AND
+    HER CHILD. / IX. COYOTE AND RABBIT GAMBLE.; lines 4578-4595
+  start: '4578'
+  end: '4595'
+  translation: Yana Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: Do not use this game in summer, use it in the fall and winter.
+  summary: 'Coyote proposes gambling with Cottontail Rabbit, prepares sticks and grass
+    bundles for a guessing game, explains the rules for locating a short stick, and
+    gives a seasonal restriction: the game is for fall and winter and should stop
+    when oak leaves appear, or there will be no acorns.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Coyote wants to gamble with Cottontail Rabbit and says they should have fun.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cottontail Rabbit asks how they shall have fun.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Coyote makes long sticks, a small short stick, and grass-wrapped bundles for
+    the game.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The guessers clap hands and indicate which bundle they think contains the
+    short stick.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: If the guessers fail to locate the short stick, they lose; if they guess correctly,
+    the sticks are passed to them and they roll.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Coyote says not to use the game in summer, to use it in fall and winter, and
+    to stop when oak leaves come out.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Coyote says that if the game is used all summer, there will be no acorns.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Coyote
+  description: Animal figure who proposes gambling, prepares the game materials, explains
+    gameplay, and states the seasonal restriction.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Cottontail Rabbit
+  description: Animal figure whom Coyote wants to gamble with; asks how they shall
+    have fun.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: guessers
+  description: Unspecified game participants who clap hands and choose which bundle
+    contains the short stick.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: game proposer and instructor
+  assigned_to:
+  - fig:1
+  basis: Coyote initiates the gambling, makes the equipment, describes the guessing
+    procedure, and gives seasonal instructions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: invited gambling partner
+  assigned_to:
+  - fig:2
+  basis: Coyote wants to gamble with Cottontail Rabbit, who responds by asking how
+    they shall have fun.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: guessing players
+  assigned_to:
+  - fig:3
+  basis: The passage describes guessers clapping and designating the bundle containing
+    the short stick.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: game sticks and grass bundles
+  literal_form: Long sticks, a short stick, and ma'du grass rolled into bundles
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: hidden short stick
+  literal_form: Small four-inch stick used as the object to locate in a bundle
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: oak leaves and acorns
+  literal_form: Leaves coming out on oaks and acorns whose absence is threatened if
+    the game is played all summer
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Coyote proposes gambling with Rabbit
+  summary: Coyote says he wants to gamble with Cottontail Rabbit and frames the activity
+    as having fun; Rabbit asks how.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Coyote prepares the game equipment
+  summary: Coyote makes long sticks, a short stick, and grass bundles used for the
+    guessing game.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rules of guessing
+  summary: Guessers clap hands and identify which bundle holds the short stick; wrong
+    guesses lose, while correct guesses receive the sticks and roll them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Seasonal rule for the game
+  summary: Coyote states that the game should not be used in summer, should be used
+    in fall and winter, and must stop when oak leaves appear, warning that summer
+    use would result in no acorns.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: instruction of a gambling game
+  taxonomy_refs: []
+  basis: The passage presents Coyote preparing game implements and explaining the
+    guessing procedure and consequences of correct or incorrect guesses.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly state that this is the origin of the game;
+    it only describes Coyote making and instructing its use.
+- id: motif:2
+  label: seasonal restriction tied to acorn abundance
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Coyote restricts the game to fall and winter, commands stopping when oak
+    leaves appear, and links summer play with the absence of acorns.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The causal mechanism is not explained in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4578-4581
+  quote_or_summary: Coyote wants to gamble with Cottontail Rabbit and says, "We must
+    have fun"; Rabbit asks how they shall have fun.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 4581-4588
+  quote_or_summary: Coyote makes five long sticks for each side, obtains ma'du grass,
+    makes a small four-inch stick, and rolls sticks into grass bundles placed beside
+    each other.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4588-4592
+  quote_or_summary: Guessers clap hands and indicate the bundle containing the short
+    stick; failure means losing, while a correct guess gives them the sticks to roll.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 4592-4595
+  quote_or_summary: 'Coyote says not to use the game in summer, to use it in fall
+    and winter, to stop when oak leaves come out, and warns: "If you use it all summer,
+    there will be no acorns."'
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source; brief quotation used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage is short and explicit about game preparation, rules, and seasonal
+    restriction. No direct cross-text comparison is made in the passage, so comparison
+    claims are left empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used; no external cultural interpretation was added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-yana-texts-sapir-archive__l4578-l4595
+  passage_sha256=4bc4f99e204284276761c7414ccbdc15b9e872691b42d63ed0c5036e3958bb8d
+

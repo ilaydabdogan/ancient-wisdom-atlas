@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l22971-l23024
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XXXV. / COMMENTARIES  OF  THE  YNCAS. / VOL.  II. / NINTH  BOOK  OF  THE  ROYAL;
+    lines 22971-23024
+  start: '22971'
+  end: '23024'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: his father the Sun had turned him into a serpent
+  summary: The passage reports that Atahuallpa spread a deceptive report to give Huascar
+    false confidence. It describes a fable that the Sun, called Atahuallpa's father,
+    turned him into a serpent so he could escape through a hole in his place of confinement;
+    the narrator says this was invented to justify his usurpation and influence common
+    belief. A following historical note summarizes the war between Huascar and Atahuallpa,
+    Huascar's defeat and capture, and divergent chronicle views on whether Atahuallpa's
+    imprisonment and escape were fiction or fact.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Atahuallpa is said to have ordered a report to be spread in order to inspire
+    Huascar and his people with false confidence.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: A fable said that Atahuallpa's father, the Sun, turned him into a serpent
+    so that he could escape through a hole in the apartment where he was confined.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator states that the serpent-escape fable was invented to make good
+    Atahuallpa's usurpation and was intended for common people to believe in the Sun's
+    involvement.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Quizquiz, leading the main body of the Quito army, suddenly attacked Huascar;
+    after a desperate battle, Huascar's forces were defeated and Huascar was taken
+    prisoner.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the Yncas came out of Cuzco and surrendered, Quizquiz massacred Huascar's
+    family before Huascar's eyes, with only a few escaping.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Balboa is said to concur with Garcilasso that Atahuallpa's imprisonment and
+    escape were fictions, while Velasco states the episode as fact.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Atahuallpa
+  description: A royal claimant associated with Quito; the passage says he spread
+    a deceptive report and that a fable claimed the Sun turned him into a serpent
+    for escape. The narrator calls the fable an invention to support his usurpation.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Huascar
+  description: Atahuallpa's rival; he is the target of the false-confidence report
+    and is later defeated, captured, and made to witness the massacre of his family.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the Sun
+  description: In the fable, the Sun is called Atahuallpa's father and is said to
+    turn him into a serpent. The passage also refers to the Sun as the common people's
+    god.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: common people
+  description: The intended audience who were meant to believe the story involving
+    their god the Sun.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Quizquiz
+  description: A chief leading the main body of the Quito army; he defeats Huascar,
+    takes him prisoner, and massacres Huascar's family.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Balboa
+  description: A source named in the passage as having heard the Quito version and
+    as concurring that Atahuallpa's imprisonment and escape were fictions.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Garcilasso
+  description: A source with whom Balboa is said to concur on the fictionality of
+    Atahuallpa's imprisonment and escape.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Velasco
+  description: A source said to state Atahuallpa's imprisonment and escape as fact
+    and to portray Atahuallpa favorably.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: contested royal claimant or usurper in narrator's account
+  assigned_to:
+  - fig:1
+  basis: The narrator says the fable was invented to make good Atahuallpa's usurpation.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: serpent-transformed escapee in fable
+  assigned_to:
+  - fig:1
+  basis: The fable says the Sun turned Atahuallpa into a serpent so he could escape
+    through a hole.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divine father and transformer in fable
+  assigned_to:
+  - fig:3
+  basis: The Sun is described as Atahuallpa's father and as the agent who turned him
+    into a serpent.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: rival ruler and prisoner
+  assigned_to:
+  - fig:2
+  basis: Huascar is the target of Atahuallpa's false-confidence report and is later
+    defeated and taken prisoner.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: military victor and perpetrator of massacre
+  assigned_to:
+  - fig:5
+  basis: Quizquiz defeats Huascar, takes him prisoner, and massacres Huascar's family.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: intended believing audience
+  assigned_to:
+  - fig:4
+  basis: The passage says the fable was intended for the common people to believe
+    the involvement of their god the Sun.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: sources treating the episode as fiction
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Balboa is said to concur with Garcilasso that Atahuallpa's imprisonment and
+    escape were fictions.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: source treating the episode as fact
+  assigned_to:
+  - fig:8
+  basis: Velasco is said to state Atahuallpa's imprisonment and escape as fact.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: serpent transformation
+  literal_form: Atahuallpa, in the fable, is turned into a serpent.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Sun as divine father
+  literal_form: The Sun is named as Atahuallpa's father and as the common people's
+    god.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: escape hole
+  literal_form: A hole in the apartment where Atahuallpa was confined, through which
+    the serpent-formed Atahuallpa could escape.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Deceptive report and serpent-escape fable
+  summary: Atahuallpa spreads a report to mislead Huascar. A fable claims that the
+    Sun turned Atahuallpa into a serpent so he could escape confinement through a
+    hole; the narrator says the fable was invented to justify usurpation and win common
+    belief.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Defeat and capture of Huascar
+  summary: Quizquiz attacks Huascar with the main Quito army, defeats his forces,
+    captures him, receives the surrender of the Yncas from Cuzco, and massacres Huascar's
+    family before him.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Chronicle disagreement over Atahuallpa's imprisonment and escape
+  summary: The passage reports that Balboa and Garcilasso treat Atahuallpa's imprisonment
+    and escape as fictions, while Velasco treats the episode as fact and portrays
+    Atahuallpa favorably.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divine serpent transformation for escape
+  taxonomy_refs:
+  - shapeshifter
+  - serpent
+  basis: The fable says the Sun transformed Atahuallpa into a serpent so that he could
+    escape through a hole from confinement.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage explicitly characterizes the story as a fable invented for
+    political purposes; another chronicle source is said to treat the broader imprisonment-and-escape
+    episode as fact.
+- id: motif:2
+  label: Royal legitimacy through divine parentage and miraculous escape
+  taxonomy_refs:
+  - royal_legitimacy
+  - divine_parent_child
+  basis: The fable calls the Sun Atahuallpa's father and portrays divine aid in his
+    escape; the narrator says the story was invented to make good his usurpation and
+    influence common people.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage frames the motif as propaganda rather than as accepted sacred
+    history.
+- id: motif:3
+  label: Royal brothers' civil war and capture
+  taxonomy_refs:
+  - royal_legitimacy
+  - sibling_pair
+  basis: The historical note identifies the war between Huascar and Atahuallpa, refers
+    to them as two brothers, and describes Huascar's defeat and capture.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This appears in a historical-chronicle context; the passage does not present
+    the sibling conflict itself as a mythic tale.
+- id: motif:4
+  label: Strategic deception through a circulated report
+  taxonomy_refs: []
+  basis: Atahuallpa is said to have ordered a report spread in order to give Huascar
+    and his people false confidence.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a political tactic without extended symbolic elaboration.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage itself compares chronicle treatments of the same Atahuallpa
+    imprisonment-and-escape episode: Balboa and Garcilasso treat it as fiction, while
+    Velasco states it as fact.'
+  claim_level: same_motif
+  target: Atahuallpa imprisonment-and-escape episode in Balboa, Garcilasso, and Velasco
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage provides only a summary of the chroniclers' positions and
+    does not quote their full accounts.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22971-22980
+  quote_or_summary: The passage describes a fable that Atahuallpa's father the Sun
+    turned him into a serpent so he could escape through a hole in his place of confinement;
+    the narrator says this was invented to justify usurpation and influence common
+    belief.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized with a short excerpt used in canonical_text.quote.
+- id: ev:2
+  type: summary
+  locator: 22971-22974
+  quote_or_summary: Atahuallpa is said to have ordered a report to be spread so that
+    Huascar and his people would have false confidence.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 22984-23012
+  quote_or_summary: 'The historical note summarizes the war: Huascar sends forces,
+    Quito commanders advance, Quizquiz defeats Huascar, Huascar is captured, the Yncas
+    surrender from Cuzco, and Quizquiz massacres Huascar''s family before him.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 23014-23024
+  quote_or_summary: The passage says Balboa heard the Quito version and concurs with
+    Garcilasso that Atahuallpa's imprisonment and escape were fictions, while Velasco
+    states the episode as fact and depicts Atahuallpa favorably.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The serpent-transformation and political-legitimation elements are explicit.
+    Some motif labels are interpretive because the passage frames the story as a fable
+    or propaganda within a historical chronicle.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external sources used. The provided passage includes both main text and a footnote-like historical discussion.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l22971-l23024
+  passage_sha256=d3edac62651f6d46fa3499f24b18b2208b050286d98f15010fbea631a749d3f5
+

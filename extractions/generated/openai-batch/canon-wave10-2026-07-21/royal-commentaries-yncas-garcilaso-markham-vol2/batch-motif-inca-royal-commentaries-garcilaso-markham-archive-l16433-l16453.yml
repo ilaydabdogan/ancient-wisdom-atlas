@@ -1,0 +1,225 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l16433-l16453
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OP  THE  YNCAS. / EIGHTH  BOOK  OP  THE  ROYAL / CHAPTER  XIII.
+    / OP  THE  MAGUEY  TREE  AND  ITS  USES.; lines 16433-16453
+  start: '16433'
+  end: '16453'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: the tree which the Spaniards call maguey, and the Indians chuchan.
+  summary: The passage introduces the maguey or chuchan tree and summarizes Father
+    Bias Valera's description of its appearance, size, pith, leaves, and uses by painters
+    and image carvers.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: 'The plant is named differently by Spaniards and Indians: Spaniards call it
+    maguey, while Indians call it chuchan.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator says earlier uses have already been mentioned and that further
+    virtues from Father Bias Valera will be added briefly.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Father Bias Valera describes the plant as ugly to look at, with light wood
+    and bark, about twenty feet long and the thickness of a man's leg.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The pith is described as spongy and very light, and as used by painters and
+    carvers of images.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The leaves are described as large, about half a braza long, growing from the
+    stem like those of a thistle, with sharp points like artichoke leaves.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note identifies the plant as Agave Americana, the American aloe.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Spaniards
+  description: Group said to call the plant maguey and to call its leaves thistles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Indians
+  description: Group said to call the plant chuchan.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Father Bias Valera
+  description: Cited authority whose account supplies additional virtues and descriptions
+    of the chuchan.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Painters and carvers of images
+  description: Craft workers said to use the plant's spongy, light pith.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Spanish naming group
+  assigned_to:
+  - fig:1
+  basis: The passage says Spaniards call the tree maguey and call the leaves thistles.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: Indigenous naming group
+  assigned_to:
+  - fig:2
+  basis: The passage says Indians call the tree chuchan.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: cited descriptive authority
+  assigned_to:
+  - fig:3
+  basis: The narrator attributes the additional virtues and plant description to Father
+    Bias Valera.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: craft users of plant pith
+  assigned_to:
+  - fig:4
+  basis: The pith is said to be used by painters and carvers of images.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: maguey / chuchan tree
+  literal_form: Tree called maguey by Spaniards and chuchan by Indians; identified
+    in a note as Agave Americana, the American aloe.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ethnobotanical description of the maguey/chuchan
+  summary: The passage presents names, source attribution, physical description, and
+    craft uses of the maguey or chuchan tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: useful plant or tree with multiple virtues
+  taxonomy_refs: []
+  basis: The chapter title and narration frame the maguey/chuchan as a plant with
+    uses and virtues, including craft use of its pith.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: This is an ethnobotanical pattern rather than an explicitly mythological
+    or sacred motif; no available motif-family taxonomy reference is directly supported.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 16433-16440
+  quote_or_summary: The passage introduces the tree as one Spaniards call maguey and
+    Indians call chuchan, and says further virtues from Father Bias Valera will be
+    added.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 16440-16445
+  quote_or_summary: Father Bias Valera says the plants are ugly to look at, have light
+    wood and bark, and are about twenty feet long and as thick as a man's leg.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 16445-16447
+  quote_or_summary: The pith is described as spongy and very light, and is used by
+    painters and carvers of images.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 16447-16453
+  quote_or_summary: The leaves are large, about half a braza long, grow from the stem
+    like thistle leaves, are called thistles by Spaniards, and have sharp points like
+    artichoke leaves.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata.
+- id: ev:5
+  type: citation
+  locator: line 16453 note 1
+  quote_or_summary: The note identifies the plant as Agave Americana, the American
+    aloe.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The plant description, names, and uses are explicit. Motif classification
+    is cautious because the passage is descriptive and does not present mythic action,
+    sacred status, or a comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were extracted because the passage itself does not support comparison to another tradition or motif family.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l16433-l16453
+  passage_sha256=d217027161085ff5c90ec21d7bd48dbecc981e9d349d71639142a92b3fd58d61
+

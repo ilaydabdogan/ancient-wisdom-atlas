@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l22037-l22062
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: OP  THE  OLIVE;  AND  WHO  FIRST  INTRODUCED  IT  INTO  PERU. / COMMENTARIES  OF  THE  YNCAS.
+    / CHAPTER  XXVIII. / OF  THE  FRUITS  OF  SPAIN,  AND  OF  THE  SUGAR  CANE.;
+    lines 22037-22062
+  start: '22037'
+  end: '22062'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: one was carried in the litter of the most Holy Sacrament
+  summary: The passage lists fruits said not to have existed in Peru before Spanish
+    introduction, notes a local cherry called ussun, and describes an unusually large
+    pomegranate carried in the Holy Sacrament procession in the City of the Kings.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that many fruits of Spain, including figs, pomegranates,
+    citrons, oranges, limes, apples, pears, quinces, nectarines, peaches, cherries,
+    melons, and pumpkins, were absent from Peru.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A local fruit resembling a cherry is distinguished from Spanish cherries;
+    Spaniards call it cherry, while Indians call it ussun.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the listed fruits and many others were later introduced into
+    Peru and became abundant and finer than comparable fruits in Spain.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In the City of the Kings, after pomegranate trees bore fruit, one pomegranate
+    was carried in the litter of the Most Holy Sacrament during the festival procession.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The pomegranate in the procession is described as so large that those who
+    saw it were astonished.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Spaniards
+  description: Group who use the name cherry for the local ussun fruit and who are
+    said to admire the introduced fruits grown in Peru.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Indians
+  description: Group said to call the local cherry-like fruit ussun.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Observers of the pomegranate procession
+  description: People who saw the large pomegranate carried in the Holy Sacrament
+    procession and were astonished.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Narrator
+  description: Speaker who reports the tradition about the pomegranate’s size and
+    expresses reluctance to state it fully.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: colonial namers
+  assigned_to:
+  - fig:1
+  basis: The passage says Spaniards call the local ussun fruit cherry.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: admiring observers
+  assigned_to:
+  - fig:1
+  basis: The passage says Spaniards who see the introduced fruits are struck with
+    admiration.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: indigenous namers
+  assigned_to:
+  - fig:2
+  basis: The passage says Indians call the local cherry-like fruit ussun.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: astonished witnesses
+  assigned_to:
+  - fig:3
+  basis: The passage says everyone who saw the large pomegranate was astonished.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: cautious reporter
+  assigned_to:
+  - fig:4
+  basis: The narrator says he scarcely dares mention the reported size of the pomegranate
+    for fear some will not believe it.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fruits of Spain
+  literal_form: Figs, pomegranates, citrons, oranges, limes, apples, pears, quinces,
+    nectarines, peaches, cherries, melons, pumpkins, and other introduced fruits.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: ussun cherry-like fruit
+  literal_form: A Peruvian fruit resembling a cherry, called cherry by Spaniards and
+    ussun by Indians.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: pomegranate tree and fruit
+  literal_form: Pomegranate trees bearing fruit; one unusually large pomegranate carried
+    in procession.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: litter of the Most Holy Sacrament
+  literal_form: The litter in which the pomegranate was carried during the festival
+    procession.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Catalogue of absent and introduced fruits
+  summary: The narrator lists fruits said to have been absent from Peru and then states
+    that these fruits were introduced and became abundant there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Pomegranate in the Holy Sacrament procession
+  summary: In the City of the Kings, a large pomegranate from newly fruiting trees
+    is carried in the litter of the Most Holy Sacrament during a festival procession,
+    provoking astonishment.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: introduced foreign fruits become abundant and superior
+  taxonomy_refs: []
+  basis: The passage explicitly contrasts the former absence of Spanish fruits in
+    Peru with their later introduction and abundant, admired growth.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is an agricultural-historical pattern rather than a mythic motif
+    in the strict sense.
+- id: motif:2
+  label: extraordinary first fruit displayed in sacred procession
+  taxonomy_refs: []
+  basis: The passage reports that once pomegranate trees bore fruit, a notably large
+    pomegranate was carried in the litter of the Most Holy Sacrament during a festival
+    procession.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes a Christian colonial ritual display; it does not
+    explicitly frame the pomegranate as a mythic symbol.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22039-22047
+  quote_or_summary: The narrator lists fruits said not to have existed in Peru, including
+    figs, pomegranates, citrus fruits, apples, pears, quinces, nectarines, peaches,
+    cherries, melons, and pumpkins.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 22043-22046
+  quote_or_summary: A local cherry-like fruit is distinguished from Spanish cherries;
+    Spaniards call it cherry, and Indians call it ussun.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 22047-22053
+  quote_or_summary: The listed fruits and many others were later introduced and are
+    said to be abundant and finer than the same kinds grown in Spain, astonishing
+    Spaniards who see them.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 22054-22058
+  quote_or_summary: "“one was carried in the litter of the most Holy Sacrament, in
+    the procession of that festival”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 22057-22059
+  quote_or_summary: The pomegranate carried in procession was described as so large
+    that everyone who saw it was astonished.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 22059-22062
+  quote_or_summary: The narrator says he scarcely dares report the pomegranate’s size
+    as told to him, fearing unbelief from the ignorant.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal agricultural and processional details are clear. Motif identification
+    is cautious because the passage is historical-natural descriptive rather than
+    overtly mythic.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l22037-l22062
+  passage_sha256=5bd128d7ce1af8e03bcb750bbdc953ebe73c6c42bc480bc21e8eeee3f9ff5564
+

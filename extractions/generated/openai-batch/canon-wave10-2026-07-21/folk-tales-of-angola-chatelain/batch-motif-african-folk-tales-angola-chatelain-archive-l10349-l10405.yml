@@ -1,0 +1,232 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l10349-l10405
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: NO. III. / NO. IV. / NO. V. / NO. VI.; lines 10349-10405
+  start: '10349'
+  end: '10405'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes for tale No. VI identify the dialect and story area, characterize
+    the Ma-kishi as human cannibals without monstrous or superhuman traits, and note
+    pursuit motifs involving a river barrier and tiny objects dropped to delay a pursuer.
+    The remaining notes are primarily linguistic, botanical, musical, and ethnographic
+    annotations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note identifies the dialect as Mbaka and the story as one of the Mbamba.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Ma-kishi are characterized as human beings, adept in cannibalism, without
+    monstrosity or superhuman powers.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A river is described as an important barrier between pursuers and pursued.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Tiny objects are dropped to delay a pursuer who cannot help picking them up.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ma-kishi
+  description: Described in this note as human beings who are adepts in cannibalism,
+    without monstrosity or superhuman ability.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: pursuer or pursuers
+  description: Unspecified pursuer figures mentioned in relation to the river barrier
+    and the picking up of dropped tiny objects.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: pursued
+  description: Unspecified pursued figures mentioned in relation to the river barrier.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: human cannibal group
+  assigned_to:
+  - fig:1
+  basis: The passage says the Ma-kishi appear as human beings and adepts in cannibalism,
+    not as monstrous or superhuman beings.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: pursuer
+  assigned_to:
+  - fig:2
+  basis: The passage refers to pursuers separated from the pursued by a river and
+    to a pursuer delayed by picking up tiny objects.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: pursued figure or group
+  assigned_to:
+  - fig:3
+  basis: The passage refers to the pursued in relation to a river barrier.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: river barrier
+  literal_form: river
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: tiny delaying objects
+  literal_form: tiny objects dropped during pursuit
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Pursuit checked by river barrier
+  summary: The note says a river serves as an important barrier between pursuers and
+    pursued.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Pursuer delayed by dropped objects
+  summary: The note describes tiny objects being dropped to delay a pursuer who picks
+    them up.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: River as barrier in flight or pursuit
+  taxonomy_refs: []
+  basis: The passage states that the river plays an important part as a barrier between
+    pursuers and pursued.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is an editorial note rather than the full narrative episode.
+- id: motif:2
+  label: Dropped objects delay the pursuer
+  taxonomy_refs: []
+  basis: The passage describes tiny objects dropped to delay a pursuer who cannot
+    help picking them up.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The specific objects and the dropper are not identified in the supplied
+    passage.
+- id: motif:3
+  label: Human cannibal Ma-kishi
+  taxonomy_refs: []
+  basis: The Ma-kishi are described as human beings who are adepts in cannibalism
+    and not as monsters or superhuman beings.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a characterization in editorial commentary, not a narrated action
+    in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the river-barrier function in this story
+    with No. VII and manuscript stories in the same editorial context.
+  claim_level: same_function
+  target: No. VII and manuscript stories referenced by the editor
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The supplied passage gives no details of the compared stories beyond
+    the shared river-barrier function.
+- id: claim:2
+  claim: The passage presents the dropped tiny objects that delay a pursuer as a widespread
+    folklore pattern.
+  claim_level: same_motif
+  target: broad folklore pattern of objects dropped to delay a pursuer
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The statement is broad and does not name specific comparative texts
+    or establish historical contact.
+evidence:
+- id: ev:1
+  type: quote
+  locator: NO. VI., dialect note, lines 10349-10405
+  quote_or_summary: "“Dialect. Mbaka, but story of the Mbamba, as the one preceding.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: NO. VI., comparative note, lines 10349-10405
+  quote_or_summary: The editor says the Ma-kishi appear only as human beings, are
+    adepts in cannibalism, and have neither monstrosity nor superhuman powers.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: quote
+  locator: NO. VI., comparative note, lines 10349-10405
+  quote_or_summary: "“the river plays an important part as a barrier between the pursuers
+    and the pursued”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: NO. VI., comparative note, lines 10349-10405
+  quote_or_summary: The editor notes the dropping of tiny objects to delay a pursuer
+    who cannot help picking them up, and describes this as belonging to folklore broadly.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The notes clearly identify several motifs and comparative patterns, but the
+    supplied passage is editorial commentary rather than the full narrative text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. Linguistic, botanical, and musical notes were not treated as motif evidence except where relevant to narrative patterning.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l10349-l10405
+  passage_sha256=659d7b33c488b5eb31535a5594ab35b9bd5603692895d82093ba09fd70c29e00
+

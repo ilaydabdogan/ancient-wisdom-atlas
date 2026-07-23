@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l16229-l16271
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / CHAPTER  XI. / OP  THE  FRUIT  OF  THE  LARGER  TREES.
+    / EIGHTH  BOOK  OP  THE  ROYAL; lines 16229-16271
+  start: '16229'
+  end: '16271'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes fruits of Peru and nearby regions, especially savintu/guayava
+    and paccay/guava, giving names used by Spaniards and Indians, climates where the
+    fruits grow, physical descriptions, taste distinctions, uses as conserves, and
+    footnote botanical identifications.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage groups several fruits as growing on tall trees and notes that
+    they are found in hot regions such as the coast and Antis country, as well as
+    in warmer valleys of Peru.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fruit called guayava by Spaniards and savintu by Indians is described
+    as round, about the size of medium apples, with skin and many small pips or grains
+    inside.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Savintu varieties are distinguished by outside and inside colors, sourness
+    or sweetness, and local preferences for red or white forms.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Spaniards are said to make conserves of savintu and other fruits, but
+    the narrator says this practice began after he left Peru.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator says he saw a savintu conserve in Seville that a passenger had
+    brought from Nombre de Dios, and the passenger invited him to taste it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Another fruit, called paccay by Indians and guava by Spaniards, is described
+    as a pod about a quarta long.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A footnote identifies the guayava as Psidium Guayava and describes its shrub,
+    locations, rind, pulp, granulations, and insect-related unwholesomeness.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A footnote identifies paccay as Prosopis dulcis and describes a large tree
+    bearing long pods with black seeds embedded in a white, soft, flaky edible substance.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Spaniards
+  description: A group named in the passage as using Spanish names for the fruits
+    and making conserves of these and other fruits.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Indians
+  description: A group named in the passage as using the names savintu and paccay
+    for the fruits.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Narrator
+  description: The first-person speaker who refers to Peru as his native country,
+    states that he had left Peru before conserves were made there, and recalls seeing
+    a savintu conserve in Seville.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Passenger from Nombre de Dios
+  description: A passenger who brought a savintu conserve from Nombre de Dios to Seville
+    and invited the narrator to taste it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Spanish naming and preserving group
+  assigned_to:
+  - fig:1
+  basis: The passage states that Spaniards call savintu guayava, call paccay guava,
+    and make conserves of these and other fruits.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Indigenous naming group
+  assigned_to:
+  - fig:2
+  basis: The passage states that Indians call the fruits savintu and paccay.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: First-person witness
+  assigned_to:
+  - fig:3
+  basis: The narrator gives personal testimony about leaving Peru and later seeing
+    a conserve in Seville.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Carrier and host
+  assigned_to:
+  - fig:4
+  basis: The passenger brought the conserve from Nombre de Dios and invited the narrator
+    to taste it.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Fruit-bearing trees
+  literal_form: Tall trees and, in the footnote, a large paccay tree bearing edible
+    pods.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: Savintu or guayava fruit
+  literal_form: Round fruit about the size of a medium apple, with skin, internal
+    pips, color varieties, and sweet or sour taste.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: Paccay or guava pod
+  literal_form: A long pod containing black seeds embedded in a white, soft, flaky
+    edible substance according to the footnote.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: Fruit conserve
+  literal_form: A preserved preparation of savintu and other fruits made by Spaniards
+    and seen by the narrator in Seville.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Survey of fruit climates
+  summary: The passage introduces fruits growing on tall trees and states that they
+    occur in hot and temperate regions, including the coast, Antis country, and warm
+    valleys of Peru.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Description of savintu or guayava
+  summary: The passage gives Spanish and Indian names for savintu/guayava and describes
+    its size, shape, pips, colors, taste types, and local preferences.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Savintu conserve in Seville
+  summary: The passage states that Spaniards make fruit conserves and recounts the
+    narrator seeing a savintu conserve in Seville, brought by a passenger from Nombre
+    de Dios.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Description of paccay or guava
+  summary: The passage identifies paccay/guava by its Indian and Spanish names and
+    describes the fruit as a pod, with a footnote adding botanical details about the
+    tree and edible white substance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16229-16241
+  quote_or_summary: The passage introduces fruits growing on tall trees, noting that
+    some grow in hot climates such as the coast and Antis country and others in warm
+    valleys of Peru.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 16241-16255
+  quote_or_summary: The fruit called guayava by Spaniards and savintu by Indians is
+    described as round, apple-sized, skinned, filled with small pips, and occurring
+    in red/yellow and green/white forms with differing tastes and preferences.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 16255-16263
+  quote_or_summary: The Spaniards make conserves of these fruits after the narrator
+    left Peru; the narrator saw a savintu conserve in Seville brought from Nombre
+    de Dios by a passenger who invited him to taste it.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: quote
+  locator: lines 16264-16267
+  quote_or_summary: "“Another fruit is called paccay by the Indians, and by the Spaniards
+    guava. It consists of a pod about a quarta long”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: footnote 1, within lines 16268-16271
+  quote_or_summary: The footnote identifies Psidium Guayava, describing a low shrub
+    in coast valleys and the eastern Andes, small-apple form, yellow thin rind, red
+    or white pulp, granulations, and insect eggs in the fruit.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: footnote 2, within lines 16268-16271
+  quote_or_summary: The footnote identifies Prosopis dulcis, describes the tree as
+    large, and says the fruit is a twenty- to twenty-four-inch pod with black seeds
+    embedded in a white, soft, flaky edible substance.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is primarily botanical and autobiographical rather than mythic.
+    No available motif family is directly supported beyond the literal occurrence
+    of trees as objects.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparative mythology claims were made because the passage does not itself support mythic motif comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l16229-l16271
+  passage_sha256=977118f5b5753801478aad12b55a7b744aed8737cf9783c8f1e32eabe46ca5fa
+

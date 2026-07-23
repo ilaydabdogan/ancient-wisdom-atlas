@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l15369-l15383
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: THE   TEL-EL-AMARNA   LETTERS / THE   TEL-EL-AMARNA   LETTERS  225 / VII.     LETTER   FROM   ABD-ASHRATU    TO   THE   KING  OF
+    / EGYPT; lines 15369-15383
+  start: '15369'
+  end: '15383'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Abd-Ashratu addresses the king of Egypt as the sun and his lord, identifies
+    himself as the king's servant, dust of his feet, and dog of his house, prostrates
+    himself repeatedly, says he is guarding Amurri for the king, reports repeated
+    requests to Pahanti for troops, and asks the king to verify his defense of Simyra
+    and Ullaza. Part of the letter is mutilated and the ending of the supplied passage
+    is incomplete.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a letter from Abd-Ashratu to the king of Egypt.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressee is called the king, the sun, and the sender's lord.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Abd-Ashratu identifies himself as the king's servant, the dust of his feet,
+    and the dog of his house.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Abd-Ashratu says he prostrates himself at the king's feet seven times and
+    seven times.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Abd-Ashratu says he is guarding the entire land of Amurri for the king.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Abd-Ashratu says he repeatedly requested Pahanti, his superior officer, to
+    provide troops for defense of the king's country.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Several lines in the letter are marked as mutilated.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Abd-Ashratu asks the king to inquire whether he defends the cities of Simyra
+    and Ullaza.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Abd-Ashratu
+  description: Sender of the letter; describes himself as the king's servant and says
+    he guards Amurri and defends cities for the king.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: King of Egypt
+  description: Addressee of the letter; addressed as king, sun, and lord.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Pahanti
+  description: Named as Abd-Ashratu's superior officer, whom Abd-Ashratu says he repeatedly
+    asked to furnish troops.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: subordinate sender and supplicant
+  assigned_to:
+  - fig:1
+  basis: Abd-Ashratu sends the letter, prostrates himself, and calls himself the king's
+    servant, dust, and dog.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: royal addressee and lord
+  assigned_to:
+  - fig:2
+  basis: The king of Egypt is addressed as the king, the sun, and Abd-Ashratu's lord.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: superior officer asked for troops
+  assigned_to:
+  - fig:3
+  basis: Pahanti is called Abd-Ashratu's superior officer and is said to have been
+    asked to furnish troops.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: king as sun
+  literal_form: The king is addressed as “the sun.”
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: prostration at the king's feet
+  literal_form: Abd-Ashratu calls himself dust of the king's feet and says he prostrates
+    himself at the king's feet seven times and seven times.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: dog of the king's house
+  literal_form: Abd-Ashratu calls himself “the dog of his house.”
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: opening royal address and obeisance
+  summary: Abd-Ashratu addresses the king of Egypt with exalted titles, declares himself
+    subordinate, and states that he prostrates himself repeatedly at the king's feet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: defense claim and request for troops
+  summary: Abd-Ashratu says he guards Amurri for the king, has repeatedly asked Pahanti
+    for troops, and asks the king to verify that he defends Simyra and Ullaza; the
+    passage includes mutilated lines.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal-solar address with vassal obeisance
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The king is addressed as the sun and lord, while Abd-Ashratu performs and
+    verbalizes repeated self-abasing prostration.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is diplomatic correspondence rather than a mythic narrative;
+    the royal_legitimacy taxonomy link is approximate and should be reviewed.
+- id: motif:2
+  label: subordinate guardian requesting military aid
+  taxonomy_refs: []
+  basis: Abd-Ashratu claims to guard Amurri and defend Simyra and Ullaza while requesting
+    troops through his superior officer.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an administrative-political pattern in a letter, not a clearly
+    mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 15369-15374
+  quote_or_summary: "“LETTER FROM ABD-ASHRATU TO THE KING OF EGYPT”; “To the king,
+    the sun, my lord”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 15374-15378
+  quote_or_summary: "“the dust of thy feet”; “seven times (and) seven times I prostrate
+    myself”; “the servant of the king, and the dog of his house”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 15378-15381
+  quote_or_summary: Abd-Ashratu says he guards the entire land of Amurri for the king
+    and has repeatedly requested Pahanti, his superior officer, to furnish troops
+    for defense of the king's country.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: quote
+  locator: 15381-15383
+  quote_or_summary: "“May my lord, the king, ask him whether I do not defend the cities
+    of Simyra and Ullaza!”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: note
+  locator: 15381-15383
+  quote_or_summary: The passage marks several lines as mutilated, and the supplied
+    excerpt ends with an incomplete clause.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; note based on supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The named figures, diplomatic actions, and symbols are explicit. Motif labeling
+    is more tentative because the passage is a political letter with mutilated lines,
+    not a mythic narrative. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l15369-l15383
+  passage_sha256=24dfdf5ed320312260f0881d85a328f01954cfe9b33b1fddcc6bed763a31f00b
+

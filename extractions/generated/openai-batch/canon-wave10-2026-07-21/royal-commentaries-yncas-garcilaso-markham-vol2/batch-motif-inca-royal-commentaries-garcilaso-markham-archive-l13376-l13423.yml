@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l13376-l13423
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SEVENTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. / SEVENTH  BOOK  OF  THE  ROYAL
+    / COMMENTARIES  OE  THE  YNCAS.; lines 13376-13423
+  start: '13376'
+  end: '13423'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A report from Santiago de Chile recounts an attack involving destruction
+    in churches, the arrival of Colonel Francisco del Campo with reinforcements from
+    Peru, efforts to aid threatened cities, reports of the year-long starvation siege
+    of Imperial, and news that the events caused sorrow in Peru.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Churches were damaged, and images of saints were broken to pieces.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Colonel Francisco del Campo arrived at the port with three hundred reinforcements
+    sent from Peru to succour the cities.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Francisco del Campo had left a young son and daughter with his sister-in-law,
+    and the children were taken in the attack.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The city of Imperial was reported to have been surrounded by the enemy for
+    a year, with inhabitants suffering hunger and consuming dead horses, dogs, cats,
+    and animal skins.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A messenger was sent down the river by those in the city to ask for help and
+    convey complaints.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Francisco del Campo decided first to relieve Osorno because he expected the
+    enemy to move there after assaulting Valdivia.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: News arrived that the people of Imperial had perished of hunger after a year-long
+    siege.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Twenty men escaped from Imperial, but, driven by hunger, passed over to the
+    side of the Indians.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The intelligence from Chile caused great sorrow throughout Peru.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the enemy / Indians
+  description: A hostile collective described as the enemy and, in the report of defectors,
+    as Indians; associated with attacks on Valdivia and threats to other cities.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Colonel Francisco del Campo
+  description: A colonel who arrived with three hundred men from Peru and undertook
+    relief of threatened cities.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Francisco del Campo's son and daughter
+  description: Young children left in the care of his sister-in-law and taken in the
+    attack.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: people of Imperial
+  description: Inhabitants of Imperial reported to have endured a year-long siege
+    and to have perished of hunger.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: messenger from the city
+  description: A messenger sent down the river by those in the city to ask for help.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: twenty escaped men
+  description: Twenty men who escaped after the siege and were driven by hunger to
+    pass over to the side of the Indians.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: attacking hostile force
+  assigned_to:
+  - fig:1
+  basis: The passage attributes assaults, threatened marches, and the side joined
+    by hungry escapees to the enemy or Indians.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: relief commander
+  assigned_to:
+  - fig:2
+  basis: Francisco del Campo arrived with reinforcements and relieved Osorno.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: captured children
+  assigned_to:
+  - fig:3
+  basis: The children were taken in the attack.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: besieged starving community
+  assigned_to:
+  - fig:4
+  basis: The people of Imperial were reported surrounded for a year and later said
+    to have perished of hunger.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: distress messenger
+  assigned_to:
+  - fig:5
+  basis: The messenger carried pleas for help from the city down the river.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: famine-driven survivors
+  assigned_to:
+  - fig:6
+  basis: The twenty men escaped but, driven by hunger, crossed to the side of the
+    Indians.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Christian sacred images
+  literal_form: images of saints in churches
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Destruction in churches during attack
+  summary: The passage reports destruction in churches, including the breaking of
+    images of saints.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arrival of reinforcements
+  summary: Francisco del Campo arrives from Peru with three hundred men to aid the
+    affected cities, while also learning of personal losses from the attack.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Report of the Imperial siege
+  summary: Imperial is described as surrounded for a year, starving, and sending a
+    messenger down the river to ask for help.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Relief of Osorno and news of Imperial's fall
+  summary: Francisco del Campo relieves Osorno, and news arrives that Imperial's inhabitants
+    died of hunger after the long siege.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Escaped men pass to the Indians
+  summary: Twenty men survive, but hunger drives them to join the side of the Indians;
+    the report concludes with a prayer for mercy.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Desecration of sacred images during an attack
+  taxonomy_refs: []
+  basis: The passage describes damage in churches and the breaking of images of saints.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is historical reportage rather than a mythic narrative; the
+    motif label is a descriptive candidate only.
+- id: motif:2
+  label: Year-long siege ending in famine
+  taxonomy_refs: []
+  basis: Imperial is reported to have been besieged for a year and its people to have
+    perished of hunger.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a historical siege pattern, not tied in the passage to a named
+    mythological taxonomy family.
+- id: motif:3
+  label: Messenger sent from a besieged city to seek aid
+  taxonomy_refs: []
+  basis: Those in the city sent a messenger down the river asking for help.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a literal military context and does not frame the messenger
+    as mythic or supernatural.
+- id: motif:4
+  label: Survivors driven across enemy boundary by hunger
+  taxonomy_refs: []
+  basis: Twenty escaped men were said to have passed over to the side of the Indians
+    because of hunger.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The motive is explicitly hunger; no ritual, symbolic, or supernatural
+    boundary-crossing is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 13376-13383
+  quote_or_summary: The passage reports destruction in churches, including “images
+    of saints” being broken to pieces.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 13383-13391
+  quote_or_summary: Francisco del Campo arrived with three hundred reinforcements
+    from Peru; his young son and daughter, left with his sister-in-law, had been taken
+    in the attack.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 13391-13405
+  quote_or_summary: Imperial was said to have been surrounded for a year; hunger led
+    inhabitants to consume animals and skins, and a messenger was sent down the river
+    asking for help.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 13405-13414
+  quote_or_summary: Del Campo chose to relieve Osorno first and did so; later news
+    reported that Imperial's people had all perished of hunger after a year-long siege.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 13414-13419
+  quote_or_summary: Twenty men escaped, but hunger drove them to pass over to the
+    side of the Indians; the report also mentions four soldiers killed in Angol and
+    ends with a prayer for mercy.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 13420-13423
+  quote_or_summary: The intelligence from Chile arrived in Peru and caused great sorrow
+    throughout the country.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal historical content is clear. Motif candidates are descriptive
+    rather than mythological. No comparison claims are made because the passage itself
+    does not support a comparison to another corpus, tradition, or named motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family was assigned; the passage does not present explicit mythic, supernatural, or comparative framing.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l13376-l13423
+  passage_sha256=aa586f74aef40274501ef882a366f88cfd36a61e781069ec346af5623407c3e8
+

@@ -1,0 +1,229 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l8490-l8508
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: XLIX. / KUTUTUNDA NI KUTUIA. / XLVIII. / THE BUILDER OF ABILITY AND THE BUILDER;
+    lines 8490-8508
+  start: '8490'
+  end: '8508'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Two men both call themselves Ndala, one identifying as the builder of ability
+    and the other as the builder of haste. While traveling to trade, they encounter
+    a storm and decide to build grass-huts. The builder of haste finishes quickly
+    and enters his hut. The builder of ability builds carefully but is killed outside
+    by the storm. The hasty builder survives because his completed hut shelters him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two men call themselves by the same name, Ndala, but use different descriptive
+    titles.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One man identifies himself as the builder of ability; the other identifies
+    himself as the builder of haste.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The two men decide to go trade, start out, and arrive in the middle of the
+    road.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A storm comes, and the men stop to build grass-huts.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The builder of haste builds quickly and enters his hut.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The builder of ability builds carefully but remains outside when the storm
+    comes and kills him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The builder of haste escapes because his finished hut shelters him during
+    the storm.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Ndala, the builder of ability
+  description: One of two men named Ndala; he builds carefully but is killed outside
+    by the storm before being sheltered.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Ndala, the builder of haste
+  description: One of two men named Ndala; he builds in haste, enters his finished
+    hut, and escapes the storm.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: contrasted same-name builder
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: 'Both figures are called Ndala, but the passage distinguishes them by opposed
+    building qualities: ability and haste.'
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: storm victim
+  assigned_to:
+  - fig:1
+  basis: The builder of ability is outside when the storm comes and it kills him.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: storm survivor
+  assigned_to:
+  - fig:2
+  basis: The builder of haste survives because his hut is finished and shelters him.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: storm
+  literal_form: storm
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: grass-hut
+  literal_form: grass-hut or hut
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Two Ndalas identify themselves
+  summary: Two men use the same name, Ndala, while distinguishing themselves as the
+    builder of ability and the builder of haste.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Journey and storm on the road
+  summary: The two men set out to trade, reach the middle of the road, and stop when
+    a storm comes, deciding to build grass-huts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Different building outcomes
+  summary: The builder of haste finishes and takes shelter; the builder of ability
+    builds carefully but is killed outside by the storm. The finished hut shelters
+    the hasty builder.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Contrasted pair with the same name
+  taxonomy_refs:
+  - duality
+  basis: 'The passage presents two men with the same name, Ndala, distinguished by
+    contrasting qualities: ability and haste.'
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a clear contrast, but does not explicitly frame the
+    pair as a cosmic or metaphysical duality.
+- id: motif:2
+  label: Hasty shelter saves one from a storm
+  taxonomy_refs: []
+  basis: The man who builds in haste survives because his hut is finished, while the
+    careful builder remains outside and is killed by the storm.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not state an explicit moral; any lesson about speed,
+    skill, or preparedness should be treated as interpretive.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8494-8498
+  quote_or_summary: Two men call themselves one name, Ndala; one is the builder of
+    ability and the other the builder of haste.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 8500-8502
+  quote_or_summary: The two men set out to trade, reach the road, and stop when a
+    storm comes, saying they should build grass-huts.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 8504-8508
+  quote_or_summary: The builder of haste finishes and enters his hut; the builder
+    of ability builds carefully but is killed outside by the storm, while the finished
+    hut shelters the hasty builder.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence and figures are clear. Motif labels are provisional
+    because the passage does not give an explicit moral or comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not establish a specific cross-textual or historical comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l8490-l8508
+  passage_sha256=b14bf38c617004111aded2ac180bdc9a09658d1745226305a66cebdcb6770eb0
+

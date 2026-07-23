@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l19081-l19128
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: BIRTH  CEREMONIES / NAMING  THE  CHILD / BIRTH  CEREMONIES / ROASTING  THE  MOTHER;
+    lines 19081-19128
+  start: '19081'
+  end: '19128'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a Malay postpartum custom in which the mother is
+    warmed or “roasted” on a heated couch and sometimes with a heated hearth-stone
+    placed on her stomach. It reports a near-fatal case attributed to excessive heat,
+    states that the custom continues through forty-four days of uncleanness, and lists
+    associated birth taboos concerning food and fire. A cited comparison from Clifford
+    mentions Selema nearly dying from practices considered necessary in Malay childbirth
+    care.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The patient is required by custom to recline on a heated couch two or three
+    times a day, remaining there for one or two hours each time.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An anecdote reports that a poor woman was brought near death by the heat and
+    rescued by a Civil Assistant-Surgeon; the heat was said to cause months of mental
+    disturbance.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A heated hearth-stone called batu tungkii may be wrapped in flannel or rags
+    and applied to the patient's stomach to intensify the roasting.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The roasting custom is said to last for the forty-four days of uncleanness
+    after birth.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: During the same period, birth taboos apply to food, including items classed
+    as cooling to the constitution and items classed as heating to the blood.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Weapons such as krisses and spears must not be reset in their handles over
+    either the hearth-fire or the saleian fire.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The cited Clifford passage says Selema nearly loses her life because of childbirth-related
+    practices considered necessary by Malay science.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: postpartum mother or patient
+  description: The woman undergoing the postpartum heating or roasting custom.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: poor woman in reported incident
+  description: A woman reportedly brought near death by excessive heating during the
+    practice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Civil Assistant-Surgeon
+  description: The medical official said to have rescued the poor woman in the reported
+    incident.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Selema
+  description: A woman in the cited Clifford passage who nearly loses her life during
+    childbirth-related treatment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: postpartum ritual patient
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes women after childbirth being placed on a heated couch
+    or otherwise heated as patients of the custom.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: medical rescuer
+  assigned_to:
+  - fig:3
+  basis: The Civil Assistant-Surgeon is credited with rescuing the woman brought near
+    death.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: comparative childbirth patient
+  assigned_to:
+  - fig:4
+  basis: Selema appears in the cited comparison as a woman nearly losing her life
+    because of childbirth practices.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fire and heat
+  literal_form: heated couch, hearth-fire, saleian fire, and heat used in the roasting
+    custom
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: heated hearth-stone
+  literal_form: batu tungkii wrapped in flannel or old rags and placed on the stomach
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: forty-four-day period
+  literal_form: forty-four days of uncleanness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: birth-taboo foods
+  literal_form: foods prohibited during pantang beranak, including cooling fruits
+    and vegetables and heating fish
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: weapons kept from birth-related fire
+  literal_form: daggers, krisses, and spears not reset over hearth-fire or saleian
+    fire
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Required heating on the couch
+  summary: The postpartum patient is required by custom to lie on the heated couch
+    several times each day for extended periods.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Near-fatal overheating incident
+  summary: A poor woman is reported to have been brought near death by the heat and
+    rescued by a Civil Assistant-Surgeon.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Application of the heated hearth-stone
+  summary: A heated hearth-stone is wrapped and applied to the patient's stomach to
+    increase the roasting effect.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Forty-four days of postpartum taboos
+  summary: The roasting period is linked to forty-four days of uncleanness, during
+    which food taboos and fire-related restrictions are observed.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Cited parallel from Clifford
+  summary: A cited passage about Selema is presented as a comparison for dangerous
+    childbirth-related practices.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: postpartum heating or roasting rite
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage presents heating the mother after birth as a customary birth
+    ceremony involving a couch and heated stone.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: 'The taxonomy reference is broad: the passage concerns postpartum ritual
+    practice, not an explicitly divine or miraculous birth narrative.'
+- id: motif:2
+  label: postpartum taboo period after birth
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage connects the forty-four days of uncleanness with birth taboos
+    governing food and fire-related actions.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage documents taboos but does not explain their full symbolic
+    rationale.
+- id: motif:3
+  label: dangerous ritual treatment in childbirth care
+  taxonomy_refs: []
+  basis: The passage reports that excessive heat during the custom nearly killed a
+    woman and caused lasting mental disturbance; the cited Clifford passage gives
+    a similar childbirth-danger example.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: This is a descriptive pattern in the passage rather than a named traditional
+    motif family.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself invites comparison between the roasting custom and Clifford's
+    account of Selema nearly dying from childbirth-related practices considered necessary
+    in Malay science.
+  claim_level: same_function
+  target: Clifford, Studies in Brown Humanity, p. 51; Selema childbirth-confinement
+    episode
+  evidence_refs:
+  - ev:2
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only a brief cited excerpt from Clifford is included, so the comparison
+    is limited to the shared function of dangerous childbirth-related treatment.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 19083-19089
+  quote_or_summary: "“recline upon this couch two or three times” daily and remain
+    “for an hour or two.”"
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: summary
+  locator: 19089-19096
+  quote_or_summary: A woman was reportedly brought to the point of death by the heat,
+    rescued by the Civil Assistant-Surgeon, and suffered months of mental disturbance.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 19098-19102
+  quote_or_summary: A heated hearth-stone is “wrapped up” and “applied to the patient’s
+    stomach.”
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: 19102-19105
+  quote_or_summary: The custom continues for “the whole of the forty-four days of
+    uncleanness.”
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: 19104-19116
+  quote_or_summary: Birth taboos during this period forbid foods classed as cooling,
+    such as many fruits and vegetables, and foods classed as heating to the blood,
+    including certain fish.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 19117-19123
+  quote_or_summary: Weapons such as krisses and spears must not be reset in their
+    handles over the hearth-fire or the saleian fire.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: 19124-19128
+  quote_or_summary: 'Clifford is cited: “Selema nearly loses her life” through practices
+    considered necessary after confinement.'
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about actions, objects, timing, and taboos. Motif-family
+    assignment is cautious because the available taxonomy has only a broad birth-related
+    category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external sources were used; comparison is limited to the Clifford excerpt included in the provided passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l19081-l19128
+  passage_sha256=8914126a8c2d21dde083ddf5f2fa9f11f650ca0fcb3b6ad9b2f57999c54f2b7c
+

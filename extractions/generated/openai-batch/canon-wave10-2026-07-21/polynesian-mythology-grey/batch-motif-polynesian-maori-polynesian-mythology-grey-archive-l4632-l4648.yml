@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.polynesian-maori-polynesian-mythology-grey-archive-l4632-l4648
+source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+passage_locator:
+  label: THE DISCOVERY OF NEW ZEALAND. / DISCOVERY OF NEW ZEALAND. 133 / CONSTRUCTION
+    OF CAXOES TO ESIIGRATE TO NEW ZEALAND. / PEEPARATIONS TO EVIIGEATE.; lines 4632-4648
+  start: '4632'
+  end: '4648'
+  translation: Polynesian Mythology and Ancient Traditional History of the New Zealand
+    Race
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage traces the route of the Tainui after leaving Whanga-Paraoa
+    shortly after the Arawa. It follows coastal places, reaches the northern end of
+    the land, returns to Tamaki, moves to the Tau-oma portage, observes seabirds coming
+    from the west, and then sets out to explore. A footnote explains Whanga-Paraoa
+    as the bay of the sperm whale, named from a whale found there.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Tainui leaves Whanga-Paraoa shortly after the Arawa.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Tainui proceeds nearly in the same direction as the Arawa and reaches
+    the Gulf of Hauraki.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The route continues along the coast to Rakau-mangamanga, Cape Brett, and Motukokako,
+    an island with an arched passage through it.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Tainui travels along the coast to Whiwhia, Te Aukanapanapa, and Muri-whenua
+    near the North Cape, where the land is found to end.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After finding the land ended, the Tainui returns along the coast, reaches
+    Tamaki, lands there, and proceeds up the creek to Tau-oma, the portage.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: At Tau-oma, the voyagers see flocks of sea-gulls and oyster-catchers passing
+    over from the westward, and they then go to explore the country.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The footnote explains Whanga-Paraoa as the bay of the sperm whale, named from
+    a whale found there.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Tainui
+  description: Named voyaging entity or group that leaves Whanga-Paraoa, follows the
+    coast, lands at Tamaki, and explores inland.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Arawa
+  description: Named entity that departed before the Tainui and whose direction of
+    travel is used as a comparison.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Flocks of sea-gulls and oyster-catchers
+  description: Bird flocks seen passing over from the westward near Tau-oma.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: coastal voyaging and landing party
+  assigned_to:
+  - fig:1
+  basis: The Tainui leaves, follows a coastal route, returns to Tamaki, lands, and
+    goes on to explore.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: prior voyage reference
+  assigned_to:
+  - fig:2
+  basis: The Arawa is described as having departed earlier, and the Tainui travels
+    nearly in the same direction.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: observed westward-moving birds
+  assigned_to:
+  - fig:3
+  basis: The birds are seen passing from the westward immediately before the explorers
+    go off to examine the country.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: coastal and creek water-route
+  literal_form: Gulf of Hauraki, coast, and creek route to Tau-oma
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: island with arched passage
+  literal_form: Motukokako, an island with an arched passage through it
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bird flocks from the west
+  literal_form: flocks of sea-gulls and oyster-catchers passing over from the westward
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: portage
+  literal_form: Tau-oma, the portage
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Departure and parallel coastal route
+  summary: The Tainui departs from Whanga-Paraoa after the Arawa and proceeds nearly
+    in the same direction, reaching the Gulf of Hauraki and coastal landmarks including
+    Cape Brett and Motukokako.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Northern limit of the land
+  summary: The Tainui continues along the coast to places near the North Cape and
+    finds that the land ends there.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Return to Tamaki and westward bird sign
+  summary: The Tainui returns along the coast to Tamaki, lands, proceeds to Tau-oma,
+    sees seabirds passing from the westward, and goes to explore the country.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: departure of a named voyaging party
+  taxonomy_refs:
+  - departure
+  basis: The passage begins with the Tainui leaving Whanga-Paraoa shortly after the
+    Arawa and setting out along a route.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives a migration-route departure, not a full initiation or
+    quest narrative.
+- id: motif:2
+  label: coastal exploration and landfall
+  taxonomy_refs: []
+  basis: The narrative lists a sequence of coastal places, a landing at Tamaki, and
+    exploration of the country.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family exactly matches coastal discovery or settlement-route
+    exploration.
+- id: motif:3
+  label: return after reaching the land's end
+  taxonomy_refs:
+  - return
+  basis: After finding that the land ended near the North Cape, the Tainui returns
+    along the coast to Tamaki.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a literal route reversal within a travel account, not necessarily
+    a full mythic return-cycle motif.
+- id: motif:4
+  label: birds prompting exploration
+  taxonomy_refs: []
+  basis: The travelers are surprised by flocks of sea-gulls and oyster-catchers passing
+    from the westward and then go to explore the country.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage supports the sequence of observation followed by exploration,
+    but does not explicitly call the birds an omen.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly places the Tainui voyage in sequence with the Arawa
+    and describes the Tainui as travelling nearly in the same direction.
+  claim_level: same_function
+  target: Arawa voyage within the same migration narrative context
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only timing and direction are compared in this passage; no broader
+    equivalence between the two voyages is stated here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4632-4635
+  quote_or_summary: The Tainui leaves Whanga-Paraoa shortly after the Arawa, proceeds
+    nearly in the same direction, and reaches the Gulf of Hauraki.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4635-4638
+  quote_or_summary: The Tainui coasts to Rakau-mangamanga or Cape Brett and to Motukokako,
+    described as an island with an arched passage through it.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4638-4641
+  quote_or_summary: The route continues to Whiwhia, Te Aukanapanapa, and Muri-whenua
+    near the North Cape, where the travelers find that the land ends.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4641-4646
+  quote_or_summary: The Tainui returns along the coast, lands at Tamaki, proceeds
+    up the creek to Tau-oma the portage, sees flocks of sea-gulls and oyster-catchers
+    passing from the westward, and goes to explore.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: footnote to line 4632; lines 4647-4648
+  quote_or_summary: The footnote glosses Whanga-Paraoa as the bay of the sperm whale,
+    named from a whale found there.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The route, figures, places, and bird observation are explicit. Motif labels
+    are conservative because the passage is mainly a travel-route account.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external identifications or unstated mythic interpretations were added beyond the supplied passage and metadata.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-maori-polynesian-mythology-grey-archive__l4632-l4648
+  passage_sha256=ea6fe05e580f941cc2e0019dd3eab9797588ea0d84ebe2c4bf26b07ae03ae5c0
+

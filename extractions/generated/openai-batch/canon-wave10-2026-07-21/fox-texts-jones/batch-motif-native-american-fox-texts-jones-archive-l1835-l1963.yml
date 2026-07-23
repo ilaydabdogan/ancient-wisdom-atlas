@@ -1,0 +1,528 @@
+---
+record_id: batch.motif.native-american-fox-texts-jones-archive-l1835-l1963
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+passage_locator:
+  label: INTRODUCTION. / CONSONANTS. / VOWELS. / DIPHTHONGS.; lines 1835-1963
+  start: '1835'
+  end: '1963'
+  translation: Fox Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage concludes an account in which a bear is chased into the sky,
+    slain in autumn, and associated with stars and the reddening leaves of oak and
+    sumach. It then begins a tale of Red-Earth visiting a distant tiny people, teaching
+    them a different way of childbirth, being imitated in bodily acts, and helping
+    them against bird enemies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A pursued bear is kept fleeing back and forth by figures stationed or moving
+    in different directions.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One pursuer looks down, sees the green surface of the earth below, and says
+    they are being carried up into the sky by the bear.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: River-that-joins-Another is identified as the one running between two others
+    and as having a small puppy named Hold-Tight as a pet.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In autumn the bear is overtaken, slain, placed on oak and sumach boughs, flayed,
+    cut up, and its meat is scattered in different directions.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The bear’s head and backbone are thrown toward the place of morning and are
+    said to account for winter stars.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Four leading stars are identified as the bear, three rear stars as the chasers,
+    and a tiny nearby star as the puppy Hold-Tight.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The leaves of oaks and sumachs redden every autumn because the slain bear
+    is laid on them and its blood reddens them.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Red-Earth travels to a distant town where far-away folk live and observes
+    customs that seem strange to him.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The far-away folk customarily cut open women’s bellies at childbirth to remove
+    babies.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Red-Earth assists a woman in childbirth by having her kneel; she gives birth
+    easily, and the people adopt this practice and cease cutting open women.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The people of the distant land are described as very tiny and as living in
+    tiny structures.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The tiny people imitate Red-Earth in a bodily act after seeing him do it.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: When enemies approach, Red-Earth sees that they are birds, cuts a stick, strikes
+    them with it, and the geese, cranes, and swans fly up.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: bear
+  description: The pursued animal carried the chasers upward into the sky, was slain
+    in autumn, and was later identified with four leading stars.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: hunters or chasers
+  description: Figures who chase the bear, overtake it in autumn, slay and butcher
+    it, and are identified with three rear stars.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: River-that-joins-Another
+  description: A named chaser who runs between two others and owns the puppy Hold-Tight.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Hold-Tight
+  description: A tiny puppy and pet of River-that-joins-Another, later identified
+    with a tiny star near another star.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Red-Earth
+  description: A traveler who visits the far-away tiny folk, teaches a childbirth
+    practice, is imitated, and strikes bird enemies with a stick.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+- id: fig:6
+  name_or_label: People-of-a-Far-off-Country
+  description: A tiny folk living in tiny structures in a distant place; they adopt
+    Red-Earth’s childbirth practice and imitate his actions.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:7
+  name_or_label: woman about to give birth
+  description: A woman among the far-away folk who is assisted by Red-Earth and gives
+    birth while kneeling.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: geese, cranes, swans, and other birds
+  description: Bird enemies of the far-away folk; they are struck by Red-Earth and
+    fly up.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: pursued bear and star-figure
+  assigned_to:
+  - fig:1
+  basis: The bear is chased, carries the chasers upward, is slain, and is identified
+    with four stars.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: bear chaser or hunter
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The figures chase, overtake, and slay the bear and are identified with stars
+    behind it.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:3
+  label: named chaser with pet
+  assigned_to:
+  - fig:3
+  basis: River-that-joins-Another is named as the one running between two and as owner
+    of the puppy Hold-Tight.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: pet puppy and tiny star
+  assigned_to:
+  - fig:4
+  basis: Hold-Tight is the pet puppy and is identified with a tiny star.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: traveler, teacher, and defender
+  assigned_to:
+  - fig:5
+  basis: Red-Earth journeys to the distant folk, teaches childbirth practice, is imitated,
+    and defends them against birds.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+- id: role:6
+  label: distant tiny recipients of instruction
+  assigned_to:
+  - fig:6
+  basis: The far-away people are tiny, observe Red-Earth, and adopt his taught practice.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:7
+  label: recipient of childbirth aid
+  assigned_to:
+  - fig:7
+  basis: The woman gives birth with Red-Earth’s assistance.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: bird enemies
+  assigned_to:
+  - fig:8
+  basis: The enemies of the far-away folk are birds, named as geese, cranes, and swans.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: stars formed from bear chase
+  literal_form: four leading stars, three rear stars, and a tiny nearby star
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: oak and sumach leaves
+  literal_form: oak boughs and sumach boughs or leaves used under the butchered bear
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: red leaves from bear blood
+  literal_form: blood-reddened oak and sumach leaves in autumn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: stick or club against bird enemies
+  literal_form: a stick cut by Red-Earth and used against the birds
+  associated_figures:
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Bear chase rises into the sky
+  summary: The bear flees among directional stations; a pursuer notices the earth
+    below and says the bear is carrying them upward into the sky.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Autumn slaying and butchering of the bear
+  summary: The hunters overtake the bear in autumn, kill it, place it on oak and sumach
+    boughs, cut it up, and scatter its parts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Stars and reddening leaves explained
+  summary: The bear, chasers, and puppy are identified with stars, while the autumn
+    reddening of oak and sumach leaves is explained by the bear’s blood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Red-Earth teaches childbirth practice
+  summary: Red-Earth visits the far-away folk, intervenes in childbirth, teaches a
+    kneeling delivery method, and the people stop cutting open women at childbirth.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Tiny people imitate Red-Earth
+  summary: The tiny people are described as living in tiny structures and imitating
+    what Red-Earth does.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: scene:6
+  label: Red-Earth drives off bird enemies
+  summary: When enemies approach, Red-Earth finds that they are birds, strikes them
+    with a stick, and the birds fly up.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Bear chase carried into the sky and mapped onto stars
+  taxonomy_refs:
+  - ascent
+  basis: The chasers are carried upward into the sky by the bear, and the bear, chasers,
+    and puppy are identified with particular stars.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The taxonomy has no specific catasterism or constellation reference, so
+    only the ascent element is mapped.
+- id: motif:2
+  label: Seasonal reddening of leaves explained by slain bear’s blood
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage states that every autumn oak and sumach leaves become red because
+    the bear is butchered on them and its blood reddens them.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The explanation is local to oak and sumach leaves in this passage.
+- id: motif:3
+  label: Traveler teaches a life-preserving childbirth practice
+  taxonomy_refs:
+  - culture_hero
+  - wisdom
+  basis: Red-Earth teaches the distant folk a different childbirth method, after which
+    they stop cutting open women at childbirth.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage presents Red-Earth as a traveler and teacher; it does not
+    explicitly call him a culture hero.
+- id: motif:4
+  label: Small distant people imitate and learn from a visitor
+  taxonomy_refs:
+  - culture_hero
+  basis: The tiny people observe Red-Earth and imitate what he does; the note also
+    says they previously did not know how to eat before he came among them.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: Some wording in the passage is fragmentary or unclear, especially around
+    the statement that they were previously without ‘ani.’
+- id: motif:5
+  label: Visitor defends vulnerable people from bird enemies
+  taxonomy_refs:
+  - culture_hero
+  basis: Red-Earth responds to the alarm about enemies, discovers they are birds,
+    and drives them off with a stick.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: The passage gives only a brief fragment of the larger tale.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1835-1844
+  quote_or_summary: Figures at different directional sides call out where the bear
+    is running and keep it fleeing back and forth.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1845-1861
+  quote_or_summary: A pursuer looks down and sees the green earth below; he says they
+    are being carried up into the sky by the bear and calls to River-that-joins-Another
+    to go back, but is not heeded.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1862-1865
+  quote_or_summary: River-that-joins-Another is described as running between two others
+    and as having the little puppy Hold-Tight as a pet.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1866-1882
+  quote_or_summary: In autumn the bear is overtaken and slain; oak and sumach boughs
+    are cut, the bear is placed on them, flayed and cut up, and its head and backbone
+    are thrown toward the morning and associated with winter stars.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1883-1888
+  quote_or_summary: Four leading stars are said to be the bear, three rear stars the
+    chasers, and a tiny nearby star the puppy Hold-Tight.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1889-1897
+  quote_or_summary: Every autumn oaks and sumachs redden because the hunters lay the
+    bear on their leaves and the leaves become red with blood.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1898-1910
+  quote_or_summary: Red-Earth goes on a distant journey to the town of the far-away
+    folk and observes their custom of cutting open women’s bellies at childbirth to
+    remove babies.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1911-1925
+  quote_or_summary: Red-Earth asks to minister to a woman about to give birth, has
+    her kneel, and she gives birth easily; the people adopt his custom and cease cutting
+    open women.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1926-1936
+  quote_or_summary: The people of the distant land are described as tiny folk with
+    tiny dwellings; the text says they did not know how to eat before Red-Earth came
+    among them.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 1937-1945
+  quote_or_summary: The tiny people see Red-Earth easing himself and imitate what
+    he does in detail.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 1946-1963
+  quote_or_summary: When enemies approach, Red-Earth is told to hide; he sees that
+    the enemies are birds, cuts a stick, strikes them, and geese, cranes, and swans
+    fly up.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage includes a clear constellation/seasonal etiology and a fragmentary
+    Red-Earth tale. Some source text appears interrupted by notes and Meskwaki text
+    fragments, so line-level reconstruction and some details require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only supplied passage text and metadata were used. Comparison claims are left empty because no explicit cross-tradition comparison is made in the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-fox-texts-jones-archive__l1835-l1963
+  passage_sha256=6a807bac8f974ebb361c3a9078f41d09ac58f1e30006a58ab03e0a6e90e2c743
+

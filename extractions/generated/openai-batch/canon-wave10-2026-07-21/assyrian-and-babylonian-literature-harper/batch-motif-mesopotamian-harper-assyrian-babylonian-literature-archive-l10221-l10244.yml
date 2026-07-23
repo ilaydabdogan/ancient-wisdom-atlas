@@ -1,0 +1,278 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l10221-l10244
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: ASSYRIAN   AND   BABYLONIAN   LITERATURE / INSCRIPTION   OF   NABOPOLASSAR  131
+    / INSCRIPTION   OF  NABOPOLASSAR  133 / INSCRIPTION   OF   NABOPOLASSAR; lines
+    10221-10244
+  start: '10221'
+  end: '10244'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Nabopolassar, king of Babylon, states that he acts under the guidance of
+    Nabu and Marduk. Marduk commissions him to restore cities and repair temples.
+    Because the Euphrates had receded from Sippar and its waters were distant, Nabopolassar
+    digs the river back to Sippar, provides abundant pure water for Shamash, and builds
+    riverbank and protective walls.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Nabopolassar identifies himself as the king of Babylon and says he is under
+    the guidance of Nabu and Marduk.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Marduk, called the great lord, commissions Nabopolassar by command to restore
+    cities and repair temples.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Euphrates had receded from Sippar, and the waters were distant from the
+    service of the named lordships.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Nabopolassar describes himself as humble, submissive, and a worshipper of
+    the gods.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Nabopolassar brings the Euphrates back to Sippar by digging.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Nabopolassar provides pure waters in abundance for Shamash.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Nabopolassar walls the riverbanks with mortar and brick and constructs a protecting
+    wall for Shamash.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Nabopolassar
+  description: King of Babylon; speaker of the inscription; restorer of the Euphrates
+    channel and builder of walls for Shamash.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Nabu
+  description: Named as one of the divine figures whose guidance Nabopolassar claims.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Marduk
+  description: Named as a guiding divine figure and as the great lord who commissions
+    Nabopolassar to restore cities and repair temples.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Shamash
+  description: Named as a lord associated with Sippar and as the recipient of pure
+    waters and a protecting wall.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: A
+  description: Named with Shamash as associated with Sippar and the distant waters;
+    the passage gives no further description.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: king of Babylon
+  assigned_to:
+  - fig:1
+  basis: Nabopolassar identifies himself by this royal title.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: pious restorer and builder
+  assigned_to:
+  - fig:1
+  basis: He describes himself as a worshipper of the gods and recounts bringing the
+    Euphrates back, providing waters, and building walls.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: divine guide
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Nabopolassar says he acts under the guidance of Nabu and Marduk.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: divine commissioner
+  assigned_to:
+  - fig:3
+  basis: Marduk commissions Nabopolassar to restore cities and repair temples.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: divine lordship associated with Sippar
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Sippar is described as beloved of Shamash and A, and the distant waters are
+    connected with service to their lordships.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Euphrates and pure waters
+  literal_form: The river Euphrates and the pure waters restored to Sippar.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Sippar
+  literal_form: The splendid city from which the Euphrates had receded.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: mortar-and-brick river works
+  literal_form: Riverbanks walled with mortar and brick and a protecting wall constructed
+    for Shamash.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Divine commission and receded river
+  summary: Nabopolassar states that he is guided by Nabu and Marduk, and that Marduk
+    commissions him to restore cities and temples. The Euphrates is described as having
+    receded from Sippar, leaving waters distant from divine service.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Restoration of water and construction for Shamash
+  summary: Nabopolassar brings the Euphrates back to Sippar by digging, provides abundant
+    pure waters for Shamash, and builds riverbank and protective walls.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Royal restoration under divine mandate
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The king presents his restoration of cities and temples as commissioned by
+    Marduk and undertaken under the guidance of Nabu and Marduk.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is an inscriptional self-presentation; the motif label describes
+    the passage-level pattern rather than verifying historical causation.
+- id: motif:2
+  label: Restoration of sacred water supply
+  taxonomy_refs: []
+  basis: The Euphrates has receded from Sippar, and Nabopolassar brings it back by
+    digging and provides pure waters for Shamash.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No broader mythic comparison is stated in the passage; this is a local
+    passage-level motif candidate.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10221-10224
+  quote_or_summary: Nabopolassar identifies himself as king of Babylon under the guidance
+    of Nabu and Marduk.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 10225-10233
+  quote_or_summary: Marduk commissions Nabopolassar to restore cities and repair temples;
+    the Euphrates had receded from Sippar, and its waters were too distant for service
+    to the lordships associated with the city.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 10235-10242
+  quote_or_summary: Nabopolassar describes himself as humble and god-worshipping,
+    brings the Euphrates back to Sippar by digging, provides pure waters for Shamash,
+    walls the riverbanks with mortar and brick, and constructs a protecting wall for
+    Shamash.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports the named figures, actions, and royal-divine
+    commission pattern. Broader motif classification is limited because the excerpt
+    is an inscriptional report rather than an extended mythic narrative; no comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. The figure labeled “A” is retained exactly as printed in the supplied passage, without further identification.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l10221-l10244
+  passage_sha256=ab23a0ddf61044ba07452bce1a5062575a381f1b0dd198fe06b349697e1624bc
+

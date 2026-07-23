@@ -1,0 +1,397 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l10651-l10695
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: LAMENT  FOR   MOURUA / TUMU.  INTRODUCTION. / PAPA. / FOUNDATION.; lines
+    10651-10695
+  start: '10651'
+  end: '10695'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage places Kavoro's burial at a spirit-dwelling at Imogo, in a
+    shaded grove where his grave was dug and the widow grieves. A following section
+    states that Kavoro was disinterred from the grave. The prose then describes ghosts
+    from a cave departing when the coral tree blossoms, moving from rocks to the reef,
+    across the ocean, and disappearing with the sun in the nether-world. The spirits
+    avoid a fatal fragrant bua tree but cannot escape Miru, mistress of the shades.
+    A heading names Veetini and an untranslated Mangaian stanza follows.
+  language: Mangaian and English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Imogo is described as a spirit-dwelling and as Kavoro's burial-place in a
+    shady grove.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A grave is dug and red soil is thrown up.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The widow's grief is described as bitter.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Kavoro is disinterred and taken out of the grave where he had lain.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ghosts from a cave depart when the coral tree blossoms.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The ghosts leap from one rock to another, proceed to the reef, cross over
+    the ocean, and disappear with the sun in the nether-world.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The disembodied spirits avoid the fragrant but fatal bua tree but cannot escape
+    Miru, mistress of the shades.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Veetini is named in an explicit comparison to the ghosts' ocean-crossing movement
+    and in a following heading.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Kavoro
+  description: A deceased person whose burial-place is at Imogo and who is later disinterred
+    from the grave.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: unnamed widow
+  description: The widow whose grief is described as bitter in connection with Kavoro's
+    grave.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: ghosts / disembodied spirits
+  description: Spirits from a cave who depart toward the nether-world and avoid the
+    fatal bua tree but cannot escape Miru.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Miru
+  description: Named as mistress of the shades, from whom the disembodied spirits
+    cannot escape.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Veetini
+  description: A named figure used as a comparison for the ghosts' movement over the
+    ocean; also named in the following heading.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: buried and disinterred dead figure
+  assigned_to:
+  - fig:1
+  basis: Kavoro's burial-place and grave are described, and he is later taken out
+    of the grave.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: mourning widow
+  assigned_to:
+  - fig:2
+  basis: The passage names the widow's bitter grief after describing the grave.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: departing dead spirits
+  assigned_to:
+  - fig:3
+  basis: The ghosts or disembodied spirits depart from a cave and travel toward the
+    nether-world.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: mistress of the shades
+  assigned_to:
+  - fig:4
+  basis: Miru is explicitly called mistress of the shades.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: comparative exemplar for ocean-crossing departure
+  assigned_to:
+  - fig:5
+  basis: The ghosts are said to trip over the ocean like Veetini.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: spirit-dwelling and burial-place at Imogo
+  literal_form: spirit-dwelling / burial-place
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: shady grove at the grave
+  literal_form: shady grove with trees
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: grave and red soil
+  literal_form: grave with red soil thrown up
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: cave of ghosts
+  literal_form: cave from which ghosts depart
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: coral tree blossom
+  literal_form: blossoming coral tree
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: rock and reef route
+  literal_form: rocks, inner reef, and outer reef edge
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: ocean crossing
+  literal_form: ocean crossed by ghosts
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: sun and nether-world disappearance
+  literal_form: sun and nether-world
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: fatal bua tree
+  literal_form: fragrant but fatal bua tree
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Burial and mourning at Imogo
+  summary: Kavoro's burial-place is located at a spirit-dwelling in a shaded grove;
+    the grave is dug, red soil is thrown up, and the widow grieves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Disinterment of Kavoro
+  summary: Kavoro is taken out of the grave where he had lain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ghostly departure to the nether-world
+  summary: Ghosts depart from a cave when the coral tree blossoms, move by rocks and
+    reef, cross the ocean like Veetini, and disappear with the sun in the nether-world.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Fatal tree and Miru
+  summary: The disembodied spirits avoid the fatal bua tree but cannot escape Miru,
+    mistress of the shades.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: burial lament and disinterment
+  taxonomy_refs: []
+  basis: The passage combines Kavoro's grave, the widow's grief, and the later removal
+    of Kavoro from the grave.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain the reason for the disinterment within this
+    excerpt.
+- id: motif:2
+  label: mapped journey of ghosts to the nether-world
+  taxonomy_refs:
+  - afterlife_journey_map
+  - departure
+  basis: 'The ghosts'' route is described in stages: cave, rocks, reef, ocean, and
+    disappearance with the sun in the nether-world.'
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The prose begins with a fragment, so the immediate antecedent of 'this
+    cave' is not supplied in the excerpt.
+- id: motif:3
+  label: tree blossom as timing marker for spirit departure
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The ghosts take their departure when the coral tree blossoms.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only the blossom timing is stated; a full seasonal-cycle pattern is not
+    elaborated in this passage.
+- id: motif:4
+  label: fatal tree avoided by spirits and unavoidable mistress of shades
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The spirits avoid the fragrant but fatal bua tree but cannot escape Miru,
+    mistress of the shades.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage identifies the danger and Miru's inescapability but does not
+    describe an encounter or judgment scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the ghosts' movement over the ocean to Veetini.
+  claim_level: visual_similarity
+  target: Veetini
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt provides only the comparison phrase and heading; it does
+    not explain Veetini's narrative in this passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 10651-10661
+  quote_or_summary: Imogo is called a spirit-dwelling and Kavoro's burial-place in
+    a shady grove; the grave is dug, red soil thrown up, and the widow's grief is
+    noted.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 10662-10668
+  quote_or_summary: Kavoro was disinterred and taken out of the grave where he had
+    lain.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 10669-10686
+  quote_or_summary: Ghosts from a cave, when the coral tree blossomed, departed by
+    leaping from rock to rock, moving to the reef, crossing the ocean like Veetini,
+    and disappearing with the sun in the nether-world.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: 10686-10689
+  quote_or_summary: The disembodied spirits avoid the fragrant but fatal bua tree
+    but cannot escape Miru, mistress of the shades.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: citation
+  locator: 10690-10695
+  quote_or_summary: A following heading names 'Veetini' and gives the English title
+    'The Immortality of the Soul'; an untranslated Mangaian stanza follows.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The burial, disinterment, and ghost-journey details are explicit. Confidence
+    is reduced because part of the prose begins mid-sentence and the final Mangaian
+    stanza is not translated in the provided passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external traditions or unstated narrative context were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l10651-l10695
+  passage_sha256=8d9d84c9a84b063361c116c262a88ecb8bc819f4b74004de6d863b5026dcbbb1
+

@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l12474-l12553
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: RULES  FOR  PLANTING / CULTIVATION  OF  RICE / SOWING / PLANTING; lines 12474-12553
+  start: '12474'
+  end: '12553'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives practical instructions for rice cultivation: preparing
+    fields, transplanting seedlings, tying and manuring seedling bundles, planting
+    in bunches, hiring female laborers, tracking the rice through growth stages, fumigating
+    at a specified stalk stage, draining water, and reckoning the time from transplanting
+    to ripeness.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says careful breaking up of the earth and daily treatment of plots
+    help rice thrive and provide bodily sustenance.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the nursery seedlings are ready and the fields are clean, around Safar
+    or August, seedlings are pulled up and tied with dried palas leaf strips into
+    sachekak-sized bundles.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Long roots and blades may be clipped, and the roots may be steeped in stock
+    manure made from calcined buffalo bones and chaff, pounded, sieved, and mixed
+    with mud.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage also allows the manure to be scattered in the field, or omitted
+    where the soil is perennially rich.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After about two nights exposed to air, bundles are taken to the field, broken
+    up, and planted as bunches of four or five plants at span intervals across the
+    plots.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ten or fifteen female laborers may be hired to help pull and plant seedlings
+    for a wage counted by the hundred bundles.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After transplanting, the young rice regains green color at ten days, sends
+    out young shoots at thirty days, increases during the second month, becomes even
+    in the third month, and is styled bunting kechil in the fourth month.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: At the stage when the stalk has five joints, it must be fumigated daily until
+    grain appears.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: When the stalk has six joints it is called bunting besar; later grain becomes
+    visible, spreads everywhere, and the field water is drawn off so the grain ripens
+    quickly.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The time from transplanting to ripeness is reckoned as six months, excluding
+    ploughing and nursery time.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: rice seedlings / young rice / rice grain
+  description: The cultivated rice is described from seedling bundles through transplanting,
+    growth stages, grain appearance, and ripening.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: rice cultivators
+  description: People who prepare plots, pull seedlings, manure, plant, fumigate,
+    and manage field water are implied by the instructions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: female laborers
+  description: Ten or fifteen female laborers may be engaged to assist in planting
+    and pulling up seedlings.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: cultivated crop
+  assigned_to:
+  - fig:1
+  basis: The rice is transplanted, tended, fumigated, drained, and harvested when
+    ripe.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: agricultural practitioner
+  assigned_to:
+  - fig:2
+  basis: The passage presents actions to be performed in preparing and planting the
+    rice plots and managing the crop.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: hired planting laborer
+  assigned_to:
+  - fig:3
+  basis: Female laborers may be hired to pull and plant seedlings for a stated wage.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: field water
+  literal_form: water in the rice field drawn off before ripening
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: burnt bone manure
+  literal_form: buffalo bones burnt with chaff, pounded, sieved, and mixed with mud
+    as stock manure
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: palas leaf bundle ties
+  literal_form: strips of dried palas leaves used to tie seedling bundles
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: five-joint and six-joint stalk stages
+  literal_form: rice stalk counted at five joints and six joints before grain appears
+    and ripens
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Preparing and transplanting rice seedlings
+  summary: Seedlings are pulled from the nursery, tied into bundles, optionally clipped
+    and manured, exposed to air, broken into bunches, and planted across the plots.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Growth stages after transplanting
+  summary: The young rice regreens, produces shoots, increases by month, reaches named
+    stages, and is fumigated daily once the stalk has five joints.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Grain appearance and ripening
+  summary: At the six-joint stage, grain becomes visible and spreads; water is drained
+    from the field so the rice ripens, with transplanting to ripeness reckoned at
+    six months.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: rice cultivation seasonal cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage orders rice cultivation by months and stages from nursery and
+    transplanting through growth, grain appearance, draining, and ripeness over six
+    months.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is agronomic instruction rather than a mythic narrative; the
+    seasonal-cycle classification is a structural pattern only.
+- id: motif:2
+  label: fumigation at a marked growth threshold
+  taxonomy_refs: []
+  basis: When the rice stalk has five joints, it must be fumigated daily until grain
+    appears.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explain whether fumigation is practical, ritual,
+    protective, or symbolic.
+- id: motif:3
+  label: water withdrawal to hasten ripening
+  taxonomy_refs: []
+  basis: When grain has spread everywhere, all water in the field is drawn off so
+    the grain may ripen quickly.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is presented as cultivation practice; no explicit mythological meaning
+    is given.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12474-12486
+  quote_or_summary: The soil is finely broken up; careful rice planting is said to
+    help rice thrive and is linked with expected bodily sustenance.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 12488-12516
+  quote_or_summary: Ready seedlings are pulled, tied with dried palas leaves into
+    bundles, optionally clipped, and treated with stock manure made from burnt buffalo
+    bones, chaff, and mud; manure may also be scattered or omitted in rich soil.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 12519-12533
+  quote_or_summary: After about two nights exposed to air, seedlings are planted in
+    bunches of four or five at span intervals; female laborers may assist for wages
+    by the hundred bundles.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 12535-12545
+  quote_or_summary: After transplanting, rice passes through timed growth stages;
+    in the fourth month it is called bunting kechil, and at five stalk joints it must
+    be fumigated daily until grain appears.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 12546-12553
+  quote_or_summary: At six joints the rice is called bunting besar; grain becomes
+    visible and spreads, water is drained off to hasten ripening, and transplanting
+    to ripeness is reckoned as six months.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The practical sequence is clear, but motif labels are cautious because the
+    passage gives agricultural instructions without explicit mythic comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparisons were added; comparison_claims is empty because the passage itself does not make a comparative claim.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l12474-l12553
+  passage_sha256=bab603d3aed48738ddfbf6252d01ac37555a964f0a79cc5d11c8694b5ed34eba
+

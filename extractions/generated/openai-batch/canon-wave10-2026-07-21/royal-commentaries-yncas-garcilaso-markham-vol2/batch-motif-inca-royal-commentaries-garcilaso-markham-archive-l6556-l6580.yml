@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l6556-l6580
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SIXTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. / VOL.  IT. /
+    SIXTH  BOOK  OB  THE  ROYAL; lines 6556-6580
+  start: '6556'
+  end: '6580'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a triumphal Inca reception celebrated with songs,
+    dances, eating, and drinking. Nations perform before the Ynca in order of seniority,
+    accompanied by servants playing instruments and answering the chorus. The sequence
+    of performances and drinking lasts all day and continues for a month; this reception
+    for Ccapac Yupanqui is said to be the most solemn of such triumphs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The celebration involved songs, dances, much eating, and drinking, described
+    as the principal feature of the festivals.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Each nation rose according to seniority and danced and sang before the Ynca
+    according to the fashion of its own country.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The nations brought servants who played drums and other instruments and replied
+    to the chorus.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After one group finished dancing, the participants drank to each other, and
+    other groups rose to dance in turn.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The dancing lasted all day, and the triumphal reception continued for a whole
+    month.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The passage says similar celebrations were held for other triumphs, but the
+    reception of Ccapac Yupanqui was the most solemn.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the Ynca
+  description: The ruler before whom the nations dance and sing during the reception.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: each nation
+  description: Collective groups that perform songs and dances in seniority order
+    according to their local custom.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: servants
+  description: Attendants brought by the nations who play drums and other instruments
+    and respond to the chorus.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Ccapac Yupanqui
+  description: Named figure associated with the most solemn triumphal reception described
+    in the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: presiding ruler
+  assigned_to:
+  - fig:1
+  basis: The nations dance and sing before the Ynca.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: seniority-ordered performers
+  assigned_to:
+  - fig:2
+  basis: Each nation rises according to seniority and performs according to its country’s
+    fashion.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: musical attendants and chorus responders
+  assigned_to:
+  - fig:3
+  basis: The servants play drums and other instruments and reply to the chorus.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: triumphal reception figure
+  assigned_to:
+  - fig:4
+  basis: The passage identifies the reception of Ccapac Yupanqui as the most solemn
+    of the triumphs.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: festival instruments
+  literal_form: drums and other instruments
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: reciprocal drinking
+  literal_form: participants drank to each other after a dance
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: month-long celebration
+  literal_form: a whole month
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Festival celebration
+  summary: The triumphal event is celebrated with songs, dances, eating, and drinking.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Seniority-ordered performances before the Ynca
+  summary: Nations rise by seniority to dance and sing before the Ynca, accompanied
+    by servants playing instruments and answering the chorus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: All-day sequence and month-long reception
+  summary: After dancing, groups drink to each other and are followed by other dancers;
+    this pattern lasts all day and forms part of a month-long triumphal reception
+    for Ccapac Yupanqui.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: triumphal royal reception through ordered public performance
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage presents nations performing in ranked order before the Ynca during
+    a triumphal reception associated with Ccapac Yupanqui.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage describes ceremonial order and royal setting, but does not
+    explicitly state a doctrine of legitimacy.
+- id: motif:2
+  label: festival feast with song, dance, music, and reciprocal drinking
+  taxonomy_refs: []
+  basis: The celebration is defined by songs, dances, eating, drinking, instrument
+    playing, and repeated group performances.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a recurring ceremonial pattern rather than an explicitly mythic
+    narrative motif.
+- id: motif:3
+  label: extended celebration of a triumph
+  taxonomy_refs: []
+  basis: The reception continues for a whole month and is compared with celebrations
+    held for other triumphs.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives only a brief description of the prior triumphal celebrations.
+comparison_claims:
+- id: claim:1
+  claim: The reception of Ccapac Yupanqui is presented as sharing the same celebratory
+    pattern as other Inca triumphal receptions, while being more solemn than the others.
+  claim_level: same_function
+  target: other triumphal receptions mentioned in the passage
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states that other triumphs were celebrated similarly but
+    does not describe them in detail here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6556-6560
+  quote_or_summary: The celebration is said to include songs, dances, much eating,
+    and drinking, which is described as the principal element of their festivals.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 6561-6568
+  quote_or_summary: Each nation, in order of seniority, rises to dance and sing before
+    the Ynca according to local custom, bringing servants who play drums and other
+    instruments and answer the chorus.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 6568-6573
+  quote_or_summary: After finishing their dance, participants drink to each other;
+    other groups rise to dance in sequence, and the dancing lasts all day.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 6573-6580
+  quote_or_summary: The triumphal reception continues for a whole month; similar celebrations
+    were held for other triumphs, but Ccapac Yupanqui’s is described as the most solemn.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal ceremonial details are clear. Motif labels involving royal legitimacy
+    are cautious because the passage does not explicitly interpret the ritual’s political
+    meaning.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparisons were added beyond the passage’s own reference to other triumphal celebrations.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l6556-l6580
+  passage_sha256=c74e73069ef7e1f33faa4c4838e99ab66b8c2b570fd019b0d8332d3e3f0ae699
+

@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.andean-rites-and-laws-of-the-yncas-markham-archive-l333-l363
+source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+passage_locator:
+  label: X INTRODUCTION. / INTRODUCTION. XI / XIV INTRODUCTION. / INTRODUCTION. XV;
+    lines 333-363
+  start: '333'
+  end: '363'
+  translation: Narratives of the Rites and Laws of the Yncas
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The introductory passage praises Garcilasso's accuracy in topographical
+    and conquest details, notes that mapping his routes supports this accuracy, and
+    says Molina's narrative corroborates Garcilasso. It then identifies the prayers
+    preserved in Molina's report, listing their recipients or purposes, and cautions
+    that the Quichua transcription and later translations are sometimes unclear or
+    non-literal.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Garcilasso is described as scrupulously truthful and notably accurate, especially
+    in topographical details.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Garcilasso gives the conquests of each successive Ynca and mentions places
+    through which the conquerors marched while acquiring the empire.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says Garcilasso enumerates three hundred and twenty places in
+    Peru without putting them out of order or in the wrong position.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When Garcilasso's routes are placed on a map, they are said to furnish proof
+    of the author's accuracy.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Molina's narrative is said to provide incidental corroboration of Garcilasso's
+    statements.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Molina's report is said to preserve words of prayers offered by Ynca Priests
+    to their Deities.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'The passage lists fourteen prayers: four to the Supreme Being, two to the
+    Sun, one for fruitful flocks, four for the Yncas, two for or to other huacas or
+    gods, and one to the earth.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: The passage cautions that Quichua words were often incorrectly transcribed
+    and that the Spanish-to-English translations are sometimes not literal.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Garcilasso
+  description: Author whose memory, truthfulness, topographical detail, and route
+    descriptions are assessed in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Molina
+  description: Reporter whose narrative corroborates Garcilasso and whose report contains
+    prayers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Ynca Priests
+  description: Priests described as offering prayers to their Deities.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Deities
+  description: General recipients of prayers offered by Ynca Priests.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Supreme Being
+  description: Recipient of four prayers in Molina's listed prayer corpus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Sun
+  description: Recipient of two prayers in Molina's listed prayer corpus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: other huacas or gods
+  description: Recipients or associated category for two prayers in Molina's listed
+    prayer corpus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: earth
+  description: Recipient of one prayer in Molina's listed prayer corpus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Yncas
+  description: Successive conquerors in Garcilasso's routes and beneficiaries or subjects
+    of four prayers in Molina's listed corpus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: accurate topographical narrator
+  assigned_to:
+  - fig:1
+  basis: The passage emphasizes Garcilasso's truthfulness, memory, and correct ordering
+    of places and routes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: corroborating reporter of prayers
+  assigned_to:
+  - fig:2
+  basis: Molina's narrative is described as corroborating Garcilasso and his report
+    as containing the prayer texts.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: ritual officiants
+  assigned_to:
+  - fig:3
+  basis: The passage states that Ynca Priests offered prayers to their Deities.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: prayer recipients
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: The listed prayers are addressed to Deities, the Supreme Being, the Sun,
+    other huacas or gods, and the earth.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: imperial rulers or prayer subjects
+  assigned_to:
+  - fig:9
+  basis: The passage mentions each successive Ynca as a conqueror and also lists four
+    prayers for the Yncas.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: Sun as prayer recipient
+  literal_form: the Sun
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: earth as prayer recipient
+  literal_form: the earth
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: huacas or gods as prayer category
+  literal_form: other huacas or gods
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Garcilasso's ordered conquest geography
+  summary: The passage describes Garcilasso recording successive Ynca conquests, ordered
+    places, and routes that can be placed on a map to demonstrate accuracy.
+  figure_refs:
+  - fig:1
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Molina's catalog of Ynca prayers
+  summary: The passage presents Molina's report as preserving prayers offered by Ynca
+    Priests to divine recipients and lists the prayer categories, while noting transcription
+    and translation problems.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Priestly prayers to multiple divine recipients
+  taxonomy_refs: []
+  basis: The passage explicitly says Ynca Priests offered prayers to Deities and lists
+    recipients including the Supreme Being, the Sun, huacas or gods, and the earth.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is an editorial introduction and gives only categories of
+    prayers, not the full prayer texts or ritual setting.
+- id: motif:2
+  label: Ritual petition for fruitful flocks
+  taxonomy_refs: []
+  basis: One of the fourteen prayers is listed as being for fruitful flocks.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only the prayer category is mentioned; no prayer wording or ritual action
+    is provided in this passage.
+- id: motif:3
+  label: Prayers for the Yncas
+  taxonomy_refs: []
+  basis: The passage states that four of Molina's listed prayers are for the Yncas.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The purpose and content of these prayers are not specified here, so no
+    stronger claim about royal ideology is extracted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 335-341
+  quote_or_summary: Garcilasso is described as truthful and accurate, with memory
+    especially shown in topographical details and in accounts of successive Ynca conquests
+    and places marched through.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 342-345
+  quote_or_summary: Garcilasso is said to enumerate three hundred and twenty places
+    in Peru without ordering or positional errors in describing the marches.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 346-349
+  quote_or_summary: Mapping the routes of each conquering Ynca is said to prove Garcilasso's
+    accuracy, and Molina's narrative is said to corroborate Garcilasso's statements.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 351-355
+  quote_or_summary: Molina's report is said to preserve prayers offered by Ynca Priests
+    to Deities; the passage lists fourteen prayers, including four to the Supreme
+    Being, two to the Sun, one for fruitful flocks, and four for the Yncas.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: line 356
+  quote_or_summary: The prayer list also includes two for or to other huacas or gods
+    and one to the earth.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 357-363
+  quote_or_summary: The passage warns that Quichua words were sometimes incorrectly
+    transcribed, that meaning is not always clear, and that translations from Spanish
+    into English may be far from literal.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear as an editorial source-critical introduction. Motif
+    extraction is limited because it summarizes prayer categories rather than giving
+    mythic narrative or full ritual texts. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif family was assigned because the passage does not explicitly support a stronger mapping to the available taxonomy. Symbols are limited to named prayer recipients or categories explicitly listed in the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:andean-rites-and-laws-of-the-yncas-markham-archive__l333-l363
+  passage_sha256=8e2e95b79a6c733d1cbd0009fbec4246487b286b5560d5dd12af0140d470038d
+

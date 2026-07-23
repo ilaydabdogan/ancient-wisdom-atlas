@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l21876-l21884
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: COYOTE  WHO  CALLED  HIMSELF       DRAGGING-THE-STONE.  439 / COYOTE-MAN  AND  HIS  TRICKS.  44I
+    / COYOTE-MAN   AND    HIS    TRICKS.  443 / COYOTE-MAN  AND  HIS  TRICKS.  445;
+    lines 21876-21884
+  start: '21876'
+  end: '21884'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: People hunt for Coyote-Man, find him, make a large fire, and place him
+    on it. A loud noise is heard, something flies from the fire into the timber and
+    gives a warwhoop. The people say Coyote-Man did not burn up but jumped into the
+    timber, became a hairy man, and would no longer associate with the people.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The people go out to hunt for Coyote-Man and find him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people make a big fire and place Coyote-Man upon it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A noise like a gunshot is heard after Coyote-Man is placed on the fire.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Something pops from the fire, flies into the timber, falls, and gives a warwhoop.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The people say Coyote-Man did not burn up, but jumped into the timber and
+    turned into a hairy man.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Coyote-Man is no longer to associate with the people.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Coyote-Man
+  description: A figure hunted by the people, placed on a fire, said not to burn up
+    but to jump into the timber and turn into a hairy man.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: the people
+  description: The people who hunt for Coyote-Man, find him, place him on the fire,
+    and say what happened to him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: hairy man
+  description: The form into which Coyote-Man is said to turn after jumping into the
+    timber.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: hunted figure
+  assigned_to:
+  - fig:1
+  basis: The people go out to hunt for Coyote-Man and find him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: transforming figure
+  assigned_to:
+  - fig:1
+  basis: Coyote-Man is said not to burn up but to turn into a hairy man.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: collective pursuers
+  assigned_to:
+  - fig:2
+  basis: The people hunt for Coyote-Man and place him on the fire.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: resulting transformed form
+  assigned_to:
+  - fig:3
+  basis: The hairy man is the form Coyote-Man is said to become.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: big fire
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: timber
+  literal_form: timber
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: warwhoop
+  literal_form: one big warwhoop
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: hairy man form
+  literal_form: hairy man
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Capture and burning attempt
+  summary: The people hunt for Coyote-Man, find him, make a large fire, and place
+    him upon it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Escape into the timber
+  summary: After a loud noise, something comes from the fire, flies into the timber,
+    falls, and gives a warwhoop.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Transformation and separation
+  summary: The people say Coyote-Man did not burn up but jumped into the timber, turned
+    into a hairy man, and would no longer associate with the people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: escape from burning through transformation
+  taxonomy_refs:
+  - shapeshifter
+  basis: Coyote-Man is placed on a fire but is said not to burn up; instead he jumps
+    into the timber and turns into a hairy man.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage states the transformation but does not explain its cause or
+    wider significance.
+- id: motif:2
+  label: trickster-like boundary separation from the people
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The titled Coyote-Man figure survives the fire, changes form, and is thereafter
+    not to associate with the people.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The label is supported by the Coyote-Man title and separation from the
+    people, but the passage itself does not narrate the earlier tricks.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 21876-21877
+  quote_or_summary: "“the people went out to hunt for Coyote-Man. They found him”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 21877-21878
+  quote_or_summary: "“made a big fire, and placed him upon it”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 21878-21881
+  quote_or_summary: A noise like a gunshot is heard; something pops from the fire,
+    flies into the timber, falls, and gives a warwhoop.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 21881-21884
+  quote_or_summary: "“instead of Coyote-Man burning up he jumped over into the timber
+    and turned into a hairy man” and was not to associate with the people anymore."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment to shapeshifting
+    is direct; trickster-boundary assignment is more tentative because this short
+    passage gives limited context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l21876-l21884
+  passage_sha256=979f47fc3980f083470e94f7d1da24cf0f30c175e8b69612c83fdc7c0af404ba
+

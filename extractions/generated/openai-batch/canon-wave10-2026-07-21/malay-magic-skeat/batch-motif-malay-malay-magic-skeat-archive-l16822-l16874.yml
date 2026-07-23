@@ -1,0 +1,429 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l16822-l16874
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: REPTILES  AND  REPTILE  CHARMS / SNAKE  LEGENDS / REPTILES  AND  REPTILE  CHARMS
+    / IDEAS  ABOUT  TOADS; lines 16822-16874
+  start: '16822'
+  end: '16874'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage records Malay beliefs and comparative notes about snakes and
+    toads: dreaming of a snake bite foretells success in love; a horned toad is said
+    to live in hill jungle, wither surrounding vegetation, and kill by approach, touch,
+    or bite; the common toad’s bite is also said to be fatal despite toads having
+    no teeth. The passage then compares toad-venom beliefs with Shakespearean examples
+    and compares the toad-stone or jewel motif with Malayan traditions of pearls carried
+    in deadly snakes.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dreaming of being bitten by a snake is said to foretell success in a love
+    affair.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A horned toad called katak bertandok is said to live in jungle on the hills.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Where the horned toad takes up its abode, surrounding trees and plants are
+    said to wither and die.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The horned toad is described as so poisonous that approaching it is dangerous,
+    and touching or being bitten by it is certain death.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The bite of the common toad is also said to be fatal.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage notes that toads have no teeth, but says this anatomical detail
+    is not taken into account in the belief.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage states that supposed venomous properties of toads have a world-wide
+    range and cites Shakespearean allusions.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: One Shakespearean example places a toad from under a cold stone into a charmed
+    pot as a venomous ingredient.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Another Shakespearean example refers to a venomous toad that nevertheless
+    wears a precious jewel in its head.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage says the Shakespearean toad-stone seems to be represented in Malayan
+    tradition by a pearl carried in the bodies of the hamadryad, cobra, and bungarus.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: snake in dream
+  description: A snake that bites the dreamer in a dream, with the dream interpreted
+    as an omen of success in love.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: horned toad / katak bertandok
+  description: A horned toad with a bad reputation among Malays, said to live in hill
+    jungle, wither nearby vegetation, and kill by approach, touch, or bite.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: common toad / Bufo melanostictus
+  description: A common toad whose bite is said to prove fatal, though the passage
+    notes that toads have no teeth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Shakespearean venomous toad
+  description: A toad cited from Shakespeare as venomous, associated both with a charmed
+    pot and with a precious jewel in its head.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: hamadryad, cobra, and bungarus
+  description: Three deadly snakes of the Peninsula said, in Malayan tradition as
+    reported here, to carry a pearl in their bodies.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: dream omen animal
+  assigned_to:
+  - fig:1
+  basis: The snake bite appears in a dream and is interpreted as foretelling success
+    in love.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fatal biter
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Both the horned toad and common toad are said to kill by bite.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: withering poisonous presence
+  assigned_to:
+  - fig:2
+  basis: The horned toad’s abode is said to make surrounding trees and plants wither
+    and die.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: venomous creature associated with precious object
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Shakespearean toad is associated with a jewel in its head, and Malayan
+    tradition is said to place a pearl in deadly snakes.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: magical ingredient in a charmed pot
+  assigned_to:
+  - fig:4
+  basis: The cited Shakespearean verse has the toad boiled first in a charmed pot.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: deadly pearl-bearing serpent
+  assigned_to:
+  - fig:5
+  basis: The hamadryad, cobra, and bungarus are described as three deadly snakes carrying
+    pearls in their bodies.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: snake bite dream omen
+  literal_form: Being bitten by a snake in a dream
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: poisonous horned toad
+  literal_form: Horned toad whose approach, touch, or bite is deadly
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: withering trees and plants
+  literal_form: Trees and plants around the horned toad’s abode wither and die
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: fatal common-toad bite
+  literal_form: Bite of the common toad said to prove fatal
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: toad-stone or jewel
+  literal_form: Precious jewel in a venomous toad’s head
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: snake pearl
+  literal_form: Pearl carried in the bodies of the hamadryad, cobra, and bungarus
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: charmed pot
+  literal_form: A charmed pot in which the venomous toad is boiled
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Dream snake bite and love omen
+  summary: A dream of being bitten by a snake is interpreted as foretelling success
+    in a love affair.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Horned toad in the hill jungle
+  summary: The horned toad lives in hill jungle; its dwelling place kills nearby vegetation,
+    and its poison makes approach, touch, or bite deadly.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Common toad fatal bite belief
+  summary: The common toad’s bite is said to be fatal, while the passage notes that
+    toads lack teeth.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Shakespearean toad venom comparison
+  summary: The passage cites Shakespearean lines in which a venomous toad from under
+    a cold stone is put into a charmed pot.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Toad-stone and Malayan snake pearls
+  summary: The passage compares the Shakespearean toad’s precious jewel with a Malayan
+    tradition of pearls carried in the bodies of deadly snakes.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Dream snake bite foretells success in love
+  taxonomy_refs:
+  - serpent
+  basis: The passage directly states that a dream of being bitten by a snake is thought
+    to portend success in a love affair.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only the omen meaning, not a narrative context or ritual
+    response.
+- id: motif:2
+  label: Poisonous toad kills by presence, touch, or bite
+  taxonomy_refs: []
+  basis: The horned toad is said to be dangerous even to approach, and touching or
+    being bitten by it is certain death; the common toad’s bite is also said to be
+    fatal.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The author includes a naturalistic caveat that toads have no teeth.
+- id: motif:3
+  label: Poisonous creature withers surrounding vegetation
+  taxonomy_refs: []
+  basis: The horned toad’s abode is said to cause all nearby trees and plants to wither
+    and die.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as a belief about a specific horned toad rather
+    than as a developed story.
+- id: motif:4
+  label: Venomous animal bears a precious stone or pearl
+  taxonomy_refs:
+  - serpent
+  basis: The passage compares the toad-stone or jewel in a venomous toad’s head with
+    Malayan pearls carried in the bodies of deadly snakes.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The comparison combines a Shakespearean toad-stone image with a Malayan
+    snake-pearl tradition; the animals and body locations differ.
+- id: motif:5
+  label: Toad venom as an ingredient in a charmed pot
+  taxonomy_refs: []
+  basis: The cited Shakespearean verse has a toad boiled first in a charmed pot after
+    acquiring venom under a cold stone.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a comparative Shakespearean example quoted in the passage, not
+    identified as a Malay rite in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares Malay beliefs about poisonous toads with Shakespearean/English
+    examples of venomous toads, presenting them as instances of a broader toad-venom
+    belief pattern.
+  claim_level: same_motif
+  target: Malay poisonous-toad beliefs and Shakespearean venomous-toad imagery
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:3
+  confidence: medium
+  limitations: The passage asserts a world-wide range and supplies literary examples,
+    but it does not establish historical contact or transmission. The note that toads
+    have no teeth counters the literal fatal-bite claim.
+- id: claim:2
+  claim: The passage explicitly compares the Shakespearean toad-stone or jewel with
+    Malayan traditions of pearls carried in deadly snakes, suggesting a shared function
+    of locating a precious object within a venomous animal.
+  claim_level: same_function
+  target: Shakespearean toad-stone/jewel and Malayan snake pearls
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: 'The parallel is functional rather than identical: one example concerns
+    a toad’s head, while the Malay example concerns pearls in the bodies of snakes.'
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16822-16825
+  quote_or_summary: Dreaming of being bitten by a snake is thought to portend success
+    in a love affair.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 16827-16839
+  quote_or_summary: A horned toad called katak bertandok is said to live in hill jungle;
+    nearby vegetation withers, and approach, touch, or bite is deadly.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 16841-16847
+  quote_or_summary: The common toad’s bite is said to be fatal, though the passage
+    notes that toads have no teeth.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 16849-16861
+  quote_or_summary: The passage says toad venom beliefs are world-wide and cites Shakespearean
+    lines about a toad under a cold stone boiled in a charmed pot.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 16863-16874
+  quote_or_summary: The passage cites Shakespeare’s venomous toad with a precious
+    jewel in its head and says this toad-stone seems represented in Malayan tradition
+    by pearls in the bodies of the hamadryad, cobra, and bungarus.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal beliefs and comparisons are explicit in the supplied passage. Motif
+    labels are concise abstractions and require human review, especially where Shakespearean
+    comparative material is combined with Malay material.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only supplied passage text and metadata. Taxonomy references are limited to available refs: serpent and tree where directly supported by literal forms.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l16822-l16874
+  passage_sha256=37d13992bf642a031cd4a2a50f1fce19a0ffd65b8cae92340344c47ddc37e6f2
+

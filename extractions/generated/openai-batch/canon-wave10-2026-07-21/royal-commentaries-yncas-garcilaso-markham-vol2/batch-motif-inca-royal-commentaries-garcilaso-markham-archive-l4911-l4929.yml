@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l4911-l4929
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COM  MENTA  KIES  OF  THE  YNCAS. / CHAPTER  III. / SIXTH  BOOK  OF  THE  ROYAL
+    / COMMENTARIES  OF  TIIE  YNC'AS.; lines 4911-4929
+  start: '4911'
+  end: '4929'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes household provisioning, restrictions on consuming
+    certain game in royal and noble households, seasonal great hunting parties called
+    Cham, distribution of flesh and wool to rich and poor, and large quantities of
+    liquor consumed in the Ynca's palace as a favour to those serving him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Door attendants had their own allotments and reaped sufficient produce from
+    them.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Meat from game animals such as deer, vicuña, and huanacu was generally not
+    consumed in the royal household or noble households, except for birds.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Meat from beasts was reserved until regular great hunting parties called Cham.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At the hunting occasions, flesh and wool were distributed among rich and poor
+    alike.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Liquor consumed in the Ynca's palace was described as so abundant that it
+    was almost impossible to count or measure.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Giving liquor to those who came to serve the Ynca, whether Curacas or not,
+    is described as the chief favour shown to them.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: door attendants
+  description: Attendants who had their own allotments and reaped enough from them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ynca
+  description: The ruler associated with the royal household and palace, served by
+    visitors and giver of liquor as favour.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: nobles
+  description: People whose households, like the royal household, did not generally
+    consume beast game outside the hunting occasions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: rich and poor
+  description: Groups who received distributed flesh and wool after the hunting occasions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Curacas and others who came to serve the Ynca
+  description: People who came to serve the Ynca and were given liquor to drink.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: allotment-holding attendants
+  assigned_to:
+  - fig:1
+  basis: The passage says door attendants reaped sufficiently from their own allotments.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: royal household and palace figure
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the royal household and the palace of the Ynca.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: noble households
+  assigned_to:
+  - fig:3
+  basis: The passage contrasts noble households with the royal household in relation
+    to consumption of game meat.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: recipients of distributed hunting products
+  assigned_to:
+  - fig:4
+  basis: The passage says flesh and wool were distributed among rich and poor alike.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: royal giver of drink
+  assigned_to:
+  - fig:2
+  basis: The passage states that giving liquor to those who served the Ynca was the
+    chief favour shown to them.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: servers receiving royal favour
+  assigned_to:
+  - fig:5
+  basis: The passage identifies those who came to serve the Ynca, whether Curacas
+    or not, as recipients of liquor.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: game animals and their products
+  literal_form: deer, vicuña, huanacu; flesh and wool
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: liquor
+  literal_form: liquor consumed in the Ynca's palace and given to servers
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: palace of the Ynca
+  literal_form: palace of the Ynca
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Household provisioning and game restriction
+  summary: Door attendants are described as provisioned by their own allotments, and
+    beast game is said not to be consumed in the royal or noble households outside
+    the proper occasion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Seasonal hunting and distribution
+  summary: Great hunting parties called Cham take place at regular seasons, after
+    which flesh and wool are distributed among rich and poor alike.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Royal liquor as favour to servers
+  summary: Large quantities of liquor are consumed in the Ynca's palace because giving
+    drink to those who came to serve him is described as the chief favour shown to
+    them.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: seasonal communal hunt with redistribution
+  taxonomy_refs: []
+  basis: The passage describes regular-season great hunting parties followed by distribution
+    of flesh and wool among rich and poor alike.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is administrative and social rather than explicitly mythic;
+    the term Cham is given without further explanation here.
+- id: motif:2
+  label: royal hospitality through drink
+  taxonomy_refs: []
+  basis: The passage frames liquor in the Ynca's palace as a chief favour granted
+    to those who came to serve him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly present the drink as sacred or ritual;
+    it is described as royal favour and consumption.
+- id: motif:3
+  label: royal redistribution across status divisions
+  taxonomy_refs: []
+  basis: Flesh and wool from hunting occasions are distributed among rich and poor
+    alike.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a brief description and does not state symbolic or legitimating
+    meaning directly.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4911-4912
+  quote_or_summary: Door attendants reaped sufficient produce from their own allotments.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4913-4918
+  quote_or_summary: Game meat such as deer, vicuña, and huanacu was not eaten in the
+    royal or noble households except for birds; beast game was reserved until regular
+    great hunting parties called Cham.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 4918-4920
+  quote_or_summary: "“they distributed the flesh and the wool amongst rich and poor
+    alike”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 4920-4924
+  quote_or_summary: The liquor consumed in the Ynca's palace was so abundant that
+    it was almost impossible to account for or measure.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4924-4929
+  quote_or_summary: Giving liquor to those who came to serve the Ynca, whether Curacas
+    or not, is described as the chief favour shown to them.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is descriptive and does not explicitly explain symbolic meanings or
+    cross-traditional comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l4911-l4929
+  passage_sha256=d61ea885b389cd73bacc3ee6a8744f611aded823d57f49ab4c4deabefb409fbe
+

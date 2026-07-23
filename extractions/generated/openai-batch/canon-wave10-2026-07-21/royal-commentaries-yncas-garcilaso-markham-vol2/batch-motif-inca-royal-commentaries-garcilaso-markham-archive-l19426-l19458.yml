@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l19426-l19458
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: NINTH  BOOK  OF  THE  ROYAL / CHAPTER  YI. / THE  PUNISHMENT  THAT  WAS  INFLICTED  UPON  THE  REBELS.
+    / COMMENTARIES  OF  THE  YNCAS.; lines 19426-19458
+  start: '19426'
+  end: '19458'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes varied executions inflicted after a rebellion, quotes
+    Cieza de León on the scale of the punishment, and reports Huayna Ocapac ordering
+    mourning songs, an unfinished causeway by the river of Guayaquil, renewed obedience
+    to his governor at Tumbez, and his departure from the province.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some punished persons were thrown into the sea while fastened to heavy weights.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Others were stuck upon poles as punishment for having stuck the heads of Yncas
+    on lances and poles at temple doors.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Other punishments included beheading and quartering, killing with the punished
+    persons' own arms, and hanging.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Cieza de León is quoted as saying that thousands were put to death in various
+    ways and that the chiefs of the conspiracy were impaled or hanged.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Huayna Ocapac ordered the misfortune that befell his followers to be recorded
+    in songs and sung in seasons of mourning as elegies.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Huayna Ocapac ordered a causeway to be made along the river of Guayaquil;
+    it was called the passage of Huayna Ccapach and was never finished.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After the punishment, Huayna Ocapac ordered the natives to obey his governor
+    in the fortress of Tumbez and then departed from the province.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: officers, captains, soldiers, and followers of the Ynca
+  description: Persons aligned with the Ynca who had suffered in the rebellion and
+    whose misfortune was later ordered to be recorded in songs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: rebels or punished Indians
+  description: Persons punished after the rebellion by drowning, impalement, beheading,
+    quartering, killing with their own arms, or hanging.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: chiefs who formed the conspiracy
+  description: Conspiracy leaders whom Cieza de León says were impaled or hanged.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Huayna Ocapac / Huayna Ccapach
+  description: The Ynca ruler who inflicted punishment, ordered mourning songs, ordered
+    a causeway, commanded obedience to his governor, and departed the province.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: governor in the fortress of Tumbez
+  description: Huayna Ocapac's governor, whom the natives were ordered to obey.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Pedro de Cieza de León
+  description: The cited chronicler whose account is quoted for the rebellion's punishment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: victims or followers of the Ynca
+  assigned_to:
+  - fig:1
+  basis: The passage refers to officers, captains, soldiers, and followers of the
+    Ynca who had been harmed during the rebellion.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: punished rebels or conspirators
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage identifies rebels and chiefs involved in conspiracy as recipients
+    of the punishments.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: conspiracy leaders
+  assigned_to:
+  - fig:3
+  basis: Cieza de León is quoted as naming the chiefs who formed the conspiracy.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: ruling punisher and commander
+  assigned_to:
+  - fig:4
+  basis: Huayna Ocapac is said to have inflicted punishment and issued orders about
+    songs, construction, and obedience.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: appointed governor
+  assigned_to:
+  - fig:5
+  basis: The natives were ordered to obey Huayna Ocapac's governor in the fortress
+    of Tumbez.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: cited chronicler
+  assigned_to:
+  - fig:6
+  basis: The passage identifies Pedro de Cieza de León as the source of the quoted
+    summary.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sea and heavy weights
+  literal_form: Sea used as execution setting, with heavy weights fastened to the
+    condemned.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: poles and lances
+  literal_form: Poles and lances used both in the rebels' earlier display of Ynca
+    heads and in later punishment by impalement or being stuck on poles.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: own arms or weapons
+  literal_form: The punished persons' own arms used to kill them because they had
+    done the same to captains and soldiers.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: songs and elegies of mourning
+  literal_form: Songs recording misfortune, sung in seasons of mourning as elegies.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: causeway along the river of Guayaquil
+  literal_form: A causeway ordered along the river of Guayaquil, called the passage
+    of Huayna Ccapach, and left unfinished.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: fortress of Tumbez
+  literal_form: Fortress location of Huayna Ocapac's governor.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: varied executions after rebellion
+  summary: Rebels and conspiracy leaders are described as punished by drowning with
+    weights, impalement, beheading, quartering, killing with their own arms, and hanging.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: mourning songs ordered
+  summary: Huayna Ocapac orders the misfortune suffered by his followers to be preserved
+    in songs and performed in mourning seasons as elegies.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: causeway and restored obedience
+  summary: Huayna Ocapac orders a causeway along the river of Guayaquil, commands
+    natives to obey his governor at Tumbez, arranges matters, and departs.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: reciprocal punishment matching earlier violence
+  taxonomy_refs: []
+  basis: Some punishments explicitly mirror earlier actions attributed to the rebels,
+    including sticking heads on poles and killing with the victims' own arms.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a punitive pattern in a chronicle passage, not necessarily a ritual
+    or mythic motif.
+- id: motif:2
+  label: royal suppression of rebellion and restored obedience
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Huayna Ocapac inflicts severe punishment, commands obedience to his governor,
+    and departs after arranging the province's affairs.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage emphasizes royal authority and punishment, but it does not
+    explicitly state a sacred or divine legitimation.
+- id: motif:3
+  label: mourning song as record of disaster
+  taxonomy_refs: []
+  basis: Huayna Ocapac orders the misfortune suffered by his followers to be recorded
+    in songs and sung in mourning seasons as elegies.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents this as commemoration and lament; broader ritual
+    functions are not specified.
+- id: motif:4
+  label: monumental construction named after ruler after punitive campaign
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: After the punishment, Huayna Ocapac orders a causeway by the river of Guayaquil,
+    later called the passage of Huayna Ccapach.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The association with royal legitimacy is functional and cautious; the
+    passage does not explicitly explain the causeway's symbolic purpose.
+comparison_claims:
+- id: claim:1
+  claim: At a functional level, the passage's sequence of punishment, renewed obedience,
+    and ruler-associated construction may be compared with the royal_legitimacy motif
+    family.
+  claim_level: same_function
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a historical chronicle excerpt and gives no explicit
+    divine sanction or cross-cultural comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19426-19435
+  quote_or_summary: 'The passage lists punishments: throwing some into the sea with
+    weights, sticking others on poles for having displayed Ynca heads on lances and
+    poles, beheading and quartering others, killing others with their own arms, and
+    hanging others.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 19436-19445
+  quote_or_summary: "“Thus thousands were put to death in various ways, and the chiefs
+    who formed the conspiracy were impaled or hanged.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 19445-19450
+  quote_or_summary: Huayna Ocapac ordered the misfortune of his followers to be recorded
+    in songs and sung during mourning seasons as elegies in their language.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 19450-19455
+  quote_or_summary: Huayna Ocapac ordered a causeway along the river of Guayaquil;
+    visible remains suggested a superb but unfinished work called the passage of Huayna
+    Ccapach.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 19455-19458
+  quote_or_summary: After the punishment, Huayna Ocapac ordered all natives to obey
+    his governor in the fortress of Tumbez, arranged matters, and departed from the
+    province.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif and comparison fields are cautious
+    because the passage is a chronicle account of political punishment rather than
+    an explicitly mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only supplied passage text and metadata were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l19426-l19458
+  passage_sha256=56a2cc6b241ec33b359dae412d5377d86c69d6dd4a9c54dad7a0104254aaca0e
+

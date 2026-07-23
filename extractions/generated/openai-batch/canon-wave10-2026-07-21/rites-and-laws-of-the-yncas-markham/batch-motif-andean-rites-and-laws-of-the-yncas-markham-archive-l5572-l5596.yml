@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.andean-rites-and-laws-of-the-yncas-markham-archive-l5572-l5596
+source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+passage_locator:
+  label: OF THE INDIANS OF HUAROCHIRI. 129 / OF THE INDIANS OF HUAROCHIRI. 131 / CHAPTER
+    III. / CHAPTER IV.; lines 5572-5596
+  start: '5572'
+  end: '5596'
+  translation: Narratives of the Rites and Laws of the Yncas
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A narrator introduces an older saying of the Indians about a near end of
+    the world. A man tethering his llama in good pasture observes the animal moaning.
+    After he rebukes it, the llama speaks, warning that within five days the sea will
+    rise, cover the whole earth, and destroy everything. The man asks how they may
+    save themselves, and the llama tells him to follow it quickly to the summit of
+    a high place, though the passage breaks off mid-word.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chapter is introduced as concerning a deluge said to have taken place
+    and a refutation of preceding fables.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator says the account is an older saying of the Indians and describes
+    a time when the world nearly ended.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A man tethers his llama in a place with good pasture.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The llama resists, appears sorrowful, and moans.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The man throws a corn cob core at the llama while rebuking it for not eating.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The llama speaks to the man and says that within five days the sea will rise,
+    cover the whole earth, and destroy all upon it.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The man is surprised that the llama speaks and asks whether there is a way
+    for them to save themselves.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The llama tells the man to follow it quickly to the summit of a high place;
+    the passage ends with the word truncated.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Indian man
+  description: A man tethering his llama, eating a choclo, rebuking the animal, and
+    later asking how they might save themselves.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Llama
+  description: A llama that resists pasture, moans sorrowfully, speaks, warns of the
+    sea rising over the earth, and directs the man to follow it.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: human recipient of warning
+  assigned_to:
+  - fig:1
+  basis: The man hears the llama's warning and asks about saving themselves.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:2
+  label: speaking animal
+  assigned_to:
+  - fig:2
+  basis: The llama is explicitly said to reply to the man and give instructions.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: disaster forewarner
+  assigned_to:
+  - fig:2
+  basis: The llama warns that the sea will rise in five days and cover the whole earth.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: rising sea
+  literal_form: The sea rising to cover the whole earth
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: five-day warning
+  literal_form: The time span of five days before the sea rises
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: good pasture
+  literal_form: A place where there was good pasture for the llama
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: high summit
+  literal_form: The summit of a high place, with the final word truncated in the supplied
+    passage
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Llama resists pasture
+  summary: A man tethers his llama in good pasture, but the animal resists and moans
+    sorrowfully.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Animal warning of world-covering sea
+  summary: After the man rebukes the llama, the animal speaks and warns that in five
+    days the sea will cover the whole earth and destroy all upon it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Instruction for escape
+  summary: The surprised man asks how they can save themselves, and the llama instructs
+    him to follow it quickly to a high summit, though the passage is cut off before
+    the destination is complete.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: World-threatening deluge warning
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage introduces a deluge and recounts a warning that the sea will
+    rise to cover the whole earth and destroy all upon it.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The supplied passage ends before the outcome of survival or renewal is
+    narrated.
+- id: motif:2
+  label: Speaking animal as warning guide
+  taxonomy_refs: []
+  basis: A llama speaks, explains the coming catastrophe, and tells the man to follow
+    it quickly.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: No specific taxonomy reference for speaking animal is available in the
+    supplied list.
+- id: motif:3
+  label: Escape to high summit from flood
+  taxonomy_refs:
+  - ascent
+  basis: The llama advises the man to follow it to the summit of a high place after
+    warning of the sea rising over the earth.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The destination word is truncated in the supplied passage; the full escape
+    scene is not included.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits the broad flood-catastrophe motif family because it describes
+    a deluge in which the sea will rise over the whole earth and destroy all upon
+    it.
+  claim_level: same_motif
+  target: flood_and_renewal
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the warning and beginning of escape are present; renewal after
+    the flood is not shown in this passage.
+- id: claim:2
+  claim: The llama's instruction to move toward a high summit has the same protective
+    function as an ascent-away-from-flood pattern within this passage.
+  claim_level: same_function
+  target: ascent
+  evidence_refs:
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The word after 'high moun-' is truncated, and the full ascent or survival
+    episode is outside the provided range.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5572-5575
+  quote_or_summary: "“Of a deluge which is said to have taken place”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 5577-5583
+  quote_or_summary: The narrator says he must go back to an older saying of the Indians,
+    concerning a time when there was nearly an end to the world.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5583-5588
+  quote_or_summary: An Indian tethers his llama in good pasture; the llama resists,
+    shows sorrow, and moans.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5588-5593
+  quote_or_summary: The man, eating a choclo, throws the core at the llama and rebukes
+    it for moaning instead of eating in good pasture.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 5593-5595
+  quote_or_summary: "“within five days the sea will rise and cover the whole earth,
+    destroying all there is upon it.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 5595-5596
+  quote_or_summary: The man wonders that his llama speaks and asks whether there is
+    a way for them to save themselves.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: line 5596
+  quote_or_summary: "“follow it quickly to the summit of a high moun-”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+  rights_note: Public domain source; short excerpt used; passage ends mid-word.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The main deluge warning is clear, but the supplied range ends mid-word during
+    the escape instruction, limiting certainty about the destination and subsequent
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No figures or outcomes beyond the supplied passage were inferred.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:andean-rites-and-laws-of-the-yncas-markham-archive__l5572-l5596
+  passage_sha256=a848ffcc55f8d0556c0bcaefb33adf62a1c3dd9aa2234a55302cdedb651fce34
+

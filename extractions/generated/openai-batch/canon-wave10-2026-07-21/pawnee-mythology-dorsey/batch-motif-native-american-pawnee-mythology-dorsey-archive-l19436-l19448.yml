@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l19436-l19448
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE  WOLF-WARRIOR.  387 / THE  WOLF-WARRIOR.  389 / THE  SCALPED  MAN  MEDICINE.  39I
+    / THE  SCALPED-MAN    MEDICINE.  393; lines 19436-19448
+  start: '19436'
+  end: '19448'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A lost man returns with a sacred bundle from a wonderful place. The people
+    regard him as wonderful, kill many buffalo, and return to their village with him.
+    The passage states that he actually has no powers, but has found a wonderful place
+    and brought things from it home; he wants to learn more about that place. A note
+    says the tale''s moral resembles No. 86: a young man should not mistreat a member
+    of his own tribe for personal benefit.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The people see the bundle brought back by the man and conclude that he is
+    wonderful and must have wonderful ways.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people kill many buffalo and return to their village.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The formerly lost man goes with the people, taking his sacred bundle.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The people look upon the man as wonderful, but the passage states that he
+    has no powers of any kind.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The man found a wonderful place and brought things from that place to his
+    home.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The man is anxious to learn more about the wonderful place and goes to it
+    again; the provided range cuts off the sentence after “whenever he.”
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A note says the tale is similar in moral to No. 86 and teaches that a young
+    man should not mistreat a member of his own tribe for personal benefit.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the man who was lost
+  description: A man who had been lost, returns with a sacred bundle, is regarded
+    as wonderful by the people, but is said to have no powers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the people
+  description: The community that sees the bundle, regards the man as wonderful, kills
+    many buffalo, and returns to the village.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: a young man
+  description: Mentioned in the note as the subject of the lesson about not mistreating
+    a member of his own tribe for personal benefit.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: a member of his own tribe
+  description: Mentioned in the note as the person whom a young man should not mistreat
+    for personal benefit.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: bearer of sacred bundle from a wonderful place
+  assigned_to:
+  - fig:1
+  basis: The man returns with the sacred bundle and is said to have found a wonderful
+    place and brought things from it home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: observing and evaluating community
+  assigned_to:
+  - fig:2
+  basis: The people see the bundle and look upon the man as wonderful.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: moral-example young man
+  assigned_to:
+  - fig:3
+  basis: The note frames the lesson around what a young man should not do.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: tribal member who should not be mistreated
+  assigned_to:
+  - fig:4
+  basis: The note names a member of the young man's own tribe as someone not to mistreat
+    for personal benefit.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sacred bundle
+  literal_form: bundle described as sacred and carried by the formerly lost man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: wonderful place
+  literal_form: place described as wonderful, from which the man brought things home
+    and about which he wants to learn more
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: buffalo
+  literal_form: many buffalo killed by the people before they return to their village
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Recognition through the bundle
+  summary: The people see the bundle the man has brought back and infer that he is
+    a wonderful man with wonderful ways.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Return to the village
+  summary: The people kill many buffalo and return to their village; the formerly
+    lost man accompanies them with his sacred bundle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: No inherent power but contact with a wonderful place
+  summary: The passage says the man has no powers, although he found a wonderful place
+    and brought things from there to his home. He wants to learn more about the place
+    and goes there again within the incomplete line range.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Editorial moral note
+  summary: A note compares the tale's moral with No. 86 and states a lesson against
+    mistreating a tribal member for personal benefit.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: return with a sacred object from a wondrous place
+  taxonomy_refs:
+  - return
+  basis: The man who was lost returns with a sacred bundle after finding a wonderful
+    place and bringing things from it home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is an ending fragment and does not give the full circumstances
+    of the man's loss or return.
+- id: motif:2
+  label: community attributes power to a bearer of sacred objects
+  taxonomy_refs: []
+  basis: The people treat the man as wonderful because of the bundle, while the passage
+    explicitly says he has no powers of any kind.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level motif description, not a supplied taxonomy category.
+- id: motif:3
+  label: repeated approach to a wonderful place to gain knowledge
+  taxonomy_refs:
+  - mystical_quest
+  basis: The man wants to learn more about the wonderful place he found and goes to
+    it again, though the sentence is cut off in the provided range.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The line range ends mid-sentence, so the action and outcome are incomplete.
+- id: motif:4
+  label: moral against mistreating one's own tribe member for personal benefit
+  taxonomy_refs: []
+  basis: The note states that the lesson is that a young man should not mistreat a
+    member of his own tribe for personal benefit.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This motif is taken from the editor's note rather than the narrative portion
+    of the passage.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly states that, apart from the origin of the Eagle dance,
+    this tale is similar in moral to No. 86.
+  claim_level: same_function
+  target: No. 86 in the same collected corpus
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The provided passage does not include No. 86 or the full tale, so only
+    the stated moral similarity can be recorded.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19436-19438
+  quote_or_summary: "“When the people saw the bundle which he brought back they were
+    sure that he was a wonderful man”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 19438-19440
+  quote_or_summary: The people kill many buffalo and return to their village; the
+    man who was lost goes with them, taking his sacred bundle.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 19440-19443
+  quote_or_summary: The people regard the man as wonderful, but the passage says he
+    has no powers; he found a wonderful place and brought things from there to his
+    home.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 19443-19445
+  quote_or_summary: The man is anxious to learn more about the wonderful place and
+    goes to it again; the provided range ends the sentence after “whenever he.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized evidence with short quoted phrase.
+- id: ev:5
+  type: summary
+  locator: lines 19446-19448
+  quote_or_summary: The note says the tale is similar in moral to No. 86 and teaches
+    that a young man should not mistreat a member of his own tribe for personal benefit.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The range appears to include the end of a narrative and an editorial note,
+    with one sentence cut off. Motifs based on the sacred bundle and wonderful place
+    are supported at passage level but need review against surrounding context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage, metadata, and available taxonomy references.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l19436-l19448
+  passage_sha256=c41213a3ce8b4940180c8d568f68310654a90390322b4f9796aa4cdf75699aff
+

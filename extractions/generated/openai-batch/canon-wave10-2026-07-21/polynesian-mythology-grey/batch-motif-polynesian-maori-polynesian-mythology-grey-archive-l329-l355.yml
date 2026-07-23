@@ -1,0 +1,166 @@
+---
+record_id: batch.motif.polynesian-maori-polynesian-mythology-grey-archive-l329-l355
+source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+passage_locator:
+  label: VIH PREFACE. / PREFACE. IX / X PEEFACE. / XH PREFACE.; lines 329-355
+  start: '329'
+  end: '355'
+  translation: Polynesian Mythology and Ancient Traditional History of the New Zealand
+    Race
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: In the preface, the author evaluates the mythological traditions presented
+    in the volume, claims they were historically influential across Pacific islands
+    for more than two thousand years, suggests a probable partial connection with
+    ancient Mexico's religious system, and states that they were associated with human
+    sacrifices to gods.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author compares the mythological system under discussion with Scandinavian
+    systems and claims the latter would not surpass it if well understood.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author says ignorance about mythological systems of peoples described
+    as barbarous or semi-barbarous has led to those systems being considered grander
+    and more reasonable than they were.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The author states that the traditions in the present volumes prevailed, with
+    slight modifications, for perhaps more than two thousand years across much of
+    the Pacific islands.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The author states that the religious system of ancient Mexico was probably
+    connected with these traditions to some extent.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The author states that many millions of people believed in and obeyed these
+    traditions.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The author states that the traditions were based on a system of human sacrifices
+    to gods.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The author estimates that at least two thousand human victims were sacrificed
+    annually across the islands where the traditions prevailed.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: gods
+  description: Divine recipients to whom human victims are said to have been sacrificed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: human victims
+  description: People whom the author says were sacrificed annually in rites based
+    on the traditions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: sacrifice recipients
+  assigned_to:
+  - fig:1
+  basis: The passage says human sacrifices were made to the gods.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: sacrificial victims
+  assigned_to:
+  - fig:2
+  basis: The passage refers to human victims being annually sacrificed.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Human sacrifice to gods
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly states that the traditions were based on human sacrifices
+    to gods and estimates annual victims.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an authorial preface claim, not a narrated mythic episode; the
+    passage ends mid-word.
+comparison_claims:
+- id: claim:1
+  claim: The preface asserts a probable partial connection between the religious system
+    of ancient Mexico and the traditions presented in the volume.
+  claim_level: historical_contact
+  target: ancient Mexico religious system and the traditions in the present volumes
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage provides only a broad authorial assertion and no specific
+    shared motifs, mechanisms, dates, routes, or supporting examples.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 329-337
+  quote_or_summary: The author says Scandinavian systems would not surpass the mythological
+    system under discussion if intimately known, and claims ignorance has caused some
+    mythological systems to be overvalued.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 339-348
+  quote_or_summary: The traditions in the volumes are said to have prevailed for perhaps
+    more than two thousand years across Pacific islands, and ancient Mexico's religious
+    system was "probably, to some extent connected with them."
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 349-355
+  quote_or_summary: The author says the traditions were "based upon a system of human
+    sacrifices to the gods" and estimates at least two thousand human victims annually
+    across the islands.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: low
+  notes: The passage is a colonial-era preface assessment rather than a myth narrative.
+    Literal claims are clear, but comparative and historical assertions are unsupported
+    within this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No symbols or narrative scenes were extracted because the passage contains authorial commentary rather than a mythic episode.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-maori-polynesian-mythology-grey-archive__l329-l355
+  passage_sha256=20ba89f8d1ad4965fb2691da03b538faaea9f3630a6b222bfeb1951519188acd
+

@@ -1,0 +1,219 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l9851-l9868
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: INTERIOR  OF  A  HOVA  HOUSE.  199 / ARRANGEMENT  OF  A  HOVA  HOUSE. / BETS  I  LEO  HOUSES.  201
+    / SIHANAKA  HOUSES.; lines 9851-9868
+  start: '9851'
+  end: '9868'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A description of the interior arrangement of Sihanaka houses: a paneled
+    wooden bedstead with a small doorway-like opening, suspended hooks for protecting
+    articles from rats, shelves with baskets near the ceiling, and a very small living
+    space used by several people for eating and sleeping.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes Sihanaka houses and their interior arrangement.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The bedstead is generally made of wood, extends from ceiling to floor, is
+    paneled around, and has a small opening through which the occupant enters or rises.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A round board is suspended from the center of the ceiling and has one or more
+    hooks hanging below it.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Articles likely to be eaten by rats are hung from the hooks.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Other articles are placed in baskets on a shelf running along the north and
+    east sides of the house, about a foot from the ceiling.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The interior space is described as about nine or ten feet by seven or eight
+    feet.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says that six to a dozen people can find room in such a house
+    to eat and sleep.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: bedstead occupant
+  description: The person who creeps through the small opening in the bedstead when
+    entering or rising.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: rats
+  description: Animals that may devour articles unless those articles are hung from
+    the ceiling hooks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: six to a dozen people
+  description: The group said to find room in the small house to eat and sleep.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: occupant of enclosed bedstead
+  assigned_to:
+  - fig:1
+  basis: The passage describes the bedstead opening as the way the occupant enters
+    or rises.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: threat to stored articles
+  assigned_to:
+  - fig:2
+  basis: Articles likely to be devoured by rats are hung from ceiling hooks.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: household residents using the small space
+  assigned_to:
+  - fig:3
+  basis: The passage says six to a dozen people can find room to eat and sleep in
+    the house.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: enclosed bedstead
+  literal_form: wooden bedstead reaching from ceiling to floor, paneled around, with
+    a small opening
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: suspended storage hooks
+  literal_form: round board suspended from the ceiling with hooks hanging below
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: high shelf with baskets
+  literal_form: shelf along the north and east sides of the house, one foot from the
+    ceiling, holding baskets
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: small shared house space
+  literal_form: interior space of nine or ten feet by seven or eight feet
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Interior arrangement of a Sihanaka house
+  summary: The passage presents the layout of a small house interior, including the
+    enclosed bedstead, suspended hooks, high shelves with baskets, and the use of
+    the space by multiple people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 9851-9852
+  quote_or_summary: Section heading identifies the topic as Sihanaka houses.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9852-9857
+  quote_or_summary: The bedstead is wooden, reaches from ceiling to floor, is paneled
+    around except for a small doorway-like opening, and the occupant creeps through
+    it to enter or rise.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9858-9861
+  quote_or_summary: A round board hangs from the center of the ceiling with hooks
+    below it; articles likely to be devoured by rats are hung there.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9861-9864
+  quote_or_summary: Other articles are put into baskets and arranged on a shelf along
+    the north and east sides of the house near the ceiling.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9864-9868
+  quote_or_summary: All these things fit into a space of about nine or ten feet by
+    seven or eight feet, where six to a dozen people can eat and sleep.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is a literal ethnographic description of house interiors and
+    does not support mythological motif or comparative claims from the provided text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif family or comparison claim was assigned because the passage does not provide mythological or comparative material.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l9851-l9868
+  passage_sha256=56000e4ed2c681ddbf669397f10e5943a0ae8ee0fd08c740084e558087c29243
+

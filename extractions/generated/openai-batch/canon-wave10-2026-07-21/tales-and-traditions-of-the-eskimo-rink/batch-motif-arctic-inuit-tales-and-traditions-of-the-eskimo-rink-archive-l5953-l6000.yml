@@ -1,0 +1,450 @@
+---
+record_id: batch.motif.arctic-inuit-tales-and-traditions-of-the-eskimo-rink-archive-l5953-l6000
+source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+passage_locator:
+  label: KATERPARSUK. / A TALE  ABOUT  TWO  GIRLS. / THE  BROTHERS  VISIT  THEIR  SISTER.
+    / KUNUK  THE  ORPHAN  BOY.; lines 5953-6000
+  start: '5953'
+  end: '6000'
+  translation: Tales and Traditions of the Eskimo
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: In a public contest, Kunuk avoids two spear throws from Ungilagtake, seizes
+    the spear, exchanges positions, and kills Ungilagtake. He is then seized by Tajangiarsuk
+    and wrestles him on an icy, stony field, defeating him. A stronger champion nearly
+    overcomes Kunuk, but Kunuk kills him as well. A final immense, lame-legged champion
+    arrives carried across three boats; Kunuk whirls and throws him so that his skull
+    is crushed. The people rejoice that they will have no masters, and those whose
+    wives had been taken get them back.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ungilagtake attempts to spear Kunuk twice, but Kunuk avoids the spear by jumping
+    upward to a roofbeam and then downward.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kunuk seizes the spear, says he wants to try killing with it, and exchanges
+    places with Ungilagtake.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kunuk beats a drum, sings for Ungilagtake, aims as Ungilagtake prepares to
+    bend down, and strikes him in the throat with the spear.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Tajangiarsuk seizes Kunuk from behind after the crowd rushes out of the house.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Tajangiarsuk has chosen an icy plain with projecting stones as the wrestling
+    place in order to dash adversaries against the stones.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Kunuk throws Tajangiarsuk down so that blood gushes from Tajangiarsuk's mouth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A stronger and larger champion gets Kunuk down and puts a knee on Kunuk's
+    heart before Kunuk grasps him from beneath and kills him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The last champion is lame-legged and immense, requiring three boats to transport
+    him and crawling to the combat field on his elbows.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Kunuk lifts, whirls, and throws the immense champion so that his skull is
+    crushed.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: After the final victory, the people rejoice, say they will have no masters,
+    and those robbed of wives get them back.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Kunuk
+  description: Central combatant who avoids the spear, takes it, kills Ungilagtake,
+    defeats successive champions, and is thanked by the people.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Ungilagtake / Ungilaktake
+  description: A great spear thrower said never to miss his aim; he attacks Kunuk
+    and is killed by Kunuk with the spear.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Tajangiarsuk
+  description: A wrestler who seizes Kunuk from behind and fights him on a stony plain
+    of ice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Unnamed stronger and larger champion
+  description: A larger champion who nearly overpowers Kunuk before Kunuk kills him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: The lame-legged immense champion
+  description: The last champion, immense in size, transported across three boats
+    and crawling on his elbows to the combat field.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Spectators / people
+  description: The watching people cheer, applaud, rejoice, and declare that they
+    will have no masters.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: fig:7
+  name_or_label: Those robbed of their wives
+  description: People who recover their wives after Kunuk's victories.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Recovered wives
+  description: Wives who had been taken from others and are returned at the end of
+    the passage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: victorious public combatant
+  assigned_to:
+  - fig:1
+  basis: Kunuk survives spear attacks, turns the spear against Ungilagtake, and defeats
+    multiple champions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:2
+  label: spear-throwing champion
+  assigned_to:
+  - fig:2
+  basis: Ungilagtake is described as a great spear thrower who never missed his aim
+    and is the first combat opponent in the passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: successive adversary champion
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Each figure appears after Ungilagtake as a combat opponent against Kunuk.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: spectating community
+  assigned_to:
+  - fig:6
+  basis: The people cheer or applaud during the contests and rejoice after the final
+    defeat.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: role:5
+  label: bereaved householders restored
+  assigned_to:
+  - fig:7
+  basis: The passage says those robbed of their wives get them back.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: restored wives
+  assigned_to:
+  - fig:8
+  basis: The wives who had been taken are returned after the champions are defeated.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: spear
+  literal_form: Weapon used first against Kunuk and then by Kunuk to kill Ungilagtake.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: drum and contest song
+  literal_form: Kunuk beats a drum and sings for Ungilagtake immediately before striking
+    him with the spear.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: plain of ice with projecting stones
+  literal_form: The wrestling field chosen by Tajangiarsuk to dash adversaries against
+    stones.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: three boats carrying the immense champion
+  literal_form: Three boats are needed because the final champion lies across all
+    of them to travel.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Spear contest reversed
+  summary: Ungilagtake attacks Kunuk with a spear, Kunuk evades the throws, takes
+    the spear, and kills Ungilagtake while performing with drum and song.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Wrestling with Tajangiarsuk on the ice plain
+  summary: Tajangiarsuk seizes Kunuk and wrestles him on a stony ice field chosen
+    to kill opponents, but Kunuk throws him down.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: The stronger champion nearly overcomes Kunuk
+  summary: A stronger and larger champion pins Kunuk and puts a knee on his heart,
+    but Kunuk grips him from beneath and kills him.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: The immense final champion is defeated and the people are freed
+  summary: The last champion arrives across three boats, crawls to the field, and
+    is thrown by Kunuk. The people rejoice that they will have no masters, and robbed
+    wives are restored.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Hero defeats successive public champions
+  taxonomy_refs: []
+  basis: Kunuk faces Ungilagtake, Tajangiarsuk, a larger champion, and an immense
+    final champion in sequence, defeating each.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is a segment of a larger tale; motives and prior circumstances
+    are not fully included in this line range.
+- id: motif:2
+  label: Weapon-contest reversal
+  taxonomy_refs: []
+  basis: Ungilagtake's spear challenge is reversed when Kunuk seizes the spear and
+    kills him with it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not state whether the reversal is governed by formal
+    contest rules beyond the exchange of places.
+- id: motif:3
+  label: Liberation from masters through combat victory
+  taxonomy_refs:
+  - culture_hero
+  basis: After Kunuk defeats the champions, the people thank him and say they will
+    have no masters.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The culture_hero taxonomy reference is broad; this passage shows liberation
+    from masters but does not narrate the origin of a custom, tool, or social order.
+- id: motif:4
+  label: Recovery of stolen wives
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The passage concludes that those robbed of their wives get them back after
+    Kunuk's victories.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The original taking of the wives is not narrated within the supplied excerpt;
+    it is only reported in the outcome.
+- id: motif:5
+  label: Defeat of an oversized final adversary
+  taxonomy_refs: []
+  basis: The last opponent is so immense that he must lie across three boats, yet
+    Kunuk lifts, whirls, and kills him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No explicit supernatural identity is assigned to the immense champion
+    in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The concluding restoration of wives supports a cautious functional comparison
+    to a stolen-beloved recovery pattern.
+  claim_level: same_function
+  target: stolen_beloved motif family
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only states the recovery; it does not narrate the original
+    abduction or a spouse-centered quest within this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5953-5965
+  quote_or_summary: Ungilagtake is presented as a great spear thrower who never misses;
+    he throws at Kunuk twice, but Kunuk evades by jumping to a roofbeam and then down
+    again while spectators cheer.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:2
+  type: summary
+  locator: 5966-5974
+  quote_or_summary: Kunuk seizes the spear, exchanges places with Ungilagtake, beats
+    a drum and sings, and strikes Ungilagtake in the throat so that he dies.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:3
+  type: summary
+  locator: 5974-5983
+  quote_or_summary: Tajangiarsuk seizes Kunuk from behind; they wrestle on an icy
+    plain with projecting stones chosen for killing adversaries, and Kunuk throws
+    him so that blood comes from his mouth.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:4
+  type: summary
+  locator: 5984-5991
+  quote_or_summary: A stronger and larger champion gets Kunuk down and puts his knee
+    on Kunuk's heart, but Kunuk grasps him from beneath and presses the lungs out
+    of him; spectators applaud.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:5
+  type: summary
+  locator: 5991-5997
+  quote_or_summary: The last champion has lame legs and is immense, lying across three
+    boats to travel and crawling to the combat field on his elbows.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:6
+  type: summary
+  locator: 5997-6000
+  quote_or_summary: Kunuk lifts and whirls the immense champion until his feet turn
+    outward, then throws him so that his skull is crushed.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:7
+  type: quote
+  locator: '6000'
+  quote_or_summary: The people cry, “now we shall have no masters!” and those robbed
+    of their wives get them back.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The action sequence is explicit, but the line range begins mid-action and
+    belongs to a larger tale, so broader motif assignments are cautious. The name
+    Ungilagtake appears with variant spelling in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to the provided available taxonomy list.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:arctic-inuit-tales-and-traditions-of-the-eskimo-rink-archive__l5953-l6000
+  passage_sha256=0b2fe6b54f5948b2507eaba4503c84e25a6723a8798a30e898d6d88e8908120d
+

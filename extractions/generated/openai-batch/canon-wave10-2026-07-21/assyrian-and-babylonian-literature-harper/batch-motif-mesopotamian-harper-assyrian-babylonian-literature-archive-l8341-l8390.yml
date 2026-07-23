@@ -1,0 +1,460 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l8341-l8390
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: SHORT   INSCRIPTIONS   OF  ESARHADDON / II.  ON   A   BRICK   FROM    NEBBI   YUNUS
+    / III.  ON   A   BRICK   FROM    NEBBI   YUNUS / IV.    ON   AN   ALABASTER  VASE   FROM   KOUYUNJIK;
+    lines 8341-8390
+  start: '8341'
+  end: '8390'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A set of short inscriptions names Esarhaddon with royal titles and lineage,
+    marks palaces and objects as belonging to him, records construction or renewal
+    of palaces and sacred buildings, names Ashurbanipal as intended palace resident,
+    and lists cultic restoration and imperial conquest claims.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The inscriptions identify Esarhaddon as king of the world and King of Assyria,
+    and name Sennacherib and Sargon as his royal predecessors in lineage.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: obs:2
+  text: One inscription identifies Esarhaddon as King of Assyria, King of Sumer and
+    Akkad, and King of Kar-Duniash.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: Esarhaddon is said to have caused a palace in the city Tarbicu to be built
+    anew from its foundation to its roof.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: Esarhaddon is said to have constructed and completed a palace in Tarbigu as
+    a dwelling-place for Ashurbanipal.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:5
+  text: Ashurbanipal is described as the prince of the harem and the son of Esarhaddon’s
+    heart.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: Marduk is named as Esarhaddon’s lord, and Esarhaddon is said to have made
+    anew the burned brick of Esagila and Etemenanki for Marduk.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: Esarhaddon is credited with building the Temple of Ashur, rebuilding Esagila
+    and Babylon, and repairing the image of the great gods.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: The final inscription gives Esarhaddon imperial titles including King of Egypt,
+    binder of the King of Meluhha as a captive, and king of the four quarters of the
+    world.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Esarhaddon
+  description: King named as owner of palaces, royal descendant, builder or renewer
+    of palaces and sacred works, and ruler over multiple lands.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Sennacherib
+  description: King of Assyria named as father of Esarhaddon and son of Sargon in
+    the lineage formula.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: fig:3
+  name_or_label: Sargon
+  description: King of Assyria named as a royal predecessor in Esarhaddon’s lineage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: fig:4
+  name_or_label: Ashurbanipal
+  description: Named as the intended resident of the Tarbigu palace; called prince
+    of the harem and son of Esarhaddon’s heart.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Marduk
+  description: Named as Esarhaddon’s lord, for whom burned brick of Esagila and Etemenanki
+    was made anew.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: King of Meluhha
+  description: A ruler said to have been bound as a captive by Esarhaddon.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: royal builder and restorer
+  assigned_to:
+  - fig:1
+  basis: Esarhaddon is credited with building or renewing palaces, temple structures,
+    Babylon, and divine images.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: imperial king
+  assigned_to:
+  - fig:1
+  basis: The inscriptions call Esarhaddon king of the world, King of Assyria, ruler
+    of Sumer and Akkad, Kar-Duniash, Egypt, Pathros, Cush, and the four quarters of
+    the world.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:8
+- id: role:3
+  label: dynastic predecessor
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Sennacherib and Sargon are named in Esarhaddon’s royal descent formula.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: role:4
+  label: favored royal son and palace resident
+  assigned_to:
+  - fig:4
+  basis: Ashurbanipal is named as the palace’s intended dweller and called the son
+    of Esarhaddon’s heart.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: divine lord
+  assigned_to:
+  - fig:5
+  basis: Marduk is explicitly called Esarhaddon’s lord in the inscription about Esagila
+    and Etemenanki.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: defeated captive ruler
+  assigned_to:
+  - fig:6
+  basis: The King of Meluhha is described as bound as a captive.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: palace
+  literal_form: Palaces attributed to Esarhaddon, including the palace in Tarbicu
+    or Tarbigu and the palace intended as a dwelling-place for Ashurbanipal.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: inscribed brick and alabaster vase
+  literal_form: Brick inscriptions from Nebbi Yunus and an alabaster vase inscription
+    from Kouyunjik naming Esarhaddon and his royal titles.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Esagila and Etemenanki
+  literal_form: Sacred structures whose burned brick Esarhaddon caused to be made
+    anew for Marduk.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: Temple of Ashur
+  literal_form: Temple of Ashur, which Esarhaddon is said to have built.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: images of the great gods
+  literal_form: Images of the great gods that Esarhaddon is said to have repaired.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: four quarters of the world
+  literal_form: Royal title describing Esarhaddon as king of the four quarters of
+    the world.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Royal titulary and lineage on palace inscriptions
+  summary: The brick and vase inscriptions identify palaces or objects with Esarhaddon,
+    list his royal titles, and connect him genealogically to Sennacherib and Sargon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+- id: scene:2
+  label: Construction of the Tarbicu or Tarbigu palace
+  summary: Esarhaddon claims to rebuild or complete a palace in Tarbicu or Tarbigu,
+    including a version where the palace is made as a dwelling-place for Ashurbanipal.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Renewal of sacred structures and divine images
+  summary: Esarhaddon is credited with making anew the burned brick of Esagila and
+    Etemenanki for Marduk, building the Temple of Ashur, rebuilding Esagila and Babylon,
+    and repairing images of the great gods.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Imperial authority and captive ruler
+  summary: The final inscription expands Esarhaddon’s authority through titles over
+    many lands and states that he bound the King of Meluhha as a captive.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Royal legitimacy through titulary and dynastic descent
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage repeatedly legitimates Esarhaddon through expansive royal titles
+    and descent from Sennacherib and Sargon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: This is an inscriptional legitimacy pattern rather than a narrative myth
+    episode.
+- id: motif:2
+  label: King as builder and restorer
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Esarhaddon’s authority is tied to rebuilding palaces, sacred buildings, Babylon,
+    and images of the gods.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The taxonomy reference is used because construction claims support royal
+    status; the passage does not explicitly call the building acts a source of legitimacy.
+- id: motif:3
+  label: Royal service to a divine lord
+  taxonomy_refs: []
+  basis: The passage states that Esarhaddon made the burned brick of Esagila and Etemenanki
+    anew for Marduk, who is called his lord.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage names service to Marduk but does not describe a reciprocal
+    divine reward.
+- id: motif:4
+  label: Universal kingship over the world’s regions
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Esarhaddon is called king of the world and king of the four quarters of the
+    world, with titles over Assyria, Babylon, Sumer and Akkad, Egypt, Pathros, Cush,
+    and other regions.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The motif is derived from royal titulary, not from a developed cosmological
+    narrative.
+- id: motif:5
+  label: Provision for the favored royal son
+  taxonomy_refs: []
+  basis: A palace in Tarbigu is constructed as a dwelling-place for Ashurbanipal,
+    who is called prince of the harem and son of Esarhaddon’s heart.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not narrate succession or inheritance beyond the building’s
+    intended use and affectionate title.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: II. On a brick from Nebbi Yunus; lines 8341-8346
+  quote_or_summary: The inscription names the palace of Esarhaddon, calls him powerful
+    king, king of the world and King of Assyria, and gives his descent from Sennacherib
+    and Sargon.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: III. On a brick from Nebbi Yunus; lines 8348-8352
+  quote_or_summary: A second brick inscription names the palace of Esarhaddon, King
+    of Assyria, son of Sennacherib and descendant of Sargon.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: IV. On an alabaster vase from Kouyunjik; lines 8354-8357
+  quote_or_summary: The vase inscription names the palace of Esarhaddon and gives
+    royal titles over the world, Assyria, Sumer and Akkad, and Kar-Duniash.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: V; lines 8359-8362
+  quote_or_summary: Esarhaddon says he caused the palace in Tarbicu to be built anew
+    from foundation to roof.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: VI; lines 8364-8371
+  quote_or_summary: Esarhaddon, with titles including viceroy of Babylon and King
+    of Sumer and Akkad, says he completed the palace in Tarbigu as a dwelling-place
+    for Ashurbanipal.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: summary
+  locator: VII; lines 8373-8380
+  quote_or_summary: Esarhaddon lists wide royal titles, including rule over Egypt,
+    Pathros, and Cush, and says he completed the Tarbigu palace for Ashurbanipal,
+    prince of the harem and son of his heart.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary only.
+- id: ev:7
+  type: summary
+  locator: VIII; lines 8382-8385
+  quote_or_summary: For Marduk, called his lord, Esarhaddon caused the burned brick
+    of Esagila and Etemenanki to be made anew.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary only.
+- id: ev:8
+  type: summary
+  locator: IX; lines 8387-8390 and passage end
+  quote_or_summary: The final inscription names Esarhaddon with royal titles, credits
+    him with building the Temple of Ashur, rebuilding Esagila and Babylon, repairing
+    images of the great gods, binding the King of Meluhha as captive, ruling the four
+    quarters, and descending from Sennacherib and Sargon.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is formulaic royal inscription material with clear names, titles,
+    and construction claims. Motif extraction is limited because there is little narrative
+    development and no explicit cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support cross-textual or cross-tradition comparison beyond recurrent royal inscriptional patterns.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l8341-l8390
+  passage_sha256=8761f4ce4262b1fe2774f7de142f6112b5439d69cee2ec7e0433bacece6c99f9
+

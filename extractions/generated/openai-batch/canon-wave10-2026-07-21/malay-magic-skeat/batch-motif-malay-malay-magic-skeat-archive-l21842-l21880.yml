@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l21842-l21880
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: FUNERALS / FUNERALS / THE  COFFIN / FUNERALS; lines 21842-21880
+  start: '21842'
+  end: '21880'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a Malay funeral washing procedure: the body is positioned
+    for washing, water is poured with scoops, banana-stem rollers may be used if no
+    volunteers support the body, a chief washer may shampoo the body, and successive
+    washings use cosmetic water, lime water, and a final washing called “NineWaters.”'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The body is laid across the laps of people seated in a row with legs stretched
+    out.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several men are assigned to fetch water in jars and pour it on the body in
+    small quantities using a scoop, small bowl, saucer, or coconut shell.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: If no volunteers undertake the task, five banana stems are used as improvised
+    rollers to raise the body from the floor during washing.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A chief washer is engaged for a fee; this person is usually the Bilal or Imam
+    and shampoos the body while others pour water.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The body receives a second washing with a cosmetic called ayer bedak, made
+    from rice, lime, and gambir pounded together and mixed with water.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The cosmetic mixture is poured off into another vessel, scooped up, and sprinkled
+    on the corpse.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'A later washing uses lime juice: limes are cut, slashed, squeezed into water,
+    and the washing is repeated.'
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage names a final washing as “NineWaters.”
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the body or corpse
+  description: The deceased body is laid across laps, raised on rollers if needed,
+    washed, shampooed, sprinkled, and washed again.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: seated supporters
+  description: Unnamed persons sit in a row with legs stretched out while the body
+    is laid across their laps.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: men fetching and pouring water
+  description: Several men fetch water in jars, scoop it out, and pour it on the body.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: chief washer, usually the Bilal or Imam
+  description: A chief washer is engaged for a fee and shampoos the body while others
+    pour water.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: deceased body undergoing funeral washing
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly describes the body or corpse being positioned and
+    washed.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: body supporters during washing
+  assigned_to:
+  - fig:2
+  basis: The body is laid across the laps of seated persons.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: water carriers and pourers
+  assigned_to:
+  - fig:3
+  basis: Several men fetch water in jars and pour it on the body with a scoop.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: chief washer or officiant
+  assigned_to:
+  - fig:4
+  basis: The chief washer is engaged for a fee and shampoos the body; the passage
+    says this is usually the Bilal or Imam.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: washing water
+  literal_form: Water fetched in jars, poured by scoop, mixed into washing substances,
+    and used in repeated washings of the corpse.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: scoop for pouring water
+  literal_form: A penchedok ayer, described as a small bowl, saucer, or coconut shell
+    used to pour water on the body.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: banana-stem rollers
+  literal_form: Five banana stems used as improvised rollers to raise the body from
+    the floor during washing.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: cosmetic washing mixture
+  literal_form: Ayer bedak made with rice, lime, gambir, and water, then sprinkled
+    on the corpse.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: lime-water washing
+  literal_form: Four or five limes cut and slashed, squeezed into water, and used
+    for another washing.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: NineWaters
+  literal_form: The named final washing, “NineWaters.”
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Body positioned for washing
+  summary: The body is placed across the laps of seated supporters; if no volunteers
+    perform the support task, banana stems are used as rollers to raise the body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Initial water washing by attendants
+  summary: Men fetch water in jars and pour it onto the body with a scoop; a chief
+    washer, usually the Bilal or Imam, shampoos the body while others pour water.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:3
+  label: Second washing with ayer bedak
+  summary: A cosmetic mixture of rice, lime, gambir, and water is prepared, transferred,
+    scooped, and sprinkled on the corpse.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Lime-water washing and final named washing
+  summary: Limes are prepared and squeezed into water for another washing, followed
+    by mention of a final washing called “NineWaters.”
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: funerary purification by successive washings
+  taxonomy_refs: []
+  basis: 'The passage describes multiple ordered washings of the corpse: water poured
+    by attendants, a cosmetic washing, a lime-water washing, and a final named washing.'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is an ethnographic ritual description rather than a mythic
+    narrative; no afterlife purpose is stated in the excerpt.
+- id: motif:2
+  label: specialist officiant prepares the corpse
+  taxonomy_refs: []
+  basis: A chief washer, usually the Bilal or Imam, is engaged and shampoos the body
+    while others pour water.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The role is stated procedurally; broader religious meaning is not explained
+    in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21842-21850
+  quote_or_summary: The body is laid across the laps of seated persons; several men
+    fetch water in jars and pour it on the body using a scoop, small bowl, saucer,
+    or coconut shell.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary and short quotation allowed.
+- id: ev:2
+  type: summary
+  locator: lines 21850-21855
+  quote_or_summary: When the task has no volunteers, five banana stems are made into
+    improvised rollers on which the body is raised during washing.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary and short quotation allowed.
+- id: ev:3
+  type: summary
+  locator: lines 21855-21860
+  quote_or_summary: A chief washer is engaged for about a dollar; this is usually
+    the Bilal or Imam, who shampoos the body while others pour water.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary and short quotation allowed.
+- id: ev:4
+  type: summary
+  locator: lines 21860-21870
+  quote_or_summary: The body receives a second washing with ayer bedak, prepared from
+    rice, lime, and gambir pounded together, mixed with water, transferred, scooped,
+    and sprinkled on the corpse.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary and short quotation allowed.
+- id: ev:5
+  type: summary
+  locator: lines 21870-21877
+  quote_or_summary: 'The next washing uses juice of limes: four or five limes are
+    cut and slashed, squeezed into a bowl of water, and the washing is repeated.'
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary and short quotation allowed.
+- id: ev:6
+  type: quote
+  locator: lines 21877-21880
+  quote_or_summary: "“The final washing, or ‘NineWaters’”"
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The ritual sequence and objects are explicit in the passage. Motif labels
+    are descriptive and not linked to a taxonomy family because the excerpt does not
+    state an afterlife journey or other mythic interpretation. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l21842-l21880
+  passage_sha256=85b2371b9e29cc6d25c88f9047ab5557d2ea62257988aeb706195358b7ed3392
+

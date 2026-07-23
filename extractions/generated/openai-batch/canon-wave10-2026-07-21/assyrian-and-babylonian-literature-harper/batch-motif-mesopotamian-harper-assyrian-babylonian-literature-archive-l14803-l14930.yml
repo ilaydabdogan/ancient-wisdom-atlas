@@ -1,0 +1,439 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l14803-l14930
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: ASSYRIAN    EPONYM-LIST,  WITH   NOTES / ASSYRIAN   EPONYM-LIST,  WITH   NOTES
+    / ASSYRIAN   EPONYM-LIST,  WITH   NOTES / ASSYRIAN   EPONYM-LIST,  WITH   NOTES;
+    lines 14803-14930
+  start: '14803'
+  end: '14930'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A fragmentary Assyrian eponym-list records year entries with damaged notices
+    about kings, governors, cities, campaigns, divine or temple actions, administrative
+    appointments, an assassination of the King of Assyria, and Sin-ahe-erba/Sennacherib
+    taking the throne.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a damaged eponym-list with entries ordered by years and named
+    officials or rulers.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: A king returned from Babylon in an entry associated with Sha-Ashur-dubbu,
+    governor of Tushhan.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: Sharru-ukin, identified parenthetically as Sargon, seized the hands of Bel.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: The city Kumuha was captured and a prefect was appointed.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The city Dur-Yakin was destroyed, and the passage says that their temples
+    were entered.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: An assassin murdered the King of Assyria.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: On the twelfth day of the month Ab, Sin-ahe-erba, identified in a note as
+    Sennacherib, took his seat on the throne.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: The passage includes a section explicitly labeled as a similar list, which
+    repeats the eponym-year format.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Sha-Ashur-dubbu
+  description: Governor of the city Tushhan in an eponym-year entry.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: the king
+  description: A king who returned from Babylon in the Sha-Ashur-dubbu entry; the
+    name is not supplied in that line of the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Sharru-ukin / Sargon
+  description: A king named Sharru-ukin, parenthetically identified as Sargon, who
+    seized the hands of Bel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Bel
+  description: A divine figure whose hands were seized by Sharru-ukin/Sargon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Mutakkil-Ashur
+  description: Governor of the city Guzana in the eponym-year 706 entry of the similar
+    list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: Upahhir-Bel
+  description: Governor of the city Amedi in the eponym-year 705 entry.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: assassin
+  description: Unnamed assassin who murdered the King of Assyria.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: King of Assyria
+  description: The unnamed King of Assyria who was murdered by an assassin.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Sin-ahe-erba / Sennacherib
+  description: Figure who took his seat on the throne after the notice of the murdered
+    King of Assyria; a note identifies the name as Sennacherib.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: Nabu-dini-epush
+  description: Governor of the city Nineveh in the eponym-year 704 entry.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:10
+- id: fig:11
+  name_or_label: gods of Dur-sharru-ukin
+  description: A divine collective mentioned in an entry dated to the twenty-second
+    day of Tishrit.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: eponym official or governor
+  assigned_to:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:10
+  basis: These figures are named in eponym-year entries and described as governors
+    of specific cities.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:9
+  - ev:10
+- id: role:2
+  label: king
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:8
+  - fig:9
+  basis: The passage explicitly names or describes these figures in royal terms or
+    records royal action.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:3
+  label: divine figure or divine collective
+  assigned_to:
+  - fig:4
+  - fig:11
+  basis: Bel is treated as the divine figure whose hands are seized, and the passage
+    mentions the gods of Dur-sharru-ukin.
+  evidence_refs:
+  - ev:4
+  - ev:11
+- id: role:4
+  label: killer of the king
+  assigned_to:
+  - fig:7
+  basis: The passage says an assassin murdered the King of Assyria.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: murdered ruler
+  assigned_to:
+  - fig:8
+  basis: The King of Assyria is the object of the assassination notice.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: enthroned successor or ruler
+  assigned_to:
+  - fig:9
+  basis: Sin-ahe-erba/Sennacherib is said to have taken his seat on the throne.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: hands of Bel
+  literal_form: The hands of Bel seized by Sharru-ukin/Sargon.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: throne
+  literal_form: The throne on which Sin-ahe-erba/Sennacherib took his seat.
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: temples
+  literal_form: Temples entered after the destruction of Dur-Yakin.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Return from Babylon
+  summary: In the eponym-year of Sha-Ashur-dubbu, the king returned from Babylon,
+    with further details damaged.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Sargon seizes the hands of Bel
+  summary: An entry says Sharru-ukin/Sargon seized the hands of Bel.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Kumuha captured and administered
+  summary: The city Kumuha was captured, and a prefect was appointed.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Dur-Yakin destroyed and temples entered
+  summary: The city Dur-Yakin was destroyed, and temples were entered.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Assassination and accession
+  summary: In the eponym-year of Upahhir-Bel, an assassin murdered the King of Assyria,
+    and Sin-ahe-erba/Sennacherib took his seat on the throne on the twelfth day of
+    Ab.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Palace construction notice
+  summary: The eponym-year of Nabu-dini-epush includes a notice that the palace of
+    the city Kakzu was built, amid other damaged city notices.
+  figure_refs:
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: royal enthronement after violent succession
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage records the murder of the King of Assyria and then says Sin-ahe-erba/Sennacherib
+    took his seat on the throne.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage is annalistic and fragmentary; it records accession but does
+    not explicitly state a legitimating myth or ritual explanation.
+- id: motif:2
+  label: king in ritual contact with a deity
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The entry says Sharru-ukin/Sargon seized the hands of Bel, placing a king
+    in direct contact with a divine figure.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The damaged context does not explain the act; assigning a royal-legitimacy
+    motif is cautious and requires review.
+- id: motif:3
+  label: conquest followed by administrative appointment
+  taxonomy_refs: []
+  basis: The list says Kumuha was captured and a prefect appointed.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a political-annalistic pattern rather than a clear mythological
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The section labeled as a similar list appears to share the eponym-year chronicle
+    function of the preceding fragmentary list.
+  claim_level: same_function
+  target: the preceding fragmentary Assyrian eponym-list entries in the same passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The lists are fragmentary and the passage gives only the heading 'Similar
+    List' rather than an explicit analysis of their relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14803-14930, general heading and entries
+  quote_or_summary: The passage is headed as an Assyrian eponym-list with notes and
+    contains year-numbered entries, many damaged.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 14803-14930, section label
+  quote_or_summary: '"Similar List"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 14803-14930, entry 707
+  quote_or_summary: Entry 707 names Sha-Ashur-dubbu, governor of Tushhan, and states
+    that the king returned from Babylon.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 14803-14930, entry 709
+  quote_or_summary: '"Sharru-ukin (Sargon) seized the hands of Bel."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: quote
+  locator: lines 14803-14930, entry 708
+  quote_or_summary: '"The city Kumuha captured. A prefect appointed."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 14803-14930, entry 706
+  quote_or_summary: Entry 706 states that the city Dur-Yakin was destroyed and that
+    their temples were entered.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 14803-14930, entry 705
+  quote_or_summary: Entry 705 names Upahhir-Bel, governor of Amedi, and says an assassin
+    murdered the King of Assyria.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 14803-14930, entry 705 and note
+  quote_or_summary: '"Sin-ahe-erba [took his seat on the throne]." The note identifies
+    this name as Sennacherib.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation.
+- id: ev:9
+  type: summary
+  locator: lines 14803-14930, Similar List entry 706
+  quote_or_summary: The similar list gives an eponym-year of Mutakkil-Ashur, governor
+    of Guzana, with a damaged notice concerning the king and Dur-sharru-ukin.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 14803-14930, entry 704
+  quote_or_summary: Entry 704 names Nabu-dini-epush, governor of Nineveh, and includes
+    a damaged notice that the palace of the city Kakzu was built.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 14803-14930, entry 707
+  quote_or_summary: Entry 707 includes a damaged notice dated to the twenty-second
+    day of Tishrit mentioning the gods of Dur-sharru-ukin.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: Literal historical notices are fairly clear where not damaged, but the passage
+    is highly fragmentary and annalistic. Mythological motif assignment is limited
+    and requires human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy symbol refs are directly attested. Symbols listed here are literal passage forms without taxonomy refs.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l14803-l14930
+  passage_sha256=c4c9cd4451e26f8906c09d6e13f630362d6d0d81a5b1277de318fc8b750d4b0a
+

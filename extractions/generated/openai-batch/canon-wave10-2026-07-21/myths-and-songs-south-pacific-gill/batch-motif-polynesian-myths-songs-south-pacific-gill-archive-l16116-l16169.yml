@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l16116-l16169
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: CIRCA   A.D.    1772. / TUMU.  INTRODUCTION. / PAPA. / FOUNDATION.; lines
+    16116-16169
+  start: '16116'
+  end: '16169'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A song introduction and foundation section laments Maruata as slain for
+    an altar, recalls promises made to Mai and broken by Ngariki, describes clan union
+    with ancient chiefs, and recounts betrayal in which brother sold brother to death
+    at Erue and Mai was deceived to death.
+  language: Mangaian with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The solo calls for singing of Maruata, who is described as slain for the altar.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The solo states that many promises were made to Mai.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The chorus says the promises were soon broken by Ngariki, described as deceitful
+    and lying.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the foundation section, the clans are described as united, and the addressee
+    is said to have been solemnly united to ancient chiefs.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A brother is said to have sold a brother to death at Erue.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Mai is addressed as someone who was cruelly sold and deceived to death.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Maruata
+  description: Named in the song as slain for the altar and invoked again near the
+    end of the excerpt.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Mai
+  description: Addressee to whom promises were made; later addressed as sold and deceived
+    to death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Ngariki
+  description: Named party described by the chorus as deceitful and lying, associated
+    with breaking promises.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: ancient chiefs
+  description: Collective to whom the addressee is said to have been solemnly united.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: the clans
+  description: Collective described as united in the foundation section.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: unnamed brother who sells
+  description: One brother in the line saying that brother sold brother to death at
+    Erue.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: unnamed brother sold to death
+  description: The brother who is said to have been sold to death at Erue.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: altar-slain victim
+  assigned_to:
+  - fig:1
+  basis: Maruata is described as slain for the altar.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: betrayed and deceived addressee
+  assigned_to:
+  - fig:2
+  basis: Mai is addressed as the recipient of promises and as one sold and deceived
+    to death.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: deceitful promise-breaker
+  assigned_to:
+  - fig:3
+  basis: The chorus attributes the broken promises to deceitful, lying Ngariki.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: participants in clan union
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The clans are described as united, and the addressee is united to ancient
+    chiefs.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: brother-seller
+  assigned_to:
+  - fig:6
+  basis: The passage states that brother sold brother to death at Erue.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: brother sold to death
+  assigned_to:
+  - fig:7
+  basis: The passage states that brother sold brother to death at Erue.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: altar
+  literal_form: altar
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Erue
+  literal_form: place name Erue
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Song of Maruata and broken promises
+  summary: The solo names Maruata as slain for the altar and says promises were made
+    to Mai; the chorus says the promises were broken by Ngariki.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Foundation, union, and betrayal at Erue
+  summary: The clans and ancient chiefs are associated with solemn union, but the
+    passage then states that brother sold brother to death at Erue and addresses Mai
+    as deceived to death.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacrificial killing at an altar
+  taxonomy_refs:
+  - sacrifice
+  basis: Maruata is directly described as slain for the altar.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The excerpt does not describe ritual procedure or the reason for the altar
+    killing.
+- id: motif:2
+  label: broken promises within an alliance
+  taxonomy_refs:
+  - covenant
+  basis: Promises to Mai are said to be broken by Ngariki, while the foundation section
+    describes clans and ancient chiefs as united before betrayal and death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage uses promises and union language, but does not explicitly
+    name a formal covenant.
+- id: motif:3
+  label: brother betrays brother unto death
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage states that brother sold brother to death at Erue.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The brothers are unnamed in the excerpt, and the line may be formulaic
+    or collective rather than a detailed narrative episode.
+comparison_claims:
+- id: claim:1
+  claim: The altar killing in the passage fits the supplied sacrifice motif family
+    at the level of shared motif content.
+  claim_level: same_motif
+  target: sacrifice motif family
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Only the fact of being slain for an altar is given; ritual context
+    is absent.
+- id: claim:2
+  claim: The broken promises and prior union fit a broken-covenant or betrayed-alliance
+    pattern at the level of narrative function.
+  claim_level: same_function
+  target: covenant motif family / betrayed alliance pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not explicitly call the promises a covenant and gives
+    limited narrative detail.
+- id: claim:3
+  claim: The line about brother selling brother to death aligns with a sibling-pair
+    betrayal pattern.
+  claim_level: same_motif
+  target: sibling_pair motif family
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The siblings are not named or elaborated in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16116-16125, TUMU solo
+  quote_or_summary: The solo calls to sing of Maruata as slain for the altar and says
+    many promises were made to Mai.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 16126-16133, TUMU chorus
+  quote_or_summary: "“All, alas! soon broken by / Deceitful, lying Ngariki.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 16140-16151, PAPA foundation opening
+  quote_or_summary: The foundation section says the clans were united and that the
+    addressee was solemnly united to the ancient chiefs.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 16152-16163, PAPA foundation betrayal lines
+  quote_or_summary: "“Yet brother sold brother to death at Erue”; the following lines
+    say the addressee was cruelly sold and deceived to death, O Mai."
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain; short quotation and summary from supplied passage.
+- id: ev:5
+  type: citation
+  locator: lines 16164-16169, final line
+  quote_or_summary: 'The final line names Maruata again in the Mangaian text: “Maruata
+    ra”.'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain; brief citation from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main actions are clear in the English translation, but OCR artifacts
+    and the absence of surrounding narrative limit certainty about identities and
+    sequence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to supplied motif families; no supplied symbol taxonomy term matched altar or Erue.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l16116-l16169
+  passage_sha256=8d2d76f9bdbf123301a46f5bcaf616de09b5b32781feb689fe1a65d17115c359
+

@@ -1,0 +1,244 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l7305-l7318
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: XXIX. / FOX AND MOLE. / KOLOMBOLO NI MUKENGE. / COCK AND FOX.; lines 7305-7318
+  start: '7305'
+  end: '7318'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: In the tale opening, Cock visits his friend Fox every day. During one visit,
+    Fox asks whether the object in the middle of Cock's head can wound someone in
+    a struggle. Cock says it is only flesh and cannot wound. Fox says he had feared
+    being hurt by it, then Cock laughs, they play, Cock returns home, and Fox returns
+    to his ant-hill.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cock and Fox are described as friends, and Cock visits Fox every day.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fox asks Cock about the thing in the middle of Cock's head and whether it
+    can wound someone in a struggle.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Cock answers that the things are flesh and do not wound.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Fox says he had previously feared that Cock might wound him with the head
+    feature while playing.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Cock laughs, they play, Cock goes home, and Fox goes into his ant-hill.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Cock
+  description: Animal figure who visits Fox, answers Fox's question about the feature
+    on his head, laughs, plays, and returns home.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Fox
+  description: Animal figure described as Cock's friend, asks Cock whether the head
+    feature can wound, states his fear, plays with Cock, and returns to his ant-hill.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: daily visitor
+  assigned_to:
+  - fig:1
+  basis: Cock goes from home to spend time at Fox's place every day.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: host or visited friend
+  assigned_to:
+  - fig:2
+  basis: Fox is the friend whom Cock visits.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: playmate
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: After the exchange, Cock and Fox play together.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: questioner about possible danger
+  assigned_to:
+  - fig:2
+  basis: Fox asks whether Cock's head feature can wound and explains that he had feared
+    it.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: Cock's head feature
+  literal_form: The thing in the middle of Cock's head, described by Cock as flesh.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Fox's ant-hill
+  literal_form: Ant-hill into which Fox goes at the end of the passage.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Cock's routine visits to Fox
+  summary: Cock regularly leaves home to spend time with his friend Fox.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fox questions Cock's head feature
+  summary: Fox asks whether Cock's head feature can wound in a struggle; Cock says
+    it is flesh and cannot wound; Fox explains that he had feared being hurt by it
+    during play.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Play and separation
+  summary: Cock laughs, the two play, Cock returns to his house, and Fox goes into
+    his ant-hill.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Animal friendship across predator-prey boundary
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The passage presents Cock and Fox as friends and playmates, despite Fox's
+    identity as an animal commonly paired with fowl in folktale conflict; Fox's inquiry
+    focuses on whether Cock's head feature could injure him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt itself does not show deception, predation, or an explicit
+    trick; the taxonomy link is tentative and should be reviewed.
+- id: motif:2
+  label: Questioning a body feature as a possible weapon
+  taxonomy_refs: []
+  basis: Fox asks whether the feature in the middle of Cock's head can wound someone,
+    while Cock explains that it is flesh and harmless.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a local passage pattern rather than a confirmed cross-text motif
+    family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7305-7309
+  quote_or_summary: The tale is titled "Cock and Fox"; Cock is said to have friendship
+    with Fox and to visit Fox every day.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7310-7312
+  quote_or_summary: Fox asks Cock whether the thing in the middle of Cock's head can
+    wound someone if Cock hits him with it during a struggle.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7312-7313
+  quote_or_summary: Cock says Fox is foolish and says the things are flesh and do
+    not wound.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7313-7317
+  quote_or_summary: Fox says he used to fear that Cock's head feature would wound
+    him during play, but now says this is not so.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 7317-7318
+  quote_or_summary: Cock laughs; the two play; Cock returns to his house, and Fox
+    goes into his ant-hill.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is tentative because
+    this short passage is only the opening of the tale and does not yet show a completed
+    trick or conflict.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l7305-l7318
+  passage_sha256=df589757d3c2789b46b3ecf9c4a5a61fbd829a5a7569da18dd24c8fc6c20dbcb
+

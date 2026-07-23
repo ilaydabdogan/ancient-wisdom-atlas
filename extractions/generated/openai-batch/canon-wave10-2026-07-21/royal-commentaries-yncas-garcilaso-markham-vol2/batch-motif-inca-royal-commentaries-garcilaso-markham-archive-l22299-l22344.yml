@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l22299-l22344
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OP  THE  YNCAS. / VOL.  II. / NINTH  BOOK  OP  THE  ROYAL /
+    COMMENTARIES  OF  THE  YNCAS.; lines 22299-22344
+  start: '22299'
+  end: '22344'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A manager sends ten melons to his master on the backs of two Indians, along
+    with a letter, warning the carriers that the letter will report any theft. The
+    carriers hide the letter and eat one melon, then eat another to make the loads
+    equal. When they deliver eight melons, Antonio Solar reads the letter, asks about
+    the two missing melons, and says the letter reports that ten had been given. The
+    passage explains that in those early days the Indians did not know what letters
+    were and imagined written letters as messengers or spies that could speak and
+    report what they saw.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A manager sends ten melons to his master on the backs of two Indians, together
+    with a letter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The manager warns the two carriers not to eat the melons because the letter
+    will tell on them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One carrier proposes hiding the letter so that it cannot see them eating,
+    and both carriers eat one melon.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that, in those early days, the Indians did not know what
+    letters were and thought Spanish letters were like messengers or spies.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: To make the loads equal and avoid suspicion, the carriers eat a second melon.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The carriers present eight melons to their master and claim they received
+    only eight.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After reading the letter, Antonio Solar says the letter states that ten melons
+    were given and that the carriers must have eaten two.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The carriers are astonished that the letter tells their master about something
+    they did in secret.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: manager
+  description: The person who sends ten melons and a letter to his master and warns
+    the carriers not to eat the fruit.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: two Indians
+  description: Two Indigenous carriers who transport the melons, hide the letter,
+    eat two melons, and later deny that any are missing.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Antonio Solar / master
+  description: The recipient of the melons, identified as Antonio Solar, who reads
+    the letter and confronts the carriers about the two missing melons.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Spaniards
+  description: The passage refers generally to Spaniards as the writers of the letters
+    that the Indians imagine to be messengers or spies.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: sender and warning-giver
+  assigned_to:
+  - fig:1
+  basis: The manager sends the melons and letter and tells the carriers not to eat
+    any melons because the letter will report them.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: carriers
+  assigned_to:
+  - fig:2
+  basis: The two Indians carry the melons on their backs to the master.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: recipient and revealer of the message
+  assigned_to:
+  - fig:3
+  basis: The master receives the eight melons, reads the letter, and states that it
+    says ten were sent.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: transgressors and deceivers
+  assigned_to:
+  - fig:2
+  basis: The carriers eat two melons and then claim they received only eight.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:5
+  label: writers of letters
+  assigned_to:
+  - fig:4
+  basis: The passage says the Indians thought letters written by Spaniards were like
+    messengers or spies.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: letter as messenger or spy
+  literal_form: written letter
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: counted melons
+  literal_form: ten melons reduced to eight after two are eaten
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: dispatch with warning
+  summary: The manager sends two Indians carrying ten melons and a letter to his master,
+    warning that the letter will tell if any melons are eaten.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: hidden letter and eaten fruit
+  summary: On the road, the carriers hide the letter so it cannot see them, eat one
+    melon, and then eat a second melon to make the two loads equal.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: delivery and exposure
+  summary: The carriers deliver eight melons and deny any loss, but Antonio Solar
+    reads the letter and says it records that ten melons were sent.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: explanation of perceived writing
+  summary: The narrator explains that the Indians did not know what letters were and
+    imagined Spanish letters as speaking messengers or seeing spies.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: written message mistaken for an animate witness
+  taxonomy_refs: []
+  basis: The carriers hide the letter because they think it can see them, and the
+    narrator explains that they imagined letters as messengers or spies.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is an anecdotal chronicle passage rather than a mythic narrative;
+    no supplied taxonomy family exactly matches the motif.
+- id: motif:2
+  label: concealment of theft exposes greater guilt
+  taxonomy_refs: []
+  basis: After eating one melon, the carriers eat a second to make the loads equal
+    and conceal the first loss, but the written message reveals that ten had been
+    sent.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents a moralized anecdote; the motif label is descriptive
+    and not tied to a supplied taxonomy reference.
+- id: motif:3
+  label: new technology interpreted through familiar social roles
+  taxonomy_refs: []
+  basis: The passage states that letters were understood as if they were messengers
+    or spies that could speak and report what they saw.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an interpretive pattern grounded in the narrator's explanation,
+    not a formal taxonomy item.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports comparison to a broader narrative pattern in which a
+    written message is treated as a speaking or witnessing agent by characters unfamiliar
+    with writing.
+  claim_level: same_function
+  target: written message as animate witness or messenger pattern
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself does not establish historical contact, common inheritance,
+    or a named external tradition; the comparison is limited to narrative function.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22299-22306
+  quote_or_summary: A manager sends ten melons to his master on the backs of two Indians,
+    along with a letter, and warns them not to eat any because the letter will tell.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 22307-22317
+  quote_or_summary: One carrier proposes putting the letter out of sight so it cannot
+    see them eating; they hide it and eat one melon.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 22318-22325
+  quote_or_summary: The narrator says that in the early days the Indians did not know
+    what letters were and thought Spanish letters were like messengers or spies that
+    spoke and reported what they saw.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 22326-22335
+  quote_or_summary: To avoid unequal loads and suspicion over the missing melon, the
+    carriers decide to eat a second melon.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 22336-22344
+  quote_or_summary: The carriers deliver eight melons and deny receiving more; Antonio
+    Solar reads the letter and says it states that ten were given, so they must have
+    eaten two. The carriers are astonished that the letter tells what they did secretly.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The actions, figures, and objects are explicit in the passage. Motif and
+    comparison labels are descriptive rather than formal taxonomy identifications.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy reference was assigned because the supplied motif and symbol lists do not include writing, letters, messengers, spies, or theft-by-carriers as exact items.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l22299-l22344
+  passage_sha256=a18adb2e9adc0ff46c5b884768d5f257d07730b1f7c723c6c295756cc390c958
+

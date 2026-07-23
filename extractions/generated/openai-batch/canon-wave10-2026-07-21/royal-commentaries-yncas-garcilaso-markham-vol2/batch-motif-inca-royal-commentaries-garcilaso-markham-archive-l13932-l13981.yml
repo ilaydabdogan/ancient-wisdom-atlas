@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l13932-l13981
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OE  THE  YNCAS. / CHAPTER  XXVIII. / SEVENTH  BOOK  OF  THE  ROYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 13932-13981
+  start: '13932'
+  end: '13981'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: the stones of the wall ... fit one to the other with incredible nicety, and
+    without mortar
+  summary: The passage describes an Inca fortress wall made of irregular, very large
+    stones fitted closely without mortar. A priest who saw the fortress reports that
+    the stones seemed larger than he had heard and wonders whether they could have
+    been placed without diabolical aid. The narrator emphasizes the extraordinary
+    difficulty of the work and compares it favorably to the seven wonders of the world.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The wall stones are described as unequal in size and irregularly placed, yet
+    closely fitted together without mortar.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The outer surfaces of the rocks are roughly worked and left nearly as found,
+    while the joining edges are worked and dressed for a narrow width.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A priest from Montilla says that after seeing the fortress stones, they seemed
+    even larger than reports had described.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The priest wonders whether the stones could have been put in place without
+    the aid of the devil.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The narrator says the placement of the stones would be difficult to understand
+    even with engines and expert masters.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The narrator states that this work excels the seven wonders of the world.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Indians
+  description: The people credited with working and dressing the rocks at the points
+    where they join.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Priest from Montilla
+  description: A priest, native of Montilla, who visited Peru and spoke to the narrator
+    about the fortress stones.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Narrator
+  description: The first-person speaker who reports the priest's remarks and comments
+    on the difficulty of the construction.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Devil
+  description: A being named by the priest as a possible source of aid in placing
+    the enormous stones.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: stone workers
+  assigned_to:
+  - fig:1
+  basis: They are said to have worked and dressed each rock where it joined another.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: witness and reporter
+  assigned_to:
+  - fig:2
+  basis: He saw the fortress stones and reported his reaction to the narrator.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: commentator on construction difficulty
+  assigned_to:
+  - fig:3
+  basis: He evaluates the placement of the stones as extraordinarily difficult and
+    compares the work to the seven wonders.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: suspected supernatural helper
+  assigned_to:
+  - fig:4
+  basis: The priest raises the question whether the stones could have been placed
+    without the devil's aid.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: enormous fitted stones
+  literal_form: large irregular stones fitted closely without mortar
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: fortress wall
+  literal_form: wall of a fortress
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: devil's aid
+  literal_form: the aid of the devil named as a possible means of placing the stones
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: seven wonders of the world
+  literal_form: the seven wonders named as a comparison for the fortress work
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Description of mortarless fortress masonry
+  summary: The passage describes a fortress wall whose large, irregular stones fit
+    tightly together without mortar; their exterior surfaces are rough, but their
+    joining edges are carefully worked.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Witness response to enormous stones
+  summary: A priest from Montilla reports that the stones appeared larger than rumor
+    had suggested and wonders whether their placement was possible without the devil's
+    aid.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Narrator's comparison to the seven wonders
+  summary: The narrator affirms the extraordinary difficulty of placing the stones
+    and says the work surpasses the seven wonders of the world.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: monumental stones fitted without mortar
+  taxonomy_refs: []
+  basis: The passage centers on very large, irregular stones closely fitted without
+    mortar in a fortress wall.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an architectural pattern in the passage, not one of the supplied
+    taxonomy motif families.
+- id: motif:2
+  label: supernatural aid suspected for impossible construction
+  taxonomy_refs: []
+  basis: The priest doubts whether the stones could have been set in place without
+    the devil's aid, and the narrator emphasizes the difficulty of the work.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage reports a question or suspicion, not an assertion that supernatural
+    aid actually occurred.
+- id: motif:3
+  label: human work surpassing world wonders
+  taxonomy_refs: []
+  basis: The narrator says the fortress construction excels the seven wonders of the
+    world.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is an explicit evaluative comparison, but not a full mythic narrative
+    motif in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The narrator explicitly compares the fortress construction to the seven wonders
+    of the world and says it surpasses them.
+  claim_level: visual_similarity
+  target: the seven wonders of the world
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives an evaluative comparison of monumentality and difficulty;
+    it does not identify a specific wonder or claim shared origin, function, or historical
+    contact.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13932-13943
+  quote_or_summary: The stones are of unequal size but fit together with incredible
+    nicety and without mortar.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13943-13952
+  quote_or_summary: The rocks' outer surfaces are roughly worked, while the Indians
+    dressed each rock at the joining points for a width of four fingers, producing
+    a picturesque and handsome work.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13953-13964
+  quote_or_summary: A priest from Montilla who visited Peru says the fortress stones
+    appeared even larger than he had been told before seeing them.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 13964-13970
+  quote_or_summary: The priest wondered whether it was possible to put the stones
+    in position without 'the aid of the devil.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: summary
+  locator: lines 13970-13978
+  quote_or_summary: The narrator agrees that placing the stones was so difficult that
+    it is hard to understand how it was done, even with engines and expert masters.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 13978-13981
+  quote_or_summary: The narrator says the work 'excels' the seven wonders of the world.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The architectural description and reported speech are explicit. Motif labeling
+    is cautious because the passage is descriptive and historical rather than a developed
+    mythic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No supplied taxonomy motif family or symbol was directly assigned; taxonomy reference fields are left empty.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l13932-l13981
+  passage_sha256=724750cd3e508c41563b2a47dddbbfc0e871c72b71da88ef0a28c18a98cabb6e
+

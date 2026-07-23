@@ -1,0 +1,397 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l5767-l5807
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: XVIII. / NIANGA DIA NGENGA AND LEOPARD. / DINIANGA DIA NGOMBE NI MBAMBI.
+    / THE CHILD OF HUNTER AND THE CHILD OF DEER.; lines 5767-5807
+  start: '5767'
+  end: '5807'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: After the wives of Hunter and Deer each give birth, each newborn requires
+    a particular first-food. Hunter waits in a mudia-mbambi tree to kill Deer for
+    liver for his child, but Deer asks to be spared until it can take mudia-mbambi
+    for its own child. Deer promises to return the next day to be shot. Hunter agrees.
+    The next morning Deer returns, Hunter kills and skins it, and the liver is used
+    for Hunter's child.
+  language: English with Kimbundu title and terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The wife of Hunter and the wife of Deer each give birth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The child of Hunter is said to require deer liver, mush, beans, and fish as
+    first-food; the child of Deer is said to require only mudia-mbambi.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Hunter takes a gun into the bush, finds a mudia-mbambi tree, sets up a tree-seat
+    in it, climbs, and waits.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Deer asks Hunter not to shoot immediately, explaining that both have newborn
+    children needing first-food.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Deer proposes to take mudia-mbambi for its child and return the next day so
+    Hunter may shoot it for Hunter's child.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hunter consents, Deer carries off mudia-mbambi, and Hunter returns home.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The next morning Hunter returns to the tree-seat; Deer arrives, and Hunter
+    shoots it dead.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Hunter brings Deer home, skins it, removes the liver, and the child of Hunter
+    is taken out.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hunter
+  description: A father whose wife has given birth; he hunts with a gun and needs
+    deer liver for his child's first-food.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Deer
+  description: A father whose wife has given birth; it needs mudia-mbambi for its
+    child's first-food, negotiates a delay, returns, and is killed by Hunter.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Wife of Hunter
+  description: The wife of Hunter who gives birth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Wife of Deer
+  description: The wife of Deer who gives birth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Child of Hunter
+  description: A newborn child whose first-food includes deer liver and who is taken
+    out after Deer is killed and skinned.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:6
+  name_or_label: Child of Deer
+  description: A newborn child whose first-food is mudia-mbambi only.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: parent-provider
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Hunter and Deer each speak or act to obtain the required first-food for a
+    newborn child.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: birth-giving wife or mother
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Both wives are explicitly said to give birth.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: newborn requiring first-food
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Both children are described in terms of the first-food needed after birth.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: hunter with gun
+  assigned_to:
+  - fig:1
+  basis: Hunter takes a gun into the bush, waits from a tree-seat, and later shoots
+    Deer.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:5
+  label: prey who negotiates delay and returns
+  assigned_to:
+  - fig:2
+  basis: Deer asks Hunter to wait, promises to return the next day, and then arrives
+    and is shot.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: mudia-mbambi
+  literal_form: A mudia-mbambi tree or plant; the first-food of Deer's child and the
+    tree in which Hunter sets a tree-seat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: deer liver
+  literal_form: The liver of Deer required as part of the first-food for Hunter's
+    child.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: gun
+  literal_form: Hunter's gun, taken into the bush and used to shoot Deer.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: tree-seat
+  literal_form: A seat set up by Hunter in a mudia-mbambi tree while waiting for Deer.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:6
+scenes:
+- id: scene:1
+  label: Parallel births and first-food requirements
+  summary: The wives of Hunter and Deer both give birth, and each child is assigned
+    a specific first-food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hunter waits in the mudia-mbambi tree
+  summary: Hunter goes into the bush with a gun, finds a mudia-mbambi tree, sets up
+    a tree-seat, climbs, and waits.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Deer negotiates a postponement
+  summary: Deer arrives and asks Hunter to spare it long enough to obtain mudia-mbambi
+    for its own child, promising to return the next day to be shot.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Return, killing, and provisioning
+  summary: The next morning Hunter returns to the tree-seat. Deer arrives, Hunter
+    shoots it, brings it home, skins it, removes the liver, and Hunter's child is
+    taken out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Birth-associated first-food requirement
+  taxonomy_refs: []
+  basis: 'Both newborns require particular first-foods after birth: Hunter''s child
+    needs deer liver with other foods, while Deer''s child needs mudia-mbambi.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No available taxonomy family exactly corresponds to the specific first-food
+    requirement.
+- id: motif:2
+  label: Exchange of delay for promised prey
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Hunter delays killing Deer so Deer can feed its child; Deer in turn promises
+    to return so Hunter can obtain liver for his own child.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage frames the arrangement as practical need and promise, not
+    explicitly as a sacred or ritual exchange.
+- id: motif:3
+  label: Prey voluntarily returns to be killed after fulfilling parental duty
+  taxonomy_refs:
+  - sacrifice
+  basis: Deer asks to gather its child's first-food, then returns the next morning
+    and is shot by Hunter as previously agreed.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The act resembles voluntary self-surrender, but the passage does not explicitly
+    call it sacrifice or give a ritual explanation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5767-5807, opening birth statement
+  quote_or_summary: The tale is titled as the child of Hunter and the child of Deer;
+    the wife of Hunter and the wife of Deer each give birth.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5767-5807, first-food statement
+  quote_or_summary: Hunter's child is to receive first-food including liver of deer,
+    mush, beans, and fish; Deer's child is to receive only mudia-mbambi.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5767-5807, Hunter goes to bush
+  quote_or_summary: Hunter says he will lie in wait, takes a gun, goes to the bush,
+    finds a mudia-mbambi tree, sets up a tree-seat in it, climbs, and waits.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 5767-5807, Deer's speech
+  quote_or_summary: Deer says, "Both of us, we are in need," explaining that Hunter's
+    child needs deer liver and Deer's child needs mudia-mbambi.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:5
+  type: summary
+  locator: lines 5767-5807, agreement after Deer's speech
+  quote_or_summary: Deer asks to take its child's first-food and promises that the
+    next day Hunter may shoot it; Hunter consents, Deer carries off mudia-mbambi,
+    and Hunter goes home.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5767-5807, next morning hunt
+  quote_or_summary: In the morning Hunter takes up his gun, returns to the tree-seat,
+    waits, Deer arrives, and Hunter shoots it dead.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5767-5807, return home and liver
+  quote_or_summary: Hunter binds Deer, carries it home, skins it, takes out the liver,
+    and the child of Hunter is taken out.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif-family
+    mapping is more tentative because the available taxonomy does not include a specific
+    birth first-food or hunter-prey promise category. No comparison claims are made
+    beyond candidate motif classification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The supplied passage text identifies the tale as XIX, 'The Child of Hunter and the Child of Deer.'
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l5767-l5807
+  passage_sha256=199e133d56d51fb3aa811c4d9d8a2d13aecd3264c43b4d588aa33151f29035d8
+

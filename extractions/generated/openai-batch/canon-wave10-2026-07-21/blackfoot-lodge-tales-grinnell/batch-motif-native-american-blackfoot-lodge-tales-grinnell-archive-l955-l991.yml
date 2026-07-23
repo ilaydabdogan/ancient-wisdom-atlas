@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.native-american-blackfoot-lodge-tales-grinnell-archive-l955-l991
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+passage_locator:
+  label: THE   PEACE   WITH   THE   SNAKES / THE  PEACE  WITH  THE  SNAKES  5 / THE  PEACE  WITH  THE  SNAKES  7
+    / THE  PEACE  WITH  THE  SNAKES  9; lines 955-991
+  start: '955'
+  end: '991'
+  translation: Blackfoot Lodge Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Owl Bear accepts the peace and the coming separation of the Snakes and
+    Piegans. The camps prepare to depart after a final shared smoke, and intermarriage
+    between the groups is noted. Some young men remain behind gambling, hold a disputed
+    horse race, quarrel, fight, and kill some participants. The passage closes by
+    saying the Snakes and Piegans have not been at peace since.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Owl Bear says he is glad peace has been made and accepts that the Snakes will
+    go south while the Piegans start homeward.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lodges are taken down and packed as the camps prepare to leave.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Men sit around fireplaces and take a last smoke together before separation.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Snakes and Piegans are described as great friends, with marriages between
+    Snake men and Piegan women and between Piegan men and Snake women.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The great chiefs mount their horses and both parties set out along the trail.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Some young men remain behind to gamble, playing through the day with wins
+    alternating between Piegans and Snakes.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A final horse race is run near sunset, but the result is too close to determine
+    clearly.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Snakes claim victory in the horse race, the Piegans reject the claim,
+    and anger leads to quarrelling, fighting, shooting, and deaths.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage states that after this event the Snakes and Piegans have never
+    been at peace.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Owl Bear
+  description: Named speaker who replies to the peace terms and speaks about the Snakes
+    going south and the Piegans going homeward.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Snakes
+  description: Collective group that has made peace with the Piegans, plans to go
+    south, intermaries with Piegans, later disputes a horse race, and is no longer
+    at peace with the Piegans.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Piegans
+  description: Collective group that has made peace with the Snakes, plans to start
+    homeward, intermaries with Snakes, later disputes the horse race claim, and is
+    no longer at peace with the Snakes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: great chiefs
+  description: Chiefs who mount their horses and lead the departure of the parties
+    along the trail.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: young men who stayed behind
+  description: Young men from the two sides who remain behind to gamble, race horses,
+    quarrel, and fight.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: peace-accepting speaker
+  assigned_to:
+  - fig:1
+  basis: Owl Bear replies that the words are good and that he is glad peace has been
+    made.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: parties to peace, alliance, and renewed conflict
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The Snakes and Piegans are described as at peace and intermarried, then as
+    fighting after a disputed race and never at peace afterward.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:3
+  label: leaders of departure
+  assigned_to:
+  - fig:4
+  basis: The great chiefs mount horses and the parties begin moving along the trail.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: gamblers and disputants
+  assigned_to:
+  - fig:5
+  basis: Some young men stay behind to gamble, run a horse race, dispute the result,
+    and fight.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: shared smoke by fireplaces
+  literal_form: Men sitting about fireplaces and taking a last smoke together.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: lodges and camp-breaking
+  literal_form: Lodges taken down and packed before departure.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: horses and horse race
+  literal_form: Chiefs' horses during departure and good horses used in a contested
+    race.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: trail and directions of separation
+  literal_form: Snakes going south, Piegans going homeward, and both parties strung
+    out on the trail.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Acceptance of peace and planned separation
+  summary: Owl Bear accepts the peace and says the Snakes will travel south while
+    the Piegans begin for home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Camp-breaking, last smoke, and friendship
+  summary: The lodges are packed, men take a final smoke around fireplaces, and the
+    two groups are described as friends joined by marriages.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Departure on the trail
+  summary: The great chiefs mount horses and the Snakes and Piegans set out in separate
+    parties on the trail.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Gambling after the camps leave
+  summary: Some young men stay behind and gamble all day, with alternating wins between
+    the Piegans and Snakes.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Disputed race and renewed enmity
+  summary: A close horse race produces a dispute over the winner; anger escalates
+    into fighting and deaths, after which the groups are said never to have been at
+    peace.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: intergroup peace pact and alliance
+  taxonomy_refs:
+  - covenant
+  basis: The passage explicitly says peace has been made; the groups share a last
+    smoke and are described as great friends with intermarriages.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage uses the language of peace and alliance but does not describe
+    a formal oath or ritual covenant beyond the shared smoke and relationships.
+- id: motif:2
+  label: intermarriage consolidating peace
+  taxonomy_refs: []
+  basis: The passage notes marriages in both directions between Snakes and Piegans
+    while describing the groups as great friends.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No sacred or ceremonial marriage frame is stated in this passage.
+- id: motif:3
+  label: contest dispute rupturing peace
+  taxonomy_refs: []
+  basis: A gambling session and close horse race lead to a dispute, anger, quarrelling,
+    fighting, shooting, and deaths.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents this as a narrative cause of renewed conflict, not
+    as a named taxonomy motif.
+- id: motif:4
+  label: origin of lasting enmity
+  taxonomy_refs: []
+  basis: The final statement links the violent dispute to the later absence of peace
+    between Snakes and Piegans.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage states the result directly but does not provide additional
+    historical explanation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 955-960
+  quote_or_summary: Owl Bear replies that the words are good, he is glad peace has
+    been made, and accepts that the Snakes will go south while the Piegans start homeward.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 961-963
+  quote_or_summary: The lodges are taken down and packed; men sit about the fireplaces
+    taking a last smoke together.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 965-968
+  quote_or_summary: The groups are described as great friends, with many Snakes married
+    to Piegan women and many Piegans married to Snake women.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 968-972
+  quote_or_summary: After preparations are complete, the great chiefs mount horses
+    and both parties set out along the trail.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 973-978
+  quote_or_summary: Some young men stay behind to gamble; they play all day, with
+    Piegans and Snakes winning by turns.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 980-987
+  quote_or_summary: Near sunset the young men run one horse race; the result is too
+    close to tell, the Snakes claim victory, the Piegans reject the claim, and the
+    quarrel becomes a fight with shooting and deaths.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 989-991
+  quote_or_summary: '"Since that time the Snakes and Piegans have never been at peace."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal narrative events are explicit. Motif labels are cautious; only the
+    peace/alliance motif is mapped to the supplied taxonomy, and even that is marked
+    medium because the passage does not describe a formal covenant ceremony.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Page/header artifact in the passage was ignored. No comparison claims were added because the passage does not itself compare the episode to another tradition or corpus.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-blackfoot-lodge-tales-grinnell-archive__l955-l991
+  passage_sha256=86110eb5beb3f9cae82485a201a5eff12d2a05b690de2973e2e957e549177980
+

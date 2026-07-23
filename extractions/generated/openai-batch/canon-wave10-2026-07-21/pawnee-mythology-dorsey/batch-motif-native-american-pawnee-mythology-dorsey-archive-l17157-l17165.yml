@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l17157-l17165
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE    BEAR   MEDICINE.  339 / THE  BEAR  MEDICINE.  34I / THE  BEAR  MEDICINE.  343
+    / THE  BEAR  MEDICINE.  345; lines 17157-17165
+  start: '17157'
+  end: '17165'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A Skidi girl is described as having mysterious ways and disliking nail
+    trimming; after one trimming she nearly dies. The text explains that before her
+    birth her father killed a bear and that the bear's spirit entered the child, unknown
+    to others. She grows into a woman and marries. A source note says the story teaches
+    that women could obtain bear medicine powers and use them in medicine practice.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A little girl among the Skidi is described as having mysterious ways.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: As she grew up, the girl disliked having her nails trimmed.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: On one occasion when her nails were trimmed, she nearly died.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Before the child's birth, her father had killed a bear.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The killed bear's spirit had entered the child, and no one knew it.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The child grew up to be a woman and was married.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The source note states that the story teaches that women might obtain medicine
+    powers from bears and use that power in the practice of medicine.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Skidi girl, later woman
+  description: A little girl among the Skidi with mysterious ways; she dislikes nail
+    trimming, nearly dies after trimming, has a bear's spirit in her, grows up, and
+    marries.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Father of the child
+  description: The girl's father, who killed a bear before her birth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Killed bear / bear spirit
+  description: A bear killed by the father before the girl's birth; its spirit entered
+    the child.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: mysterious Skidi child
+  assigned_to:
+  - fig:1
+  basis: The passage describes the girl as having mysterious ways.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: bear-killer father
+  assigned_to:
+  - fig:2
+  basis: The father killed a bear before the child's birth.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: indwelling bear spirit
+  assigned_to:
+  - fig:3
+  basis: The bear's spirit is said to have entered the child.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: bear-spirit child
+  assigned_to:
+  - fig:1
+  basis: The child is the one into whom the bear's spirit entered.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: example in teaching about women's bear medicine power
+  assigned_to:
+  - fig:1
+  basis: The source note says the story teaches that women might obtain medicine powers
+    from bears and use them in medicine practice.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: bear
+  literal_form: A bear killed before the child's birth; its spirit enters the child.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: bear spirit entering child
+  literal_form: The bear's spirit entering the child before or around birth.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: nails and nail trimming
+  literal_form: The girl's nails, which she dislikes having trimmed; one trimming
+    is followed by near death.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Mysterious child and nail trimming
+  summary: A Skidi girl with mysterious ways grows up disliking nail trimming; when
+    her nails are trimmed once, she nearly dies.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Bear killed before birth and spirit enters child
+  summary: The passage explains that before the girl's birth her father killed a bear
+    and that the bear's spirit entered the child without others knowing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Later life and explanatory note
+  summary: The girl becomes a married woman; the source note says the story teaches
+    that women might obtain medicine powers from bears and use them in medical practice.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: prenatal bear-spirit indwelling
+  taxonomy_refs: []
+  basis: Before the girl's birth, her father kills a bear, and the bear's spirit enters
+    the child.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe the mechanism or ritual process of the spirit's
+    entry.
+- id: motif:2
+  label: nail trimming as dangerous bodily disturbance
+  taxonomy_refs: []
+  basis: The girl dislikes having her nails trimmed, and one nail trimming is followed
+    by her nearly dying.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage juxtaposes the nail episode with the bear-spirit explanation,
+    but it does not explicitly state why trimming causes danger.
+- id: motif:3
+  label: women receiving bear medicine power
+  taxonomy_refs: []
+  basis: The source note states that the story teaches women might obtain medicine
+    powers from bears and use the power in medicine practice.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This motif statement comes from the source note rather than a detailed
+    ritual description in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The source note frames the episode as an example of a bear-medicine pattern
+    in which women may obtain medicine powers from bears and apply them in healing
+    practice.
+  claim_level: same_function
+  target: bear medicine power pattern stated in the source note
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt does not compare this story to any named parallel tale,
+    motif index entry, or wider tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17157-17158
+  quote_or_summary: A little girl among the Skidi is described as having mysterious
+    ways.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 17158-17160
+  quote_or_summary: As she grows up, she dislikes nail trimming, and when her nails
+    are trimmed once she nearly dies.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 17160-17162
+  quote_or_summary: Before her birth, her father killed a bear; the bear's spirit
+    entered the child, unknown to others.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 17163-17165
+  quote_or_summary: The source note says the story was told by Medicine-Svm, Skidi,
+    and teaches that women might obtain medicine powers from bears for use in medicine
+    practice.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: line 17162
+  quote_or_summary: The child grows up to be a woman and is married.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and explicit about the bear spirit and the source-note
+    interpretation. The nail-related motif is more tentative because the causal connection
+    is not fully explained in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy symbol or motif family was assigned because the passage supports a bear-medicine pattern but not one of the supplied taxonomy refs with sufficient specificity.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l17157-l17165
+  passage_sha256=5fdfe941d21cd2be823a13703414a4afe6bb4111fade373541aee0006ee7f3da
+

@@ -1,0 +1,425 @@
+---
+record_id: batch.motif.african-reynard-the-fox-hottentot-bleek-archive-l2050-l2085
+source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+passage_locator:
+  label: THE  ELEPHANT  AND   THE   TORTOISE.  29 / THE  GIRAFFE. / TSE   GIRAFFE  AND   THE   TORTOISE.  31
+    / THE  JUDGMENT  OF  THE  BABOON.  85; lines 2050-2085
+  start: '2050'
+  end: '2085'
+  translation: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: In a judgment attributed to Baboon, Baboon questions the parties, issues
+    a cumulative series of commands involving Dog, Cat, Mouse, Wood, Fire, Water,
+    Elephant, and Ant, and the beings are then described as no longer able to agree
+    with each other. Itkler says he is content and thanks Baboon for justice and redress.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a judgment associated with Baboon.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After Cat exculpates herself, Baboon calls to Dog and orders Dog to bite Cat.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Baboon questions them one after another, and each denies the charge.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'Baboon commands a sequence: Wood is to beat Dog; Fire is to burn Wood; Water
+    is to quench Fire; Elephant is to drink Water; Ant is to bite Elephant in his
+    tender parts.'
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The commanded actions are said to have been done, and from that day the participants
+    can no longer agree with each other.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: 'The resulting chain is recited: Ant bites Elephant; Elephant swallows Water;
+    Water quenches Fire; Fire consumes Wood; Wood beats Dog; Dog bites Cat; Cat bites
+    Mouse.'
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Itkler says he is content, thanks Baboon, and states that Baboon has exercised
+    justice and given redress on his behalf.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Baboon
+  description: The figure who questions the parties, issues the chain of commands,
+    and is thanked for justice and redress.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Dog
+  description: Dog is ordered to bite Cat and is also beaten by Wood in the recited
+    chain.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Cat
+  description: Cat exculpates herself, is bitten by Dog, and bites Mouse in the recited
+    chain.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: Wood
+  description: Wood is commanded to beat Dog and is consumed by Fire in the recited
+    chain.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Fire
+  description: Fire is commanded to burn Wood and is quenched by Water in the recited
+    chain.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:6
+  name_or_label: Water
+  description: Water is commanded to quench Fire and is swallowed by Elephant in the
+    recited chain.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:7
+  name_or_label: Elephant
+  description: Elephant is commanded to drink Water and is bitten by Ant in his tender
+    parts.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:8
+  name_or_label: Ant
+  description: Ant is commanded to bite Elephant in his tender parts and is described
+    as entering and biting there.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:9
+  name_or_label: Mouse
+  description: Mouse is the final named target in the recited chain, bitten by Cat.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Itkler
+  description: Itkler receives satisfaction and thanks Baboon for justice and redress.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: adjudicator issuing judgment
+  assigned_to:
+  - fig:1
+  basis: Baboon questions the parties, gives commands, and is thanked for exercising
+    justice and giving redress.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: role:2
+  label: claimant receiving satisfaction and redress
+  assigned_to:
+  - fig:10
+  basis: Itkler says he is content because he has received satisfaction and redress.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: self-exculpating party
+  assigned_to:
+  - fig:3
+  basis: Cat is described as having exculpated herself before Baboon orders Dog to
+    bite her.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: actor in harm or subduing chain
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: 'These figures or entities perform actions against another participant in
+    the chain: biting, beating, burning, quenching, swallowing, or biting Elephant.'
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: target in harm or subduing chain
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:9
+  basis: 'These figures or entities are acted upon in the chain: Cat, Mouse, Dog,
+    Wood, Fire, Water, and Elephant are each targets of another participant.'
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: water
+  literal_form: Water
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: wood
+  literal_form: Wood
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: tender parts of Elephant
+  literal_form: Elephant's most tender parts
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Questioning and denial
+  summary: Baboon questions the parties one after another; each denies the charge,
+    and Cat is described as exculpating herself before Baboon orders Dog to bite her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Baboon's cumulative commands
+  summary: Baboon orders Wood, Fire, Water, Elephant, and Ant into a sequence of actions
+    against one another and against Dog.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Executed chain and lasting enmity
+  summary: The actions are said to be done, and the chain of biting, swallowing, quenching,
+    consuming, beating, and biting is recited, explaining why the participants no
+    longer agree.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Itkler thanks Baboon
+  summary: Itkler declares himself content, says he has received satisfaction, and
+    thanks Baboon for justice and redress.
+  figure_refs:
+  - fig:1
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: animal adjudicator gives redress
+  taxonomy_refs: []
+  basis: 'Baboon functions as the adjudicating figure: he questions the parties, issues
+    a judgment-like chain of commands, and is thanked for exercising justice and giving
+    redress.'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage does not identify Baboon as divine; therefore no divine-judgment
+    taxonomy is assigned.
+- id: motif:2
+  label: cumulative chain of antagonistic actions
+  taxonomy_refs: []
+  basis: The passage centers on an ordered chain in which each participant acts against
+    another, followed by the statement that they can no longer agree with one another.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The initial cause of the charge is outside the supplied excerpt.
+- id: motif:3
+  label: small creature attacks large animal's vulnerable place
+  taxonomy_refs: []
+  basis: Ant is commanded to bite Elephant in his tender parts, and the narrative
+    repeats that Ant enters and bites there.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: This is one link within the larger judgment chain rather than an independent
+    episode in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: line 2050
+  quote_or_summary: The passage heading is “THE JUDGMENT OF THE BABOON.”
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 2052-2053
+  quote_or_summary: Cat exculpates herself, and Baboon calls to Dog, ordering Dog
+    to bite Cat.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 2055-2057
+  quote_or_summary: Baboon questions them all one after another; each denies the charge
+    before Baboon addresses them with further words.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2058-2062
+  quote_or_summary: Baboon orders Wood to beat Dog, Fire to burn Wood, Water to quench
+    Fire, Elephant to drink Water, and Ant to bite Elephant in his tender parts.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2063-2064
+  quote_or_summary: The commands are carried out, and since that day the participants
+    are said to be unable to agree with each other.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 2066-2074
+  quote_or_summary: 'The chain is repeated: Ant bites Elephant, Elephant swallows
+    Water, Water quenches Fire, Fire consumes Wood, Wood beats Dog, Dog bites Cat,
+    and Cat bites Mouse.'
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 2075-2080
+  quote_or_summary: Through the judgment Itkler receives satisfaction and thanks Baboon
+    for exercising justice and giving redress on his behalf.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based only on the supplied excerpt. The excerpt begins
+    mid-episode and contains OCR-like spellings, so some surrounding context and the
+    initial charge are unavailable.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the supplied passage itself does not explicitly compare this episode with another tradition or named motif family.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-reynard-the-fox-hottentot-bleek-archive__l2050-l2085
+  passage_sha256=85ed34dae30385cc087af172c3938632a206ffd907b3cb7f2a5ce09472c2457f
+

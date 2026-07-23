@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l26979-l26998
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: PENITENTIAL   PSALMS  437 / PENITENTIAL   PSALMS  439 / COLOPHON / PENITENTIAL  PSALMS  441;
+    lines 26979-26998
+  start: '26979'
+  end: '26998'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: O Gubarra, mistress of the field, may my supplication address thee!
+  summary: A penitential speaker addresses Gubarra, mistress of the field, asking
+    that the supplication request her favorable eye and face, that her heart rest,
+    her liver be pacified, and that her heart become glad like that of parents who
+    have children.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Gubarra is addressed as “mistress of the field.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker’s supplication is described as addressing Gubarra and speaking
+    requests to her.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: The requested response includes Gubarra turning her eye and face with favor
+    toward the speaker.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The supplication asks that Gubarra’s heart be at rest and her liver be pacified.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Gubarra’s heart is wished to be glad like the heart of a mother who has borne
+    children and like parents who have had children.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Gubarra
+  description: Named addressee, called “mistress of the field.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: speaker or supplicant
+  description: The first-person voice whose supplication addresses Gubarra.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: mother who has borne children
+  description: A maternal figure used as a comparison for gladness of heart.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: father who has begotten children
+  description: A paternal figure used as a comparison for gladness.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: invoked mistress
+  assigned_to:
+  - fig:1
+  basis: Gubarra is directly addressed as “mistress of the field.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: penitential speaker
+  assigned_to:
+  - fig:2
+  basis: The first-person voice asks that “my supplication” address Gubarra and request
+    favor.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: parental comparison figure
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The mother and father are invoked in a simile for gladness of heart.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: field
+  literal_form: field
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: favorable eye and face
+  literal_form: eye and face turned with favor
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: pacified heart and liver
+  literal_form: heart at rest; liver pacified
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: glad parental heart
+  literal_form: heart of a mother who has borne children; father who has begotten
+    children
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: supplication to Gubarra
+  summary: The speaker’s supplication addresses Gubarra, requests her favorable attention,
+    asks that her inward organs be calmed, and wishes her heart to be glad like that
+    of parents with children.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: penitential appeal for favorable attention
+  taxonomy_refs: []
+  basis: The passage is a penitential address asking Gubarra to turn eye and face
+    with favor toward the speaker.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No specific taxonomy motif family is directly established by the passage.
+- id: motif:2
+  label: pacification of the addressed power’s heart
+  taxonomy_refs: []
+  basis: The supplication asks for Gubarra’s heart to rest, her liver to be pacified,
+    and her heart to become glad.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage states the desired emotional or bodily pacification but does
+    not narrate its fulfillment.
+- id: motif:3
+  label: parental joy as comparison for divine or elevated favor
+  taxonomy_refs: []
+  basis: The gladness wished for Gubarra’s heart is compared to that of a mother and
+    father who have children.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage uses parental imagery as a simile; it does not identify Gubarra
+    as a parent.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 26979-26982
+  quote_or_summary: "“O Gubarra, mistress of the field, may my supplication address
+    thee!”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 26983-26988
+  quote_or_summary: 'The supplication asks: “Turn thine eye with favour toward me”
+    and “Turn thy face with favour toward me.”'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 26989-26992
+  quote_or_summary: 'The supplication asks: “May thy heart be at rest” and “May thy
+    liver be pacified.”'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: 26993-26998
+  quote_or_summary: Gubarra’s heart is wished to be glad like that of a mother who
+    has borne children and a father who has begotten them.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and mostly consists of direct petitionary speech; motif
+    labels are descriptive rather than taxonomy-aligned.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific comparative link.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l26979-l26998
+  passage_sha256=268ece1ad5c4fc854878476490dd28ad09371927f223e397c3654f4ca6b5fbeb
+

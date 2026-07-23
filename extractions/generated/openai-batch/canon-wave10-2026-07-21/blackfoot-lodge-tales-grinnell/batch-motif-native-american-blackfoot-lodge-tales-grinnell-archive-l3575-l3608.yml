@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.native-american-blackfoot-lodge-tales-grinnell-archive-l3575-l3608
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+passage_locator:
+  label: THE    LOST    CHILDREN  59 / HEAVY  COLLAR  AND  THE  GHOST  WOMAN     7
+    1 / HEAVY    COLLAR    AND    THE    GHOST    WOMAN  73 / THE   WOLF-MAN; lines
+    3575-3608
+  start: '3575'
+  end: '3608'
+  translation: Blackfoot Lodge Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Opening of “The Wolf-Man”: a man with two wives moves his lodge away from
+    other people onto the prairie. He regularly climbs a high butte to watch for buffalo
+    and enemies, sitting on a buffalo skull there. The wives complain of loneliness,
+    decide to kill him, dig a covered pit under the skull while he is away hunting,
+    and later cause him to fall into it. They then pack the lodge on a dog travois,
+    head toward the main camp, and begin to cry and mourn when close enough to be
+    heard.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man with two wives moves his lodge away from other people onto the prairie
+    in hopes of changing the wives’ behavior.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Near the camp is a high butte; the man goes there around sundown to look for
+    buffalo and enemies, and he uses a buffalo skull on the hill as a seat.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One wife says the place is lonely, and the other proposes killing their husband
+    so they can return to their relations.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: While the man is away hunting, the wives dig a deep pit on the butte, cover
+    it with light sticks, grass, and dirt, and place the buffalo skull on top.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After the man returns with meat and eats, he goes up the butte, sits on the
+    skull, the covering gives way, and he falls into the pit.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After seeing him disappear, the wives take down the lodge, pack everything
+    on the dog travois, go toward the main camp, and begin crying and mourning when
+    near enough to be heard.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the man / husband
+  description: A man with two wives; he moves the lodge to the prairie, hunts, watches
+    from the butte, sits on the buffalo skull, and falls into the pit.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: the two wives
+  description: Two wives described negatively in the passage; they complain of loneliness,
+    plan to kill their husband, prepare the pit trap, depart toward the main camp,
+    and cry and mourn.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: people at the main camp
+  description: People at the main camp are close enough to hear the wives’ crying
+    and mourning as they approach.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: husband and hunter-victim
+  assigned_to:
+  - fig:1
+  basis: He is the husband, returns loaded with meat from hunting, and falls into
+    the prepared pit.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: daily lookout
+  assigned_to:
+  - fig:1
+  basis: He regularly climbs the butte near sundown to look for buffalo and enemies.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: plotters and trap-makers
+  assigned_to:
+  - fig:2
+  basis: They plan to kill their husband and construct the covered pit with the skull
+    placed on top.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: departing mourners
+  assigned_to:
+  - fig:2
+  basis: After he disappears, they pack the lodge, travel toward the main camp, and
+    cry and mourn when they can be heard.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: listening community
+  assigned_to:
+  - fig:3
+  basis: The passage notes that the wives begin mourning when the people can hear
+    them.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: high butte
+  literal_form: High butte or hill near the camp, used as a lookout and later as the
+    trap site.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: buffalo skull seat
+  literal_form: Buffalo skull on the hill, formerly used by the man as a seat and
+    then placed over the covered pit.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: covered pit
+  literal_form: Deep pit covered with light sticks, grass, and dirt.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: dog travois
+  literal_form: Dog travois used to pack and carry everything when the wives depart.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Isolation on the prairie and lookout routine
+  summary: The man moves his lodge away from other people. Near the camp, he regularly
+    climbs a high butte and sits on a buffalo skull while watching for buffalo and
+    enemies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Wives discuss killing the husband
+  summary: The wives speak about loneliness; one proposes killing their husband and
+    returning to their relations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Trap prepared on the butte
+  summary: While the man is away hunting, the wives dig and camouflage a deep pit
+    on the butte, placing the buffalo skull on top.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Fall into the pit and public mourning
+  summary: The man sits on the skull and falls into the pit. The wives then pack the
+    lodge on the dog travois, move toward the main camp, and begin to cry and mourn
+    when they can be heard.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: spousal betrayal through a concealed trap
+  taxonomy_refs: []
+  basis: The wives plan to kill their husband and prepare a hidden pit that causes
+    him to fall.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The excerpt states the murder plan and the fall, but this passage alone
+    does not state the man’s final fate.
+- id: motif:2
+  label: familiar seat used to spring a trap
+  taxonomy_refs: []
+  basis: The man habitually sits on a buffalo skull; the wives place that skull over
+    the covered pit so he sits and falls through.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage supports the trap mechanism literally; any broader symbolic
+    reading of the skull is not stated.
+- id: motif:3
+  label: false or strategic mourning before the community
+  taxonomy_refs: []
+  basis: After seeing the man disappear, the wives leave for the main camp and begin
+    crying and mourning when close enough for people to hear.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The sequence suggests performative mourning, but the passage does not
+    explicitly say what explanation they give the camp.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3575-3580
+  quote_or_summary: The story is titled “The Wolf-Man”; a man has two wives and moves
+    the lodge away onto the prairie to teach them to become good.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 3581-3585
+  quote_or_summary: Near the camp is a high butte; each evening the man goes there
+    to look for buffalo and enemies, and a buffalo skull on the hill serves as his
+    seat.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:3
+  type: quote
+  locator: lines 3587-3591
+  quote_or_summary: One wife complains of loneliness; the other says, “Let us kill
+    our husband,” and says they can return to their relations.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; short quotation from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 3593-3597
+  quote_or_summary: While the man is out hunting, the wives go to the butte, dig a
+    deep pit, cover it with sticks, grass, and dirt, and put the buffalo skull on
+    top.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 3599-3603
+  quote_or_summary: The man returns with meat, eats, goes to the butte, sits on the
+    skull, the covering gives way, and he falls into the pit.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 3603-3607
+  quote_or_summary: The wives watch him disappear, take down the lodge, pack everything
+    on the dog travois, move toward the main camp, and cry and mourn when the people
+    can hear them.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a complete local sequence for the trap and departure, but
+    it is only an opening excerpt of “The Wolf-Man”; no wolf-man transformation or
+    later outcome appears in the supplied lines. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Page number at the end of the provided text was ignored as non-narrative content.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-blackfoot-lodge-tales-grinnell-archive__l3575-l3608
+  passage_sha256=b6b028dfc27edd24813c6e708d498f9b27027231b12b670c8bab282d74ecc0c1
+

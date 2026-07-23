@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l20031-l20041
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 333 / TEIT, THE THOMPSON
+    INDIANS OF BRITISH COLUMBIA. 335 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA.
+    339 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 341; lines 20031-20041
+  start: '20031'
+  end: '20041'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes three aged guardians stationed at points along the
+    trail of souls: before a river, between the river and the land of ghosts, and
+    at a lodge at the trail’s end. Their duty is to send back souls whose time to
+    enter the ghost-land has not arrived. The third guardian is chief and may send
+    messages to the living world with returning souls. The soul eventually reaches
+    the door of a large lodge made of hard white material.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Three guardians are stationed along the trail of the souls.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first guardian is on this side of the river, the second is between the
+    river and the land of the ghosts, and the third is at a lodge at the end of the
+    trail of the ghosts.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The first guardian has a sweat-house close to the trail and spends most of
+    his time there.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The guardians send back souls whose time to enter the land of ghosts has not
+    come.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Some souls pass the first two guardians but are turned back by the third guardian.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The third guardian is described as the chief of the guardians and as an orator
+    who sometimes sends messages to this world with returning souls.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: All three guardians are described as very old, gray-headed, wise, and venerable-looking.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The soul reaches the door of a large lodge at the end of the trail.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The lodge is made of hard white material similar to limestone or another hard
+    substance; the passage excerpt ends before the description is completed.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: first guardian
+  description: A very old, gray-headed, wise, venerable-looking guardian stationed
+    on this side of the river, with a sweat-house close to the trail.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: second guardian
+  description: A very old, gray-headed, wise, venerable-looking guardian stationed
+    between the river and the land of the ghosts.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: third guardian
+  description: A very old, gray-headed, wise, venerable-looking guardian at the lodge
+    at the end of the trail; he is chief of the guardians and an orator.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: souls
+  description: Souls traveling along the trail toward the land of ghosts, some of
+    whom are sent back when their time has not come.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: guardian along the trail of souls
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage states that three guardians are stationed along the trail of
+    the souls.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sender-back of premature souls
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: Their stated duty is to send back souls whose time to enter the land of ghosts
+    has not come.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: chief guardian
+  assigned_to:
+  - fig:3
+  basis: The third guardian is considered the chief of the three.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: message-sending orator
+  assigned_to:
+  - fig:3
+  basis: The third guardian is an orator who sometimes sends messages to this world
+    with returning souls.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: traveling soul
+  assigned_to:
+  - fig:4
+  basis: The souls travel the trail toward the land of ghosts and may be turned back
+    by guardians.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: trail of souls
+  literal_form: trail leading toward the land of ghosts
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: river boundary
+  literal_form: river along the trail of souls
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: land of the ghosts
+  literal_form: destination beyond the river on the trail of souls
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: sweat-house by the trail
+  literal_form: sweat-house close to the trail
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: large lodge at trail’s end
+  literal_form: large lodge at the end of the trail, made of hard white material
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+scenes:
+- id: scene:1
+  label: Guardians posted along the soul-road
+  summary: 'Three guardians occupy successive stations along the trail of souls: before
+    the river, beyond the river, and at the lodge at the end of the trail.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Souls returned before their appointed time
+  summary: The guardians send back souls whose time to enter the land of ghosts has
+    not come; some pass the first two guardians but are turned back by the third.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Arrival at the lodge at the end of the trail
+  summary: The soul reaches the door of a large lodge at the end of the trail, described
+    as made from hard white material.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: mapped journey of the soul to the ghost-land
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage lays out a route for souls with a trail, river, staged guardians,
+    the land of ghosts, and a final lodge.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The excerpt is truncated during the lodge description, so only the visible
+    portion of the journey can be described.
+- id: motif:2
+  label: threshold guardians returning souls not yet permitted to enter the dead-land
+  taxonomy_refs: []
+  basis: The guardians are stationed at thresholds along the soul trail and send back
+    souls whose time to enter the land of ghosts has not come.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not state by what authority the guardians determine the
+    proper time.
+- id: motif:3
+  label: returning soul as messenger from the afterlife threshold
+  taxonomy_refs: []
+  basis: The third guardian, described as chief and orator, sometimes sends messages
+    to this world with returning souls.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not provide the content or occasion of the messages.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20031-20034
+  quote_or_summary: 'Three guardians are stationed along the trail of souls: one before
+    the river, one between the river and the land of ghosts, and one at a lodge at
+    the end of the ghost trail.'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 20034-20035
+  quote_or_summary: The first guardian has a sweat-house close to the trail and spends
+    most of his time there.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 20035-20036
+  quote_or_summary: The guardians’ duty is to send back souls whose time to enter
+    the land of ghosts has not come.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 20036-20039
+  quote_or_summary: Some souls pass the first two guardians but are turned back by
+    the third, who is their chief and an orator who may send messages to this world
+    with returning souls.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 20039-20040
+  quote_or_summary: "“very old, gray-headed, wise, and venerable-looking”"
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 20040-20041
+  quote_or_summary: The soul reaches the door of a large lodge at the end of the trail;
+    the lodge is made of hard white material similar to limestone or to hard material,
+    with the excerpt ending mid-description.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the provided lines. Motif classification
+    is limited by the excerpt ending before the lodge description is complete. No
+    external comparisons are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata; no historical contact or external parallels inferred.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l20031-l20041
+  passage_sha256=a05dbf63f40b9c46bb410b17ca8089bb8237ea17efda3b4d922bbabafdb6cb52
+

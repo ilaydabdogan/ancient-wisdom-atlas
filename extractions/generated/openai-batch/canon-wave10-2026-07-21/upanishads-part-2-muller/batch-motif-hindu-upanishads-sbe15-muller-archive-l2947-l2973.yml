@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.hindu-upanishads-sbe15-muller-archive-l2947-l2973
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+passage_locator:
+  label: I ADHYAYA, 2 VALLI, 25, II / IV, 4, 5- / I ADHYAYA, 3 VALLI, 1 4. I 3 / SECOND
+    ADHYAYA.; lines 2947-2973
+  start: '2947'
+  end: '2973'
+  translation: The Upanishads, Part II (Sacred Books of the East, Vol. 15)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage says that the wise perceive a single being within their Self
+    and gain eternal peace. It asks how the highest indescribable pleasure is to be
+    understood, whether it has its own light or reflected light. It then states that
+    sun, moon, stars, lightning, and fire do not shine there; when he shines, all
+    else shines by his light.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A single being is described as fulfilling the desires of many.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wise perceive this being within their Self.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Eternal peace belongs to those wise perceivers and not to others.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The highest pleasure is described as indescribable and is identified by the
+    saying, “This is that.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A question is raised about whether the highest pleasure has its own light
+    or reflects light.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Sun, moon, stars, lightning, and fire are said not to shine there.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When he shines, everything shines after him, and all this is lighted by his
+    light.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the one who fulfills the desires of many
+  description: A single being, referred to as “he” and “him,” who is perceived within
+    the Self and whose light illuminates all.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: the wise
+  description: Those who perceive him within their Self and to whom eternal peace
+    belongs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: fulfiller of desires
+  assigned_to:
+  - fig:1
+  basis: The passage says that, though one, he fulfills the desires of many.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: source of light
+  assigned_to:
+  - fig:1
+  basis: The passage says that when he shines, everything shines after him, and all
+    is lighted by his light.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: perceivers within the Self
+  assigned_to:
+  - fig:2
+  basis: The wise are said to perceive him within their Self.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Self as inner locus
+  literal_form: Self
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire among non-shining lights
+  literal_form: fire
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: his light
+  literal_form: light by which all this is lighted
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: celestial lights
+  literal_form: sun, moon, stars, and lightnings
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Perception within the Self
+  summary: The wise perceive the single being within their Self, and eternal peace
+    is assigned to them rather than to others.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Question about highest pleasure and light
+  summary: The passage describes the highest indescribable pleasure and asks whether
+    it possesses its own light or reflects light.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Light beyond sun, moon, stars, lightning, and fire
+  summary: Ordinary celestial and earthly lights do not shine there; when he shines,
+    everything else shines by his light.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Inner perception of the highest reality
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The passage links the wise perceiving him within the Self with eternal peace
+    and the attempt to understand the highest indescribable pleasure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is philosophical and does not narrate a quest sequence; the
+    motif label is therefore a cautious thematic extraction.
+- id: motif:2
+  label: Supreme light beyond ordinary lights
+  taxonomy_refs:
+  - wisdom
+  basis: The passage negates the light of sun, moon, stars, lightning, and fire, then
+    says all is lighted by his light.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No dedicated taxonomy reference for light is available; the association
+    with wisdom is interpretive and should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself cites parallels in the Svetasvatara Upanishad, Mundaka
+    Upanishad, Bhagavad Gita, and Brihadaranyaka Aranyaka/Upanishad apparatus, indicating
+    that its language and imagery belong to a nearby Sanskrit textual pattern.
+  claim_level: same_function
+  target: Nearby Upanishadic and Bhagavad Gita passages cited in the notes
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied passage gives only abbreviated references and does not
+    quote the parallel passages, so the exact degree of motif similarity cannot be
+    verified from this excerpt alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2947-2955
+  quote_or_summary: The passage describes one who, though one, fulfills the desires
+    of many; the wise perceive him within their Self and gain eternal peace.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:2
+  type: summary
+  locator: lines 2957-2961
+  quote_or_summary: The passage describes the highest indescribable pleasure, says
+    “This is that,” and asks whether it has its own light or reflected light.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source; summarized with a short quoted phrase.
+- id: ev:3
+  type: summary
+  locator: lines 2963-2967
+  quote_or_summary: Sun, moon, stars, lightning, and fire do not shine there; when
+    he shines, everything shines after him and all is lighted by his light.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:4
+  type: citation
+  locator: lines 2947-2973 notes
+  quote_or_summary: The notes cite parallels including Brihadaranyaka, Svetasvatara
+    Upanishad VI, 13–14, Mundaka Upanishad II, 2, 10, and Bhagavad Gita XV, 6.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source; citation data from supplied passage notes.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is brief and partly embedded in editorial notes; figures and
+    motifs are extracted conservatively from explicit wording.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the provided line-range text and metadata were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:hindu-upanishads-sbe15-muller-archive__l2947-l2973
+  passage_sha256=947291ede8078107e3d42cdd3dd7da79f864a34cdba69d38ecde7cf0d81729ae
+

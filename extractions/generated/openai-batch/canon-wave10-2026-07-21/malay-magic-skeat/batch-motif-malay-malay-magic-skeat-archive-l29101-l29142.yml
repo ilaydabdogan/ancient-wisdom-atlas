@@ -1,0 +1,246 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l29101-l29142
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: II.  WAR  AND  WEAPONS / CHARMS  AND  TABOOS / WAR  AND  WEAPONS / WAR  AND  WEAPONS;
+    lines 29101-29142
+  start: '29101'
+  end: '29142'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: To the shape of these designs much importance is attached
+  summary: The passage describes the damasked blade of the Malay kris and gives rules
+    from a Malayan manuscript for reading the placement, continuity, and Alif-shaped
+    forms of damask patterns as auspicious or inauspicious for combat and trade.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Kris blades are described as prepared by a damasking process that creates
+    varied designs on a roughened blade surface, and importance is attached to the
+    shapes of these designs.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A damask that reaches within a finger’s breadth of the point and reaches the
+    edge is said to be inauspicious for combat.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: A damask not even with the point is said to make a stab err; if even with
+    the point, the kris is said not to deviate and to hit the mark if cast at an adversary.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Damasking on both sides is described as good, while damask separated at intervals
+    is described as not good.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: An Alif besar damask on the point is said to make the kris good for combat.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The same weapon, or a weapon whose damask runs from the pangkal to the tali,
+    is said not to be lucky to wear while trading.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: An Alif damask near the handle, middle, and point is said to be very auspicious
+    for commercial transactions.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: kris possessor
+  description: The person possessing the kris, who may thrust or cast it at an adversary.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: adversary
+  description: The opponent at whom the kris may be cast.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: weapon possessor or wielder
+  assigned_to:
+  - fig:1
+  basis: The passage refers to the kris’s possessor losing strength to thrust and
+    casting it at an adversary.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: combat opponent
+  assigned_to:
+  - fig:2
+  basis: The adversary is the target of the cast kris in the combat rule.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: kris
+  literal_form: Damasked Malay blade or weapon
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: damask or pamur designs
+  literal_form: Patterns made on the roughened blade surface by damasking
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Alif damask
+  literal_form: Damask running in the shape of the Arabian letter Alif, including
+    Alif besar
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Combat reading of kris damask
+  summary: The manuscript rules evaluate the kris for combat according to whether
+    its damask reaches the point or edge, is even with the point, appears on both
+    sides, is separated, or forms an Alif besar at the point.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Commercial reading of Alif damask
+  summary: The rules also evaluate certain damask forms as unlucky or auspicious for
+    trade and commercial transactions.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: weapon markings as omens of efficacy and luck
+  taxonomy_refs: []
+  basis: The passage treats blade damask placement, continuity, and shape as signs
+    determining combat success, trade luck, and commercial auspiciousness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a technical or magical rule set rather than a narrative mythic
+    episode.
+- id: motif:2
+  label: letter-shaped mark as auspicious weapon sign
+  taxonomy_refs: []
+  basis: An Alif-shaped damask on the point is good for combat, while Alif damask
+    at handle, middle, and point is auspicious for commercial transactions.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The supplied passage gives only brief rules and does not explain the wider
+    symbolism of the Alif form.
+- id: motif:3
+  label: unerring weapon through auspicious marking
+  taxonomy_refs: []
+  basis: When the damask is even with the point, the kris is said never to deviate
+    and to hit the mark when cast at an adversary, even if the possessor loses strength
+    to thrust.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage attributes the result to the rule and to the grace of God,
+    but does not narrate an actual combat event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 29101-29109
+  quote_or_summary: Kris blades may be elaborately made and are prepared by damasking,
+    which creates varied surface designs; the passage says importance is attached
+    to their shapes.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized with a short excerpt in canonical
+    text.
+- id: ev:2
+  type: citation
+  locator: 29109-29114
+  quote_or_summary: 'The rules are introduced as an extract from Newbold’s British
+    Settlements in the Straits of Malacca: a translation of a Malayan manuscript on
+    krises and the process of damasking.'
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; citation summarized.
+- id: ev:3
+  type: summary
+  locator: 29115-29125
+  quote_or_summary: The first rule set says certain damask positions near the point
+    and edge are inauspicious for combat; evenness with the point makes the kris unerring,
+    while damask on both sides is good and separated damask is not good.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 29126-29134
+  quote_or_summary: An Alif besar damask at the point is good for combat, but the
+    passage says it is not lucky to wear such a weapon while trading, nor one with
+    damask running from the pangkal to the tali.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 29135-29142
+  quote_or_summary: An Alif damask near the handle, middle, and point is described
+    as very auspicious for commercial transactions; the supplied extract ends during
+    the following sentence.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is explicit about kris damask rules; motif labels are cautious
+    abstractions from a technical magical passage. No external comparative claims
+    were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy references were assigned because the supplied motif and symbol lists do not contain a close match for kris damask omen-reading.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l29101-l29142
+  passage_sha256=3609b87e2785f6b6173ec41125b0a0204ce7b9dc01f86f6bd1248935f6fa6ffa
+

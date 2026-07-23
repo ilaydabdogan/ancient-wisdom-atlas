@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l10994-l11029
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: UNUUNU   TORU. / THIRD    OFFSHOOT. / UNUUNU   A, / FOURTH    OFFSHOOT.;
+    lines 10994-11029
+  start: '10994'
+  end: '11029'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: A second time thou wast buried, — / Committed to the earth !
+  summary: The passage describes Kavoro being buried a second time. The speakers ask
+    where to carry him, choose a deep chasm or fathomless fissure, note that his body
+    is crumbling to dust, dig a grave, throw up red soil, and close with the bitterness
+    of his widow's grief.
+  language: Mangaian with English translation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The addressed person is said to have been buried a second time and committed
+    to the earth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speakers ask where they should carry the body and answer that it should
+    be taken to a deep chasm or fathomless fissure.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kavoro is named as the one to be carried to the chosen place.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Kavoro's body is described as crumbling to dust.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A grave is dug there, and red soil is thrown up.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A widow's grief is described as bitter.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Kavoro
+  description: Named person whose body is carried for burial and described as crumbling
+    to dust.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: burial speakers or carriers
+  description: Collective speakers who ask where to bear Kavoro, propose carrying
+    him to a chasm or fissure, and dig the grave.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: widow
+  description: Unidentified widow whose grief is described as bitter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: deceased or buried figure
+  assigned_to:
+  - fig:1
+  basis: Kavoro is carried for burial, and his body is described as crumbling to dust.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: burial party or mourners
+  assigned_to:
+  - fig:2
+  basis: The speakers ask where to bear the body, say they will carry Kavoro, and
+    dig the grave.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: grieving widow
+  assigned_to:
+  - fig:3
+  basis: The passage ends by naming the bitterness of the widow's grief.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: earth
+  literal_form: earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: deep chasm or fathomless fissure
+  literal_form: deep chasm; fathomless fissure
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: grave
+  literal_form: grave
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: red soil
+  literal_form: red soil thrown up from the grave
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: dust
+  literal_form: body crumbling to dust
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Second burial of Kavoro
+  summary: The speakers state that the body has been buried a second time, decide
+    to carry Kavoro to a deep chasm or fathomless fissure because his body is crumbling,
+    dig a grave there, and throw up red soil.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Widow's grief
+  summary: The passage closes by emphasizing the bitterness of the widow's grief.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: second burial of the dead
+  taxonomy_refs: []
+  basis: The passage explicitly says the addressed figure was buried a second time
+    and committed to the earth.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not explain the ritual reason for the second burial.
+- id: motif:2
+  label: burial in a deep chasm or fissure
+  taxonomy_refs: []
+  basis: The burial party chooses a deep chasm or fathomless fissure as the place
+    to carry Kavoro.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No broader cosmological or afterlife meaning is stated in this passage.
+- id: motif:3
+  label: body returning to dust
+  taxonomy_refs: []
+  basis: Kavoro's body is described as crumbling to dust before burial.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a physical description of decay but does not state a
+    doctrinal interpretation.
+- id: motif:4
+  label: widow's lament or grief
+  taxonomy_refs: []
+  basis: The closing line emphasizes the bitterness of the widow's grief.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The widow is not named and no action beyond grief is described.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10994-11029, Fourth Offshoot
+  quote_or_summary: '"A second time thou wast buried, — / Committed to the earth !"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 10994-11029, Fourth Offshoot
+  quote_or_summary: '"Whither shall we bear thee? To some deep chasm: / To some fathomless
+    fissure."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 10994-11029, Fourth Offshoot
+  quote_or_summary: '"Come, let us carry Kavoro there, for / His body is fast crumbling
+    to dust."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 10994-11029, Fourth Offshoot
+  quote_or_summary: The speakers say that they dug his grave there and that red soil
+    was thrown up.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 10994-11029, Fourth Offshoot
+  quote_or_summary: '"How bitter thy widow''s grief !"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal burial, decay, grave, red soil, and widow grief are explicit. Motif
+    labels are descriptive only and are not mapped to the supplied motif-family taxonomy
+    because the passage does not state rebirth, afterlife journey, sacrifice, or related
+    categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or historical comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l10994-l11029
+  passage_sha256=49e70f5251a6588a1712fc173fd2f6eb85b5316863a6a92064b9e9c9f2a4997e
+

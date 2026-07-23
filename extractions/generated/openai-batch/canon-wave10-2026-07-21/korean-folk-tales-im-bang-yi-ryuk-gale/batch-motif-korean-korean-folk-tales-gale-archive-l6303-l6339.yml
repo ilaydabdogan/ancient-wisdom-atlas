@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.korean-korean-folk-tales-gale-archive-l6303-l6339
+source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+passage_locator:
+  label: THE  RENOWNED  MAING  209 / XLVIH / THE  SENSES / WHO  DECIDES,  GOD  OR  THE  KING?;
+    lines 6303-6339
+  start: '6303'
+  end: '6339'
+  translation: Korean Folk Tales - Imps, Ghosts and Fairies
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Two eunuchs debate whether wealth and promotion are determined by the king
+    or by God. King Tai-jong overhears and sends A with a sealed order to promote
+    the bearer, but A is suddenly afflicted by stomach pain and asks B to carry the
+    letter. B is promoted, and the king, learning the circumstances, is left in wonder
+    and thought.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: King Tai-jong is resting in Heung-yang Palace while two eunuchs outside discuss
+    whether human affairs are governed by man or by God.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Eunuch A says that riches and honour are in the king's hand.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Eunuch B says that wealth and promotion are ordered by God and that even the
+    king has no power over them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The king overhears the debate, writes and seals a secret dispatch ordering
+    that the bearer be raised one degree in rank, and commands A to take it to Se-jong.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: As A is about to leave the palace enclosure, a furious stomach pain causes
+    him to ask B to take his place and go into the city.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The next day's promotion record shows that B was advanced and A was not.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After inquiry into the circumstances, King Tai-jong starts in wonder and remains
+    long in deep thought.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: King Tai-jong
+  description: A king resting in Heung-yang Palace who overhears the eunuchs, sends
+    a sealed promotion order, then wonders after B is promoted.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Eunuch A
+  description: A eunuch who argues that riches and honour are in the king's hand;
+    he is commanded to carry the dispatch but is stopped by stomach pain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Eunuch B
+  description: A eunuch who argues that wealth and promotion are ordered by God; he
+    takes A's place as bearer and is advanced in rank.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Se-jong
+  description: The person then in charge of the office to which the sealed dispatch
+    is sent.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: royal authority testing control over promotion
+  assigned_to:
+  - fig:1
+  basis: The king overhears the dispute and sends a sealed order to raise the bearer
+    one degree in rank.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: advocate of royal control and intended messenger
+  assigned_to:
+  - fig:2
+  basis: A claims riches and honour are in the king's hand and is commanded to carry
+    the promotion dispatch.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: advocate of divine ordering and substitute beneficiary
+  assigned_to:
+  - fig:3
+  basis: B claims promotion is ordered by God, then replaces A as bearer and is advanced.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:4
+  label: office-holder receiving the dispatch
+  assigned_to:
+  - fig:4
+  basis: Se-jong is named as the person in charge of the office to which A is commanded
+    to take the dispatch.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sealed promotion dispatch
+  literal_form: A sealed secret letter ordering that its bearer be raised one degree
+    in rank.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: sudden stomach pain
+  literal_form: A furious pain in A's stomach that prevents him from carrying the
+    dispatch.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Debate outside the palace
+  summary: While the king rests inside Heung-yang Palace, A and B argue about whether
+    kingly power or God determines wealth and promotion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The king issues a test dispatch
+  summary: After overhearing the debate, King Tai-jong writes and seals an order to
+    promote the bearer and commands A to deliver it to Se-jong.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: A is prevented and B becomes bearer
+  summary: A is seized by stomach pain near the palace enclosure and asks B to carry
+    the dispatch instead.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Promotion record reveals the outcome
+  summary: The king sees that B, not A, has been promoted; after learning why, he
+    reacts with wonder and deep thought.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divine ordering of fortune over royal intention
+  taxonomy_refs:
+  - divine_judgment
+  basis: B's claim that promotion is ordered by God is followed by B receiving the
+    promotion, despite the king's apparent attempt to send A as bearer of the promotion
+    order.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not show God acting directly; the divine reading is inferred
+    from the debate and the redirected outcome.
+- id: motif:2
+  label: Dispute settled by an unforeseen event
+  taxonomy_refs:
+  - wisdom
+  basis: A and B cannot agree, and the later sequence of illness, substitution, and
+    promotion causes the king to wonder and think deeply.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents a didactic anecdote, but it does not explicitly state
+    a moral conclusion.
+comparison_claims:
+- id: claim:1
+  claim: The passage functions like a divine-allotment pattern in which human or royal
+    plans are overridden by an event that redirects rank or fortune.
+  claim_level: same_function
+  target: divine_judgment motif family / divine ordering of worldly promotion
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is functional only; the passage contains no visible
+    deity, oracle, or explicit divine command.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6303-6317
+  quote_or_summary: In Heung-yang Palace, two eunuchs debate whether human affairs
+    are governed by man or God; A attributes riches and honour to the king, while
+    B attributes wealth and promotion to God.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 6318-6324
+  quote_or_summary: King Tai-jong overhears, writes a sealed secret dispatch ordering
+    the bearer raised one degree in rank, and commands A to take it to Se-jong, who
+    is in charge of the office.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 6324-6329
+  quote_or_summary: As A is about to leave the palace enclosure, severe stomach pain
+    overtakes him, and he asks B to take his place and go into the city.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 6330-6339
+  quote_or_summary: The next day's promotion record shows that B has been advanced
+    and A has not; after inquiry, the king starts in wonder and remains in deep thought.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal sequence and figures are clear. Motif assignment is less certain
+    because divine action is implied by narrative structure rather than directly depicted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available symbol taxonomy item directly matches the dispatch or stomach pain; symbol taxonomy references are therefore left empty.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-folk-tales-gale-archive__l6303-l6339
+  passage_sha256=7432fd1093bef274b0f91f54dafdf884034a33f54d0af6902bb69973f0fa83a2
+

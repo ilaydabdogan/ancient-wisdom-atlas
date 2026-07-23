@@ -1,0 +1,377 @@
+---
+record_id: batch.motif.korean-korean-tales-allen-archive-l1474-l1535
+source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+passage_locator:
+  label: THE  ENCHANTED  WINE-JUG.  45 / THE  ENCHANTED  WINE-JUG.  47 / THE  ENCHANTED  WINE-JUG.
+    / THE  ENCHANTED  WINE-JUG.  5 1; lines 1474-1535
+  start: '1474'
+  end: '1535'
+  translation: Korean Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: After recovering a precious gem, the dog and cat set out to return good
+    news to their mourning master. The dog plans a river crossing in which the cat
+    carries the gem in his mouth while riding on the dog's back. Children laugh at
+    the sight; the cat laughs too and drops the gem into the water. The dog dives
+    for it, but the cat is dragged under, claws him, and the gem is not recovered.
+    The dog turns against the cat, who climbs a tree while the dog barks below.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The recovered object is given to the dog for safe-keeping, and the contract
+    of friendship is renewed among the party.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The rats depart to celebrate their safety, while the dog and cat leave to
+    bring good news to their mourning master.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'The dog devises a plan for crossing the river: the cat is to hold the gem
+    in his mouth and ride on the dog''s back while the dog swims.'
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A group of school-children sees the cat riding on the dog's back across the
+    river and laughs, claps, and dances.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The cat laughs and drops the precious gem into the water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The dog dives for the gem, but the cat is pulled under with him and claws
+    the dog, causing the dog to miss the object.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After reaching shore, the dog lunges at the cat, who is blamed for losing
+    the result of a half-year's work.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The cat climbs a tree and remains there while the dog barks below; the passage
+    calls the dog the cat's enemy.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: dog
+  description: An animal companion who receives the recovered object for safe-keeping,
+    plans the river crossing, swims, dives after the gem, and later attacks and barks
+    at the cat.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: cat / “Thomas”
+  description: An animal companion who carries the gem in his mouth while riding the
+    dog, laughs and drops it, claws the dog underwater, reaches shore, and climbs
+    a tree.
+  role_refs:
+  - role:3
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: rats
+  description: Members of the strange party who depart to celebrate their safety after
+    the friendship contract is renewed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: school-children
+  description: A group who notice the animal river crossing and laugh, clap, dance,
+    and roll on the ground.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: mourning master
+  description: The master to whom the dog and cat intend to carry good news.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: precious-object safekeeper
+  assigned_to:
+  - fig:1
+  basis: The recovered object is given to the dog for safe-keeping.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: river-crossing planner and swimmer
+  assigned_to:
+  - fig:1
+  basis: The dog devises the crossing plan and swims the river with the cat on his
+    back.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: gem-bearer and passenger
+  assigned_to:
+  - fig:2
+  basis: The cat is instructed to carry the gem in his mouth while riding on the dog's
+    back.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: laughing witnesses
+  assigned_to:
+  - fig:4
+  basis: The children laugh and celebrate at the sight of the cat riding on the dog
+    across the river.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: intended recipient of good news
+  assigned_to:
+  - fig:5
+  basis: The dog and cat set out to carry good news to their mourning master.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: renewed allies in the recovered-object episode
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The contract of friendship is renewed before the party separates.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: new adversaries after the gem is lost
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: After the failed recovery, the dog lunges and barks at the cat, and the dog
+    is described as the cat's enemy.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: precious gem
+  literal_form: A precious gem carried in the cat's mouth and dropped into the water.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: river water
+  literal_form: The river crossed by swimming and the water into which the gem falls.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: tree refuge
+  literal_form: A tree climbed by the wet cat while the dog barks below.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Recovered object entrusted and alliance renewed
+  summary: The object is recovered, placed with the dog for safe-keeping, and the
+    friendship contract among the party is renewed before the rats depart and the
+    dog and cat continue toward their master.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: River crossing with the cat riding the dog
+  summary: The dog plans a river crossing in which the cat holds the gem in his mouth
+    while riding on the dog's back; school-children see the scene and laugh loudly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Gem dropped and missed underwater
+  summary: The cat laughs, drops the gem into the water, and is pulled underwater
+    when the dog dives; the cat claws the dog, and the dog fails to recover the gem.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Companions become enemies at the tree
+  summary: After both animals reach shore, the dog attacks and barks at the cat, who
+    escapes into a tree; the passage marks the dog as the cat's enemy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Animal helpers attempt to return a recovered precious object
+  taxonomy_refs:
+  - return
+  basis: The dog and cat carry good news and a recovered object toward their mourning
+    master after the party's friendship is renewed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The return is interrupted in this passage, and the larger tale context
+    is not included here.
+- id: motif:2
+  label: Animal wisdom devises a water-crossing plan
+  taxonomy_refs:
+  - wisdom
+  basis: The narrator explicitly says canine wisdom is used to devise a way across
+    the river, and the dog gives detailed instructions for the crossing.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The motif is local to this episode and limited to practical planning.
+- id: motif:3
+  label: Precious object lost in water through laughter or foolishness
+  taxonomy_refs: []
+  basis: The cat laughs at the children’s laughter and drops the precious gem into
+    the water.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the provided taxonomy
+    has no exact matching motif family.
+- id: motif:4
+  label: Friendship between dog and cat turns into enmity
+  taxonomy_refs: []
+  basis: The dog and cat begin as renewed allies, but after the gem is lost the dog
+    lunges and barks at the cat, and the passage describes him as the cat's enemy.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage shows this change within the tale but does not explicitly
+    state that it is a universal origin of dog-cat hostility.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1474-1535, opening paragraph
+  quote_or_summary: The recovered object is given to the dog for safe-keeping; the
+    friendship contract is renewed; the rats depart, and the dog and cat set out to
+    bring good news to their mourning master.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1474-1535, river-crossing plan
+  quote_or_summary: 'The dog devises a way to cross the river: the cat is to hold
+    the gem in his mouth, ride on the dog''s back, and hold onto the dog''s neck hair
+    while the dog swims.'
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1474-1535, children observe the crossing
+  quote_or_summary: School-children notice the cat riding on the dog's back across
+    the river and react with laughter, clapping, dancing, and rolling on the ground.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1474-1535, loss of the gem
+  quote_or_summary: The cat laughs, drops the precious gem into the water, and is
+    dragged under when the dog dives after it; the cat claws the dog, who misses the
+    object.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1474-1535, after reaching shore
+  quote_or_summary: The cat gets ashore angry, while the dog shakes off water and
+    lunges at the cat, who is said to have lost the result of a half-year's work.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1474-1535, tree refuge
+  quote_or_summary: The wet cat, called Thomas, climbs a tree and remains there while
+    the dog barks below and is described as his enemy.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summary based on supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are local
+    and cautious; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were generated because the passage does not itself name or establish a comparison to another text, tradition, or motif family beyond the local motif candidates.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-tales-allen-archive__l1474-l1535
+  passage_sha256=97ba44a3d9f9831f2042fe2e1185ccc6ec5e574b1830c37428f35a6230261c06
+

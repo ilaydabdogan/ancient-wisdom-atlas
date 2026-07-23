@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.hindu-upanishads-sbe15-muller-archive-l8296-l8375
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+passage_locator:
+  label: II VALLI, 9 ANUVAKA. 63 / I ADHYAYA, 3 BRAHMAJVA, 27. 83 / THIRD ADHYAYA.
+    / IV, 3, 1 ?; lines 8296-8375
+  start: '8296'
+  end: '8375'
+  translation: The Upanishads, Part II (Sacred Books of the East, Vol. 15)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: '"from what root, tell me, does a mortal grow up, after he has been felled
+    by death ?"'
+  summary: The passage compares a human body to a tree, including blood, flesh, tendons,
+    bones, and marrow. It asks how a mortal could grow again after being felled by
+    death, rejects seed as the answer because seed comes from the living, and notes
+    that a tree pulled up by the root does not regrow. It then states that Brahman,
+    described as knowledge and bliss, is the principle for one who gives gifts and
+    for one who stands firm and knows.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A struck man is compared to a struck tree, with blood coming forth as from
+    the tree.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The passage aligns parts of the human body with parts of a tree: flesh with
+    layers of wood, fibres with tendons, bones with hard wood, and marrow with tree
+    marrow.'
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A felled tree is said to grow up again, younger, from the root.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage asks from what root a mortal grows again after being felled by
+    death.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:5
+  text: Seed is rejected as the answer because seed is produced from the living.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A tree pulled up with its root is said not to grow again.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Brahman is described as knowledge and bliss and as the principle for both
+    the giver of gifts and the one who stands firm and knows.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: mortal / man
+  description: The human being compared to a tree and described as felled by death
+    in the passage's question.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Brahman
+  description: Described as knowledge and bliss and as the principle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: one who gives gifts
+  description: A person for whom Brahman is called the principle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: one who stands firm and knows
+  description: A knowing person for whom Brahman is called the principle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: mortal subject of death-and-regrowth question
+  assigned_to:
+  - fig:1
+  basis: The passage asks how a mortal grows again after being felled by death.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: principle / root-like source
+  assigned_to:
+  - fig:2
+  basis: Brahman is called the principle; the editorial note identifies Brahman as
+    the root from which a mortal springs again after death.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: giver of gifts
+  assigned_to:
+  - fig:3
+  basis: The text names one who gives gifts as a person for whom Brahman is the principle.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: knower who stands firm
+  assigned_to:
+  - fig:4
+  basis: The text names one who stands firm and knows as a person for whom Brahman
+    is the principle.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: tree as body analogy
+  literal_form: A struck or felled tree with layers of wood, fibre, hard wood, marrow,
+    root, seed, and grain.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: root as source of renewed growth
+  literal_form: The root from which a felled tree grows again and from which a mortal
+    is asked to grow after death.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: seed or grain as rejected source
+  literal_form: Seed or grain is discussed as a possible source of renewed life but
+    rejected for the mortal because seed comes from the living.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Human body compared to tree body
+  summary: The passage compares the human body and its fluids and tissues with a tree
+    and its wood, fibre, and marrow.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Question of the mortal's root after death
+  summary: Using the example of a felled tree regrowing from its root, the passage
+    asks from what root a mortal grows again after being felled by death, while rejecting
+    seed as the answer and noting that a tree uprooted entirely does not regrow.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Brahman named as principle
+  summary: Brahman is described as knowledge and bliss and as the principle for the
+    giver of gifts and the one who stands firm and knows.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: death and renewed life framed through vegetal regrowth
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage repeatedly asks how a mortal may grow again after being felled
+    by death, using the tree's regrowth from root as the analogy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is philosophical and analogical rather than a narrative of
+    an individual dying and returning.
+- id: motif:2
+  label: wisdom as ultimate principle
+  taxonomy_refs:
+  - wisdom
+  basis: Brahman is described as knowledge and bliss and as the principle for one
+    who stands firm and knows.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The wisdom motif is present as doctrinal description, not as a quest or
+    narrative acquisition of wisdom.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself supports comparing mortal post-death renewal to a vegetal
+    regeneration pattern, because it explicitly asks about a mortal's regrowth after
+    death by analogy with a felled tree growing from its root.
+  claim_level: same_function
+  target: death_rebirth motif family / vegetal regrowth pattern
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: This is an internal analogy in a philosophical passage, not evidence
+    for historical contact or a full mythic narrative. The seed analogy is explicitly
+    rejected for the mortal.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8296-8375; opening fragment
+  quote_or_summary: '"man comes forth blood, as from a tree that is struck."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source supplied by metadata.
+- id: ev:2
+  type: summary
+  locator: lines 8296-8375; verse 3
+  quote_or_summary: The verse compares flesh to layers of wood, fibre to tendons,
+    bones to hard wood, and marrow to the marrow of the tree.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source supplied by metadata.
+- id: ev:3
+  type: quote
+  locator: lines 8296-8375; verse 4
+  quote_or_summary: '"while the tree, when felled, grows up again more young from
+    the root" and the passage asks from what root a mortal grows after being felled
+    by death.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source supplied by metadata.
+- id: ev:4
+  type: quote
+  locator: lines 8296-8375; verse 5
+  quote_or_summary: '"Do not say, ''from seed,'' for seed is produced from the living";
+    the verse also says a tree springing from grain rises after death.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source supplied by metadata.
+- id: ev:5
+  type: quote
+  locator: lines 8296-8375; verse 6
+  quote_or_summary: '"If a tree is pulled up with the root, it will not grow again";
+    the passage again asks from what root a mortal grows after being felled by death.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source supplied by metadata.
+- id: ev:6
+  type: quote
+  locator: lines 8296-8375; following verse
+  quote_or_summary: '"Brahman, who is knowledge and bliss, he is the principle, both
+    to him who gives gifts, and also to him who stands firm, and knows."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source supplied by metadata.
+- id: ev:7
+  type: note
+  locator: lines 8296-8375; editorial note after verse 7
+  quote_or_summary: The editorial note states that when the question is answered,
+    the root from which a mortal springs again after death is Brahman.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source supplied by metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main body-tree analogy and death/regrowth question are explicit. The
+    identification of Brahman as the root/source is supported partly by the supplied
+    editorial note, so that element should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only supplied passage text, metadata, and available taxonomy references. Taxonomy references were limited to explicitly supported entries.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:hindu-upanishads-sbe15-muller-archive__l8296-l8375
+  passage_sha256=489719d27f2971744ffad614c7fe8f45f0e0152f1dee9c389322c11c39ca4ac9
+

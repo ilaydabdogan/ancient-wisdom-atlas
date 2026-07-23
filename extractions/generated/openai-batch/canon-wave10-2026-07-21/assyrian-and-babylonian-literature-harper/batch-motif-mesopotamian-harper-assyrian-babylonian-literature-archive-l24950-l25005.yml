@@ -1,0 +1,501 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l24950-l25005
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: A   RITUAL   TABLET / ASSYRIAN   AND   BABYLONIAN   LITERATURE / A   RITUAL  TABLET  403
+    / ASSYRIAN   AND  BABYLONIAN   LITERATURE; lines 24950-25005
+  start: '24950'
+  end: '25005'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Procedural ritual instructions describe arranging tables and censers before
+    divine figures, reciting a petition over an unblemished sheep at sunrise, offering
+    the sacrifice with sprinklings, repeating censer actions before several deities,
+    and washing and presenting selected flesh portions before Shamash.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tables are to be placed behind censers before Kettu, Mesharu, and the protecting
+    god.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The censer before Shamash is strewed before the officiant takes the hand of
+    the sacrificer and recites a speech.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speech asks that a named servant offer a sacrifice at the rising of the
+    sun, raise a cedar staff, stand in the presence of the deity, and have the deity
+    be pleased concerning an unblemished and auspicious sheep.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After the speech, the sacrifice is offered; the sacrificer holds the sheep
+    while sprinklings are performed and a step is made toward the slaughtered animal.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The strew-and-repeat instruction is applied to censers before Ramman, Marduk,
+    A-a, Bu-ne-ne, Kettu, Mesharu, and the protecting god.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The right thigh, hinga flesh, and shume flesh are washed in a bason, laid
+    before Shamash, followed by lighting the censer and stepping toward it.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The sheep is described as having unblemished flesh and auspicious appearances.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: ritual officiant addressed as “thou”
+  description: The instructed ritual performer who places tables, strews censers,
+    takes the sacrificer's hand, speaks, performs sprinklings, washes portions, and
+    lays them before Shamash.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: sacrificer / “So-and-so, thy servant”
+  description: The named placeholder servant who is to offer the sacrifice and is
+    later identified as the sacrificer who holds the sheep.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Shamash
+  description: A deity before whose censer the rite begins and before whom selected
+    flesh portions are laid.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: Kettu
+  description: A divine figure before whose censer a table is placed and whose censer
+    is later strewed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:5
+  name_or_label: Mesharu
+  description: A divine figure before whose censer a table is placed and whose censer
+    is later strewed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:6
+  name_or_label: the protecting god
+  description: A protecting god before whose censer a table is placed and whose censer
+    is later strewed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:7
+  name_or_label: Ramman
+  description: A divine figure before whose censer the strew-and-repeat instruction
+    is performed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Marduk
+  description: A divine figure before whose censer the strew-and-repeat instruction
+    is performed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: A-a
+  description: A divine figure before whose censer the strew-and-repeat instruction
+    is performed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Bu-ne-ne
+  description: A divine figure before whose censer the strew-and-repeat instruction
+    is performed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:11
+  name_or_label: the sheep
+  description: The sacrificial animal described as unblemished and auspicious, held
+    by the sacrificer, and then referred to as the slaughtered animal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: ritual officiant
+  assigned_to:
+  - fig:1
+  basis: 'The addressee is instructed to perform the ritual actions: placing tables,
+    strewing censers, taking the sacrificer''s hand, speaking, sprinkling, washing,
+    laying portions, and stepping.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:2
+  label: sacrificer and servant
+  assigned_to:
+  - fig:2
+  basis: The speech names the servant as the one who may offer sacrifice, and the
+    later instruction identifies him as the sacrificer who holds the sheep.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: divine recipient of censer rite
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  basis: Each named figure is associated with a censer before which ritual action
+    is performed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:4
+  label: recipient of presented flesh portions
+  assigned_to:
+  - fig:3
+  basis: The washed right thigh, hinga flesh, and shume flesh are laid before Shamash.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: sacrificial animal
+  assigned_to:
+  - fig:11
+  basis: The sheep is described as suitable for offering, held by the sacrificer,
+    and then called the slaughtered animal.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: ritual table
+  literal_form: table placed behind a censer
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: censer
+  literal_form: censer before Shamash and other divine figures; one censer is lit
+    near the end of the passage
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: cedar staff
+  literal_form: staff of cedar raised by the servant
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: sacrificial sheep
+  literal_form: unblemished and auspicious sheep; later the slaughtered animal
+  associated_figures:
+  - fig:2
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: sprinklings
+  literal_form: sprinklings performed while the sacrificer holds the sheep
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: flesh portions
+  literal_form: right thigh, hinga flesh, and shume flesh
+  associated_figures:
+  - fig:3
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: bason
+  literal_form: bason in which flesh portions are washed
+  associated_figures:
+  - fig:1
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: rising of the sun
+  literal_form: 'time named for the sacrifice: rising of the sun'
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: ritual step
+  literal_form: a step made toward the slaughtered animal and later toward the censer
+  associated_figures:
+  - fig:1
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: tables and censers arranged before divine figures
+  summary: The officiant is instructed to place tables behind censers before Kettu,
+    Mesharu, and the protecting god.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: petition before Shamash's censer
+  summary: The censer before Shamash is strewed, the sacrificer's hand is taken, and
+    a speech requests that the servant offer at sunrise, raise a cedar staff, stand
+    before the deity, and have the deity pleased by the sheep.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:11
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: offering and sprinklings over the sheep
+  summary: The sacrifice is offered; the sacrificer holds the sheep while sprinklings
+    are performed and a step is made toward the slaughtered animal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:11
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:9
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: repeated censer rites before multiple deities
+  summary: The instruction to strew the censer and do as before is repeated for Ramman,
+    Marduk, A-a, Bu-ne-ne, Kettu, Mesharu, and the protecting god.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: washing and presentation of flesh portions before Shamash
+  summary: The right thigh, hinga flesh, and shume flesh are washed in a bason, laid
+    before Shamash, followed by lighting the censer and stepping toward it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:11
+  symbol_refs:
+  - sym:2
+  - sym:6
+  - sym:7
+  - sym:9
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sacrifice of an unblemished animal
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage centers on offering a sheep described as unblemished and auspicious,
+    with slaughter, sprinklings, and presentation of selected flesh portions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage is a ritual procedure rather than a narrative myth; the motif
+    label is limited to the explicit sacrificial action.
+- id: motif:2
+  label: offering intended to please a deity
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The recited speech asks that the servant offer a sacrifice and that the deity's
+    great divinity be well-pleased with reference to the sheep.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No explicit reward, bargain, or reciprocal divine gift is stated; the
+    exchange is inferred only from offering and divine pleasure.
+- id: motif:3
+  label: ritual washing and sprinkling
+  taxonomy_refs: []
+  basis: The rite includes sprinklings performed during the sacrifice and washing
+    of selected flesh portions in a bason before presentation.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: No broader purification theology is stated in the passage.
+- id: motif:4
+  label: repeated approach to multiple divine recipients through censers
+  taxonomy_refs: []
+  basis: The instruction to strew a censer and do as before is repeated before a sequence
+    of named divine figures.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives ritual repetition but does not explain the symbolic
+    function of the sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 24950-25005; opening table and censer instructions
+  quote_or_summary: Tables are to be placed behind censers before Kettu, Mesharu,
+    and the protecting god.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 24950-25005; Shamash censer and hand-taking instruction
+  quote_or_summary: The censer before Shamash is strewed; the officiant takes the
+    hand of the sacrificer and speaks.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 24950-25005; recited petition over the sheep
+  quote_or_summary: The speech asks that the servant offer sacrifice at sunrise, raise
+    a cedar staff, stand before the deity, and that the deity be pleased with an unblemished,
+    auspicious sheep.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 24950-25005; offering, holding, sprinkling, and stepping
+  quote_or_summary: The sacrifice is offered; the sacrificer holds the sheep while
+    sprinklings are performed and a step is made toward the slaughtered animal.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 24950-25005; repeated censer instructions
+  quote_or_summary: The strew-and-repeat instruction is applied before Ramman, Marduk,
+    A-a, Bu-ne-ne, Kettu, Mesharu, and the protecting god.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 24950-25005; washing and presentation before Shamash
+  quote_or_summary: The right thigh, hinga flesh, and shume flesh are washed in a
+    bason, laid before Shamash; the censer is lit and a step is made toward it.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The ritual actions and named participants are explicit. Motif labels beyond
+    sacrifice are cautious because the passage is procedural and gives little interpretation.
+    No passage-internal comparative claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used; comparison_claims left empty because the passage itself does not make or support a specific comparative claim.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l24950-l25005
+  passage_sha256=d0b2242efcaa6884ca1da45ef9f548208e01981970eda7440fbec94986397ad0
+

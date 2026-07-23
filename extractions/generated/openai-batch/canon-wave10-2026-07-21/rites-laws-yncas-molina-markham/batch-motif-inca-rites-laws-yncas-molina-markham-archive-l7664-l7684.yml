@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.inca-rites-laws-yncas-molina-markham-archive-l7664-l7684
+source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+passage_locator:
+  label: EEPORT  BY  POLO  DE  ONDEGAEDO.  165 / REPORT    BY    POLO    DE    ONDEGARDO.  167
+    / REPORT    BY    POLO    DE    ONDEGARDO.  169 / REPORT  BY  POLO  DE  ONDEGARDO.  171;
+    lines 7664-7684
+  start: '7664'
+  end: '7684'
+  translation: Narratives of the Rites and Laws of the Yncas
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports skilled Spanish artisans' admiration for the variety
+    of excellent stone near Cuzco, notes Inca construction work begun at Tiahuanacu
+    near Chuqui-apu with stone unavailable within a hundred leagues, and describes
+    a kingdom-wide labor service annually arranged in Cuzco by number of men and work
+    to be done. An editorial note says the report is incomplete and the Madrid copy
+    contains blanks from an ignorant clerk.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Skilled artisans from Spain reportedly said they had never seen so many kinds
+    of excellent stone within so small a space.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Yncas had commenced work in Tiahuanacu, near Chuqui-apu.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The stone for the Tiahuanacu work is described as not occurring within a hundred
+    leagues of the site.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that Cuzco had an advantage in relation to available stone.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:5
+  text: A service was exacted throughout the kingdom and arranged yearly in Cuzco
+    according to the number of men and work required.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The report is noted as incomplete, and the Madrid copy is said to contain
+    blank spaces left by a clerk who did not understand some words or passages.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: dexterous artificers from Spain
+  description: Skilled artisans from Spain who commented on the variety and quality
+    of stone.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Yncas
+  description: The group credited with commencing work in Tiahuanacu.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: men employed in the service
+  description: Men whose number and work were arranged yearly in Cuzco for a kingdom-wide
+    service.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: artisan witnesses
+  assigned_to:
+  - fig:1
+  basis: They are described as artisans from Spain who assured the narrator of the
+    exceptional variety of stone.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: builders or initiators of work
+  assigned_to:
+  - fig:2
+  basis: The passage says the Yncas commenced work in Tiahuanacu.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: labor service participants
+  assigned_to:
+  - fig:3
+  basis: The passage says the service was arranged according to the number of men
+    to be employed and the work to be done.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: stone
+  literal_form: excellent stone; stone not found within a hundred leagues of Tiahuanacu
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Cuzco
+  literal_form: Cuzco as the place with stone advantages and the annual arrangement
+    of labor service
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Tiahuanacu
+  literal_form: site near Chuqui-apu where the Yncas commenced work
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Artisans assess stone near Cuzco
+  summary: Spanish artisans report that many kinds of excellent stone occur within
+    a small area, supporting the passage's statement about Cuzco's advantage.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Inca work at Tiahuanacu
+  summary: The Yncas are said to have commenced work at Tiahuanacu near Chuqui-apu,
+    although the needed stone is described as unavailable within a hundred leagues
+    of the site.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Annual arrangement of kingdom-wide service
+  summary: A service exacted throughout the kingdom is arranged each year in Cuzco
+    by the number of men to be employed and the work assigned.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: monumental stone construction with distant materials
+  taxonomy_refs: []
+  basis: The passage links Inca construction at Tiahuanacu with stone said not to
+    be found within a hundred leagues of the site.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an administrative and architectural pattern in the passage, not
+    an explicit mythic motif.
+- id: motif:2
+  label: centralized annual labor obligation
+  taxonomy_refs: []
+  basis: The passage states that service was exacted throughout the kingdom and arranged
+    yearly in Cuzco by labor numbers and assigned work.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a historical-administrative description rather than
+    a ritual or mythic narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7664-7668
+  quote_or_summary: "“dexterous artificers from Spain” said they had never seen so
+    many kinds of excellent stone in so small a space."
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 7668-7674
+  quote_or_summary: The passage says the Yncas commenced work at Tiahuanacu near Chuqui-apu,
+    and that the stone is not found within a hundred leagues, illustrating Cuzco's
+    advantage.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7676-7679
+  quote_or_summary: A service was exacted throughout the kingdom and was arranged
+    each year in Cuzco according to the number of men and the work to be done.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7681-7684
+  quote_or_summary: An editorial note says the report is incomplete and that the Madrid
+    copy includes blank spaces left by a clerk who did not understand words or passages.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal administrative and architectural details are clear. Motif candidates
+    are limited because the passage is not primarily mythic and supports no explicit
+    comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned because the passage does not clearly support the supplied taxonomy categories.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-rites-laws-yncas-molina-markham-archive__l7664-l7684
+  passage_sha256=9b0047f6f5a0f29901388349c68c7d693924eab7f21850f59a4b4a29ddd6b325
+

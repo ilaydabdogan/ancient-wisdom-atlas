@@ -1,0 +1,360 @@
+---
+record_id: batch.motif.native-american-blackfoot-lodge-tales-grinnell-archive-l3694-l3729
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+passage_locator:
+  label: HEAVY    COLLAR    AND    THE    GHOST    WOMAN  73 / THE   WOLF-MAN / THE    WOLF-MAN  79
+    / THE    FAST   RUNNERS; lines 3694-3729
+  start: '3694'
+  end: '3729'
+  translation: Blackfoot Lodge Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The antelope and the deer dispute which can run faster. The antelope wins
+    a prairie race and takes the deer's gall. The deer then proposes a race in the
+    timber, his home terrain. The deer wins there and takes the antelope's dew claws.
+    The tale ends by explaining why deer have no gall and antelope have no dew claws.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The antelope and the deer meet on the prairie.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At the beginning, both animals have galls and dew claws.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The two animals dispute which of them can run faster.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: They agree to a race and wager their galls on it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The antelope wins the prairie race and takes the deer's gall.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: The deer says that the prairie is not his home and proposes another race in
+    the timber, where he says he can run faster.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The antelope, confident after the first victory, agrees to race in the timber
+    and wagers dew claws on the second race.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The second race takes place through thick timber, brush, and fallen logs.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: In the timber, the antelope runs slowly because he is not used to that kind
+    of travel, and the deer wins and takes his dew claws.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The tale concludes that since then the deer has had no gall and the antelope
+    no dew claws.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: An editorial note says that a version of the first portion of the story is
+    current among the Pawnees and printed in Pawnee Hero Stories and Folk Tales.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: antelope
+  description: An animal who initially has a gall and dew claws; he wins the prairie
+    race, takes the deer's gall, loses the timber race, and thereafter lacks dew claws.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: deer
+  description: An animal who initially has a gall and dew claws; he loses the prairie
+    race and his gall, proposes a timber race, wins it, and thereafter lacks a gall.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: race contestant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both animals dispute speed and agree to race.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: prairie race winner
+  assigned_to:
+  - fig:1
+  basis: The antelope proves faster in the prairie race and takes the deer's gall.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: timber-home challenger and winner
+  assigned_to:
+  - fig:2
+  basis: The deer identifies the timber as his home terrain, proposes the second race,
+    and wins there.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: overconfident second-race entrant
+  assigned_to:
+  - fig:1
+  basis: After winning the first race, the antelope feels confident that he can outrun
+    the deer anywhere and agrees to the timber race.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: loser of wagered anatomical trait
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The deer loses his gall in the first race, and the antelope loses his dew
+    claws in the second.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: gall
+  literal_form: Animal gall wagered on the first race and lost by the deer.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: dew claws
+  literal_form: Dew claws wagered on the second race and lost by the antelope.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: prairie
+  literal_form: Prairie where the animals meet and where the antelope wins the first
+    race.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: timber
+  literal_form: Thick timber with brush and fallen logs; described by the deer as
+    his home terrain.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Prairie meeting and first race
+  summary: The antelope and deer meet on the prairie, argue over speed, wager their
+    galls, and the antelope wins and takes the deer's gall.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Proposal of timber race
+  summary: The deer says the prairie is not his home and proposes a second race in
+    the timber. The antelope agrees and dew claws are made the wager.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Timber race and resulting traits
+  summary: The animals race through thick timber; the antelope is slowed by unfamiliar
+    terrain, the deer wins and takes the antelope's dew claws, and the story explains
+    the animals' present anatomical traits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Etiology of animal anatomical differences
+  taxonomy_refs: []
+  basis: The ending explicitly explains why deer lack a gall and antelope lack dew
+    claws.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The supplied taxonomy list has no exact etiology category, so no taxonomy
+    reference is assigned.
+- id: motif:2
+  label: Wagered animal race for body parts
+  taxonomy_refs: []
+  basis: The animals race twice, wagering galls first and dew claws second; each winner
+    takes the loser's wagered anatomical trait.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif label is descriptive and not tied to a supplied taxonomy ID.
+- id: motif:3
+  label: Terrain-specific reversal of success
+  taxonomy_refs: []
+  basis: The antelope wins on the prairie, but the deer wins in the timber, which
+    he identifies as his home terrain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a pattern directly visible in the passage but is not an available
+    taxonomy family.
+- id: motif:4
+  label: Confidence after victory leads to loss in a second contest
+  taxonomy_refs: []
+  basis: The antelope feels confident after winning the first race, agrees to the
+    timber race, and then loses there.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage states the antelope's confidence, but the broader moral framing
+    is not explicitly stated.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note supports a cautious same-motif or same-story-pattern relation
+    between the first portion of this story and a Pawnee version printed elsewhere.
+  claim_level: same_motif
+  target: Pawnee version of the first portion of the story, printed in Pawnee Hero
+    Stories and Folk Tales
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies only an editorial note, not the Pawnee text; it
+    also specifies only the first portion of the story, not the full two-race etiological
+    ending.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3696-3705
+  quote_or_summary: The antelope and deer meet on the prairie, both having galls and
+    dew claws. They dispute speed, wager their galls, and the antelope wins the race
+    and takes the deer's gall.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 3707-3711
+  quote_or_summary: The deer says the prairie is not his home and proposes another
+    race in the timber, which he calls his home and where he says he can run faster.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 3713-3716
+  quote_or_summary: The antelope feels confident after beating the deer, agrees to
+    race in the timber, and the two wager their dew claws.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 3718-3721
+  quote_or_summary: They race through thick timber, brush, and fallen logs; the antelope
+    is slowed by unfamiliar travel, and the deer wins and takes his dew claws.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 3723-3724
+  quote_or_summary: The conclusion states that since then the deer has had no gall
+    and the antelope no dew claws.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: note
+  locator: 3726-3727
+  quote_or_summary: 'Editorial note: a version of the first portion of this story
+    is current among the Pawnees and printed in Pawnee Hero Stories and Folk Tales.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and internally clear. Motif labels are descriptive because
+    the supplied taxonomy does not include an exact animal-etiology or race-contest
+    category. The comparison claim is limited to the editorial note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available motif-family or symbol taxonomy reference was assigned because the passage does not clearly match the supplied taxonomy IDs.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-blackfoot-lodge-tales-grinnell-archive__l3694-l3729
+  passage_sha256=531ce1a83b9228b18c193b07be804002c76db2d3d88bc15555a033d7c0cffb05
+

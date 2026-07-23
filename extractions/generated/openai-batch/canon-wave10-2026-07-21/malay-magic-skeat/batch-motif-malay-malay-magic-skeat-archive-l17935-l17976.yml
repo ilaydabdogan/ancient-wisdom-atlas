@@ -1,0 +1,383 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l17935-l17976
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: CHAP.  VI / THE  BAJANG / BIRTH- SPIRITS / DETECTION  OF  SORCERY; lines
+    17935-17976
+  start: '17935'
+  end: '17976'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: the vessel represents the head of the person standing his trial
+  summary: The passage describes a Malay sorcery-detection ordeal in which a Pawang
+    scrapes an iron vessel with a razor while the accused is in another room; if the
+    accused is guilty, hair falls from the corresponding part of his head. It also
+    describes village complaints after unexplained sickness or deaths, punishment
+    of suspected wizards or witches, and a disrupted note about a Bajang familiar
+    sent to harm victims and requiring food from its owner.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Pawang skilled in dealing with wizards may be called in to provide proof
+    in a sorcery case.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The suspected sorcerer is placed in one room while the Pawang, in another
+    room, scrapes an iron vessel with a razor.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: If the accused is the culprit, the accused person's hair falls off; if not,
+    the accused passes through the ordeal without damage.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The iron vessel is said to represent the head of the person undergoing trial,
+    so scraping a part of the vessel causes hair to fall from a corresponding spot
+    on the person's head.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When unexplained sickness and possible deaths occur in a village, villagers
+    may lodge a formal complaint against a supposed author of the illnesses and ask
+    for punishment.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Before British influence, a wizard or witch whose guilt was established to
+    Malay satisfaction could be killed.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In a Perak case, people of an up-river village accused a man of keeping a
+    Bajang.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The disrupted Bajang note says the being is fed eggs and milk, can be sent
+    by its master to possess and prey on a victim's vitals, causes a deadly ailment,
+    and may harm its owner if neglected.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Pawang
+  description: A ritual specialist described as skilled in dealing with wizards and
+    able to conduct the vessel-scraping ordeal.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: accused sorcerer, wizard, or witch
+  description: The person suspected of sorcery or witchcraft and subjected to an ordeal
+    or punishment if found guilty.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: village complainants
+  description: People of a village who complain after unexplained sickness or deaths
+    and seek punishment of the supposed cause.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Bajang
+  description: A familiar or harmful being said to be kept by a man and, in the disrupted
+    note, sent to possess and prey upon victims.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Bajang owner or master
+  description: The person said to keep, feed, and send forth the Bajang; if negligent,
+    the owner may fall victim to it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Bajang victim
+  description: A person selected by the master's malice, possessed and preyed upon
+    by the Bajang, and seized by a deadly ailment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: ritual specialist and ordeal performer
+  assigned_to:
+  - fig:1
+  basis: The Pawang is called in and scrapes the iron vessel with a razor to test
+    the accused.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: accused culprit or ordeal subject
+  assigned_to:
+  - fig:2
+  basis: The suspected sorcerer is placed in another room and is harmed only if guilty;
+    guilty wizards or witches may be killed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: community accusers
+  assigned_to:
+  - fig:3
+  basis: Villagers lodge complaints after unexplained sickness or deaths and accuse
+    a supposed author of the harms.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: harmful familiar spirit or agent
+  assigned_to:
+  - fig:4
+  basis: The Bajang is described as kept by a person and sent to possess and prey
+    upon a victim.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: keeper and sender of familiar
+  assigned_to:
+  - fig:5
+  basis: The master feeds the Bajang and sends it forth; neglect can make the owner
+    its victim.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: possessed or preyed-upon victim
+  assigned_to:
+  - fig:6
+  basis: The victim is selected, possessed, preyed upon in the vitals, and suffers
+    a deadly ailment.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: representative iron vessel
+  literal_form: iron vessel
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: razor used in ordeal
+  literal_form: razor
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: falling hair as ordeal result
+  literal_form: hair falling from the accused person's head
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: Bajang food
+  literal_form: eggs and milk
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Vessel-scraping ordeal for detecting sorcery
+  summary: A Pawang places the accused in one room and scrapes an iron vessel with
+    a razor in another; the accused's hair falls only if the accused is guilty, because
+    the vessel represents the accused's head.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Village accusation after unexplained illness
+  summary: After unexplained sickness and possible deaths, villagers may lodge a formal
+    complaint against the supposed source of the harm and ask that the person be punished;
+    earlier practice could include killing a guilty wizard or witch.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Bajang familiar harms a victim
+  summary: A Bajang is described as a being kept and fed by a master, sent to possess
+    and prey on a selected victim, and potentially dangerous to its owner if neglected.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: representational shaving ordeal to detect sorcery
+  taxonomy_refs: []
+  basis: The vessel represents the accused person's head, and scraping it causes the
+    culprit's hair to fall at the corresponding place while an innocent person is
+    unharmed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this pattern; recorded as
+    a passage-level motif candidate.
+- id: motif:2
+  label: community punishment of suspected witch or wizard after unexplained sickness
+  taxonomy_refs: []
+  basis: The passage links unexplained village sickness or deaths to formal complaint
+    against a suspected author and notes earlier killing of guilty wizards or witches.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage reports the practice but does not give legal procedure or
+    ritual details beyond the complaint and punishment.
+- id: motif:3
+  label: harmful familiar sent by owner to possess and sicken a victim
+  taxonomy_refs: []
+  basis: The Bajang is described as kept by a master and sent to possess and prey
+    upon a victim's vitals, causing a deadly ailment.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The Bajang portion of the supplied text is typographically disrupted and
+    should be checked against the source layout.
+- id: motif:4
+  label: neglected familiar turns against its owner
+  taxonomy_refs: []
+  basis: The Bajang note says that if the owner neglects or fails to feed the being
+    regularly, the owner may become victim to the familiar.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Based on a disrupted note within the passage; wording should be verified
+    in the canonical source.
+comparison_claims:
+- id: claim:1
+  claim: 'The vessel-scraping ordeal has the same functional structure as a representational
+    or sympathetic magic pattern: an object identified with a person is acted upon
+    so that a corresponding effect appears on the person.'
+  claim_level: same_function
+  target: representational or sympathetic magic ordeal pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself does not compare this practice with another tradition
+    and does not support any claim of historical contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17935-17949
+  quote_or_summary: A Pawang skilled in dealing with wizards places the suspected
+    sorcerer in one room and, from another room, scrapes an iron vessel with a razor;
+    the culprit's hair falls off, while a non-culprit is unharmed.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 17950-17956
+  quote_or_summary: "“the vessel represents the head of the person standing his trial,”
+    and wherever it is scraped the wizard's hair falls off in a corresponding spot."
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: 17957-17964
+  quote_or_summary: When several unexplained sicknesses and possibly deaths occur
+    in a village, the people may lodge a formal complaint against the supposed author
+    and ask that he be punished.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 17966-17969
+  quote_or_summary: Before British influence, a wizard or witch whose guilt had been
+    established to Malay satisfaction could be killed, and such executions had occurred
+    not many years before.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 17971-17976
+  quote_or_summary: A remembered Perak case involved people of an up-river village
+    accusing a man of keeping a Bajang.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 17971-17976 note text
+  quote_or_summary: The disrupted Bajang note says it is fed eggs and milk; when its
+    master wishes to use it, he sends it to possess and prey upon a chosen victim's
+    vitals, causing a deadly ailment, and if neglected it may harm its owner.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized from disrupted passage text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Most of the sorcery-detection passage is clear. The final Bajang material
+    appears typographically disrupted, so details from that portion require human
+    verification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. No historical-contact claims are made.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l17935-l17976
+  passage_sha256=0e2597f2b1df1d976b9bed2954591e431a7ec555a9086f92cbc5253567095f27
+

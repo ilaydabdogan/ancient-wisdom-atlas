@@ -1,0 +1,239 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l20367-l20384
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / NINTH  BOOK  OK  THE  BOYAL / COMMENTARIES  OF  THE  YNCAS.
+    / NINTH  BOOK  OF  THE  ROYAL; lines 20367-20384
+  start: '20367'
+  end: '20384'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes remnants of a major road system, especially in coastal
+    valleys and sandy deserts. Tall roadside poles or beams remain because they guide
+    travelers where wind-blown sand can hide the road and moving sand hills cannot
+    be trusted as landmarks.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says some ravines are extremely deep, apparently approaching the
+    centre of the earth.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The described work has mostly disappeared, except for parts that time and
+    wars have not destroyed.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: On the road through coastal valleys and sandy deserts, tall poles remain and
+    can be seen from one to another.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The tall poles served as guides to prevent travelers from losing their way.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Wind-blown sand can cover and conceal the line of the road.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Sand hills are unsafe as guides because strong wind can move them from one
+    place to another.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Fixed roadside beams are described as necessary guides and have been maintained
+    because travel is not possible without them.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: travellers
+  description: People traveling along the road who need guides to avoid losing their
+    way.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: travellers dependent on route markers
+  assigned_to:
+  - fig:1
+  basis: The passage states that poles or beams guide travelers and that travel is
+    not possible without them in the sandy road environment.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: road line
+  literal_form: the line of the road through coast valleys and sandy deserts
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: roadside guide poles or beams
+  literal_form: tall poles or fixed beams placed by the roadside and visible from
+    one to another
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: wind-blown sand
+  literal_form: sand moved by wind that covers and conceals the road
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: moving sand hills
+  literal_form: sand hills of various heights that move when the wind is strong
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: remnants of the road and its markers
+  summary: The passage describes the remains of a major road work, especially in coast
+    valleys and sandy deserts, where tall poles remain as visible markers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: travel through shifting sand
+  summary: Wind-blown sand can hide the road, and sand hills can move, so fixed roadside
+    beams are maintained as necessary guides for travelers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: route markers guiding travelers through a shifting desert
+  taxonomy_refs: []
+  basis: Tall poles or beams guide travelers where wind-blown sand can conceal the
+    road and moving sand hills cannot be relied on.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a practical travel pattern in the passage; no explicit mythic
+    or ritual interpretation is supplied.
+- id: motif:2
+  label: shifting landscape obscuring the path
+  taxonomy_refs: []
+  basis: The road may be hidden by sand blown by wind, while sand hills themselves
+    may move and fail as guides.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents this as a physical environmental hazard, not as a
+    symbolic underworld or initiation landscape.
+- id: motif:3
+  label: surviving remnants of a once-magnificent work
+  taxonomy_refs: []
+  basis: The passage states that nothing remains of the magnificent work except what
+    time and wars have been unable to destroy.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not name builders or attach a genealogical, royal, or
+    sacred legitimacy claim in the supplied lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 20367-20370
+  quote_or_summary: Some ravines are described as extremely deep; the once magnificent
+    work mostly no longer remains except what time and wars have not destroyed.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 20370-20375
+  quote_or_summary: In the road of the coast valleys and sandy deserts, tall poles
+    remain, visible one from another, and served as guides so travelers would not
+    lose their way.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 20375-20378
+  quote_or_summary: The line of the road might be lost because wind-blown sand could
+    cover and conceal it.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 20378-20381
+  quote_or_summary: Sand hills are not safe as guides because strong wind can move
+    them from one place to another.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 20381-20384
+  quote_or_summary: Fixed roadside beams are necessary as guides to travelers and
+    have been maintained because it is not possible to travel without them.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited to practical
+    journey/pathfinding patterns present in the passage. No comparison claims are
+    made because the supplied passage does not support comparison to another text,
+    tradition, or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The supplied passage ends with a footnote marker, but no footnote content was provided.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l20367-l20384
+  passage_sha256=6b29dc76df9ebdae734174ac9fdc00191d3c3741ee920b0425bf414fbc36d76b
+

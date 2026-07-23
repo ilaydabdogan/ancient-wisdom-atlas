@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.melanesian-the-melanesians-codrington-archive-l397-l427
+source_text_path: texts/public-domain/melanesian/project-gutenberg/the-melanesians-codrington.md
+passage_locator:
+  label: CHAPTER XVIII. / MISCELLANEOUS. / CHAPTER XIX. / STOEIES.; lines 397-427
+  start: '397'
+  end: '427'
+  translation: 'The Melanesians: Studies in Their Anthropology and Folk-Lore'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents passage lists sections on dances, music, games, miscellaneous
+    topics, and a stories chapter divided into Animal Stories, Myths or Tales of Origins,
+    and Wonder Tales, with numbered story titles.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists a chapter on dances, music, games, and toys, including drums,
+    pipes, a stringed instrument, an Aeolian flute, kites, bull-roarers, and rattles.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The miscellaneous chapter lists topics including cannibalism, head-taking,
+    castaways, slaves, burning alive, celestial bodies and eclipses, months and seasons,
+    narcotics, counting and measures, salutations, and wild men.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The stories chapter is divided into Animal Stories, Myths or Tales of Origins,
+    and Wonder Tales.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:4
+  text: The Animal Stories section lists titles involving animals, including Heron
+    and Turtle, Three Fish, Rat and Rail, Birds' Voyage, Shark and Snake, and Hen
+    and Chickens.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Myths or Tales of Origins section includes titles about Tagaro's departure,
+    Tagaro making the sea, Tagaro finding fish, and an old woman making the sea.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Wonder Tales section includes titles naming or describing a ghost-wife,
+    an eel, a little orphan, a woman and eel, a little owl, a winged wife, a woman
+    and ghost, Tagaro the Little, and Merambuto and Tagaro.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Tagaro
+  description: The name Tagaro appears in titles including Tagaro's Departure, How
+    Tagaro made the Sea, How Tagaro found Fish, Tagaro the Little, and Merambuto and
+    Tagaro.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: old Woman
+  description: An old Woman appears in the origin-title How the old Woman made the
+    Sea.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Ghost-wife
+  description: A Ghost-wife is named as a Wonder Tale title.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Winged Wife
+  description: A Winged Wife is named as a Wonder Tale title.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Eel
+  description: An eel appears in the Wonder Tale titles Story of an Eel and The Woman
+    and Eel.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Snake
+  description: A snake appears in the Animal Story title Shark and Snake.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: named maker or finder in origin titles
+  assigned_to:
+  - fig:1
+  basis: Titles attribute making the sea and finding fish to Tagaro.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: departing title figure
+  assigned_to:
+  - fig:1
+  basis: The title Tagaro's Departure names Tagaro in connection with departure.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: maker in origin title
+  assigned_to:
+  - fig:2
+  basis: The title How the old Woman made the Sea attributes making the sea to the
+    old Woman.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: wife figure in wonder-tale title
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The Wonder Tales list includes Ghost-wife and The Winged Wife.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: animal figure in story title
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The listed titles include animals such as eel and snake.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: sea or water
+  literal_form: Sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: fish
+  literal_form: Fish
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: snake or serpent
+  literal_form: Snake
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: eel
+  literal_form: Eel
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: celestial bodies and eclipses
+  literal_form: Sun; moon; stars; eclipses
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: origin of the sea by named figures
+  taxonomy_refs:
+  - culture_hero
+  basis: The origin-tale list includes How Tagaro made the Sea and How the old Woman
+    made the Sea.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: Only table-of-contents titles are present; the passage does not give plot
+    details or explicitly identify either figure as a culture hero.
+- id: motif:2
+  label: departure of a named figure
+  taxonomy_refs:
+  - departure
+  basis: The origin-tale list includes the title Tagaro's Departure.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The title supports a departure motif candidate, but no journey sequence
+    or narrative function is provided.
+- id: motif:3
+  label: animal-story pairings and animal voyage
+  taxonomy_refs: []
+  basis: The Animal Stories section lists paired animal titles and Birds' Voyage.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage lists titles only and does not narrate the animal relationships
+    or actions.
+- id: motif:4
+  label: snake or serpent in animal story
+  taxonomy_refs:
+  - serpent
+  basis: The Animal Stories section includes the title Shark and Snake.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The snake is present only as a title element; no serpent role or symbolism
+    is described.
+- id: motif:5
+  label: ghost or nonordinary wife figure
+  taxonomy_refs: []
+  basis: The Wonder Tales section includes Ghost-wife and The Winged Wife.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The titles suggest a wife figure with ghostly or winged attributes, but
+    no narrative content is included.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 397-405
+  quote_or_summary: Chapter XVII lists dances, music, games, and toys such as drums,
+    pipes, a stringed instrument, an Aeolian flute, kites, bull-roarers, and rattles.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/the-melanesians-codrington.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 407-411
+  quote_or_summary: Chapter XVIII lists miscellaneous topics including cannibalism,
+    head-taking, castaways, slaves, burning alive, sun, moon, stars, eclipses, months,
+    seasons, narcotics, counting, measures, salutations, and wild men.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/the-melanesians-codrington.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 413-416
+  quote_or_summary: Chapter XIX begins Stories and lists Animal Stories with titles
+    including Heron and Turtle, Three Fish, Rat and Rail, Birds' Voyage, Shark and
+    Snake, and Hen and Chickens.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/the-melanesians-codrington.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 417-421
+  quote_or_summary: The Myths, Tales of Origins section lists Kamakajaku, Samuku,
+    The Mim, Muesarava, Tagaro's Departure, How Tagaro made the Sea, How Tagaro found
+    Fish, and How the old Woman made the Sea.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/the-melanesians-codrington.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 421-427
+  quote_or_summary: The Wonder Tales section lists titles including Dilingavuv, Story
+    of an Eel, Molgon and Molwor, Ghost-wife, Ganviviris, The Little Orphan, The Woman
+    and Eel, The Little Owl, The Winged Wife, Taso, Betawerai, Basi and Dovaowari,
+    Deitari, Tarkeke, The Woman and Ghost, Tagaro the Little, and Merambuto and Tagaro.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/the-melanesians-codrington.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is high confidence because the passage is a table of contents.
+    Motif candidates are title-level only and require review against the full stories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The passage is not a narrative scene but a table-of-contents listing. Figures, symbols, and motifs are therefore extracted only where titles or headings directly provide literal support.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:melanesian-the-melanesians-codrington-archive__l397-l427
+  passage_sha256=1be1a5a462768b296fdcf0bd4731a38eee04c2698266aefbae57fe83568d73d8
+

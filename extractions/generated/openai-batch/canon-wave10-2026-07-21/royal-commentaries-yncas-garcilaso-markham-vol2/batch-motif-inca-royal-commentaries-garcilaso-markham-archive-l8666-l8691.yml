@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l8666-l8691
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SIXTH  BOOK  OP  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. / SIXTH  BOOK  OF  THE  ROYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 8666-8691
+  start: '8666'
+  end: '8691'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Pachacutec after a period of military strain administering
+    the empire, building, making laws, and regulating rites. It praises his fame as
+    king, priest, and captain, notes his enrichment of the Temple of the Sun with
+    gold, and says that the former place of the Sun figure is now occupied by the
+    holy sacrament in the convent of San Domingo.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An army in the field is said to have strained resources before Pachacutec
+    turned to administration.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pachacutec occupied himself with administration of the empire, erection of
+    edifices, framing of laws and ordinances, and regulation of rites and ceremonies.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says the name Pachacutec was well suited to him and that his fame
+    was immortalised.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pachacutec is described as a great king, a priest of the religion as characterized
+    by the narrator, and a mighty captain who acquired more provinces than his ancestors.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Pachacutec especially enriched the Temple of the Sun.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: He ordered walls of the temple, other buildings, and a cloister to be coated
+    with sheets of gold.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The narrator states that the same spot once occupied by the figure of the
+    Sun now holds the most holy sacrament.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The cloister is said to serve as a walk for processions and to be the convent
+    of San Domingo.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The narrator praises the Eternal Majesty for mercies.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Pachacutec
+  description: Ruler named as administering the empire, regulating rites, being famed
+    as king, priest, and captain, and enriching the Temple of the Sun.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Eternal Majesty
+  description: Divine being praised by the narrator for mercies.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: imperial administrator and lawgiver
+  assigned_to:
+  - fig:1
+  basis: Pachacutec is said to administer the empire and frame laws and ordinances.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ritual regulator and priestly ruler
+  assigned_to:
+  - fig:1
+  basis: He regulates rites and ceremonies and is described as a great priest of the
+    religion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: military captain and conqueror
+  assigned_to:
+  - fig:1
+  basis: He is called a mighty captain who acquired more provinces than his ancestors.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: temple patron
+  assigned_to:
+  - fig:1
+  basis: He enriches the Temple of the Sun and orders walls to be coated with gold
+    sheets.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: praised divine recipient
+  assigned_to:
+  - fig:2
+  basis: The narrator praises the Eternal Majesty for mercies.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Temple of the Sun
+  literal_form: temple of the Sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: gold-coated walls
+  literal_form: sheets of gold coating walls
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: figure of the Sun
+  literal_form: figure of the Sun
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: most holy sacrament
+  literal_form: most holy sacrament deposited at the same spot
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: cloister and convent of San Domingo
+  literal_form: cloister serving as a processional walk; convent of San Domingo
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Post-campaign administration
+  summary: After military strain, Pachacutec turns to governing, building, lawmaking,
+    and regulating rites and ceremonies.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fame of Pachacutec
+  summary: The passage presents Pachacutec as a famed king, priest, and captain with
+    greater conquests than his ancestors.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Enrichment of the Sun temple
+  summary: Pachacutec enriches the Temple of the Sun and orders temple, building,
+    and cloister walls coated in gold sheets.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Christian use of the former Sun-temple locus
+  summary: The narrator says the holy sacrament now occupies the spot where the figure
+    of the Sun once stood, and the cloister is used for processions in the convent
+    of San Domingo.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: royal authority through governance, ritual, conquest, and temple patronage
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Pachacutec's fame is grounded in administration, lawmaking, ritual regulation,
+    priestly status, military conquest, and enrichment of the Sun temple.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage supports royal prestige and sacred-political authority, but
+    it does not describe an accession myth, divine descent, or formal legitimation
+    ceremony.
+- id: motif:2
+  label: ruler as sacred builder and temple patron
+  taxonomy_refs: []
+  basis: The ruler erects edifices, regulates rites, enriches the Temple of the Sun,
+    and coats sacred architectural walls with gold.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level pattern of royal sacred patronage rather than
+    a complete narrative motif.
+- id: motif:3
+  label: sacred-site succession and ritual replacement
+  taxonomy_refs: []
+  basis: The passage explicitly states that the same spot once holding the figure
+    of the Sun now holds the holy sacrament, while the cloister now serves Christian
+    processions.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The account is framed by a Christian narrator; it does not establish continuity
+    of belief, only succession of sacred use at the same location.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious same-function comparison between the former
+    Inca Sun figure and the later Christian sacrament as sacred focal objects occupying
+    the same spot, with the cloister also continuing as a ritual processional space.
+  claim_level: same_function
+  target: Christian sacramental and processional use at San Domingo compared with
+    the former Inca Sun-temple locus
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a Christian authorial interpretation and a shared
+    location, but it does not provide detailed ritual equivalence or claim that the
+    traditions share the same motif historically.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8666-8672
+  quote_or_summary: An army in the field had strained resources; Pachacutec then occupied
+    himself with administration, edifices, laws, ordinances, rites, and ceremonies.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 8672-8678
+  quote_or_summary: His name Pachacutec is said to suit him; his fame is described
+    in terms of great kingship, priestly status, military captaincy, and acquisition
+    of more provinces than his ancestors.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8678-8684
+  quote_or_summary: He especially enriched the Temple of the Sun and ordered walls
+    of the temple, other buildings, and a cloister to be coated with sheets of gold.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8684-8691
+  quote_or_summary: The narrator says the same spot once occupied by the figure of
+    the Sun now holds the most holy sacrament; the cloister is used for processions
+    and is the convent of San Domingo; the Eternal Majesty is praised.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear for figures, actions, sacred objects, and site succession.
+    Motif labels are cautious because the passage is historical-commentarial rather
+    than a full mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were applied only where directly supported.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l8666-l8691
+  passage_sha256=dfbcfd5a1c08e64873302988e399cf1b1698eb7c16517f2d0b917c9228e4b441
+

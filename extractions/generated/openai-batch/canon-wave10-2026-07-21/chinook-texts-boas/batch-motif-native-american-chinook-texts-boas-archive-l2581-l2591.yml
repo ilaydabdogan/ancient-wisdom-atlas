@@ -1,0 +1,411 @@
+---
+record_id: batch.motif.native-american-chinook-texts-boas-archive-l2581-l2591
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+passage_locator:
+  label: Chinook Texts / BOAS J / BOAS J; lines 2581-2591
+  start: '2581'
+  end: '2591'
+  translation: Chinook Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a procedure used when a "strong man" has been shot:
+    one or sometimes two children are prepared with face paint and tied hair; water
+    is poured on the wounded man and the arrow removed; paired attendants, a girl
+    and a boy, hold ritual objects; a man on the roof pours water so the blood comes
+    out; if no "strong man" is available, a paid sucking shaman removes the blood.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When a "strong man" is shot, a child is prepared for the procedure.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The child's face is painted red or sometimes black, and the child's hair is
+    tied up over the forehead.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sometimes two children are prepared.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Water is poured on the shot "strong man," and the arrow is removed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When two persons look after the wounded man, one is a girl and one is a boy.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The girl is placed on one side of the house and holds a torch in one hand
+    and a rattle in the other.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The boy is placed at the other side of the house and has a whistle.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A man on top of the house pours water on the wounded "strong man."
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After the water is poured, all the blood comes out of the "strong man."
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: If there is no "strong man" in a town, a sucking shaman is paid to suck out
+    the blood from the person who was shot.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: shot "strong man"
+  description: A "strong man" who has been shot and is treated by water-pouring and
+    arrow removal.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: prepared child
+  description: A child whose face is painted red or black and whose hair is tied up
+    over the forehead.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: girl attendant
+  description: A girl placed on one side of the house, holding a torch and a rattle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: boy attendant
+  description: A boy placed at the other side of the house, having a whistle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: man on top of the house
+  description: A man positioned on top of the house who pours water on the wounded
+    "strong man."
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: sucking shaman
+  description: A shaman who is paid to suck out blood from the person who was shot
+    when no "strong man" is in the town.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: person who was shot
+  description: The wounded person from whom the paid shaman sucks out blood if no
+    "strong man" is present.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: wounded recipient of treatment
+  assigned_to:
+  - fig:1
+  - fig:7
+  basis: The figure has been shot and is the person from whom the arrow or blood is
+    removed.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: prepared child participant
+  assigned_to:
+  - fig:2
+  basis: The passage says a child is made ready with face paint and tied hair.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: paired child attendant
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage describes a girl and a boy looking after the wounded man from
+    opposite sides of the house with ritual objects.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: water-pourer
+  assigned_to:
+  - fig:5
+  basis: The man on top of the house pours water on the wounded "strong man."
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: paid blood-sucking healer
+  assigned_to:
+  - fig:6
+  basis: If no "strong man" is present, a shaman who sucks is paid to remove the blood.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water poured on the wounded "strong man"
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: torch
+  literal_form: torch held by the girl
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: rattle
+  literal_form: rattle held by the girl
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: whistle
+  literal_form: whistle held by the boy
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: arrow
+  literal_form: arrow taken out of the shot "strong man"
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: blood
+  literal_form: blood that comes out or is sucked out from the wounded person
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: red or black face paint
+  literal_form: face painted red or sometimes black
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:8
+  label: house
+  literal_form: house with children placed on opposite sides and a man on top
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Preparation of child participant
+  summary: A child, or sometimes two children, is made ready with red or black face
+    paint and hair tied over the forehead after a "strong man" is shot.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Water-pouring and arrow removal
+  summary: Water is poured on the wounded "strong man," and the arrow is taken out.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Paired attendants at opposite sides of the house
+  summary: A girl and a boy look after the wounded man from opposite sides of the
+    house; the girl holds a torch and rattle, and the boy has a whistle.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:8
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Roof water-pouring and blood extraction
+  summary: A man on top of the house pours water on the wounded "strong man," after
+    which all the blood comes out.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Alternative shamanic blood removal
+  summary: If no "strong man" is present in a town, a paid sucking shaman sucks out
+    blood from the person who was shot.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual treatment of an arrow wound
+  taxonomy_refs: []
+  basis: The passage gives a structured treatment sequence for a person shot with
+    an arrow, including preparation of children, pouring water, removing the arrow,
+    and extracting blood.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a procedural ritual description rather than a narrative episode;
+    no broader mythic classification is explicit in the passage.
+- id: motif:2
+  label: paired male and female attendants with ritual instruments
+  taxonomy_refs: []
+  basis: The wounded person is looked after by a girl and a boy placed on opposite
+    sides of the house, with the girl holding a torch and rattle and the boy having
+    a whistle.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage states the arrangement but does not explain its meaning.
+- id: motif:3
+  label: removal of harmful blood by water or sucking
+  taxonomy_refs: []
+  basis: Blood comes out after water is poured on the wounded "strong man," and an
+    alternative procedure has a paid shaman suck out the blood.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage identifies blood removal but does not state whether the blood
+    is ritually, medically, or spiritually interpreted.
+- id: motif:4
+  label: specialist substitution in healing procedure
+  taxonomy_refs: []
+  basis: If no "strong man" is available in a town, a paid sucking shaman performs
+    the blood-removal procedure.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The relationship between the "strong man" and the shaman is not explained
+    beyond the stated substitution.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2581-2582
+  quote_or_summary: '"When a \"strong man\" is shot, a child is made ready. Its face
+    is painted red or sometimes black. Its hair is tied up over its forehead."'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: 2582-2584
+  quote_or_summary: '"Sometimes two children are made ready. Then water is poured
+    on the \"strong man\" who has been shot, and the arrow is taken out."'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: 2584-2587
+  quote_or_summary: When two persons look after the wounded man, one is a girl and
+    one is a boy; the girl stands on one side of the house with a torch and rattle,
+    and the boy stands on the other side with a whistle.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 2587-2589
+  quote_or_summary: A man on top of the house pours water on the wounded "strong man,"
+    and all the blood comes out.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 2589-2591
+  quote_or_summary: If a town has no "strong man," a paid shaman who sucks removes
+    the blood from the person who was shot.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the passage. Motif labels are descriptive
+    and not tied to a supplied taxonomy family. No comparison claims are made because
+    the passage itself does not support comparison to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the provided passage and metadata. Taxonomy symbol refs were applied only for explicit water and torch/fire imagery.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-chinook-texts-boas-archive__l2581-l2591
+  passage_sha256=339a006f086441ec2bfd620d330bc231080a47c7b711b52c88e6e1beb9c8b930
+

@@ -1,0 +1,388 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l26908-l27006
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: DAJVCES , SPORTS , AND  GAMES / NURSERY  RHYMES / HANTU  MUSANG / DANCES
+    , SPORTS , GAMES; lines 26908-27006
+  start: '26908'
+  end: '27006'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage records children''s game actions with Malay nursery rhymes
+    and English renderings: a paired rocking game about Father Ponggor, a dead climbing
+    rattan, and Si ''Ali without food; a little-finger rocking game mentioning a cooking-pot
+    from Java, Uncle Bagok with a crab, vessels for water and fire, a granny, and
+    a collapsing house; a seated rhyme about a bucket rope drawing water from a deep
+    hole under clouds. A note warns that the translations are tentative, and a minor
+    game Tuju lobang is said to appear identifiable with Koba.'
+  language: English with Malay rhyme text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two players raise their hands above their heads; one rocks to and fro with
+    folded arms while the other holds that player by the arms and cries or sings.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first sung text addresses Father Ponggor and says that the climbing rattan
+    is dead.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The first sung text says Si 'Ali has gone to the plain, is sheltered by leaves,
+    and has nothing to eat for a day or a year.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: In the next game, the players hook their little fingers together and rock
+    their bodies to and fro while singing.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The second sung text mentions a cooking-pot from Java, Uncle Bagok bringing
+    a crab, a dish for water, a dish for fire, a granny, and the house tumbling down.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Finally, the players sit still with hands clasped on their knees and sing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The final sung text mentions the rope of a bucket, drawing water from a deep
+    hole, the middle of the hole, clouds, and looking up at the welkin.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A footnote states that the nursery-rhyme translations are tentative and necessarily
+    imperfect.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage states that the minor children's game Tuju lobang appears identifiable
+    with Koba.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: two players
+  description: The participants in the described children's games; they raise hands,
+    rock, hook little fingers, sit still, and sing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Father Ponggor
+  description: A figure addressed in the first song; the associated line says the
+    climbing rattan is dead.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Si 'Ali
+  description: A figure in the first song who has gone to the plain, is sheltered
+    by leaves, and has nothing to eat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Uncle Bagok
+  description: A figure in the second song who comes bringing a crab.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: granny
+  description: A kin figure addressed in the second song when the house is said to
+    be tumbling down.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: game participants and singers
+  assigned_to:
+  - fig:1
+  basis: The passage describes the players performing the game gestures and singing
+    the rhymes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: addressed father figure in rhyme
+  assigned_to:
+  - fig:2
+  basis: The first song addresses Father Ponggor by name.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: absent hungry figure in rhyme
+  assigned_to:
+  - fig:3
+  basis: Si 'Ali is said to have gone to the plain and to have nothing to eat.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: arriving bearer of crab
+  assigned_to:
+  - fig:4
+  basis: The second song says Uncle Bagok comes bringing a crab.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: elder kin addressee
+  assigned_to:
+  - fig:5
+  basis: The second song calls out to granny while saying the house is tumbling down.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: dead climbing rattan
+  literal_form: the climbing rattan is dead
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: plain and leaf shelter
+  literal_form: Si 'Ali gone to the plain, sheltered by the leaves
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: cooking-pot from Java
+  literal_form: the cooking-pot from Java
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: crab
+  literal_form: a crab brought by Uncle Bagok
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: water
+  literal_form: a dish to put water in; water drawn from a deep hole
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:6
+  label: fire
+  literal_form: a dish to put fire in
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: tumbling house
+  literal_form: our house is tumbling down
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:8
+  label: bucket rope and deep hole
+  literal_form: the rope of a bucket used to draw water from a deep hole
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: clouds and welkin
+  literal_form: veiled by the clouds, looking up at the welkin
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: paired rocking game with Father Ponggor rhyme
+  summary: Two players perform a rocking action while singing about Father Ponggor,
+    a dead climbing rattan, and Si 'Ali without food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: little-finger rocking game with collapsing-house rhyme
+  summary: The players hook little fingers and rock while singing of a cooking-pot
+    from Java, Uncle Bagok with a crab, vessels for water and fire, a granny, and
+    a house tumbling down.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: seated bucket-rope rhyme
+  summary: The players sit still with hands on knees and sing about a bucket rope,
+    drawing water from a deep hole, clouds, and the welkin.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: paired rocking game with sung refrain
+  taxonomy_refs: []
+  basis: The passage repeatedly connects bodily rocking by two players with sung nursery-rhyme
+    text.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a children's-game pattern rather than a developed mythic narrative
+    motif.
+- id: motif:2
+  label: hunger and absence in rhyme
+  taxonomy_refs: []
+  basis: The first song describes Si 'Ali as gone to the plain and lacking food for
+    a day and for a year.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: No cause, outcome, or wider narrative context is provided.
+- id: motif:3
+  label: house collapse appeal to elder kin
+  taxonomy_refs: []
+  basis: The second song addresses granny and states that the house is tumbling down.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives this only as a nursery-rhyme image.
+- id: motif:4
+  label: water drawn from a deep hole
+  taxonomy_refs: []
+  basis: The final rhyme centers on a bucket rope used to draw water from a deep hole.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The translation is explicitly tentative, and no ritual or cosmological
+    interpretation is supplied.
+- id: motif:5
+  label: paired containers for water and fire
+  taxonomy_refs: []
+  basis: The second rhyme juxtaposes a dish for water with a dish for fire.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage does not explain the function of the pairing; it may be nonsensical
+    nursery-rhyme imagery.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously identifies the minor children's game Tuju lobang with
+    Koba.
+  claim_level: same_function
+  target: Koba, a game name mentioned in the passage
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The excerpt supplies only the asserted identification and does not
+    include the rules or detailed grounds for comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 26908-27006; first rocking-game description and Father Ponggor rhyme
+  quote_or_summary: Both players raise hands; one rocks while the other holds the
+    arms. The song addresses Father Ponggor, says the climbing rattan is dead, and
+    says Si 'Ali has gone to the plain, is sheltered by leaves, and has nothing to
+    eat for a day or a year.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; provided metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 26908-27006; little-finger rocking-game rhyme
+  quote_or_summary: The players hook little fingers and rock while singing of a cooking-pot
+    from Java, Uncle Bagok bringing a crab, dishes for water and fire, granny, and
+    a house tumbling down.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; provided metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 26908-27006; final seated rhyme
+  quote_or_summary: The players sit still with hands clasped on knees and sing of
+    the rope of a bucket, drawing water from a deep hole, clouds, and looking up at
+    the welkin.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; provided metadata permits full text use.
+- id: ev:4
+  type: note
+  locator: lines 26908-27006; footnote to nursery-rhyme translations
+  quote_or_summary: The note says the nursery rhymes are almost impossible to translate
+    satisfactorily and that the given versions are tentative and necessarily imperfect.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; provided metadata permits full text use.
+- id: ev:5
+  type: quote
+  locator: lines 26908-27006; minor children's games note
+  quote_or_summary: Tuju lobang “appears to be identifiable with ‘Koba’.”
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; provided metadata permits full text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The extraction is based on a short public-domain passage, but the passage
+    itself warns that the nursery-rhyme translations are tentative, and OCR irregularities
+    are visible.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No mythological taxonomy motif family was assigned because the passage presents children's games and nursery-rhyme images without an explicit mythic narrative or interpretive frame.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l26908-l27006
+  passage_sha256=9e10c5f38daaf1b6e73067fe0b5cadc09e6155484a1cd0db68a2a4539e336956
+

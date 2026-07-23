@@ -1,0 +1,197 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l12869-l12889
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: THE   LARGE   INSCRIPTION   OF  DARIUS  181 / THE   LARGE   INSCRIPTION   OF   DARIUS  183
+    / THE   LARGE   INSCRIPTION  OF   DARIUS  185 / II.    SEAL   INSCRIPTION   OF   DARIUS;
+    lines 12869-12889
+  start: '12869'
+  end: '12889'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: I am Darius, the great king, king of kings, king of countries, king of this
+    earth, the son of Hystaspes, the Achsemenian.
+  summary: The passage contains fragmentary royal address attributed to Darius, followed
+    by short Achaemenian inscriptions in which Cyrus and Darius identify themselves
+    by name, dynasty, kingship titles, and Darius's paternal lineage.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A fragmentary line presents Darius the king addressing a person who later
+    becomes king.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cyrus identifies himself as Cyrus and as an Achaemenian.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Darius identifies himself as the great king in a seal inscription.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In the Kerman inscription, Darius names himself as great king, king of kings,
+    king of countries, king of this earth, son of Hystaspes, and Achaemenian.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage is organized as smaller Achaemenian inscriptions with sections
+    for Cyrus and Darius.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Darius
+  description: Named as king, great king, king of kings, king of countries, king of
+    this earth, son of Hystaspes, and Achaemenian.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Cyrus
+  description: Identifies himself as Cyrus, the Achaemenian.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Hystaspes
+  description: Named as the father of Darius.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: king
+  assigned_to:
+  - fig:1
+  basis: Darius is called king and identifies himself as the great king.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: king of kings
+  assigned_to:
+  - fig:1
+  basis: The Kerman inscription applies the title king of kings to Darius.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: Achaemenian dynastic figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both Cyrus and Darius identify themselves as Achaemenian.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: father of Darius
+  assigned_to:
+  - fig:3
+  basis: Darius is identified as the son of Hystaspes.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Royal self-identification in Achaemenian inscriptions
+  summary: Cyrus and Darius are presented through brief inscriptional formulas that
+    state names, royal titles, dynastic identity, and, for Darius, paternal lineage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Fragmentary address to a future king
+  summary: A damaged passage attributes speech to Darius the king and addresses someone
+    who will later become king.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: Royal legitimacy through title, dynasty, and lineage
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The inscriptions establish royal identity by naming Darius as great king,
+    king of kings, king of countries, king of this earth, son of Hystaspes, and Achaemenian;
+    Cyrus is also identified as Achaemenian.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is inscriptional and formulaic; it does not narrate a mythic
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12869-12870
+  quote_or_summary: '"Thus speaks Darius the king: Thou who later dost become king"
+    followed by fragmentary text.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 12874-12876
+  quote_or_summary: 'Under the Cyrus inscription: "I am Cyrus, the Achasmenian."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 12878-12880
+  quote_or_summary: 'Under the seal inscription of Darius: "I am Darius, the great
+    king."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 12882-12886
+  quote_or_summary: Darius identifies himself as "the great king, king of kings, king
+    of countries, king of this earth, the son of Hystaspes, the Achsemenian."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and largely formulaic, so literal extraction is strong,
+    while motif identification is limited to royal legitimacy markers.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No symbols from the provided symbol taxonomy are present in the passage; no comparison claims were added because the passage itself does not support an explicit comparative link.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l12869-l12889
+  passage_sha256=3ddebf56f7ff754da5d0d02c4b49f1950ee672bbda1ec2e1cbfbc865f46d0c66
+

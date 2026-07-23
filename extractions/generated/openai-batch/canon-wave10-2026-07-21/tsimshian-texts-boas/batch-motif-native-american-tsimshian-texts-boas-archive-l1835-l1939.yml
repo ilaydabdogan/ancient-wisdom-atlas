@@ -1,0 +1,600 @@
+---
+record_id: batch.motif.native-american-tsimshian-texts-boas-archive-l1835-l1939
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+passage_locator:
+  label: Tsimshian Texts; lines 1835-1939
+  start: '1835'
+  end: '1939'
+  translation: Tsimshian Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: The eagles reciprocated.
+  summary: A prince first feeds many eagles with salmon and uses their feathers for
+    arrows. In winter, after his father’s people move away and leave him with his
+    grandmother and a small slave, the eagles repeatedly bring food from the beach
+    and water, progressing from small fish to large sea mammals and whales. The narrator
+    explicitly states that the eagles repay the prince’s earlier kindness.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The prince gives salmon to many eagles, gathers their feathers, and uses the
+    feathers to make swift arrows.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In winter the stored salmon is exhausted, and the people do not give salmon
+    to the prince.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The great chief orders the people to move, and they leave the chief’s son,
+    his little grandmother, and a small weak slave behind with boxes of arrows.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The prince’s mother hides fire and half of a large spring salmon in a clam
+    shell and tells the grandmother where they are hidden.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Eagles screeching on the beach or water lead the slave and prince to food
+    animals left there.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+- id: obs:6
+  text: The foods found after the eagles appear include trout, sculpin, spring salmon,
+    halibut, seal, porpoise, sealion, and whales.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+- id: obs:7
+  text: The prince, grandmother, and slave roast, split, dry, store, and put away
+    the foods brought by the eagles.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+- id: obs:8
+  text: The small slave becomes stronger after receiving much food.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The narrator states that the eagles returned the food the prince had given
+    them and fed him because he had pitied them in summer.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The people of the prince’s father, who had left him, are described as dying
+    while the prince’s household receives abundant food.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: prince / chief’s son
+  description: A chief’s son who feeds eagles, makes arrows with eagle feathers, is
+    left behind in winter, and later receives food brought by eagles.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:9
+  - ev:11
+- id: fig:2
+  name_or_label: eagles
+  description: Many eagles eat salmon given by the prince, later appear at the beach
+    or water, and provide fish, sea mammals, and whales to the prince’s household.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:9
+  - ev:11
+- id: fig:3
+  name_or_label: great chief / father
+  description: The great chief feels sad when food is gone and orders the people to
+    move; the later passage refers to the people of the prince’s father.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:11
+- id: fig:4
+  name_or_label: great slave
+  description: The great chief’s slave runs out and announces the order for the tribe
+    to move.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: people / tribe of the father
+  description: The people move away, leave the prince’s household behind, and are
+    later described as dying.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:11
+- id: fig:6
+  name_or_label: little grandmother / little old woman
+  description: The prince’s grandmother remains with him, tends the hidden fire, and
+    splits or prepares the food brought in.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: little slave
+  description: A small weak slave is left with the prince, repeatedly goes down to
+    the beach to inspect the eagles’ cries, carries or reports food, and grows stronger.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+- id: fig:8
+  name_or_label: mother of the prince
+  description: She hides fire and half a large spring salmon in a clam shell and tells
+    the grandmother where they are hidden.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: initial food giver to eagles
+  assigned_to:
+  - fig:1
+  basis: The prince gives salmon to many eagles before winter.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: reciprocal animal food providers
+  assigned_to:
+  - fig:2
+  basis: The eagles later bring food and are explicitly said to reciprocate the prince’s
+    summer gift.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+  - ev:11
+- id: role:3
+  label: abandoned household
+  assigned_to:
+  - fig:1
+  - fig:6
+  - fig:7
+  basis: The people leave the prince, his grandmother, and a small slave behind.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: departing group and move-ordering figures
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The chief orders movement, the great slave announces it, and the people move
+    away.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: food preparers and storers
+  assigned_to:
+  - fig:1
+  - fig:6
+  - fig:7
+  basis: The household roasts, splits, dries, stores, and puts away the food provided.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+- id: role:6
+  label: hidden provisioner
+  assigned_to:
+  - fig:8
+  basis: The mother conceals fire and salmon for the abandoned household.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: eagles
+  literal_form: Many eagles that eat salmon and later bring food from beach and water.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:9
+  - ev:11
+- id: sym:2
+  label: salmon and stored food
+  literal_form: Salmon, dried salmon, berries, grease, and later dried fish and meat
+    stored in houses.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: arrows with eagle feathers
+  literal_form: Boxes full of arrows made with eagle feathers fastened to the shafts.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: hidden fire in a clam shell
+  literal_form: Fire hidden inside a clam shell along with half of a large spring
+    salmon.
+  associated_figures:
+  - fig:8
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: beach, water, and tide
+  literal_form: Low water, beach, eagles on the water, and a rising and falling tide
+    used to bring tied sealions ashore.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:10
+- id: sym:6
+  label: escalating food animals
+  literal_form: Trout, sculpin, spring salmon, halibut, seal, porpoise, sealion, and
+    whales brought or indicated by eagles.
+  associated_figures:
+  - fig:2
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+scenes:
+- id: scene:1
+  label: Summer feeding of eagles and arrow-making
+  summary: The prince gives salmon to many eagles, gathers their feathers, and makes
+    many swift arrows with them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Winter abandonment and hidden provisions
+  summary: When stored food is exhausted, the chief orders the tribe to move. The
+    prince, grandmother, and small slave are left behind, while the mother hides fire
+    and salmon for them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: First small fish from the eagles
+  summary: After hunger, eagles screech on the beach, and the slave finds a trout
+    and then sculpin, which are roasted for food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Larger fish and stored salmon
+  summary: The eagles bring larger fish including spring salmon and halibut. The prince
+    and grandmother carry, split, dry, and store the food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Sea mammals and abundance
+  summary: The eagles provide seal, porpoise, and sealions. The household cuts, dries,
+    stores fat and meat, and uses cedar twigs and the tide to bring sealions ashore.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+- id: scene:6
+  label: Whales brought while the leavers die
+  summary: The father’s people are dying, while many eagles bring whales to the prince’s
+    household; four whales are given to the prince, grandmother, and slave.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:11
+- id: scene:7
+  label: Explicit statement of reciprocity
+  summary: The narrator explains that the eagles fed the prince because he had earlier
+    pitied and fed them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: reciprocal food exchange with animal helpers
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The prince first feeds the eagles, and the narrator later states that the
+    eagles returned the food and fed him because he had pitied them.
+  evidence_refs:
+  - ev:1
+  - ev:9
+  - ev:3
+  - ev:4
+  - ev:11
+  confidence: high
+  cautions: The taxonomy label is broad; the passage presents reciprocity directly,
+    but not necessarily as a formal ritual exchange.
+- id: motif:2
+  label: abandoned noble child survives through animal aid
+  taxonomy_refs: []
+  basis: The chief’s son is left behind with a grandmother and weak slave when the
+    tribe moves, and eagles subsequently provide enough food for them to survive and
+    prosper.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:9
+  - ev:11
+  confidence: medium
+  cautions: The passage shows abandonment and survival, but it does not by itself
+    identify a full quest or initiation structure.
+- id: motif:3
+  label: progression from scarcity to overflowing stored abundance
+  taxonomy_refs: []
+  basis: After hunger and lack of salmon, eagle-provided foods increase from small
+    fish to salmon, halibut, seal, porpoise, sealions, and whales, filling houses
+    with food.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: This is a narrative pattern in the passage; no specific external taxonomy
+    reference is asserted.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a comparison to a sacred-exchange motif function, because
+    benefaction toward eagles is explicitly repaid by the eagles during the prince’s
+    famine.
+  claim_level: same_function
+  target: motif_family:sacred_exchange
+  evidence_refs:
+  - ev:1
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This claim is functional only; the passage alone does not establish
+    historical contact, common inheritance, or a wider cross-text relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1835-1843
+  quote_or_summary: The prince gives salmon to many eagles, gathers their feathers,
+    and uses the feathers to make many swift arrows.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1844-1863
+  quote_or_summary: In winter the food is exhausted; the chief orders the tribe to
+    move, leaving the prince, his grandmother, and a weak small slave behind, while
+    the mother hides fire and half a spring salmon in a clam shell.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1864-1878
+  quote_or_summary: After hunger, an eagle screeches on the beach; the slave finds
+    a little trout, and the prince orders it roasted.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1879-1888
+  quote_or_summary: On following days eagles screech on the beach, and the slave finds
+    sculpin and other fish; the eagles give trout and sculpin for many days until
+    they have enough to eat.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1889-1900
+  quote_or_summary: Three eagles make noise, a large spring salmon is found, the prince
+    carries it up, and the grandmother splits it; this repeats until they dry many
+    spring salmon.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1901-1913
+  quote_or_summary: An eagle is seen far out on the water; a large halibut is found,
+    the prince drags it up, and the grandmother splits it.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 1914-1926
+  quote_or_summary: Many eagles are present; a large seal is found on the beach, the
+    prince drags it home, and they store the fat and dry the meat, filling another
+    house.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 1927-1933
+  quote_or_summary: The slave is now strong because he has much to eat; a large porpoise
+    is found, dragged home, cut, and stored, filling another house.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:9
+  type: quote
+  locator: lines 1934-1937
+  quote_or_summary: "“Thus the eagles returned the food that the prince had given
+    to them in the summer. The eagles reciprocated.”"
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:10
+  type: summary
+  locator: lines 1938-1952
+  quote_or_summary: Many eagles indicate a large sealion; the prince ties sealions
+    to shore with cedar twigs so the tide leaves them on the beach, and the household
+    gains much fat and meat.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:11
+  type: summary
+  locator: lines 1953-1939
+  quote_or_summary: The father’s people who left the prince are dying; many eagles
+    fly ashore with great whales, and four whales are given to the prince, grandmother,
+    and slave.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal narrative elements are clear in the supplied passage. Motif labels
+    are provisional and require human review, especially where no specific taxonomy
+    reference is available.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Line locators within the supplied range are approximate subdivisions based on passage order; the source-provided range is lines 1835-1939.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-tsimshian-texts-boas-archive__l1835-l1939
+  passage_sha256=50962381770d70cdeaf16a3c4755aabc6402593c54d177e2c6f63f630b7c6e2c
+

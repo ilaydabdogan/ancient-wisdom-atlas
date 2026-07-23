@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.inca-rites-laws-yncas-molina-markham-archive-l5886-l5899
+source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+passage_locator:
+  label: A   NAEEATIVE / COLLECTED / CHAPTER   I. / CHAPTER  11.; lines 5886-5899
+  start: '5886'
+  end: '5899'
+  translation: Narratives of the Rites and Laws of the Yncas
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The chapter heading announces a continuation of Coniraya's account and
+    says he became enamoured of the goddess Cavillaca. The passage says Coniraya Uiracocha
+    appeared in ancient times as a poor Indian in rags, was reviled by people who
+    did not know him, and was identified as the Creator of all things who formed agricultural
+    terraces, fields, and supporting walls by command.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chapter heading says the account of Coniraya is continued and that he
+    became enamoured of the goddess Cavillaca.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Coniraya Uiracocha appeared in the form and dress of a very poor Indian clothed
+    in rags.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: People who did not know who he was reviled him and called him a lousy wretch.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage identifies Coniraya Uiracocha as the Creator of all things.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: By his word of command, Coniraya Uiracocha caused terraces and fields to be
+    formed on steep ravine sides and caused sustaining walls to rise up and support
+    them.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Coniraya Uiracocha
+  description: A being who appeared as a very poor Indian in rags, was identified
+    as the Creator of all things, and by command formed terraces, fields, and supporting
+    walls.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Cavillaca
+  description: A goddess named in the chapter heading as the one of whom Coniraya
+    became enamoured.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Those who knew not who he was
+  description: People who did not recognize Coniraya Uiracocha and reviled him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: disguised or humble-appearing divine figure
+  assigned_to:
+  - fig:1
+  basis: He appeared in the form and dress of a very poor Indian clothed in rags while
+    later being identified as Creator of all things.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: creator and landscape former
+  assigned_to:
+  - fig:1
+  basis: The passage calls him the Creator of all things and says he caused terraces,
+    fields, and sustaining walls to form by command.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: goddess named as object of Coniraya's love
+  assigned_to:
+  - fig:2
+  basis: The heading says Coniraya became enamoured of the goddess Cavillaca.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: unrecognizing revilers
+  assigned_to:
+  - fig:3
+  basis: They did not know who Coniraya was and reviled him.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: ragged poor appearance
+  literal_form: the form and dress of a very poor Indian clothed in rags
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: agricultural terraces and supporting walls
+  literal_form: terraces, fields, and sustaining walls on steep sides of ravines
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: word of command
+  literal_form: his word of command
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Chapter announcement of Coniraya and Cavillaca
+  summary: The heading announces that the account of Coniraya continues and includes
+    how he became enamoured of the goddess Cavillaca.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Coniraya appears in poverty and is reviled
+  summary: In ancient times Coniraya Uiracocha appears in a poor ragged form, and
+    those who do not recognize him insult him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Creator forms terraces by command
+  summary: The passage identifies Coniraya Uiracocha as Creator and says his command
+    forms terraces, fields, and sustaining walls along ravines.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: hidden deity in humble disguise
+  taxonomy_refs:
+  - shapeshifter
+  basis: Coniraya Uiracocha appears in the form and dress of a ragged poor Indian
+    while being identified as the Creator of all things.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage says he appeared in this form and dress, but it does not narrate
+    a transformation process.
+- id: motif:2
+  label: creation or ordering of cultivated landscape by spoken command
+  taxonomy_refs: []
+  basis: Coniraya Uiracocha, identified as Creator, causes terraces, fields, and sustaining
+    walls to form by his word of command.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The excerpt ends mid-sentence, so the full extent of the creative act
+    is not visible here.
+- id: motif:3
+  label: divine beloved or deity enamoured of goddess
+  taxonomy_refs:
+  - divine_beloved
+  basis: The chapter heading says Coniraya became enamoured of the goddess Cavillaca.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The provided excerpt announces this episode in the heading but does not
+    yet narrate the relationship in detail.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5888-5890
+  quote_or_summary: The heading states that the account of Coniraya continues and
+    tells how he became enamoured of the goddess Cavillaca.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:2
+  type: quote
+  locator: lines 5892-5895
+  quote_or_summary: Coniraya Uiracocha appeared in the form and dress of a very poor
+    Indian clothed in rags, and those who did not know him reviled him.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; short excerpt/paraphrase used.
+- id: ev:3
+  type: quote
+  locator: lines 5896-5899
+  quote_or_summary: He is called the Creator of all things, and by his word of command
+    caused terraces, fields, and sustaining walls to rise on steep ravines.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; short excerpt/paraphrase used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited to the supplied line range, which ends mid-sentence.
+    No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to available motif family terms and applied cautiously.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-rites-laws-yncas-molina-markham-archive__l5886-l5899
+  passage_sha256=c9e9ea9200b3df2a01495282273e9febf40c2442024ca388c6e6dc45f1d3e448
+

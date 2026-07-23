@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l1417-l1457
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: SIR  JOHN  SUCKLING.  13 / MADAGASCAR  AND  THE  FRENCH.  15 / ROCHON'S  MAP.  17
+    / GRANDIDIER'S  MAP.  19; lines 1417-1457
+  start: '1417'
+  end: '1457'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports recent geographical journeys and map-making work in
+    Madagascar, including Richardson's 1877 journey, Mullens's general map, Grandidier's
+    sketch-map, and the need for further surveys and astronomical observations to
+    improve mapping of the island's mountainous central regions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In 1877 J. Richardson traveled from the Betsileo province to St. Augustine's
+    Bay on the south-west coast, crossing ground described as new to the authorial
+    context.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Recent additions to geographical knowledge were incorporated into a large
+    general map prepared by Dr. Mullens and published in May.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The general map included maps of the central provinces and Southern Madagascar,
+    added several routes, and used Grandidier's sketch-map as authority for other
+    parts of the country.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The author states that much further work is needed before a tolerably complete
+    general map of Madagascar can be said to exist.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Madagascar is described as nearly a thousand miles long and three hundred
+    and fifty miles wide at its greatest breadth.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Recent journeys are said to confirm the broad outlines in Grandidier's sketch-map
+    of an elevated mountainous and granitic region in the northern and eastern central
+    portion of the island.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The author says Madagascar's clear atmosphere and many prominent lofty hills
+    in the central regions provide facilities for map-making because visible points
+    can be used for bearings.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The author identifies exact fixing of prominent points by astronomical observations
+    as a major remaining need.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: J. Richardson
+  description: A traveler who made a journey in 1877 from the Betsileo province to
+    St. Augustine's Bay.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Dr. Mullens
+  description: The preparer of a large general map of Madagascar published in May.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: M. Grandidier
+  description: The maker or source associated with a sketch-map whose broad outlines
+    are discussed as generally confirmed by later journeys.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+roles:
+- id: role:1
+  label: journey-maker
+  assigned_to:
+  - fig:1
+  basis: The passage says a journey was made by J. Richardson from Betsileo province
+    to St. Augustine's Bay.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: map-preparer
+  assigned_to:
+  - fig:2
+  basis: The passage says the general map was prepared by Dr. Mullens.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: sketch-map authority
+  assigned_to:
+  - fig:3
+  basis: The passage says Grandidier's sketch-map formed authority for parts of the
+    country and that later journeys confirmed its broad outlines.
+  evidence_refs:
+  - ev:3
+  - ev:6
+symbols:
+- id: sym:1
+  label: mountainous central region
+  literal_form: elevated mountainous and granitic region; prominent and lofty hills
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Journey across southern Madagascar
+  summary: Richardson's 1877 journey runs from the Betsileo province to St. Augustine's
+    Bay on the south-west coast and is said to illuminate a previously little-known
+    northern part of Southern Madagascar.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Compilation and assessment of maps
+  summary: Recent geographical information is incorporated into Mullens's general
+    map, which includes earlier maps, route information, and reliance on Grandidier's
+    sketch-map; the author then notes that much further mapping remains necessary.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Mountainous terrain as aid to mapping
+  summary: The passage describes Madagascar's elevated central region, clear atmosphere,
+    and visible hills as useful for taking bearings, while calling for astronomical
+    observations to fix key points accurately.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1417-1422
+  quote_or_summary: In 1877 J. Richardson made a journey from the Betsileo province
+    to St. Augustine's Bay on the south-west coast, across new ground, increasing
+    knowledge of northern Southern Madagascar.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1424-1430
+  quote_or_summary: Recent additions to geographical knowledge were embodied in a
+    fine general map prepared by Dr. Mullens and published in May; it was described
+    as the largest map of the island yet constructed.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1430-1435
+  quote_or_summary: The map included maps of central provinces and Southern Madagascar,
+    added several routes, and used Grandidier's sketch-map as authority for other
+    parts of the country.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1437-1442
+  quote_or_summary: The author says much work remains before a tolerably complete
+    general map of the island can be claimed, and that detailed maps of special portions
+    are also needed.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 1442-1445
+  quote_or_summary: '"An island nearly a thousand miles long and three hundred and
+    fifty at its greatest breadth"'
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 1446-1452
+  quote_or_summary: Recent journeys are said to confirm the general truth of Grandidier's
+    sketch-map regarding the broad outlines of an elevated mountainous and granitic
+    region in the northern and eastern central part of Madagascar, though more contour
+    information is needed.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1453-1456
+  quote_or_summary: The passage describes a clear atmosphere and many prominent lofty
+    hills throughout the central regions, enabling visible points to be used for good
+    bearings in map-making.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1456-1457
+  quote_or_summary: The author says what is most needed is for more visible points
+    to be exactly fixed by astronomical observations.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is geographical and cartographic rather than mythological. Only
+    the literal mountain-related image is indexed as a symbol because the taxonomy
+    includes mountain; no mythic motif candidates or comparisons are supported by
+    the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No mythological narrative motifs are present in this passage; extraction focuses on literal cartographic observations and the only supported taxonomy symbol.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l1417-l1457
+  passage_sha256=b9c54cbdfa60c4e06cba3fa611a1dc1d175f39d04efa58041187310961cb4798
+

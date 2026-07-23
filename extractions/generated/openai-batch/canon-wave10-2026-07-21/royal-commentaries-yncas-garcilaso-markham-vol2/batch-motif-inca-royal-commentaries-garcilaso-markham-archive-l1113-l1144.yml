@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l1113-l1144
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: VOL.  II. / FIFTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. /
+    FIRST  BOOK  OF  THK; lines 1113-1144
+  start: '1113'
+  end: '1144'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator discusses the uncertainty of explaining where the diverse
+    peoples, animals, and crops of the New World came from, considers sea and land
+    arrival hypotheses, then declines to resolve the issue. He states that his subject
+    will be the origin, succession, conquests, laws, and government of the Kings Yncas,
+    after first treating the discovery of the New World and Peru.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage raises the question of where many New World tribes with different
+    languages and customs came from.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage considers arrival by sea in ships and arrival by land as possible
+    explanations, but presents difficulties for both.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The stated difficulties concern animals, domesticated animals, wild animals,
+    corn, pulses, fruit, foods, and the physical description of men as generally beardless.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The narrator says the matter is uncertain, says the effort to solve it is
+    wasted, and states that he will leave it alone because he is less competent to
+    inquire into it.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The narrator announces that he will treat the origin, succession, conquests,
+    laws, and government of the Kings Yncas, and first discuss the discovery of the
+    New World and Peru.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: narrating author
+  description: First-person narrator who evaluates the uncertainty of the origin question
+    and announces the scope of the following history.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: tribes of the New World
+  description: Many tribes described as having different languages and customs; the
+    passage also says the men are generally beardless.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Kings Yncas
+  description: Royal line named as the subject whose origin, succession, conquests,
+    laws, and government will be treated.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: questioning historian-narrator
+  assigned_to:
+  - fig:1
+  basis: The narrator weighs explanations for origins, declines to resolve them, and
+    defines the scope of his account.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: peoples of uncertain origin
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly asks where the diverse New World tribes came from.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: announced royal lineage subject
+  assigned_to:
+  - fig:3
+  basis: The Kings Yncas are named as the subject of an account of origin, succession,
+    conquests, laws, and government.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: New World
+  literal_form: New World
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: sea-route hypothesis
+  literal_form: sea in ships
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: land-route hypothesis
+  literal_form: land
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: animals and crops as origin evidence
+  literal_form: animals, domesticated animals, wild animals, corn, pulses, and fruit
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Unresolved origin problem
+  summary: The narrator considers the uncertain origin of New World peoples and associated
+    animals and foods, noting difficulties with both sea and land explanations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Transition to Inca royal history
+  summary: The narrator turns away from the unresolved origin question and announces
+    the coming treatment of the Kings Yncas and of the discovery of the New World
+    and Peru.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: unresolved origin of peoples and species
+  taxonomy_refs: []
+  basis: The passage centers on uncertainty about the origins of New World tribes,
+    animals, and crops and declines to settle the matter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a historiographic argument rather than a developed mythic narrative.
+- id: motif:2
+  label: dynastic royal origin as narrative program
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The narrator announces that he will treat the origin, succession, conquests,
+    laws, and government of the Kings Yncas.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage only announces the royal-origin topic; it does not yet narrate
+    a legitimating myth or rite.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1113-1118
+  quote_or_summary: The narrator asks where the many New World tribes, with different
+    languages and customs, could have come from.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized by extractor.
+- id: ev:2
+  type: summary
+  locator: lines 1118-1127
+  quote_or_summary: The passage considers arrival by sea in ships and arrival by land,
+    then raises difficulties about how animals would have been transported or omitted.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized by extractor.
+- id: ev:3
+  type: summary
+  locator: lines 1127-1135
+  quote_or_summary: The passage notes that New World corn, pulses, fruit, animals,
+    food, and generally beardless men differ from those of the Old World.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized by extractor.
+- id: ev:4
+  type: summary
+  locator: lines 1135-1139
+  quote_or_summary: The narrator states that the matter is uncertain, says the effort
+    to solve it is wasted, and says he will leave it alone because he is less competent
+    to investigate it.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized by extractor.
+- id: ev:5
+  type: summary
+  locator: lines 1139-1144
+  quote_or_summary: The narrator says he will treat the origin, succession, conquests,
+    laws, and government of the Kings Yncas, and first discuss the discovery of the
+    New World and Peru.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized by extractor.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif candidates are cautious
+    because the passage is a prefatory historiographic discussion, not a full myth
+    episode. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the provided passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l1113-l1144
+  passage_sha256=6addedb67f5770b9c5fbbc27664dffb3c735f000b837208781fb872f717369aa
+

@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l15431-l15442
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE  ORIGIN  OF  THE  GEESE  MEDICINE.  3O3 / THE  WONDERFUL  BOY  WHO  KILLED  HIS  FATHER.  305
+    / THE  WONDERFUL  BOY  WHO  KILLED  HIS  FATHER.  307 / THE  MEDICINE-MAN  WHO  KILLED  HIS  SON.  309;
+    lines 15431-15442
+  start: '15431'
+  end: '15442'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A man returns home without his son. The boy’s mother and father search
+    through the village, fail to find him, and mourn him as dead. Years later the
+    father marries another woman. After the boy has been thrown into the river, the
+    water carries his body downstream to an animals’ lodge, where the animals say
+    that if he is to be brought back to life he must be taken to Pahuk.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The wife asks the man where her son is, and the man says he does not know.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman and the man search through the village for their son, but the boy
+    is not found.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The woman mourns and the father cries after the boy is not found.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: From that time onward, the boy is dead to his parents.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Many years later, the boy’s father marries another woman and no longer lives
+    with the boy’s mother.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: After the boy is thrown into the river, the water carries his body downstream.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The boy’s body comes to an animals’ lodge and is stopped there.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The animals say it is not their place to touch the boy and that, if he is
+    to be brought back to life, he must be taken to Pahuk.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the man / boy’s father
+  description: The boy’s father returns home without his son, searches for him, cries,
+    and later marries another woman.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the wife / boy’s mother
+  description: The boy’s mother asks where her son is, searches for him, mourns, and
+    is later no longer living with the boy’s father.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: the boy / son
+  description: The missing son is considered dead by his parents; his body is later
+    described as being carried downstream by the river to an animals’ lodge.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: another woman
+  description: A woman whom the boy’s father marries many years later.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: the animals
+  description: Animals at an animals’ lodge speak about not touching the boy and about
+    the condition for bringing him back to life.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: father
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the man as the boy’s father.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: mother
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the first wife as the mother of the boy.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: mourning parent
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: 'Both parents respond to the missing boy with grief: the woman mourns and
+    the father cries.'
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: missing dead son
+  assigned_to:
+  - fig:3
+  basis: The boy is not found, is treated as dead to his parents, and his body is
+    carried by the river.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: later wife
+  assigned_to:
+  - fig:4
+  basis: The father marries another woman many years afterward.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: speaking animals at lodge
+  assigned_to:
+  - fig:5
+  basis: The animals speak about what must happen if the boy is to be brought back
+    to life.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: river water
+  literal_form: water of the river carrying the boy’s body downstream
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: animals’ lodge
+  literal_form: a lodge belonging to animals where the boy’s body stops
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Pahuk
+  literal_form: named place to which the animals say the boy must be taken if he is
+    to be brought back to life
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Parents search and mourn the missing boy
+  summary: The father returns home without the boy, the mother asks after him, both
+    parents search the village, and they grieve when he is not found.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Boy’s body reaches the animals’ lodge
+  summary: After being thrown into the river, the boy’s body is carried downstream
+    until it is stopped at an animals’ lodge, where the animals say he must be taken
+    to Pahuk if he is to be restored to life.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Father remarries after years pass
+  summary: Many years after the boy is lost, the father marries another woman and
+    no longer lives with the boy’s mother.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Dead or lost child mourned by parents
+  taxonomy_refs: []
+  basis: The parents search unsuccessfully for their son and respond with mourning
+    and crying, treating him as dead.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This motif label is descriptive and not tied to an available taxonomy
+    reference.
+- id: motif:2
+  label: Body carried by water to a special place
+  taxonomy_refs: []
+  basis: The boy’s body is carried downstream by the river and stopped at an animals’
+    lodge.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the larger significance of the animals’ lodge
+    within this excerpt.
+- id: motif:3
+  label: Possible restoration to life requiring transfer to a named place
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: The animals state that if the boy is to be brought back to life, he must
+    be taken to Pahuk.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt only states the condition for bringing the boy back to life;
+    it does not show the revival taking place.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15431-15435
+  quote_or_summary: The man returns home; his wife asks where her son is; both parents
+    search the village, and when the boy is not found the woman mourns and the father
+    cries.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 15435-15437
+  quote_or_summary: The boy is thereafter dead to his parents; many years later the
+    father marries another woman and no longer lives with the boy’s mother.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 15439-15441
+  quote_or_summary: After the boy is thrown into the river, the water carries his
+    body downstream until it reaches and is stopped at an animals’ lodge.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 15441-15442
+  quote_or_summary: 'The animals say: “It is not our place to touch him. If we are
+    to bring the boy back to life he must be taken to Pahuk.”'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif taxonomy
+    assignment for resurrection/death-rebirth is cautious because the excerpt mentions
+    a possible revival condition but does not narrate the revival itself. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only supplied passage and metadata; no external comparison added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l15431-l15442
+  passage_sha256=71708016cfb984652ae5737373ae538b7572d061393cd2d42ab6841bac1c017e
+

@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l9012-l9035
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: TUMU. / INTRODUCTION. / PAPA. / FOUNDATION.; lines 9012-9035
+  start: '9012'
+  end: '9035'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A solo voice addresses Vera, telling Vera to halt on a journey, look toward
+    Mangaia, and look again at grieving parents. An editorial note explains that spirits
+    of the dead gather at Vairorongo, face the setting sun, and await departure; it
+    also glosses Iva as spirit-land in this context. The passage ends with an untranslated
+    Mangaian line mentioning Anakura.
+  language: English with one Mangaian line
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The solo voice tells Vera to halt on a journey.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The solo voice tells Vera to turn Vera's eyes toward Mangaia.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Vera is told to look again at Vera's parents, whose days are described as
+    spent in tears.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note states that spirits of the dead assembled at Vairorongo regardless
+    of where the body was buried.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note states that the assembled spirits faced the setting sun and awaited
+    the proper period for departure.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note explains that Iva is rendered as spirit-land in this context.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage includes an untranslated Mangaian line that mentions Anakura.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Vera
+  description: Named addressee told to halt on a journey and look toward Mangaia and
+    Vera's parents.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Vera's parents
+  description: Parents whom Vera is told to look at; they are described as spending
+    their days in tears.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: spirits of the dead
+  description: Dead spirits said in the note to assemble at Vairorongo, face the setting
+    sun, and await departure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: solo voice
+  description: The voice marked as a solo that addresses Vera in imperative speech.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: addressed traveler
+  assigned_to:
+  - fig:1
+  basis: Vera is addressed directly and told to halt on a journey.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: grieving parents
+  assigned_to:
+  - fig:2
+  basis: The parents are described as spending their days in tears.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: dead spirits awaiting departure
+  assigned_to:
+  - fig:3
+  basis: The note says the spirits of the dead assemble and await the proper period
+    for departure.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: addressing solo speaker
+  assigned_to:
+  - fig:4
+  basis: The passage is marked Solo and contains direct commands to Vera.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: Mangaia as place of backward gaze
+  literal_form: Mangaia
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Vairorongo as gathering place of the dead
+  literal_form: Vairorongo
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: setting sun orientation
+  literal_form: setting sun
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Iva as spirit-land
+  literal_form: Iva, rendered spirit-land
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: tears of the parents
+  literal_form: tears
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Vera halted and turned toward Mangaia
+  summary: A solo voice tells Vera to pause on a journey, turn toward Mangaia, and
+    look again at grieving parents.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dead spirits awaiting departure at Vairorongo
+  summary: The note describes dead spirits gathering at Vairorongo, facing the setting
+    sun, and waiting for the proper time to depart, with Iva glossed as spirit-land.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: journey halted for a backward look toward home and parents
+  taxonomy_refs:
+  - departure
+  basis: Vera is addressed as being on a journey and is told to halt, turn toward
+    Mangaia, and look again at parents.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage fragment does not identify Vera's destination or the full
+    narrative context.
+- id: motif:2
+  label: mourning parents of a departing figure
+  taxonomy_refs: []
+  basis: Vera's parents are singled out as objects of Vera's gaze and are described
+    as spending their days in tears.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The cause of the parents' grief is implied by the address to the traveler
+    but is not explicitly explained in the excerpt.
+- id: motif:3
+  label: afterlife assembly and timed departure to spirit-land
+  taxonomy_refs:
+  - afterlife_journey_map
+  - departure
+  basis: The note states that dead spirits gather at a named place, face the setting
+    sun, and wait for the proper time to depart, with Iva glossed as spirit-land.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This motif is supported by the editorial note within the passage rather
+    than by the sung lines alone.
+- id: motif:4
+  label: sunset-facing dead before departure
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The note specifies that the assembled spirits of the dead face the setting
+    sun while awaiting departure.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The excerpt provides orientation and waiting-place details but not a fuller
+    route or itinerary.
+comparison_claims:
+- id: claim:1
+  claim: The note supports a cautious comparison with an afterlife-journey-map pattern
+    because it names a gathering place for the dead, gives their orientation toward
+    the setting sun, and describes their waiting period before departure to spirit-land.
+  claim_level: same_function
+  target: afterlife_journey_map
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison rests on a brief editorial explanation in the passage
+    and lacks detailed stages of the journey.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9012-9035; solo stanza
+  quote_or_summary: '"Halt, Vera, on thy journey: / Turn thine eyes towards Mangaia."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:2
+  type: quote
+  locator: lines 9012-9035; solo stanza
+  quote_or_summary: '"Look again at thy parents, / Whose days are spent in tears,"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 9012-9035; footnote
+  quote_or_summary: '"the spirits of the dead assembled at Vairorongo, facing the
+    setting sun, to await the proper period for their departure."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:4
+  type: quote
+  locator: lines 9012-9035; footnote
+  quote_or_summary: '"Iva" is rendered "spirit-land" in the note.'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:5
+  type: quote
+  locator: lines 9012-9035; final Mangaian line
+  quote_or_summary: '"E niaki i te tere i Anakura e aere ei"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source metadata; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The English stanza and footnote are clear, but the passage is fragmentary
+    and the final Mangaian line is not translated in the provided excerpt. Motif claims
+    tied to the afterlife map rely on the included editorial note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy symbol refs were applied because the listed symbol taxonomy items are not literally present in the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l9012-l9035
+  passage_sha256=837e5d5127d10cbe65cd0309a9c9d84b71abe08069dc2e60c23f73636ee3bb0d
+

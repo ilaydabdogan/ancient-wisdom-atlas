@@ -1,0 +1,432 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l12556-l12664
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: CULTIVATION  OF  RICE / SOWING / PLANTING / REAPING; lines 12556-12664
+  start: '12556'
+  end: '12664'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives instructions for reaping rice: the cultivator obtains
+    the Pawang’s permission, burns benzoin in the field, prepares ritual implements,
+    selects female and especially jointed stalks, cuts seven stems as the Soul of
+    the Rice and another handful as mother-seed, wraps the Soul in white cloth like
+    a swaddled child, fumigates and stores the baskets, observes a three-day restriction
+    before further cutting, prepares and feasts on the first rice, then reaps, threshes,
+    dries, stores, and allocates wages from the rest of the crop.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Before reaping begins, the cultivator must obtain the Pawang’s permission
+    and burn benzoin supplied by him in the field.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The implements listed include a small basket for the first-cut rice called
+    the Soul of the Rice, jari lipan, terap bark string, a bamboo stem with a flag,
+    white cloth, an anchak, a brasier, a nail, and a candle-nut.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Soul is taken first from all plots when the rice is ripe.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The chosen stalks are from the best spot, described as female, with a large
+    bunch of stalks and seven joints in the stalk.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Seven stems are clipped to be the Soul of the Rice, and another handful is
+    clipped to be the mother-seed for the following year.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Soul is wrapped in white cloth, tied with terap bark cord, shaped like
+    a little child in swaddling clothes, and placed in a small basket.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The mother-seed is placed in another basket; both baskets are fumigated with
+    benzoin, stacked, taken home, and put in the rice-storage receptacle.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A three-day period called pantang tuai must pass before more rice may be cut.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: At first only one or two baskets of rice are cut, processed into husked and
+    cooked rice, and people are invited to feast on it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The rest of the rice is reaped and threshed by hired labourers, placed in
+    a field granary, then later winnowed, dried, and divided for wages.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Pawang
+  description: A ritual specialist whose permission is required before reaping and
+    who supplies benzoin or incense.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Rice cultivator or reaper
+  description: The unnamed person who prepares the implements, selects and cuts the
+    first rice, stores the baskets, observes the restriction, and manages later processing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Labourers
+  description: Five or six hired workers engaged to reap and thresh the rest of the
+    rice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: People invited to the feast
+  description: People invited to eat the first cooked rice after the initial cutting
+    and processing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ritual authority and supplier of incense
+  assigned_to:
+  - fig:1
+  basis: The Pawang’s permission is required and benzoin supplied by him is burned
+    in the field.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ritual-agricultural actor
+  assigned_to:
+  - fig:2
+  basis: The unnamed actor prepares the implements, cuts the Soul and mother-seed,
+    wraps and stores them, and observes the reaping restriction.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: reapers and threshers
+  assigned_to:
+  - fig:3
+  basis: Five or six labourers are engaged to reap and thresh the remaining rice.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: feast participants
+  assigned_to:
+  - fig:4
+  basis: People are invited to feast on the first rice processed into cooked rice.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Soul of the Rice
+  literal_form: The first seven clipped rice stems placed in a special small basket.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: swaddled child form
+  literal_form: The Soul of the Rice wrapped in white cloth and shaped like a little
+    child in swaddling clothes.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: seven stems and seven joints
+  literal_form: Rice selected from stalks with seven joints; seven stems are clipped
+    for the Soul of the Rice.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: incense fire
+  literal_form: Benzoin or incense burned in a brasier and used to fumigate the rice
+    baskets.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: mother-seed
+  literal_form: A handful of first-clipped rice kept as seed for the following year.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: flagged bamboo marker
+  literal_form: A small bamboo stem with a flag attached, planted in the basket as
+    a sign of the first-cut Soul of the Rice.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: white cloth wrapping
+  literal_form: A small white cloth used to wrap the Soul of the Rice.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Permission and ritual preparation before reaping
+  summary: The cultivator obtains the Pawang’s permission, burns benzoin in the field,
+    and gathers the listed implements for handling the first-cut rice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Cutting the Soul of the Rice and mother-seed
+  summary: From the best and female spot in the field, the cultivator selects stalks
+    with seven joints, clips seven stems as the Soul of the Rice, and clips another
+    handful as mother-seed for the following year.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Wrapping, fumigating, and storing the first-cut rice
+  summary: The Soul is wrapped in white cloth like a swaddled child, placed in a basket,
+    the mother-seed is placed in another basket, both are fumigated with benzoin,
+    stacked, taken home, and put into the rice-storage receptacle.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Three-day restriction and first rice feast
+  summary: After the Soul is taken, a three-day restriction on further cutting is
+    observed; then a small amount of rice is cut, processed, cooked, and served in
+    a feast.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Reaping and storing the remainder of the crop
+  summary: A bucket and field granary are prepared, hired labourers reap and thresh
+    the remaining rice, and the crop is placed in the granary.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Drying and allocation of the crop
+  summary: After all rice is cut, it is winnowed to remove chaff, dried in the sun
+    for storage, and labourers’ wages are taken out at the stated rate.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: crop soul taken and preserved at first harvest
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The first-cut rice is explicitly called the Soul of the Rice, selected before
+    other cutting, wrapped, fumigated, taken home, and stored in the rice receptacle.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage describes a rice-harvest rite; no broader myth narrative is
+    supplied.
+- id: motif:2
+  label: first-fruits restriction and feast
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: After the first ritual cutting, a three-day pantang tuai is observed before
+    further cutting; the first processed rice is cooked and shared in a feast.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly call the feast an offering or sacrifice;
+    it only states that people are invited to feast.
+- id: motif:3
+  label: maternal seed retained for renewal
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: A separate handful of first-cut rice is called mother-seed and is kept for
+    the following year.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: Although the rice spot is described as female and the seed as mother-seed,
+    no goddess or named maternal deity appears in the passage.
+- id: motif:4
+  label: plant life represented as a swaddled child
+  taxonomy_refs:
+  - sacred_birth
+  basis: The Soul of the Rice is wrapped in white cloth and shaped like a little child
+    in swaddling clothes before being stored.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives an image of child-form wrapping, but it does not narrate
+    a birth myth.
+- id: motif:5
+  label: ritual fumigation of harvest substance
+  taxonomy_refs: []
+  basis: Benzoin supplied by the Pawang is burned in the field, and the baskets containing
+    the Soul and mother-seed are fumigated with benzoin.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: No explicit explanation of the fumigation’s purpose is provided.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12556-12664, §9 opening
+  quote_or_summary: Before reaping begins, the Pawang’s permission is required, and
+    benzoin supplied by him is burned in the field.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12556-12664, §9 implement list
+  quote_or_summary: The implements include a basket for the first-cut rice called
+    the Soul of the Rice, jari lipan, terap bark string, flagged bamboo, white cloth,
+    anchak, brasier, nail, and candle-nut.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12556-12664, §9 selection and clipping
+  quote_or_summary: When all rice is ripe, the Soul is first taken from each plot;
+    the best female spot with large bunches and seven-jointed stalks is chosen, seven
+    stems are clipped as the Soul, and another handful is clipped as mother-seed for
+    the following year.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 12556-12664, §9 wrapping and storage
+  quote_or_summary: The Soul is wrapped in white cloth, tied with terap bark, shaped
+    like a little child in swaddling clothes, put in a small basket; the mother-seed
+    is put in another basket, both are fumigated with benzoin, taken home, and placed
+    in the kepuk rice receptacle.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 12556-12664, §10
+  quote_or_summary: A three-day pantang tuai must be observed before more rice is
+    cut; then one or two baskets are processed into husked and cooked rice and people
+    are invited to feast on it.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 12556-12664, §11
+  quote_or_summary: A bucket and field granary are made, and five or six labourers
+    are engaged to reap and thresh the rest of the rice during stated working hours,
+    putting the threshed rice into the granary.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 12556-12664, §13
+  quote_or_summary: When all rice has been cut, it is winnowed to remove chaff, dried
+    in the sun to prevent mould during storage, and labourers’ wages are taken out
+    at two gallons in every ten.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The ritual sequence and objects are explicit. Motif labels beyond the literal
+    harvest rite are cautious and require human review; no comparison claims are made
+    because the passage itself does not compare this rite to another tradition or
+    motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only supplied passage and metadata. Taxonomy references limited to available families and symbols directly supportable from the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l12556-l12664
+  passage_sha256=6773a7844157bd52337ed97e9724b478cee4603ceb4483e098d1522d33b15c3a
+

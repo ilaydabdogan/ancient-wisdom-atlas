@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l9255-l9292
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SIXTH  BOOK  OF  THE  ROYAL / CHAPTER  XXXV. / COMMENTARIES  OF  THE  YNCAS.
+    / SIXTH  BOOK  OP  THE  ROYAL; lines 9255-9292
+  start: '9255'
+  end: '9292'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Inca ordinances for monthly holidays and market assemblies,
+    fixed provincial boundaries, limits on governors and curacas, division of land
+    for work, royal and Sun estates, and communal labor practices in farming and house
+    building.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Ynca ordained three holidays every month so the people could divert themselves
+    with games.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Ynca commanded three fairs every month where field laborers came to market
+    and heard ordinances from the Ynca or his Council.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The assemblies were called Gata and took place on holidays.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Ynca made a law that each province should have a fixed boundary enclosing
+    forests, pastures, rivers, lakes, mountains, and tillage lands.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: No Governor or Curaca could diminish, divide, or appropriate any portion of
+    the provincial lands for personal use.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Royal estates and estates of the Sun were set apart, and the Indians ploughed,
+    sowed, and reaped on their own lands and on State lands.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The narrator denies the claim that the Indians had no proprietary right in
+    land, explaining that the division organized work rather than ownership.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Indians are described as assembling to work together on public and private
+    lands, helping neighbors, and then working the royal estates.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage states that houses were built almost in the same way, and begins
+    to describe an Indian going to the Council when needing a house.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Ynca
+  description: Royal authority who ordained holidays, fairs, and provincial land laws.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: The Ynca's Council
+  description: Council whose ordinances could be heard at market assemblies and to
+    whom a house request is begun in the truncated sentence.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: The people, laborers, Indians
+  description: People who attended holidays and fairs, worked fields, and collectively
+    ploughed, sowed, reaped, and helped neighbors.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Governors or Curacas
+  description: Provincial authorities forbidden to diminish, divide, or appropriate
+    provincial lands.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: The Sun
+  description: Named holder of estates set apart alongside the royal estates.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: royal lawgiver
+  assigned_to:
+  - fig:1
+  basis: The Ynca ordains holidays, commands fairs, and makes a boundary law for provinces.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: council authority
+  assigned_to:
+  - fig:2
+  basis: The Council is named as a source of ordinances heard at market assemblies
+    and appears in the beginning of the house-building procedure.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: communal laborers and cultivators
+  assigned_to:
+  - fig:3
+  basis: The Indians and laborers attend markets and collectively plough, sow, reap,
+    and help neighbors on several categories of land.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:4
+  label: restricted provincial officials
+  assigned_to:
+  - fig:4
+  basis: Governors and Curacas are explicitly barred from diminishing, dividing, or
+    appropriating provincial land.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: named estate beneficiaries
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: Royal estates and estates of the Sun are set apart from other lands.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: monthly threefold schedule
+  literal_form: three holidays and three fairs every month
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bounded provincial territory
+  literal_form: a fixed provincial boundary enclosing forests, pastures, rivers, lakes,
+    mountains, and tillage lands
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: royal and Sun estates
+  literal_form: lands set apart as royal estates and estates of the Sun
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Gata assembly
+  literal_form: market assemblies called Gata, held on holidays
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Monthly holidays and Gata fairs
+  summary: The Ynca institutes three monthly holidays for recreation and three monthly
+    fairs where laborers hear royal or council ordinances.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Provincial boundary law
+  summary: The Ynca establishes fixed provincial boundaries over natural and agricultural
+    resources and forbids governors or curacas from altering or appropriating them.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Set-apart estates and communal cultivation
+  summary: Royal and Sun estates are set apart, while Indians cultivate their own
+    and State lands through collective labor, helping neighbors before working royal
+    estates.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: House-building procedure begins
+  summary: The passage begins a parallel description of house building, saying that
+    an Indian needing a house went to the Council; the passage ends mid-sentence.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royally ordered land and labor system
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Ynca issues ordinances regulating rest days, market assemblies, provincial
+    boundaries, and the organization of labor on private, State, royal, and Sun lands.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is administrative and historical in tone rather than a mythic
+    narrative; the motif assignment is based on royal ordering of social space and
+    labor.
+- id: motif:2
+  label: communal agricultural labor before service on royal estates
+  taxonomy_refs: []
+  basis: The population first works its own lands in common, each helping neighbors,
+    and then works the royal estates, with the same practice in sowing and reaping.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a social-labor pattern; no specific comparative mythology taxonomy
+    reference is supplied.
+- id: motif:3
+  label: set-apart sacred and royal lands
+  taxonomy_refs: []
+  basis: The passage distinguishes ordinary lands from royal estates and estates of
+    the Sun, which are set apart and cultivated by the Indians.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage names the Sun's estates but does not elaborate a mythic or
+    ritual explanation within this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9255-9265
+  quote_or_summary: Laborers are supplied from public storehouses; the Ynca ordains
+    three monthly holidays with games and three monthly fairs or market assemblies
+    called Gata where ordinances of the Ynca or Council are heard.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 9266-9274
+  quote_or_summary: The Ynca makes a law fixing each province's boundary around forests,
+    pastures, rivers, lakes, mountains, and tillage lands; governors and curacas may
+    not diminish, divide, or appropriate any portion.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 9274-9283
+  quote_or_summary: Royal estates and estates of the Sun are set apart; Indians plough,
+    sow, and reap both their own and State lands; the narrator says the division concerned
+    labor, not denial of proprietary right.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 9283-9290
+  quote_or_summary: 'The passage describes an ancient custom of working together:
+    the population assembled, worked their own lands in common while helping neighbors,
+    then worked the royal estates; sowing and reaping followed the same practice.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 9290-9292
+  quote_or_summary: House building is said to follow almost the same way; an Indian
+    needing a house went to the Council, but the passage ends before the procedure
+    is completed.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal administrative details are clear. Motif labels are cautious because
+    the passage is a legal-social description rather than a mythic episode. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available refs and direct textual support.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l9255-l9292
+  passage_sha256=e22c83e43efb54ac47fbafa6f79f01f76be465a07e9c7e518d0bf7500a1f59bc
+

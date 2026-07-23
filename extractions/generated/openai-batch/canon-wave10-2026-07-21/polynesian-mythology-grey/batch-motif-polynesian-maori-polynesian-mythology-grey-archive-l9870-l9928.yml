@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.polynesian-maori-polynesian-mythology-grey-archive-l9870-l9928
+source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+passage_locator:
+  label: ON THE NATIVE SONGS OF NEW ZEALAND, / SYSTEM. / INTERVALS. / NOTATION.; lines
+    9870-9928
+  start: '9870'
+  end: '9928'
+  translation: Polynesian Mythology and Ancient Traditional History of the New Zealand
+    Race
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains a proposed musical notation for microtonal sharps
+    and flats, including enharmonic and Arab ternal divisions. It states that accidentals
+    apply only to the note to which they are attached. The commentator then remarks
+    that the airs are given as well as possible, but that no clear metre or rhythm
+    was discernible, and that line divisions follow those in the book. The passage
+    is signed by James A. Davies and ends with a note referring to Mr. McGregor’s
+    specimens of Arabian music.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage assigns specific written signs to enharmonic diesis, sharp, three-quarter
+    sharp, quarter or half flat, flat, and three-quarter flat.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage gives proposed signs for one-third sharp, two-third sharp, one-third
+    flat, and two-third flat in an Arab ternal division.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that a sharp or flat sign does not carry its effect beyond
+    the note to which it is attached.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The commentator says he gives the airs as best he can.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The commentator says he could discern no marked metre or rhythm, and that
+    the singer stopped at different words without a fixed pattern.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The commentator says he follows the divisions supplied in the book, trusting
+    the learned author’s choice as authentic.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage is signed by James A. Davies, with stated affiliations and a date
+    and location in September 1854.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage includes a note that Mr. McGregor gives specimens of Arabian music
+    in a work titled Eastern Music.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: James A. Davies
+  description: Signer of the commentary; formerly of Trinity College, Cambridge, and
+    late private secretary to H.R.H. Prince Leopold, Count of Syracuse, Naples.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:2
+  name_or_label: the singer
+  description: Unnamed singer whose stopping points in lines or verses are described
+    as varying from word to word.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: the learned author
+  description: Unnamed author whose line or verse divisions are followed by the commentator.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Mr. McGregor
+  description: Person cited as giving specimens of Arabian music in Eastern Music.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: musical-notation commentator
+  assigned_to:
+  - fig:1
+  basis: The passage presents notation choices, comments on time, and is signed by
+    James A. Davies.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: role:2
+  label: performer observed for timing
+  assigned_to:
+  - fig:2
+  basis: The passage describes how the singer stopped at varying words during lines
+    or verses.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: source authority for divisions
+  assigned_to:
+  - fig:3
+  basis: The commentator follows divisions given in the book because he assumes the
+    learned author chose the most authentic divisions.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: cited music source
+  assigned_to:
+  - fig:4
+  basis: Mr. McGregor is cited in connection with specimens of Arabian music.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: enharmonic and chromatic notation marks
+  literal_form: St. Andrew’s cross or saltier x; sharp sign; J; quarter-tone or flat
+    signs; b; three-quarter-flat sign
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Arab ternal-division notation marks
+  literal_form: Signs for one-third sharp, two-third sharp, one-third flat, and two-third
+    flat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: note-specific accidental
+  literal_form: A sharp or flat sign attached only to a single note
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Explanation of notation system
+  summary: The commentator explains the signs he uses for enharmonic, chromatic, and
+    Arab ternal-division intervals.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Comment on timing of airs
+  summary: The commentator says he gives the airs as well as he can, while noting
+    that no marked metre or rhythm was discernible and that the singer’s stopping
+    points varied.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Attribution and related music reference
+  summary: The passage identifies James A. Davies and then notes Mr. McGregor’s specimens
+    of Arabian music.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9870-9878
+  quote_or_summary: The notation section says the adopted signs include the St. Andrew’s
+    cross or saltier x for the enharmonic diesis or quarter-tone/half-sharp, plus
+    signs for sharp, three-quarter sharp, quarter or half flat, flat, and three-quarter
+    flat.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:2
+  type: summary
+  locator: lines 9880-9883
+  quote_or_summary: For the Arab ternal division, the passage lists signs for one-third
+    sharp, two-third sharp, one-third flat, and two-third flat.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:3
+  type: summary
+  locator: lines 9885-9897
+  quote_or_summary: The passage states that a sharp or flat sign applies only to the
+    note it is attached to and illustrates this with a sequence read as E half-flat,
+    E natural, E half-sharp, E natural.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:4
+  type: quote
+  locator: line 9900
+  quote_or_summary: "“I now give the airs as best I can.”"
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 9902-9907
+  quote_or_summary: The commentator says there was no marked metre or rhythm discernible,
+    and that the singer seemed to stop indifferently at one word or another.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:6
+  type: summary
+  locator: lines 9907-9912
+  quote_or_summary: The commentator follows the divisions given in the book, assuming
+    the learned author chose the most authentic divisions.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:7
+  type: summary
+  locator: lines 9914-9919
+  quote_or_summary: The passage is signed James A. Davies, formerly of Trinity College,
+    Cambridge, late private secretary to H.R.H. Prince Leopold, Count of Syracuse,
+    Naples, at 17 Great Ormond Street, Queen Square, September 1854.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:8
+  type: summary
+  locator: lines 9927-9928
+  quote_or_summary: The passage says Mr. McGregor gives specimens of Arabian music
+    in Eastern Music.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is expository musical commentary rather than mythic narrative.
+    No mythological motif candidates or comparative mythology claims are supported
+    by the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family or symbol reference is directly supported by this passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-maori-polynesian-mythology-grey-archive__l9870-l9928
+  passage_sha256=3542462bd4949b249365b13afaf19a794dcd22ce8af9ccd361978e6533820dd6
+

@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l7662-l7686
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SIXTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. / SIXTH  BOOK  OF  THE  ROYAL
+    / CHAPTER  XXV.; lines 7662-7686
+  start: '7662'
+  end: '7686'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The chapter heading says the novices were expected to know how to make
+    their arms and shoes. The passage describes tests after earlier exercises: novices
+    of similar age compete in jumping and throwing, demonstrate skill with bows, arrows,
+    slings, and other weapons, undergo night watches as sentinels to test resistance
+    to sleep, and receive reproach or beating if they fail or as part of the ordeal.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chapter heading states that they were expected to know how to make their
+    arms and shoes.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After previous exercises, novices of nearly the same age are matched against
+    each other in jumping and in throwing stones, lances, darts, or other hurled weapons.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The novices shoot at a mark with bow and arrows, draw a bow fully to test
+    arm strength, and use slings to test aim.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The novices are examined in the use of all the arms that the Yncas used in
+    war.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The novices watch by turns for ten or twelve nights as sentinels to test whether
+    they can resist the desire to sleep.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: They are visited at uncertain hours; a novice found asleep is severely reproved
+    and told he is a child unfit to receive military insignia of honour and command.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: They are severely beaten with osier wands over the arms and legs.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: novices
+  description: Persons undergoing exercises, competitions, weapons tests, night sentinel
+    watches, and discipline.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: unnamed visitors or examiners
+  description: Unnamed persons who visit the sentinels at uncertain hours and reprove
+    anyone found asleep.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: competing trainee
+  assigned_to:
+  - fig:1
+  basis: The novices are matched against each other in physical and weapon competitions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: sentinel under trial
+  assigned_to:
+  - fig:1
+  basis: The novices watch by turns for ten or twelve nights as sentinels.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: candidate for military insignia
+  assigned_to:
+  - fig:1
+  basis: A novice found asleep is said to be unfit to receive the military insignia
+    of honour and command.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: disciplinary examiner
+  assigned_to:
+  - fig:2
+  basis: The unnamed visitors check the sentinels at uncertain hours and reprove a
+    sleeper.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: weapons used in trials
+  literal_form: stones, lance, dart, bow and arrows, slings, and other arms
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: military insignia of honour and command
+  literal_form: military insignia
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: osier wands used for beating
+  literal_form: osier wands
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: ten or twelve nights of sentinel watch
+  literal_form: ten or twelve nights
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: athletic and throwing contests among novices
+  summary: Novices of nearly the same age compete in jumping and in throwing stones,
+    lances, darts, or other hurled weapons.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: weapons skill examination
+  summary: The novices demonstrate skill with bow, arrows, slings, and the arms used
+    by the Yncas in war.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: night sentinel test
+  summary: The novices take turns watching as sentinels for ten or twelve nights,
+    and are checked at uncertain hours to see whether they sleep.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: beating with osier wands
+  summary: The passage states that they are severely beaten with osier wands over
+    the arms and legs.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: initiation through martial tests and endurance trials
+  taxonomy_refs:
+  - initiation
+  basis: The passage presents novices undergoing staged competitions, weapons examinations,
+    sentinel watches, disciplinary checks, and fitness for receiving military insignia.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage describes a military training and evaluation sequence; broader
+    ritual or mythic significance is not stated in the excerpt.
+- id: motif:2
+  label: honour insignia conditional on endurance and discipline
+  taxonomy_refs: []
+  basis: A novice found asleep during the sentinel trial is told he is unfit to receive
+    military insignia of honour and command.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The excerpt identifies the consequence of failure but does not describe
+    the full conferral ceremony.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7662-7665
+  quote_or_summary: 'Chapter heading: “They were expected to know how to make their
+    arms and their shoes.”'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7666-7673
+  quote_or_summary: Novices of nearly the same age are matched to compete in jumping
+    and throwing stones, lances, darts, or other hurled weapons.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7673-7679
+  quote_or_summary: They shoot at a mark with bow and arrows, draw a bow to its extreme
+    to test strength, use slings to test aim, and are examined in the arms used by
+    the Yncas in war.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7679-7682
+  quote_or_summary: They watch by turns for ten or twelve nights as sentinels, to
+    test whether they can resist sleep.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 7682-7685
+  quote_or_summary: They are visited at uncertain hours; a person discovered asleep
+    is severely reproved and told he is a child unfit for the military insignia of
+    honour and command.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 7685-7686
+  quote_or_summary: They were “severely beaten with osier wands over the arms and
+    legs.”
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied line range. The last sentence is
+    truncated at the end of the provided passage, so the beating scene may continue
+    beyond the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparison claims were made. Taxonomy reference is limited to the supplied motif family list and is assigned only where directly supported by the novice trial sequence.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l7662-l7686
+  passage_sha256=c4982b8242a07913a9aa2f9fd83b9d443202f15fbe4b288566665a984159f56a
+

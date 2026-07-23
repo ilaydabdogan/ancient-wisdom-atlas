@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.malay-pagan-races-malay-peninsula-skeat-blagden-vol1-archive-l25653-l25701
+source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+passage_locator:
+  label: VOL.  I  2  H / IC.   14,  121,  123. / IG.   73,  77,  88,  91,  95,  119.
+    / SAKA1  OF  PERAK; lines 25653-25701
+  start: '25653'
+  end: '25701'
+  translation: Pagan Races of the Malay Peninsula, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes explanations of designs on a bamboo panel: animal
+    claw marks, four minute creature figures among lianas, a panel showing stages
+    in the growth of a tree, creepers reaching the top branches, and a cautioned footnote
+    about a possible ant-line interpretation.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says animal claw marks appear on bark and that four small figures
+    between lianas are identified as a bird, a butterfly, a caterpillar, and a tree
+    frog.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Panel E above the ring-line is described as representing stages in the growth
+    of a tree.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The tree-growth sequence includes a leafless trunk, developed leaves, young
+    undeveloped leaves, and zigzag lines representing twigs.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: A cross-hatched figure is explained as the extremity of creepers that start
+    from the ground and reach the tree's topmost branches.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A further figure represents the tree's topmost shoot with undeveloped leaves.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The broad part of the stem is made by peeling off a thin strip of the outer
+    cuticle of the bamboo.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A footnote reports that the German original explained short cross-strokes
+    between creepers as two lines of ants running up and down, but the note cautions
+    that this conflicts with the preceding explanation and that some explanations
+    are far-fetched.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: bird
+  description: One of four minute figures between the lianas, said to represent a
+    bird.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: butterfly
+  description: One of four minute figures between the lianas, said to represent a
+    butterfly.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: caterpillar
+  description: One of four minute figures between the lianas, said to represent a
+    caterpillar.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: tree frog
+  description: One of four minute figures between the lianas, said to represent a
+    tree frog.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: ants
+  description: In a cautioned footnote, short cross-strokes are reported as representing
+    two lines of ants running up and down the creepers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: depicted small creature
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The figures are described as minute figures between lianas, each identified
+    as a creature.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: contested explanatory figure
+  assigned_to:
+  - fig:5
+  basis: The ant interpretation is reported from the German original but explicitly
+    cautioned as conflicting and possibly far-fetched.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: Tree trunk, leaves, twigs, branches, and topmost shoot shown in a
+    panel of growth stages.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: creepers or lianas
+  literal_form: Lianas/creepers shown in relation to small creature figures and as
+    reaching from the ground to the topmost tree branches.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: animal claw marks
+  literal_form: Claw marks of animals on the bark.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: bamboo surface
+  literal_form: Outer cuticle of bamboo peeled to portray the broad part of the stem.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Creature figures among lianas
+  summary: The design includes animal claw marks on bark and four minute figures between
+    lianas identified as a bird, butterfly, caterpillar, and tree frog.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tree growth panel
+  summary: A panel above the ring-line is read as showing stages of a tree's growth,
+    including trunk, leaves, young leaves, twigs, a topmost shoot, and creepers reaching
+    the upper branches.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Cautioned ant-line explanation
+  summary: A note reports an earlier explanation that cross-strokes represent ants
+    running on creepers, while warning that the explanation conflicts with the surrounding
+    description and should be treated cautiously.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Tree growth sequence
+  taxonomy_refs: []
+  basis: The passage explicitly states that the panel represents stages in the growth
+    of a tree and describes trunk, leaves, young leaves, twigs, and a topmost shoot.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage presents a decorative or explanatory botanical sequence, not
+    a mythic narrative.
+- id: motif:2
+  label: Upward growth or climbing vegetation
+  taxonomy_refs:
+  - ascent
+  basis: The creepers are said to start from the ground and reach the topmost branches
+    of the tree.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The ascent is literal botanical growth; the passage does not describe
+    a ritual, divine, heroic, or cosmological ascent.
+- id: motif:3
+  label: Small creatures associated with tree and lianas
+  taxonomy_refs: []
+  basis: The design places a bird, butterfly, caterpillar, and tree frog between lianas;
+    a separate footnote gives a cautioned ant interpretation.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: medium
+  cautions: The four creature identifications are given directly, but the ant interpretation
+    is explicitly cautioned by the editor.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25653-25659
+  quote_or_summary: The passage mentions animal claw marks on bark and four minute
+    figures between lianas said to represent a bird, butterfly, caterpillar, and tree
+    frog.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 25659-25666
+  quote_or_summary: Panel E above the ring-line represents stages in the growth of
+    a tree; reading right to left begins with a broad black stripe signifying the
+    leafless tree trunk, followed by figures representing developed leaves.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 25666-25673
+  quote_or_summary: A black stem with leaf-drawing on one side represents young undeveloped
+    leaves, and another black stem with zigzag figures on each side represents twigs.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 25675-25681
+  quote_or_summary: The cross-hatched figure represents the extremity of creepers
+    shown below and signifies that they started from the ground and reached the tree's
+    topmost branches.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 25683-25688
+  quote_or_summary: Further left is the topmost shoot of the tree with leaves still
+    undeveloped; the lower part of the tree is noted as of interest.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: summary
+  locator: lines 25690-25692
+  quote_or_summary: The broad part of the stem is portrayed by peeling off a thin
+    strip of the outer cuticle of the bamboo.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:7
+  type: summary
+  locator: lines 25694-25701
+  quote_or_summary: A footnote says the German original explained short cross-strokes
+    between creepers as two lines of ants running up and down, but the note says this
+    conflicts with the preceding text and that some explanations should be received
+    with caution.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal design elements are reasonably clear despite OCR noise. Motif candidates
+    are limited because the passage describes decorative/explanatory designs rather
+    than a mythic narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  All claims are based only on the supplied passage and metadata.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-pagan-races-malay-peninsula-skeat-blagden-vol1-archive__l25653-l25701
+  passage_sha256=6689534efff6d2f57568440b5c4c6c16f80adedf5d09e47ee8f8f17b132cd50c
+

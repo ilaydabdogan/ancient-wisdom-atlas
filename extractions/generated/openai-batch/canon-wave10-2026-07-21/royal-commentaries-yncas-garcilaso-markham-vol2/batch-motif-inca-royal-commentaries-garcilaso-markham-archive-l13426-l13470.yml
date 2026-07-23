@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l13426-l13470
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / SEVENTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OE  THE  YNCAS.
+    / SEVENTH  BOOK  OF  THE  ROYAL; lines 13426-13470
+  start: '13426'
+  end: '13470'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces words from a 1601 letter by Diego de Alcobasa about
+    Chile. The quoted report says Chile is in a bad condition, that the Indians are
+    skilled in war, armed with lances and horses, and ready to attack Spanish soldiers.
+    Troops are sent yearly from Peru, but many go and none return. The Indians have
+    taken two Spanish towns, killed those found there, and carried off women and children
+    after killing their fathers. A footnote identifies Alcobasa, his family background
+    at Cuzco, his friendship and correspondence with the Ynca Garcilasso, and his
+    later work as a Jesuit priest and provider of information.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A 1601 letter from Diego de Alcobasa is introduced as containing information
+    about the kingdom of Chile.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The letter reports that Chile is in a very bad condition and that the Indians
+    are skilled and experienced in war.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Indians are described as having lances and horses and being ready to attack
+    Spanish soldiers.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Troops are sent every year from Peru to Chile; many go, but none return.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Indians have taken two towns inhabited by Spaniards.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In the captured towns, the Indians killed those they found and carried off
+    women and children after killing their fathers.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The footnote identifies Diego de Alcobasa as born at Cuzco, son of Juan de
+    Alcobasa and an Indian woman, and as an old schoolfellow of the young Ynca Garcilasso.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: The footnote says Diego de Alcobasa later became a Jesuit priest, preached
+    to Indians using native languages, corresponded with the Ynca Garcilasso, and
+    sent information used in Garcilasso's work.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Diego de Alcobasa
+  description: A half-caste born at Cuzco, writer of the 1601 letter about Chile,
+    old schoolfellow and correspondent of the Ynca Garcilasso, later a Jesuit priest
+    active in preaching to Indians.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Ynca Garcilasso / narrator
+  description: Recipient of Alcobasa's letter and old schoolfellow; later in Spain,
+    he undertook the work for which Alcobasa supplied information.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Indians in Chile
+  description: Described as skilled in war, armed with lances and horses, ready to
+    attack Spanish soldiers, and as having captured Spanish towns.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Spanish soldiers and troops from Peru
+  description: Spanish military personnel attacked or threatened in Chile; troops
+    are sent annually from Peru and do not return.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Spanish women and children
+  description: Women and children from captured Spanish towns who are carried off.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Spanish fathers and townspeople
+  description: People in the captured Spanish towns who are killed, including fathers
+    of the carried-off women and children.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Juan de Alcobasa
+  description: Father of Diego de Alcobasa; married an Indian woman, held an estate
+    near Cuzco, and was a friend of the elder Garcilasso de la Vega.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: letter writer and informant
+  assigned_to:
+  - fig:1
+  basis: He wrote to the narrator in 1601 and supplied information concerning Chile.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: letter recipient and chronicler
+  assigned_to:
+  - fig:2
+  basis: The letter is addressed to the narrator, and the footnote says the Ynca later
+    undertook the work and received information from Alcobasa.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:3
+  label: armed combatants and captors
+  assigned_to:
+  - fig:3
+  basis: They are described as expert in war, armed with lances and horses, ready
+    to attack, capturing towns, killing inhabitants, and carrying off women and children.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: Spanish military targets and non-returning troops
+  assigned_to:
+  - fig:4
+  basis: Spanish soldiers are attacked or threatened, and troops sent from Peru are
+    said not to return.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: Jesuit preacher and language worker
+  assigned_to:
+  - fig:1
+  basis: The footnote says he became a Jesuit priest and preached to Indians successfully
+    because of his knowledge of native languages.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: captives
+  assigned_to:
+  - fig:5
+  basis: Women and children are described as carried off after the capture of Spanish
+    towns.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: slain townspeople and fathers
+  assigned_to:
+  - fig:6
+  basis: The report says those found in the towns were killed, and that fathers were
+    killed before women and children were carried off.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: family relation and caretaker
+  assigned_to:
+  - fig:7
+  basis: Juan de Alcobasa is identified as Diego's father and as a friend who cared
+    for the family of the elder Garcilasso de la Vega.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: lance-and-horse armament
+  literal_form: a lance and a horse
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Introduction of Alcobasa's report
+  summary: The narrator introduces a 1601 letter from Diego de Alcobasa as a source
+    of information about Chile.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: War report from Chile
+  summary: Alcobasa's quoted report describes the Indians in Chile as skilled and
+    armed, annual Spanish troops from Peru as not returning, and two Spanish towns
+    as captured with killings and captives taken.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Biographical footnote on Alcobasa
+  summary: A footnote gives Alcobasa's Cuzco origins, family ties, friendship with
+    the Ynca Garcilasso, later Jesuit work, and role in sending information for Garcilasso's
+    writing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: departure without return from war
+  taxonomy_refs:
+  - departure
+  - return
+  basis: The report says troops are sent from Peru every year to Chile, but many go
+    and none ever return.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a historical war report, not an explicitly mythic journey episode;
+    the taxonomy references mark only the departure/failed-return pattern.
+- id: motif:2
+  label: captivity after conquest and killing of kin
+  taxonomy_refs: []
+  basis: The report states that after two Spanish towns were taken, inhabitants were
+    killed and women and children were carried off after their fathers were killed.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage gives a literal military atrocity report; it does not frame
+    the action as a mythic abduction motif or identify a beloved figure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13426-13431
+  quote_or_summary: The narrator says Diego de Alcobasa wrote to him in 1601, including
+    words concerning the kingdom of Chile.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 13432-13437
+  quote_or_summary: Alcobasa's letter says Chile is in a very bad condition; the Indians
+    are expert in war, and each has a lance and horse and is ready to attack Spanish
+    soldiers.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 13437-13440
+  quote_or_summary: '"Every year troops are sent there from Peru; and many go, but
+    none ever return."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 13440-13443
+  quote_or_summary: The report says the Indians took two towns inhabited by Spaniards,
+    killed those found there, and carried off women and children after killing their
+    fathers.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 13444-13451
+  quote_or_summary: The footnote identifies Diego de Alcobasa as a half-caste born
+    at Cuzco, son of Juan de Alcobasa and an Indian woman, with family connections
+    near Cuzco.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 13451-13460
+  quote_or_summary: The footnote describes Juan de Alcobasa's friendship with the
+    elder Garcilasso de la Vega and recounts the young Ynca Garcilasso, his mother,
+    sister, and the Alcobasas being blockaded during conflict at Cuzco.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 13460-13470
+  quote_or_summary: The footnote says the Ynca Garcilasso went to Spain in 1560, Diego
+    de Alcobasa became a Jesuit priest successful in preaching through native languages,
+    and Alcobasa sent Garcilasso information, including news from Chile and other
+    materials.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are tentative because
+    the passage is a historical chronicle and footnote, not an explicit mythic narrative.
+    No comparison claims are made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy symbol directly applies to the passage; the lance-and-horse item is recorded as a literal object image rather than a taxonomy symbol.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l13426-l13470
+  passage_sha256=348f3a2940cb41cdf462de78d10f43603a89ba78aa715e88a6598bbeee2d3b3a
+

@@ -1,0 +1,191 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l23326-l23340
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / NINTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS.
+    / CHAPTER  XXXVIII.; lines 23326-23340
+  start: '23326'
+  end: '23340'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: A few escaped from that cruelty... spared by Atahuallpa’s own soldiers, from
+    pity at seeing the family perish, which they held to be divine
+  summary: 'The passage states that a few people of royal blood escaped Atahuallpa’s
+    cruelty: some avoided his power, while others were spared by his soldiers out
+    of pity for the destruction of a family they regarded as divine.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The chapter heading says that a few persons of royal blood escaped Atahuallpa’s
+    cruelty.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some of the escaped persons did not fall into Atahuallpa’s power.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Others were spared by Atahuallpa’s own soldiers.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The soldiers are said to have felt pity at seeing the royal family perish.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The family was held by the soldiers to be divine.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: A few persons of the blood royal
+  description: A small group of royal-blood persons who escaped Atahuallpa’s cruelty.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Atahuallpa
+  description: Named as the source of cruelty and as the one whose power some escaped;
+    called the tyrant in the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Atahuallpa’s soldiers
+  description: Soldiers belonging to Atahuallpa who spared some royal persons out
+    of pity.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: The family
+  description: The royal family seen as perishing and held to be divine by the soldiers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: royal survivors
+  assigned_to:
+  - fig:1
+  basis: They are described as persons of royal blood who escaped cruelty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: persecuting ruler
+  assigned_to:
+  - fig:2
+  basis: Atahuallpa is associated with cruelty, power, and the title of tyrant in
+    the passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: soldiers who spare victims
+  assigned_to:
+  - fig:3
+  basis: They are said to have spared some royal persons out of pity.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: divine royal family
+  assigned_to:
+  - fig:4
+  basis: The family is described as perishing and as held to be divine.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Escape and sparing of royal-blood persons
+  summary: 'A few royal-blood persons escape Atahuallpa’s cruelty: some avoid his
+    power, while others are spared by his soldiers because the soldiers pity the perishing
+    family and regard it as divine.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Survival of a divine royal remnant
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage emphasizes royal blood, the near-destruction of the royal family,
+    the survival of a few persons, and the family’s perceived divinity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage records escape and perceived divinity but does not explicitly
+    develop a succession or legitimacy claim within the supplied lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 23326-23330
+  quote_or_summary: "“A FEW PERSONS OF THE BLOOD ROYAL ESCAPED FROM THE CRUELTY OF
+    ATAHUALLPA.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 23332-23334
+  quote_or_summary: "“A few escaped from that cruelty, some who did not fall into
+    the tyrant’s power”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 23334-23337
+  quote_or_summary: "“others who were spared by Atahuallpa’s own soldiers, from pity”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 23336-23338
+  quote_or_summary: "“seeing the family perish, which they held to be divine”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward, but the motif label is cautious
+    because the short passage only implies royal-divine significance and survival.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No symbols from the supplied taxonomy are directly present in the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l23326-l23340
+  passage_sha256=dcb5bda32d8258e987899601bbcdee6def6e190c2cb46bf51c98a3040350e4f9
+

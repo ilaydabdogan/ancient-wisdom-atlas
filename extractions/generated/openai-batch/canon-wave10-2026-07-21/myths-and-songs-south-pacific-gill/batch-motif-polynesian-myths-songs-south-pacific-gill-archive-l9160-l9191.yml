@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l9160-l9191
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: UNUUNU    RUA. / SECOND   OFFSHOOT. / FOUNDATION. / UNUUNU   TORU.  THIRD  OFFSHOOT.;
+    lines 9160-9191
+  start: '9160'
+  end: '9191'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A song section headed “FOUNDATION” tells Vera to halt on a journey. A following
+    “THIRD OFFSHOOT” uses solo and chorus lines invoking skimming, Vera at the surface
+    of the ocean, and an ocean-path once traversed by Ngake; later untranslated lines
+    name Vera, Tikura moana, Manga, and Iva.
+  language: English with Mangaian song text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The “FOUNDATION” section contains a solo line telling Vera to halt on a journey.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The “THIRD OFFSHOOT” section begins with a solo line glossed as “Skim.”
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A chorus addresses Vera in relation to “the surface of the ocean.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The text identifies an “ocean-path” as one once traversed by Ngake.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Later lines include the names or terms Vera, Tikura moana, Manga, and Iva.
+  category: other
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:6
+  text: The passage is structured as solo and chorus song lines.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Vera
+  description: Named addressee associated with a journey and with ocean imagery in
+    the chorus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Ngake
+  description: Named figure said to have once traversed the ocean-path.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: journeying addressee
+  assigned_to:
+  - fig:1
+  basis: Vera is addressed with “Halt” on a journey and later addressed in relation
+    to the ocean surface.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: prior traverser of the ocean-path
+  assigned_to:
+  - fig:2
+  basis: Ngake is named as the one who once traversed the ocean-path.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ocean surface
+  literal_form: "“the surface of the ocean”"
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: ocean-path
+  literal_form: "“The ocean-path once traversed by Ngake”"
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: journey path
+  literal_form: journey / path language associated with Vera and later with Iva in
+    the song text
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+scenes:
+- id: scene:1
+  label: 'Foundation: Vera halted on a journey'
+  summary: A solo voice tells Vera to halt while on a journey.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: 'Third offshoot: ocean route and prior traversal'
+  summary: Solo and chorus lines invoke skimming, address Vera at the ocean surface,
+    and refer to an ocean-path once traversed by Ngake.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Closing named places or terms
+  summary: The later untranslated song lines include Vera, Tikura moana, Manga, and
+    Iva, with a path phrase in the final line.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: halted journey
+  taxonomy_refs: []
+  basis: The passage explicitly commands Vera to halt while on a journey.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The reason for the halt and the wider narrative context are not included
+    in the supplied passage.
+- id: motif:2
+  label: ocean-route traversal
+  taxonomy_refs:
+  - departure
+  basis: The passage connects Vera with ocean-surface imagery and names an ocean-path
+    previously traversed by Ngake.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is fragmentary and partly untranslated; it does not explain
+    the purpose, endpoint, or full narrative function of the route.
+- id: motif:3
+  label: precedent path of an earlier figure
+  taxonomy_refs: []
+  basis: The ocean-path is described as already traversed by Ngake, suggesting a route
+    recalled as precedent in a song addressing Vera.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only a brief line is provided, so the relationship between Vera’s journey
+    and Ngake’s earlier traversal remains uncertain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9160-9165
+  quote_or_summary: "“FOUNDATION. / Solo. / Halt, Vera, on thy journey”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 9167-9170
+  quote_or_summary: "“UNUUNU TORU. THIRD OFFSHOOT. / Solo. / Kaukau, Skim”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 9172-9173
+  quote_or_summary: "“Chorus. / Vera e, i tuaanga e ! Vera, the surface of the ocean”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 9175-9177
+  quote_or_summary: "“The ocean-path once traversed by / Ngake.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:5
+  type: quote
+  locator: lines 9179-9183
+  quote_or_summary: "“E tau ai te tere o Vera e / Tei Tikura moana !”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:6
+  type: quote
+  locator: lines 9185-9191
+  quote_or_summary: "“Ka aere au, e Manga e, / I te ara taurere ki Iva e !”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by the fragmentary song context and by several untranslated
+    Mangaian lines. No cross-text comparison claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy assignment is limited to the explicit ocean/water imagery and the general journey/departure pattern.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l9160-l9191
+  passage_sha256=0b664055de8272849920d6c6ab8ea60f65a395fee20fd94c1ab23dd17d9f7a71
+

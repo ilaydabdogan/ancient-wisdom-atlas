@@ -1,0 +1,226 @@
+---
+record_id: batch.motif.korean-korean-tales-allen-archive-l66-l122
+source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+passage_locator:
+  label: Korean Tales / INTRODUCTORY.; lines 66-122
+  start: '66'
+  end: '122'
+  translation: Korean Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Korea/Chosen through geography, population, climate,
+    natural resources, scenery, and a brief description of royal government.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Korea, also called Corea or Chosen, is described as a peninsula between China
+    and Japan, extending from the 33rd to the 43rd parallels of north latitude.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The area, including islands, is estimated at about one hundred thousand square
+    miles, with a population a little over sixteen million.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The central and northern provinces are described as having a climate similar
+    to the northern central United States; the river at the capital can freeze enough
+    for heavy carts to cross.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The country is described as mountainous and well watered, with heavy timber
+    in the northeast and fertile, cultivated valleys.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Mineral resources are said to be only crudely developed, though gold deposits
+    are singled out as wealthy.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The scenery is praised by visitors and natives; guidebooks and excursions
+    to scenic places are described as common from ancient times.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The King is described as an absolute monarch assisted by the Prime-Minister,
+    two associate ministers, and heads of government departments.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Korea / Corea / Chosen
+  description: The country introduced as a peninsula called Korea, Corea, or Chosen,
+    meaning 'morning calm.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: The King
+  description: The ruler of Korea, described as an absolute monarch.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: Prime-Minister and associate ministers
+  description: The Prime-Minister and the ministers of the Left and Right are described
+    as assisting the King.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: geographic subject
+  assigned_to:
+  - fig:1
+  basis: The passage presents Korea/Chosen as the country being geographically and
+    culturally introduced.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: absolute monarch
+  assigned_to:
+  - fig:2
+  basis: The passage states that the King rules as absolute monarch.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: royal administrative assistants
+  assigned_to:
+  - fig:3
+  basis: The Prime-Minister and two associate ministers are said to assist the King.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: mountainous country
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: water
+  literal_form: well-watered land, river, and ice
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Geographical and environmental description of Korea
+  summary: The passage describes Korea/Chosen as a peninsula with varied climate,
+    mountains, water, timber, fertile valleys, minerals, and praised scenery.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Royal government outline
+  summary: The passage outlines the King’s absolute rule and lists ministers and department
+    heads who assist in government.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 66-73
+  quote_or_summary: Korea/Corea/Chosen is introduced as a peninsula between China
+    and Japan, extending from the 33rd to 43rd north parallels.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 74-82
+  quote_or_summary: The area is about one hundred thousand square miles including
+    islands; population is estimated at a little over sixteen million.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 83-101
+  quote_or_summary: The passage describes regional climate variation, winter freezing
+    of the capital’s large river, and preservation of ice for summer use.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 102-108
+  quote_or_summary: "“The country is decidedly mountainous, and well watered.” The
+    same section notes heavy timber, fertile valleys, cultivation, and agriculture."
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: summary
+  locator: lines 109-114
+  quote_or_summary: Mineral resources are described as crudely developed but indicative
+    of great ore wealth, especially gold mines.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 115-122
+  quote_or_summary: Visitors and natives praise Korean scenery; guidebooks to natural
+    charms and scenic excursions are described as longstanding and common.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 123-135
+  quote_or_summary: The King is described as an absolute monarch assisted by the Prime-Minister,
+    ministers of the Left and Right, and heads of departments.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is introductory and expository rather than narrative or mythic.
+    Environmental symbols are recorded only as literal imagery; no candidate mythic
+    motifs or comparison claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No narrative myth motifs were identified in the provided passage. The final paragraph is truncated in the supplied text after 'open-'; extraction avoids completing it.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-tales-allen-archive__l66-l122
+  passage_sha256=dcf863340a5c0bcf5e2efbe0af046b830293cc4168d1529f9ff2c95f6f81c51c
+

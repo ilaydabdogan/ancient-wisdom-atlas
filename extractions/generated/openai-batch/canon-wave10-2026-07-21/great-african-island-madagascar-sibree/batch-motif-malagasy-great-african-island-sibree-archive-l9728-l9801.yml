@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l9728-l9801
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: TRADES  AND  OCCUPATIONS.  195 / CHAPTER  X. / INTERIOR  OF  A  HOVA  HOUSE.  199
+    / ARRANGEMENT  OF  A  HOVA  HOUSE.; lines 9728-9801
+  start: '9728'
+  end: '9801'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the interior arrangement of a Hova house in Imerina,
+    including the place of honour north of the hearth for guests, diagrammed domestic
+    zones, ordinary household goods, mat-covered floors, an attic cooking space, and
+    variation among other tribes in relation to the Hova north-south orientation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A place of honour called avara-patana, glossed as north of the hearth, is
+    located west of the north roof-post, and guests are invited to sit there on a
+    clean mat.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The diagram labels parts of the Hova house, including roof posts, a calf-tying
+    place, fowls' corner, a rice-pounding place, a sacred corner, and the place of
+    honour for guests.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The house is described as having little furniture, with items such as mats,
+    spoons, baskets, dishes, a water-drinking vessel, spears, a rice mortar and pounder,
+    a winnower, and weaving and spinning implements.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The earthen floor is covered with coarse mats, and the walls may be lined
+    with finer mats.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: An attic may be made in the roof, reached by a rude ladder, and often used
+    as a cooking-place after being covered with earth.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that house arrangement varies among other tribes, while
+    the Hovas retain the north-south direction in most cases.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: guests
+  description: People invited to sit in the place of honour on a clean mat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hovas
+  description: The group whose ordinary house arrangement in Imerina is described
+    and who are said to retain the north-south direction.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: other tribes
+  description: Groups whose house arrangements are said to vary and not require the
+    same north-south direction.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: poorer classes
+  description: Households for whom the listed goods constitute about the whole household
+    equipment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: honoured guest
+  assigned_to:
+  - fig:1
+  basis: Guests are invited to sit in the avara-patana, the place of honour.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: house-arrangement group
+  assigned_to:
+  - fig:2
+  basis: The passage presents the arrangement as an ordinary Hova house in Imerina
+    and notes Hova retention of north-south direction.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: contrasting house-arrangement groups
+  assigned_to:
+  - fig:3
+  basis: Other tribes are said to vary the house arrangement and not need to keep
+    the north-south direction.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: owners or users of minimal household goods
+  assigned_to:
+  - fig:4
+  basis: The listed domestic items are said to make up about the whole household goods
+    in poorer-class dwellings.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: place of honour north of the hearth
+  literal_form: avara-patana, glossed as north of the hearth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: clean guest mat
+  literal_form: a clean mat spread as a seat for guests
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sacred corner
+  literal_form: 'diagram label: Sacred Corner'
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: north-south house direction
+  literal_form: north and south direction retained by Hovas
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: drinking water vessel
+  literal_form: a horn or tin zinga for drinking water; waterpots shown in the diagram
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Honour-place seating for guests
+  summary: The passage identifies a guest place of honour north of the hearth and
+    describes a clean mat being spread there as a seat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Diagrammed interior zones of the Hova house
+  summary: The house diagram assigns named zones and features, including roof posts,
+    animal-related corners, rice-pounding area, sacred corner, and guest honour-place.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Household goods and work equipment
+  summary: The passage lists the sparse furniture and domestic equipment of poorer
+    dwellings, including mats, baskets, dishes, water vessel, spears, rice-processing
+    tools, and textile implements.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Attic cooking-place
+  summary: An upper chamber in the roof is described as reachable by ladder and often
+    used for cooking, helping keep the lower part of the house free from smoke and
+    dirt.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Variation in house orientation among tribes
+  summary: The passage states that other tribes vary the house arrangement, while
+    Hovas generally retain north-south orientation.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: domestic place of honour for guests
+  taxonomy_refs: []
+  basis: The house has a named honour-place north of the hearth where guests are seated
+    on a clean mat.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic domestic pattern rather than a narrative myth
+    motif.
+- id: motif:2
+  label: marked sacred corner within the house
+  taxonomy_refs: []
+  basis: The house diagram includes a specifically labeled Sacred Corner.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage labels the corner but does not explain its ritual use or meaning.
+- id: motif:3
+  label: directional orientation of dwelling space
+  taxonomy_refs: []
+  basis: The passage notes a north-south direction associated with Hova houses and
+    contrasts it with other tribes that do not need to keep it.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The text does not explain why the orientation matters or attach a mythic
+    rationale to it.
+- id: motif:4
+  label: zoned household space for animals, food work, guests, and sacred area
+  taxonomy_refs: []
+  basis: The diagram and inventory show specific interior zones for calf-tying, fowls,
+    pounding rice, a sacred corner, guest honour-place, water storage, and domestic
+    work equipment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a material-culture and spatial-organization pattern; symbolic
+    significance is only explicit for the labelled sacred and honour places.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Hova practice of spreading a clean mat
+    for an honoured guest to handing a chair to a guest in European houses, indicating
+    a similar guest-seating function.
+  claim_level: same_function
+  target: European household practice of offering a chair to guests
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is the author's functional analogy; it does not establish historical
+    contact, shared symbolism, or a mythological motif.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9728-9736
+  quote_or_summary: The passage describes the avara-patana as the "place of honour"
+    and "north of the hearth," where guests sit on a clean mat, compared to a chair
+    in European houses.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; concise excerpt/summary used.
+- id: ev:2
+  type: summary
+  locator: diagram within lines 9737-9759
+  quote_or_summary: The diagram labels roof posts, the place of tying the calf, fowls'
+    corner, the place of pounding rice, the sacred corner, and the place of honour
+    for guests; it also shows waterpots.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9737-9761
+  quote_or_summary: 'The passage lists sparse household goods: rolls of mats, spoons,
+    baskets, dishes, a drinking-water vessel, spears, rice-processing tools, and implements
+    for weaving and spinning, making up much of poorer households'' goods.'
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9761-9770
+  quote_or_summary: The smooth earthen floor is covered with coarse mats; walls may
+    be lined with finer mats; an attic reached by ladder may be covered with earth
+    and used as a cooking-place to keep the lower house cleaner.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9771-9801
+  quote_or_summary: The arrangement of the house varies among other tribes, which
+    do not need to keep the north-south direction, though the Hovas retain it in most
+    cases.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The material details are clear, but motif identification is limited because
+    the passage is ethnographic description of domestic architecture rather than a
+    mythic narrative. No available motif-family taxonomy reference is directly supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No mythological narrative is present in the passage. Taxonomy mapping is limited to the literal water reference for drinking water/waterpots; other symbolic readings are intentionally not inferred.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l9728-l9801
+  passage_sha256=3eb86b2a6a3c15d0139079a9c0975492b90e3bfa53026902e7f9fd9ab5f5a98e
+

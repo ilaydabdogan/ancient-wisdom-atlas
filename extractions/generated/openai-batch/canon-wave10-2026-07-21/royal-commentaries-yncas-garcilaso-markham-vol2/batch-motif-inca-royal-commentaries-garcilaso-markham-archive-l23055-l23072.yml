@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l23055-l23072
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: VOL.  II. / NINTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. /
+    CHAPTER  XXXVI.; lines 23055-23072
+  start: '23055'
+  end: '23072'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: all conquered territory belonged to the imperial crown
+  summary: The chapter heading and opening paragraph introduce an explanation for
+    Atahuallpa's atrocities against members of his own family. The narrator states
+    that, under long-kept statutes of the kingdom, Huayna Ccapac had no right to give
+    the kingdom of Quitu to Atahuallpa because conquered territory belonged to the
+    imperial crown.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The chapter heading announces an explanation of the causes and effects of
+    Atahuallpa's atrocities.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator says the passage will explain the causes that induced Atahuallpa
+    to commit atrocities on members of his own family.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that statutes and rules of the kingdom were kept inviolably
+    from the time of Yuca Manco Ccapac to that of Huayna Ccapac.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that Huayna Ccapac, Atahuallpa's father, had no right to
+    give the kingdom of Quitu to Atahuallpa.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that conquered territory belonged to the imperial crown.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Atahuallpa
+  description: Named as the person who committed atrocities on members of his own
+    family and as the intended recipient of the kingdom of Quitu.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: members of Atahuallpa's own family
+  description: Named as the people against whom Atahuallpa committed atrocities.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Yuca Manco Ccapac
+  description: Named as the earlier point from whose time the kingdom's statutes and
+    rules had been kept.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Huayna Ccapac
+  description: Called great and identified as Atahuallpa's father; named as the later
+    point in the continuity of the kingdom's statutes and rules and as the person
+    said to lack the right to give Quitu to Atahuallpa.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: committer of familial atrocities
+  assigned_to:
+  - fig:1
+  basis: The narrator says Atahuallpa committed atrocities on members of his own family.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: recipient of disputed territorial grant
+  assigned_to:
+  - fig:1
+  basis: The passage says Huayna Ccapac had no right to give the kingdom of Quitu
+    to Atahuallpa.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: kin victims
+  assigned_to:
+  - fig:2
+  basis: The family members are described as the targets of Atahuallpa's atrocities.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: earliest named point in legal continuity
+  assigned_to:
+  - fig:3
+  basis: The statutes and rules are said to have been kept from the time of Yuca Manco
+    Ccapac.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: father and unauthorized grantor
+  assigned_to:
+  - fig:4
+  basis: Huayna Ccapac is identified as Atahuallpa's father and as lacking the right
+    to give Quitu to him.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: kingdom of Quitu
+  literal_form: kingdom of Quitu
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: imperial crown
+  literal_form: imperial crown
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: kingdom statutes and rules
+  literal_form: statutes and rules of that kingdom
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Announcement of causes for Atahuallpa's atrocities
+  summary: The chapter heading and narrator frame the following material as an explanation
+    of why Atahuallpa committed atrocities against his own family.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Legal objection to the grant of Quitu
+  summary: The narrator says that long-standing statutes barred Huayna Ccapac from
+    giving Quitu to Atahuallpa because conquered territory belonged to the imperial
+    crown.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: disputed royal legitimacy through unlawful territorial grant
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: 'The passage explains Atahuallpa''s later violence in relation to a contested
+    royal grant: Huayna Ccapac is said to have had no right to give Quitu to Atahuallpa
+    because conquered territory belonged to the imperial crown.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The excerpt is an introductory explanation and does not include the full
+    narrative of the atrocities or succession conflict.
+- id: motif:2
+  label: kin violence in dynastic conflict
+  taxonomy_refs: []
+  basis: The narrator explicitly connects Atahuallpa's atrocities against his own
+    family with a legal-political dispute over royal territory.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage names the atrocities but does not describe the victims, acts,
+    or full sequence within this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 23055-23058
+  quote_or_summary: 'Chapter title: “Causes of the atrocities of Atahuallpa and their
+    most cruel effects.”'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; short excerpt.
+- id: ev:2
+  type: summary
+  locator: 23060-23063
+  quote_or_summary: The narrator pauses to explain the causes that induced Atahuallpa
+    to commit atrocities on members of his own family.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: 23063-23068
+  quote_or_summary: The passage says the kingdom's statutes and rules had been kept
+    from Yuca Manco Ccapac to Huayna Ccapac, and that Huayna Ccapac had no right to
+    give Quitu to Atahuallpa.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: quote
+  locator: 23067-23068
+  quote_or_summary: "“all conquered territory belonged to the imperial crown”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif interpretation is limited
+    because the excerpt breaks off near the start of the explanation. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available symbol taxonomy item directly matches the imperial crown, Quitu, or statutes; symbol taxonomy references are therefore left empty.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l23055-l23072
+  passage_sha256=f11a95801bb2250346a2206a1e91b0601d9aee937ea16e90631dce9d55d566b6
+

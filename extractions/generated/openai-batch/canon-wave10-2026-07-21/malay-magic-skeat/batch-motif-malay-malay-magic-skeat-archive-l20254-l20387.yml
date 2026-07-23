@@ -1,0 +1,406 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l20254-l20387
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: BETROTHAL / CUSTOMS  AT  BETROTHAL / BETROTHAL / BETROTHAL  VERSES; lines
+    20254-20387
+  start: '20254'
+  end: '20387'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives translated Selangor betrothal verses formerly recited
+    by representatives of each party. The verses present a question-and-answer negotiation
+    over the girl, bride-price, gold or debt, acceptance by an outstretched hand,
+    and an alternative hostile ending if negotiations break down.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The former engagement ceremony is described as including the recital of appropriate
+    verses by chosen representatives of each party.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the translated verses, the questioning speaker asks the price of the “Diamond,”
+    identified in a note as the girl about whom the wooing party has come to treat.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'The answering speaker states a price using measures or money terms: seven
+    tahils, a kati, and five laksa.'
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The verses state that if the wooing side has no gold, it should not hope to
+    get “Somebody’s daughter.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The questioning speaker says it would accept even thousands of debt in order
+    to be betrothed to “Somebody’s daughter.”
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The answering speaker says a hand is stretched out as a token of acceptance.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that if there is a hitch and the parties begin to lose
+    their temper, the stanzas may end differently.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: In the hostile version, one speaker warns of a “war of strategy,” and the
+    answer ends with a formula about Heaven reeling and Earth being submerged.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: A note says one obscure line about saffron-rice and a fowl appears to mean
+    “let us make sacrifice,” and adds that saffron-stained rice is used sacrificially.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Questioning wooing-side speaker
+  description: The Q voice in the betrothal verses, representing the party asking
+    for the girl and negotiating the terms.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Answering girl-side speaker
+  description: The A voice in the betrothal verses; in the conflict passage this may
+    be the girl’s father or representative.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: The “Diamond” / Somebody’s daughter
+  description: The girl about whom the wooing party has come to treat, referred to
+    in the verses as the “Diamond” and as “Somebody’s daughter.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: Betrothal verse representative
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The ceremony is said to have used verses recited by chosen representatives
+    of each party.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Wooing-party requester
+  assigned_to:
+  - fig:1
+  basis: The Q speaker asks the price of the girl and states willingness to accept
+    debt to be betrothed.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: Girl-side respondent
+  assigned_to:
+  - fig:2
+  basis: The A speaker states the price, answers conditions, gives a token of acceptance,
+    and in the hostile version issues the final challenge.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: Bride-to-be under negotiation
+  assigned_to:
+  - fig:3
+  basis: A note identifies the “Diamond” as the girl about whom the wooing party has
+    come to treat; the verses also refer to obtaining “Somebody’s daughter.”
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Diamond as girl
+  literal_form: The girl is called the “Diamond” in the wooing question and note.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Bride-price and gold
+  literal_form: Seven tahils, a kati, five laksa, gold in the girdle, and debt are
+    named in the negotiation.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Hand of acceptance
+  literal_form: The answer says, “I stretch out my hand in token of acceptance.”
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Tree and plant imagery
+  literal_form: Rengas trees, screw-palm, banyan-wood, sago-palm, lenggundi bush,
+    and mango-tree appear in the verse imagery.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Water and river imagery
+  literal_form: The verses mention going up-stream, a Point, the sea, and a swamp.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: Cosmic upheaval challenge
+  literal_form: The hostile answer ends with the image, “Let Heaven reel and Earth
+    be submerged.”
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: Saffron-rice and fowl
+  literal_form: The obscure line mentions saffron-rice and roasting a fowl; the note
+    says saffron-stained rice is sacrificial.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Former ceremonial recitation
+  summary: The passage introduces betrothal verses as formerly recited by chosen representatives
+    of both parties in a Selangor engagement ceremony.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Opening price negotiation
+  summary: The questioning speaker asks the price of the “Diamond,” and the answering
+    speaker gives a specified price.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Terms, debt, and acceptance
+  summary: The verses discuss gold, the possibility of debt, and acceptance marked
+    by an outstretched hand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Breakdown and direct challenge
+  summary: If negotiations go badly, the stanzas may turn hostile, including a warning
+    about strategy and a final direct challenge with cosmic imagery.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Betrothal as negotiated exchange
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The verses frame betrothal through price, gold, debt, and a token of acceptance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage documents a social betrothal custom; the taxonomy term is
+    approximate because the exchange is not explicitly described as an offering to
+    a deity.
+- id: motif:2
+  label: Ritualized verse contest between representatives
+  taxonomy_refs: []
+  basis: The ceremony uses alternating Q/A stanzas by representatives, and the same
+    form can shift from negotiation to confrontation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a formal social performance rather than a mythic narrative episode.
+- id: motif:3
+  label: Sacrificial rice and fowl formula
+  taxonomy_refs:
+  - sacrifice
+  basis: A note interprets a line about saffron-rice and roasting a fowl as apparently
+    meaning sacrifice, with saffron-stained rice used sacrificially.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The editor explicitly says the line is obscure and not quite clear.
+- id: motif:4
+  label: Cosmic upheaval as challenge formula
+  taxonomy_refs:
+  - chaos
+  basis: The final hostile lines invoke Heaven reeling and Earth being submerged,
+    and the prose identifies them as a direct challenge.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents the image as a challenge formula, not as an actual
+    cosmological event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 20254-20264
+  quote_or_summary: The former engagement ceremony is said to have included recital
+    of occasion-appropriate verses by chosen representatives of each party; the specimens
+    are said to have been formerly used in Selangor.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: 20265-20278
+  quote_or_summary: The Q speaker asks the price of the “Diamond”; the A speaker replies
+    with a price of seven tahils, a kati, and five laksa. A note explains that “Diamond”
+    means the girl about whom the wooing party has come to treat.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: 20279-20291
+  quote_or_summary: The verses compare getting materials from trees with having gold
+    in the girdle; the answer says that without gold one should not hope to get “Somebody’s
+    daughter.”
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: 20292-20313
+  quote_or_summary: The Q speaker says thousands of debt would be accepted to be betrothed;
+    the A speaker says a hand is stretched out as a token of acceptance; the Q speaker
+    says the favor shown subdues the heart.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: 20314-20341
+  quote_or_summary: The prose says that if proceedings hitch and tempers rise, the
+    verses may end differently; the hostile stanzas include a warning about not being
+    hit in a “war of strategy” and an answer invoking Heaven and Earth.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: quote
+  locator: 20342-20346
+  quote_or_summary: "“Let Heaven reel and Earth be submerged.” The prose states that
+    these last two lines constitute a direct challenge."
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: note
+  locator: 20360-20384
+  quote_or_summary: The editor notes that the line about the rice-box and the next
+    line are obscure, but the latter appears to mean “let us make sacrifice”; rice
+    stained with saffron is said to be always used sacrificially.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; concise summary with short quoted phrase.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear as a description of betrothal verse performance and
+    negotiation. Motif assignments are cautious because the material is a social custom
+    with some ritual language, not a mythic narrative. No external comparison claims
+    are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The passage begins mid-sentence in the supplied range, so details before the heading context are not inferred.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l20254-l20387
+  passage_sha256=491335329eee9b7378d8fe1817115dad8806f084d965158c42a5add5a2a28edb
+

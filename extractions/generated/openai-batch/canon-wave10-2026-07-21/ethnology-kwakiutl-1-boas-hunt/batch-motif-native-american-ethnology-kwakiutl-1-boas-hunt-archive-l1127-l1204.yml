@@ -1,0 +1,233 @@
+---
+record_id: batch.motif.native-american-ethnology-kwakiutl-1-boas-hunt-archive-l1127-l1204
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+passage_locator:
+  label: Ethnology of the Kwakiutl, Part 1 / I. INDUSTRIES / INDUSTRIES; lines 1127-1204
+  start: '1127'
+  end: '1204'
+  translation: Ethnology of the Kwakiutl, Part 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes canoe sail construction and use: a board sail made
+    from short boards sewed with twisted cedar-withes, its short mast and handling
+    in wind or calm, and a woven cedar-bark mat sail for small canoes with holes,
+    sprit, mast, sheet, and cedar-bark ropes.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A worker drills holes along a cross end-piece and cuts grooves between alternating
+    pairs of drill-holes, then turns the sewed boards over and cuts grooves on the
+    opposite side where grooves were not cut before.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The worker uses twisted cedar-withes to sew short boards together and repeats
+    the process at several indicated positions until the end is reached.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The board sail is identified as the sail used by ancient people before white
+    people came, and it is described as short boards sewed together.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The canoe mast for the board sail is short and stands in the bow, just showing
+    above the top edge of the board sail.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When the canoe runs before the wind, the wind presses the board sail against
+    the mast; when calm comes, the sail and mast are taken down and stowed flat in
+    the bow.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A woven mat sail for small canoes is made from the middle part of cedar-bark
+    in narrow strips.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The mat sail is described as one fathom and two spans long and one fathom
+    wide, with holes used for attaching it to the mast, sprit, and lower sheet.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A young cedar-tree is peeled for the mast, another young cedar-tree is used
+    for the sprit, and twisted cedar-bark rope is used to hold the sail and sprit
+    to the mast.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed sail maker or rigging worker
+  description: An unnamed worker described through actions such as drilling, cutting
+    grooves, sewing boards, peeling a young cedar-tree, and tying ropes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: ancient people
+  description: A collective group identified as using the board sail before white
+    people came.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: craft worker
+  assigned_to:
+  - fig:1
+  basis: The figure performs the described manufacture and rigging actions for board
+    and mat sails.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: precontact users of the board sail
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the short-board sail as the sail of the ancient people
+    before white people came.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sewn board sail
+  literal_form: short boards sewed together with twisted cedar-withes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: short canoe mast
+  literal_form: short mast standing in the bow and rising just above the board sail
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: woven cedar-bark mat sail
+  literal_form: woven mat sail of narrow cedar-bark strips for small canoes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: young cedar-tree and cedar-bark rope
+  literal_form: young cedar-tree used for mast and sprit; twisted cedar-bark rope
+    used for fastening
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Making the board sail
+  summary: The worker drills and grooves the cross end-piece, turns the sewed boards
+    over to cut opposite-side grooves, and sews short boards together with twisted
+    cedar-withes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Using and stowing the board sail
+  summary: The board sail is raised against a short mast in the bow, pressed by the
+    wind while running before it, then lowered with the mast and stowed flat in the
+    bow when calm comes.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Making and rigging the mat sail
+  summary: A cedar-bark mat sail is woven for small canoes, pierced with holes for
+    mast, sprit, and sheet, and rigged with a young cedar mast, young cedar sprit,
+    and twisted cedar-bark rope.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1127-1204, board-sail construction opening
+  quote_or_summary: The worker drills holes along a cross end-piece, cuts alternating
+    grooves on both sides, and sews boards with twisted cedar-withes.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 1127-1204, board-sail use and stowage
+  quote_or_summary: The passage identifies the short-board sail as used by ancient
+    people before white people came; it describes a short mast in the bow, wind pressing
+    the sail against the mast, and the sail and mast being taken down and stowed flat
+    in the bow in calm weather.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 1127-1204, Mat Sail and Mast
+  quote_or_summary: A woven mat sail for small canoes is made from narrow strips of
+    the middle part of cedar-bark; its dimensions and holes for mast, sprit, and sheet
+    are described.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 1127-1204, Mat Sail and Mast, rigging details
+  quote_or_summary: A young cedar-tree is peeled for the mast, twisted cedar-bark
+    rope is passed through the sail holes and around the mast, another young cedar-tree
+    serves as the sprit, and rope fastens the sprit to the mast.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a technical ethnographic description with some OCR/layout
+    fragmentation. Literal object and action extraction is supported, but no mythological
+    motif or passage-supported comparative claim is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No candidate myth motifs were extracted because the passage concerns canoe-sail manufacture and rigging rather than narrative or ritual mythic material.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-ethnology-kwakiutl-1-boas-hunt-archive__l1127-l1204
+  passage_sha256=33102e207add6d8ae81f808c5e2477fd4e229d5f3cc74b83d779d95eaccfa729
+

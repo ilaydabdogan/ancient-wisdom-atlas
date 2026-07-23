@@ -1,0 +1,245 @@
+---
+record_id: batch.motif.african-reynard-the-fox-hottentot-bleek-archive-l910-l939
+source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+passage_locator:
+  label: PEIJFACE.  XXI / XXIV  PREIACE. / PREFACE.  XXV / XXVIU  PEEFACE.; lines
+    910-939
+  start: '910'
+  end: '939'
+  translation: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: In a preface, the editor discusses relationships among Hottentot, Damara,
+    oTyi-herero, and Zulu tales. He suggests that the beginning of the Hottentot fable
+    of The Giraffe and the Tortoise may be missing and may have resembled a corresponding
+    Damara opening, while judging the Hottentot fable more original than the oTyi-herero
+    text. He also notes inclusion of an oTyi-herero household tale about an unreasonable
+    child and a dog, and a Zulu Origin of Death legend that he says is analogous to
+    Hottentot treatments of the same subject.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that portions of related material bear a striking resemblance.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editor says the beginning of the Hottentot fable of The Giraffe and the
+    Tortoise is not unlikely to be missing and may have resembled the beginning of
+    a corresponding Damara tale.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The editor states that, as far as it goes, the Hottentot fable is evidently
+    more original than the oTyi-herero text.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage names Rath's fifteenth oTyi-herero household tale as The Unreasonable
+    Child to whom the Dog gave its Deserts.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The editor says he added the Zulu legend of the Origin of Death, describing
+    it as a mixture of fable and myth and as analogous to the Hottentot treatment
+    of the same subject.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The editor says four different Hottentot versions of the Origin of Death subject
+    are given.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says second versions of some fables and one legend were drawn
+    from a German manuscript by Mr. Knudsen regarding the Hottentots and their language.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Giraffe
+  description: Named as a figure in the title of the Hottentot fable The Giraffe and
+    the Tortoise.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Tortoise
+  description: Named as a figure in the title of the Hottentot fable The Giraffe and
+    the Tortoise.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Unreasonable Child
+  description: Named in the title of an oTyi-herero household tale.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Dog
+  description: Named in the title of the tale The Unreasonable Child to whom the Dog
+    gave its Deserts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: animal figure named in tale title
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  basis: The passage names Giraffe, Tortoise, and Dog only as title figures in fables
+    or household tales.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: child figure named in tale title
+  assigned_to:
+  - fig:3
+  basis: The passage names an unreasonable child in the title of an oTyi-herero household
+    tale.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Giraffe and Tortoise animal fable
+  taxonomy_refs: []
+  basis: The passage identifies a Hottentot fable titled The Giraffe and the Tortoise
+    and compares it with corresponding Damara and oTyi-herero material.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives no plot details beyond the title and editorial comparison.
+- id: motif:2
+  label: Origin of Death legend
+  taxonomy_refs: []
+  basis: The passage names a Zulu legend of the Origin of Death and says Hottentot
+    treatments of the same subject exist in four versions.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not summarize the mythic events or identify specific
+    figures involved.
+- id: motif:3
+  label: Unreasonable child and dog tale
+  taxonomy_refs: []
+  basis: The passage names an oTyi-herero household tale, The Unreasonable Child to
+    whom the Dog gave its Deserts.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Only the title and source context are provided; no narrative pattern can
+    be extracted from this passage alone.
+comparison_claims:
+- id: claim:1
+  claim: The Hottentot fable of The Giraffe and the Tortoise is presented as corresponding
+    to a Damara version, with a possibly missing Hottentot beginning that may have
+    resembled the Damara beginning.
+  claim_level: same_motif
+  target: Damara corresponding tale of The Giraffe and the Tortoise
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is editorial and the passage provides no tale text or detailed
+    parallel episodes.
+- id: claim:2
+  claim: The Hottentot fable is judged by the editor to be more original than the
+    oTyi-herero text.
+  claim_level: same_motif
+  target: oTyi-herero corresponding text
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states the editor's judgment but does not give supporting
+    textual details.
+- id: claim:3
+  claim: The Zulu Origin of Death legend is said to show a great analogy to Hottentot
+    treatments of the same subject, including in several details of composition.
+  claim_level: same_motif
+  target: Hottentot Origin of Death versions
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not provide the actual parallel details, only the
+    editor's characterization.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 910-917
+  quote_or_summary: The editor says related portions bear a striking resemblance and
+    suggests that the beginning of the Hottentot fable The Giraffe and the Tortoise
+    may be missing and may have resembled the beginning of a corresponding Damara
+    version.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 917-920
+  quote_or_summary: The editor states that, as far as it goes, the Hottentot fable
+    is evidently more original than the oTyi-herero text.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 920-923
+  quote_or_summary: The editor says he has included Rath's fifteenth oTyi-herero household
+    tale, titled The Unreasonable Child to whom the Dog gave its Deserts.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 924-929
+  quote_or_summary: The editor says he added a Zulu legend of the Origin of Death,
+    describes it as a mixture of fable and myth, and says it shows great analogy to
+    the Hottentot treatment of the same subject, of which four versions are provided.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 930-939
+  quote_or_summary: The passage says second versions of two or three fables and one
+    legend were supplied from one of Mr. Knudsen's German manuscripts concerning the
+    Hottentots and their language.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is prefatory and comparative rather than narrative. Explicit
+    titles and editorial comparison claims are clear, but plot-level motif extraction
+    is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family or symbol was applied because the passage supplies only titles and editorial comparisons, not enough narrative detail to support those taxonomy assignments.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-reynard-the-fox-hottentot-bleek-archive__l910-l939
+  passage_sha256=7d11915114c52267a7b70758069f8ffc3315160a4a70bf3db50c1d81a4f36b1d
+

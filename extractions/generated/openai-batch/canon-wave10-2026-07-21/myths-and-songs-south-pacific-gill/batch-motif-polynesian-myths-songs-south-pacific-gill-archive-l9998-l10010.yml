@@ -1,0 +1,245 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l9998-l10010
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: INUINU  RUA. / INUINU  A. / FOURTH  OFFSHOOT. / AKAREINGA.  FINALE.; lines
+    9998-10010
+  start: '9998'
+  end: '10010'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: Puvai by his early death is qualified to lead off a band of ghosts to the
+    shades.
+  summary: 'A finale refrain is followed by an editorial note: the song is said to
+    parallel songs relating to Vera; Puvai, nephew of Potiki, died early and is described
+    as qualified to lead ghosts to the shades; great honours were paid to him because
+    of his relationship to the island''s living ruler; the next item is introduced
+    as a lament.'
+  language: English with Mangaian refrain
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed “AKAREINGA. FINALE.” and begins with a repeated song
+    refrain.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentary states that this song is precisely parallel with songs relating
+    to Vera.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Puvai is identified as nephew to Potiki, who is described as supreme temporal
+    chief of Mangaia.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Puvai’s early death is said to qualify him to lead a band of ghosts to the
+    shades.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Great honours were paid to Puvai because he was a near relative of the living
+    ruler of the island.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The following item is introduced as a lament and is described as very affecting
+    from a Christian point of view.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Puvai
+  description: Nephew to Potiki; died early; described as qualified to lead a band
+    of ghosts to the shades; received great honours as near relative of the living
+    ruler.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Potiki
+  description: Supreme temporal chief of Mangaia and uncle of Puvai; associated with
+    the living rulership referenced in the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: band of ghosts
+  description: A group of ghosts said to be led by Puvai to the shades.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: chiefly nephew / near relative of ruler
+  assigned_to:
+  - fig:1
+  basis: Puvai is called nephew to Potiki and near relative of the living ruler.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: supreme temporal chief / living ruler
+  assigned_to:
+  - fig:2
+  basis: Potiki is described as supreme temporal chief of Mangaia; the passage also
+    refers to the living ruler of the island.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: leader of ghosts to the shades
+  assigned_to:
+  - fig:1
+  basis: Puvai’s early death is said to qualify him to lead off a band of ghosts to
+    the shades.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: ghost band being led to the shades
+  assigned_to:
+  - fig:3
+  basis: The passage names a band of ghosts as being led by Puvai to the shades.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: the shades
+  literal_form: Afterlife destination called “the shades.”
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Puvai leads ghosts toward the shades
+  summary: The commentary presents Puvai, after his early death, as qualified to lead
+    a band of ghosts to the shades.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:2
+  label: Honours for the ruler’s relative
+  summary: Puvai receives great honours because he is a near relative of the island’s
+    living ruler.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: deceased figure leads ghosts to an afterlife realm
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Puvai’s early death qualifies him to lead a band of ghosts to the shades.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The excerpt gives no detailed itinerary or map of the shades beyond the
+    destination named.
+- id: motif:2
+  label: lament and honours for a chiefly dead relative
+  taxonomy_refs: []
+  basis: The passage connects Puvai’s death, his status as near relative of the living
+    ruler, great honours paid to him, and the introduction of a lament.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The specific honours and the lament text are not included in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The source states that this song is precisely parallel with songs relating
+    to Vera.
+  claim_level: same_motif
+  target: songs relating to Vera
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The excerpt does not quote or summarize the Vera songs, so the basis
+    of the parallel cannot be checked within this passage alone.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9998-10000
+  quote_or_summary: "“AKAREINGA. FINALE.” followed by the repeated refrain “Ai e ruaoo
+    e ! E rangai e !”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: line 10002
+  quote_or_summary: "“This song is precisely parallel with those relating to Vera.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 10003-10004
+  quote_or_summary: "“Nephew to Potiki, supreme temporal chief of Mangaia”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 10003-10005
+  quote_or_summary: "“Puvai by his early death is qualified to lead off a band of
+    ghosts to the shades.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:5
+  type: quote
+  locator: lines 10005-10006
+  quote_or_summary: "“Great honours were paid to him as the near relative of the living
+    ruler of the island.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:6
+  type: quote
+  locator: lines 10008-10010
+  quote_or_summary: "“From a Christian point of view the following ‘lament’ is very
+    affecting”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on a short editorial passage. The afterlife-leading motif
+    is explicit, while broader motif classification remains limited by the absence
+    of the full lament and the Vera comparison text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No additional comparisons were added beyond the passage’s own statement that the song parallels those relating to Vera.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l9998-l10010
+  passage_sha256=c77eb685d2830c08541dbb669652ec3604becd0304552de54cf19f4acfbe4961
+

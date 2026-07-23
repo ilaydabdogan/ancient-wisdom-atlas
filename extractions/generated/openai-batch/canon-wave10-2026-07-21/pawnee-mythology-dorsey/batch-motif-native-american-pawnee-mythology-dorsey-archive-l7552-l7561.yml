@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l7552-l7561
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: HANDSOME-BOY  AND  AFTER-BIRTH  BOY.  149 / ISO  TALES  OF  READY-TO-GIVE.
+    / HANDSOME-BOY  AND  AFTER-BIRTH  BOY.  151 / HANDSOME-BOY  AND  AFTER-BIRTH  BOY.  153;
+    lines 7552-7561
+  start: '7552'
+  end: '7561'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Two boys reach another village. The strange boy says the people are bad,
+    that they must be killed in the under-world, and that the villagers would not
+    reveal whether the boys' father is there. He tells Handsome-Boy to twist his head;
+    both boys twist their heads and their heads rattle like gourds. The strange boy
+    then instructs Handsome-Boy to enter the village by one way while he enters by
+    another, and to announce that the people will die whether they look at Handsome-Boy
+    or not.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The two boys travel onward and arrive at another village.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The strange boy says the people of the village are very bad and must be killed
+    in the under-world.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The strange boy says that if their father is in the village, the villagers
+    will not tell them.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The strange boy tells Handsome-Boy to twist his head around.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Both boys twist their heads around, and their heads rattle as if they were
+    two gourds.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The strange boy instructs Handsome-Boy that they should enter the village
+    by different ways.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Handsome-Boy is instructed to tell the people that they will die if they look
+    at him and will also die if they do not look at him.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Handsome-Boy
+  description: One of the two boys; he is addressed by the strange boy, told to twist
+    his head, and instructed to enter the village and speak a death-warning to the
+    people.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the strange boy
+  description: One of the two boys; he identifies the villagers as bad, gives instructions
+    to Handsome-Boy, and plans separate entry into the village.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: people of the village
+  description: A collective group in the village reached by the boys; the strange
+    boy calls them very bad and says they must be killed in the under-world.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: our father
+  description: A father referred to by the strange boy as possibly being in the village;
+    the passage does not state whether he is present.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: traveling boy pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage begins with two boys traveling onward to another village.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: planner and instructor
+  assigned_to:
+  - fig:2
+  basis: The strange boy gives the assessment of the villagers and directs Handsome-Boy's
+    actions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: appointed warning speaker
+  assigned_to:
+  - fig:1
+  basis: Handsome-Boy is told to speak on the way and announce the fatal condition
+    to the villagers.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: targeted villagers
+  assigned_to:
+  - fig:3
+  basis: The villagers are described by the strange boy as bad and as people to be
+    killed in the under-world.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: possibly sought father
+  assigned_to:
+  - fig:4
+  basis: The strange boy says that if their father is in the village, the villagers
+    will not tell them.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: under-world as place of killing
+  literal_form: under-world
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: rattling gourd-like heads
+  literal_form: twisted heads rattling as if they were two gourds
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: fatal looking and not-looking
+  literal_form: people die if they look at Handsome-Boy and die if they do not look
+    at him
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: arrival at another village
+  summary: The two boys travel on and come to another village, whose people the strange
+    boy calls very bad.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: head twisting and gourd rattling
+  summary: At the strange boy's instruction, Handsome-Boy and the strange boy twist
+    their heads around, and their heads rattle like gourds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: divided entry and death-warning
+  summary: The strange boy directs Handsome-Boy to enter the village by one way while
+    he enters by another, and to announce that the villagers will die whether they
+    look at Handsome-Boy or not.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: traveling boy pair arrives at a hostile village
+  taxonomy_refs: []
+  basis: Two boys travel to another village, and the strange boy characterizes its
+    people as very bad.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain the full journey context beyond this arrival.
+- id: motif:2
+  label: magical head-twisting with rattling sound
+  taxonomy_refs: []
+  basis: Both boys twist their heads around, and their heads rattle as if they were
+    gourds.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not state the purpose or effect of this action beyond
+    the immediate description.
+- id: motif:3
+  label: fatal gaze dilemma
+  taxonomy_refs: []
+  basis: Handsome-Boy is to tell the villagers that they will die if they look at
+    him and will die anyway if they do not look at him.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage ends mid-sentence, so the completion of the episode is not
+    included here.
+- id: motif:4
+  label: under-world killing of bad people
+  taxonomy_refs: []
+  basis: The strange boy says the villagers are very bad and must be killed in the
+    under-world.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states the intended under-world killing but does not show
+    the under-world action occurring.
+- id: motif:5
+  label: boy pair linked by a shared father
+  taxonomy_refs:
+  - sibling_pair
+  basis: The strange boy refers to 'our father' while speaking to Handsome-Boy.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage implies a shared father but does not explicitly use a kinship
+    term such as brothers.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7552-7553
+  quote_or_summary: The two boys travel onward and come to another village.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 7553-7554
+  quote_or_summary: '"These people are very bad. We must kill them in the under-world."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 7554-7555
+  quote_or_summary: The strange boy says the villagers will not say whether their
+    father is there, and tells Handsome-Boy to twist his head around.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: quote
+  locator: lines 7555-7556
+  quote_or_summary: '"The two boys twisted their heads around and their heads rattled
+    as if they were two gourds."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 7556-7559
+  quote_or_summary: The strange boy tells Handsome-Boy that they should enter the
+    village separately, Handsome-Boy by one way and the strange boy by another.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: quote
+  locator: lines 7559-7561
+  quote_or_summary: '"if they look at you they will die; that if they do not look
+    at you they will die anyway"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short quotation from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is straightforward, but the passage ends mid-sentence
+    and the wider episode is not available in this record. No comparison claims were
+    extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. No taxonomy symbol references were applied because none of the available symbol IDs occur literally in this passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l7552-l7561
+  passage_sha256=0a62c1774a589fdebdbb083140d86bb022401ac069067997a6863396316892bb
+

@@ -1,0 +1,438 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l13087-l13132
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SEVENTH  BOOK  OF  THE  BOYAL / COMMENTARIES  OF  THE  YNCAS. / CHAPTER  XXIV.
+    / THEY  KILL  VALDIVIA,  AND  THE  WAR  CONTINUES  FOR  FIFTY  YEARS.; lines 13087-13132
+  start: '13087'
+  end: '13132'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports variant accounts of the killing of Governor Pedro de
+    Valdivia after a battle in Chile. Some said his former servant Lautaru killed
+    him while he was tied to a pole. Another account, presented as more probable,
+    says an old captain killed him with a club to stop other captains from accepting
+    Valdivia's promises to leave Chile with the Spaniards and never return.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: News was carried to the Spaniards of a disaster, the death of Pedro de Valdivia,
+    and the death of those who were with him.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After a second report reached Peru, several versions circulated about how
+    Pedro de Valdivia was killed by the Indians.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the escaped Indians could not give an accurate account because
+    they were not eye-witnesses.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One reported version says Valdivia's own servant, Lautaru, killed him while
+    Valdivia was fastened to a pole.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In that version, Lautaru addressed his countryman and asked why they spared
+    the traitor.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Valdivia was said to have asked the Indians not to kill him until his servant
+    arrived, expecting the servant to save his life.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A second account, described as the most probable, says an old captain killed
+    Valdivia with a club.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The old captain may have been the same captain whose tactics won the victory.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Valdivia was killed hastily to prevent the men from accepting his offers and
+    untying him from the pole.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Other Indian captains were inclined to liberate Valdivia because they trusted
+    his promises.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Valdivia promised to depart from Chile, take all the Spaniards with him, and
+    never return.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The captain killed Valdivia suddenly with a club, ending the discussion among
+    the captains.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Pedro de Valdivia
+  description: Governor killed by the Indians; in the accounts he is tied to a pole,
+    offers to leave Chile with the Spaniards, and is killed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Indians
+  description: Group said to have killed Pedro de Valdivia; some captains considered
+    liberating him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Three escaped Indians
+  description: Escaped from the battle but are said not to have been eye-witnesses
+    and therefore could not give an accurate account.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Lautaru
+  description: Valdivia's own servant in one reported version; said to have killed
+    Valdivia while he was fastened to a pole.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Old captain
+  description: Captain in the more probable account who killed Valdivia with a club
+    and may have been the tactician of the victory.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:6
+  name_or_label: Other Indian captains
+  description: Captains who trusted Valdivia's promises and were inclined to liberate
+    him.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: Spaniards with Valdivia
+  description: The Spaniards whom Valdivia offered to take away from Chile; earlier
+    news reported the death of those with him.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:7
+roles:
+- id: role:1
+  label: governor
+  assigned_to:
+  - fig:1
+  basis: The passage calls Pedro de Valdivia the Governor.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: bound captive and negotiator
+  assigned_to:
+  - fig:1
+  basis: Valdivia is described as fastened to a pole, offering to leave Chile with
+    the Spaniards, and hoping to be spared.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:3
+  label: killers in the reported accounts
+  assigned_to:
+  - fig:2
+  basis: The passage says Valdivia was killed by the Indians and discusses their captains'
+    decisions.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:4
+  label: escaped non-eye-witness informants
+  assigned_to:
+  - fig:3
+  basis: They escaped from the battle but could not provide an accurate account because
+    they were not eye-witnesses.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: former servant and alleged killer
+  assigned_to:
+  - fig:4
+  basis: One version says Valdivia's own servant Lautaru killed him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: probable killer
+  assigned_to:
+  - fig:5
+  basis: The passage presents as most probable the account that an old captain killed
+    Valdivia with a club.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:7
+  label: victory tactician
+  assigned_to:
+  - fig:5
+  basis: The narrator says the old captain may have been the same captain whose tactics
+    won the victory.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: potential liberators
+  assigned_to:
+  - fig:6
+  basis: They were inclined to release Valdivia after hearing his promises.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: group to be withdrawn from Chile
+  assigned_to:
+  - fig:7
+  basis: Valdivia offered to take all the Spaniards with him out of Chile.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: binding pole
+  literal_form: pole to which Valdivia was fastened or tied
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: club weapon
+  literal_form: club used to kill Valdivia in the old-captain account
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:3
+  label: promise of departure
+  literal_form: Valdivia's offer to leave Chile with all Spaniards and never return
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Reports of Valdivia's death reach Peru
+  summary: After news of the disaster, a second report reaches Peru, and different
+    versions circulate because the escaped Indians were not eye-witnesses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Alleged killing by Lautaru
+  summary: One version says Valdivia was tied to a pole and killed by his own servant
+    Lautaru, whom Valdivia had expected to save him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Captain kills Valdivia to end deliberation
+  summary: In the account presented as more probable, other captains consider freeing
+    Valdivia after his promise to leave Chile, but an old captain suddenly kills him
+    with a club and ends the discussion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: conflicting accounts of a leader's death
+  taxonomy_refs: []
+  basis: The passage explicitly presents multiple reports about how Pedro de Valdivia
+    was killed and notes limits on the witnesses' accuracy.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a historiographic pattern in the passage, not a mythic taxonomy
+    motif.
+- id: motif:2
+  label: bound captive killed before release can be granted
+  taxonomy_refs: []
+  basis: Valdivia is tied to a pole, makes offers that lead some captains toward release,
+    and is killed hastily to prevent his liberation.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No ritual or supernatural meaning is stated.
+- id: motif:3
+  label: former servant as alleged betrayer-killer
+  taxonomy_refs: []
+  basis: One version says Valdivia's own servant Lautaru kills him, despite Valdivia's
+    expectation that the servant would save him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents this only as one reported version, not as the most
+    probable account.
+- id: motif:4
+  label: decisive killing to stop negotiation
+  taxonomy_refs: []
+  basis: The old captain sees other captains inclined to trust Valdivia, then kills
+    him with a club and ends the discussion.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a narrative action pattern; no available taxonomy reference is
+    directly supported.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13087-13090
+  quote_or_summary: News was given to the Spaniards of the disaster, the death of
+    Pedro de Valdivia, and the death of those with him.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13095-13100
+  quote_or_summary: After a second report reached Peru, Valdivia's killing was described
+    in several ways because the escaped Indians were not eye-witnesses.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 13100-13104
+  quote_or_summary: Some said his own servant Lautaru killed him when he was fastened
+    to a pole, saying, "Why do you spare this traitor?"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 13104-13108
+  quote_or_summary: Valdivia reportedly asked not to be killed until his servant arrived,
+    expecting that the servant would save his life.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13108-13112
+  quote_or_summary: The narrator says the most probable account was that an old captain
+    killed Valdivia with a club, possibly the same captain whose tactics won the victory.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 13112-13118
+  quote_or_summary: Valdivia was killed hastily so that the men would not accept his
+    offers and untie him from the pole.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 13118-13125
+  quote_or_summary: Other Indian captains trusted Valdivia's promises and were inclined
+    to liberate him; he offered to leave Chile with all Spaniards and never return.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 13125-13130
+  quote_or_summary: Seeing the others ready to trust the Governor, the captain rose
+    and suddenly killed him with a club, ending the discussion.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a historical chronicle with variant reports of an execution
+    after battle. Motif candidates are narrative patterns derived directly from the
+    passage; no available taxonomy motif is clearly supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage does not itself support a comparative mythology claim beyond reporting variant historical accounts.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l13087-l13132
+  passage_sha256=1459071461ccc950e3410af52d955b419c00d09595e98032b1a0da29f95afd98
+

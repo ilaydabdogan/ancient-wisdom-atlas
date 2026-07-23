@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l12378-l12394
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XVII. / COMMENTARIES  OF  THE  YNCAS. / SEVENTH  BOOK  OF  THE  BOYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 12378-12394
+  start: '12378'
+  end: '12394'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Chirihuanas as feared and formidable, says they
+    learned from the Yncas how to make communal dwellings, describes those houses
+    as large structures divided into small individual partitions, and records the
+    narrator's negative assessment of their condition.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says that a hundred or even a thousand men would not stand against
+    ten Chirihuanas.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Children are said to be quieted and silenced by the name of the Chirihuanas.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Chirihuanas learned from the Yncas how to make dwellings.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Chirihuanas lived in common in the dwellings they made.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The dwellings are described as very large houses divided into as many partitions
+    as there are inhabitants.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The partitions are described as only large enough to hold the tenants.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says the small partitions are sufficient because the inhabitants
+    have no clothes and go naked.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Each house is said to be considerable as a village.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The narrator characterizes the condition of the Chirihuanas negatively and
+    says it would be a great wonder to draw them out of it.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Chirihuanas
+  description: A people described as feared by neighbours, associated with communal
+    dwellings learned from the Yncas, and characterized negatively by the narrator.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Yncas
+  description: The people from whom the Chirihuanas learned how to make dwellings.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: children
+  description: Children are described as being quieted and silenced by the name of
+    the Chirihuanas.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: feared combatants
+  assigned_to:
+  - fig:1
+  basis: The passage says much larger numbers would not stand against ten Chirihuanas.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: learners of dwelling-making
+  assigned_to:
+  - fig:1
+  basis: The passage says the Chirihuanas learned from the Yncas how to make dwellings.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: source of dwelling-making knowledge
+  assigned_to:
+  - fig:2
+  basis: The Yncas are named as the group from whom the Chirihuanas learned dwelling-making.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: communal dwellers
+  assigned_to:
+  - fig:1
+  basis: The Chirihuanas are said to live in common in large houses divided into small
+    partitions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: children silenced by a feared name
+  assigned_to:
+  - fig:3
+  basis: Children are said to be quieted and silenced by the name of the Chirihuanas.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: fearsome name
+  literal_form: the name of the Chirihuanas
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: house as village
+  literal_form: a very large communal house divided into small partitions
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Fear of the Chirihuanas
+  summary: The passage presents the Chirihuanas as so formidable that large numbers
+    would not stand against ten of them, and as so feared that children are silenced
+    by their name.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Learning and inhabiting communal dwellings
+  summary: The Chirihuanas learn from the Yncas how to make dwellings and live in
+    common in large partitioned houses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Narratorial assessment
+  summary: The narrator concludes with a negative characterization of the Chirihuanas'
+    condition and says it would be a great wonder to draw them out of it.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: name that silences children
+  taxonomy_refs: []
+  basis: Children are said to be quieted and silenced by the name of the Chirihuanas.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives an ethnographic-style descriptive claim rather than
+    a developed mythic episode.
+- id: motif:2
+  label: cultural instruction in dwelling-making
+  taxonomy_refs:
+  - culture_hero
+  basis: The Chirihuanas are said to have learned from the Yncas how to make dwellings.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage names a collective people, not an individual culture hero
+    or supernatural teacher; the taxonomy link is functional and tentative.
+- id: motif:3
+  label: communal house as village
+  taxonomy_refs: []
+  basis: The passage describes each large partitioned house as able to be considered
+    a village.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a social-spatial pattern in the passage, not necessarily a mythological
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12382-12384
+  quote_or_summary: The passage says that a hundred or even a thousand men will not
+    stand against ten Chirihuanas, and that children are quieted by their name.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 12384-12385
+  quote_or_summary: The Chirihuanas are said to have learned from the Yncas how to
+    make dwellings, in which they lived in common.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 12386-12390
+  quote_or_summary: The dwellings are very large houses divided into small partitions
+    for each inhabitant; the passage says each house may be considered a village.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 12391-12392
+  quote_or_summary: The narrator refers to the Chirihuanas' condition as brutal and
+    says it would be a great wonder to draw them out of it.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are cautious
+    because the passage is descriptive and ethnographic rather than a complete mythic
+    narrative. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Line subranges are inferred from the supplied passage range and line breaks.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l12378-l12394
+  passage_sha256=9463f490a7bd4dcbf13c06a976ecf0fc67bc9cb7d848b6dde41f7c30e845404f
+

@@ -1,0 +1,425 @@
+---
+record_id: batch.motif.native-american-yana-texts-sapir-archive-l4476-l4525
+source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+passage_locator:
+  label: II. THE CONTEST OF FOX AND COYOTE.334 / III. THE LOST BROTHER.339 / VI. FIXING
+    THE SUN. / VII. WOODPECKER AND WOODRAT.; lines 4476-4525
+  start: '4476'
+  end: '4525'
+  translation: Yana Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Red-headed Woodpecker and Woodrat Woman live where people are hungry. Woodpecker
+    has acorn stores and withholds food from others, including his sick brother-in-law
+    Woodrat, while Woodrat Woman secretly feeds her brother. Woodrat later catches
+    salmon, eats with his sister, then shares salmon with Woodpecker, after which
+    Woodpecker stops taking food away from him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Red-headed Woodpecker is married to Woodrat Woman, and they live at We'yuldiyauk
+    laimadu.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people are nearly starving, while Woodpecker has acorns stored in sacks
+    and in tree holes.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Woodrat is Woodpecker's brother-in-law, is sick with a sore foot, and formerly
+    was a fisherman.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Woodpecker first tells his wife to give Woodrat plenty to eat, but later objects
+    when she gives him soup and takes it away.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Woodrat Woman hides acorn bread in a hole under her brother's pillow so he
+    can eat while pretending to sleep.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Woodpecker notices that Woodrat has become fat, and Woodrat says he will get
+    even with him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Woodrat gets his salmon spear, goes to Cow creek, sees salmon in the water,
+    and catches two.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Woodrat and his sister eat salmon together and hide the rest before Woodpecker
+    returns and smells it.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: After catching salmon again, Woodrat tells his sister to give Woodpecker some;
+    Woodpecker becomes eager for it, praises Woodrat, and no longer takes away Woodrat's
+    soup and bread.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Red-headed Woodpecker / Woodpecker
+  description: Husband of Woodrat Woman; sole possessor of acorns during hunger; removes
+    soup from Woodrat; later receives salmon and stops interfering with Woodrat's
+    food.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: Woodrat Woman / Rat Woman
+  description: Wife of Woodpecker and sister of Woodrat; gives soup, hides acorn bread
+    for her brother, cuts up salmon, and later serves food without Woodpecker taking
+    it away.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Woodrat
+  description: Brother-in-law of Woodpecker and brother of Woodrat Woman; sick with
+    a sore foot; formerly a fisherman; secretly fed by his sister; later catches salmon
+    and shares it.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: The people at We'yuldiyauk laimadu
+  description: A collective group described as nearly starving because of lack of
+    food.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: husband
+  assigned_to:
+  - fig:1
+  basis: Woodpecker is stated to be married to Woodrat Woman.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wife and sister
+  assigned_to:
+  - fig:2
+  basis: Woodrat Woman is Woodpecker's wife and is addressed by Woodrat as sister.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: food possessor and withholder
+  assigned_to:
+  - fig:1
+  basis: Woodpecker alone has acorn stores, gives none to others, and takes soup away
+    from Woodrat.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: sick dependent brother-in-law
+  assigned_to:
+  - fig:3
+  basis: Woodrat is called Woodpecker's brother-in-law and is sick with a sore foot.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: secret provider to sibling
+  assigned_to:
+  - fig:2
+  basis: Woodrat Woman hides acorn bread under her brother's pillow and later prepares
+    salmon with him.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:6
+  label: fisherman and later food provider
+  assigned_to:
+  - fig:3
+  basis: Woodrat was formerly a fisherman, takes a salmon spear, catches salmon, and
+    later has salmon given to Woodpecker.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: role:7
+  label: hungry community
+  assigned_to:
+  - fig:4
+  basis: The people are described as nearly starving for lack of food.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Tree-hole acorn stores
+  literal_form: acorns in sacks and in holes of trees
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Soup and acorn bread
+  literal_form: soup and acorn bread offered to Woodrat, removed by Woodpecker, hidden
+    by Woodrat Woman, and later allowed
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: Hidden pillow hole
+  literal_form: a hole dug under Woodrat's pillow to hold acorn bread
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Fire
+  literal_form: the fire toward which Woodrat turns his back before sleeping
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Salmon in Cow creek water
+  literal_form: salmon seen in the water at Cow creek, caught and eaten
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: Salmon spear
+  literal_form: Woodrat's salmon spear used before going to Cow creek
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Scarcity and Woodpecker's food stores
+  summary: Woodpecker and Woodrat Woman live at We'yuldiyauk laimadu during hunger;
+    Woodpecker alone has acorns, including stored acorns in sacks and tree holes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Food taken from the sick brother-in-law
+  summary: Woodpecker objects to Woodrat Woman giving soup to sick Woodrat and repeatedly
+    removes it; Woodrat Woman hides acorn bread under her brother's pillow so he can
+    eat secretly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Woodrat catches and conceals salmon
+  summary: After Woodpecker notices Woodrat is fat, Woodrat goes to Cow creek with
+    his salmon spear, catches salmon, eats with his sister, and hides the salmon before
+    Woodpecker returns.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Salmon shared and withholding stops
+  summary: Woodrat has salmon given to Woodpecker; Woodpecker praises him, says he
+    will no longer object, and no longer takes away Woodrat's soup and bread.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Food hoarding during communal hunger
+  taxonomy_refs: []
+  basis: The people lack food, but Woodpecker has extensive acorn stores and gives
+    none to others, later taking soup away from sick Woodrat.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level pattern; no external motif index number is supplied.
+- id: motif:2
+  label: Sibling secretly feeds a deprived relative
+  taxonomy_refs:
+  - sibling_pair
+  basis: Woodrat Woman secretly places acorn bread under her brother Woodrat's pillow
+    while Woodpecker removes the visible soup.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The sibling-pair taxonomy is supported by the sister-brother relationship,
+    but the passage focuses on food withholding rather than a named twin or sibling-hero
+    cycle.
+- id: motif:3
+  label: Reversal through obtaining better food
+  taxonomy_refs: []
+  basis: The deprived Woodrat catches salmon, eats with his sister, hides it from
+    Woodpecker, then shares it; Woodpecker's behavior changes and he stops taking
+    Woodrat's food.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage gives a clear reversal in food control, but no explicit ritual
+    or cosmological interpretation is stated.
+- id: motif:4
+  label: Affinal food reciprocity enforced by reversal
+  taxonomy_refs: []
+  basis: Woodpecker mistreats his brother-in-law by withholding food, but later depends
+    on Woodrat's salmon and promises not to object to feeding him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The in-law reciprocity pattern is inferred from the sequence of actions
+    and relations; the passage does not state a moral formula.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4476-4483
+  quote_or_summary: Woodpecker is married to Woodrat Woman; they live at We'yuldiyauk
+    laimadu; the people are nearly starving; Woodpecker alone has food, including
+    acorns from far away, ten sacks, and acorns in tree holes.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source text; summarized by extractor.
+- id: ev:2
+  type: summary
+  locator: lines 4483-4488
+  quote_or_summary: Woodrat is Woodpecker's brother-in-law, is sick with a sore foot,
+    cannot walk, and formerly was a fisherman; Woodpecker tells his wife to give him
+    plenty to eat, and she does.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source text; summarized by extractor.
+- id: ev:3
+  type: summary
+  locator: lines 4489-4497
+  quote_or_summary: Woodpecker sees Woodrat Woman give soup to her brother, objects,
+    takes the soup away, and puts it by his own bed; this happens repeatedly, and
+    Woodrat turns his back to the fire and sleeps.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source text; summarized by extractor.
+- id: ev:4
+  type: summary
+  locator: lines 4497-4501
+  quote_or_summary: Woodrat Woman digs a hole under her brother's pillow and puts
+    acorn bread there, so he can eat while pretending to sleep; Woodpecker is fooled.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source text; summarized by extractor.
+- id: ev:5
+  type: summary
+  locator: lines 4502-4512
+  quote_or_summary: Woodpecker again has Woodrat called to eat soup but takes it away,
+    later asks why Woodrat is fat; Woodrat says he will get even, takes his salmon
+    spear, goes to Cow creek, sees salmon in the water, and catches two.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source text; summarized by extractor.
+- id: ev:6
+  type: summary
+  locator: lines 4512-4519
+  quote_or_summary: Woodrat has his sister cut up the salmon; the two eat and feast,
+    then hide the salmon; Woodpecker returns, smells salmon, asks about it, and Woodrat
+    Woman denies having salmon.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source text; summarized by extractor.
+- id: ev:7
+  type: summary
+  locator: lines 4520-4525
+  quote_or_summary: Woodrat catches salmon again and, once they have had enough, tells
+    his sister to give Woodpecker some; Woodpecker eagerly wants it, praises Woodrat,
+    says he will not object again, and stops taking away Woodrat's soup and bread.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source text; summarized by extractor.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Narrative actions and relationships are explicit. Motif labels are passage-level
+    descriptive candidates; no external comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction is based only on the supplied passage text, which contains the section titled VII. WOODPECKER AND WOODRAT.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-yana-texts-sapir-archive__l4476-l4525
+  passage_sha256=bdf8a6f33fbbeb15bcf6e2f499d3607c3e1dc8d27dfed830da93528cb20c1b06
+

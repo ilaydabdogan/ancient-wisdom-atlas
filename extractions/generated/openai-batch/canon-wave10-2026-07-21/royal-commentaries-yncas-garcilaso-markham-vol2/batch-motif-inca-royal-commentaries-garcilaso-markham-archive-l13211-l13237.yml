@@ -1,0 +1,247 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l13211-l13237
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SEVENTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OP  THE  YNCAS. / CHAPTER  XXV.
+    / FURTHER  UNFORTUNATE  EVENTS  IN  THE  KINGDOM  OF  CHILE.; lines 13211-13237
+  start: '13211'
+  end: '13237'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“great earthquakes at Arequipa” and “rained cinders for nearly twenty days”"
+  summary: The narrator reports receiving fresh accounts of calamities in Chile in
+    1599 and Peru in 1600, including great earthquakes at Arequipa and a nearly twenty-day
+    fall of cinders from a volcano. A footnote identifies earlier and later recorded
+    Arequipa earthquakes and dates the latter to February 18, 1600. The supplied excerpt
+    ends before completing the statement about the quantity of cinders.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a chapter on further unfortunate events in the kingdom
+    of Chile.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator says that he had written thus far when unnamed persons gave him
+    fresh accounts of unfortunate and deplorable events.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The reported events are located in Chile in 1599 and in Peru in 1600.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Among the calamities, the accounts describe great earthquakes at Arequipa.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The accounts say that cinders rained for nearly twenty days from a volcano.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A footnote states that the first recorded earthquake at Arequipa after the
+    city was founded by Pizarro in 1540 occurred on January 2, 1580.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The same footnote states that the second great earthquake mentioned in the
+    text occurred on February 18, 1600.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The supplied passage includes a Spanish verse quotation cited to the Araucana,
+    Part I, Canto i.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: authorial narrator
+  description: The first-person speaker who says he had written thus far before receiving
+    accounts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: unnamed account-givers
+  description: Unidentified persons who gave the narrator fresh accounts of events
+    in Chile and Peru.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Pizarro
+  description: Named in the footnote as the founder of Arequipa in 1540.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: recipient and recorder of reports
+  assigned_to:
+  - fig:1
+  basis: The narrator states that he had written thus far when he was given fresh
+    accounts.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: providers of calamity accounts
+  assigned_to:
+  - fig:2
+  basis: The passage says unnamed persons gave the narrator fresh accounts of the
+    events.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: founder of Arequipa
+  assigned_to:
+  - fig:3
+  basis: The footnote states that Arequipa was founded by Pizarro in 1540.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: volcanic cinders
+  literal_form: Cinders raining from a volcano for nearly twenty days.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: volcano
+  literal_form: A volcano described as the source from which cinders rained.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: great earthquakes
+  literal_form: Great earthquakes at Arequipa.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: nearly twenty days
+  literal_form: The reported duration of the cinder fall.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Receipt of fresh reports
+  summary: The authorial narrator receives new accounts of unfortunate events in Chile
+    and Peru after having already written up to that point.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Arequipa earthquake and cinder fall
+  summary: The accounts describe great earthquakes at Arequipa and a nearly twenty-day
+    fall of cinders from a volcano.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: earthquake and volcanic ash calamity
+  taxonomy_refs: []
+  basis: The passage groups great earthquakes at Arequipa with cinders raining from
+    a volcano for nearly twenty days as calamities.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents these as historical calamities, not as divine punishment,
+    cosmic destruction, or a mythic origin event.
+- id: motif:2
+  label: reported distant disasters
+  taxonomy_refs: []
+  basis: The narrator frames the events as fresh accounts given to him of unfortunate
+    events in Chile and Peru.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a narrative-reporting pattern rather than a clearly mythological
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13211-13213
+  quote_or_summary: 'Chapter heading: “FURTHER UNFORTUNATE EVENTS IN THE KINGDOM OF
+    CHILE.”'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 13214-13217
+  quote_or_summary: The narrator says he had written to this point when he received
+    fresh accounts of unfortunate events in Chile in 1599 and Peru in 1600.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 13217-13220
+  quote_or_summary: The accounts include “great earthquakes at Arequipa” and say that
+    “it had rained cinders for nearly twenty days out of the volcano.”
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 13230-13236
+  quote_or_summary: The footnote says Arequipa was founded by Pizarro in 1540, records
+    a January 2, 1580 earthquake, and identifies the great earthquake mentioned in
+    the text as occurring on February 18, 1600.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: citation
+  locator: lines 13221-13229
+  quote_or_summary: The passage includes a Spanish verse quotation followed by the
+    citation “Araucana, Pte. I, Canto i.”
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; citation summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The concrete events are clear, but the passage is chiefly historical reportage.
+    Motif candidates are therefore descriptive and non-taxonomic. No comparison claims
+    are made because the passage does not itself support a specific comparative linkage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. No taxonomy motif or symbol reference was assigned because the passage does not explicitly frame the calamities as mythic fire, divine judgment, chaos, or cosmic destruction.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l13211-l13237
+  passage_sha256=7b77ba405f4538e046944cae2ca032d45c7e266d2a72b5adc27cc8d541b51efd
+

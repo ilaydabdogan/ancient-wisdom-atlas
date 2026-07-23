@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l13066-l13083
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: X.    PERSEPOLIS   INSCRIPTION   (H) / XL    PERSEPOLIS   INSCRIPTION   (G)
+    / XII.  XERXES   INSCRIPTION   (D) / XIII.  XERXES   INSCRIPTION   (E); lines
+    13066-13083
+  start: '13066'
+  end: '13083'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Ahura-mazda is praised as a great god who created earth, heavens, and mankind,
+    granted favour to mankind, and bestowed sovereignty on Xerxes. Xerxes identifies
+    himself with extensive royal titles and as the son of Darius the king. The supplied
+    passage ends during a statement about what Xerxes has done here and elsewhere
+    being accomplished under an incomplete phrase.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ahura-mazda is called a great god.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ahura-mazda is said to have created earth, heavens, and mankind.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ahura-mazda is said to have granted favour to mankind and sovereignty to Xerxes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Xerxes identifies himself as a great king, king of kings, king of countries,
+    king of all tongues, and king of the large, broad earth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Xerxes identifies himself as the son of Darius the king and as an Achaemenian.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Xerxes says that what he has done here and in another territory, all that
+    he has done, was accomplished under an incomplete phrase ending with “pro-” in
+    the supplied text.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Ahura-mazda
+  description: A great god who creates earth, heavens, and mankind, grants favour
+    to mankind, and bestows sovereignty on Xerxes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Xerxes
+  description: The speaker and king who receives sovereignty from Ahura-mazda and
+    identifies himself with multiple royal titles.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Darius
+  description: Named as the king and father of Xerxes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: mankind
+  description: A collective created by Ahura-mazda and granted favour by him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: creator god
+  assigned_to:
+  - fig:1
+  basis: Ahura-mazda is credited with creating earth, heavens, and mankind.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: grantor of favour and sovereignty
+  assigned_to:
+  - fig:1
+  basis: Ahura-mazda grants favour to mankind and bestows sovereignty on Xerxes.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divinely authorized king
+  assigned_to:
+  - fig:2
+  basis: Xerxes receives sovereignty from Ahura-mazda and claims extensive royal titles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: royal father
+  assigned_to:
+  - fig:3
+  basis: Darius is named as king and as the father of Xerxes.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: created humanity and recipient of favour
+  assigned_to:
+  - fig:4
+  basis: Mankind is said to have been created by Ahura-mazda and granted favour by
+    him.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: created earth
+  literal_form: this earth; the large, broad earth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: created heavens
+  literal_form: these heavens
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Creation and bestowal of sovereignty
+  summary: Ahura-mazda is presented as creator of earth, heavens, and mankind, giver
+    of favour to mankind, and giver of sovereignty to Xerxes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Royal self-identification
+  summary: Xerxes declares his royal titles, territorial scope, lineage from Darius,
+    and Achaemenian identity.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Statement of works in territories
+  summary: Xerxes begins to state that what he has done here and elsewhere was accomplished
+    under an incomplete phrase in the supplied passage.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Divinely granted royal legitimacy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage says Ahura-mazda bestowed sovereignty on Xerxes, and Xerxes reinforces
+    this status with titles such as great king and king of kings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives an inscriptional claim, not a narrative of accession
+    or coronation.
+- id: motif:2
+  label: Creator deity as source of cosmic and human order
+  taxonomy_refs: []
+  basis: Ahura-mazda is credited with creating earth, heavens, and mankind and granting
+    favour to mankind.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states creation claims briefly and does not narrate a detailed
+    cosmogony.
+- id: motif:3
+  label: Universal kingship titulary
+  taxonomy_refs: []
+  basis: Xerxes names himself king of kings, king of countries, king of all tongues,
+    and king of the large, broad earth.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a royal formula within an inscription rather than a developed
+    narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits the royal_legitimacy motif family because sovereignty is
+    explicitly described as bestowed by Ahura-mazda and reinforced by Xerxes’s royal
+    titles and lineage.
+  claim_level: same_motif
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage itself does not provide comparative historical evidence
+    beyond the internal motif fit.
+- id: claim:2
+  claim: The passage uses a same-function pattern in which a creator deity is presented
+    as the source of both cosmic order and earthly kingship.
+  claim_level: same_function
+  target: creator-deity authorization of kingship pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No nearby corpus comparison or transmission claim is supplied in the
+    passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13068-13072
+  quote_or_summary: Ahura-mazda is called a great god; he creates earth, heavens,
+    and mankind, grants favour to mankind, and bestows sovereignty on Xerxes as unique
+    among many kings and rulers.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13074-13077
+  quote_or_summary: Xerxes identifies himself as great king, king of kings, king of
+    countries, king of all tongues, king of the large, broad earth, son of Darius
+    the king, and the Achaemenian.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13078-13083
+  quote_or_summary: Xerxes says that what he has done here and in another territory,
+    all that he has done, was accomplished under an incomplete phrase ending with
+    “pro-” in the supplied text.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source metadata; summarized with a short excerpt of the
+    incomplete ending.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Core royal-legitimacy extraction is explicit. The final statement is incomplete
+    in the supplied passage, so no completion of the broken phrase is inferred.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. No historical-contact claim is made.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l13066-l13083
+  passage_sha256=e3e94a84b5944a1e9c61304c8f3ea4359b42268d56c8a3eba59de14c9a2cf59d
+

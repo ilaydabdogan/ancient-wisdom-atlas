@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l10412-l10537
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: 'LOWER / LOCATION OF THE THOMPSON INDIAN: / TEIT, THE THOMPSON INDIANS OF
+    BRITISH COLUMBIA. 169 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA.; lines
+    10412-10537'
+  start: '10412'
+  end: '10537'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage tabulates village names, meanings, and Fraser River locations
+    for villages of the Lytton Band and the Upper Fraser Band. It ends by noting that
+    the last-named Upper Fraser village marks the tribe's northern limit on the Fraser,
+    adjoining Lillooet territory near Seti.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is organized as an ethnographic table of village names and locations
+    for the Lytton Band and the Upper Fraser Band.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:2
+  text: Lytton Band villages are located on either the east or west side of the Fraser
+    River above Lytton, with distances given from about 1 mile to 15 miles.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Several Lytton Band village-name explanations refer to local terrain or vegetation,
+    including sharp stones, yellow pine, ridge shore, black pine, young firs, and
+    a red side hill or slope.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Upper Fraser Band villages are located along the Fraser River above Lytton,
+    with distances given from about 22 miles to about 43 miles.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Upper Fraser Band village-name explanations include references to extracting
+    marrow, rotten water, a nose or point in the river, a deep hollow or cut, and
+    coming up above or reaching the top.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The last-named Upper Fraser village is described as the tribe's extreme northern
+    limit on the Fraser, where its territory adjoins that of the Lillooet; the nearest
+    Lillooet village is identified as Seti.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Lytton Band
+  description: A band whose villages are listed with names, meanings, and locations
+    along the Fraser River.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Upper Fraser Band
+  description: A band whose villages are listed with names, meanings, and locations
+    along the Fraser River.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: the tribe on Fraser
+  description: The group whose northern territorial limit on the Fraser is identified
+    by the last-named Upper Fraser village.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Lillooet
+  description: A neighboring group whose territory adjoins that of the tribe on Fraser;
+    its nearest village is named Seti.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: band with villages named and located
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage headings introduce village lists for the Lytton Band and the
+    Upper Fraser Band.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: tribal territory referenced
+  assigned_to:
+  - fig:3
+  basis: The text states that the last-named village is the extreme northern limit
+    of the tribe on Fraser.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: adjoining neighboring group
+  assigned_to:
+  - fig:4
+  basis: The text states that the tribe's territory adjoins that of the Lillooet and
+    names Seti as the nearest Lillooet village.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Fraser River
+  literal_form: River used as the main geographic reference for village locations,
+    with entries placed on its east or west side and measured above Lytton.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: pine and fir vegetation
+  literal_form: Yellow pine, black pine, and young firs appear in village-name explanations.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sharp or stony ground
+  literal_form: Small sharp stones and stony ground are used in place-name explanations.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: slope, ridge, hollow, and height features
+  literal_form: Place-name explanations refer to slopes, a ridge shore, a side hill,
+    a deep hollow or cut, and reaching the top.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Lytton Band village catalogue
+  summary: The passage lists Lytton Band village names, gives meanings for several
+    names, and locates the villages on the Fraser River above Lytton.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Upper Fraser Band village catalogue and boundary note
+  summary: The passage lists Upper Fraser Band village names and locations, then identifies
+    the last-named village as the northern territorial limit adjoining Lillooet territory
+    near Seti.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: place-name etymologies tied to local landscape features
+  taxonomy_refs: []
+  basis: Many village names are explained through visible local features such as stones,
+    slopes, ridges, pine or fir growth, water, a river point, a hollow, and a height.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a toponymic and ethnographic pattern rather than a narrative myth
+    motif; no supplied motif-family taxonomy reference directly applies.
+- id: motif:2
+  label: settlement marking territorial boundary
+  taxonomy_refs: []
+  basis: The final Upper Fraser village is described as the extreme northern limit
+    of the tribe on the Fraser, where territory adjoins that of the Lillooet.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a geographic boundary pattern, not a mythic episode; it should
+    be reviewed before use as a comparative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10412-10537; Lytton Band section
+  quote_or_summary: The passage introduces a section headed as villages of the Lytton
+    Band and provides a Name and Location table.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 10412-10537; Lytton Band entries
+  quote_or_summary: Lytton Band entries are located on the east or west side of the
+    Fraser River above Lytton. Name explanations include sharp ground with small sharp
+    stones, yellow pine little slope, low ridge shore, black pine ridge with young
+    firs, and a red little side hill or slope.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 10412-10537; Upper Fraser Band entries
+  quote_or_summary: The Upper Fraser Band section lists villages along the Fraser
+    River above Lytton. Name explanations include extracting marrow, little rotten
+    water, a nose or point in the river, a little deep hollow or cut, and a place
+    of coming up above or reaching the top.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 10412-10537; boundary note after Upper Fraser Band table
+  quote_or_summary: '"The last-named village is the extreme northern limit of the
+    tribe on Fraser. Here their territory adjoins that of the Lillooet, whose nearest
+    village is Seti."'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; brief quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a non-narrative geographic and toponymic table. Literal extraction
+    is straightforward, but motif candidacy is limited to patterns of place naming
+    and territorial boundary description. No passage-supported comparative claims
+    were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif-family reference was assigned because the supplied motif families are not directly supported by this passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l10412-l10537
+  passage_sha256=8536b5b54c4c641cce204a3529e122965267b766a04ec416a3e7a12c0fa31d90
+

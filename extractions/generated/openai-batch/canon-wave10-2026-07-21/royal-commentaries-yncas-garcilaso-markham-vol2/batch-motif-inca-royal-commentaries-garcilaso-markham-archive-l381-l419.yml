@@ -1,0 +1,360 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l381-l419
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: THE  FIFTH  BOOK. / CHAPTER  I. / HOW  THEY  DIVIDED  THE  LAND  AMONGST  THE  VASSALS.
+    / FIFTH  BOOK  OF  THE  ROYAL; lines 381-419
+  start: '381'
+  end: '419'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Inca agricultural works: fields arranged for water
+    use, mountain terraces built with masonry and filled earth, rocky land converted
+    into arable terraces, long irrigation channels made for maize plots, and the subsequent
+    measurement and threefold division of land for the Sun, the King, and the people.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fields were arranged in squares so that they could benefit from water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Terraces were made on mountain sides with good soil to create level ground.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The terraces or andenes had three strong masonry walls that inclined inward
+    and were filled with earth.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Terraces were built above one another, becoming narrower as they ascended
+    and making the mountain like a flight of stairs.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:5
+  text: Where rock masses were present, rocks were removed and earth was brought from
+    elsewhere to make terraces.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The smallest upper terraces could contain only two or three rows of maize.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In some places irrigation channels were led fifteen or twenty leagues to irrigate
+    a few fanegas of maize land.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After increasing arable land, the land in each province and village was measured.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: 'Measured land was divided into three parts: for the Sun, for the King, and
+    for the people.'
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The divisions were made carefully so that the people would have sufficient
+    land for crops.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the Indians
+  description: The passage describes them as industrious workers who enlarged maize-producing
+    land through terracing and irrigation.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the Sun
+  description: The Sun is named as the recipient of the first part of the divided
+    land.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: the King
+  description: The King is named as the recipient of the second part of the divided
+    land.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: the people
+  description: The people are named as the recipients of the third part of the land
+    and as those for whom sufficient crop land was to be ensured.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: agricultural builders and improvers
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the enlargement of maize land to terracing, rock removal,
+    earth transport, and irrigation works.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: measurers and dividers of land
+  assigned_to:
+  - fig:1
+  basis: After increasing arable land, the same implied group measured land by province
+    and village and divided it.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: first land recipient
+  assigned_to:
+  - fig:2
+  basis: The first part of divided land was for the Sun.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: second land recipient
+  assigned_to:
+  - fig:3
+  basis: The second part of divided land was for the King.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: third land recipient and crop beneficiary
+  assigned_to:
+  - fig:4
+  basis: The third part was for the people, and the divisions were made so the people
+    would have sufficient land for crops.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: Mountain sides covered with stepped agricultural terraces.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: water
+  literal_form: Water for fields and long irrigation channels for maize land.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: maize
+  literal_form: Maize land and rows of maize on terraces.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: threefold division
+  literal_form: Three parts of measured land assigned to the Sun, the King, and the
+    people.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: terraces or andenes
+  literal_form: Masonry-walled terraces filled with earth and stacked up mountainsides.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: Sun
+  literal_form: The Sun as named recipient of the first land portion.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Making mountain land arable
+  summary: Fields and mountain sides are reshaped through squared fields, masonry
+    terraces, earth fill, rock removal, and stepped construction.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Long-distance irrigation for maize
+  summary: Irrigation channels are led across long distances to water small areas
+    of maize land so they are not lost.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Measuring and dividing the land
+  summary: After arable land is increased, land is measured by province and village
+    and divided into parts for the Sun, the King, and the people, with attention to
+    the people’s crop needs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Mountain land transformed into cultivated terraces
+  taxonomy_refs: []
+  basis: The passage repeatedly describes mountain sides being turned into level,
+    irrigable terraces for sowing and maize production.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an agricultural pattern in the passage, not explicitly presented
+    as a mythic mountain motif.
+- id: motif:2
+  label: Long-distance water management to preserve cultivated land
+  taxonomy_refs: []
+  basis: Irrigation channels are described as extending fifteen or twenty leagues
+    to water small maize plots so that land would not be lost.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives practical administrative and agricultural details rather
+    than symbolic explanation.
+- id: motif:3
+  label: Sacred-royal-communal threefold land allotment
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: 'The measured land is divided into three portions: first for the Sun, second
+    for the King, and third for the people.'
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage states the allocation but does not explicitly explain it as
+    a legitimation myth or ritual charter.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 381-384
+  quote_or_summary: Fields were arranged in squares so they could receive the full
+    benefit of water.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 383-394
+  quote_or_summary: Terraces were made on mountain sides with good soil, using strong
+    masonry walls and earth fill, and the ground was levelled “after the manner of
+    a flight of stairs.”
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 395-398
+  quote_or_summary: Where there were masses of rock, rocks were removed and earth
+    was brought from elsewhere to make terraces and make the site useful.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 399-406
+  quote_or_summary: Terraces diminished in size as they ascended; the highest had
+    room for only two or three rows of maize, showing the effort to enlarge maize
+    land.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 407-410
+  quote_or_summary: In many places an irrigation channel was led fifteen or twenty
+    leagues to irrigate only a few fanegas of maize land.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: quote
+  locator: lines 411-419
+  quote_or_summary: After land was measured by province and village, “The first part
+    was for the Sun, the second for the King, and the third for the people”; divisions
+    aimed to leave the people sufficient crop land.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation and summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear for agricultural engineering and land-division details.
+    Motif labels are descriptive and should be reviewed because the passage is administrative-historical
+    rather than an explicit mythic narrative. No comparison claims were made because
+    the passage itself does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were limited to available entries directly supported or cautiously suggested by the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l381-l419
+  passage_sha256=f9c5ed532fa35b966b8e58fca7dbd2b08dc65f3665d997d78c29c2d929f37576
+

@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l16545-l16587
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: EIGHTH  BOOK  OP  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. / CHAPTER  XIV.
+    / THE  PLANTAIN,  THE  PINE,  AND  OTHER  FRUITS.; lines 16545-16587
+  start: '16545'
+  end: '16587'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens a chapter on fruits of the Antis of Peru, especially
+    the plantain. It describes the hot, humid setting; the plantain tree’s form, leaves,
+    self-sowing growth, need for rain, large bunches, fruit covering and size; and
+    reports that bunches are cut when ripening, matured in jars under an herb, and
+    produce soft, sweet fruit.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chapter turns to principal fruits produced in the Antis of Peru, described
+    as hot and humid districts.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Spaniards call the first discussed tree and fruit a plantain.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The plantain tree is compared in shape to a palm tree and has very large,
+    very green leaves at the highest part.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The plantain trees are said to sow themselves and to require a very rainy
+    climate like the Antis.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The fruit grows in large bunches; Father Acosta is cited for the report that
+    three hundred plantains have been counted on some bunches.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The fruit grows within a skin that is easy to remove and is described by approximate
+    length and thickness.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Father Bias Valera is cited as writing that the bunches are cut off when they
+    begin to ripen so their weight does not injure the soft, tender tree.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The tree is described as soft and tender, and as useless for timber or fuel.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The plantains are ripened in jars covered with an herb that helps them mature.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The fruit is described as soft and sweet.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Spaniards
+  description: Group named as calling the tree and its fruit a plantain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Father Acosta
+  description: Cited authority for the statement that some bunches have contained
+    three hundred plantains.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Father Bias Valera
+  description: Cited writer on the plantain fruit and its harvesting and ripening.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: namers of the fruit
+  assigned_to:
+  - fig:1
+  basis: The passage says the Spaniards call the tree and its fruit a plantain.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: cited botanical authority
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Father Acosta and Father Bias Valera are both cited for descriptive information
+    about the plantain.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: plantain tree
+  literal_form: A plantain tree shaped like a palm, with large green leaves at the
+    top and heavy fruit bunches.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: plantain fruit
+  literal_form: Fruit growing in a removable skin, in large bunches, later ripened
+    in jars, and described as soft and sweet.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: ripening jars
+  literal_form: Jars used to ripen plantains under a certain herb.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: maturing herb
+  literal_form: An unnamed herb placed over plantains in jars to help them mature.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Description of plantain growth in the Antis
+  summary: The narrator introduces fruits of the hot, humid Antis of Peru and describes
+    the plantain tree’s form, climate, self-sowing growth, and abundant bunches.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Harvesting and ripening plantains
+  summary: Father Bias Valera’s account says plantain bunches are cut when beginning
+    to ripen to spare the tender tree, then ripened in jars under an herb.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16558-16562
+  quote_or_summary: The narrator says he will discuss principal products of the Antis
+    of Peru, described as the hottest and most humid districts.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 16562-16567
+  quote_or_summary: The passage says the Spaniards call the tree and fruit a plantain,
+    and describes the tree as palm-like with large green leaves at the top.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 16567-16573
+  quote_or_summary: The trees sow themselves, require a rainy climate like the Antis,
+    and bear large bunches; Father Acosta is cited for bunches counted with three
+    hundred plantains.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 16574-16578
+  quote_or_summary: The fruit is said to grow within an easily removed skin and is
+    described by approximate length and thickness.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: lines 16579-16584
+  quote_or_summary: Father Bias Valera says bunches are cut when they begin to ripen
+    so their weight will not injure the soft, tender tree, which is useless for timber
+    or fuel.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short summary used.
+- id: ev:6
+  type: summary
+  locator: lines 16584-16587
+  quote_or_summary: The plantains are ripened in jars under an herb that helps them
+    mature; the fruit is soft and sweet.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is primarily botanical and ethnographic, not mythic. A literal
+    tree symbol is recorded, but no supported mythological motif or comparison claim
+    is present in the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No candidate motif assigned because the passage does not present sacred, mythic, ritual, or narrative functions for the plantain tree or fruit.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l16545-l16587
+  passage_sha256=c4538debbe55e35787c2625ffc46102e9ef1a0561cc976adf8d3382ad6b1baac
+

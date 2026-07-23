@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l3982-l4020
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: DESCRIPTION  OF  A K RAM  AT / GRA  VES  OF  THE  SAINTED  DEAD / TUTELARY  ANIMALS
+    / RITES  AND  SACRIFICES; lines 3982-4020
+  start: '3982'
+  end: '4020'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage discusses Malay rites and sacrifices: hunters leave portions
+    of a killed deer in the forest as representatives of the whole carcass; offerings
+    are interpreted through a homage theory, with vows treated as a distinct case;
+    and deities are said to receive the offering''s essence or soul rather than its
+    material part. The passage also introduces special sub-rites such as shrine rites,
+    burning incense, and scattering.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hunters who kill a deer leave small portions of important parts of the deer's
+    anatomy in the forest as representatives of the entire carcass.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes a ritual change in which an originally valuable offering
+    becomes a smaller tribute, cheaper substitute, or token symbol.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author states that a homage theory covers most sacrifices usually offered
+    by Malays.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Votal ceremonies or vows, called niat, are described as cases where the offering
+    depends on the worshipper's wealth or caprice rather than fixed custom.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The worshipper is expected to sacrifice something of more than nominal value
+    to himself in such vows.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The deity is said not to touch the solid or material part of the offering,
+    but only its essential part, described as life, savour, essence, quality, or soul.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage names shrine rites, burning incense, and scattering as special
+    sub-rites belonging to important ceremonies.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Malay hunters
+  description: Hunters who, after killing a deer, leave portions of the animal in
+    the forest.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Malay worshippers
+  description: People who offer sacrifices, including vows in which the offering may
+    depend on the worshipper's wealth or caprice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Offering-receiving deity
+  description: A deity to whom offerings are made and who is said to receive the essential
+    rather than material part of the offering.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ritual hunters
+  assigned_to:
+  - fig:1
+  basis: They leave deer portions in the forest after a successful hunt.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sacrificing worshippers
+  assigned_to:
+  - fig:2
+  basis: They make sacrifices and vows, including offerings of more than nominal personal
+    value.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: recipient of offering essence
+  assigned_to:
+  - fig:3
+  basis: The deity is described as receiving the offering's essence or soul rather
+    than its material portion.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: representative deer portions
+  literal_form: Small portions of important parts of a killed deer's anatomy left
+    in the forest as representatives of the whole carcass.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: token or substitute offering
+  literal_form: A smaller tribute, cheaper substitute, or trifling token standing
+    in for an originally valuable offering.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: essential part of offering
+  literal_form: The offering's life, savour, essence, quality, or soul, rather than
+    its solid material part.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: incense
+  literal_form: Incense named as part of a rite of burning incense.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Hunters leave deer portions in the forest
+  summary: After killing a deer, hunters leave small portions of important anatomical
+    parts in the forest as representatives of the whole carcass.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Offerings interpreted as homage and token substitution
+  summary: The passage interprets Malay sacrifice largely through homage theory and
+    describes the reduction of valuable offerings into smaller tributes, substitutes,
+    or tokens.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Vow offerings depend on the worshipper
+  summary: In vows or niat, the offering is not regulated by custom but depends on
+    the worshipper's wealth or choice, with an expectation that it have more than
+    nominal value.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Deity receives the offering's essence
+  summary: The deity is described as receiving only the essential or soul-like part
+    of the offering, not its solid material portion.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacrifice as offering to deity
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage centers on sacrifices offered by Malays and discusses how deities
+    are thought to receive offerings.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage is analytical rather than narrative and describes ritual practice,
+    not a myth episode.
+- id: motif:2
+  label: symbolic substitute for a fuller offering
+  taxonomy_refs:
+  - sacrifice
+  basis: The deer portions and the stated reduction of a valuable offering to a smaller
+    tribute or token show substitution within sacrificial practice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage frames this through the author's and Tylor's theory; the exact
+    indigenous interpretation of the substitution is not directly quoted.
+- id: motif:3
+  label: deity receives essence rather than matter
+  taxonomy_refs:
+  - sacrifice
+  basis: The deity is said to receive life, savour, essence, quality, or soul rather
+    than the material part of the offering.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage reports the author's conclusion from questioning Malays and
+    notes that evidence is difficult to obtain.
+comparison_claims:
+- id: claim:1
+  claim: The hunter practice is presented as fitting a broader ritual-substitution
+    pattern in which a valuable offering diminishes into a smaller tribute, substitute,
+    or token.
+  claim_level: same_function
+  target: Ritual substitution pattern cited from Tylor's Primitive Culture
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is mediated by the author's analytical framing and citation
+    to Tylor; the passage does not provide independent cross-cultural examples beyond
+    this theoretical reference.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3982-3987
+  quote_or_summary: Hunters who have killed a deer leave small portions of important
+    anatomical parts in the forest as representatives of the whole carcass.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 3987-3993
+  quote_or_summary: "“The originally valuable offering is compromised for a smaller
+    tribute or a cheaper substitute, dwindling at last to a mere trifling token or
+    symbol.”"
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 3994-3998
+  quote_or_summary: The author says the homage theory covers most sacrifices usually
+    offered by Malays.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3998-4006
+  quote_or_summary: Abnegation is said to be mainly confined to votal ceremonies or
+    vows, called niat, where the offering depends on the worshipper's wealth or caprice
+    and should have more than nominal value to him.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 4007-4016
+  quote_or_summary: The deity is “not supposed to touch the solid or material part
+    of the offering,” but only the “life, savour, essence, quality” or “soul.”
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 4017-4020
+  quote_or_summary: The passage introduces special sub-rites in important ceremonies,
+    including rites at shrines, burning incense, and scattering.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about ritual practice and offering theory. Motif
+    interpretation is limited because the passage is ethnographic and analytical rather
+    than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not directly match the passage's deer portions, offerings, essence, or incense.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l3982-l4020
+  passage_sha256=8eecaef2e8c2f5df1711838245d0baaab312645c29b76706b06c86df1761f719
+

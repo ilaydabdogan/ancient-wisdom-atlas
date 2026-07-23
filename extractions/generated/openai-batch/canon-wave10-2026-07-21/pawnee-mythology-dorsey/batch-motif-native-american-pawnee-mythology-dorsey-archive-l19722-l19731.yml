@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l19722-l19731
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE  SCALPED-MAN    MEDICINE.  393 / HOW   THE   PAWNEE    GOT   THE    EAGLE    DANCE.  395
+    / HOW  THE  PAWNEE  GOT  THE  EAGLE  DANCE.  397 / HOW   THE    PAWNEE  GOT   THE    EAGLE    DANCE.  399;
+    lines 19722-19731
+  start: '19722'
+  end: '19731'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: During an attack on a village, a boy enters first, kills two men with a
+    war club, takes two scalps, ties them on his club, and leaves the fight. After
+    the warriors return, he gives the scalps to the leader but asks for a small piece
+    from each to hang on his eagle claw as a gift to the old Eagle. He then says he
+    is going home; the excerpt ends with an incomplete word after 'That night the
+    boy disap-' .
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The boy is described as the first to enter the village during the attack.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man comes out from a tipi, and the boy strikes and kills him with a war
+    club.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The boy passes through the village again, strikes another man, and kills him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The boy takes two scalps, ties them upon his club, and leaves the fight.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the fight, the warriors return.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The boy gives the scalps to the leader but asks for two small pieces, one
+    from each scalp, to hang on his eagle claw as a gift to the old Eagle.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The request is promised to the boy.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After all the warriors return, the boy tells the leaders that he is going
+    to his home; the excerpt then cuts off after an incomplete word.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the boy
+  description: A boy who enters the attacked village first, kills two men with a war
+    club, takes two scalps, requests scalp pieces for his eagle claw, and says he
+    is going home.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: man from a tipi
+  description: A man who comes out from a tipi and is struck and killed by the boy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: another man
+  description: A second man in the village who is struck and killed by the boy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: warriors
+  description: The warriors involved in the fight who return afterward.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: leader or leaders
+  description: The leader receives the boy's offer of scalps, and the leaders are
+    later told that the boy is going home.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: old Eagle
+  description: The named recipient of the intended gift of scalp pieces hung upon
+    the boy's eagle claw.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: first attacker in the village
+  assigned_to:
+  - fig:1
+  basis: The passage says the boy was first to go into the village during the attack.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: slain villagers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Both men are struck and killed by the boy within the village.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: returning warriors
+  assigned_to:
+  - fig:4
+  basis: The warriors return after the fight, and later all warriors are said to have
+    come back.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: leader or leaders of the war party
+  assigned_to:
+  - fig:5
+  basis: The boy addresses a leader when giving the scalps and later tells the leaders
+    he is going home.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: recipient of intended gift
+  assigned_to:
+  - fig:6
+  basis: The boy wants scalp pieces to hang on his eagle claw as a gift to the old
+    Eagle.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: giver of scalps
+  assigned_to:
+  - fig:1
+  basis: The boy states that he gives the scalps to the leader while reserving small
+    pieces for the old Eagle gift.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: war club
+  literal_form: war club used to strike the men and later to hold the scalps
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: two scalps
+  literal_form: two scalps taken in the village and tied upon the boy's club
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: small pieces from each scalp
+  literal_form: two small pieces, one from each scalp, requested by the boy
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: eagle claw
+  literal_form: an eagle claw on which the boy wants to hang the scalp pieces
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: attacked village
+  literal_form: village containing tipis entered during the attack
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: First entry into the attacked village
+  summary: The boy enters the village first during the attack and kills a man who
+    comes out from a tipi.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Second killing and taking of scalps
+  summary: The boy passes through the village again, kills another man, takes two
+    scalps, ties them on his club, and leaves the fight.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Post-fight gift arrangement
+  summary: After the warriors return, the boy gives the scalps to the leader while
+    requesting small pieces from each to hang on his eagle claw as a gift to the old
+    Eagle.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Stated return home
+  summary: After all warriors have returned, the boy tells the leaders that he is
+    going to his home; the passage then ends in an incomplete line.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: young warrior's first entry and trophies
+  taxonomy_refs: []
+  basis: The boy is first into the attacked village, kills two men, takes two scalps,
+    and ties them to his club.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The excerpt does not explicitly frame the act as an initiation or rite
+    of passage.
+- id: motif:2
+  label: trophy pieces reserved as a gift to a named Eagle figure
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The boy gives the scalps to the leader but asks for small pieces from each
+    to hang on his eagle claw as a gift to the old Eagle.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage explicitly uses gift language, but the old Eagle's status
+    and the broader ritual context are not explained within this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19722-19724
+  quote_or_summary: The boy is first to enter the attacked village; a man comes from
+    a tipi, and the boy strikes and kills him with his war club.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 19724-19727
+  quote_or_summary: The boy goes through the village again, kills another man, takes
+    two scalps, ties them upon his club, and leaves the fight.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 19727-19730
+  quote_or_summary: After the fight, the warriors return; the boy gives the scalps
+    to the leader but asks for two small pieces to hang on his eagle claw as a gift
+    to the old Eagle.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 19730-19731
+  quote_or_summary: The boy's request is promised; after all warriors return, he tells
+    the leaders he is going home, and the excerpt ends after the incomplete phrase
+    'the boy disap-'.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; contains a short excerpt from a public domain
+    text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal action sequence is clear. Motif labeling is cautious because the
+    excerpt is short and ends mid-word, with limited explanation of the old Eagle
+    or Eagle Dance context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparison to another tradition or corpus.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l19722-l19731
+  passage_sha256=92f2b0e8ddc919428574bb2c5f2c667e50d314a780685f8ec50a2340104ae120
+

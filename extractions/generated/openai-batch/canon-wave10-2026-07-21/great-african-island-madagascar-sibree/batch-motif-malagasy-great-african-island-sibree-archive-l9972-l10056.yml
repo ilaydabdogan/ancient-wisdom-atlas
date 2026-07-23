@@ -1,0 +1,388 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l9972-l10056
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: TAXOST / MAHAFALY / U         1 / VX       1; lines 9972-10056
+  start: '9972'
+  end: '10056'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Malagasy house features, including raised beds, narrow
+    doors, a restricted north door, a possible additional door for a king, small B^ra/Bkra
+    houses, adjoining cattle-folds, and Hova houses used as spatial and temporal reference
+    systems. Hova house orientation supplies compass directions for locating objects,
+    and sun rays on house parts mark times of day.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Beds are sometimes raised a foot or more, made of round poles, sometimes surrounded
+    by mat-like curtains, with a rush mat as the mattress.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The north door cannot be used by the B^ra while the father and mother of the
+    house-inhabiting couple are living.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A king may have another door on the west side at the north corner.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Doorways are described as very small and narrow, often requiring objects to
+    be turned sideways to enter.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: A native account describes Bkra houses as about nine feet long, six feet wide,
+    and just high enough for a person to stand inside, with doors requiring sideways
+    wriggling and stooping.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The same account says cattle-folds are made adjoining the house, so dung spreads
+    over the house and makes the interior nearly unbearable.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Because of the north-south arrangement of Hova houses, positions of things
+    in a dwelling are commonly described by compass points rather than by left and
+    right.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Hours of the day are described by the house parts touched by the sun’s rays
+    as the sun moves from east to west.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: About nine o’clock is associated with the sun above the purlin, noon with
+    the sun above the ridge, and about one o’clock with sunlight beginning to enter
+    the open door.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: B^ra/Bkra people
+  description: The passage discusses B^ra/Bkra houses and a north-door restriction
+    applying to them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: House-inhabiting couple
+  description: A couple is described as inhabiting the house in relation to the north-door
+    rule.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Father and mother of the couple
+  description: The living father and mother of the couple are the condition named
+    in the north-door restriction.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: King
+  description: A king may have an additional door on the west side at the north corner.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Hova house users
+  description: Hova houses are described as having an invariable north-south arrangement,
+    and their users define positions by cardinal directions.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Sun
+  description: The sun’s rays touch successive parts of the house and are used to
+    describe hours of the day.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: house occupants
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the couple who inhabit the house.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: group subject to north-door restriction
+  assigned_to:
+  - fig:1
+  basis: The north door cannot be used by the B^ra while the parents of the couple
+    are living.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: living-parent condition in doorway rule
+  assigned_to:
+  - fig:3
+  basis: The rule applies while the father and mother of the couple are living.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: status figure with additional doorway
+  assigned_to:
+  - fig:4
+  basis: A king may have another door in a specified part of the house.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: cardinal-direction locators
+  assigned_to:
+  - fig:5
+  basis: Positions in Hova dwellings are described by north, south, east, and west
+    rather than left and right.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: daily time marker
+  assigned_to:
+  - fig:6
+  basis: The sun’s position relative to house parts marks named times of day.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: raised bed
+  literal_form: Raised round-pole bed with mat-like curtains and a rush mat mattress.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: restricted north door
+  literal_form: North door not used by the B^ra while the couple’s father and mother
+    are living.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: royal additional door
+  literal_form: Another door on the west side at the north corner, allowed for a king.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: cardinally oriented Hova house
+  literal_form: North-south arranged house used to define the location of objects
+    by compass direction.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: house parts as solar time markers
+  literal_form: Purlin, ridge, and open door marked by the sun’s rays at different
+    times of day.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: adjoining cattle-fold
+  literal_form: Cattle-fold adjoining the house, causing dung to spread over the house.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: B^ra house construction and access rules
+  summary: The passage describes raised beds, the restricted north door, an additional
+    doorway for a king, and very narrow doorways.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Native account of Bkra house size and cattle-folds
+  summary: A Hova officer’s account describes small Bkra houses with very narrow doors
+    and adjoining cattle-folds that foul the house.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: House as compass
+  summary: The north-south arrangement of Hova houses supports locating objects by
+    cardinal directions within the dwelling.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: House as sundial
+  summary: Times of day are named by where sunlight touches house parts as the sun
+    moves east to west.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: restricted northern doorway
+  taxonomy_refs: []
+  basis: The passage states that the north door cannot be used by the B^ra while the
+    couple’s father and mother are living.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is presented as an ethnographic house rule, not as a mythic narrative
+    motif.
+- id: motif:2
+  label: status-marked additional doorway
+  taxonomy_refs: []
+  basis: A king may have an additional door in a specified location of the house.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Only one brief statement supports the pattern; its ritual or symbolic
+    meaning is not explained.
+- id: motif:3
+  label: domestic architecture as cardinal compass
+  taxonomy_refs: []
+  basis: The passage says Hova houses are arranged north-south and that objects are
+    located by compass points within the dwelling.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The pattern is practical and spatial; no sacred or mythological interpretation
+    is stated.
+- id: motif:4
+  label: domestic architecture as solar clock
+  taxonomy_refs: []
+  basis: The passage describes hours of the day by where the sun’s rays touch the
+    purlin, ridge, and open door.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage frames this as timekeeping practice rather than cosmological
+    myth.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly treats the oriented Hova house as functioning like
+    a compass because household locations are described by cardinal directions.
+  claim_level: same_function
+  target: compass function of a dwelling
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional analogy within the passage, not evidence for historical
+    contact or a broader mythic motif.
+- id: claim:2
+  claim: The passage explicitly treats the Hova house as functioning like a sundial
+    because times are described by sunlight touching different house parts.
+  claim_level: same_function
+  target: sundial function of a dwelling
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a practical time-reckoning comparison; no sacred or narrative
+    interpretation is supplied.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9972-9994
+  quote_or_summary: Beds are raised and furnished simply; the north door is forbidden
+    to the B^ra while the couple’s parents live; a king may have a west-side north-corner
+    door; doorways are very narrow.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 9995-10013
+  quote_or_summary: A Hova officer’s account describes Bkra houses as very small,
+    with doors requiring sideways wriggling and stooping, and with cattle-folds adjoining
+    the house.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 10014-10025
+  quote_or_summary: 'The passage says the native house serves as a compass: Hova houses
+    are arranged north-south, and people describe household positions by north, south,
+    east, and west rather than left and right.'
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 10026-10056
+  quote_or_summary: 'The passage says the house serves as a sundial: hours are described
+    by house parts touched by sun rays, including the purlin around nine, the ridge
+    at noon, and sunlight entering the open door around one.'
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The prose is clear enough for the compass and sundial patterns, but OCR noise
+    affects some ethnonyms and layout material. The passage is ethnographic and architectural
+    rather than myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif family was assigned because the passage does not state a sacred, mythic, or cosmological interpretation. Available symbol taxonomy references were not used because the supported symbols here are house, door, roof parts, and sun markers rather than the listed controlled symbols.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l9972-l10056
+  passage_sha256=c258deb0fa6c55fe9337fafd98109ef9bb99ae8d1b9a49107bd0d4d4bb1d790e
+

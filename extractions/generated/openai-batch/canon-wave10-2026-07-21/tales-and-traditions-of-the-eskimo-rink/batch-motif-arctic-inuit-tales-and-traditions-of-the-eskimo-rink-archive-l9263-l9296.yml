@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.arctic-inuit-tales-and-traditions-of-the-eskimo-rink-archive-l9263-l9296
+source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+passage_locator:
+  label: SIKUTLUK. / THE  ORPHANS. / THE  DOG. / A LAMENTABLE  STORY.; lines 9263-9296
+  start: '9263'
+  end: '9296'
+  translation: Tales and Traditions of the Eskimo
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: An old seal-hunter loses his chance to spear a seal when playing children
+    shout. In anger he orders the mountain-cleft where they are playing to close;
+    it traps the children and infants in a cavern. The older girls try to comfort
+    thirsty babies, mothers pour water down from above but cannot reach them, and
+    all of the trapped children starve.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An old man waits on the ice at seals' breathing-holes in order to spear seals
+    as they appear.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Little girls play on shore in a cleft between rocks while carrying baby sisters
+    and brothers in hoods on their backs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When the children shout while the old man is about to spear a seal, the frightened
+    seal dives to the bottom.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The old man becomes angry and cries out for the mountain-cleft to shut; after
+    this, the cleft closes on the playing children.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The trapped children are buried in a cavern described as wide at the bottom
+    and narrow toward the top.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The babies cry from thirst, and the girls put fingers into their mouths and
+    speak to soothe them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The mothers pour water down into the cleft; the children lick water trickling
+    along the walls, while the mothers can see them but cannot reach them.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: All of the trapped children starve.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: old man
+  description: An old man hunting seals from the ice, who angrily speaks to the mountain-cleft
+    after the seal escapes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: little girls
+  description: Girls playing in the cleft between rocks and carrying babies in hoods;
+    later they try to comfort the babies while trapped.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: baby sisters and brothers
+  description: Babies carried by the girls in hoods on their backs; they cry for thirst
+    after the cleft closes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: mothers
+  description: Mothers who come to the cleft, pour water down, see the children, but
+    cannot reach them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: seal
+  description: A seal that the old man is about to spear, but which dives after being
+    frightened by the children's shout.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: seal hunter
+  assigned_to:
+  - fig:1
+  basis: The old man watches seal breathing-holes on the ice in order to spear seals.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: angry speaker whose command precedes the closing cleft
+  assigned_to:
+  - fig:1
+  basis: After the seal dives, the old man cries out for the mountain-cleft to shut,
+    and it closes on the children.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: children enclosed in the cavern
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The cleft closes upon the playing children and they are buried in the cavern.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: older child caregivers
+  assigned_to:
+  - fig:2
+  basis: The girls carry baby siblings and try to soothe them when they cry for thirst.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: mothers attempting aid from outside
+  assigned_to:
+  - fig:4
+  basis: The mothers pour water down into the cleft and can see the children but cannot
+    get to them.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: frightened hunted animal
+  assigned_to:
+  - fig:5
+  basis: The seal dives to the bottom after the children's shout.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: closing mountain-cleft and cavern
+  literal_form: A cleft between rocks called a mountain-cleft, which closes on the
+    children and leaves them in a cavern wide at the bottom and narrow toward the
+    top.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - cave
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: water poured into the cleft
+  literal_form: Water poured down by the mothers, trickling along the cavern walls
+    for the children to lick.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: amowts or carrying hoods
+  literal_form: Hoods at the girls' backs in which they carry their baby sisters and
+    brothers.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: seal breathing-holes on the ice
+  literal_form: Breathing-holes of seals on the ice where the old man waits to spear
+    seals.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Seal hunting and children's play
+  summary: An old man waits on the ice to spear seals while girls play on shore in
+    a rock cleft, carrying baby siblings in hoods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Shout, escaped seal, and closing cleft
+  summary: The children's shout frightens the seal away; the old man angrily orders
+    the mountain-cleft to shut, and it closes on the children.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Thirst inside the cavern
+  summary: The babies cry from thirst, and the girls try to soothe them by offering
+    fingers to suck and speaking of their mothers' return.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Mothers' failed aid and starvation
+  summary: The mothers pour water down the cleft, and the children lick it from the
+    walls, but the mothers cannot reach them; all of the children starve.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Spoken command closes a natural opening
+  taxonomy_refs: []
+  basis: The old man cries out for the mountain-cleft to shut, and the cleft closes
+    upon the playing children.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives no explicit explanation of the power behind the command.
+- id: motif:2
+  label: Children trapped in an inaccessible cavern
+  taxonomy_refs: []
+  basis: The children are enclosed in a cavern after the cleft closes, and later the
+    mothers can see them but cannot reach them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level motif description without assignment to a supplied
+    motif family.
+- id: motif:3
+  label: Failed rescue or nourishment through a narrow opening
+  taxonomy_refs: []
+  basis: The mothers pour water down the cleft and the children lick it from the walls,
+    but the mothers cannot get at them and all starve.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage describes aid that fails; it does not state a ritual or symbolic
+    meaning for the water.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9263-9296
+  quote_or_summary: An old man hunts seals at breathing-holes on the ice while little
+    girls play on shore in a rock cleft, carrying baby siblings in amowts or hoods.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 9263-9296
+  quote_or_summary: The children shout as the old man is about to spear a seal; the
+    seal dives, the old man angrily cries for the mountain-cleft to shut, and it closes
+    on the children.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 9263-9296
+  quote_or_summary: The children cannot escape and are buried in a cavern that is
+    wide at the bottom and narrow toward the top.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 9263-9296
+  quote_or_summary: The babies cry for thirst; the girls try to quiet them with fingers
+    to suck and by saying their mother will come to suckle them after finishing soling
+    the boots.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 9263-9296
+  quote_or_summary: The mothers pour water down into the cleft; the water trickles
+    on the walls, the children lick it, and the mothers can see them but cannot reach
+    them.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 9263-9296
+  quote_or_summary: All of the trapped children are starved.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    passage-level candidates; no cross-tradition comparison is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparative claim beyond its internal patterning.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:arctic-inuit-tales-and-traditions-of-the-eskimo-rink-archive__l9263-l9296
+  passage_sha256=2deded8f5a4be5d5fa5dc0fd3cb62c1849171c552199f2442b4876303d5493cb
+

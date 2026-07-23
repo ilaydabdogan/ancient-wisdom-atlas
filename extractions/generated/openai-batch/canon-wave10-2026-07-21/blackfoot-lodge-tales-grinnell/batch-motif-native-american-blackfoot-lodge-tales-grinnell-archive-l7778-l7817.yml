@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.native-american-blackfoot-lodge-tales-grinnell-archive-l7778-l7817
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+passage_locator:
+  label: DAILY    LIFE    AND    CUSTOMS  1S5 / DAILY    LIFE    AND    CUSTOMS  189
+    / DAILY    LIFE    AND    CUSTOMS  I93 / THE    STORY    OF    THE    THREE    TRIBES;
+    lines 7778-7817
+  start: '7778'
+  end: '7817'
+  translation: Blackfoot Lodge Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Blackfoot mortuary and mourning customs: animals
+    may be killed at a grave for the deceased person''s journey to the Sand Hills;
+    women and men mourn through specified bodily signs and lamentation practices;
+    and Blackfeet may change names after coups while avoiding speaking their own names
+    because of feared misfortune.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man's horse may be killed at his grave so that he has a mount for the journey
+    to the Sand Hills and for use after arrival; in earlier times, dogs were reportedly
+    killed at the grave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Women mourn deceased relations by cutting their hair short.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: For the loss of a husband or son, but not a daughter, women may remove one
+    or more finger joints and always scarify the calves of their legs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Women may go daily for a month or more to a place near camp, generally a hill
+    or small rise, where they cry, lament, and repeatedly call the deceased person's
+    name.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The passage characterizes the women's lament as a mournful song with a tune
+    in a minor key, and notes that some mourn only weeks while others continue much
+    longer.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An old woman is described as still mourning a son who had died more than twenty
+    years earlier.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Men mourn by cutting a little of their hair, going without leggings, and sometimes
+    scarifying their legs for the loss of a son only.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Many Blackfeet change their names every season, and counting a new coup entitles
+    a Blackfoot person to a new name.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A Blackfoot person avoids telling his name and believes that speaking his
+    name would bring misfortune in his undertakings.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: deceased person
+  description: The person for whom grave provisions may be made and for whom relatives
+    mourn.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: women mourners
+  description: Women who mourn deceased relations through hair cutting, bodily injury
+    in specified losses, and repeated lamentation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: men mourners
+  description: Men who mourn through limited hair cutting, absence of leggings, and
+    sometimes leg scarification for a son.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: old woman mourner
+  description: An old woman observed mourning a son who had died more than twenty
+    years earlier.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Blackfoot name-holder or coup counter
+  description: A Blackfoot person who may gain a new name after counting coup and
+    who avoids speaking his own name.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: deceased recipient of mortuary provisions
+  assigned_to:
+  - fig:1
+  basis: The passage says animals may be killed at the grave for the deceased person's
+    journey to and use in the Sand Hills.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mourner
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Women and men perform mourning acts, and the old woman is specifically described
+    as lamenting for her dead son.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: name avoider
+  assigned_to:
+  - fig:5
+  basis: The passage says a Blackfoot person avoids telling his name and fears misfortune
+    if he speaks it.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: coup counter entitled to new name
+  assigned_to:
+  - fig:5
+  basis: The passage states that counting a new coup entitles a Blackfoot person to
+    a new name.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Sand Hills
+  literal_form: After-death destination named as the Sand Hills.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: grave-killed riding animals
+  literal_form: A horse, and in ancient times dogs, killed at the grave for the deceased
+    person's use.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: cut hair
+  literal_form: Hair cut short or cut a little as a sign of mourning.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: self-injury in mourning
+  literal_form: Removed finger joints and scarified calves or legs.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: hill or rise near camp
+  literal_form: A place near camp, generally a hill or little rise, where women lament.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:6
+  label: personal name
+  literal_form: The individual's own name, avoided in speech and changed after coups.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Mortuary animals for the Sand Hills journey
+  summary: A horse, or formerly dogs, may be killed at a grave so the deceased person
+    can ride to the Sand Hills and use the animal after arrival.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Women's mourning observances
+  summary: Women cut their hair, may injure their bodies for particular male relatives,
+    and repeatedly lament near camp while calling the deceased person's name.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Men's mourning observances
+  summary: Men cut a little hair, go without leggings, and sometimes scarify their
+    legs for the death of a son.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Name change and name avoidance
+  summary: Blackfeet may change names after coups or by season, while avoiding speaking
+    their own names because they believe it could cause misfortune.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: afterlife journey provisioned with animals
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage describes a deceased person's journey to the Sand Hills and the
+    killing of a horse or dogs at the grave for use on that journey and afterward.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage names the destination and provisions but does not give a detailed
+    map of the afterlife route.
+- id: motif:2
+  label: mortuary killing of animals at the grave
+  taxonomy_refs:
+  - sacrifice
+  basis: Animals are killed at the grave in connection with the deceased person's
+    postmortem journey and use.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explicitly call the act a sacrifice; it presents
+    it as mortuary provisioning.
+- id: motif:3
+  label: embodied mourning through hair cutting and self-injury
+  taxonomy_refs: []
+  basis: Mourners mark bereavement by cutting hair, scarifying legs, and in some cases
+    removing finger joints.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage gives custom descriptions but does not state a mythic explanation
+    for the bodily acts.
+- id: motif:4
+  label: repeated lament for the dead at an elevated place
+  taxonomy_refs: []
+  basis: Women go daily to a hill or rise near camp and cry, lament, and call the
+    deceased person's name in a mournful song.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage describes a mourning practice rather than a narrative episode.
+- id: motif:5
+  label: personal name avoidance and renaming after coup
+  taxonomy_refs: []
+  basis: A Blackfoot person may receive a new name after counting coup and avoids
+    speaking his own name to prevent misfortune.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference directly matches name taboo or renaming
+    in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7778-7784
+  quote_or_summary: A horse may be killed at a man's grave for his journey to the
+    Sand Hills and for use after arriving there; ancient dogs were also reportedly
+    killed at graves.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7785-7797
+  quote_or_summary: Women mourn by cutting hair; for a husband or son they may remove
+    finger joints and scarify calves, and they go near camp, often to a hill or rise,
+    to lament and call the deceased's name.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7798-7804
+  quote_or_summary: The lament is described as a doleful song in a minor key; mourning
+    duration varies, and an old woman is reported still mourning a son lost more than
+    twenty years earlier.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7805-7810
+  quote_or_summary: Men mourn by cutting a little hair, going without leggings, and
+    sometimes scarifying legs for the loss of a son only.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 7811-7817
+  quote_or_summary: Many Blackfeet change names every season; counting a new coup
+    entitles one to a new name, and a Blackfoot person avoids speaking his name because
+    he believes it would bring misfortune.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the passage. Motif candidates
+    involving afterlife journey and name avoidance are well supported; the sacrifice
+    taxonomy mapping is more tentative. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external sources or comparisons were used; available taxonomy refs were applied only where the passage directly supported them.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-blackfoot-lodge-tales-grinnell-archive__l7778-l7817
+  passage_sha256=7b89cf1e649ab0b5f64622c692808d0e358bb0fd1ee4834105d8156e87c6aa68
+

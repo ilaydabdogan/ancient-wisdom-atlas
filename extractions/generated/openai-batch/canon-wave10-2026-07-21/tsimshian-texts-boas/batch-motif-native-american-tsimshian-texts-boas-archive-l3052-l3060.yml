@@ -1,0 +1,385 @@
+---
+record_id: batch.motif.native-american-tsimshian-texts-boas-archive-l3052-l3060
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+passage_locator:
+  label: Tsimshian Texts; lines 3052-3060
+  start: '3052'
+  end: '3060'
+  translation: Tsimshian Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A group reaches the land of the dwarfs. A dwarf hunts halibut underwater
+    from a canoe. One man steals two halibut, and the dwarf kills him. The surviving
+    men are received by the chief of the dwarfs. Birds arrive and fight the dwarfs,
+    killing many. The next day the men kill the birds, and the dwarfs send the men
+    home.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person is unable to let go of a harpoon line before the group reaches the
+    land of the dwarfs.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A dwarf appears in a canoe, jumps into the sea, clubs halibut underwater,
+    and puts them into the canoe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One man steals two halibut when the dwarf jumps into the sea again.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dwarf notices the theft, finds the men, knocks the thief to the ground,
+    and the thief dies.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The survivors are invited in by the chief of the dwarfs.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Birds arrive, and a battle follows in which many dwarfs are killed.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: On the following day the men attack the birds and kill them by twisting their
+    necks.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The men are sent home by the dwarfs.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the men / survivors
+  description: A group who reach the land of the dwarfs; after one man dies, the survivors
+    are hosted, attack the birds, and are sent home.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the thief
+  description: One man who steals two halibut and is killed after the dwarf discovers
+    the theft.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: dwarf halibut hunter
+  description: A dwarf who appears in a canoe, hunts halibut underwater, notices the
+    theft, and kills the thief.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: chief of the dwarfs
+  description: The chief who invites the surviving men in.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: dwarfs
+  description: The inhabitants of the land of the dwarfs; many are killed in battle
+    with birds, and they later send the men home.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: birds
+  description: Birds who arrive and battle the dwarfs; the men later kill them by
+    twisting their necks.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: travelers or visitors
+  assigned_to:
+  - fig:1
+  basis: They reach the land of the dwarfs, are invited in, and are later sent home.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: thief
+  assigned_to:
+  - fig:2
+  basis: He steals two halibut from the dwarf’s canoe.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: hunter and punisher
+  assigned_to:
+  - fig:3
+  basis: He hunts halibut underwater and kills the man who stole halibut.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: host chief
+  assigned_to:
+  - fig:4
+  basis: The survivors are invited in by the chief of the dwarfs.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: dwarf hosts and battle victims
+  assigned_to:
+  - fig:5
+  basis: The dwarfs receive the men, suffer losses in battle with birds, and later
+    send the men home.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: bird-killers
+  assigned_to:
+  - fig:1
+  basis: The men attack the birds and kill them by twisting their necks.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: battle opponents
+  assigned_to:
+  - fig:6
+  basis: The birds arrive, battle the dwarfs, and are later killed by the men.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: harpoon line
+  literal_form: harpoon line
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: land of the dwarfs
+  literal_form: land of the dwarfs
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: water / sea
+  literal_form: sea and underwater space where the dwarf hunts halibut
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: canoe
+  literal_form: canoe
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: halibut
+  literal_form: halibut taken from the water and placed in the canoe; two are stolen
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: birds
+  literal_form: birds who arrive, battle the dwarfs, and are killed by the men
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Arrival at the land of the dwarfs and underwater hunting
+  summary: The group reaches the land of the dwarfs. A dwarf in a canoe dives into
+    the sea, clubs halibut underwater, and puts them into his canoe.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Theft of halibut and death of the thief
+  summary: One man steals two halibut while the dwarf is underwater. The dwarf notices,
+    finds the men, knocks the thief down, and the thief dies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Hospitality and battle with birds
+  summary: The surviving men are invited in by the chief of the dwarfs. Birds arrive,
+    and in the resulting battle many dwarfs are killed.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Men kill the birds and are sent home
+  summary: The next day the men attack the birds, kill them by twisting their necks,
+    and are sent home by the dwarfs.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: journey to dwarf land and return home
+  taxonomy_refs:
+  - return
+  basis: The men reach the land of the dwarfs and are later sent home by the dwarfs.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage begins mid-action, so the original departure and larger journey
+    context are not included.
+- id: motif:2
+  label: theft of food followed by fatal punishment
+  taxonomy_refs: []
+  basis: One man steals two halibut, and the dwarf who owns or controls the catch
+    kills him after discovering the theft.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not state that the halibut are sacred or ritually marked.
+- id: motif:3
+  label: human visitors kill bird enemies after dwarfs are attacked
+  taxonomy_refs: []
+  basis: Birds battle the dwarfs and kill many; the following day the men attack and
+    kill the birds.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly state the men’s motive for attacking the
+    birds.
+- id: motif:4
+  label: dwarf underwater halibut hunter
+  taxonomy_refs: []
+  basis: A dwarf in a canoe repeatedly dives into the sea, clubs halibut underwater,
+    and brings them into the canoe.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a localized action pattern in the passage; broader comparative
+    significance is not established here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3052-3053
+  quote_or_summary: A person cannot let go of a harpoon line, and the group finally
+    reaches the land of the dwarfs.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: 3053-3055
+  quote_or_summary: A dwarf appears in a canoe, dives into the sea, clubs halibut
+    underwater, puts them in the canoe, and one man steals two halibut when the dwarf
+    dives again.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: 3055-3056
+  quote_or_summary: The dwarf notices the theft, finds the men, knocks the thief down,
+    and the thief dies.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: 3056-3058
+  quote_or_summary: The survivors are invited in by the chief of the dwarfs; birds
+    arrive, and a battle follows in which many dwarfs are killed.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: 3058-3060
+  quote_or_summary: The next day the men attack the birds, kill them by twisting their
+    necks, and are sent home by the dwarfs.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a short passage that begins mid-sentence and contains
+    OCR irregularities. Literal events are clear enough for scene and motif candidates,
+    but broader narrative context is absent.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not establish historical, linguistic, or cross-tradition comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-tsimshian-texts-boas-archive__l3052-l3060
+  passage_sha256=52f1dce6fd8b69e7cc07c4035219442be16cf8def6e8fa9ce4bcd8be3236aad6
+

@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l16050-l16078
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: A A 2 / EIGHTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OP  THE  YNCAS. / EIGHTH  BOOK  OP  THE  ROYAL;
+    lines 16050-16078
+  start: '16050'
+  end: '16078'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes quinua, its resemblance to rice and wild amaranth,
+    its edible leaves and grain, its use in beverages and medicine, and an unsuccessful
+    attempt to germinate seed sent to the narrator in 1590. It also lists edible beans,
+    lupins, and inedible colored beans called chuy that are used in games.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Quinua is described as resembling rice in color and grain, and its plant is
+    compared in shape, leaf, and flower to wild amaranth.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Indians and Spaniards eat the tender leaf of quinua in dishes, and the grain
+    is eaten in soups prepared in various ways.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Indians make a beverage from quinua in districts where maize will not grow.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Native herbalists use the flower of quinua to cure some diseases.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Seed sent to the narrator in 1590 arrived dead and did not germinate despite
+    repeated sowing.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Indians of Peru have several kinds of beans called purutu, used in dishes,
+    and lupins called tarvi, compared to Spanish lupins but larger and whiter.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Inedible beans called chuy are round, many-colored, about the size of a chick
+    pea, and distinguished by color names.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Chuy beans are used in various games by boys and grown-up people, and the
+    narrator remembers playing with them in different ways.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Indians of Peru
+  description: People described as using quinua, beans, lupins, and chuy beans in
+    food, drink, and games.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Spaniards
+  description: People who call quinua mujo or lesser rice and who eat the tender leaf
+    in dishes.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Native herbalists
+  description: Specialists who use the flower of quinua to cure some diseases.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Narrator
+  description: The speaker who received quinua seed in 1590, attempted to sow it,
+    and remembers playing games with chuy beans.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Boys and grown-up people
+  description: Groups said to use chuy beans in various games.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Food users
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says Indians and Spaniards eat quinua leaves and that Indians
+    use quinua grain, purutu, and tarvi in food contexts.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: Medicinal plant users
+  assigned_to:
+  - fig:3
+  basis: Native herbalists are said to use the flower of quinua to cure some diseases.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Game players
+  assigned_to:
+  - fig:1
+  - fig:4
+  - fig:5
+  basis: Chuy beans are said to be used in games by boys and adults, and the narrator
+    recalls playing with them.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Namers by resemblance
+  assigned_to:
+  - fig:2
+  basis: Spaniards call quinua mujo or lesser rice because of its resemblance to rice
+    in color and grain.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: Recipient and sower of seed
+  assigned_to:
+  - fig:4
+  basis: The narrator says seed was sent to him in 1590 and that he sowed it several
+    times without germination.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Quinua plant and grain
+  literal_form: Quinua plant, tender leaf, grain, and flower
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Purutu beans
+  literal_form: Three or four kinds of edible beans called purutu
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Tarvi lupins
+  literal_form: Lupins called tarvi, like Spanish lupins but larger and whiter
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Chuy game beans
+  literal_form: Round, many-colored, inedible beans about the size of a chick pea
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Uses of quinua
+  summary: The passage describes quinua by resemblance and reports its use as leaf
+    food, grain for soups, beverage material, and medicinal flower.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Failed germination of sent seed
+  summary: Seed sent to the narrator in 1590 is reported to have arrived dead and
+    not to have germinated after repeated sowing.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Beans, lupins, and gaming beans
+  summary: The passage lists purutu beans and tarvi lupins as food plants, then describes
+    inedible chuy beans used in games by children and adults.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16050-16059
+  quote_or_summary: Quinua is described as similar to rice in color and grain and
+    to wild amaranth in plant form; Indians and Spaniards eat its tender leaves and
+    its grain in soups.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 16059-16064
+  quote_or_summary: Indians make a beverage from quinua where maize will not grow,
+    and native herbalists use its flower to cure some diseases.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 16064-16068
+  quote_or_summary: In 1590 seed was sent to the narrator, but it arrived dead and
+    did not germinate after several sowings.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 16068-16073
+  quote_or_summary: The Indians of Peru have several kinds of beans called purutu
+    for dishes and lupins called tarvi, compared with Spanish lupins but larger and
+    whiter.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 16073-16078
+  quote_or_summary: Inedible beans called chuy are round, many-colored, chick-pea
+    sized, named by color, and used in games by boys and adults; the narrator remembers
+    playing them.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is descriptive ethnobotanical and recreational material. It provides
+    clear evidence for plant and game-object observations but does not support mythological
+    motif or comparative claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family is directly supported by this passage. Listed symbols are literal material objects rather than interpreted mythic symbols.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l16050-l16078
+  passage_sha256=46597c0fb9926cf0e7a52fd695feb354d2ec0c075e338709c197a93d87163b1f
+

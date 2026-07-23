@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l25400-l25459
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: THE  BULL- RING / DANCES,  SPOPTS , AND  GAMES / THE  FIGHT / COCK-FIGHTING  ON  THE  EAST  COAST;
+    lines 25400-25459
+  start: '25400'
+  end: '25459'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contrasts coerced suffering in a fight with animal combat described
+    as arising from the animals' nature. It then introduces cock-fighting, especially
+    the ber-taji form in the Archipelago and West Coast of the Peninsula, where birds
+    are armed with artificial spurs. The East Coast Malay view is reported as rejecting
+    this spurred form as unsportsmanlike, valuing instead the birds' pluck and endurance.
+    A footnote lists other animal fighting behaviors.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed fighter is described as continuing despite pain because stopping
+    would mean losing his life.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says that cock, quail, dove, bull, ram, or fish fight because
+    it is their nature and stop when they have had enough.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The passage attributes continued animal fighting to pluck, pride, and hatred
+    of defeat rather than external necessity.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Properly conducted fights between animals are described as less cruel than
+    one might imagine.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Cock-fights in the Archipelago and on the West Coast of the Peninsula are
+    described as ber-taji, with birds armed with long artificial spurs.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The artificial spurs are described as razor-sharp and curved, producing cruel
+    wounds and often causing a combatant's death quickly.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: The Malay of the East Coast are said to regard the spurred form of cock-fighting
+    as stupid and unsportsmanlike.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A footnote describes fighting fish kept by Malay ladies, as well as fighting
+    behaviors of goats, sheep, tigers, and buffaloes.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed coerced fighter
+  description: A fighter described as suffering and continuing because stopping would
+    mean death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: animal combatants in the main text
+  description: Cock, quail, dove, bull, ram, or fish described as fighting because
+    it is their nature.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: ber-taji cock-fighting birds
+  description: Birds in cock-fights armed with long artificial spurs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Malay of the East Coast
+  description: Regional Malay observers who regard the spurred ber-taji form of cock-fighting
+    as stupid and unsportsmanlike.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Malay ladies
+  description: Women described in the footnote as keeping fighting fish in bottles
+    and old kerosine tins.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: other fighting animals in the footnote
+  description: Fishes, goats, sheep, tigers, and buffaloes described with species-specific
+    fighting behaviors.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: coerced combatant
+  assigned_to:
+  - fig:1
+  basis: The figure continues despite torture-like pain because stopping would mean
+    death.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: natural combatant
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: The passage describes animals as fighting by nature or gives examples of
+    animals fighting in species-specific ways.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:3
+  label: armed cock-fight combatant
+  assigned_to:
+  - fig:3
+  basis: The birds are armed with artificial spurs in ber-taji cock-fighting.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: regional critic of spurred cock-fighting
+  assigned_to:
+  - fig:4
+  basis: The East Coast Malay are reported to judge the spurred form as stupid and
+    unsportsmanlike.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: keepers of fighting fish
+  assigned_to:
+  - fig:5
+  basis: The footnote says Malay ladies keep fighting fish in bottles and old kerosine
+    tins.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: artificial cock-fighting spurs
+  literal_form: Long artificial spurs, sharp as razors and curved, attached to fighting
+    birds in ber-taji contests.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: containers for fighting fish
+  literal_form: Bottles and old kerosine tins in which Malay ladies keep small fighting
+    fish.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: coerced fighting contrasted with animal fighting
+  summary: The passage contrasts an unnamed fighter compelled to continue under threat
+    of death with animals that fight by nature and stop when satisfied.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: ber-taji cock-fighting
+  summary: In the Archipelago and West Coast of the Peninsula, cock-fighting is described
+    as ber-taji, with birds armed with long artificial spurs that produce severe wounds
+    and quick death.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: East Coast Malay judgment of spurred cock-fighting
+  summary: The East Coast Malay view is reported as rejecting the spurred form of
+    cock-fighting as stupid and unsportsmanlike, with emphasis instead on the birds'
+    pluck and endurance.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: catalogue of animal fighting behaviors
+  summary: A footnote lists fighting behaviors of fishes, goats, sheep, tigers, and
+    buffaloes, including fish kept in containers by Malay ladies.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: animal combat by inborn nature
+  taxonomy_refs: []
+  basis: The passage groups multiple animals as combatants and states that they fight
+    because it is their nature rather than under necessity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: This is an ethnographic and behavioral pattern in the passage, not a mythic
+    motif tied to the supplied taxonomy.
+- id: motif:2
+  label: cock-fighting with artificial weapons
+  taxonomy_refs: []
+  basis: The ber-taji form arms birds with long artificial spurs that inflict severe
+    wounds and can quickly kill a combatant.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this contest practice.
+- id: motif:3
+  label: ethical contrast between coerced suffering and voluntary animal contest
+  taxonomy_refs: []
+  basis: The passage contrasts the compelled suffering of an unnamed fighter with
+    animals that fight from nature, and argues that properly conducted animal fights
+    are less cruel than expected.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The opening referent is incomplete in the excerpt, so the contrast should
+    be reviewed against surrounding lines.
+- id: motif:4
+  label: regional rejection of weaponized cock-fighting
+  taxonomy_refs: []
+  basis: The East Coast Malay are reported as regarding spurred cock-fighting as stupid
+    and unsportsmanlike, with value placed on the birds' pluck and endurance.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The excerpt gives an evaluation of the East Coast view but does not fully
+    describe an alternative East Coast procedure.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares regional forms of cock-fighting by contrasting ber-taji
+    practices in the Archipelago and West Coast of the Peninsula with the East Coast
+    Malay rejection of that spurred form.
+  claim_level: same_function
+  target: regional cock-fighting traditions within the Malay/Archipelago setting described
+    in the passage
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a clear regional contrast but only briefly states
+    the East Coast judgment and does not fully describe East Coast rules in the excerpt.
+- id: claim:2
+  claim: The passage treats diverse animal fights as comparable instances of animal
+    combat, while noting different species-specific fighting methods.
+  claim_level: same_function
+  target: animal combat across birds, fish, goats, sheep, tigers, and buffaloes
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison in the passage, not evidence of historical
+    contact or a broader mythological tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 25400-25407
+  quote_or_summary: An unnamed fighter is described as continuing through increasing
+    pain because stopping would mean losing his life; animal combatants are then introduced
+    by contrast.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 25404-25411
+  quote_or_summary: Cock, quail, dove, bull, ram, or fish are said to fight because
+    it is their nature, stopping when they have had enough; pluck, pride, and hatred
+    of defeat are named as motives.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 25410-25414
+  quote_or_summary: The passage states that properly conducted animal fights are less
+    cruel than one may imagine.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 25420-25427
+  quote_or_summary: Cock-fights in the Archipelago and on the West Coast of the Peninsula
+    are described as ber-taji, with birds armed with long artificial spurs, sharp
+    and curved.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 25427-25434
+  quote_or_summary: The artificial spurs make cruel wounds and can quickly cause death;
+    the Malay of the East Coast are said to regard this form as stupid and unsportsmanlike,
+    valuing the birds' pluck and endurance.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 25436-25456
+  quote_or_summary: A footnote describes small fighting fish kept by Malay ladies
+    in bottles and old kerosine tins, and also describes fighting behaviors of goats,
+    sheep, tigers, and buffaloes.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The ethnographic details are explicit, but motif labeling is necessarily
+    broad because no supplied taxonomy reference directly matches cock-fighting or
+    animal combat as sport.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif or symbol reference was applied because the passage does not directly support one.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l25400-l25459
+  passage_sha256=92cd8768ac46ee1eacf1bfa428e5aae714c540cde58887c2f79b554a7de974dd
+

@@ -1,0 +1,278 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l16660-l16684
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: EIGHTH  BOOK  OP  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. / CHAPTER  XV.
+    / OF  THE  PRECIOUS  LEAF  CALLED  CUCA,  AND  OF  TOBACCO.; lines 16660-16684
+  start: '16660'
+  end: '16684'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The chapter opens by identifying the plant called cuca by the Indians and
+    coca by the Spaniards. The narrator describes it as a major source of wealth in
+    Peru for traders and as highly esteemed by the Indians for its known virtues,
+    while Spaniards have found additional medicinal uses. The narrator introduces
+    Father Blas Valera as an experienced observer and begins his description of cuca
+    as a small bush like a vine with delicate leaves.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The plant is called cuca by the Indians and coca by the Spaniards.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The plant is described as the principal wealth of Peru for those engaged in
+    trade.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Indians esteem the plant highly for many great virtues known to them in
+    old times.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Spaniards are said to have discovered additional virtues connected with
+    medicinal uses.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Father Blas Valera is presented as a close observer who resided many years
+    in Peru and wrote about the plant's virtues from experience.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Cuca is described as a small bush of the height and thickness of a vine, with
+    few branches and many delicate leaves.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Indians
+  description: The group who call the plant cuca and esteem it for virtues known in
+    old times.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Spaniards
+  description: The group who call the plant coca and are said to have discovered additional
+    medicinal uses.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Father Blas Valera
+  description: A close observer who lived many years in Peru and wrote about the plant's
+    virtues as one who had tried them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: traders in Peru
+  description: People engaged in trade for whom cuca is described as the principal
+    wealth of Peru.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: narrator
+  description: The speaker who proposes to give Valera's account and then add remaining
+    information.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: traditional knowers and users of cuca
+  assigned_to:
+  - fig:1
+  basis: They call the plant cuca and are said to have known and esteemed its virtues
+    in old times.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: discoverers of additional medicinal uses
+  assigned_to:
+  - fig:2
+  basis: They call the plant coca and are said to have discovered further medicinal
+    uses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: experienced witness and source
+  assigned_to:
+  - fig:3
+  basis: Valera is described as a close observer who resided many years in Peru and
+    wrote from trial or experience.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: trade beneficiaries
+  assigned_to:
+  - fig:4
+  basis: The plant is described as the principal wealth of Peru for those engaged
+    in trade.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: compiler of account
+  assigned_to:
+  - fig:5
+  basis: The narrator states that he will first give Valera's words and then add what
+    remains.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: cuca or coca plant
+  literal_form: A plant called cuca by the Indians and coca by the Spaniards; described
+    as a small bush resembling a vine.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: delicate cuca leaves
+  literal_form: Many delicate leaves on few branches, described as the width of a
+    thumb and as long as half a line before the passage cuts off.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Introduction of cuca as wealth and valued plant
+  summary: The narrator identifies the plant by its Indigenous and Spanish names,
+    says it is a principal source of trade wealth in Peru, and explains that it is
+    esteemed for virtues and medicinal uses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Introduction of Valera's testimony
+  summary: The narrator presents Father Blas Valera as an experienced observer and
+    source for the plant's virtues.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Physical description of cuca
+  summary: Valera's quoted account begins by describing cuca as a small bush like
+    a vine, with few branches and many delicate leaves.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: valued medicinal plant knowledge
+  taxonomy_refs: []
+  basis: The passage centers on a plant esteemed for known virtues and additional
+    medicinal uses, with knowledge attributed to both Indians and Spaniards and reported
+    by Valera.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a descriptive ethnobotanical pattern rather than a clearly mythological
+    motif in the passage.
+- id: motif:2
+  label: plant as source of wealth through trade
+  taxonomy_refs: []
+  basis: Cuca is explicitly described as the principal wealth of Peru for people engaged
+    in trade.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not present a ritual or mythic exchange pattern, only
+    economic value.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 16660-16668
+  quote_or_summary: The plant is called cuca by the Indians and coca by the Spaniards,
+    and is described as the principal wealth of Peru for those engaged in trade.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 16668-16674
+  quote_or_summary: The plant is highly esteemed by Indians for many virtues known
+    in old times, and Spaniards have discovered more virtues related to medicinal
+    uses.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 16674-16680
+  quote_or_summary: Father Blas Valera is described as a close observer who lived
+    many years in Peru and wrote about both classes of virtues from experience; the
+    narrator says he will first give Valera's account.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 16681-16684
+  quote_or_summary: "“The cuca is a small bush of the height and thickness of a vine”
+    with few branches and many delicate leaves."
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; brief quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is largely descriptive and ethnobotanical; motif candidates are
+    therefore limited and should be reviewed for atlas relevance.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy symbol reference was assigned because the passage describes cuca as a bush or vine-like plant, not as one of the available symbol terms such as tree.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l16660-l16684
+  passage_sha256=0730468ad197d7b087d940f5e8b8cb6fa73e1e4c3cd6062967e3c04f8bb5e408
+

@@ -1,0 +1,406 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l18817-l18877
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: PURIFICATION  AFTER  BIRTH / BIRTH  CEREMONIES / COMPRESSING  THE  HEAD /
+    BIRTH  CEREMONIES; lines 18817-18877
+  start: '18817'
+  end: '18877'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Malay birth-period ceremonies and child treatments:
+    early feeding with prepared rice, breastfeeding and weaning practices, required
+    objects and gestures associated with the rice supply and the mother, post-bath
+    fumigation, placement of the child in a black-cloth swinging cot, and a footnoted
+    similar child-treatment ceremony involving bathing and smoking over a fire.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: From a few hours old until about three months, the child is fed rice boiled
+    in a pot on the fire, broken with a broad coconut-shell spoon, mixed with sugar,
+    and placed in small woven coconut-leaf receptacles.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Later the child is taught to feed at the breast, and weaning is done by applying
+    bitter aloes to the mother’s breasts.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: During this period a rice-jar must contain a stone, a large iron nail, and
+    a candle-nut, and a spoon must always be used to put rice into the cooking pot.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When eating or drinking, the mother must cross her left arm under her breasts
+    while leaving the right arm free to bring food to her mouth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After bathing, the child is fumigated and first placed in a swinging cot made
+    from a black cloth slung from a rafter.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: For fumigation, red dracaena leaves are taken and wrapped with the casing
+    of the charred torch used when severing the umbilical cord.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: 'A footnote describes a similar treatment for a child who persistently cries
+    and will not take food: bathing with prepared liquids, followed by smoking over
+    a fire made with specified materials.'
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: infant or child in birth ceremonies
+  description: The child is fed, later breastfed and weaned, bathed, fumigated, and
+    placed in a swinging cot.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: mother
+  description: The mother breastfeeds the child, has bitter aloes applied to her breasts
+    for weaning, and follows a prescribed arm position when eating or drinking.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: unnamed ritual preparer or caregiver
+  description: The instructional passage describes an unnamed person taking red dracaena
+    leaves and wrapping them with the charred torch casing for fumigation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: child suffering from sampuh pachut
+  description: In the footnote, a child who persistently cries and refuses food is
+    bathed and smoked over a prepared fire.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: newborn ritual recipient
+  assigned_to:
+  - fig:1
+  basis: The child receives prescribed feeding, bathing, fumigation, and first placement
+    in the swinging cot.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: breastfed and weaned child
+  assigned_to:
+  - fig:1
+  basis: The passage says the child is taught to feed at the breast and is later weaned
+    with bitter aloes.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: nursing mother under birth-period prescription
+  assigned_to:
+  - fig:2
+  basis: The mother is involved in breastfeeding and must use a specific arm posture
+    when eating or drinking.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: fumigation preparer
+  assigned_to:
+  - fig:3
+  basis: The text gives instructions for taking and wrapping fumigation materials.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: patient in supplementary child-treatment ceremony
+  assigned_to:
+  - fig:4
+  basis: The footnote describes treatment of a child who persistently cries and will
+    not take food.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: prepared rice food
+  literal_form: Rice boiled in a pot on the fire, broken with a coconut-shell spoon,
+    mixed with sugar, and squeezed into woven coconut-leaf receptacles.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire and smoke
+  literal_form: Cooking fire for rice; fumigation or smoking of the child; footnoted
+    smoking over a fire made with specified materials.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: rice-jar contents
+  literal_form: A rice-jar containing a stone, a big iron nail, and a candle-nut.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: maternal arm-crossing gesture
+  literal_form: The mother crosses her left arm under her breasts while eating or
+    drinking.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: black-cloth swinging cot
+  literal_form: A black cloth slung from one of the rafters, described as the Malay
+    substitute for a cradle.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: red dracaena and charred cord-severing torch casing
+  literal_form: Leaves of red dracaena wrapped with the casing of the charred torch
+    used at the severing of the cord.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: bitter aloes on the mother’s breasts
+  literal_form: Bitter aloes applied to the mother’s breasts to wean the child.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:8
+  label: footnoted smoking-fire materials
+  literal_form: A weaver-bird nest, bottle-gourd skin, and wood struck by lightning
+    used for the smoking fire in the footnoted treatment.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: early feeding, breastfeeding, and weaning
+  summary: The infant is first fed prepared rice, later taught to breastfeed, and
+    eventually weaned using bitter aloes applied to the mother’s breasts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: rice-jar and maternal posture prescriptions
+  summary: The rice-jar is required to contain specified objects, a spoon must be
+    used for moving rice to the pot, and the mother must use a prescribed left-arm
+    posture while eating or drinking.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: post-bath fumigation and first swinging-cot placement
+  summary: After bathing, the child is fumigated using specified plant and torch materials
+    and placed for the first time in a black-cloth swinging cot.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: footnoted treatment for sampuh pachut
+  summary: A child who cries persistently and refuses food is treated by bathing with
+    prepared liquids and then smoking over a fire made from a weaver-bird nest, bottle-gourd
+    skin, and lightning-struck wood.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:8
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: birth-ceremony regimen for newborn feeding, nursing, and fumigation
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage is explicitly a birth-ceremony passage and describes prescribed
+    acts around feeding, nursing, bathing, fumigating, and placing the child in a
+    cot.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The source is an ethnographic ritual description rather than a mythic
+    narrative of a sacred or miraculous birth.
+- id: motif:2
+  label: birth-period prescriptions around food, rice, and the nursing mother
+  taxonomy_refs: []
+  basis: The passage specifies prepared rice feeding, required rice-jar contents,
+    spoon use, and the mother’s required posture when eating or drinking.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage gives prescriptions but does not explicitly explain their
+    intended efficacy or symbolism.
+- id: motif:3
+  label: infant fumigation with specified ritual materials
+  taxonomy_refs: []
+  basis: The child is fumigated after bathing, using red dracaena leaves and the casing
+    of a charred torch connected to severing the cord.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The text describes the procedure but does not state the ritual rationale.
+- id: motif:4
+  label: bath-and-smoke treatment for a crying child who refuses food
+  taxonomy_refs: []
+  basis: The footnote describes bathing the child in prepared liquids and then smoking
+    the child over a fire made from specified items.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a footnoted parallel treatment, not necessarily part of the main
+    birth-ceremony sequence.
+comparison_claims:
+- id: claim:1
+  claim: The footnote itself identifies Ridley’s described sampuh pachut treatment
+    as a somewhat similar ceremony to the main infant fumigation passage, since both
+    involve bathing or smoking a child with specified ritual materials.
+  claim_level: same_function
+  target: Ridley’s Malay Materia Medica description of treatment for sampuh pachut
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: 'The two procedures have different stated contexts: the main passage
+    concerns birth ceremonies, while the footnote concerns a child who cries persistently
+    and refuses food.'
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18817-18823
+  quote_or_summary: The infant is fed from a few hours old until three months with
+    rice boiled on the fire, broken with a coconut-shell spoon, mixed with sugar,
+    and put into woven coconut-leaf receptacles.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 18824-18827
+  quote_or_summary: The child is later taught to feed at the breast, and weaning is
+    carried out by applying bitter aloes to the mother’s breasts.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 18828-18837
+  quote_or_summary: During this period the rice-jar must contain a stone, a large
+    iron nail, and a candle-nut; a spoon must be used to put rice into the pot; the
+    mother must cross her left arm under her breasts while eating or drinking.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 18838-18845
+  quote_or_summary: After being bathed, the child is fumigated and placed for the
+    first time in a swinging cot formed by a black cloth slung from a rafter.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 18845-18850
+  quote_or_summary: For fumigation, red dracaena leaves are wrapped with the casing
+    of the charred torch used when the cord was severed.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: footnote within lines 18851-18877
+  quote_or_summary: Ridley’s footnoted description says a child with sampuh pachut
+    may be bathed in prepared decoctions or boiled roadside-rubbish liquid, then smoked
+    over a fire made from a weaver-bird nest, bottle-gourd skin, and wood struck by
+    lightning.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The procedural details are explicit in the passage. Motif-family assignment
+    to sacred_birth is cautious because the passage is ethnographic ritual description,
+    not a mythic birth narrative. Line subranges are approximate within the supplied
+    stable passage locator.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used; interpretive claims were limited to passage-supported ritual patterns and the passage’s own footnoted comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l18817-l18877
+  passage_sha256=6d39ee1f4fce2c6c689030a68e363a1e4b5b5b406975f9c719245f1400e48005
+

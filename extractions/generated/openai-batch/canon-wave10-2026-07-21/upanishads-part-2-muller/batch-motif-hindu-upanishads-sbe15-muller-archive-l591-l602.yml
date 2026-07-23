@@ -1,0 +1,215 @@
+---
+record_id: batch.motif.hindu-upanishads-sbe15-muller-archive-l591-l602
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+passage_locator:
+  label: INTRODUCTION. / PP- 385-393; / INTRODUCTION. XV / XVI UPANISHADS.; lines
+    591-602
+  start: '591'
+  end: '602'
+  translation: The Upanishads, Part II (Sacred Books of the East, Vol. 15)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage cites Sanskrit verses and A. Venis’s translations. One translated
+    statement says the world of phenomena, apprehensible through the eleven organs,
+    argument, and revelation, is expressed by the word “idam,” meaning “this.” A following
+    Pañcadaśī citation begins a statement about “all this” before creation and includes
+    a non-second/singular formulation in transliterated Sanskrit; a footnote adds
+    a related statement attributed to Śankara.
+  language: English with Sanskrit transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A. Venis is cited as translating a Sanskrit statement about what may be apprehended
+    through eleven organs, argument, and revelation.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The translated statement identifies the apprehended domain as the world of
+    phenomena.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The same translated statement says the world of phenomena is expressed by
+    the word “idam,” translated as “this.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Pañcadaśī is quoted as continuing with a verse beginning “Idaw sarvam”
+    and containing the phrase “ekam evadvitiyakam.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage begins Venis’s translation of the second cited verse with “Previous
+    to creation, all this.”
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A footnote reports a related statement attributed to Śankara.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Mr. A. Venis
+  description: Named as the translator of the cited Sanskrit statements, with reference
+    to Pandit, V, p. 667.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Śankara
+  description: Named in a footnote as giving a statement on the cited philosophical
+    wording.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: translator cited in passage
+  assigned_to:
+  - fig:1
+  basis: The passage says Mr. A. Venis translates both cited Sanskrit statements.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: commentator cited in footnote
+  assigned_to:
+  - fig:2
+  basis: The footnote begins “Sankara says” and gives a related comment.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: idam / this
+  literal_form: the word “idam,” translated as “this”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: eleven organs
+  literal_form: eleven organs as means of apprehension
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Identification of phenomena as “this”
+  summary: A cited translation states that whatever is apprehensible through the eleven
+    organs, argument, and revelation—the world of phenomena—is expressed by the word
+    “idam,” meaning “this.”
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Statement about all this before creation
+  summary: A subsequent Pañcadaśī quotation begins a statement about “all this” before
+    creation and includes a phrase indicating singular or non-second status in the
+    transliterated Sanskrit; the English translation is only partially present in
+    the supplied passage.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Śankara footnote
+  summary: A footnote attributes a related explanatory statement to Śankara.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: apprehension of phenomena through organs, reasoning, and revelation
+  taxonomy_refs:
+  - wisdom
+  basis: The cited translation explicitly lists eleven organs, argument, and revelation
+    as means by which the world of phenomena may be apprehended.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is doctrinal or epistemological exposition rather than a narrative
+    wisdom episode.
+- id: motif:2
+  label: pre-creation non-dual condition of all this
+  taxonomy_refs: []
+  basis: The cited Pañcadaśī verse speaks of “all this” before creation and includes
+    the phrase “ekam evadvitiyakam”; the supplied English translation starts “Previous
+    to creation, all this.”
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The English translation is truncated in the supplied line range, and the
+    OCR/transliteration is corrupt in places.
+- id: motif:3
+  label: phenomenal world designated by a deictic word
+  taxonomy_refs: []
+  basis: The passage says the world of phenomena is expressed by the word “idam,”
+    translated as “this.”
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a linguistic-philosophical pattern, not a mythic object or narrative
+    symbol.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 591-595
+  quote_or_summary: "“Whatever may be apprehended through the eleven organs, by argument
+    and revelation, i. e. the world of phenomena, is expressed by the word idam, this.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 596-601
+  quote_or_summary: The passage says the Pañcadaśī continues with a verse beginning
+    “Idaw sarvam” and containing “ekam evadvitiyakam”; Venis’s translation begins,
+    “Previous to creation, all this.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source; summarized with brief quoted phrases.
+- id: ev:3
+  type: summary
+  locator: line 602
+  quote_or_summary: A footnote says that Śankara makes a related statement on the
+    phrase, including wording about “ekam evadvitiyam” and “tat sad aikshata.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source; summarized with brief quoted phrases.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short, partly OCR-corrupted, and the second English translation
+    is truncated. No comparison claims were made because the passage does not itself
+    establish a comparative relationship.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy mapping to “wisdom” is cautious because the passage is philosophical exposition rather than narrative mythology.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:hindu-upanishads-sbe15-muller-archive__l591-l602
+  passage_sha256=39d4544ab38a222f72e0cef5ab2f4b0f4e97b99b66630251ec0a8aff54b77db8
+

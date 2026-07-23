@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.korean-corea-the-hermit-nation-griffis-archive-l7134-l7163
+source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+passage_locator:
+  label: THE  BIGHT  PROVINCES.  187 / KIUNG-KEI,    OB   THE   CAPITAL  PEOVINCE.
+    / THE  EIGHT  ?ROVINCBS.  189 / COKEA.; lines 7134-7163
+  start: '7134'
+  end: '7163'
+  translation: Corea, the Hermit Nation
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Rin-chin River and its military importance, then
+    outlines the strategic defenses around Seoul through four major fortresses and
+    recalls their occupation or attack by Ming, Japanese, Manchu, and French forces.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Rin-chin River joins the Han near Kang-wa Island and has headwaters among
+    mountains north of Kang-wen, within thirty miles of Gen-san on the eastern coast.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several important towns are on or near the Rin-chin River, and histories mention
+    armies from China, Japan, and the North crossing and recrossing it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the province’s military geography was expected to
+    be well studied by authorities and that strategic points were strongly defended.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Four fortresses guard approaches to the royal city: Suwen to the south, Kwang-chiu
+    to the southeast, Sunto or Kai-seng to the north, and Kang-wa to the west.'
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: All four fortresses had previously been scenes of siege and battle.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: On the walls of the first three fortresses, rival banners of Ming from China
+    and Taiko from Japan were set in alternating succession by victors during the
+    Japanese occupation between 1592 and 1597.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Manchu standards in 1637 and French eagles in 1866 were planted on the ramparts
+    of Kang-wa.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage begins to add that, besides the castled cities, there are forts
+    and redoubts, but the provided range ends before completing the description.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: authorities
+  description: Authorities expected to have studied the province’s military geography
+    and defended its strategic points.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: armies from China, Japan, and the North
+  description: Armies described as having often crossed and recrossed the Rin-chin
+    River.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: hosts of Ming from China
+  description: Forces whose banners were placed on the walls of the first three fortresses
+    during the Japanese occupation period.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: hosts of Taiko from Japan
+  description: Forces whose banners alternated with Ming banners on the walls of the
+    first three fortresses during the Japanese occupation period.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Manchu forces
+  description: Represented in the passage by standards planted on the ramparts of
+    Kang-wa in 1637.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: French forces
+  description: Represented in the passage by eagles planted on the ramparts of Kang-wa
+    in 1866.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: military planners or defenders
+  assigned_to:
+  - fig:1
+  basis: The passage says the province’s military geography was expected to be studied
+    by authorities and strategic points strongly defended.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: crossing armies
+  assigned_to:
+  - fig:2
+  basis: Histories are said to describe armies from China, Japan, and the North crossing
+    and recrossing the Rin-chin River.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: victors holding fortresses
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage says rival banners were set on the walls by victors who held
+    the fortresses during the Japanese occupation of 1592-1597.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: forces marked by planted standards
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage identifies Manchu standards and French eagles as planted on Kang-wa’s
+    ramparts in 1637 and 1866.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: river waters as military route
+  literal_form: Rin-chin River joining the Han near Kang-wa Island
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mountain headwaters
+  literal_form: mountains north of Kang-wen where the Rin-chin River has headwaters
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: fortified approaches to the royal city
+  literal_form: 'four fortresses guarding Seoul: Suwen, Kwang-chiu, Sunto or Kai-seng,
+    and Kang-wa'
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: military banners, standards, and eagles
+  literal_form: Ming and Taiko banners, Manchu standards, and French eagles placed
+    on fortress walls or ramparts
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Rin-chin River as geographic and military passage
+  summary: The passage locates the Rin-chin River, names nearby features, and states
+    that armies have often crossed and recrossed it.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fortresses guarding the royal city
+  summary: The passage identifies four fortresses positioned around the royal city
+    and describes them as guarding its approaches.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Successive military emblems on fortifications
+  summary: The passage recalls siege and battle at the fortresses and describes banners,
+    standards, and eagles of foreign forces being placed on walls or ramparts.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7134-7142
+  quote_or_summary: The Rin-chin River joins the Han near Kang-wa Island, rises among
+    mountains north of Kang-wen, has towns on or near its banks, and is often mentioned
+    in histories of armies crossing and recrossing it.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 7144-7153
+  quote_or_summary: 'The passage describes the province’s military geography as studied
+    and defended, then names four fortresses guarding approaches to the royal city:
+    Suwen, Kwang-chiu, Sunto or Kai-seng, and Kang-wa.'
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 7153-7160
+  quote_or_summary: All four fortresses are said to have been scenes of siege and
+    battle; the first three bore alternating banners of Ming from China and Taiko
+    from Japan during the Japanese occupation, 1592-1597.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 7160-7162
+  quote_or_summary: "“The Manchiu standards in 1637, and the French eagles in 1866,
+    were planted on the ramparts of Kang-wa.”"
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 7162-7163
+  quote_or_summary: The line range ends while stating that, besides the castled cities,
+    there are forts and redoubts along an unspecified location.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is historical-geographical rather than mythological. Literal
+    features and military patterns are extractable, but no supported mythic motif
+    candidates or comparison claims are present in the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external information or comparison outside the supplied passage was used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-corea-the-hermit-nation-griffis-archive__l7134-l7163
+  passage_sha256=83a5eda20b9c4f0a70e2ccbfda268fdffa1fdec3af07c8a3703f3c80456c2be5
+

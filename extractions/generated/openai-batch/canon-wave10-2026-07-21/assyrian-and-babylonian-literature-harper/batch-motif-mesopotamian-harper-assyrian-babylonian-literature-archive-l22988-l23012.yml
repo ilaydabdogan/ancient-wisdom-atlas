@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l22988-l23012
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: THE   GILGAMESH   NARRATIVE  363 / TABLET  XII / THE   GILGAMESH   NARRATIVE  365
+    / THE   GILGAMESH   NARRATIVE  367; lines 22988-23012
+  start: '22988'
+  end: '23012'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: '"The deluge of which thou speakest"; "That they may enter (into the ship";
+    "That Per-napishtim (take) the oar"'
+  summary: A fragmentary speech addresses the death of men, a deluge, informing someone
+    so that he may build, entry into a ship, and Per-napishtim taking an oar.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A speaker addresses a figure as “me” and “thou” within direct speech.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker asks why men are to be made to die.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says he will reach out his hand to men.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A deluge is mentioned as something being spoken of.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The speaker says an unnamed male figure shall be informed of it so that he
+    may build.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A plural group is to enter into a ship.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Per-napishtim is named in connection with taking an oar.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed speaker
+  description: The figure who “said unto me” and speaks in the quoted passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: addressed “me/thou” figure
+  description: The figure addressed by the speaker in the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: men
+  description: Human beings mentioned as dying and as recipients of the speaker’s
+    extended hand.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: unnamed informed builder
+  description: An unnamed male figure who is to be informed so that he may build.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: unnamed entrants
+  description: A plural group referred to as entering into the ship.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Per-napishtim
+  description: Named figure associated with taking the oar.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: speaker
+  assigned_to:
+  - fig:1
+  basis: The passage introduces direct speech with “said unto me.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressee
+  assigned_to:
+  - fig:2
+  basis: The speaker addresses a second-person figure as “thou.”
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: human collective
+  assigned_to:
+  - fig:3
+  basis: The passage refers to “men” in relation to dying and receiving the speaker’s
+    hand.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: informed builder
+  assigned_to:
+  - fig:4
+  basis: The passage says “he shall be informed” and “he build.”
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: ship entrants
+  assigned_to:
+  - fig:5
+  basis: The passage says “they may enter (into the ship.”
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: oar-taker
+  assigned_to:
+  - fig:6
+  basis: The passage says “That Per-napishtim (take) the oar.”
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: deluge
+  literal_form: deluge
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ship
+  literal_form: ship
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - ark_vessel
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: oar
+  literal_form: oar
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: fragmentary speech about men and deluge
+  summary: A speaker addresses an addressee, mentions men dying, reaching out a hand
+    to men, and a deluge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: instructions concerning building and ship entry
+  summary: The speech says an unnamed male figure is to be informed so that he may
+    build, a group may enter a ship, and Per-napishtim may take an oar.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: deluge threatening humans
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage links men dying with an explicitly mentioned deluge.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is heavily fragmentary and does not describe the full flood
+    sequence.
+- id: motif:2
+  label: survival vessel in a flood context
+  taxonomy_refs:
+  - ark_vessel
+  basis: The passage mentions a deluge, building, entry into a ship, and Per-napishtim
+    taking an oar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The exact relation between the unnamed builder, the entrants, and Per-napishtim
+    is not fully explicit in this fragment.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits a flood-and-vessel survival pattern at the motif-family
+    level because it combines deluge language with ship entry and an oar.
+  claim_level: same_motif
+  target: flood_and_renewal / ark_vessel motif family
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only a short damaged excerpt is provided; no broader narrative comparison
+    is made here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 22988-22994
+  quote_or_summary: "“Why wilt thou make men to die”; “I will reach out my hand to
+    men”; “The deluge of which thou speakest”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 22996-23004
+  quote_or_summary: "“He shall be informed of it”; “To the end that he build”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 23006-23012
+  quote_or_summary: "“That they may enter (into the ship”; “That Per-napishtim (take)
+    the oar”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal elements are clear, but the passage is fragmentary, with omissions
+    and uncertain bracketed restorations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external narrative context was used beyond the supplied passage and metadata.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l22988-l23012
+  passage_sha256=e38588ecda0c0d45379de89440b8e91f69bafcd52eb0fd4bcaaa11d382be0e07
+

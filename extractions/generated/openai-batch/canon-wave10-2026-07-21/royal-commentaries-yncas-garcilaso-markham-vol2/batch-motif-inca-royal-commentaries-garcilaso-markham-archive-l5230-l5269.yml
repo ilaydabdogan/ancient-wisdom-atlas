@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l5230-l5269
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SIXTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. / CHAPTER  VI.
+    / SIXTH  BOOK  OP  THE  ROYAL; lines 5230-5269
+  start: '5230'
+  end: '5269'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a large organized hunt: an unnamed male-referenced
+    authority orders thousands of people to form a vast circle, use rivers, brooks,
+    and ravines as boundaries, drive animals inward, capture game by hand, kill harmful
+    animals, and selectively release breeding females and some males. It also contrasts
+    former abundance of deer, huanacu, and vicuñas with later destruction attributed
+    to Spanish arquebuses.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed male-referenced authority orders 20,000 or 30,000 people, or another
+    number as needed, according to the size of the area to be hunted.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hunting participants are divided into two parties, one to the right and
+    one to the left, and form a large circle of twenty or thirty leagues in circumference.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Rivers, brooks, and ravines are used as boundaries for the district hunted
+    that year, while the district reserved for the next year's hunt is not entered.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The beaters advance shouting, start the game ahead of them, mark where animals
+    stop, unite the two parties, close ranks, and eventually take game by hand.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: obs:5
+  text: Lions, bears, foxes, wild cats called Oscollo, and other harmful creatures
+    are killed at once to rid the country of vermin.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage reports very large quantities of deer, huanacu, and vicuñas, sometimes
+    numbering 20,000, 30,000, or 40,000 head in some districts.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that Spanish arquebuses later caused destruction, leaving
+    few huanacus or vicuñas except where the weapon could not be brought within range.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Female deer are released except those past breeding; a sufficient number of
+    the best and finest males are also released, while the rest are killed.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed ordering authority
+  description: A male-referenced figure, identified only by the pronoun 'He' in this
+    excerpt, who orders the number of people for the hunt according to circumstances
+    and area.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: hunting participants or beaters
+  description: The people ordered out for the hunt; they divide into two parties,
+    form a large circle, shout, drive animals, close ranks, and take game by hand.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: deer, huanacu, and vicuña herds
+  description: Game animals reported in large numbers; some are released for breeding
+    or selection, and others are killed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: harmful animals killed during the hunt
+  description: Lions, bears, foxes, wild cats called Oscollo, and other creatures
+    described as doing harm to the game and being killed at once.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: organizer of the hunt
+  assigned_to:
+  - fig:1
+  basis: The figure orders out the number of people required for the hunt.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: beaters and capturers
+  assigned_to:
+  - fig:2
+  basis: The participants form the circle, advance shouting, encircle animals, close
+    ranks, and take game by hand.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: managed game animals
+  assigned_to:
+  - fig:3
+  basis: The herds are counted in large numbers, captured by hand, selectively released,
+    or killed.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: harmful animals or vermin
+  assigned_to:
+  - fig:4
+  basis: These animals are said to harm the game and are killed to rid the country
+    of vermin.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: encircling formation
+  literal_form: A great circle of hunting participants, later closing into several
+    ranks around the animals.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: hunting boundaries
+  literal_form: Rivers, brooks, and ravines used to mark the land hunted in a given
+    year.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Spanish arquebus
+  literal_form: The arquebus as the weapon credited with later destruction of huanacus
+    and vicuñas.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Mobilization and boundary setting
+  summary: An unnamed authority orders a large number of people for a hunt; the participants
+    divide into two parties and the hunting district is bounded by rivers, brooks,
+    or ravines, while the next year's district is reserved.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Encirclement and capture
+  summary: The two parties advance shouting, drive and mark the game, unite to enclose
+    the animals, close into ranks, and capture the game by hand.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: scene:3
+  label: Culling, abundance, and decline
+  summary: Harmful animals are killed immediately; large numbers of deer, huanacu,
+    and vicuñas are reported, but the passage says later Spanish arquebuses caused
+    severe reduction of huanacus and vicuñas.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Selective release and killing
+  summary: Female deer capable of breeding are released, some of the best males are
+    kept alive, and the remaining game is killed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: large-scale organized communal hunt
+  taxonomy_refs: []
+  basis: The passage describes mass mobilization, division into two parties, circular
+    enclosure, coordinated shouting, closing ranks, and hand capture of animals.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: This is a social and administrative hunting pattern rather than an explicitly
+    mythic episode.
+- id: motif:2
+  label: rotating hunt districts and managed animal renewal
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The hunted land is bounded for the current year, a next-year district is
+    left untouched, breeding females and selected males are released, and only the
+    rest are killed.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The passage supports annual rotation and herd management, but it does
+    not explicitly frame the practice as ritual or cosmological.
+- id: motif:3
+  label: former abundance diminished by foreign weaponry
+  taxonomy_refs: []
+  basis: The text contrasts former great numbers of deer, huanacu, and vicuñas with
+    later destruction attributed to Spanish arquebuses.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is presented as a historical contrast, not as a developed mythological
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5230-5234
+  quote_or_summary: An unnamed authority orders out 20,000 or 30,000 people, more
+    or less as needed, depending on the area to be hunted.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5234-5249
+  quote_or_summary: The people divide right and left, form a great circle, use rivers,
+    brooks, or ravines as boundaries, avoid next year's reserved district, advance
+    shouting, unite, encircle the animals, and close ranks.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5250-5255
+  quote_or_summary: Lions, bears, foxes, wild cats called Oscollo, and other harmful
+    creatures are caught with the game and killed at once as vermin.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5256-5262
+  quote_or_summary: The passage reports great quantities of deer, huanacu with coarse
+    wool, and vicuñas with fine wool, sometimes 20,000, 30,000, or 40,000 head in
+    some districts.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5262-5265
+  quote_or_summary: The passage says that few huanacus or vicuñas remain after destruction
+    caused by Spanish arquebuses, except in places beyond arquebus range.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5266-5269
+  quote_or_summary: All game is taken by hand; most female deer are released, females
+    past breeding are killed, enough of the best males are released, and the rest
+    are killed.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the described hunting procedure. Motif labels
+    are cautious because the passage is historical and administrative rather than
+    explicitly mythological; the antecedent of the pronoun 'He' lies outside the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the excerpt itself does not explicitly compare this practice to another tradition or motif family beyond possible taxonomy-level patterning.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l5230-l5269
+  passage_sha256=496c40efbcf12b726fc3791750058ed35b3a6e5b6927edac98a224991a4a4b2f
+

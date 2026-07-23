@@ -1,0 +1,427 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l1767-l1792
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: OPERATIONS OF THE EXPEDITION IN 1897. / IO OPERATIONS OF THE EXPEDITION IN
+    1897. / I4 BOAS, FACIAL PAINTINGS OF THE INDIANS / OF NORTHERN BRITISH COLUMBIA.
+    UG; lines 1767-1792
+  start: '1767'
+  end: '1792'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage analyzes facial painting designs in which the human face is
+    incorporated into conventionalized animal designs. It describes a beaver design,
+    a raven design, and briefly identifies a killer whale design, explaining how animal
+    body parts and hats are mapped onto facial features.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes a series of designs in which the face itself is used
+    as part of conventionalized designs.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fig. 1, Plate II is identified as a beaver design.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The beaver's scaly tail is indicated by hachure lines and extends from the
+    chin upward to the nose.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The eyes of the person also represent the eyes of the beaver.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The beaver's ears are shown immediately over the eyebrows, following the stated
+    convention that animal ears surmount the eyes.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The beaver's hat is painted on the face as three circles, and the paws are
+    shown on the cheeks as though raised to the mouth.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Fig. 2, Plate I is identified as a raven design, with the eyebrows used to
+    represent a beak cut into two profiles.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: In the raven design, the tongue is red on the upper eyelids, the hat has two
+    circles on the forehead over the nose, the wing is on the right cheek, the tail
+    is on the left cheek, and red painting from nose to chin symbolizes the lower
+    side of the body.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The text describes the raven design as applying a method of dissecting the
+    body and arranging its parts to fill the decorative field.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Fig. 3, Plate HM is identified as showing the killer whale.
+  category: object
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: painted human face
+  description: The human face is used as part of the conventionalized designs, and
+    its features can serve as animal features.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: beaver
+  description: The beaver is the animal represented in Fig. 1, with tail, eyes, ears,
+    hat, and paws mapped onto the face.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: raven
+  description: The raven is the animal represented in Fig. 2, with beak, tongue, hat,
+    wing, tail, and lower body represented on facial areas.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: killer whale
+  description: The killer whale is named as the subject of Fig. 3, but the supplied
+    excerpt gives no further details.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: facial surface incorporated into design
+  assigned_to:
+  - fig:1
+  basis: The passage states that the face itself is used as part of the conventionalized
+    designs and describes human facial features serving as parts of animal images.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+- id: role:2
+  label: represented animal subject
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage identifies separate figures as beaver, raven, and killer whale
+    designs.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:9
+symbols:
+- id: sym:1
+  label: face as animal-design field
+  literal_form: Human face incorporated into conventionalized animal design.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+- id: sym:2
+  label: beaver scaly tail
+  literal_form: Hachure lines forming a raised tail extending from chin upward to
+    nose.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: beaver eyes and ears on facial features
+  literal_form: Person's eyes as beaver eyes, with beaver ears over the eyebrows.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: beaver hat rings
+  literal_form: Three painted circles representing rings on the beaver's hat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: beaver paws raised to mouth
+  literal_form: Paws painted on the cheeks, positioned as though raised up to the
+    mouth.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: raven split beak
+  literal_form: Eyebrows used as two profiles of a beak cut in two, with tips at the
+    inner eyebrow angles.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: raven red tongue
+  literal_form: Red tongue painted on the upper eyelids.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: raven hat
+  literal_form: Two circles rising on the forehead over the nose.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: raven wing and tail
+  literal_form: Black wing on the right cheek and tail on the left cheek.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:10
+  label: raven lower body
+  literal_form: Red painting extending from nose to chin symbolizing the lower side
+    of the body.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Beaver facial painting design
+  summary: The beaver design maps a scaly tail, eyes, ears, hat, and paws onto the
+    painted human face.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Raven facial painting design
+  summary: The raven design uses eyebrows for a split beak and places the tongue,
+    hat, wing, tail, and lower body across different facial areas.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:3
+  label: Killer whale design identification
+  summary: The passage names a killer whale design but provides no further description
+    in the supplied excerpt.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: human face incorporated into animal image
+  taxonomy_refs: []
+  basis: The passage explicitly says the face itself is used as part of conventionalized
+    designs and describes human facial features serving as animal features.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a visual design pattern, not a narrated transformation or shapeshifting
+    episode.
+- id: motif:2
+  label: animal body disassembled and redistributed across a decorative field
+  taxonomy_refs: []
+  basis: The raven design is described as dissecting the body and arranging parts
+    to fill the decorative field; the beaver design also distributes animal parts
+    across facial areas.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage gives formal design analysis and does not state a mythic or
+    ritual interpretation.
+- id: motif:3
+  label: animal attributes rendered by conventional signs
+  taxonomy_refs: []
+  basis: Specific animal attributes are represented by conventional signs, including
+    hachure lines for the beaver tail and circles for animal hats.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage identifies conventions for these designs but does not explain
+    their broader symbolic meaning.
+comparison_claims:
+- id: claim:1
+  claim: The beaver paw placement in the facial design is compared with the usual
+    representation of beavers in Haida carvings and paintings, where the paws are
+    raised toward the mouth.
+  claim_level: visual_similarity
+  target: Haida carvings and paintings of the beaver
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports only a visual comparison stated by the author;
+    it does not establish historical contact, common origin, or identical meaning.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1767-1792
+  quote_or_summary: The passage states that in a series of designs the face itself
+    is used as part of conventionalized designs, and it identifies Fig. 1, Plate II
+    as the beaver.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 1767-1792
+  quote_or_summary: The beaver's scaly tail is indicated by hachure lines and is shown
+    raised in front of the body, extending in this design from the chin upward to
+    the nose.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 1767-1792
+  quote_or_summary: The person's eyes also represent the beaver's eyes; the text states
+    that animal ears are shown above the eyes, so the beaver's ears are placed immediately
+    over the eyebrows.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 1767-1792
+  quote_or_summary: The beaver's hat is represented by three circles for rings on
+    the hat, and the paws are shown on the cheeks as though raised to the mouth.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 1767-1792
+  quote_or_summary: The text compares the beaver paw position with the way beavers
+    are usually represented in Haida carvings and paintings.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 1767-1792
+  quote_or_summary: Fig. 2, Plate I is identified as the raven; the eyebrows are used
+    to represent the beak cut in two, with the two beak profiles placed so their tips
+    meet the inner eyebrow angles.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 1767-1792
+  quote_or_summary: In the raven design, a red tongue is shown on the upper eyelids,
+    a two-circle hat rises on the forehead over the nose, a black wing is on the right
+    cheek, the tail is on the left cheek, and red painting from nose to chin symbolizes
+    the lower side of the body.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 1767-1792
+  quote_or_summary: The passage says the raven design applies a method of dissecting
+    the body and arranging its parts to fill the decorative field.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:9
+  type: summary
+  locator: 1767-1792
+  quote_or_summary: The final sentence in the supplied excerpt identifies Fig. 3,
+    Plate HM as showing the killer whale.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a formal description of facial painting designs rather than
+    a myth narrative. OCR artifacts and the abrupt ending around the killer whale
+    design limit precision.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned, because the supported elements are specific animal-design conventions rather than the supplied taxonomy items.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l1767-l1792
+  passage_sha256=242af0cd5495ca19ec0a65cbb8f09ed93f2223b5d3932ed549072aa86bac7f30
+

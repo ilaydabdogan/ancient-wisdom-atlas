@@ -1,0 +1,440 @@
+---
+record_id: batch.motif.native-american-fox-texts-jones-archive-l9000-l9159
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+passage_locator:
+  label: AND FOR THAT REASON DROWNS HER DAUGHTER.1 / THUS OBTAIN CRAWFISHES TO EAT.1
+    / CEASED FROM HER EVIL CONDUCT.1 / AND DREAMS.; lines 9000-9159
+  start: '9000'
+  end: '9159'
+  translation: Fox Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The Great Manitou is described as fearing Wlsa‘ka and welcoming a plan
+    to pacify him. The manitous gather food and medicine, and servants cook meat in
+    four kettles over four fires with one, two, three, and four portions. A fearful
+    servant repeatedly invites Wlsa‘ka to the Great Manitou’s dwelling. After several
+    non-responses, Wlsa‘ka agrees, comes to the lodge, and sits by the doorway rather
+    than at the far end. The manitous avoid disturbing him because they fear he might
+    leave. Servants examine the kettles and serve the first cooked portion in a vessel
+    placed between the fires.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says he fears Wlsa‘ka, believes Wlsa‘ka would fight him with a
+    club if he came, and is glad that others are devising how to pacify Wlsa‘ka.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The manitous gather food and medicine, and servants cook meat in four kettles
+    over four fires with ascending portions from one to four.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A servant is sent to ask Wlsa‘ka to come to the dwelling of the Great Manitou.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The servant fears Wlsa‘ka and reports repeated failures to get an answer from
+    him.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: On a later request, Wlsa‘ka answers that he will go, and then comes to the
+    dwelling.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When Wlsa‘ka enters the dwelling, he is invited to sit at the far end of the
+    lodge but chooses to sit by the doorway.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Some manitous fear Wlsa‘ka might turn away and run back if disturbed.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The servants inspect the kettles in reverse order, report varying degrees
+    of doneness, and finally report the first portion of meat as done.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The servants are told to pour the first portion of meat into a vessel and
+    place it between the fires.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Wlsa‘ka
+  description: A figure feared by the speaker and repeatedly invited to the dwelling
+    of the Great Manitou; he eventually comes and sits by the doorway.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Great Manitou
+  description: Named as “our father the Great Manitou,” whose dwelling Wlsa‘ka is
+    asked to visit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: manitous
+  description: A collective group who gather food and medicine, direct the servants,
+    and discuss how to handle Wlsa‘ka after he arrives.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: servants
+  description: Ministering attendants who cook, carry messages, inspect food, and
+    prepare the vessel of meat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: people
+  description: People for whom pity is felt in the plan to pacify Wlsa‘ka.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: feared invitee
+  assigned_to:
+  - fig:1
+  basis: Wlsa‘ka is feared by the speaker and by the servant, and he must be persuaded
+    to come.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: father and dwelling-holder
+  assigned_to:
+  - fig:2
+  basis: The servant says Wlsa‘ka is asked to come to the place where “our father
+    the Great Manitou dwells.”
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: organizers of pacification meal
+  assigned_to:
+  - fig:3
+  basis: The manitous gather food and medicine, direct the cooking, and decide not
+    to disturb Wlsa‘ka.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:4
+  label: ministering cooks and messengers
+  assigned_to:
+  - fig:4
+  basis: The servants cook, one servant is sent to invite Wlsa‘ka, and servants inspect
+    and serve the meat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  - ev:9
+- id: role:5
+  label: doorway-seated guest
+  assigned_to:
+  - fig:1
+  basis: After entering the dwelling, Wlsa‘ka refuses the far-end seat and remains
+    by the doorway.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: beneficiaries of pity
+  assigned_to:
+  - fig:5
+  basis: The speaker says joy comes from others feeling pity for the people and devising
+    how to pacify Wlsa‘ka.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: four fires
+  literal_form: Four cooking fires, each associated with a kettle and a numbered portion
+    of meat.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: four kettles with numbered portions
+  literal_form: Four kettles containing one, two, three, and four portions of meat
+    respectively.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:3
+  label: food and medicine
+  literal_form: Food and medicine brought together by the manitous before Wlsa‘ka
+    is summoned.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: doorway seat
+  literal_form: The place by the doorway where Wlsa‘ka chooses to sit instead of the
+    far end of the lodge.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: vessel of first cooked meat
+  literal_form: A vessel filled with the first cooked portion of meat and placed between
+    the fires.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Plan to pacify Wlsa‘ka
+  summary: The speaker expresses fear of Wlsa‘ka and approval that others are acting
+    out of pity for the people by devising a way to pacify him.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fourfold cooking preparations
+  summary: The manitous gather food and medicine and instruct servants to boil numbered
+    portions of meat in four kettles over four fires.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Repeated summons of Wlsa‘ka
+  summary: A fearful servant repeatedly asks Wlsa‘ka to come to the Great Manitou’s
+    dwelling; after several non-responses, Wlsa‘ka agrees to go.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Wlsa‘ka sits at the doorway
+  summary: Wlsa‘ka enters the dwelling but chooses a seat by the doorway instead of
+    the far end, and the manitous decide not to disturb him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Inspection and serving of meat
+  summary: The servants inspect the kettles, report the cooking status of each portion,
+    and are told to place the first cooked portion in a vessel between the fires.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Pacifying a feared powerful being with prepared food and medicine
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage links fear of Wlsa‘ka and a plan to pacify him with the manitous’
+    preparation of food and medicine and the serving of cooked meat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+  confidence: medium
+  cautions: The passage shows preparation and serving, but it does not yet narrate
+    an explicit bargain, reciprocal gift, or completed reconciliation.
+- id: motif:2
+  label: Fourfold ritualized cooking sequence
+  taxonomy_refs: []
+  basis: Four fires and four kettles are assigned one, two, three, and four portions
+    of meat; the kettles are later inspected in an ordered sequence.
+  evidence_refs:
+  - ev:2
+  - ev:8
+  confidence: high
+  cautions: The passage does not explicitly explain the ritual meaning of the number
+    four or the order of inspection.
+- id: motif:3
+  label: Reluctant or dangerous guest at the threshold
+  taxonomy_refs: []
+  basis: Wlsa‘ka is difficult to summon, feared by others, and after entering the
+    lodge he sits by the doorway while the manitous avoid disturbing him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage supports a threshold-position pattern, but it does not explicitly
+    identify the threshold as symbolic.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared at the level of function to a sacred-exchange
+    pattern, because food, medicine, and cooked meat are prepared as part of an effort
+    to pacify Wlsa‘ka.
+  claim_level: same_function
+  target: sacred_exchange
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is functional only; the passage does not describe an
+    explicit reciprocal exchange or outcome of pacification within this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9000-9010
+  quote_or_summary: The speaker says he fears Wlsa‘ka, imagines Wlsa‘ka fighting him
+    with a club, and rejoices that others pity the people and devise how to pacify
+    Wlsa‘ka.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:2
+  type: summary
+  locator: lines 9011-9028
+  quote_or_summary: The manitous bring together food and medicine; servants are instructed
+    to cook one, two, three, and four portions of meat in four kettles over four fires.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:3
+  type: summary
+  locator: lines 9033-9045
+  quote_or_summary: A servant is sent to ask Wlsa‘ka to come to the place where the
+    Great Manitou dwells; the servant goes fearfully and receives no reply.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:4
+  type: summary
+  locator: lines 9046-9076
+  quote_or_summary: The servant is sent again and reports that Wlsa‘ka gives no answer,
+    though he turns, rises from his couch, or looks at the servant.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:5
+  type: quote
+  locator: lines 9077-9088
+  quote_or_summary: "“Very well,” he was told; “thither will I go,” he was told. And
+    so Wlsa‘ka came."
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:6
+  type: summary
+  locator: lines 9089-9102
+  quote_or_summary: After the servants are told to open the door, Wlsa‘ka enters;
+    he is invited to sit at the far end of the lodge but sits by the doorway and says
+    he is content there.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:7
+  type: summary
+  locator: lines 9103-9115
+  quote_or_summary: The manitous tell one another not to disturb Wlsa‘ka; some fear
+    he might turn away and run back, since persuading him to come required all their
+    power.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:8
+  type: summary
+  locator: lines 9116-9149
+  quote_or_summary: 'The servants inspect the kettles: four portions are undone, three
+    are beginning to cook, two are almost done, and the first portion is done.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:9
+  type: summary
+  locator: lines 9150-9159
+  quote_or_summary: The servants are instructed to pour the first portion of meat
+    into a vessel and place it in the space between the fires.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain; source metadata allows full text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is limited to the supplied excerpt. Line subranges are approximate
+    within the provided stable line span because the passage text is supplied without
+    individual line numbering.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The source label supplied with the passage appears to reference multiple neighboring story titles, while the excerpt itself concerns Wlsa‘ka, the Great Manitou, manitous, servants, and a pacification meal.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-fox-texts-jones-archive__l9000-l9159
+  passage_sha256=88fee25a0e44d0af53696aae51ab8f222824473f6f9e8c2f4345c875f7b28c84
+

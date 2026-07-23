@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l16366-l16413
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: EIGHTH  BOOK  OF  THE  ROYAL / CHAPTER  XII. / OF  THE  TREE  CALLED  MULLI,  AND  OF  THEIR  PEPPER.
+    / COMMENTARIES  OP  THE  YNCAS.; lines 16366-16413
+  start: '16366'
+  end: '16413'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the former abundance and later scarcity of useful
+    trees in the valley of Cuzco because their wood made good charcoal. It then describes
+    uchu, or Indian pepper, as an essential condiment in Indian food, notes its prohibition
+    during fasts to increase rigor, and classifies several kinds, including one considered
+    nobler and reserved for the royal family.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator remembers the valley of Cuzco as formerly adorned with many useful
+    trees and later having scarcely any.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The decline of the trees is attributed to their wood being used to make good
+    charcoal.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The charcoal emits sparks when lit, then retains fire until it becomes ashes.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Uchu is described as a condiment used in all kinds of dishes: stew, roast,
+    and boiled food.'
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Spaniards know uchu as the pepper of the Indians, and it is also known
+    as axi or aji.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator says his countrymen are so fond of uchu that they will not eat
+    without it, even with raw herbs.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Because uchu gives flavor to food, its use was forbidden during Indian fasts
+    to make those fasts more rigorous.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Several kinds of pepper are listed, including a common thick kind called rocot
+    uchu and types that may be red, yellow, or brown.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Another long, finger-thick kind of pepper was considered nobler and reserved
+    for the royal family.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: A first-person observer who remembers the valley of Cuzco and comments
+    on his countrymen and his memory of pepper names.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:2
+  name_or_label: Indians / narrator's countrymen
+  description: People described as using uchu in food, being fond of it, and observing
+    fasts in which its use was forbidden.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Spaniards
+  description: People who know uchu as the pepper of the Indians.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Royal family
+  description: The family for whom a nobler kind of pepper was reserved.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: first-person observer
+  assigned_to:
+  - fig:1
+  basis: The narrator says he remembers and saw the valley of Cuzco in different conditions,
+    and later notes that a special pepper name has escaped his memory.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:2
+  label: users of uchu condiment
+  assigned_to:
+  - fig:2
+  basis: The passage says Indians use uchu in all dishes and are very fond of it.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: fasting participants
+  assigned_to:
+  - fig:2
+  basis: The passage says uchu was forbidden in Indian fasts to make them more rigorous.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: foreign namers of uchu
+  assigned_to:
+  - fig:3
+  basis: The passage says Spaniards know uchu as pepper of the Indians.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: privileged royal consumers
+  assigned_to:
+  - fig:4
+  basis: A nobler kind of pepper was reserved for the royal family.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: useful trees of Cuzco / mulli context
+  literal_form: trees
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: fire retained in charcoal
+  literal_form: fire in burning charcoal
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: uchu pepper
+  literal_form: pepper condiment
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: royal-reserved pepper kind
+  literal_form: long, little-finger-thick pepper considered nobler
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Decline of useful trees in the valley of Cuzco
+  summary: The narrator recalls that the valley of Cuzco once had innumerable useful
+    trees and later had scarcely any because their wood was used for charcoal.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Uchu as everyday condiment and fasting restriction
+  summary: Uchu is presented as essential to Indian meals, but its use is forbidden
+    during fasts because its flavor would make the fast less rigorous.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Kinds of pepper and royal reservation
+  summary: The passage lists different forms and colors of pepper and notes that one
+    nobler kind was reserved for the royal family.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: fasting intensified by food-flavor prohibition
+  taxonomy_refs: []
+  basis: The passage explicitly says uchu was forbidden in fasts because its flavor
+    made food more pleasant, and the prohibition made the fast more rigorous.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives an ethnographic explanation of fasting practice; it
+    does not frame the practice as a mythic episode.
+- id: motif:2
+  label: royal-reserved food variety
+  taxonomy_refs: []
+  basis: A particular kind of pepper is described as nobler and reserved for the royal
+    family.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage supports royal exclusivity but does not state a mythic charter
+    or theological basis for the reservation.
+- id: motif:3
+  label: useful tree consumed through fire-making
+  taxonomy_refs: []
+  basis: The useful trees of the valley are said to have become scarce because their
+    wood made good charcoal that retained fire.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a practical ecological and material-culture pattern, not a clearly
+    sacred-tree motif in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16366-16370
+  quote_or_summary: The narrator remembers the valley of Cuzco as once adorned with
+    innumerable useful trees and later having scarcely any.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 16370-16374
+  quote_or_summary: The scarcity is explained by the use of the wood for charcoal,
+    which sparks when lit and retains fire until reduced to ashes.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 16376-16382
+  quote_or_summary: Uchu is described as the condiment used in all dishes, including
+    stewed, roasted, and boiled foods.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 16380-16384 and footnote 1
+  quote_or_summary: Uchu is known to Spaniards as pepper of the Indians and also as
+    axi or aji; the footnote identifies several Capsicum kinds.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 16384-16387
+  quote_or_summary: The narrator says his countrymen are so fond of uchu that they
+    will not eat without it, even if the meal is raw herbs.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 16387-16391
+  quote_or_summary: Uchu was forbidden during Indian fasts because of the flavor it
+    gave food, in order to make the fasts more rigorous.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 16391-16400
+  quote_or_summary: The passage describes three or four kinds of pepper, including
+    common rocot uchu, eaten green before ripening red, and also yellow and brown
+    varieties.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 16400-16410
+  quote_or_summary: Another long, little-finger-thick pepper kind was considered nobler
+    and reserved for the royal family; the narrator cannot remember its adjective-name.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mainly ethnobotanical and social-practice description. Literal
+    extraction is strong; motif candidates are limited because the passage does not
+    present a mythic narrative or explicit sacred interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a cautious comparison to another tradition or broader motif family beyond its internal ethnographic descriptions.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l16366-l16413
+  passage_sha256=f480c0d22a83ceeb10a6a4dee4175366f988efab9548e29e8f30a5ffd3ff76e6
+

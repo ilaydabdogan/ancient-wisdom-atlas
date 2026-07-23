@@ -1,0 +1,426 @@
+---
+record_id: batch.motif.native-american-ethnology-kwakiutl-1-boas-hunt-archive-l1206-l1304
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+passage_locator:
+  label: Ethnology of the Kwakiutl, Part 1 / I. INDUSTRIES / INDUSTRIES / INDUSTRIES;
+    lines 1206-1304
+  start: '1206'
+  end: '1304'
+  translation: Ethnology of the Kwakiutl, Part 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage finishes a technical description of canoe mast-hole construction,
+    then describes methods for making black horn spoons from mountain-goat horns:
+    warming a goat head near the fire, removing horns loosened by steam, shaping and
+    smoothing the horn, boiling and bending the spoon with cedar-stick supports, setting
+    it in cold water, and polishing it with dog-fish skin. A second account begins
+    by saying that the spoon-maker asks the mountain-goat hunter for horns because
+    the hunter wants the meat and fat rather than the bones and horns.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The canoe-building section describes measuring a middle point for a mast-hole
+    and binding two bars with heavy cedar-withe rope.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mast is described as standing between the two bars and the cedar-withes.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A mountain-goat head is kept in a house corner for four days near the side
+    of the fire and is turned and watched so that it does not burn.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the head is warm, hair and horns loosen; the spoon-maker twists and pulls
+    off the horn, which the text attributes to steam, and repeats the action with
+    the other horn.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The horn is adzed on its concave side, its spoon mouth is rounded, and a notch
+    is made after measuring three finger-widths from the top.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage describes smoothing the horn by rubbing with rough sandstone while
+    using water, and also notes modern adzing and shaving to smooth it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A kettle of water is put over the fire, cedar sticks are tied with cedar-bark
+    as a spreader, and the spoon is boiled briefly before being placed between the
+    sticks.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The point of the spoon is bent back and put into cold water so that it sets
+    and remains in position.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Dried dog-fish skin is rubbed over the spoon until it is very smooth inside
+    and outside, completing the black horn spoon.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: In the opening of the second horn-spoon account, the spoon-maker asks the
+    mountain-goat hunter to break off horns, since the hunter wants tallow, kidney-fat,
+    and meat rather than bones and horns.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: canoe-builder
+  description: The craftsperson who measures the mast-hole and binds the canoe bars
+    with cedar-withe rope.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: spoon-maker
+  description: The craftsperson who heats the mountain-goat head, removes the horns,
+    shapes, bends, smooths, and finishes the black horn spoon; in the second account,
+    this person asks the hunter for horns.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: mountain-goat hunter
+  description: The hunter who obtains goats and is asked to break off their horns;
+    the passage says he wants the tallow, kidney-fat, and meat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: canoe craftsperson
+  assigned_to:
+  - fig:1
+  basis: The figure measures and binds parts of the canoe mast support.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: horn spoon craftsperson
+  assigned_to:
+  - fig:2
+  basis: The figure performs the sequence of removing, shaping, bending, smoothing,
+    and finishing the horn spoon.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:3
+  label: goat hunter and material source
+  assigned_to:
+  - fig:3
+  basis: The hunter gets mountain goats and is asked for the horns, while keeping
+    the meat and fat.
+  evidence_refs:
+  - ev:9
+- id: role:4
+  label: requester of horns
+  assigned_to:
+  - fig:2
+  basis: The spoon-maker asks the mountain-goat hunter to break off horns from goats
+    obtained in the hunt.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: house fire and kettle fire used to warm the goat head and heat water
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: water
+  literal_form: water in a dish, boiling kettle water, and cold water used to set
+    the bent spoon
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: mountain-goat horn
+  literal_form: horn removed from a mountain-goat head and made into a black horn
+    spoon
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+- id: sym:4
+  label: cedar bindings and supports
+  literal_form: cedar-withes, cedar-sticks, and cedar-bark ties used in canoe and
+    spoon-making procedures
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:5
+  label: four days
+  literal_form: the time the goat head is kept near the fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: dog-fish skin
+  literal_form: dried dog-fish skin used as a smoothing material for the spoon
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: rough sandstone
+  literal_form: abrasive stone used to rub the horn smooth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Canoe mast support finishing
+  summary: The canoe-builder measures the mast-hole, binds two bars with cedar-withe
+    rope, and places the mast between the bars and withes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Loosening goat horns by heat and steam
+  summary: The spoon-maker keeps the goat head near the fire, turns it, watches it,
+    and removes horns after heat and steam loosen them.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Shaping and smoothing the horn
+  summary: The spoon-maker adzes the horn, rounds the spoon mouth, makes a measured
+    notch, and smooths the horn with abrasive methods involving sandstone and water.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Boiling, spreading, and setting the spoon
+  summary: The spoon is briefly boiled, placed in a cedar-stick spreader, bent back,
+    and set in cold water so it keeps its form.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Final polishing of the black horn spoon
+  summary: The spoon-maker rubs the spoon with dried dog-fish skin until it is smooth
+    inside and outside, completing the black horn spoon.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Hunter and spoon-maker material arrangement
+  summary: The spoon-maker asks the mountain-goat hunter for horns, while the hunter
+    is described as wanting the meat and fat from the goats.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: heat-and-water craft transformation
+  taxonomy_refs: []
+  basis: The passage describes goat horn being loosened by heat and steam, boiled,
+    bent, set in cold water, and polished into a finished spoon.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a technical industry procedure, not a mythic narrative; the passage
+    states no ritual or symbolic interpretation.
+- id: motif:2
+  label: specialized craft labor and material provisioning
+  taxonomy_refs: []
+  basis: The spoon-maker depends on the mountain-goat hunter for horns, while the
+    hunter is said to value the meat and fat rather than horns and bones.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The second horn-spoon account is truncated in the supplied passage range.
+- id: motif:3
+  label: measured construction with plant-fiber bindings
+  taxonomy_refs: []
+  basis: The canoe mast support and the spoon-spreader both use measured placement
+    and cedar-based bindings or supports to hold functional parts in position.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: This is an observed technical pattern across adjacent industry instructions,
+    not a taxonomy-level mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1206-1244, canoe mast-hole closing section
+  quote_or_summary: The canoe-building section describes measuring a mast-hole, tying
+    two bars with heavy cedar-withe rope, and placing the mast between the bars and
+    withes.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1245-1254, The Making of Horn Spoons (1), opening
+  quote_or_summary: The mountain-goat head is kept for four days in a house corner
+    near the fire; the spoon-maker turns it and watches that it does not burn.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1255-1264, horn removal
+  quote_or_summary: When the head is warm, the hair and horns loosen; the spoon-maker
+    twists and pulls off the horn, and the text says the horn has been blown off by
+    steam.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1264-1278, adzing and notching
+  quote_or_summary: The spoon-maker adzes the concave side of the horn, rounds the
+    spoon mouth, measures three finger-widths from the top, and notches it; a straight
+    knife is then taken up.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1278-1288, rubbing and smoothing
+  quote_or_summary: The passage describes rubbing black horn spoons with rough sandstone,
+    using water in a dish, and notes that modern men adze and shave the horn smooth.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1289-1298, kettle and cedar-stick spreader
+  quote_or_summary: A small kettle half full of water is put over the fire, and two
+    cedar-sticks are tied with split cedar-bark to form a spreader for the spoon after
+    brief boiling.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 1298-1302, bending and cold-water setting
+  quote_or_summary: The spoon is placed between the cedar sticks, tied near the end,
+    bent back at the point, and put into cold water so that it sets and does not bend
+    back.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 1302-1304, final polishing
+  quote_or_summary: Dried dog-fish skin is rubbed over the spoon until it is smooth
+    inside and outside; then the black horn spoon is finished.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 1304, The Making of Horn Spoons (2), opening continuation
+  quote_or_summary: The second account begins with the spoon-maker asking the mountain-goat
+    hunter to break off the horns of goats he obtains, because the hunter wants the
+    tallow, kidney-fat, and meat rather than the bones and horns.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summary based on supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a technical ethnographic description of industries. Literal
+    extraction is strong, but motif labels are treated as craft-pattern candidates
+    only. No comparison claims are made because the passage provides no explicit comparative
+    framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Taxonomy symbol refs are used only for literal fire and water present in the passage. No mythological motif-family taxonomy refs were assigned.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-ethnology-kwakiutl-1-boas-hunt-archive__l1206-l1304
+  passage_sha256=8272086d9df437b184db2e89cf408a6526effb79a22ff4187f3bd1171f1a29db
+

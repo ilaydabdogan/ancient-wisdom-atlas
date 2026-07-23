@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.andean-rites-and-laws-of-the-yncas-markham-archive-l6131-l6147
+source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+passage_locator:
+  label: CHAPTER VII. / OF THE INDIANS OF HUAROCHIEI. 145 / OF THE INDIANS OF HUAROCHIRI.
+    147 / CHAPTER VIII.; lines 6131-6147
+  start: '6131'
+  end: '6147'
+  translation: Narratives of the Rites and Laws of the Yncas
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“there is another stone, into which they say Goniraya was turned.”"
+  summary: The passage names a channel called Vim-lompa and a stone said to be the
+    transformed Goniraya. A chapter heading states that people of the Ayllu of Copara
+    still worship Choque Suso and the channel, with the narrator citing stories and
+    judicial depositions; a parenthetical note mentions the story of Choque Suso’s
+    hair and depositions about the irrigating channel.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A channel called Vim-lompa is located above a previously mentioned channel,
+    and another stone is located there.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage reports that Goniraya was said to have been turned into the stone
+    at Vim-lompa.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The chapter heading states that Indians of the Ayllu of Copara still worship
+    Choque Suso and the channel.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator says this knowledge comes from stories and from judicial depositions
+    taken on the subject.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A parenthetical note refers to what the narrator saw, the story of the hair
+    of Choque Suso, and depositions concerning the irrigating channel.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Goniraya
+  description: Named figure said to have been turned into a stone at Vim-lompa.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Choque Suso
+  description: Named figure whom the Indians of the Ayllu of Copara are said still
+    to worship; a story of this figure’s hair is also mentioned.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Indians of the Ayllu of Copara
+  description: Collective group described as still worshipping Choque Suso and the
+    channel.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: first-person narrator
+  description: Narrating voice who says he knows the matter from stories and judicial
+    depositions, and whose parenthetical note refers to what he saw.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: transformed figure
+  assigned_to:
+  - fig:1
+  basis: Goniraya is said to have been turned into a stone.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: worship recipient
+  assigned_to:
+  - fig:2
+  basis: Choque Suso is named as one whom the Ayllu of Copara still worship.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: worshipping community
+  assigned_to:
+  - fig:3
+  basis: The Ayllu of Copara are described as still worshipping Choque Suso and the
+    channel.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: narrator and deposition-taker
+  assigned_to:
+  - fig:4
+  basis: The narrator claims knowledge from stories and judicial depositions he has
+    taken, and refers to what he saw.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: stone of Goniraya
+  literal_form: stone
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Vim-lompa channel
+  literal_form: named channel called Vim-lompa
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: worshipped channel
+  literal_form: channel or irrigating channel referred to in the chapter heading and
+    parenthetical note
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: hair of Choque Suso
+  literal_form: hair
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Stone at Vim-lompa
+  summary: The passage identifies a channel named Vim-lompa and a stone there into
+    which Goniraya is said to have been turned.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Continuing worship of Choque Suso and the channel
+  summary: A chapter heading states that the Ayllu of Copara still worship Choque
+    Suso and the channel, and the narrator cites stories and judicial depositions;
+    a note mentions Choque Suso’s hair and depositions about the irrigating channel.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: transformation into stone
+  taxonomy_refs:
+  - shapeshifter
+  basis: Goniraya is said to have been turned into a stone.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The wording reports a single transformation into stone and does not specify
+    whether Goniraya transformed himself or was transformed by another agent.
+- id: motif:2
+  label: worship of a sacred channel or irrigation place
+  taxonomy_refs: []
+  basis: The Ayllu of Copara are described as still worshipping Choque Suso and the
+    channel, with depositions concerning the irrigating channel mentioned.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not give the ritual details or explain the channel’s
+    mythic origin within this excerpt.
+- id: motif:3
+  label: hair of a revered figure as narrative object
+  taxonomy_refs: []
+  basis: The parenthetical note refers to the story of the hair of Choque Suso.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Only the existence of a story about the hair is mentioned; no narrative
+    content or ritual use is provided in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 6131-6134
+  quote_or_summary: "“Above this channel there is another called Vim-lompa ... where
+    there is another stone, into which they say Goniraya was turned.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 6138-6141
+  quote_or_summary: 'Chapter heading: the Indians of the Ayllu of Copara still worship
+    Choque Suso and the channel; the narrator says he knows this from stories and
+    judicial depositions he has taken.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: summary
+  locator: 6144-6147
+  quote_or_summary: 'Parenthetical note: material was to be added about what the narrator
+    saw, the story of the hair of Choque Suso, and depositions concerning the irrigating
+    channel.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif classification is limited
+    by the fragmentary and transitional nature of the excerpt. No comparison claims
+    were made beyond candidate motif tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The passage uses both “Choque Suso” and the apparent variant spelling “Choqae Suso”; this record normalizes the figure label to Choque Suso while preserving the evidence context.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:andean-rites-and-laws-of-the-yncas-markham-archive__l6131-l6147
+  passage_sha256=ef1938ef0c01bd3ba74796a28c1e8d4c72aff8b9ccd5b355e32d37f8a32eb23a
+

@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l5181-l5227
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  V. / SIXTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS.
+    / CHAPTER  VI.; lines 5181-5227
+  start: '5181'
+  end: '5227'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage first identifies cries as the obsequies of the deceased chief
+    Huamanpalpa. It then describes the Ynca royal hunting excursion called Ghacu:
+    game-taking was generally prohibited except for limited small birds with permission,
+    killing game could be punished by death, and the restriction produced abundant
+    animals. People could still drive deer from corn fields because the Ynca said
+    game was for the people, not people for the game. The hunt occurred at a chosen
+    province after the breeding season.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cries awakened the narrating speaker, who was told that the noise came from
+    the obsequies of the deceased chief Huamanpalpa.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Yncas, Kings of Peru, made a solemn hunting excursion at certain seasons.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The hunting excursion was called Ghacu, a word explained as meaning to stop
+    or intercept because the game was intercepted.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Taking game was strictly prohibited except for partridges, doves, pigeons,
+    and other small birds for the tables of Ynca Governors and Curacas, in small quantity
+    and with permission.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The stated reason for forbidding other game-taking was that Indians might
+    be carried away by sport, become idle, and neglect household duties.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that a person who killed a bird could be killed as a breaker
+    of the Ynca's law.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Because of these observances, beasts and birds became very numerous and came
+    into houses.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: People were allowed to drive deer out of fields of growing corn.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Ynca is said to have wanted the game for the people rather than the people
+    for the game.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: After the breeding season, at a certain time of year, the Ynca went to a province
+    of his choosing.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Narrating speaker
+  description: A speaker awakened by cries and asking what the noise was.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Chief Huamanpalpa
+  description: The deceased chief whose obsequies caused the cries.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: The Yncas, Kings of Peru
+  description: Royal figures who made solemn hunting excursions and whose law regulated
+    the taking of game.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Ynca Governors and Curacas
+  description: Officials for whose tables limited small birds could be taken with
+    permission.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: The Indians / the people
+  description: People restricted from killing game, expected to maintain household
+    duties, and allowed to drive deer from corn fields.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: deceased chief
+  assigned_to:
+  - fig:2
+  basis: Huamanpalpa is named as the deceased chief whose obsequies were taking place.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: awakened observer
+  assigned_to:
+  - fig:1
+  basis: The speaker says the cries awakened him and that he asked what the noise
+    was.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: royal hunt organizer and lawgiver
+  assigned_to:
+  - fig:3
+  basis: The Yncas made the solemn hunting excursion and enforced laws against unauthorized
+    game-taking.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: role:4
+  label: permitted elite recipients
+  assigned_to:
+  - fig:4
+  basis: Small birds could be taken for the tables of Ynca Governors and Curacas,
+    in limited quantity and with permission.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: governed agricultural householders
+  assigned_to:
+  - fig:5
+  basis: The passage says Indians were to avoid idleness and household neglect, and
+    people could drive deer from corn fields.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: funerary banners and clothes
+  literal_form: banners and clothes associated with the Curaca/chief in the obsequies
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: game animals and birds
+  literal_form: game, beasts, birds
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: small birds for official tables
+  literal_form: partridges, doves, pigeons, and other small birds
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: deer in corn fields
+  literal_form: deer; fields of growing corn
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Obsequies of Huamanpalpa
+  summary: Cries awaken the speaker, who is told that the noise belongs to the obsequies
+    of the deceased chief Huamanpalpa.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Naming of the royal hunt
+  summary: The Yncas are described as making a solemn seasonal hunting excursion called
+    Ghacu, explained as stopping or intercepting game.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Restrictions on taking game
+  summary: Game-taking is generally prohibited, with a limited permission for small
+    birds for official tables; unauthorized killing is punishable under Ynca law.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Abundance and protection of fields
+  summary: The restrictions lead to abundant beasts and birds, while people may drive
+    deer out of corn fields because the game is said to be for the people.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Seasonal royal movement after breeding season
+  summary: After the breeding season, the Ynca goes to a province of his choosing
+    for the hunting excursion.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: chiefly obsequies with regalia
+  taxonomy_refs: []
+  basis: The passage links cries and funerary objects with the obsequies of the deceased
+    chief Huamanpalpa.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only a brief remnant of the preceding chapter and does
+    not describe the rite in detail.
+- id: motif:2
+  label: seasonal royal hunt
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Yncas, as kings, perform a solemn hunting excursion at certain seasons
+    and choose a province after the breeding season.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: The passage presents this as royal custom and administration, not as a
+    mythic episode.
+- id: motif:3
+  label: law-enforced preservation of game
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage describes strict royal prohibitions on taking game, limited exceptions,
+    and severe punishment for breaking the Ynca's law.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is limited to royal authority and law; no divine
+    sanction is stated in this passage.
+- id: motif:4
+  label: kingly protection of people over animals
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: People may drive deer from corn fields, and the Ynca is quoted as wanting
+    game for the people rather than people for the game.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is an ethical-political maxim within the chronicle, not an explicit
+    comparative myth claim.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5181-5186
+  quote_or_summary: Cries awaken the speaker; he is told they are the obsequies of
+    the deceased chief Huamanpalpa, with mention of a Curaca's banners and clothes.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5190-5196
+  quote_or_summary: The Yncas, Kings of Peru, made a solemn hunting excursion at certain
+    seasons called Ghacu, explained as stopping or intercepting game.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5196-5205
+  quote_or_summary: Taking game was prohibited except limited small birds for the
+    tables of Ynca Governors and Curacas, and only with permission.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5205-5212
+  quote_or_summary: Other game-taking was forbidden to prevent idleness and neglected
+    duties; killing even a bird could bring death as punishment for breaking Ynca
+    law.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5214-5217
+  quote_or_summary: Because of these observances, beasts and birds became so numerous
+    that they entered houses.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 5217-5223
+  quote_or_summary: People could drive deer from growing corn fields; the Ynca said
+    he wanted "the game for the people, and not the people for the game."
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:7
+  type: summary
+  locator: lines 5224-5227
+  quote_or_summary: At a certain time of year, after the breeding season, the Ynca
+    went to a province he chose.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal administrative content is clear. Motif labels are cautious because
+    the passage is chronicle description of royal law and custom rather than a narrative
+    myth. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. No external comparisons were added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l5181-l5227
+  passage_sha256=2407c5c7d27dc1f2eb75c92b0bb2b407b2a2c1fc5c1424836b66b0b5a2e0c38d
+

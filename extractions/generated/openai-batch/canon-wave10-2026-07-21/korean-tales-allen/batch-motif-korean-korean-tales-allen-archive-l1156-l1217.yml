@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.korean-korean-tales-allen-archive-l1156-l1217
+source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+passage_locator:
+  label: THE  RABBIT  AND  OTHER  LEGENDS.  39 / THE  ENCHANTED  WINE-JUG; / OR,  WHY  THE  CAT  AND  DOG  ARE  ENEMIES.
+    / THE  ENCHANTED  WINE-JUG.; lines 1156-1217
+  start: '1156'
+  end: '1217'
+  translation: Korean Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: An old wine-seller appears to draw his wine continually from a single old
+    bottle, though he is not seen replenishing it. He has no children, but keeps an
+    old dog and a cat as close companions. The dog is good-natured, while the cat,
+    called Thomas, is playful and mischievous. The cat sometimes helps the dog against
+    fleas but also plays pranks on him. The cat, dog, and old man live together contentedly.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The old man is not seen making or taking in a new supply of wine and does
+    not keep many vessels in his shop.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old man seems always to pour wine from the same old bottle with a long,
+    slender, black, shiny neck.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Neighbors regard the old man as thoroughly good and his wine as better than
+    others sold at similar prices.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The old man has no children, but a dog and a cat partly take the place of
+    children as daily cares, companions, and sharers of bed and board.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The dog is described as old, good-natured, soft-haired, tan, bushy-tailed,
+    and associated with wisdom and good nature.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The dog seldom becomes upset except when the master is worried by a patron’s
+    bad behavior or when fleas attack him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The cat sometimes assists the dog when the dog is being tormented by fleas.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The cat, called Thomas, is described as humorous and frivolous despite his
+    age.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The cat drops a dead mouse onto the sleeping dog’s nose from the counter,
+    startling the dog into growling and running about.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The cat and dog live contentedly with the old man and sleep in the same small
+    room with him at night.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: old wine-seller
+  description: An old man who sells wine and appears to pour it from one old bottle;
+    he has no children and keeps a dog and a cat as close companions.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: old dog
+  description: A good-natured old dog with long soft tan hair, silken ears, a bushy
+    tail, and a calm temperament.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Thomas the cat
+  description: A cat with a strong vein of humor who sometimes assists the dog and
+    sometimes plays pranks on him.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: wine-seller
+  assigned_to:
+  - fig:1
+  basis: The passage describes the old man’s shop, his wine, and his pouring of wine
+    for sale.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: caretaker of animal companions
+  assigned_to:
+  - fig:1
+  basis: The dog and cat are his daily care, constant companions, and partners of
+    bed and board.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: companion animal
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The dog and cat are described as taking the place of children and living
+    with the old man.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:4
+  label: good-natured dog
+  assigned_to:
+  - fig:2
+  basis: The dog is explicitly described as good-natured and calm except under specific
+    provocations.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: mischievous cat
+  assigned_to:
+  - fig:3
+  basis: The cat is described as humorous and is shown playing a prank on the dog.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: old bottle or wine-jug
+  literal_form: one old bottle with a long, slender, black, shiny neck from which
+    the old man pours wine
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wine
+  literal_form: wine poured in a warming stream from the old bottle and sold by the
+    old man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: dead mouse prank
+  literal_form: a dead mouse dropped by the cat onto the dog’s nose
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: The old man’s unusual wine supply
+  summary: The old man is not seen replenishing wine and appears to pour it repeatedly
+    from a single old bottle, while neighbors accept him and his wine without further
+    inquiry.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Animal companions in place of children
+  summary: The childless old man keeps an old dog and a cat as daily cares and close
+    household companions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: scene:3
+  label: Cat and dog interactions
+  summary: The dog is usually calm; the cat sometimes helps him against fleas, but
+    also startles him by dropping a dead mouse on his nose.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: enchanted or inexhaustible wine vessel
+  taxonomy_refs: []
+  basis: The passage title names an enchanted wine-jug, and the old man appears to
+    pour wine from one old bottle despite not being seen replenishing his supply.
+  evidence_refs:
+  - ev:1
+  - ev:9
+  confidence: medium
+  cautions: The excerpt implies the bottle’s unusual nature but does not yet explain
+    its origin or explicitly state that it is inexhaustible within the quoted narrative
+    body.
+- id: motif:2
+  label: animal companions treated as children
+  taxonomy_refs: []
+  basis: The childless old man’s dog and cat are said to take the place of children
+    as his daily care, constant companions, and sharers of household life.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: This is a passage-level relational motif; no supernatural function is
+    attached to the animals in this excerpt.
+- id: motif:3
+  label: comic rivalry or prank between cat and dog
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The cat is described as humorous and frivolous and plays a disruptive prank
+    on the dog by dropping a dead mouse on him while he is resting.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The broader title indicates a cat-dog enmity tale, but this excerpt shows
+    mainly playful disturbance rather than established enmity.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1156-1171
+  quote_or_summary: The old man is not seen making or taking in a new supply and seems
+    always to pour wine from the same old bottle with a long black shiny neck.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1171-1182
+  quote_or_summary: Neighbors believe the old man is good, the wine is good, and the
+    price reasonable, and they stop questioning the matter.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1183-1192
+  quote_or_summary: The old man has no children, but his dog and cat partly replace
+    children as daily care, constant companions, and partners of bed and board.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1192-1201
+  quote_or_summary: The dog is described as an old, good-natured animal with soft
+    ears, a round body, tan hair, and a bushy tail, embodying canine wisdom and good
+    nature.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1201-1208
+  quote_or_summary: The dog is rarely upset except by his master’s troubles or by
+    fleas; the cat sometimes assists him when fleas torment him.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1209-1214
+  quote_or_summary: The cat, called Thomas, is characterized by humor and frivolous
+    propensities despite being past kittenhood.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1214-1225
+  quote_or_summary: The cat drops a dead mouse onto the dog’s nose from the counter
+    while the dog is napping, causing the dog to leap up, growl, and run around.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1226-1234
+  quote_or_summary: The cat and dog are called a happy couple and live contentedly
+    with the old man, sleeping with him in the small room at night.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: citation
+  locator: passage title / lines 1156-1217
+  quote_or_summary: The passage heading identifies the tale section as “THE ENCHANTED
+    WINE-JUG.”
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; short title cited.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extract appears to begin and end in mid-narrative, so some line locators
+    for events near the end are approximate to the supplied range and wider tale context
+    is not used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-tales-allen-archive__l1156-l1217
+  passage_sha256=1c15c562671e96787ed6f08c0c3e1b2ab9db8e36597fa5e0448c409a7abaa696
+

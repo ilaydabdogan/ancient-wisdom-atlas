@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.malay-pagan-races-malay-peninsula-skeat-blagden-vol2-archive-l5770-l5783
+source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+passage_locator:
+  label: BURIAL  CUSTOMS  AND  BELIEFS / CHAP.  IV      SA  VAGE  MALA  YS  OF  NEGRI  SEMBILAN  103
+    / CHAP.  IV      SAVAGE  MALA  YS  OF  NEGRI  SEMBILAN  105 / CHAP.  IV  SAVAGE  MALAYS  OF  SELANGOR  107;
+    lines 5770-5783
+  start: '5770'
+  end: '5783'
+  translation: Pagan Races of the Malay Peninsula, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a burial rite in which seed-rice is taken from a
+    hut, sown over a grave, and sprinkled with water so that, when grown, it may serve
+    as food for the deceased's soul. The deceased's sarong, two mats, and selvage
+    strips are gathered and burned to ashes in a small fire kept burning since the
+    ceremony began. A note compares a burial feature to a Malay form of burial called
+    "papan sa' keping" or "the single plank."
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Seed-rice is taken out of a hut and sown broadcast over the grave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Water is sprinkled over the seed-rice after it is sown over the grave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator is told that the rice, when grown, is to serve as something for
+    the deceased's soul to live upon.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The deceased's sarong, two mats, and strips of selvage are collected together
+    and burned to ashes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The small fire used to burn the items has been kept burning since the ceremony
+    commenced.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Preparations at the grave are not complete until near mid-day.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A footnote says that an unspecified burial feature is no doubt in imitation
+    of the Malay form of burial called "papan sa' keping," translated as "the single
+    plank."
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the deceased
+  description: The dead person associated with the grave and with the sarong that
+    is burned.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the deceased's soul
+  description: The soul for whom the grown rice is said to serve as sustenance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: dead person associated with grave goods
+  assigned_to:
+  - fig:1
+  basis: The passage refers to the deceased's grave and to the deceased's sarong being
+    burned with other items.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: recipient of future rice sustenance
+  assigned_to:
+  - fig:2
+  basis: The rice is said to be for the deceased's soul to live upon when it grows.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: seed-rice on the grave
+  literal_form: Seed-rice sown broadcast over the grave.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: water sprinkled on grave-sown rice
+  literal_form: Water sprinkled over the sown rice.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: small ritual fire
+  literal_form: A small fire kept burning since the ceremony began and used to reduce
+    items to ashes.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: grave
+  literal_form: The grave over which seed-rice is sown and at which preparations are
+    completed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:5
+  label: deceased's garment and mats
+  literal_form: The deceased's sarong, two mats, and strips of selvage gathered and
+    burned.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Sowing and watering seed-rice over the grave
+  summary: Seed-rice is brought from a hut, sown over the grave, and sprinkled with
+    water; the stated purpose is that the grown rice will sustain the deceased's soul.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Burning the deceased's items
+  summary: The deceased's sarong, two mats, and strips of selvage are gathered and
+    burned to ashes in a small fire kept alight since the ceremony began.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Completion of grave preparations near mid-day
+  summary: The passage notes that preparations at the grave are complete only as mid-day
+    approaches.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Planting food over a grave to sustain the soul
+  taxonomy_refs: []
+  basis: Seed-rice is sown and watered over the grave, and the narrator is told that
+    the resulting rice is for the deceased's soul to live upon.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives the stated function of the rice but does not describe
+    a broader afterlife geography or journey.
+- id: motif:2
+  label: Burning the deceased's belongings during burial rites
+  taxonomy_refs: []
+  basis: The deceased's sarong, two mats, and selvage strips are collected and burned
+    to ashes in a fire maintained since the start of the ceremony.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly state whether the burning is an offering,
+    purification, disposal, or another ritual function.
+comparison_claims:
+- id: claim:1
+  claim: The supplied footnote explicitly relates a burial feature to a Malay burial
+    form called "papan sa' keping" or "the single plank."
+  claim_level: same_function
+  target: Malay burial form "papan sa' keping" / "the single plank"
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The footnote is present in the supplied passage, but the excerpt does
+    not make clear which specific preceding feature the note explains; broader context
+    is needed.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5770-5773
+  quote_or_summary: Seed-rice is taken from a hut, sown over the grave, sprinkled
+    with water, and said to be for the deceased's soul to live upon when it grows.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5774-5778
+  quote_or_summary: The deceased's sarong, two mats, and selvage strips are gathered
+    and burned to ashes in a small fire kept burning since the ceremony commenced.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5780-5782
+  quote_or_summary: The narrator adds that the preparations at the grave were only
+    complete as mid-day was approaching.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: supplied footnote after line 5783
+  quote_or_summary: '"No doubt in imitation of the Malay form of burial, known as
+    \"papan sa'' keping\" (the single plank)."'
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source metadata; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The actions and stated belief about rice for the soul are explicit. Motif
+    labels are cautious because the excerpt gives limited ritual explanation. The
+    comparison claim depends on an editorial footnote whose exact referent is unclear
+    in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif-family reference was assigned because the passage does not describe an afterlife journey, resurrection, sacrifice, or another available motif family explicitly enough.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-pagan-races-malay-peninsula-skeat-blagden-vol2-archive__l5770-l5783
+  passage_sha256=2ad951f60514e7ea58cabc67764531de87400f3116ce68081494d4c3f308255d
+

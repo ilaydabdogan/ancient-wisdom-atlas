@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l10437-l10470
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: DEATH-LAMENT     FOR     VARENGA,     DAUGHTER     OF / AROKAPITI. / COMPOSED    BY    KOROA,    CIRCA    1817.
+    / INTRODUCTION.; lines 10437-10470
+  start: '10437'
+  end: '10470'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: In spirit-land is now wed. She was wooed by a Shadow!
+  summary: A death-lament for Varenga, daughter of Arokapiti, is attributed to Koroa.
+    The introduction says Varenga came from the sun-rising, is now wed in spirit-land,
+    was wooed by a Shadow, and that this was the speaker's dream on the mountain.
+  language: Mangaian and English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is titled as a death-lament for Varenga, daughter of Arokapiti.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage attributes the composition to Koroa, circa 1817.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The English introduction says Varenga came from the “sun-rising.”
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The English introduction says Varenga is now wed in spirit-land.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The English introduction says Varenga was wooed by a Shadow.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker describes the matter as “my dream on the mountain.”
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Mangaian song text includes the place-name Avaiki.
+  category: setting
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Varenga
+  description: Named subject of the death-lament; daughter of Arokapiti; described
+    in the introduction as from the “sun-rising,” now wed in spirit-land, and wooed
+    by a Shadow.
+  role_refs:
+  - role:1
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Arokapiti
+  description: Named as the parent of Varenga in the title and addressed in the song
+    text.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Koroa
+  description: Named as the composer of the death-lament, circa 1817.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Shadow
+  description: A Shadow is named as the one who wooed Varenga.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: unnamed speaker or dreamer
+  description: The voice of the introduction refers to “my dream on the mountain.”
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: subject of death-lament
+  assigned_to:
+  - fig:1
+  basis: The title identifies the piece as a death-lament for Varenga.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: daughter
+  assigned_to:
+  - fig:1
+  basis: The title identifies Varenga as daughter of Arokapiti.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: parent of Varenga
+  assigned_to:
+  - fig:2
+  basis: Arokapiti is named in the title as the one whose daughter is Varenga.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: composer
+  assigned_to:
+  - fig:3
+  basis: The heading states that the lament was composed by Koroa.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: wooer
+  assigned_to:
+  - fig:4
+  basis: The introduction states that Varenga was wooed by a Shadow.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: dreamer or speaking witness
+  assigned_to:
+  - fig:5
+  basis: The introduction says, “Such was my dream on the mountain.”
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: wed figure in spirit-land
+  assigned_to:
+  - fig:1
+  basis: The introduction states that Varenga is now wed in spirit-land.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: spirit-land / Avaiki
+  literal_form: spirit-land; Avaiki appears in the Mangaian song text
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Shadow
+  literal_form: a Shadow who woos Varenga
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: mountain
+  literal_form: mountain where the dream is located
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: sun-rising
+  literal_form: the “sun-rising” from which Varenga came
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Death-lament frame and attribution
+  summary: The heading frames the piece as a death-lament for Varenga, daughter of
+    Arokapiti, and attributes its composition to Koroa circa 1817.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Varenga in spirit-land
+  summary: The introduction says Varenga came from the sun-rising, is now wed in spirit-land,
+    and was wooed by a Shadow.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Dream on the mountain
+  summary: The speaker describes the preceding account as a dream located on the mountain.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: death-lament for a named woman with kinship identification
+  taxonomy_refs: []
+  basis: The heading identifies the piece as a death-lament for Varenga and names
+    her parent, Arokapiti.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a formal and social framing motif rather than a developed narrative
+    episode.
+- id: motif:2
+  label: deceased woman wed in spirit-land
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The death-lament frame and introduction place Varenga in spirit-land and
+    say she is now wed there.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage gives an afterlife location but does not narrate a journey
+    or map of the afterlife.
+- id: motif:3
+  label: Shadow as wooer
+  taxonomy_refs: []
+  basis: The introduction states that Varenga was wooed by a Shadow.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explain whether the Shadow is a spirit, personification,
+    deity, or other being.
+- id: motif:4
+  label: dream revelation on a mountain
+  taxonomy_refs: []
+  basis: The speaker says the account was “my dream on the mountain.”
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Only a brief dream reference is provided; no dream sequence or interpretation
+    is supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10441-10446
+  quote_or_summary: "“DEATH-LAMENT FOR VARENGA, DAUGHTER OF AROKAPITI. COMPOSED BY
+    KOROA, CIRCA 1817.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 10448-10459
+  quote_or_summary: The Mangaian song text names Arokapiti and includes the line “Kua
+    kite Aro kua noo tane i Avaiki.”
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 10461-10465
+  quote_or_summary: "“Varenga, Avho came from the ‘sun-rising,’ ... In spirit-land
+    is now wed.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: line 10466
+  quote_or_summary: "“She was wooed by a Shadow!”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: line 10467
+  quote_or_summary: "“Such was my dream on the mountain.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif classification is cautious
+    because the passage is brief and largely introductory.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare the episode to another tradition or motif family beyond the available cautious motif tagging.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l10437-l10470
+  passage_sha256=04ccea0ac0236901f47596ece5477e2833567687276d89e8b8f8adb4df385fdb
+

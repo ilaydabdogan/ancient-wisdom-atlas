@@ -1,0 +1,392 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l16992-l17036
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: ANIMALS. / COMMENTARIES  OF  THE  YNCAS. / EIGHTH  BOOIC  OF  THE  ROYAL
+    / COMMENTARIES  OE  THE  YNCAS.; lines 16992-17036
+  start: '16992'
+  end: '17036'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes failed and successful treatments for a livestock
+    plague, notes that deer were not affected, records the adoption of St. Anthony
+    as protector against the disease with a feast in his honor, and then describes
+    llamas as low-maintenance pack animals that browse for themselves during long
+    journeys.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Indians and Spaniards tried several remedies for a spreading livestock disease,
+    including artificial fire, corrosive sublimate, sulphur, boiling hog’s lard, and
+    other treatments, but the flocks died more rapidly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'A better cure was later found: applying warm hog’s lard to scabbed areas
+    and watching for animals scratching their bellies, where the disease began.'
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After the warm lard treatment was discovered, the plague became less severe
+    than at first.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The reported curative value of hog’s lard increased the value of pigs.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The plague was general but did not attack deer.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: St. Anthony was adopted as advocate and defender against the disease, and
+    a great feast was held in his honor.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Llamas in large droves on long journeys were said to cost their owners nothing
+    for food, lodging, shoeing, harness, pack-saddles, girths, straps, or similar
+    equipment.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: At resting places, llamas were unloaded and allowed to browse on available
+    pasture, maintaining themselves without grain or straw.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Llamas liked sara, or maize, when given to them, but continued to work without
+    it.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Llamas did not require shoeing because their cloven hoofs were fleshy rather
+    than horny.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Indians and Spaniards
+  description: People who attempted to cure the spreading livestock disease with several
+    remedies.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: diseased flocks or beasts
+  description: Herd animals affected by the plague, with scabs and belly-scratching
+    noted as signs of disease.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: pigs
+  description: Animals whose lard was used in treatments; their value increased after
+    warm lard was found useful.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: deer
+  description: Animals specifically said not to be attacked by the general plague.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: St. Anthony
+  description: Saint adopted as advocate and defender against the disease, honored
+    with a great feast.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: llamas
+  description: Pack animals described as self-maintaining during long journeys and
+    not needing shoeing or much equipment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: llama owners
+  description: Owners of llama droves who bore no costs for many ordinary pack-animal
+    requirements.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: remedy seekers
+  assigned_to:
+  - fig:1
+  basis: They attempted multiple cures for the livestock disease.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: afflicted herd animals
+  assigned_to:
+  - fig:2
+  basis: The flocks or beasts suffered the plague and displayed scabs and belly-scratching.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: source of medicinal substance
+  assigned_to:
+  - fig:3
+  basis: Hog’s lard was used as the eventual cure, increasing the value of pigs.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: unaffected animals
+  assigned_to:
+  - fig:4
+  basis: The passage says the general plague did not attack deer.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: sacred advocate against disease
+  assigned_to:
+  - fig:5
+  basis: St. Anthony was adopted as advocate and defender against the disease.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: self-maintaining pack animals
+  assigned_to:
+  - fig:6
+  basis: Llamas traveled in droves, browsed for themselves, worked without maize,
+    and required no shoeing.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: owners of pack animals
+  assigned_to:
+  - fig:7
+  basis: The passage describes what the llamas did and did not cost their owners.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: artificial fire
+  literal_form: Artificial fire used as an attempted cure for the livestock plague.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: warm hog’s lard
+  literal_form: Warm hog’s lard applied to scabbed areas as the effective cure.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: belly-scratching as disease sign
+  literal_form: Scratching of the belly, identified as the place where the disease
+    began.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: feast for St. Anthony
+  literal_form: A great feast held in honor of St. Anthony after he was adopted as
+    protector against the disease.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sara maize
+  literal_form: Maize liked by llamas when given, though not required for their work.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: failed treatments for livestock plague
+  summary: Indians and Spaniards tried artificial fire, corrosive mixtures, boiling
+    hog’s lard, and other remedies, but the flocks died more rapidly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: discovery of warm lard cure
+  summary: Through repeated trials, warm hog’s lard applied to scabbed parts and early
+    watching for belly-scratching were identified as an effective way to reduce the
+    plague’s severity.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: deer unaffected by plague
+  summary: The narrator notes that the plague was general but did not attack deer.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: St. Anthony honored against disease
+  summary: St. Anthony was adopted as advocate and defender against the disease, and
+    a great feast was held in his honor.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: llamas as self-sustaining pack animals
+  summary: Llamas on long journeys were unloaded at resting places, browsed for themselves,
+    worked without maize, and required no shoeing or ordinary pack-animal provisions.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: failed harmful remedies before effective cure
+  taxonomy_refs: []
+  basis: The passage presents a sequence of failed treatments that worsened mortality
+    before a gentler warm-lard treatment was found effective.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is primarily an ethnographic or historical healing pattern, not explicitly
+    a mythic narrative motif.
+- id: motif:2
+  label: sacred advocate invoked against animal disease
+  taxonomy_refs: []
+  basis: St. Anthony is adopted as advocate and defender against the livestock disease
+    and honored with a feast.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage reports a devotional practice but does not narrate a miracle
+    or divine intervention.
+- id: motif:3
+  label: self-maintaining burden animal
+  taxonomy_refs: []
+  basis: Llamas are described as carrying loads on long journeys while needing no
+    provided feed, shoeing, or much gear, and continuing to work without maize.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The motif is descriptive of animal utility rather than explicitly symbolic
+    or mythological.
+comparison_claims:
+- id: claim:1
+  claim: The adoption of St. Anthony as advocate and defender against the disease
+    functions like a saint-intercession pattern for protection from illness.
+  claim_level: same_function
+  target: Christian saint intercession against disease
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself only names St. Anthony and the feast; it does not
+    provide broader comparative examples or describe an answered miracle.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16992-17007
+  quote_or_summary: Indians and Spaniards attempted to cure a spreading livestock
+    disease with artificial fire, corrosive sublimate, sulphur, boiling hog’s lard,
+    and other remedies, but the flocks died all the more.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 17007-17018
+  quote_or_summary: After trial and error, the best cure was found to be warm hog’s
+    lard applied to scabbed parts, with attention to belly-scratching as an early
+    sign; afterwards the plague was less severe and pigs increased in value.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 17018-17022
+  quote_or_summary: The narrator notes that the general plague did not attack deer,
+    which he says must have been of a different habit.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 17022-17026
+  quote_or_summary: St. Anthony was adopted as advocate and defender against the disease,
+    and a great feast was held in his honor.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 17027-17036
+  quote_or_summary: Llamas in large droves on long journeys cost their owners nothing
+    for food, lodging, shoeing, harness, or similar needs; at resting places they
+    browsed for themselves, worked without maize, and did not require shoeing because
+    their hoofs were fleshy and cloven.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is primarily historical-ethnographic rather than mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No motif-family taxonomy refs were assigned because the supplied passage does not clearly support the available motif families. The available symbol ref `fire` was used only for the literal artificial fire treatment.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l16992-l17036
+  passage_sha256=46b33e5338864343d664da2918ce0958f408b57908f67207d4cf87db795d5dfd
+

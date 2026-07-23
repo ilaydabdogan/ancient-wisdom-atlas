@@ -1,0 +1,195 @@
+---
+record_id: batch.motif.hindu-upanishads-sbe15-muller-archive-l9960-l10032
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+passage_locator:
+  label: I ADHYAYA, 3 BRAHMAJVA, 27. 83 / THIRD ADHYAYA. / IV, 3, 1 ? / FOURTH ADHYAYA.;
+    lines 9960-10032
+  start: '9960'
+  end: '10032'
+  translation: The Upanishads, Part II (Sacred Books of the East, Vol. 15)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: Brahman is Svayambhu, self-existent. Adoration to Brahman.
+  summary: The passage gives an enumerated chain of names in repeated “X from Y” form,
+    beginning with Travam from Aupagandhani and continuing through many named links
+    to Parameshthin from Brahman. It then identifies Brahman as Svayambhu, self-existent,
+    and closes with adoration to Brahman. Notes mention Madhyandina textual variants.
+  language: English with transliterated Sanskrit names
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is an enumerated list of named links, numbered 29 through 60.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Most entries use the repeated relationship formula “X from Y.”
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The sequence culminates with Parameshthin listed as from Brahman.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Brahman is identified as Svayambhu, glossed as self-existent.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage includes an adoration directed to Brahman.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Editorial notes report Madhyandina textual variants for part of the lineage
+    and for the name Viprachitti.
+  category: other
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Named lineage links from Travam to Parameshthin
+  description: A sequence of named figures linked by the formula “from,” beginning
+    with Travam from Aupagandhani and ending with Parameshthin from Brahman.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Brahman
+  description: Named as the source from whom Parameshthin is listed; identified as
+    Svayambhu, self-existent, and addressed with adoration.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: lineage-linked figures
+  assigned_to:
+  - fig:1
+  basis: The passage lists named figures in a repeated succession formula of “X from
+    Y.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: self-existent terminal source
+  assigned_to:
+  - fig:2
+  basis: The sequence ends with Parameshthin from Brahman, and Brahman is identified
+    as Svayambhu, self-existent.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: object of adoration
+  assigned_to:
+  - fig:2
+  basis: The passage states, “Adoration to Brahman.”
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Lineage sequence ending in Brahman
+  summary: An enumerated succession of named figures is presented in “from” relationships,
+    ending with Brahman as the final source; Brahman is then called self-existent
+    and adored.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Transmission lineage of authoritative wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage’s repeated “X from Y” chain presents a lineage-like transmission
+    sequence in an Upanishadic source and culminates in Brahman as self-existent.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt does not explicitly state the content being transmitted; the
+    wisdom classification relies on the lineage form and the Upanishadic source context
+    and needs human review.
+- id: motif:2
+  label: Self-existent ultimate source
+  taxonomy_refs: []
+  basis: Brahman is the final named source in the sequence and is explicitly called
+    Svayambhu, self-existent.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No exact available taxonomy reference matches this formulation; the passage
+    is formulaic rather than a narrative myth episode.
+comparison_claims:
+- id: claim:1
+  claim: The supplied notes compare this lineage with the Madhyandina text, indicating
+    variant names or spellings in a related textual tradition.
+  claim_level: linguistic_similarity
+  target: Madhyandina text
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The evidence supports a textual-variant comparison only; it does not
+    establish a broader mythological parallel, historical contact claim, or shared
+    motif beyond the noted recensional differences.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9960-10024
+  quote_or_summary: Items 29-59 enumerate a chain of names linked by “from,” beginning
+    with Travam from Aupagandhani and ending with Parameshthin from Brahman.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: lines 10024-10026
+  quote_or_summary: Brahman is Svayambhu, self-existent. Adoration to Brahman.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: note within lines 9960-10032
+  quote_or_summary: A note says the Madhyandina text has alternate names including
+    Bharadvaja, Bharadvaja Asurayana, and Yaska.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: note within lines 9960-10032
+  quote_or_summary: A note says the Madhyandina text reads Viprachitti.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence and final statement about Brahman are clear, but OCR/transliteration
+    artifacts affect name certainty. Motif assignment is cautious because the passage
+    gives a formulaic lineage rather than an explicit narrative episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Names are preserved only as needed from the supplied OCR/transliteration. The many lineage names are grouped to avoid inventing additional interpretive roles.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:hindu-upanishads-sbe15-muller-archive__l9960-l10032
+  passage_sha256=23591f7e4541f2441185c101bf6c8c71cc61a1d77d0877e832cf9b722d4b72a9
+

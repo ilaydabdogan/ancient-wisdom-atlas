@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l23949-l24031
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: THE   SHURPU   SERIES  385 / THE   SHURPU   SERIES  387 / COLOPHON / THIRD  TABLET;
+    lines 23949-24031
+  start: '23949'
+  end: '24031'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens the Third Tablet by stating that Marduk, described as
+    the conjurer among the gods, will loose any ban that befalls a person. It then
+    lists many possible sources or occasions of a ban, including kinship relations,
+    social relations, oaths, fire-related acts, domestic objects, water in an unclean
+    cup, debt, bribery in judgment, plants, reeds, weapons, wild animals, offerings
+    or alms, and an unclear final item.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says that Marduk will loose any ban that befalls a person described
+    as a child of a god.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bans are listed as potentially coming from father, mother, grandfather, grandmother,
+    brother, sister, descendants of the father's house, family, relatives, babes,
+    sucklings, comrades, companions, friends, and fellows.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The list includes bans connected with right or wrong, honour or shame, and
+    swearing by a god.
+  category: other
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Several entries concern fire or fire implements, including bellows, a fire-pan,
+    pointing the hand toward fire, taking fire while swearing by the god, and throwing
+    fire at someone.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'The list includes household or bodily-use items and actions: cup, table,
+    bed, couch, and drinking water from an unclean cup.'
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The list includes social and legal actions involving debt, sitting in a seat
+    before the sun, and giving judgment for a bribe.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The list includes actions involving plants in a field and reeds in a marsh.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: 'The list includes weapons and martial objects: bow, chariot, bronze dagger,
+    spear, lance, and crossbow.'
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The list includes slaying the young of wild animals.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The list includes destroying an offering or casting an alms into the water,
+    with uncertainty marked in the translation for those terms.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Marduk
+  description: Named deity described as the conjurer among the gods who will loose
+    bans.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Afflicted person
+  description: A person or man upon whom a ban befalls.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Kin and social relations
+  description: Relatives and associates named as possible sources or contexts of bans,
+    including parents, grandparents, siblings, family, relatives, comrades, companions,
+    friends, and fellows.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine loosener of bans
+  assigned_to:
+  - fig:1
+  basis: Marduk is said to loose any ban and is called the conjurer among the gods.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of a ban
+  assigned_to:
+  - fig:2
+  basis: The repeated formula describes a ban befalling a person or man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: possible sources or contexts of ban
+  assigned_to:
+  - fig:3
+  basis: The catalogue names kin and social associates in repeated entries of bans
+    that Marduk will loose.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: ban
+  literal_form: A ban that befalls a person and is repeatedly said to be loosed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: fire
+  literal_form: Fire, fire-pan, bellows, taking fire, pointing toward fire, and throwing
+    fire.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: water
+  literal_form: Water drunk from an unclean cup and water into which an alms is cast.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: unclean cup
+  literal_form: An unclean cup from which water is drunk.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: weapons and vehicle
+  literal_form: Bow, chariot, bronze dagger, spear, lance, and crossbow.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: field and marsh vegetation
+  literal_form: Plants in the field and reeds in the marsh.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Opening declaration of release
+  summary: The tablet states that Marduk, the conjurer among the gods, will loose
+    any ban that befalls a person.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Catalogue of relational bans
+  summary: The passage lists bans associated with family members, descendants, ages,
+    relatives, infants, companions, friends, and moral or social oppositions such
+    as right or wrong and honour or shame.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Catalogue of ritual, domestic, legal, natural, and martial bans
+  summary: The passage continues with bans involving oaths, fire, household objects,
+    water, debt, bribed judgment, plants, reeds, weapons, wild animals, offerings
+    or alms, and an unclear final item, each followed by the statement that he will
+    loose it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine loosening of bans
+  taxonomy_refs: []
+  basis: The central repeated action is that Marduk will loose bans that befall a
+    person.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not narrate a completed event; it presents a liturgical
+    or formulaic catalogue of possible bans.
+- id: motif:2
+  label: catalogue of transgressions or ritual dangers
+  taxonomy_refs: []
+  basis: The passage enumerates many possible sources or occasions of a ban across
+    kinship, oaths, fire, domestic use, legal conduct, vegetation, weapons, animals,
+    and offerings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The text calls the items bans, but it does not always specify whether
+    each item is a transgression, impurity, taboo, curse, or ritual danger.
+- id: motif:3
+  label: fire as a focus of ban-related acts
+  taxonomy_refs: []
+  basis: Several consecutive entries concern fire implements or actions with fire,
+    each subject to loosening by Marduk.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain the symbolic meaning of fire; only its repeated
+    literal occurrence is secure.
+- id: motif:4
+  label: purity danger in drinking water from an unclean cup
+  taxonomy_refs: []
+  basis: One entry names a ban from drinking water out of an unclean cup.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not elaborate a full purity system; the label is limited
+    to the explicit unclean-cup formulation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23949-23956, opening of Third Tablet
+  quote_or_summary: A ban of any sort that befalls a child of a god will be loosed
+    by Marduk, called the conjurer among the gods.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 23957-23975, kinship and social catalogue
+  quote_or_summary: The text lists bans from parents, grandparents, siblings, seven
+    descendants of the father's house, old or young, family or relatives, babes or
+    sucklings, comrades or companions, friends or fellows, right or wrong, and honour
+    or shame.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 23976-23988, oath and fire entries
+  quote_or_summary: The text lists bans involving swearing by the god, bellows or
+    fire-pan, pointing the hand toward fire, taking fire and swearing by the god,
+    and throwing fire at someone.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 23989-24000, domestic, water, debt, and judgment entries
+  quote_or_summary: The text lists bans from cup or table, bed or couch, drinking
+    water out of an unclean cup, demanding rather than paying a debt, sitting in a
+    seat before the sun, and giving judgment for a bribe.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 24001-24031, vegetation, weapons, animals, offering, water, and unclear
+    final entry
+  quote_or_summary: The text lists bans from pulling up plants in the field, cutting
+    reeds in the marsh, bow or chariot, bronze dagger or spear, lance or crossbow,
+    slaying young wild animals, destroying an offering or casting an alms into the
+    water, and setting an unclear item before someone.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is highly formulaic and mostly clear at the literal level, though
+    several translated items are marked uncertain or damaged. Motif labels are conservative
+    and not tied to external comparison claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the supplied passage alone does not support a specific external comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l23949-l24031
+  passage_sha256=95363c2431c9d2500c8565094ccd7b98d5905bc9b7523e1be77bc95e7a420f8d
+

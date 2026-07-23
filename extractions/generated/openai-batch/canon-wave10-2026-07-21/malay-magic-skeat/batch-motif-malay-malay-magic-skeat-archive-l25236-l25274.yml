@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l25236-l25274
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: THE  MONKEY  DANCE / THE  PALM-BLOSSOM  DANCE / BUFFALO  FIGHTS / THE  BULL-
+    RING; lines 25236-25274
+  start: '25236'
+  end: '25274'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a buffalo fight in a bull-ring: a noisy crowd gathers
+    on a green; keepers lead two buffalo bulls into the center using lines attached
+    to their noses; the bulls are positioned face to face and released; they rush
+    together, then lock horns and strain against one another while backers shout encouragement.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A crowd at the bull-ring is described as highly excited and noisy before the
+    combat begins.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The combat is to take place on a green sward or green.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: When the word to begin is given, buffalo keepers let out lines fastened to
+    the bulls’ noses and lead the animals to the center of the green.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lines are crossed and drawn taut so that the two bulls face one another;
+    then knots are loosed and cords slip from the nose-rings.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A silence falls before the buffalo bulls eye one another and rush together
+    forehead to forehead.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Backers of each beast shout advice and encouragement to the bull on which
+    they have money.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After the first rush, the buffalo bulls stand with interlaced horns, straining
+    against one another.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Each bull tries to use the point of its horns to gain a grip on the opponent’s
+    neck, cheeks, or face.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage notes that a buffalo’s horn is not sharp, but that the animal’s
+    weight gives the horn tremendous force.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: crowd at the bull-ring
+  description: The assembled people are excited, noisy, and later fall silent at the
+    moment before the bulls rush together.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: keepers of the buffaloes
+  description: Handlers who control the lines attached to the bulls’ noses and lead
+    them to the center of the green.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: buffalo bulls
+  description: Two buffalo bulls are brought face to face, released, and fight by
+    rushing together and locking horns.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: backers of each beast
+  description: Supporters or bettors who shout advice and encouragement to the bull
+    associated with their money.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: excited spectators
+  assigned_to:
+  - fig:1
+  basis: The passage describes the people at the bull-ring as excited and noisy, and
+    later as falling silent before the clash.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: animal handlers
+  assigned_to:
+  - fig:2
+  basis: The keepers lead the buffalo bulls with lines and arrange them for the fight.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: paired animal combatants
+  assigned_to:
+  - fig:3
+  basis: The bulls are faced toward one another, released, and engage in forehead
+    and horn combat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: wagering supporters
+  assigned_to:
+  - fig:4
+  basis: The backers shout encouragement to the bull that carries their money.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: green arena
+  literal_form: green sward or center of the green where the combat takes place
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: control lines and nose-rings
+  literal_form: lines, knots, cords, and nose-rings used to position and release the
+    bulls
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: forehead-to-forehead impact
+  literal_form: the bulls rush together forehead to forehead
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: interlaced horns
+  literal_form: horns locked together as the bulls strain against each other
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Noisy bull-ring gathering
+  summary: A crowd gathers around the green sward for the buffalo combat and becomes
+    extremely noisy with excitement.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Positioning and release of the bulls
+  summary: Keepers lead the buffalo bulls to the center of the green with lines attached
+    to their noses, cross and tighten the lines to face them toward one another, and
+    release the cords from the nose-rings.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Initial clash
+  summary: After a moment of silence, the bulls eye one another and rush together
+    forehead to forehead, while the crowd and backers erupt in shouting.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Locked-horn struggle
+  summary: After the first rush, the bulls stop charging and strain with interlaced
+    horns while each tries to gain a horn grip on the other’s neck, cheeks, or face.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: staged paired animal combat
+  taxonomy_refs: []
+  basis: Two buffalo bulls are led into an arena-like green, made to face one another,
+    released, and then fight.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents a public sport or custom rather than a mythic narrative;
+    no sacred or supernatural function is stated.
+- id: motif:2
+  label: public animal contest with wagering supporters
+  taxonomy_refs: []
+  basis: Backers of each beast shout encouragement to the bull associated with their
+    money during the fight.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage mentions money and backers but does not describe the betting
+    system in detail.
+- id: motif:3
+  label: horn-locked contest of strength
+  taxonomy_refs: []
+  basis: After the initial rush, the bulls remain with interlaced horns, straining
+    and attempting to gain leverage against one another.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an observed combat pattern, not necessarily a symbolic or mythological
+    motif in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The narrator rhetorically compares the noisy bull-ring crowd to the Tower
+    of Babel as an image of extreme noise and confusion.
+  claim_level: same_function
+  target: Tower of Babel comparison for confused or excessive speech
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an authorial literary comparison in the passage; it does not
+    establish a shared Malay mythic motif, historical contact, or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25236-25247
+  quote_or_summary: The bull-ring crowd is described as excited and noisy; the green
+    sward for the combat becomes a pandemonium, compared rhetorically to the Tower
+    of Babel.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 25248-25257
+  quote_or_summary: At the signal to begin, the keepers let out lines attached to
+    the bulls’ noses, lead them to the center of the green, cross and tighten the
+    lines so they face one another, then loosen knots so cords slip from the nose-rings.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 25257-25264
+  quote_or_summary: A silence falls; the combatants eye one another, rush together
+    forehead to forehead, and the crowd roars while backers shout advice and encouragement
+    to the bull carrying their money.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 25265-25272
+  quote_or_summary: After the first rush, the bulls stop charging and stand with interlaced
+    horns, straining and trying to grip the opponent’s neck, cheeks, or face with
+    the points of their horns.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 25272-25274
+  quote_or_summary: The passage says the buffalo horn is not sharp, but the animal’s
+    weight makes the horn-drive extremely forceful.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based directly on the supplied passage. Motif labels are
+    descriptive because the passage is ethnographic/sporting rather than explicitly
+    mythological. No available taxonomy motif family or symbol reference is clearly
+    supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No sacred-tree, serpent, water, fire, or other supplied taxonomy symbol is evidenced in this passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l25236-l25274
+  passage_sha256=96035be6e69a8ff39f033b8a1ce5b31e5044b4c51c8b803d6b75d913b7af080a
+

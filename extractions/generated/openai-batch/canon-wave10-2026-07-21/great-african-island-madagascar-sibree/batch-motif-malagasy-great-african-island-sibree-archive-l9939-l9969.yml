@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l9939-l9969
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: SIHANAKA  HOUSES. / SIHAXAKA / BETSILEO / BARA  HOUSES.; lines 9939-9969
+  start: '9939'
+  end: '9969'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Bara house construction, dimensions, wall and roof
+    materials, interior finish, and domestic arrangement. It also briefly compares
+    bed placement among Bara, Tanosy, and Mahafaly houses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The described houses use no dressed wood or iron nails; parts are tied with
+    bark or held with wooden pegs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Corners, ridge posts, and gable posts are made of round poles.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: House size varies from very small houses of about five feet square to larger
+    houses of sixteen or eighteen feet for kings; wall height is below six feet and
+    sometimes below three feet.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Walls and gables are made of bamboo or vdro grass stalks, held by cross pieces;
+    better houses may have inner and outer walls with long grass between them.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The inside is plastered with cow-dung, open to the roof, and roofed with very
+    long grass.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Bara bed is placed on the west side with the head toward the doorway;
+    Tanosy beds are generally in the same position, while Mahafaly beds are against
+    the south wall.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Among the Bara there is no special place for the hearth; a bamboo shelf is
+    fixed to the south wall, and pegs on the walls or ridge pole hold powder-flasks,
+    belts, charms, and similar items.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bara
+  description: Group whose houses, bed placement, hearth placement, shelf, and hanging
+    pegs are described in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Tanosy
+  description: Group mentioned for comparison; their bed is generally in the same
+    position as the Bara bed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Mahafaly
+  description: Group mentioned for comparison; their bed is against the south wall.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Kings
+  description: Higher-status owners or occupants associated with the largest houses
+    mentioned in the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: described house-using group
+  assigned_to:
+  - fig:1
+  basis: The passage is headed as Bara houses and gives details of construction and
+    interior arrangement among the Bara.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: comparative house-arrangement groups
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage compares Tanosy and Mahafaly bed placement with the Bara arrangement.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: higher-status house owners
+  assigned_to:
+  - fig:4
+  basis: The passage notes larger house dimensions in the case of kings.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: charms hung in the house
+  literal_form: Charms hung from wall or ridge-pole pegs together with powder-flasks
+    and belts.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: hearth without fixed place
+  literal_form: A hearth for which there is no special place among the Bara.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: bed placement by house direction
+  literal_form: Bed positioned on the west side with head to the doorway among the
+    Bara; Tanosy generally similar; Mahafaly against the south wall.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Bara house construction
+  summary: The passage describes a house built without dressed wood or iron nails,
+    using bark ties, wooden pegs, round poles, bamboo or grass walls, and long-grass
+    roofing.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Interior arrangement of beds, hearth, shelf, and hanging objects
+  summary: The passage describes the placement of the Bara bed, compares it with Tanosy
+    and Mahafaly bed placement, and notes the absence of a fixed hearth location plus
+    a south-wall shelf and pegs for hanging objects including charms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: 'The passage explicitly compares bed placement across Bara, Tanosy, and Mahafaly
+    houses: Bara and Tanosy are described as generally sharing the same bed position,
+    while Mahafaly differs by placing the bed against the south wall.'
+  claim_level: same_function
+  target: Tanosy and Mahafaly domestic bed-placement patterns compared with Bara house
+    arrangement
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a literal ethnographic comparison of domestic spatial arrangement,
+    not evidence for a mythological motif or historical relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9939-9969; construction materials and fasteners
+  quote_or_summary: The passage states that no dressed wood or iron nails are used;
+    parts are tied with bark or held by wooden pegs, and corners, ridge posts, and
+    gable posts are round poles.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 9939-9969; dimensions
+  quote_or_summary: House size ranges from about five feet square to sixteen or eighteen
+    feet for kings; walls are under six feet high and sometimes under three.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 9939-9969; wall, roof, and interior finish
+  quote_or_summary: Walls and gables are bamboo or vdro grass stalks held by cross
+    pieces; better houses have double walls with grass between, interiors plastered
+    with cow-dung, and long-grass roofing.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 9939-9969; bed placement
+  quote_or_summary: The Bara bed is on the west side with the head toward the doorway;
+    the Tanosy bed is generally in the same position, while the Mahafaly bed is against
+    the south wall.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 9939-9969; hearth, shelf, and hanging objects
+  quote_or_summary: Among the Bara there is no special place for the hearth; a bamboo
+    shelf is on the south wall, and pegs on the walls and ridge pole are used for
+    powder-flasks, belts, charms, and other items.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary of supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is a material-culture description of house construction and interior
+    arrangement. No mythological narrative motif is directly present; only a literal
+    cross-group comparison of domestic spatial pattern is extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family is directly supported by the passage. Available symbol taxonomy references were not applied because the passage describes hearth and charms materially without an explicit symbolic interpretation.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l9939-l9969
+  passage_sha256=9882911c82c359e9d1e355ae6a667e86a35cdf19dc03cbdd71173ed73b7aee83
+

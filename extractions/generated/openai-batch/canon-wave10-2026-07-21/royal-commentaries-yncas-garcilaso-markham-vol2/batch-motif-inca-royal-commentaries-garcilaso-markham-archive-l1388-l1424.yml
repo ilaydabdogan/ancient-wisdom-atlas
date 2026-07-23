@@ -1,0 +1,402 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l1388-l1424
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: FIFTH  BOOK  OF  THE  EOYAL / COMMENTARIES  OF  THE  YNCAS. / FIFTH  BOOK  OF  THE  BOYAL
+    / CHAPTER  IX.; lines 1388-1424
+  start: '1388'
+  end: '1424'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes regulations by which wool and cotton were distributed
+    for clothing, overseers ensured people were clothed, the Sun and Yncas held many
+    flocks, royal estates supplied cotton in warm regions, and the population was
+    said to have necessary clothing, shoes, and food so that begging was unnecessary.
+    It also notes reports of Spanish waste among the flocks and begins a corroborating
+    quotation from Father Acosta.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A surplus from the Sun's yield is said to help the Ynca in difficulty.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Regulations supplied clothing, and wool was given every two years to Curacas
+    and vassals so they could make clothes for themselves and their families.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Decurions were responsible for seeing that the people were clothed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Indians and Curacas are described as having few llamas, while the Sun
+    and the Yncas possessed innumerable flocks.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage reports that some Spaniards committed excesses and waste among
+    the flocks after entering the country.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In warm country, cotton was distributed from royal estates for clothing for
+    the Indians and their families.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The people are described as having required clothes, shoes, and food; no one
+    needed to seek alms, and unnecessary possessions were absent.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The author introduces Father Acosta as giving a brief account of Peru in which
+    sheep were shorn and wool was given for spinning and weaving.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the Ynca
+  description: Ruler helped by surplus and associated with possession of innumerable
+    flocks.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: the Sun
+  description: Named as possessing innumerable flocks and as the source of a yield
+    with surplus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Curacas and vassals
+  description: Recipients of wool every two years for making clothing; Curacas are
+    also said to have few llamas.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Decurions
+  description: Officials charged with ensuring that the people were clothed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Indians and their families
+  description: Population receiving cotton in warm country and described as having
+    necessary clothes, shoes, and food.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Spaniards
+  description: Some Spaniards are reported to have wasted the flocks after first coming
+    to the country.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Father Acosta
+  description: Cited authority whose account of Peru is introduced to corroborate
+    the author's account.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: royal or sacred resource holder
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Sun and the Yncas possess innumerable flocks, and the Sun's surplus is
+    said to help the Ynca.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: recipients of textile provision
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: Curacas, vassals, Indians, and families receive wool or cotton for clothing.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: overseers of clothing provision
+  assigned_to:
+  - fig:4
+  basis: The Decurions' stated duty is to see that the people are clothed.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: external wasters of flocks
+  assigned_to:
+  - fig:6
+  basis: Some Spaniards are reported to have committed excesses and waste among the
+    flocks.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: corroborating textual authority
+  assigned_to:
+  - fig:7
+  basis: Father Acosta is cited as briefly saying what the author has related at length.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: wool
+  literal_form: Wool distributed every two years for making clothes and, in the Acosta
+    quotation, given for spinning and weaving.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: cotton
+  literal_form: Cotton distributed from royal estates in warm country for clothing.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: clothing, shoes, and food
+  literal_form: Basic necessities described as supplied so that no one needed alms.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: llamas and flocks
+  literal_form: Few llamas among Indians and Curacas; innumerable flocks possessed
+    by the Sun and Yncas; flocks wasted by some Spaniards.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: royal estates
+  literal_form: Estates from which cotton was distributed for clothing.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Surplus supports the Ynca
+  summary: A surplus associated with the Sun's yield is said to be available to help
+    the Ynca in difficulties.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wool distribution and oversight
+  summary: Wool is regularly given to Curacas and vassals for family clothing, while
+    Decurions ensure people are clothed.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Flocks held by the Sun and Yncas
+  summary: The passage contrasts the few llamas of Indians and Curacas with the innumerable
+    flocks of the Sun and the Yncas.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Spanish waste among flocks
+  summary: Reports are given that some Spaniards committed excesses and waste among
+    the flocks after arriving.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:5
+  label: Cotton from royal estates and absence of begging
+  summary: Cotton is distributed from royal estates in warm country, and the people
+    are described as having necessary clothing, shoes, and food without needing alms.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:6
+  label: Acosta's corroborating account
+  summary: Father Acosta is introduced as briefly supporting the account, with a quotation
+    beginning about sheep being shorn and wool being given for textile work.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal redistribution of basic necessities
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage links royal or state-controlled resources, including royal estates
+    and the flocks of the Sun and Yncas, to the provision of wool, cotton, clothing,
+    shoes, and food, with no begging allowed or needed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an administrative chronicle passage rather than a mythic narrative;
+    the taxonomy reference is approximate and should be reviewed.
+- id: motif:2
+  label: ordered abundance without begging
+  taxonomy_refs: []
+  basis: The population is described as having what was required for life while lacking
+    unnecessary possessions, so no one was called poor or needed alms.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a social-order pattern in the passage, not a named mythological
+    motif.
+- id: motif:3
+  label: sacred and royal flocks as store of provision
+  taxonomy_refs: []
+  basis: The Sun and the Yncas are described as possessing innumerable flocks, in
+    contrast to the few llamas held by Indians and Curacas, and those flocks underlie
+    the clothing-provision system.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain ritual meaning for the flocks; interpretation
+    should remain limited to their role as a resource base.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the author's account of Peruvian wool distribution
+    with Father Acosta's briefer account, which begins by describing sheep being shorn
+    and wool being given for spinning and weaving.
+  claim_level: same_function
+  target: Father Acosta's account of Peru, sixth book, chapter fifteen
+  evidence_refs:
+  - ev:2
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied excerpt ends mid-quotation, so only the beginning of Acosta's
+    corroborating detail is available.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1390-1392
+  quote_or_summary: The Sun's yield leaves a large surplus to help the Ynca in any
+    difficulty.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1399-1404
+  quote_or_summary: Regulations supply clothing; wool is given every two years to
+    Curacas and vassals for family clothes; Decurions must see that people are clothed.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1404-1410
+  quote_or_summary: Indians and Curacas have few llamas, while the Sun and Yncas have
+    innumerable flocks; reports say some Spaniards later committed waste among the
+    flocks.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1411-1418
+  quote_or_summary: Cotton is distributed from royal estates in warm country; people
+    have required clothes, shoes, and food, no one needs alms, and they lack unnecessary
+    things.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 1418-1422
+  quote_or_summary: 'Father Acosta is cited; the visible quotation begins: “The sheep
+    were shorn at the proper season, and each person was given wool...”'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is concrete and administrative. Motif assignments are cautious
+    because the excerpt is not primarily mythic, and the Acosta quotation is truncated
+    in the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction limited to the supplied passage and metadata; no external context added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l1388-l1424
+  passage_sha256=02b49a53e206fd55402269a188bfc516573e85ca5b87f7b88b94c6d0c129aff0
+

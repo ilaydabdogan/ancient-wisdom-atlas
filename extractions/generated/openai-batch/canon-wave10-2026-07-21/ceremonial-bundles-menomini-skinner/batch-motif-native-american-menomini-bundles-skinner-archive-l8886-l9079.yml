@@ -1,0 +1,183 @@
+---
+record_id: batch.motif.native-american-menomini-bundles-skinner-archive-l8886-l9079
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+passage_locator:
+  label: MONTHS  AND  SEASONS. / BURIAL  CUSTOMS. / COSMOLOGY  AND  MEDICINE  BUNDLES.
+    / BIBLIOGRAPHY.; lines 8886-9079
+  start: '8886'
+  end: '9079'
+  translation: Social Life and Ceremonial Bundles of the Menomini Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: The bear covering the whole earth, being black, and all other animals of
+    a brown color.
+  summary: The passage preserves a brief cosmological or descriptive fragment in which
+    a black bear covers the whole earth, while other animals are brown; a footnote
+    identifies deer, beaver, and otter as examples. The remainder of the passage is
+    bibliography.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A bear is described as covering the whole earth.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The bear is described as black.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Other animals are described as brown.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A footnote identifies deer, beaver, and otter as examples of the other animals.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Most of the supplied line range consists of bibliography entries rather than
+    narrative or ritual description.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: black bear
+  description: A bear described as black and as covering the whole earth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: other brown animals
+  description: Animals described as brown; the footnote names deer, beaver, and otter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: earth-covering animal
+  assigned_to:
+  - fig:1
+  basis: The bear is explicitly described as covering the whole earth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: contrasted animal group
+  assigned_to:
+  - fig:2
+  basis: The passage contrasts the brown color of other animals with the black bear.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: bear
+  literal_form: black bear covering the whole earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: earth
+  literal_form: the whole earth covered by the bear
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: brown animals
+  literal_form: deer, beaver, otter, and other animals of brown color
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Bear covering the earth
+  summary: A black bear is described as covering the whole earth, while other animals
+    are brown.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: earth-covering animal
+  taxonomy_refs: []
+  basis: The passage states that the bear covers the whole earth.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is fragmentary and does not provide a full narrative context
+    or explanation.
+- id: motif:2
+  label: animal color differentiation
+  taxonomy_refs: []
+  basis: The passage distinguishes the black bear from other brown animals, with examples
+    in a footnote.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not state whether this is an origin account, cosmological
+    classification, or another type of description.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8886-8888
+  quote_or_summary: "“The bear covering the whole earth, being black, and all other
+    animals of a brown color.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 8890-8891
+  quote_or_summary: "“Deer, beaver, otter.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 8896-9079
+  quote_or_summary: The remainder of the supplied passage is a bibliography listing
+    authors and works relevant to Native American ethnography, traditions, and related
+    studies.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Only the opening fragment contains extractable motif material; the rest of
+    the supplied passage is bibliography. Motif identification is tentative because
+    the narrative context is missing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy references were assigned because the available motif and symbol lists do not contain a direct match for a bear covering the earth or animal color differentiation.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-menomini-bundles-skinner-archive__l8886-l9079
+  passage_sha256=15e848ea9e633e98915c16df52f4369203367735856ee8e288f69a2438b197e3
+

@@ -1,0 +1,200 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l22683-l22727
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 389 / APPENDEX, / BIRTHS,
+    DEATHS. / DEATHS CLASSIFIED ACCORDING TO AGE,; lines 22683-22727
+  start: '22683'
+  end: '22727'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an appendix section with a partially garbled table classifying
+    deaths by age, followed by ethnographic notes on stone drill and blade hafting
+    methods and on rules for a gambling-bones game using counters.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The section includes a deaths-by-age classification table with a stated total
+    of 33; the OCR for several age categories is unclear, and a note says no deaths
+    were recorded for adults between fifty and sixty.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Stone drills are described as made of glassy basalt, flaked like arrow-heads,
+    and hafted in handles of antler or wood.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Stone knives and stone chisels are described as hafted in wooden handles by
+    placing the blade in a slit filled with gum and applying a lashing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Stone blades could also be hafted in antler by boiling the antler to soften
+    it, driving the blade into the end, and allowing the antler to cool and dry until
+    it held the blade firmly without gum or lashing.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The same hafting methods are said to have been applied to iron tools at the
+    time of the note, and the antler-handle method is said to have been used among
+    tribes of the Fraser Delta.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In the gambling-bones game, a stake was generally valued at twelve counters
+    represented by twelve sticks, with each party starting with six counters.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: In the gambling-bones game, a wrong guess caused a party to forfeit a counter
+    to the opposing party; a right guess transferred the gambling-bones and the turn
+    to sing and hide the bones to the successful party.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The gambling-bones game ended when one party won all counters, and two pairs
+    of gambling-bones were used when many gamblers participated.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: gambling parties
+  description: Opposing parties in the gambling-bones game, each initially holding
+    six counters.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: tribes of the Fraser Delta
+  description: A group mentioned as having used the described antler hafting method.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: game participants
+  assigned_to:
+  - fig:1
+  basis: The passage describes parties guessing, forfeiting counters, receiving gambling-bones,
+    singing, hiding bones, and winning the game.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: users of hafting method
+  assigned_to:
+  - fig:2
+  basis: The passage states that the described hafting method seems to have been in
+    use among tribes of the Fraser Delta.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: stone-tool hafting methods
+  summary: The passage describes stone drills, knives, and chisels made or mounted
+    with basalt, wood, gum, lashing, and antler, including a sequence in which boiled
+    antler hardens around a stone blade.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: gambling-bones game procedure
+  summary: The passage explains a gambling game in which opposing parties use twelve
+    counters, lose counters for wrong guesses, gain the bones and the turn for right
+    guesses, and end the game when one party wins all counters.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: deaths classified by age
+  summary: The passage gives a deaths-by-age classification table with a stated total
+    and a note about no adult deaths between fifty and sixty, though several table
+    entries are garbled in the supplied text.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22683-22691, 22726
+  quote_or_summary: A deaths-by-age table is headed 'DEATHS CLASSIFIED ACCORDING TO
+    AGE' and shows a total of 33; a later note states that no deaths were recorded
+    for adults between fifty and sixty. Several table entries are OCR-garbled.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 22696-22698
+  quote_or_summary: Stone drills are described as made of glassy basalt, flaked like
+    arrow-heads, and hafted in antler or wooden handles.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 22700-22707
+  quote_or_summary: Stone knives and chisels are described as hafted in wooden handles
+    with gum and lashing, or in boiled antler that hardens around the inserted blade
+    as it cools and dries.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 22707-22711
+  quote_or_summary: The passage says the described methods were still applied to iron
+    tools, that antler handles of this kind were apparently not attached to wooden
+    handles, and that the hafting method seems to have been used among tribes of the
+    Fraser Delta.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 22715-22724
+  quote_or_summary: The gambling-bones game is described as using twelve counters,
+    six per party; wrong guesses forfeit counters, right guesses transfer the bones
+    and the turn to sing and hide, winning all counters ends the game, and two pairs
+    of bones are used with many gamblers.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: The ethnographic notes on tools and gambling are clear, but the deaths table
+    is OCR-garbled. No mythic motif or supported comparative claim is present in the
+    supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No candidate mythology motifs or taxonomy symbol refs were assigned because the passage concerns demographic notes, tool hafting, and gambling rules rather than a mythic narrative.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l22683-l22727
+  passage_sha256=c52d1851abf0ed40f882c59e9b57d947d261dcaf8bf79bf9d72a19f32e099712
+

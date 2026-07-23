@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.african-reynard-the-fox-hottentot-bleek-archive-l1417-l1450
+source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+passage_locator:
+  label: A  JACKAL  FABLES. / THE  LION'S  SSARE.  7 / JACKAL  FABLES. / THE  HYENA.;
+    lines 1417-1450
+  start: '1417'
+  end: '1450'
+  translation: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: The Jackal ascended upon it, and ate of the cloud as if it were fat.
+  summary: The passage opens with epithets addressed to the Hyena. In the fable episode,
+    Jackal and Hyena are together when a white cloud rises; Jackal climbs onto the
+    cloud, eats from it as though it were fat, and then begins speaking to Hyena before
+    coming down. The passage ends mid-speech and includes a footnote on the Hyena's
+    gait.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Hyena is addressed through a sequence of epithets describing escape from
+    tumult, getting a share with trouble, body features, eating, and large teeth.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: A footnote says that when the Hyena first starts, it appears lame on the hind
+    legs or weak in the loins.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:3
+  text: Jackal and Hyena are together when a white cloud rises.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Jackal ascends upon the white cloud.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Jackal eats from the cloud as if the cloud were fat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When Jackal wants to come down, he addresses Hyena as “My sister” and begins
+    to say that he is going to divide with her.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hyena
+  description: Animal figure named in the title, addressed by epithets, present with
+    Jackal, and addressed by Jackal as “My sister.”
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Jackal
+  description: Animal figure who is with Hyena, ascends upon the white cloud, eats
+    from it as if it were fat, and speaks to Hyena when wanting to come down.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: epithet-described animal
+  assigned_to:
+  - fig:1
+  basis: The passage addresses the Hyena with repeated descriptive “Thou” statements
+    and a note about its gait.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: companion and interlocutor
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Jackal and Hyena are together, and Jackal later addresses Hyena directly.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: cloud-ascending eater
+  assigned_to:
+  - fig:2
+  basis: Jackal climbs onto the rising white cloud and eats from it as if it were
+    fat.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: rising white cloud
+  literal_form: a white cloud that rises and can be ascended
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: edible cloud as fat
+  literal_form: the cloud eaten as if it were fat
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: wide roomy tree epithet
+  literal_form: "“wide, roomy tree” used in address to the Hyena"
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Address to the Hyena
+  summary: The passage presents a series of direct-address descriptions of the Hyena,
+    including bodily traits, eating, and difficulty in obtaining a share; a footnote
+    comments on its apparent lameness when starting.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: scene:2
+  label: Jackal on the white cloud
+  summary: Jackal and Hyena are together when a white cloud rises. Jackal ascends
+    on it, eats from it as if it were fat, and then begins speaking to Hyena when
+    he wants to descend.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ascent upon a cloud
+  taxonomy_refs:
+  - ascent
+  basis: Jackal ascends upon a risen white cloud.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe a destination above, a completed descent,
+    or a cosmological setting.
+- id: motif:2
+  label: cloud treated as food
+  taxonomy_refs: []
+  basis: Jackal eats from the cloud as if it were fat.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The text presents this as an action and simile; broader symbolic meaning
+    is not stated.
+- id: motif:3
+  label: division or sharing introduced before descent
+  taxonomy_refs: []
+  basis: When Jackal wants to come down, he tells Hyena that he is going to divide
+    with her, but the passage breaks off.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The sentence is incomplete in the supplied passage, so the object or outcome
+    of the division is unknown.
+comparison_claims:
+- id: claim:1
+  claim: At a broad motif-family level, the episode fits an ascent pattern because
+    Jackal moves from the ground situation onto a rising cloud.
+  claim_level: same_motif
+  target: 'available motif family: ascent'
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Only the upward movement is present in the supplied lines; no heavenly
+    destination, initiation, or completed return is described.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1417-1428
+  quote_or_summary: The Hyena section begins with direct-address epithets, including
+    escape from tumult, a wide roomy tree, getting a share with trouble, a cow strained
+    at the hocks, a plump knee, hairy nape, dripping skin, and a distended neck.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; source metadata says full_text allowed.
+- id: ev:2
+  type: quote
+  locator: lines 1429-1430
+  quote_or_summary: "“Thou eater of the Namaqua, / Thou big-toothed one!”"
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; source metadata says full_text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 1431-1435
+  quote_or_summary: Jackal and Hyena are together when a white cloud rises; Jackal
+    ascends upon it and eats from the cloud as if it were fat.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; source metadata says full_text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 1436-1438
+  quote_or_summary: When Jackal wants to come down, he says to Hyena, “My sister,”
+    and begins, “I am going to divide with …”; the supplied passage stops there.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; source metadata says full_text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 1441-1450
+  quote_or_summary: The footnote explains that when the Hyena first starts, it appears
+    lame on the hind legs or weak in the loins, compared to what one might say of
+    a horse.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; source metadata says full_text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main actions are clear, but the passage is affected by OCR irregularities
+    and ends in the middle of Jackal's speech.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external folklore context was used. Taxonomy references are limited to supplied available refs and directly supported passage elements.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-reynard-the-fox-hottentot-bleek-archive__l1417-l1450
+  passage_sha256=758f0a4622e8a151db14d913c5ebb979a1860b6b14d92a15648bd295f5a068fa
+

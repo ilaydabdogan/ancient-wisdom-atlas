@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l24676-l24717
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: RECALLING  THE  SOUL / INVOCATIONS  TO  THE  SOUL / DANCES / BAJVCES,  SPORTS,  AND  GAMES;
+    lines 24676-24717
+  start: '24676'
+  end: '24717'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Malay dance as entertainment involving women dancers,
+    foot-shuffling and hand-swaying, accompanied by drums, sticks, and a metal gong.
+    It then describes a Pahang custom in which the ruler and close relatives keep
+    trained dancing girls who perform the Joget privately for the ruler and his friends,
+    with probable Javanese origin noted by the author.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A usual Malay dance spectacle is described as a couple of women shuffling
+    their feet and swaying their hands.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dance is accompanied by native drums, two short sticks struck together,
+    and occasional sounds from a metal gong.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The entertainment is said to fascinate Malays and generally forms part of
+    a theatrical performance.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In Pahang, the ruler and one or two near relatives customarily keep trained
+    dancing girls.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Pahang dancers perform what is called the Joget, described as a real dance
+    with musical accompaniment.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The budak joget belong to the Raja’s household and may be attached to him
+    by a closer tie.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Joget is performed seldom, for the amusement of the dancers’ lord and
+    his friends, and the public are not admitted.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The author states that the Pahang dance is probably originally from Java.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: couple of women dancers
+  description: Women who perform the usual Malay dance by shuffling their feet and
+    swaying their hands.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Malays as spectators
+  description: Malay audience members for whom the entertainment has fascination.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: ruler of Pahang
+  description: The ruler who keeps trained dancing girls in the described Pahang custom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: near relatives of the ruler
+  description: One or two near relatives of the ruler who also keep trained dancing
+    girls.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: budak joget
+  description: Trained dancing girls belonging to the Raja’s household who perform
+    the Joget.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: lord and friends
+  description: The private audience for whom the budak joget perform.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: public
+  description: People explicitly not admitted to the private Joget performance.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: dancer or performer
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: These figures are described as dancing or performing a named dance.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: spectator or audience
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: These figures are described as watching or being amused by the entertainment.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: elite patron or keeper of dancers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The ruler and near relatives are said to keep trained dancing girls.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: household dependent
+  assigned_to:
+  - fig:5
+  basis: The budak joget are said to belong to the Raja’s household.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: excluded audience
+  assigned_to:
+  - fig:7
+  basis: The public are stated not to be admitted to the performance.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: native drums
+  literal_form: drums used as accompaniment for the dance
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: paired short sticks
+  literal_form: two short sticks held in either hand and struck together
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: metal gong
+  literal_form: metal gong occasionally sounded during the dance
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Joget
+  literal_form: named Pahang dance performed by trained dancing girls
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:5
+  label: rude orchestral instruments
+  literal_form: orchestral instruments used for the Joget, described as very rude
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: usual Malay dance spectacle
+  summary: A couple of women dance by shuffling their feet and swaying their hands
+    while drums, sticks, and a metal gong provide accompaniment; the entertainment
+    is associated with theatrical performance and Malay spectators.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: private Pahang Joget performance
+  summary: In Pahang, the ruler and close relatives keep trained dancing girls who
+    belong to the Raja’s household and perform the Joget privately for their lord
+    and his friends, with the public excluded.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: dance performed as entertainment before spectators
+  taxonomy_refs: []
+  basis: The passage describes dancers performing for amusement and a dance spectacle
+    accompanied by instruments.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a social-performance pattern rather than a mythic narrative motif.
+- id: motif:2
+  label: private court dance by household dancing girls
+  taxonomy_refs: []
+  basis: The Pahang Joget is performed by trained dancing girls belonging to the Raja’s
+    household for the ruler and his friends, with the public excluded.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage presents an ethnographic custom; no mythic or ritual efficacy
+    is stated in this excerpt.
+- id: motif:3
+  label: dance tradition attributed to foreign origin
+  taxonomy_refs: []
+  basis: The author states that the Pahang form is peculiar among the Malay States
+    but probably came originally from Java.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The claim is the author’s probability statement and is not supported with
+    additional evidence in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The Pahang Joget is cautiously linked by the author to Java as a probable
+    place of origin.
+  claim_level: historical_contact
+  target: Java
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief authorial statement of probability and
+    does not provide details of transmission, dates, or Javanese parallels.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 24676-24717
+  quote_or_summary: The usual Malay dance is described as a couple of women shuffling
+    their feet and swaying their hands.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 24676-24717
+  quote_or_summary: The dance accompaniment includes native drums, two short sticks
+    struck together, and an occasional metal gong.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 24676-24717
+  quote_or_summary: The entertainment is said to fascinate Malays and usually forms
+    part of a theatrical performance, though the author calls it dull for Western
+    spectators.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 24676-24717
+  quote_or_summary: In Pahang, the ruler and one or two near relatives have long kept
+    trained dancing girls.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 24676-24717
+  quote_or_summary: The Pahang dancers perform the Joget, described as a real dance
+    with musical accompaniment and rude orchestral instruments.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 24676-24717
+  quote_or_summary: The budak joget belong to the Raja’s household and may be connected
+    to him by a closer tie.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 24676-24717
+  quote_or_summary: The budak joget perform seldom, only for their lord and his friends,
+    and the public are not admitted.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 24676-24717
+  quote_or_summary: The author says the Pahang dance is probably peculiar to Pahang
+    among the Malay States and probably came originally from Java.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is descriptive and ethnographic; extraction of objects, roles,
+    and scenes is direct, while motif labels are broad performance-pattern labels
+    rather than established mythological motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family or symbol reference is directly supported by this passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l24676-l24717
+  passage_sha256=64f89857615ab5d2088f271e5efed23c7aac1276b7bc55ec92b4291d53ef759c
+

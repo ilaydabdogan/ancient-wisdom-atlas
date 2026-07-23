@@ -1,0 +1,324 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l17630-l17648
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE  BEAR  MEDICINE  AND  CEREMONY.  349 / THE  BEAR  MEDICINE  AND  CEREMONY.  351
+    / THE  BEAR  MEDICINE  AND  CEREMONY.  353 / THE  BEAR  MEDICINE    AND  CEREMONY.  355;
+    lines 17630-17648
+  start: '17630'
+  end: '17648'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: He started out and went directly west.
+  summary: A boy asks his mother for moccasins and food, says he is going alone rather
+    than with a war party, receives moccasins filled with food, equips himself at
+    night, and travels west. After his food is gone, he becomes hungry, weak, dizzy,
+    and believes he is dying; he sees a hill and decides to go lie down on it.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The boy asks his mother for one or two pairs of moccasins and a little something
+    to eat.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mother initially refuses, saying there is no use in his trying to join
+    war parties.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The young man says he is not going with any war party but is going alone.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mother gives him two pairs of moccasins, one filled with parched com and
+    the other with pemmican.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At night he puts on leggings and moccasins, covers his shoulders with a robe,
+    takes a quiver, ties a buffalo-hair lariat rope around his waist, and hangs the
+    moccasins from it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: He starts out and goes directly west.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: He eats small amounts of meat and kernels of com each day until all the food
+    is gone.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: He becomes very hungry and thin, can walk only a short distance, must stop
+    and lie down, and feels his strength leaving him.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: He feels dizzy, cannot see far, believes he must be dying, sees a nearby hill,
+    and decides to go lie down on it.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: boy / young man
+  description: A male youth who asks his mother for supplies, says he is going alone,
+    travels west, and becomes weak and near death.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: mother
+  description: The boy's mother, who initially refuses his request but then gives
+    him moccasins filled with food.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: departing solitary traveler
+  assigned_to:
+  - fig:1
+  basis: He says he is going alone, equips himself, and starts directly west.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: mother and provider
+  assigned_to:
+  - fig:2
+  basis: She is addressed as mother and gives the boy moccasins filled with food.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: weakened near-death traveler
+  assigned_to:
+  - fig:1
+  basis: After his food is gone, he becomes hungry, thin, dizzy, and believes he must
+    be dying.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: provision moccasins
+  literal_form: Two pairs of moccasins, one filled with parched com and one filled
+    with pemmican.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: westward direction
+  literal_form: The route described as directly west.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: travel equipment
+  literal_form: Leggings, moccasins, covering robe, quiver, and buffalo-hair lariat
+    rope worn or carried at departure.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: hill
+  literal_form: A nearby hill where the boy decides to go and lie down when he thinks
+    he may die.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Request for supplies
+  summary: The boy asks his mother for moccasins and food; she first refuses because
+    she thinks he intends to join war parties, and he says he is going alone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Receiving and arranging provisions
+  summary: The mother gives him two pairs of moccasins filled with parched com and
+    pemmican; at night he dresses, takes his quiver, ties a lariat rope around his
+    waist, and hangs the moccasins from it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Westward solitary travel
+  summary: He starts directly west and consumes his food gradually until none remains.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Weakness and hill
+  summary: After continuing without food, he becomes weak and dizzy, thinks he must
+    be dying, sees a nearby hill, and decides to go lie down there.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Solitary departure with provisions
+  taxonomy_refs:
+  - departure
+  basis: The boy asks for supplies, states he is going alone, prepares at night, and
+    goes directly west.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The excerpt does not state his destination or ultimate purpose.
+- id: motif:2
+  label: Lone deprivation ordeal
+  taxonomy_refs:
+  - initiation
+  basis: The traveler continues after his provisions are gone, becomes hungry and
+    weak, and reaches a state in which he believes he is dying.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: The passage does not explicitly identify the journey as an initiation
+    or ritual ordeal; the classification is only a candidate pattern.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage has the same functional pattern as a departure motif: a youth
+    obtains travel supplies, says he is going alone, prepares at night, and heads
+    west.'
+  claim_level: same_function
+  target: departure motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is not a claim of historical contact or common inheritance; the
+    excerpt does not give the journey's destination or outcome.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 17630-17631
+  quote_or_summary: '"Mother, can you give me one or two pairs of moccasins and a
+    little something to eat?"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; short excerpt from provided passage.
+- id: ev:2
+  type: summary
+  locator: 17632-17635
+  quote_or_summary: The mother refuses because she thinks he is trying to join war
+    parties; the young man replies that he is not going with a war party but is going
+    alone.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 17635-17636
+  quote_or_summary: The mother gives him two pairs of moccasins, one pair filled with
+    parched com and the other filled with pemmican.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 17636-17640
+  quote_or_summary: At night the boy puts on travel clothing, takes his quiver, ties
+    a buffalo-hair lariat rope around his waist, and hangs his moccasins from it.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:5
+  type: quote
+  locator: '17640'
+  quote_or_summary: '"He started out and went directly west."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; short excerpt from provided passage.
+- id: ev:6
+  type: summary
+  locator: 17640-17645
+  quote_or_summary: He eats small amounts each day until the food is gone, then continues
+    while very hungry, thin, and weak, needing to stop and lie down.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: 17646-17648
+  quote_or_summary: He feels dizzy, cannot see far, believes he must be dying, sees
+    a hill nearby, and decides to go to it and lie down there.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for actions, figures, objects, and sequence.
+    Motif assignment beyond departure is more tentative because the excerpt stops
+    before the journey's outcome.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Source spelling such as "parched com" is preserved where it appears in the provided passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l17630-l17648
+  passage_sha256=7bf570fa5e2302983dcaf2df969b7b6deb17371dc187a609269ff82b4e428e6f
+

@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l21536-l21565
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 361 / TEIT, THE THOMPSON
+    INDIANS OF BRITISH COLUMBIA. 363 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA.
+    367 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 369; lines 21536-21565
+  start: '21536'
+  end: '21565'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage lists surgical and therapeutic practices: piercing and treating
+    boils, puncturing painful joints, treating cataract with charred bear bone and
+    cutting or piercing, removing warts and moles, cauterizing rheumatic pains with
+    burning charcoal, and shamans prescribing foods or medicines when instructed in
+    dreams.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Boils are described as pierced with porcupine quills, with matter squeezed
+    out and rubbed on a grave-pole to prevent recurrence.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A painful joint is described as pierced with long, sharp awls.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: For cataract, the eyeball is touched with rough, charred black-bear bone,
+    and the raised cataract skin is pierced with an awl or cut with a very sharp knife.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Warts are described as cut off close to the skin, and hot black moss is placed
+    on the fresh wound.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Moles are described as lacerated with an arrow-point and allowed to bleed
+    freely; two treatments are said to remove the mole.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Moles are attributed to blood darker than usual accumulating at a particular
+    spot.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Rheumatic pains are treated by placing powdered charcoal on the affected part
+    and burning it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Shamans sometimes prescribe foods or medicine to patients after receiving
+    advice in dreams.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Examples of dream-advised prescriptions include giving small fish or potato-parings
+    to eat so that a sick person would become well.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: patients
+  description: Sick persons or people with boils, painful joints, cataract, warts,
+    moles, or rheumatic pains who receive treatments.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: shamans
+  description: Practitioners who sometimes prescribe foods or medicine for patients
+    when advised in dreams.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: patient or afflicted person
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly describes treatments for affected body parts and mentions
+    patients and sick persons receiving prescriptions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: shamanic prescriber
+  assigned_to:
+  - fig:2
+  basis: The passage states that shamans prescribe food or medicine for patients.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: dream-guided practitioner
+  assigned_to:
+  - fig:2
+  basis: The passage states that shamans prescribe when advised in dreams.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fire and heat in treatment
+  literal_form: charred black-bear bone, black moss exposed to fire until hot, and
+    powdered charcoal burned on the affected part
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: grave-pole as site for discarded matter
+  literal_form: grave-pole on which matter from boils is rubbed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: dream instruction
+  literal_form: advice received in dreams directing shamans to prescribe food or medicine
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: piercing instruments
+  literal_form: porcupine-quills, awls, arrow-point, and sharp knife used in therapeutic
+    procedures
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Boil treatment and transfer to grave-pole
+  summary: Boils are pierced, their matter is squeezed out, and the matter is rubbed
+    on a grave-pole, which is said to prevent the trouble from returning.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Piercing treatments for pain and eye cataract
+  summary: Painful joints are pierced with awls, and cataract is treated by using
+    charred black-bear bone to raise the skin before piercing or cutting it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Removal of skin growths
+  summary: Warts are cut away and treated with heated black moss, while moles are
+    lacerated with an arrow-point and bled freely.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Cauterizing rheumatic pain
+  summary: Powdered charcoal is placed on the affected part and burned as a treatment
+    for rheumatic pains.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Dream-advised shamanic prescription
+  summary: Shamans prescribe foods or medicines for patients when advised in dreams,
+    including small fish or potato-parings in the examples given.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: ailment matter placed on grave-pole to prevent recurrence
+  taxonomy_refs: []
+  basis: The passage states that matter from boils is rubbed on a grave-pole and that
+    this is believed to prevent the trouble from returning.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a therapeutic belief but does not explain the mechanism
+    or broader ritual context.
+- id: motif:2
+  label: healing by piercing or cutting the affected part
+  taxonomy_refs: []
+  basis: Several treatments involve piercing, lacerating, cutting, or puncturing affected
+    body parts or growths with quills, awls, knives, or arrow-points.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a procedural pattern within the passage, not necessarily a mythic
+    motif.
+- id: motif:3
+  label: healing through heat, fire, or burning substances
+  taxonomy_refs: []
+  basis: The passage describes charred bear bone in cataract treatment, hot fire-exposed
+    moss on wounds, and burning powdered charcoal on rheumatic pains.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy contains a fire symbol, but no specific healing-by-fire
+    motif family is supplied.
+- id: motif:4
+  label: dream-guided shamanic prescription
+  taxonomy_refs:
+  - wisdom
+  basis: Shamans are said to prescribe food or medicine after being advised in dreams,
+    and examples are given of dream-directed foods intended to restore health.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The association with the supplied taxonomy ref 'wisdom' is broad; the
+    passage itself describes practical dream instruction rather than an explicit wisdom
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21538-21541
+  quote_or_summary: Boils are pierced with porcupine-quills; matter is squeezed out
+    and rubbed on a grave-pole, which is believed to prevent recurrence.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 21542-21543
+  quote_or_summary: For pains in joints, the affected joint is pierced with long,
+    sharp awls.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 21544-21548
+  quote_or_summary: For cataract, the eyeball is touched with rough, charred black-bear
+    bone; the adhered skin is raised and then pierced with an awl or cut with a sharp
+    knife.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 21549-21552
+  quote_or_summary: Warts are cut off close to the skin, and black moss heated by
+    fire is placed on the fresh wound.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 21553-21558
+  quote_or_summary: Moles are lacerated with an arrow-point and allowed to bleed;
+    they are said to be caused by darker-than-usual blood accumulating in one spot.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 21559-21560
+  quote_or_summary: For rheumatic pains, powdered charcoal is placed on the affected
+    part and burned.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 21561-21565
+  quote_or_summary: Shamans sometimes prescribe food or medicine when advised in dreams;
+    examples include small fish or potato-parings given to patients to help them become
+    well.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily ethnographic medical description rather than narrative
+    mythology; procedural patterns are clear, but mythic motif classification is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not make a comparison to another tradition or motif family.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l21536-l21565
+  passage_sha256=d4d903a7deb0d1d057b71dab101f769a562240f141c56758143628ad8d131b94
+

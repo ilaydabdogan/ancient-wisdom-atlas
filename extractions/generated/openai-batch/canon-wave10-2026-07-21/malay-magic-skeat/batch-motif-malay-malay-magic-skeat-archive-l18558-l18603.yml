@@ -1,0 +1,397 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l18558-l18603
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: BIRTH-SPIRITS / BIRTH-SPIRITS / BIRTH  CEREMONIES / ENGAGING  A MIDWIFE;
+    lines 18558-18603
+  start: '18558'
+  end: '18603'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a Bidan receiving and charming a cherana containing
+    betel-chewing accessories, pouring out the contents to read omens, chewing betel,
+    and using several forms of divination to learn the child's horoscope. When childbirth
+    approaches, she is fetched to identify the luckiest birth place in the house,
+    using structural rules and a hatchet or cutlass blade test; a rattan loop is hung
+    from the rafters to help the patient sit up.
+  language: English with Malay ritual terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Bidan receives the cherana, charms its contents, inverts it, and pours
+    the contents onto the floor.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Bidan takes omens for the coming event from the way the cherana contents
+    fall; a note says betel-leaf adhering to the cherana is a bad sign.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:3
+  text: After the omen-taking, the Bidan begins to chew betel-leaf and takes as much
+    as she requires.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Bidan generally performs divination to ascertain the nature of the child's
+    horoscope.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Listed methods for determining the child's horoscope include astrological
+    calculations, numerical calculation of both parents' names by the abjad alphabet,
+    observation of a wax taper on a jar of water, and observation of a cup of betel-leaf
+    water.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: When the time arrives, the Bidan is sent for and escorted to the place of
+    childbirth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Bidan points out the luckiest place in the house for the child to be born;
+    the place must be between, not under, the ends of the palm-thatch slats.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The exact spot is found by repeatedly dropping the blade of a hatchet or cutlass
+    haft-downwards into the ground below the raised floor until it sticks upright.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A rattan loop is suspended from the rafters so the patient can raise herself
+    into a sitting posture.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bidan
+  description: The midwife who receives and charms the cherana, performs divination,
+    and identifies the lucky birth place.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: child
+  description: The expected child whose horoscope is to be ascertained and whose birth
+    place is selected.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: patient
+  description: The childbirth patient for whom a rattan loop is hung to help her sit
+    up.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: both parents
+  description: The parents whose names may be used in numerical calculations for the
+    child's horoscope.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: midwife or birth attendant
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the Bidan in the context of engaging a midwife and
+    shows her being sent for at the time of childbirth.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: diviner and omen-reader
+  assigned_to:
+  - fig:1
+  basis: The Bidan charms the cherana contents, reads omens from their fall, and performs
+    divination for the child's horoscope.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: subject of horoscope and birth-place selection
+  assigned_to:
+  - fig:2
+  basis: The passage states that the child's horoscope is ascertained and that a lucky
+    place is chosen for the child to be born.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: childbirth patient
+  assigned_to:
+  - fig:3
+  basis: A rattan loop is suspended to help the patient raise herself to a sitting
+    posture.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: names used in calculation
+  assigned_to:
+  - fig:4
+  basis: One horoscope method uses the numerical values of both parents' names according
+    to the abjad alphabet.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: cherana with betel accessories
+  literal_form: cherana containing the usual accessories of the betel-chewing ceremony
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: betel-leaf
+  literal_form: betel-leaf poured out, observed for adherence, and chewed by the Bidan
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:3
+  label: abjad numerical calculation
+  literal_form: numerical values of both parents' names calculated according to the
+    abjad or secret cipher alphabet
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: wax taper and jar of water
+  literal_form: a wax taper fixed upon the brim of a jar of water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: betel-leaf water
+  literal_form: a cup of betel-leaf water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: hatchet or cutlass blade
+  literal_form: blade of a hatchet or cutlass dropped haft-downwards into the ground
+    below the raised floor
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: rattan loop
+  literal_form: rattan loop suspended from the rafters
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: lucky birth place in the house
+  literal_form: a spot between the ends of palm-thatch slats, identified when the
+    dropped blade sticks upright below the raised floor
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Cherana omen-taking
+  summary: The Bidan charms the cherana contents, pours them onto the floor, and reads
+    omens from their fall before chewing betel-leaf.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: scene:2
+  label: Determining the child's horoscope
+  summary: The Bidan performs divination to ascertain the child's horoscope through
+    possible methods including astrology, name-number calculation, a taper on water,
+    or betel-leaf water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Selecting the lucky birth place
+  summary: When fetched for childbirth, the Bidan identifies the luckiest place in
+    the house, avoiding the ends of palm-thatch slats and using a dropped blade to
+    find the exact spot.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Suspending the rattan loop
+  summary: A rattan loop is hung from the rafters to help the patient raise herself
+    to a sitting posture.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritualized birth preparation
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage presents childbirth as prepared through omen-taking, horoscope
+    divination, selection of a lucky birth place, and ritual objects used by a midwife.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes ordinary birth ceremonies rather than a divine or
+    miraculous birth; the taxonomy link is broad.
+- id: motif:2
+  label: birth divination and omen-reading
+  taxonomy_refs: []
+  basis: The Bidan reads omens from the fall of cherana contents and uses several
+    divinatory methods to determine the child's horoscope.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: No specific taxonomy reference for birth-divination was supplied.
+- id: motif:3
+  label: auspicious place selection for childbirth
+  taxonomy_refs: []
+  basis: The Bidan chooses the luckiest place in the house for the birth and verifies
+    the exact spot by a blade-sticking test below the raised floor.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives the procedure but does not explain a wider cosmological
+    rationale.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18558-18603, first paragraph
+  quote_or_summary: The Bidan receives the cherana, charms its contents, inverts it,
+    pours the contents onto the floor, reads omens from the way they fall, and then
+    chews betel-leaf.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 18558-18603, first paragraph
+  quote_or_summary: The Bidan may perform divination to ascertain the child's horoscope,
+    using astrology, abjad name-number calculations, a wax taper on a jar of water,
+    or a cup of betel-leaf water.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 18558-18603, second paragraph
+  quote_or_summary: When the time arrives, the Bidan is fetched and escorted; she
+    points out the luckiest place in the house for the child to be born, between rather
+    than under the ends of palm-thatch slats.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 18558-18603, second paragraph
+  quote_or_summary: The exact birth spot is discovered by repeatedly dropping a hatchet
+    or cutlass blade haft-downwards into the ground below the raised floor until it
+    sticks upright.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 18558-18603, second paragraph
+  quote_or_summary: A rattan loop is suspended from the rafters over the area to enable
+    the patient to raise herself into a sitting posture.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 18558-18603, footnote 1
+  quote_or_summary: A note states that if the betel-leaf adheres to the cherana, this
+    is a bad sign.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal ritual actions and objects are explicit. Motif labeling is cautious
+    because the supplied taxonomy has only a broad sacred_birth category for these
+    birth rites. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction is limited to the supplied passage and metadata; sublocators use paragraph and footnote labels within the provided line range.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l18558-l18603
+  passage_sha256=b36b835f393d2ff6ebac928a453a78d176de81c5a2f495cab74fe6690f36d0f2
+

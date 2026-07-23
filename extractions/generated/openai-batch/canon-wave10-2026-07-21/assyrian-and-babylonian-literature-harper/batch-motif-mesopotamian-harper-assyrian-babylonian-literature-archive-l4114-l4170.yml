@@ -1,0 +1,245 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l4114-l4170
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: XXX       ASSYRIAN   AND   BABYLONIAN  LITERATURE / THE    TOWER    OF  BABEL.
+    / I    I / CONTENTS; lines 4114-4170
+  start: '4114'
+  end: '4170'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents passage listing translated sections in Assyrian and
+    Babylonian Literature, including the Gilgamesh Narrative/Babylonian Nimrod Epic,
+    Deluge accounts, Magical Texts, a Ritual Tablet, Ishtar's Descent to Hades, Oracles
+    in favour of Esarhaddon, prayers and hymns, penitential psalms, laws, proverbs,
+    reports of magicians and astrologers, a chronological table, and a translation/copyright
+    note.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a contents listing with titles, translators, and page references
+    rather than a narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:2
+  text: One entry names 'The Gilgamesh Narrative' and says it is usually called the
+    'Babylonian Nimrod Epic.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One entry lists other accounts of and references to the Deluge.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage lists magical texts identified parenthetically as Maqlu and Shurpu,
+    followed by an entry for a ritual tablet.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One title names Ishtar's descent to Hades.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: One title names oracles given in favour of Esarhaddon.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Later entries list prayers, hymns, penitential psalms, laws, proverbs, reports
+    of magicians and astrologers, a chronological table, and a note about translation
+    copyright in the edition.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Gilgamesh
+  description: Named in the contents title as the subject of 'The Gilgamesh Narrative.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Nimrod
+  description: Named in the alternate title phrase 'Babylonian Nimrod Epic.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Ishtar
+  description: Named in a title as descending to Hades.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Esarhaddon
+  description: Named as the person in whose favour oracles are given.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: named narrative figure
+  assigned_to:
+  - fig:1
+  basis: The contents entry is titled 'The Gilgamesh Narrative.'
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: figure in alternate epic title
+  assigned_to:
+  - fig:2
+  basis: The contents entry says the Gilgamesh Narrative is usually called the 'Babylonian
+    Nimrod Epic.'
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: descending figure
+  assigned_to:
+  - fig:3
+  basis: The title states 'Ishtar's Descent to Hades.'
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: beneficiary of oracles
+  assigned_to:
+  - fig:4
+  basis: The title states that oracles are given in favour of Esarhaddon.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Deluge
+  literal_form: Deluge
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Hades
+  literal_form: Hades
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Deluge or flood accounts
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The contents entry explicitly names accounts of and references to the Deluge.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The title supports a flood/deluge motif, but the passage gives no narrative
+    details and does not state renewal.
+- id: motif:2
+  label: Descent to Hades
+  taxonomy_refs:
+  - hero_descent
+  basis: The contents entry is titled 'Ishtar's Descent to Hades.'
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is only a title; it does not provide the descent narrative,
+    return, purpose, or outcome.
+- id: motif:3
+  label: Oracular favour
+  taxonomy_refs: []
+  basis: The contents entry names oracles given in favour of Esarhaddon.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The title indicates favourable oracles, but the passage does not identify
+    speakers, divine agents, political function, or ritual context.
+comparison_claims:
+- id: claim:1
+  claim: Within this edition's contents, 'The Gilgamesh Narrative' is explicitly associated
+    with the alternate title 'Babylonian Nimrod Epic.'
+  claim_level: linguistic_similarity
+  target: Babylonian Nimrod Epic
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial/title association in the contents; the passage
+    provides no narrative comparison between Gilgamesh and Nimrod.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4114-4117
+  quote_or_summary: '"The Gilgamesh Narrative, usually called the Babylonian Nimrod
+    Epic"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain per supplied metadata; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 4118-4121
+  quote_or_summary: '"Some Other Accounts of and References to the Deluge"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain per supplied metadata; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 4122-4132
+  quote_or_summary: '"The Magical Texts (Maqlu and Shurpu)" and "A Ritual Tablet"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain per supplied metadata; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 4133-4136
+  quote_or_summary: '"Ishtar''s Descent to Hades"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain per supplied metadata; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 4137-4140
+  quote_or_summary: '"Oracles given in Favour of Esarhaddon"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain per supplied metadata; short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 4141-4170
+  quote_or_summary: The remaining contents entries list prayers and hymns, penitential
+    psalms, laws, proverbs and sayings, reports of magicians and astrologers of Nineveh
+    and Babylon, a chronological table, and a note about translations and copyright
+    in the edition.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain per supplied metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a contents page, so literal title extraction is strong, but
+    motif identification is limited to what the titles themselves state.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The supplied locator label mentions 'The Tower of Babel,' but the provided passage_text is a contents listing and does not include a Tower of Babel narrative; no Tower of Babel motif was extracted.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l4114-l4170
+  passage_sha256=7cc7ac3b5761465082b8637386438029c9ef86bc39fc24c3b21c927869cceb9e
+

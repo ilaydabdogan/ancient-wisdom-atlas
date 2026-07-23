@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l2192-l2209
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: FIFTH  BOOK  OF  THE  ROYAL / CHAPTER  XV. / HOW  THEY  PAID  THEIR  TRIBUTE.
+    THE  AMOUNT  OF  IT,  AND / THE  LAWS  CONCERNING  IT.; lines 2192-2209
+  start: '2192'
+  end: '2209'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces a chapter on Ynca tribute and states that the tribute
+    collected from vassals was very moderate. It says the Yncas effectively paid the
+    vassals and taxed themselves for the good of their people, and that many Indians
+    paid scarcely the value of four reals.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chapter is presented as concerning how tribute was paid, its amount, and
+    the laws concerning it.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the Yucas or Kings Yncas collected tribute from their vassals.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The tribute is described as very moderate and as beyond comparison with ancient
+    rulers, including Caesars called Augustus and Pius.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says the Yncas did not really receive tribute from their vassals,
+    but rather paid the vassals and imposed a tax on themselves for the good of their
+    people.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The amount of tribute is described as very small, and many Indians are said
+    to have paid scarcely the value of four reals.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Yucas / Kings Yncas of Peni
+  description: Rulers who are said to have collected tribute from vassals; the passage
+    describes their tribute as moderate and says they effectively paid vassals and
+    taxed themselves for the people.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: vassals
+  description: People from whom tribute was collected; the passage also says the Yncas
+    rather paid them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the ancients / great Caesars Augustus and Pius
+  description: Ancient rulers named as a point of comparison for the moderation of
+    Ynca tribute.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: many Indians
+  description: People said to have scarcely paid the value of four reals in tribute.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: tribute-collecting rulers
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Yucas or Kings of Peni collected tribute from
+    their vassals.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: self-taxing benevolent rulers
+  assigned_to:
+  - fig:1
+  basis: The passage says the Yncas rather paid the vassals and imposed a tax on themselves
+    for the good of their people.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: vassal subjects
+  assigned_to:
+  - fig:2
+  basis: The vassals are identified as those from whom tribute was collected and as
+    those whom the Yncas are said to have paid.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: comparative ancient rulers
+  assigned_to:
+  - fig:3
+  basis: The great Caesars called Augustus and Pius are mentioned as ancient rulers
+    not comparable to the Kings Yncas in this respect.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: low-paying tribute subjects
+  assigned_to:
+  - fig:4
+  basis: Many Indians are said to have scarcely paid the value of four reals.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Description of the Ynca tribute system
+  summary: The narrator explains that Ynca tribute was moderate, compares it favorably
+    against ancient rulers, presents it as a reversed or reciprocal relation in which
+    the rulers paid vassals and taxed themselves, and notes that many Indians paid
+    only a very small amount.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: benevolent royal taxation as royal legitimacy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage praises the Kings Yncas for moderate tribute and for taxing themselves
+    for the good of their people, presenting their rule as exceptionally beneficial
+    to subjects.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a historiographical and administrative passage, not an explicit
+    mythic episode; the royal-legitimacy motif is inferred from the praise of rulership.
+- id: motif:2
+  label: reversal of tribute relation
+  taxonomy_refs: []
+  basis: The passage states that the Yncas did not really receive tribute but rather
+    paid the vassals, reversing the expected direction of tribute obligation.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage describes an economic-political pattern; it does not mark
+    the exchange as sacred or ritual.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the moderation of Ynca tribute with ancient
+    rulers, including Caesars called Augustus and Pius, and asserts that the Yncas
+    surpass them in this respect.
+  claim_level: same_function
+  target: ancient rulers / Caesars Augustus and Pius
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is evaluative and administrative; it does not imply
+    historical contact, common inheritance, or a shared mythic tradition.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2192-2209
+  quote_or_summary: '"HOW THEY PAID THEIR TRIBUTE. THE AMOUNT OF IT, AND THE LAWS
+    CONCERNING IT."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; quotation from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2192-2209
+  quote_or_summary: The passage says the Yucas, Kings of Peni, collected tribute from
+    their vassals; it describes this tribute as so moderate that not even ancient
+    rulers or the Caesars called Augustus and Pius could be compared to the Kings
+    Yncas in this respect.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 2192-2209
+  quote_or_summary: '"the Yncas rather paid the vassals, and imposed a tax on themselves
+    for the good of their people"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2192-2209
+  quote_or_summary: The passage states that the amount of tribute was very small and
+    that many Indians scarcely paid the value of four reals.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The administrative content is clear, though the passage contains apparent
+    OCR spellings such as 'Yucas' and 'Peni'. Motif classification is more tentative
+    because the passage is not an explicit myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy symbol from the provided symbol list is present in the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l2192-l2209
+  passage_sha256=c000615dca99a4895c7e5f6c0576f51913251ddf2cfc0402021ac4055bd553b6
+

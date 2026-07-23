@@ -1,0 +1,273 @@
+---
+record_id: batch.motif.native-american-creation-myths-curtin-archive-l21566-l21576
+source_text_path: texts/public-domain/native-american-california/project-gutenberg/creation-myths-primitive-america-curtin.md
+passage_locator:
+  label: ILHATAINA / HITCHINNA / TIRUKALA / THE    FINDING   OF    FIRE; lines 21566-21576
+  start: '21566'
+  end: '21576'
+  translation: Creation Myths of Primitive America
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces a fire-bringing myth pattern in which fire is obtained
+    by theft and followed by strenuous pursuit. In one example, relays carry the fire
+    rapidly along a road; when pursuers nearly catch up, the fire is handed to a being
+    who later becomes the turtle, who hides it in his mouth and rolls into a deep
+    river until the masters of fire give up and return home sorrowing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the topic as the finding or bringing of fire.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that, in the fire-bringing myths under discussion, fire
+    is obtained by stealing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the pursuit after the taking of fire is strenuous.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: In one myth, relays are placed along the road at short intervals.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The relays hand the fire to one another in great haste.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: When the pursuers come very near, the fire is given to a being who afterward
+    becomes the turtle.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The being who afterward becomes the turtle puts the fire, called a treasure,
+    in his mouth and rolls into a deep river.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The being hides in the river until the masters of fire, baffled, turn homeward
+    sorrowing.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: relays along the road
+  description: A group posted at short intervals who pass the fire onward in haste.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: being who afterward becomes the turtle
+  description: The final recipient of the fire, who places it in his mouth and hides
+    in a deep river.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: pursuers / masters of fire
+  description: The pursuers who are described as the masters of fire and who eventually
+    turn homeward sorrowing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: fire relay carriers
+  assigned_to:
+  - fig:1
+  basis: They deliver the fire from one to another in great haste.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: final fire-hider
+  assigned_to:
+  - fig:2
+  basis: He receives the fire when the pursuers are near, places it in his mouth,
+    and hides in a deep river.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: pursuing masters of fire
+  assigned_to:
+  - fig:3
+  basis: They pursue the stolen fire and are later called the masters of fire.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: fire as treasure
+  literal_form: fire, later called the treasure
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: deep river refuge
+  literal_form: deep river
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: mouth concealment
+  literal_form: the fire placed in the mouth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: General fire theft pattern
+  summary: The passage frames fire-bringing myths as involving theft and strenuous
+    pursuit.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Relay transport of the fire
+  summary: Relays posted along a road pass the fire from one to another in haste.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Turtle figure hides the fire in the river
+  summary: As the pursuers draw near, the fire is handed to the being later known
+    as the turtle, who hides it in his mouth and rolls into a deep river until the
+    masters of fire abandon the chase.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: theft of fire
+  taxonomy_refs:
+  - sacred_theft
+  basis: The passage explicitly states that fire is procured by stealing in the fire-bringing
+    myths under discussion.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not identify the original thief in the one summarized
+    myth.
+- id: motif:2
+  label: pursuit after stolen fire
+  taxonomy_refs:
+  - sacred_theft
+  basis: The passage connects the taking of fire with strenuous pursuit and describes
+    pursuers nearly catching up to the carriers.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The pursuers' exact identity beyond 'masters of fire' is not given.
+- id: motif:3
+  label: relay transmission of fire
+  taxonomy_refs: []
+  basis: Relays posted along the road pass the fire to one another in great haste.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader taxonomy reference is supplied for relay carrying.
+- id: motif:4
+  label: fire hidden in a turtle figure's mouth under water
+  taxonomy_refs: []
+  basis: The final recipient, later the turtle, places the fire in his mouth and hides
+    in a deep river until the masters of fire leave.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage states that the being afterward becomes the turtle but does
+    not narrate the transformation itself.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents this episode as part of a broader set of fire-bringing
+    myths in which fire is obtained by theft and followed by strenuous pursuit.
+  claim_level: same_motif
+  target: other 'Indian myths of the bringing of fire' as phrased in the source passage
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is an editorial generalization in the passage; no specific
+    parallel texts are named in this excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 21566-21569
+  quote_or_summary: The passage is headed 'THE FINDING OF FIRE' and states that in
+    such fire-bringing myths fire is 'procured by stealing' and pursuit is strenuous.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/creation-myths-primitive-america-curtin.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 21570-21572
+  quote_or_summary: In one myth, relays are posted along a road at short intervals
+    and pass the fire to one another quickly.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/creation-myths-primitive-america-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 21572-21576
+  quote_or_summary: When pursuers are nearly upon them, the fire is given to the being
+    who later becomes the turtle; he places it in his mouth, rolls into a deep river,
+    hides there, and the baffled masters of fire return home sorrowing.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/creation-myths-primitive-america-curtin.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is brief and partly editorial, but the fire theft, pursuit, relay
+    transport, and turtle concealment details are explicit. Broader comparison is
+    limited to the passage's own general statement.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used; no external parallels or taxonomy IDs beyond those supplied were added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-creation-myths-curtin-archive__l21566-l21576
+  passage_sha256=771422ab9da090e9a66719ec921da767a29a2ac7dc7d9be464d195c2a4ba2c28
+

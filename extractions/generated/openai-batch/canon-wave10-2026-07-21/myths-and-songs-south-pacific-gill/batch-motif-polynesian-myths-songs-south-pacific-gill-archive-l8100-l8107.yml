@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l8100-l8107
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: USED    BY   THE    CHIEF    RAOA    AND    HIS    CLAN. / CHAPTER  VIII.
+    / THE   UNIVERSE,    ACCORDING   TO   THE   IDEAS    OF   THE    NATIVES    OF
+    / MANGAIA.; lines 8100-8107
+  start: '8100'
+  end: '8107'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: the vagrant spirit was ordered in loud tones at once to enter the body of
+    the sick man
+  summary: A ritual procedure in a sick man's dwelling commands a vagrant spirit to
+    re-enter his body. The invalid's relatives provide a feast. If the patient dies,
+    the soul-doctor explains that the spirit refused to re-inhabit its former dwelling
+    because the feast was too small.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The setting is the dwelling of a patient or sick man.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A vagrant spirit is ordered in loud tones to enter the body of the sick man.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The sick man is expected to be strongly moved by the procedure.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The invalid's relatives provide a good feast.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Sometimes the patient dies after the procedure.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The soul-doctor explains death as the spirit's refusal to re-inhabit its former
+    dwelling because the feast was too small.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: vagrant spirit
+  description: A spirit commanded to enter the sick man's body and later described
+    as able to refuse to re-inhabit its former dwelling.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: sick man / patient / invalid
+  description: The ill person whose body is to be entered by the vagrant spirit and
+    who may die.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: relatives of the invalid
+  description: Relatives who provide a good feast.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: soul-doctor
+  description: The ritual specialist who assigns the cause of the patient's death
+    to the spirit's refusal to return because the feast was too small.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: returning or refusing spirit
+  assigned_to:
+  - fig:1
+  basis: The spirit is commanded to enter the sick man's body and may refuse to re-inhabit
+    its former dwelling.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: patient
+  assigned_to:
+  - fig:2
+  basis: The passage calls him the patient, sick man, and invalid.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: feast providers
+  assigned_to:
+  - fig:3
+  basis: The relatives provide a good feast for the invalid.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: soul-doctor
+  assigned_to:
+  - fig:4
+  basis: The passage names the soul-doctor as the person assigning the cause of death.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: body as former dwelling
+  literal_form: the body of the sick man / its former dwelling
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: feast
+  literal_form: good feasting / smallness of the feast
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Command to the vagrant spirit
+  summary: In the patient's dwelling, the vagrant spirit is ordered loudly to enter
+    the sick man's body, and the sick man is described as being moved by the procedure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Feast and explanation of death
+  summary: The invalid's relatives provide a feast. If the invalid dies, the soul-doctor
+    explains that the spirit refused to return to its former dwelling because the
+    feast was too small.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: spirit re-entry into the sick body as cure procedure
+  taxonomy_refs:
+  - return
+  basis: The procedure commands a vagrant spirit to enter the body of the sick man,
+    implying recovery depends on the spirit's return.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage describes the procedure and failed outcome explanation, but
+    does not explicitly state a successful cure.
+- id: motif:2
+  label: death explained by spirit's refusal to return
+  taxonomy_refs: []
+  basis: When the patient dies, the soul-doctor attributes the death to the spirit's
+    refusal to re-inhabit its former dwelling.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an explanatory motif within the passage, not a broad comparative
+    claim.
+- id: motif:3
+  label: feast as condition for spirit's return
+  taxonomy_refs:
+  - sacred_exchange
+  basis: A feast is provided, and inadequate feasting is given as the reason the spirit
+    refuses to return.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy label is broader than the passage; the passage
+    itself speaks only of feasting and the spirit's refusal.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8100-8102
+  quote_or_summary: On entering the dwelling of the patient the vagrant spirit was
+    ordered in loud tones at once to enter the body of the sick man.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8102-8103
+  quote_or_summary: The sick man is described as likely to be strongly moved by the
+    entire procedure.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 8103-8104
+  quote_or_summary: A good feasting would be provided by the relatives of the invalid.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 8104-8105
+  quote_or_summary: Sometimes the invalid died.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 8105-8107
+  quote_or_summary: the spirit had refused to re-inhabit its former dwelling on account
+    of the smallness of the feast
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal ritual sequence is clear. Motif taxonomy mapping is cautious
+    because the available taxonomy does not include a specific soul-retrieval or soul-return
+    healing category. No passage-supported comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata; comparison claims left empty because the passage does not itself compare this procedure to another corpus or motif family.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l8100-l8107
+  passage_sha256=90e6763cd3c9379cfdcf44a11a2ee4ac24ba966c98edcf61f0ac50d0fd1317e8
+

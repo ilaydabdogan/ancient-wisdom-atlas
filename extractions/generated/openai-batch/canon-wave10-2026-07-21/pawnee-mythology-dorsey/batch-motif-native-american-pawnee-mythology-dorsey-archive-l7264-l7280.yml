@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l7264-l7280
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: TRUE  STORIES  OF  THE  HEAVENLY  BEINGS. / HANDSOME-BOY  AND   AFTER-BIRTH    BOY.  I43
+    / HANDSOME-BOY  AND  AFTER-BIRTH  BOY.  I45 / HANDSOME-BOY  AND  AFTER-BIRTH  BOY.  147;
+    lines 7264-7280
+  start: '7264'
+  end: '7280'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Handsome-Boy cries at the sight of dangerous things, but a strange boy
+    reassures him and says they will kill some and take them home to their father.
+    The strange boy touches Handsome-Boy’s legs and feet, making them heavy and covered
+    with flint. The strange boy’s own feet and legs are described as protected like
+    horned-toad skin and turtle shells. The two boys step on snakes, cannot be bitten
+    through, kill four large rattlesnakes, skin them, and plan to arrange the rattling
+    skins on a doorway for play.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Handsome-Boy begins to cry, and the strange boy tells him to stop crying,
+    saying the dangerous things are nothing and that they will kill some and take
+    them home to their father.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The strange boy tells Handsome-Boy to sit down and places his hands on Handsome-Boy’s
+    legs and feet.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After Handsome-Boy stands up, his legs and feet feel very heavy because the
+    strange boy has covered his legs with flint stone.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The strange boy stamps on the ground, and his soles are compared to horned-toad
+    skin while his legs are covered with turtle shells.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The two boys walk down to the snakes and step on the snakes’ heads.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When the snakes try to bite the boys, their teeth cannot go through them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The boys kill four of the largest snakes with rattles, take them up on a hill,
+    and skin them while leaving the rattles on the skins.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The strange boy proposes placing the snake skins on a doorway so that the
+    rattles will make a pleasing sound when the boys play and run against the doorway.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Handsome-Boy
+  description: A boy who cries, receives protective covering on his legs and feet,
+    and joins the strange boy in stepping on and killing snakes.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: strange boy
+  description: A boy who reassures Handsome-Boy, alters or protects his legs and feet,
+    displays protected feet and legs, leads the attack on the snakes, and proposes
+    using the rattlesnake skins on a doorway.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: snakes with rattles
+  description: Large snakes that try to bite the boys but cannot pierce them; four
+    are killed and skinned with rattles left on the skins.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: frightened boy
+  assigned_to:
+  - fig:1
+  basis: Handsome-Boy begins by crying before the strange boy reassures him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: protector and action-leader
+  assigned_to:
+  - fig:2
+  basis: The strange boy reassures Handsome-Boy, prepares his body for the encounter,
+    and gives instructions for the later use of the snake skins.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:3
+  label: biting animal adversaries
+  assigned_to:
+  - fig:3
+  basis: The snakes try to bite the boys, but their teeth cannot go through them.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: cooperative boy pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The boys act together, walk to the snakes, step on them, kill four, and prepare
+    to take or use the results.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: flint-covered legs
+  literal_form: Flint stone covering on Handsome-Boy’s legs and heavy feet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: animal-like protective body surfaces
+  literal_form: Soles like horned-toad skin and legs covered with turtle shells
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: rattlesnakes and rattlesnake skins
+  literal_form: Four large snakes with rattles; their skins retain the rattles after
+    skinning
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: rattling doorway
+  literal_form: A doorway arranged with two snake skins at the bottom, one in the
+    middle, and one on top, so the rattles sound when struck during play
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Reassurance and bodily preparation
+  summary: Handsome-Boy cries, the strange boy reassures him, and the strange boy
+    prepares or protects Handsome-Boy’s legs and feet with flint stone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Protected attack on the snakes
+  summary: The strange boy’s body is described with protective animal-like surfaces,
+    and the two boys step on the snakes, whose bites cannot penetrate them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Killing, skinning, and doorway use of rattlesnake skins
+  summary: The boys kill four large rattlesnakes, skin them while keeping the rattles
+    on, and plan to arrange the skins on a doorway so the rattles will sound during
+    play.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Protective hardening of the body before danger
+  taxonomy_refs: []
+  basis: Before confronting the snakes, Handsome-Boy’s legs are covered with flint
+    stone, and the strange boy is described with horned-toad-like soles and turtle-shell-covered
+    legs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage describes protection literally but does not explain its source
+    or ritual meaning in this excerpt.
+- id: motif:2
+  label: Serpent encounter and serpent slaying
+  taxonomy_refs:
+  - serpent
+  basis: The boys confront snakes that try to bite them, then kill four large rattlesnakes
+    and take their skins.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The excerpt presents a snake-killing episode but does not give a broader
+    cosmological interpretation.
+- id: motif:3
+  label: Cooperative boy pair with a shared father
+  taxonomy_refs:
+  - sibling_pair
+  basis: The strange boy says they will take the killed beings home to 'our father,'
+    and the two boys act together throughout the snake encounter.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage implies a shared father but does not explicitly use the term
+    brother or sibling within the excerpt.
+- id: motif:4
+  label: Dangerous animal remains transformed into play or sound object
+  taxonomy_refs: []
+  basis: After killing and skinning the rattlesnakes, the boys plan to place the rattling
+    skins on a doorway so they will make a pleasing sound during play.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not state whether the doorway arrangement has ceremonial
+    or purely playful significance.
+comparison_claims:
+- id: claim:1
+  claim: The snake encounter can be cautiously compared at motif-family level to serpent-danger
+    or serpent-slaying patterns, because snakes attack and are then killed by protected
+    young figures.
+  claim_level: same_motif
+  target: serpent encounter or serpent-slaying motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No external parallel text is provided in the passage; the claim is
+    limited to broad motif-family similarity.
+- id: claim:2
+  claim: The bodily preparation before the snake encounter has the same narrative
+    function as protective armoring before a dangerous ordeal.
+  claim_level: same_function
+  target: protective armoring before ordeal pattern
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not name the action as armor, initiation, or ritual
+    protection; the comparison is functional and descriptive only.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7264-7267
+  quote_or_summary: Handsome-Boy cries; the strange boy says to stop crying, calls
+    the things 'nothing,' and says they will kill some and take them home to their
+    father.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; summarized with a short quoted word.
+- id: ev:2
+  type: summary
+  locator: lines 7267-7271
+  quote_or_summary: The strange boy tells Handsome-Boy to sit, touches his legs and
+    feet, then tells him to stand; Handsome-Boy’s legs and feet feel heavy because
+    his legs are covered with flint stone.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7271-7274
+  quote_or_summary: The strange boy stamps on the ground; his soles are compared to
+    horned-toad skin, and his legs are covered with turtle shells.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7274-7276
+  quote_or_summary: The boys go down to the snakes and step on their heads; when the
+    snakes try to bite them, their teeth cannot go through the boys.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7276-7278
+  quote_or_summary: The boys kill four of the largest snakes with rattles, take them
+    onto a hill, and skin them while leaving the rattles on the skins.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7278-7280
+  quote_or_summary: The strange boy says they will place two snake skins at the bottom
+    of the doorway, one in the middle, and one on top, so the rattles will sound when
+    they play and run against the doorway.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the described actions and objects. Motif
+    labels are cautious because the excerpt does not explain the wider episode context
+    or ritual meaning.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Line 7280 ends mid-sentence after 'Our'; extraction avoids completing the incomplete sentence.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l7264-l7280
+  passage_sha256=17aa525261455bc3473db9b18a46685389c13cfeb44df7970fbdb1bf31d29bca
+

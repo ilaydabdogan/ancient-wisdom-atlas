@@ -1,0 +1,494 @@
+---
+record_id: batch.motif.mongol-sagas-from-the-far-east-busk-gutenberg-l5269-l5323
+source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+passage_locator:
+  label: TALE XVIII. / HOW SHANGGASBA BURIED HIS FATHER. / TALE XIX. / THE PERFIDIOUS
+    FRIEND.; lines 5269-5323
+  start: '5269'
+  end: '5323'
+  translation: Sagas from the Far East
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A fox approaches a grazing calf and claims that a lion-cub intends to kill
+    him. The calf initially says the cub is his brother, but the fox gives supposed
+    signs by which the cub's hostile intent may be known. The next morning the calf
+    and cub observe each other, mistake ordinary animal habits for threatening signs,
+    fight at a stream, and both die before the fox. A voice from svarga gives a moral
+    warning against trusting a false friend; the frame narrative then has the Khan
+    speak and the Siddhî-kür escape through the air.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The fox goes to the sunny side of a mountain slope where the calf is grazing,
+    with tail trailing and ears drooping.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fox tells the calf that the lion-cub on the other side of the mountain
+    is the calf's enemy and says the cub has threatened to kill and devour him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The calf says that he and the cub are brothers, but then reflects that the
+    cub's mother killed his mother and refers to the fox as his uncle.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fox tells the calf to watch for stretching, mane-shaking, claw movement,
+    and scratching earth as signs that the cub intends to kill him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The next morning each animal observes the other as promised to the fox; each
+    performs natural habits that the fox had known beforehand.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: At sunrise the cub and calf go to the stream to drink; the cub growls and
+    the calf bellows, and each decides to attack first.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The calf gores the cub's breast, the cub wounds the calf's throat, and both
+    bleed out and die before the fox.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A voice from svarga says never to trust a false friend because such trust
+    can create enmity with a true friend.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Khan comments on the fox's perfidy and the eating of the animals' flesh;
+    the Siddhî-kür replies that the Khan has opened his lips and then escapes through
+    the air.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: fox
+  description: A fox who feigns grief, warns the calf about the cub, supplies misleading
+    signs, witnesses the deaths, and is mentioned in the Khan's comment about perfidy
+    and eating flesh.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: calf
+  description: A grazing calf who calls the cub his brother, accepts the fox's warning,
+    attacks the cub, is wounded at the throat, and dies.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: lion-cub / cub
+  description: A cub in the forest on the other side of the mountain, called the calf's
+    brother, whose ordinary actions are read as signs of hostility; he attacks the
+    calf and dies.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: voice from svarga
+  description: A voice from svarga that states the moral warning about trusting a
+    false friend.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: the Khan
+  description: The frame-story speaker who comments that the fox's perfidy profited
+    him nothing after the animals' deaths and flesh-eating.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Siddhî-kür
+  description: The figure who replies that the Khan has opened his lips and then escapes
+    through the air with a cry.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: lion-cub's mother
+  description: An offstage mother said to have killed and devoured the calf's mother.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:8
+  name_or_label: calf's mother
+  description: An offstage mother said to have been killed and devoured by the lion-cub's
+    mother.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: false friend / deceiving informer
+  assigned_to:
+  - fig:1
+  basis: The fox presents himself as concerned for the calf, invents or relays hostile
+    intent, and gives misleading signs that create suspicion.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:2
+  label: true friends or brothers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The calf states that he and the cub are brothers, and the moral voice contrasts
+    the false friend with a friend in truth.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: mutual combatants and victims
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The calf and cub attack each other at the stream and both die from their
+    wounds.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: moralizing voice from svarga
+  assigned_to:
+  - fig:4
+  basis: The voice states the explicit lesson of the episode.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: frame-story commentator
+  assigned_to:
+  - fig:5
+  basis: The Khan comments on the fox's perfidy after the tale's moral conclusion.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:6
+  label: escaping respondent
+  assigned_to:
+  - fig:6
+  basis: The Siddhî-kür replies to the Khan's speech and speeds away through the air.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: offstage killer in remembered grievance
+  assigned_to:
+  - fig:7
+  basis: The cub's mother is said to have killed and devoured the calf's mother.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:8
+  label: offstage victim in remembered grievance
+  assigned_to:
+  - fig:8
+  basis: The calf's mother is said to have been killed and devoured.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: mountain division
+  literal_form: The sunny side of the mountain slope where the calf grazes and the
+    other side of the mountain where the lion-cub is in the forest.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: stream for drinking
+  literal_form: The stream to which the calf and cub go at sunrise to drink before
+    they fight.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: false behavioral signs
+  literal_form: Stretching, shaking the mane, drawing claws in and out, and scratching
+    up the earth, presented by the fox as tokens of murderous intent.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: shed blood of both animals
+  literal_form: The blood that pours from both the calf and the cub until both die.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: svarga as source of voice
+  literal_form: Svarga, from which the moralizing voice is heard.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Fox approaches the calf
+  summary: The fox goes to the sunny mountain slope where the calf is grazing and
+    presents himself as grieving on the calf's behalf.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warning against the cub
+  summary: The fox tells the calf that the cub is an enemy and invokes the prior killing
+    of the calf's mother by the cub's mother; the calf first says the cub is his brother,
+    then becomes receptive to the warning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:3
+  label: Deceptive signs assigned
+  summary: The fox instructs the calf to interpret ordinary cub behaviors as certain
+    signs of murderous intent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Fatal fight at the stream
+  summary: At sunrise the calf and cub go to drink, misread each other's behavior,
+    attack each other, bleed out, and die before the fox.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Moral and frame-story escape
+  summary: A voice from svarga states the lesson against trusting a false friend;
+    the Khan comments on the fox, and the Siddhî-kür uses the Khan's speech as occasion
+    to fly away.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: False friend sets true friends at enmity
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The fox's warning and false signs cause the calf and cub, described as brothers
+    or true friends, to become suspicious and kill each other; the voice states this
+    as a general warning about false friends.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is approximate; the passage itself uses the explicit
+    category of a false friend rather than naming a formal trickster type.
+- id: motif:2
+  label: Ordinary behavior misread as hostile omen
+  taxonomy_refs: []
+  basis: The fox defines common animal actions as signs of murderous intent, and the
+    next morning both animals perform natural habits that confirm the planted suspicion.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No external omen taxonomy is supplied; this is a passage-level pattern
+    only.
+- id: motif:3
+  label: Mutual destruction through suspicion
+  taxonomy_refs: []
+  basis: The calf and cub each decide to attack before the other and both die from
+    the resulting combat.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage frames the cause as deception by the fox, not spontaneous
+    hostility between the two victims.
+- id: motif:4
+  label: Moral pronouncement from a heavenly realm
+  taxonomy_refs:
+  - wisdom
+  basis: A voice from svarga delivers a concise lesson about the danger of trusting
+    a false friend.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The wisdom taxonomy reference reflects the explicit moralizing speech;
+    the passage does not elaborate a broader doctrine.
+- id: motif:5
+  label: Trickster benefits from engineered deaths for food
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The fox engineers the conflict, both animals die before him, and the Khan's
+    comment refers to the fox eating their flesh.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The narrator shows the deaths before the fox, while the actual eating
+    is stated within the Khan's frame comment rather than narrated directly.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5269-5284
+  quote_or_summary: The fox approaches the calf on the sunny side of the mountain
+    slope and says the lion-cub on the other side of the mountain is the calf's enemy
+    and intends to kill and devour him.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:2
+  type: summary
+  locator: lines 5284-5293
+  quote_or_summary: The calf says he and the cub are brothers, but then considers
+    the killing of his mother by the cub's mother and wonders why the fox, called
+    his uncle, would deceive him.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:3
+  type: summary
+  locator: lines 5293-5303
+  quote_or_summary: The fox tells the calf that stretching, shaking the mane, moving
+    the claws, and scratching the earth will be signs that the cub intends to kill
+    him.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:4
+  type: summary
+  locator: lines 5304-5310
+  quote_or_summary: In the morning each animal observes the other as promised to the
+    fox, and each performs natural habits that the fox had known, leading both to
+    wrath and suspicion.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:5
+  type: summary
+  locator: lines 5310-5318
+  quote_or_summary: At sunrise the animals go to the stream; the cub growls, the calf
+    bellows, each attacks first, and both bleed out and die before the fox.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:6
+  type: quote
+  locator: lines 5319-5321
+  quote_or_summary: "“Put never thy trust in a false friend, for so doing he shall
+    put thee at enmity with him who is thy friend in truth.”"
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source metadata; short quotation allowed.
+- id: ev:7
+  type: summary
+  locator: lines 5322-5323
+  quote_or_summary: The Khan comments that, since the cub as well as the calf was
+    killed, the fox's perfidy profited him nothing after eating their flesh.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:8
+  type: summary
+  locator: line 5323; frame close in supplied passage
+  quote_or_summary: The Siddhî-kür replies that the Khan has opened his lips and flies
+    away with the cry that escape from this world is good.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source metadata; summary allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports the core false-friend, deceptive-sign, and mutual-destruction
+    patterns. Taxonomy links are approximate and should be reviewed. No cross-text
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata; comparison_claims are left empty because no specific external comparison is established within the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mongol-sagas-from-the-far-east-busk-gutenberg__l5269-l5323
+  passage_sha256=a9fbab40e45da00b329642643191803114059db178db93aa26910864a5f7e987
+

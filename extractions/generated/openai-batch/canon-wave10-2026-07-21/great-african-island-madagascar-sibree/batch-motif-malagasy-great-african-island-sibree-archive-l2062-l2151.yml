@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l2062-l2151
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: VOLCANIC  ACTION. / GEOLOGICAL  FORMATION.  31 / FOSSILS.  33 / LIGNITE.  35;
+    lines 2062-2151
+  start: '2062'
+  end: '2151'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a geological and mineralogical survey of parts of Madagascar,
+    including reported conglomerate and shell-bearing stone, prior scientific notices
+    on sandstone and trap rocks, lignite beds near Nosibe, volcanic strata, coral
+    reefs, and useful minerals such as iron, copper, silver, salt, nitre, and pyrites.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed local informant reported large hard rocks in western Madagascar
+    packed with rolled pebbles of many sizes and shapes.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same informant reported a hard black stone near the sea that rang like
+    iron when struck, lay in large flat masses on the plain, and contained well-preserved
+    shells; no specimens were supplied for examination.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dr. Buckland described sandstone near Port Louquez without fossils and trap
+    rocks intercalated with it, comparing them to formations outside Madagascar.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Lignite beds were reported in Nosibe and on the neighbouring coast, contained
+    in sandstone and clay schists, fibrous and shining, and combustible with a long
+    white flame and little ash.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A geological essay on Nosibe described three groups of strata, including granitic
+    and schistose rocks, red and yellow sandstones with gneiss and quartz veins, and
+    volcanic basaltic or trap lavas with tuffs and volcanic materials.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Coral reefs were described along several coasts of Madagascar, and Darwin
+    was cited for rapid coral growth on the east coast.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Madagascar was described as rich in useful minerals, especially iron in Imerina;
+    copper and silver had been found, gold was considered probable, and laws restricted
+    searches for precious metals.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: unnamed local informant
+  description: An unnamed native informant who gave an account of rocks in western
+    Madagascar and near the sea.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Dr. Buckland
+  description: Author of a notice on the geological structure of part of Madagascar
+    near Port Louquez.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: exploring officers
+  description: Officers whose exploration reported lignite beds in Nosibe and on the
+    neighbouring coast.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Mr. Darwin
+  description: Cited for facts about rapid coral growth on Madagascar's east coast.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Captain Owen
+  description: Cited for the statement that the northern extremity of Madagascar is
+    formed of madreporitic rock.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: informant
+  assigned_to:
+  - fig:1
+  basis: The passage states that the account of certain western rocks came from an
+    intelligent native.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: geological author
+  assigned_to:
+  - fig:2
+  basis: Dr. Buckland is named as the author of a notice on Madagascar's geological
+    structure.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: explorers and evaluators of lignite
+  assigned_to:
+  - fig:3
+  basis: The officers made the exploration and gave an opinion about the lignite beds'
+    age and value.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: scientific authority on coral reefs
+  assigned_to:
+  - fig:4
+  basis: Darwin's work is cited for facts on coral growth on Madagascar's east coast.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: geographical or geological source
+  assigned_to:
+  - fig:5
+  basis: Captain Owen is cited for a claim about the composition of Madagascar's northern
+    extremity.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: literal combustion flame
+  literal_form: long white flame produced by burning lignite
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: literal sea and coastal setting
+  literal_form: sea, coast, coral reefs, and island shorelines
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:6
+scenes:
+- id: scene:1
+  label: reported western and coastal rocks
+  summary: An unnamed informant reports conglomerate-like rocks in western Madagascar
+    and a hard black shell-bearing stone near the sea, though specimens were not available.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: published geological notices and lignite reports
+  summary: European scientific publications are summarized, including Buckland's notice
+    of sandstone and trap rocks and later reports of lignite beds near Nosibe.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Nosibe strata description
+  summary: An essay on Nosibe describes three geological strata groups and is said
+    to include a geological map.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: coral reefs and minerals of Madagascar
+  summary: The passage describes long stretches of coral reef around Madagascar, cites
+    Darwin and Captain Owen, and then summarizes mineral resources and legal restrictions
+    on searching for precious metals.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2062-2076
+  quote_or_summary: An unnamed native informant describes large hard rocks packed
+    with rolled pebbles in western Madagascar and a hard black shell-bearing stone
+    near the sea; no specimens were brought for examination.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2077-2089
+  quote_or_summary: Dr. Buckland's notice on geological structure near Port Louquez
+    describes sandstone without fossils and intercalated trap rocks similar to those
+    of Antrim.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 2090-2103
+  quote_or_summary: The Annales des Mines account reports lignite beds in Nosibe and
+    on the neighbouring coast, older than Tertiary in the officers' opinion, fibrous
+    and shining, burning with a long white flame and little ash.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2104-2117
+  quote_or_summary: 'The Essai sur la Geologie de Nosibe describes three strata groups:
+    granitic and schistose rocks; red and yellow sandstones with veins; and volcanic
+    basaltic or trap lavas with sandy beds, tuffs, and volcanic rappilis, accompanied
+    by a map.'
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2118-2128
+  quote_or_summary: Later attention to the region is linked with a French company
+    promoted by M. Lambert, with little scientific examination elsewhere except a
+    notice on the Antongil Bay peninsula and expected work by M. Grandidier.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 2129-2143
+  quote_or_summary: Coral reefs are said to extend for hundreds of miles along Madagascar's
+    coasts; Darwin is cited for rapid coral growth on the east coast, and Captain
+    Owen for madreporitic rock at the northern extremity.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 2144-2151
+  quote_or_summary: 'Madagascar is described as rich in useful minerals: abundant
+    iron in Imerina, discovered copper and silver, probable gold in granitic highland
+    ravines, legal restriction on searching for precious metals, and rock-salt, nitre,
+    iron pyrites, and sulphur.'
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a scientific-geological description rather than a mythic or
+    narrative passage. Literal extraction is strong; no candidate myth motifs or passage-supported
+    comparative mythology claims are evident. Fire and water taxonomy links are literal
+    environmental/material references only, not interpreted as mythic symbols.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No mythic episode, ritual action, deity, heroic figure, or traditional narrative pattern is present in the supplied passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l2062-l2151
+  passage_sha256=dca4de1fe1c21eafe45bfe5d4c5e08dcd262b06ba7b68284b09f0f8ec46a8822
+

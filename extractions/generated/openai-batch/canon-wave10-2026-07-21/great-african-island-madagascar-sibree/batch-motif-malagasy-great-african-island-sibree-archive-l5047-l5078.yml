@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l5047-l5078
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: THE  TRAVELLER'S  TREE.  93 / USEFUL  PLANTS.  95 / FLOWERING  PLANTS.  97
+    / VEGETABLE  EXPORTS.  99; lines 5047-5078
+  start: '5047'
+  end: '5078'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the aquatic plant ouvirandra or lace-leaf, its leaves,
+    water setting, flower, distribution in Madagascar, transfer of specimens to England,
+    related West African and Senegalese species, and Madagascar's still partly unexplored
+    botanical richness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A full-grown specimen is described as having dark-green leaves forming the
+    limit of a circle two or three feet in diameter.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Transparent water within the leaf circle shows leaves at different stages
+    of development in colour and size.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The flower is described as a forked pink tuft rising above the water surface
+    during fructification.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The ouvirandra grows in streams along Madagascar's eastern coast and in running
+    water in colder interior provinces west of the capital.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Mr. Ellis is said to have first brought lace-leaf plants to England, after
+    which specimens reached botanical gardens around London.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The plant was long supposed unique, but related species were later found in
+    West Africa and Senegal.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The African related species are said to be less singular in appearance because
+    spaces open in the Madagascar species are partly or entirely filled.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Madagascar is presented as a place of great botanical and zoological interest
+    with many vegetable wonders still hidden in vast forests around the island.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: ouvirandra / lace-leaf plant
+  description: Aquatic plant with dark-green circular leaves, transparent water among
+    the leaves, and a forked pink flower rising above the water.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Mr. Ellis
+  description: Person credited with first bringing lace-leaf plants to England.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: French botanist
+  description: Unnamed botanist credited with discovering another species in West
+    Africa.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: botanical subject
+  assigned_to:
+  - fig:1
+  basis: The passage chiefly describes the plant's form, flower, habitat, and related
+    species.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: introducer of specimens to England
+  assigned_to:
+  - fig:2
+  basis: Mr. Ellis is stated to have first brought lace-leaf plants to England.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: discoverer of related species
+  assigned_to:
+  - fig:3
+  basis: An unnamed French botanist is said to have discovered another species in
+    West Africa.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water
+  literal_form: transparent water; running water; surface of the water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: circular leaves
+  literal_form: dark-green leaves forming the limit of a circle two or three feet
+    in diameter
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: green girdle of forests
+  literal_form: vast forests forming a green girdle round the island
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Description of the aquatic plant
+  summary: The plant is described with circular dark-green leaves, transparent water
+    within the circle, leaves in varied stages, and a pink forked flower rising above
+    the water.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Habitat and distribution in Madagascar
+  summary: The ouvirandra is located in streams along the eastern coast and in running
+    water in colder interior provinces west of the capital.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Movement of specimens and related discoveries
+  summary: Mr. Ellis brings lace-leaf plants to England; related species are later
+    reported from West Africa and Senegal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Madagascar's unexplored botanical richness
+  summary: The passage concludes that Madagascar contains many botanical wonders still
+    awaiting investigation in vast forests around the island.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5047-5052
+  quote_or_summary: A full-grown plant is described as attractive, with dark-green
+    leaves forming a two- or three-foot circle and transparent water inside showing
+    leaves at varied stages.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 5052-5055
+  quote_or_summary: The flower is a forked pink tuft and rises above the water surface
+    during fructification.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 5055-5059
+  quote_or_summary: The ouvirandra grows in streams along the eastern coast and in
+    running water in colder interior provinces west of the capital.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 5059-5063
+  quote_or_summary: Mr. Ellis first brought lace-leaf plants to England, and specimens
+    from them were obtained for major botanic gardens near London.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 5063-5071
+  quote_or_summary: The plant was long thought unique; another species was discovered
+    in West Africa by a French botanist, and a third in Senegal, though these are
+    described as less singular than the Madagascar species.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 5072-5078
+  quote_or_summary: Madagascar is said to interest botanists and zoologists, with
+    many vegetable wonders still hidden in vast forests that form a green girdle around
+    the island.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is descriptive natural history rather than mythic narrative;
+    no candidate mythology motifs or comparison claims are supported by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No passage-supported mythological motif family was identified; symbols are recorded as literal images and objects only.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l5047-l5078
+  passage_sha256=85ffbc1f4121c22ac6252597b88cd4d6cc26e7ebf666a50ec9222fd76f5dddbf
+

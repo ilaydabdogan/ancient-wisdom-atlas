@@ -1,0 +1,221 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l14305-l14325
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: ENT)  OP  THE  SEVENTH  BOOK. / EIGHTH  BOOK / OF  THE / ROYAL  COMMENTARIES  OF  THE  YNCAS.;
+    lines 14305-14325
+  start: '14305'
+  end: '14325'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A book heading announces that the eighth book recounts conquests by Tupac
+    Ynca Yupanqui, the eleventh king; the three marriages of his son Huayna Ccapac;
+    the death and testament of that king; and descriptions of animals, plants, rivers,
+    precious stones, metals, and products of the empire before the Spaniards arrived.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a heading for the Eighth Book of the Royal Commentaries of
+    the Yncas.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The announced book recounts numerous conquests made by Tupac Ynca Yupanqui.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Tupac Ynca Yupanqui is identified as the eleventh king.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Huayna Ccapac is identified as the son of Tupac Ynca Yupanqui.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The announced book recounts the three marriages of Huayna Ccapac, as well
+    as the death and testament of that king.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The announced book describes tame and wild animals, plants, fruits, birds,
+    four famous rivers, precious stones, gold, silver, and other products of the empire
+    before the arrival of the Spaniards.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Tupac Ynca Yupanqui
+  description: The eleventh king, whose numerous conquests are to be recounted.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Huayna Ccapac
+  description: Son of Tupac Ynca Yupanqui; his three marriages, death, and testament
+    are to be recounted.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Spaniards
+  description: People whose arrival marks the endpoint of the empire described in
+    the passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: king
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Tupac Ynca Yupanqui as the eleventh king.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: conqueror
+  assigned_to:
+  - fig:1
+  basis: The passage says numerous conquests made by Tupac Ynca Yupanqui are recounted.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: royal son
+  assigned_to:
+  - fig:2
+  basis: Huayna Ccapac is called the son of Tupac Ynca Yupanqui.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: king whose death and testament are recounted
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the death and testament of that king after naming Huayna
+    Ccapac.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: later arrivals
+  assigned_to:
+  - fig:3
+  basis: The passage refers to the empire's products before the Spaniards arrived
+    there.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: four famous rivers
+  literal_form: rivers
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: precious stones, gold, and silver
+  literal_form: precious stones; gold; silver
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: animals, plants, fruits, and birds
+  literal_form: tame and wild animals; plants; fruits; birds
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Book contents announced
+  summary: 'The heading lists the subjects of the eighth book: royal conquests, royal
+    marriages, a king''s death and testament, and descriptions of the empire''s natural
+    and mineral products before the Spaniards'' arrival.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: royal conquest and dynastic succession
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The heading frames the book around an eleventh king's conquests and his son's
+    marriages, death, and testament, all presented as royal historical material.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a book heading rather than a narrative episode; it announces
+    royal topics but does not itself provide a developed legitimacy myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 14305-14311
+  quote_or_summary: 'Heading: Eighth Book of the Royal Commentaries of the Yncas.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 14313-14315
+  quote_or_summary: '"NUMEROUS CONQUESTS MADE BY TUPAC YNCA YUPANQUI, THE ELEVENTH
+    KING"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 14315-14318
+  quote_or_summary: The heading announces the three marriages of Tupac Ynca Yupanqui's
+    son Huayna Ccapac, and the death and testament of that king.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 14318-14325
+  quote_or_summary: The heading announces descriptions of tame and wild animals, plants,
+    fruits, birds, four famous rivers, precious stones, gold, silver, and all products
+    of the empire before the Spaniards arrived.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a table-of-contents style heading with clear named figures
+    and subjects, but limited narrative detail for motif extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison beyond its announced Inca royal-historical contents.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l14305-l14325
+  passage_sha256=8e85fe4368f1dc6a03bdc51f70152c348ab9f8c7e20c7489fa3fdb2da3823cd8
+

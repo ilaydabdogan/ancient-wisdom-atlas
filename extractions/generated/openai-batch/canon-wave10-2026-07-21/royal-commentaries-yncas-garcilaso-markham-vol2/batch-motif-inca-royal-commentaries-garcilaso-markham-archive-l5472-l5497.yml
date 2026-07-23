@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l5472-l5497
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CARRIED. / SIXTH  BOOK  OF  THE  KOYAL / COMMENTARIES  OF  THE  YNCAS. /
+    CHAPTER  VIH.; lines 5472-5497
+  start: '5472'
+  end: '5497'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains that quipu means knot and also account, because knots
+    supplied accounts. It describes colored strings, their construction and attachment
+    to a thicker cord, examples of color meanings, and ordering by importance for
+    things without color.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chapter heading states that counting was done by strings and knots and
+    that accountants were very accurate.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Quipu is defined as meaning to knot, a knot, and also an account, because
+    knots supplied an account of everything.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Indians made strings in various colors, including single colors and combinations
+    of two, three, or more colors.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that the colors, whether single or combined, all had a
+    meaning.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The strings were laid up in three or four strands, about the girth of an iron
+    spindle, and about three quarters of a vara long.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The strings were attached to a thicker cord and hung from it like a fringe.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A yellow string referred to gold, a white string to silver, and a red string
+    to soldiers.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Things without color were arranged by importance, beginning with the most
+    consequential and proceeding toward the most insignificant.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Indians
+  description: The group described as making strings of various colors.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Accountants
+  description: The chapter heading describes the accountants as very accurate.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: makers of colored quipu strings
+  assigned_to:
+  - fig:1
+  basis: The passage says the Indians made strings of various colors.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: accurate accountants
+  assigned_to:
+  - fig:2
+  basis: The chapter heading states that the accountants were very accurate.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: quipu knot-account
+  literal_form: Knotted strings used as an account
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: yellow string for gold
+  literal_form: Yellow string
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: white string for silver
+  literal_form: White string
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: red string for soldiers
+  literal_form: Red string
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: thicker cord with hanging strings
+  literal_form: A thicker cord from which strings hang like a fringe
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Explanation of quipu accounting
+  summary: The passage explains quipu as knot and account, describes colored and combined
+    strings with assigned meanings, gives examples of color references, and notes
+    hierarchical ordering for things without color.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: record keeping by knotted strings
+  taxonomy_refs: []
+  basis: Quipu is identified as knot and account, and knots are said to supply an
+    account of everything.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an administrative knowledge pattern in the passage, not a mythic
+    episode.
+- id: motif:2
+  label: color-coded correspondence system
+  taxonomy_refs: []
+  basis: The passage states that string colors had meanings and gives yellow, white,
+    and red as references to gold, silver, and soldiers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives examples of correspondences but does not provide a full
+    key to the system.
+- id: motif:3
+  label: hierarchical ordering of uncolored categories
+  taxonomy_refs: []
+  basis: Things without color are described as being arranged from most important
+    to least important.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is cut off after this statement, so the full procedure is
+    not available in the supplied excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5472-5476
+  quote_or_summary: 'Chapter heading: counting was done by strings and knots, and
+    the accountants were described as very accurate.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: 5477-5480
+  quote_or_summary: Quipu is defined as knot or the act of knotting, and also as an
+    account because knots supplied accounts.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: 5480-5488
+  quote_or_summary: The Indians made strings of single or combined colors; the colors
+    had meaning, and the strings were laid up in three or four strands with specified
+    size and length.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: 5488-5494
+  quote_or_summary: The strings were attached to a thicker cord like a fringe; yellow
+    referred to gold, white to silver, and red to soldiers.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: 5495-5497
+  quote_or_summary: Things without color were arranged by importance, from greatest
+    consequence toward least significance.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is well supported by the passage. Motif candidates
+    are framed as administrative-symbolic patterns rather than mythic themes. No comparison
+    claims are made because the passage itself does not support cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif or symbol reference was applied; the passage concerns quipu accounting and color-coded reference rather than the listed mythic motif families.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l5472-l5497
+  passage_sha256=4ec631e5f32938ec54190b8e2e49e201cb4753ab0cca916c12a34aecd6353a69
+

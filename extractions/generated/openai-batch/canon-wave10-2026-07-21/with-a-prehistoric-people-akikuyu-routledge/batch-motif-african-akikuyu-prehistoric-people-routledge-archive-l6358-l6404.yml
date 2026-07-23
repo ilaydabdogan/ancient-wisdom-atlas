@@ -1,0 +1,223 @@
+---
+record_id: batch.motif.african-akikuyu-prehistoric-people-routledge-archive-l6358-l6404
+source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+passage_locator:
+  label: ARTS  AND  CRAFTS  71 / BRIDGE-BUILDING / BRIDGE-BUILDING  73 / FIRE-MAKING;
+    lines 6358-6404
+  start: '6358'
+  end: '6404'
+  translation: 'With a Prehistoric People: The Akikuyu of British East Africa'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: '"one is the man and the other is the woman."'
+  summary: The passage gives an ethnographic description of Akikuyu fire-making. It
+    states that no origin tradition or social or religious ceremony for fire exists,
+    and describes fire as produced by friction between an upper drill stick and a
+    lower fire stick made from different woods. The passage records an Akikuyu explanation
+    that one stick is regarded as male and the other as female.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that there is no Akikuyu tradition or explanation for the
+    origin of fire and that fire has no place in social or religious ceremony.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Fire is described as produced in only one way: by friction between two pieces
+    of wood.'
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The upper implement is called the drill stick, u-lin'-di, and is described
+    as a straight rod with a convex lower end.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says that for friction fire-making one piece of wood must be hard
+    and the other soft, with the harder piece serving as the drill.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: 'The Akikuyu explanation for the required relation between the two woods is
+    quoted as: one is the man and the other is the woman.'
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The upper or drill stick may be made from several named kinds of tree wood.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The lower or fire stick, je-ka, is made from a different wood; its pulverized
+    tissues form tinder and are brought to a glow by the friction of the drill.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The lower stick is described as oval in section, flattened below, tapered
+    at both ends, and furnished with cavities to receive the drill.
+  category: object
+  evidence_refs:
+  - ev:7
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire or glow produced by friction between two pieces of wood.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: upper drill stick
+  literal_form: A hard wooden rod called u-lin'-di, used as the drill in fire-making.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: lower fire stick
+  literal_form: A lower wooden fire stick called je-ka, whose pulverized tissues form
+    tinder.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: male-female wood pair
+  literal_form: Two pieces of fire-making wood explained as one being the man and
+    the other the woman.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Technical account of fire-making
+  summary: The passage describes Akikuyu fire-making as a practical craft using friction
+    between an upper drill stick and a lower fire stick, while explicitly denying
+    an origin tradition or ceremonial role for fire.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: scene:2
+  label: Gendered explanation of paired woods
+  summary: The passage explains that the two woods used for fire-making must differ
+    in hardness and texture, and records an Akikuyu explanation that one is male and
+    the other female.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: gendered complementary pair produces fire
+  taxonomy_refs:
+  - duality
+  basis: The passage states that friction fire-making requires two different woods
+    with a specific relation to one another, and records the explanation that one
+    is the man and the other the woman.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is presented as a craft explanation, not as a mythic origin narrative
+    or a ritual episode; the passage explicitly says fire has no origin tradition
+    or ceremonial place among the Akikuyu.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6358-6361
+  quote_or_summary: '"No tradition or explanation of the origin of fire exists amongst
+    the Akikuyu, nor has it any place in social or religious ceremony."'
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 6361-6364
+  quote_or_summary: '"It is produced in one way only — by the friction between two
+    pieces of wood."'
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 6365-6371
+  quote_or_summary: The upper or drill stick, u-lin'-di, is described as a straight
+    rod like a lead pencil, 13 to 24 inches long, with a convex lower end.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 6371-6382
+  quote_or_summary: For friction fire, one wood must be hard and the other soft, the
+    harder serving as the drill; the woods' textures must correspond, and the Akikuyu
+    say that "one is the man and the other is the woman."
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short excerpt and summary used for extraction
+    evidence.
+- id: ev:5
+  type: summary
+  locator: lines 6382-6388
+  quote_or_summary: The passage lists several named woods or trees from which the
+    upper or drill stick may be made.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:6
+  type: summary
+  locator: lines 6389-6395
+  quote_or_summary: The lower or fire stick, je-ka, is made from a different wood;
+    its pulverized tissues form tinder and are gradually brought to a glow by drill
+    friction.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:7
+  type: summary
+  locator: lines 6396-6404
+  quote_or_summary: The lower fire stick is oval in section, 9 to 12.5 inches long,
+    flattened underneath, tapered at both ends, and has several small cavities on
+    its upper surface to receive the drill.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The technical description is explicit. Motif identification is limited because
+    the passage itself denies an origin tradition or ceremonial role for fire; only
+    the gendered complementary-pair pattern is extracted as a cautious candidate.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims are made because the passage does not itself support comparison to another text, tradition, or motif family beyond the cautious internal candidate motif.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-akikuyu-prehistoric-people-routledge-archive__l6358-l6404
+  passage_sha256=2d4dc4add1436166a91d1f4c33de239d77e483e1e2ff27d5032263f8bb2e2f4a
+

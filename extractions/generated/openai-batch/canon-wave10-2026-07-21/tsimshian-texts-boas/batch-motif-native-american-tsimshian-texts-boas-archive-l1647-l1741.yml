@@ -1,0 +1,571 @@
+---
+record_id: batch.motif.native-american-tsimshian-texts-boas-archive-l1647-l1741
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+passage_locator:
+  label: Tsimshian Texts; lines 1647-1741
+  start: '1647'
+  end: '1741'
+  translation: Tsimshian Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A poor boy secretly uses the skin of a great frog to travel underwater,
+    catch trout and salmon, and leave them by the house while ravens cry on the beach.
+    The princess eventually observes and questions him; he explains that after being
+    deserted and left without food he killed and skinned the frog, put on its skin,
+    and became clean and great. She marries him, and later he catches animals and
+    whales with his hands, leaving whale grease and bones along the shore.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The boy returns with a trout, removes the great frog's skin, cares for it,
+    and hangs it on a long branch of a tree.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boy lays fish before the house secretly and lets the princess believe
+    ravens found the fish on the beach.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The passage states that the boy had acquired supernatural power and did not
+    want the princess to know it.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At night the boy puts on the frog skin, goes to the bottom of the lake, catches
+    trout, removes the skin, and hangs it back on the tree branch.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The grandmother splits and roasts fish; at first the princess does not eat
+    the trout, but later she eats salmon with the boy and grandmother.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The boy travels underwater down the river outlet of the lake to the sea, catches
+    salmon, and returns before daylight.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Ravens cry on the beach in the morning when fish has been placed there.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: The princess notices that the boy's skin has become very clean, watches him
+    at night, and sees that he is no longer a boy but a youth.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After the princess questions him, the boy says his uncle deserted them without
+    food and explains that he killed and skinned the frog, put on its skin, caught
+    trout and salmon, and became clean and great.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The princess tells the boy he shall marry her; they marry, and he is described
+    as a man rather than the poor little boy.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: After they have two children, he catches animals with his hands, including
+    four large whales; whale grease, meat, fat, and bones cover the beach and sea
+    area near the houses.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: poor little boy / youth / man
+  description: A poor boy who secretly catches fish with the aid of a frog skin, becomes
+    clean and great, marries the princess, and later catches animals and whales with
+    his hands.
+  role_refs:
+  - role:1
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: princess / wife
+  description: The princess hears the ravens, sends the boy to investigate, later
+    watches and questions him, marries him, and later worries about his continued
+    catching of animals.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: old grandmother
+  description: The old grandmother receives fish, splits and roasts it, and eats with
+    the boy and later the princess.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: great frog
+  description: A great frog that emerges from the lake; the boy kills it, skins it,
+    and uses its skin.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:5
+  name_or_label: raven or ravens
+  description: Ravens cry on the beach when fish is found there and are said to have
+    found the fish.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: uncle
+  description: The boy says his uncle deserted him, the princess, and the grandmother,
+    leaving them without food.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: concealed supernatural food provider
+  assigned_to:
+  - fig:1
+  basis: The boy hides his supernatural power, secretly places fish before the house,
+    and lets the fish be attributed to ravens.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: frog-skin underwater hunter
+  assigned_to:
+  - fig:1
+  basis: He puts on the great frog's skin and travels along the bottoms of the lake,
+    river, and sea to catch fish.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: observer, questioner, bride, and wife
+  assigned_to:
+  - fig:2
+  basis: She hears the ravens, later watches the boy, questions him, declares she
+    will marry him, and later warns him to stop catching animals.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:4
+  label: fish preparer and co-eater
+  assigned_to:
+  - fig:3
+  basis: The grandmother splits and roasts fish and eats it with the boy and later
+    with the princess.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: source of usable animal skin
+  assigned_to:
+  - fig:4
+  basis: The frog is killed and skinned; its skin is repeatedly worn by the boy.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:6
+  label: beach signalers of fish
+  assigned_to:
+  - fig:5
+  basis: Ravens cry on the beach when fish lies there, and the boy reports that the
+    raven found the fish.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:7
+  label: deserter
+  assigned_to:
+  - fig:6
+  basis: The boy states that his uncle deserted the boy, the princess, and the grandmother,
+    leaving them without food.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: later powerful whale hunter
+  assigned_to:
+  - fig:1
+  basis: After marriage and children, he catches animals with his hands and catches
+    four large whales.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: great frog skin
+  literal_form: The skin of the great frog, hung on a tree branch and worn by the
+    boy.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: tree branch for the skin
+  literal_form: A tree with a long branch where the great frog's skin is hung.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: underwater route
+  literal_form: The great lake, its river outlet, the bottom of the water, and the
+    sea.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: house fire
+  literal_form: The fire near which the boy lies, and the roasting of fish by the
+    grandmother.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: crying raven on the beach
+  literal_form: A raven, and later two ravens, crying on the beach where fish has
+    been placed.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: trout and salmon food
+  literal_form: Trout from the lake and salmon from the sea, placed before the house
+    and eaten or dried.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: whales, grease, and bones
+  literal_form: Four large whales, whale meat and fat, grease along the beach, bones
+    before the house, and grease covering the sea water.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: First concealed trout and raven explanation
+  summary: The boy removes and hides the frog skin, secretly lays a trout before the
+    house, and the next morning the princess hears a raven crying; the boy reports
+    that the raven found the trout.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Repeated lake-bottom trout hunts
+  summary: Night after night the boy puts on the frog skin, goes to the bottom of
+    the lake, catches trout, hangs the skin back on the tree, and returns before morning.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Underwater journey to the sea for salmon
+  summary: The boy wears the frog skin, goes down the river outlet under the water
+    to the sea, catches salmon, returns through the water, and places salmon before
+    the house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Princess observes and questions the transformed youth
+  summary: The princess notices his clean skin, watches him at night, sees him as
+    a youth, finds a large salmon herself, and questions him about the fish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Confession and marriage
+  summary: The boy explains the desertion, his encounter with the great frog, the
+    wearing of its skin, his fish-catching, and his change in status; the princess
+    says he shall marry her, and he becomes a man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Later animal and whale catching
+  summary: After the marriage and the birth of two children, the man catches animals
+    by hand; despite his wife's worry, he catches four large whales, leaving grease
+    and bones along the shore.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Animal-skin transformation for underwater hunting
+  taxonomy_refs:
+  - shapeshifter
+  basis: The boy kills and skins the great frog, repeatedly puts on the skin, travels
+    underwater, catches fish, and later explains that this made him clean and great.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage states the sequence clearly, though it does not mechanically
+    explain every power granted by the skin.
+- id: motif:2
+  label: Secret nocturnal departure and return with food
+  taxonomy_refs:
+  - departure
+  - return
+  basis: The boy goes out at night, returns before daylight, secretly places fish
+    before the house, and conceals that he caught them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The departure-return pattern is local and repeated within the episode
+    rather than a whole-journey structure.
+- id: motif:3
+  label: Maturation through solitary ordeal and supernatural food procurement
+  taxonomy_refs:
+  - initiation
+  basis: After being deserted without food, the boy goes into the woods, encounters
+    and uses the frog, gains fish, becomes clean and great, is seen as a youth, and
+    then becomes a man.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: No formal initiation rite is named; the motif is inferred from the passage's
+    transformation sequence.
+- id: motif:4
+  label: Marriage following recognition of hidden power
+  taxonomy_refs: []
+  basis: The princess discovers that the boy, not the ravens, obtained the fish; after
+    his confession she says he shall marry her, and he becomes a man.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents a marriage after recognition, but does not explicitly
+    frame it as sacred or royal legitimation beyond the bride being a princess.
+- id: motif:5
+  label: Scarcity transformed into excessive abundance
+  taxonomy_refs: []
+  basis: The boy says the group had been left without food; through his frog-skin
+    power he supplies trout and salmon, and later catches whales in such quantity
+    that grease and bones cover the shore.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The abundance pattern is supported, but the broader meaning of the excess
+    is not explained in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1647-1656
+  quote_or_summary: The boy comes ashore with a trout, removes the great frog's skin,
+    hangs the skin on a tree branch, secretly places the trout before the house, and
+    returns inside while the princess sleeps.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 1657-1674
+  quote_or_summary: In the morning a raven cries on the beach; the princess sends
+    the boy to look, and he says the raven found the trout, although the passage states
+    he caught it himself and was hiding his supernatural power. The princess does
+    not eat the trout, while the boy and grandmother do.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 1675-1693
+  quote_or_summary: At night the boy puts on the great frog's skin, dives and walks
+    on the bottom of the lake, catches trout, hangs the skin on the tree again, and
+    returns secretly. The pattern repeats; the grandmother splits and roasts the fish.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 1694-1710
+  quote_or_summary: The boy wears the skin and goes down the river outlet under the
+    water to the sea, catches salmon, returns before daylight, hangs up the skin,
+    and the next morning ravens cry near the salmon on the beach. The grandmother
+    roasts part of it, and the princess eats with them.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 1711-1724
+  quote_or_summary: The princess notices the boy's skin becoming very clean, stays
+    awake to watch him, sees that he is now a youth, and later finds a large salmon
+    herself while the boy is still lying down. She questions him about the trout and
+    salmon.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: lines 1725-1734
+  quote_or_summary: The boy says his uncle deserted them without food; he went to
+    the woods and a large lake, called out, killed and skinned the great frog that
+    emerged, put on its skin, caught trout and salmon, and became clean and great.
+    The princess tells him he shall marry her; they marry, and he is now a man.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:7
+  type: summary
+  locator: lines 1735-1741
+  quote_or_summary: After they have two children, the man catches animals with his
+    hands. His wife worries and asks him to stop, but he catches four large whales;
+    whale grease, meat, fat, and bones cover the beach and sea near the houses.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear enough for episode-level extraction, though the supplied
+    text contains OCR irregularities. Motif labels are cautious and remain tied to
+    explicit events in the passage; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to the provided available taxonomy list.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-tsimshian-texts-boas-archive__l1647-l1741
+  passage_sha256=5c2d37afb9dd4fda5ecb64f75b20f1eb4410a107fbc0a57b425676311a58ceb2
+

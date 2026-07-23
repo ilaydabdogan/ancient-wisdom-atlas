@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.african-reynard-the-fox-hottentot-bleek-archive-l4466-l4632
+source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+passage_locator:
+  label: KAFIR    ESSAYS, / FIRST  LESSONS  IN  THE  MAORI  LANGUAGE, / A    CATALOGUE
+    / PUBLISHED   BT; lines 4466-4632
+  start: '4466'
+  end: '4632'
+  translation: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a publisher’s catalogue and review excerpt section. It praises
+    editions and illustrations of Reynard the Fox, especially Kaulbach’s engravings
+    and Goethe’s Reineke Fuchs, then lists several translated or literary works with
+    bibliographic details and review quotations, including works by Schefer, Tegnér,
+    Winckelmann, and others.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes Kaulbach’s illustrations for Reynard the Fox as admirable
+    and world-famous, and compares an English translation by T. J. Arnold favorably
+    among other translations.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A review states that Goethe’s Reineke Fuchs is a work of genius and poetic
+    art, and that Kaulbach added painterly skill to the poet’s narrative.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says Kaulbach excelled at giving human expression to the countenances
+    and attributes of animals.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists bibliographic catalogue entries for several works, including
+    The Bishop’s Wife, The Artist’s Married Life, The Frithjof Saga, and The History
+    of Ancient Art among the Greeks.
+  category: other
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Reynard the Fox
+  description: A named fox figure or story-title discussed through editions, translations,
+    and illustrations.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Kaulbach
+  description: Artist credited with celebrated illustrations or engravings for Reynard
+    the Fox and praised for giving human expression to animals.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Goethe
+  description: Author associated in the passage with Reineke Fuchs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: T. J. Arnold
+  description: Named as an English translator whose version of Reynard the Fox is
+    favorably described.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Winckelmann
+  description: Named as the author of The History of Ancient Art among the Greeks
+    and praised in review excerpts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: literary animal figure or title figure
+  assigned_to:
+  - fig:1
+  basis: The passage refers to Reynard the Fox as a named fox and as the subject of
+    translations and illustrations.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: illustrator
+  assigned_to:
+  - fig:2
+  basis: The passage credits Kaulbach with illustrations or engravings for Reynard
+    the Fox.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: poet or author
+  assigned_to:
+  - fig:3
+  basis: The passage associates Goethe with Reineke Fuchs and calls the work a marvel
+    of genius and poetic art.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: translator
+  assigned_to:
+  - fig:4
+  basis: The passage identifies T. J. Arnold among English translations of Reynard
+    the Fox.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: art historian or author
+  assigned_to:
+  - fig:5
+  basis: The passage names Winckelmann as author of a history of ancient art and quotes
+    reviews praising the work.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fox
+  literal_form: Reynard the Fox; Reineke Fuchs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: human expression in animals
+  literal_form: Human expression infused into the countenances and attributes of brutes
+    in illustrations.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Catalogue praise of Reynard edition
+  summary: Review excerpts praise an edition of Reynard the Fox, emphasizing Arnold’s
+    translation and Kaulbach’s illustrations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Goethe and Kaulbach evaluation
+  summary: A review praises Goethe’s Reineke Fuchs and Kaulbach’s artistic treatment
+    of animal figures with human expression.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Publisher catalogue listings
+  summary: The passage gives catalogue entries and review excerpts for translated,
+    literary, travel, and art-history works.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: anthropomorphic animal characterization
+  taxonomy_refs: []
+  basis: The passage explicitly highlights artistic depiction of animals with human
+    expression in the context of Reynard the Fox.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is catalogue/review material rather than a narrative episode;
+    it does not describe Reynard’s actions or a plot motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage links Reynard the Fox with Goethe’s Reineke Fuchs as related
+    literary treatments of the same named fox tradition.
+  claim_level: linguistic_similarity
+  target: Goethe’s Reineke Fuchs / Reynard the Fox tradition
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies only review and catalogue statements; it does
+    not analyze narrative content or establish historical transmission beyond naming
+    the works together.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4466-4482
+  quote_or_summary: A review says Kaulbach’s illustrations of the world-famous Reynard
+    the Fox are admirable and that T. J. Arnold’s English translation ranks highly
+    among editions.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4484-4495
+  quote_or_summary: A review praises Goethe’s Reineke Fuchs and says the fox’s story
+    has been written by a great author and illustrated by a painter of inimitable
+    genius.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 4495-4503
+  quote_or_summary: Kaulbach is praised for the art of giving “a human expression”
+    to the faces and attributes of animals.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 4510-4534
+  quote_or_summary: Catalogue entries list works by Leopold Schefer, Brook B. Stevens,
+    Anna Swanwick, and others, with translation, format, page count, and price details.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4536-4554
+  quote_or_summary: Catalogue entries list Tegnér’s Frithjof Saga in English translation,
+    Whipple’s Literature and Life, Wilson’s The Village Pearl, and Winckelmann’s History
+    of Ancient Art among the Greeks.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4555-4625
+  quote_or_summary: Several review excerpts praise Winckelmann’s History of Ancient
+    Art among the Greeks for learning, clarity, taste, and value to students and lovers
+    of art.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is not a Khoekhoe oral tale or mythic narrative but publisher
+    catalogue and review matter appended to the source. Motif extraction is therefore
+    limited to explicit references to Reynard, animal characterization, and literary
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family was assigned because the passage does not provide narrative evidence for trickster, shapeshifter, or other mythic motifs.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-reynard-the-fox-hottentot-bleek-archive__l4466-l4632
+  passage_sha256=30c4dc2e3b26d492bf336913c5f04090451e5bc87c9ba008d4147cc3a6cbc9bf
+

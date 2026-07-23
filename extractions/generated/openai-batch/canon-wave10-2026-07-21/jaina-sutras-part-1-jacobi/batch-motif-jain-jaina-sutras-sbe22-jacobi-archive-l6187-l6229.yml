@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.jain-jaina-sutras-sbe22-jacobi-archive-l6187-l6229
+source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+passage_locator:
+  label: BOOK II, LECTURE I, LESSON 5. IOJ / SIXTH LESSON. / BOOK II, LECTURE I, LESSON
+    6. 1 03 / IO4 AJTARANGA STRA.; lines 6187-6229
+  start: '6187'
+  end: '6229'
+  translation: 'Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred
+    Books of the East, Vol. 22)'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives rules for Jain monks and nuns on begging-tours about
+    which food or salt may be accepted. It treats alms given with wet, moistened,
+    dusty, or soiled hands as unacceptable in some cases, allows acceptance under
+    specified matching conditions of soiling, and forbids accepting grains or salt
+    processed for the mendicant on a rock or clay containing life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Food given with a wet hand, even when the hand was not purposely wetted, is
+    described as unacceptable.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same rule is applied to a moistened hand, a dusty hand, and a hand soiled
+    with substances such as clay, dew, pigments, chalk, alum, rice-flour, kukkusa,
+    or ground drugs.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Food given with a soiled hand is said to be acceptable when the text's specified
+    corresponding conditions of soiling are met; such food is called pure and acceptable.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A monk or nun on a begging-tour is instructed not to accept flattened grains
+    or grains containing much chaff when a layman has processed, is processing, or
+    will process them for the mendicant under the described conditions.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The grains described as processed for the mendicant on a rock or a piece of
+    clay containing life are called impure and unacceptable.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A monk or nun on a begging-tour is instructed not to accept fossil salt or
+    sea salt that a householder has ground or pounded, is grinding or pounding, or
+    will grind or pound for the mendicant on a rock or a piece of clay containing
+    life.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The salt prepared under the described conditions is called impure and unacceptable.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: monk or nun on a begging-tour
+  description: A Jain mendicant recipient of alms who is instructed what food or salt
+    to accept or refuse.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: layman or householder
+  description: A lay person described as grinding, winnowing, pounding, or otherwise
+    preparing food or salt for the sake of the mendicant.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: mendicant alms-recipient
+  assigned_to:
+  - fig:1
+  basis: The monk or nun on a begging-tour is the person instructed to accept or refuse
+    food and salt.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: lay preparer or giver of alms
+  assigned_to:
+  - fig:2
+  basis: The layman or householder is described as preparing grains or salt for the
+    sake of the mendicant.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: condition of the giving hand
+  literal_form: wet, moistened, dusty, or soiled hand
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: life-containing preparation surface
+  literal_form: rock or piece of clay containing life
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: regulated alms substances
+  literal_form: flattened grains, grains containing much chaff, fossil salt, and sea
+    salt
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rules for alms given by wet or soiled hands
+  summary: The passage classifies food given with wet, moistened, dusty, or soiled
+    hands as unacceptable in some cases, while allowing acceptance under specified
+    corresponding soiled-hand conditions.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Refusal of specially processed grains
+  summary: A monk or nun is told not to accept certain grains processed by a layman
+    for the mendicant on a rock or life-containing clay; the grains are described
+    as impure and unacceptable.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Refusal of specially processed salt
+  summary: A monk or nun is told not to accept fossil salt or sea salt ground or pounded
+    by a householder for the mendicant on a rock or life-containing clay; the salt
+    is described as impure and unacceptable.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: regulated purity of alms reception
+  taxonomy_refs: []
+  basis: The passage repeatedly determines whether food is pure or impure and acceptable
+    or unacceptable based on the condition of the hand that gives it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a disciplinary or ritual-purity pattern rather than a narrative
+    mythic episode.
+- id: motif:2
+  label: mendicant refusal of alms prepared for them under life-harming conditions
+  taxonomy_refs: []
+  basis: The passage forbids monks and nuns from accepting grains or salt processed
+    for them by laypeople on surfaces described as containing life, and calls such
+    items impure and unacceptable.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage states the rule but does not narrate a specific incident or
+    mythic plot.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6187-6190
+  quote_or_summary: "“unacceptable, which is given with a wet hand, though the hand
+    be not purposely wetted”"
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 6192-6196
+  quote_or_summary: The same rule is extended to moistened, dusty, and soiled hands,
+    including hands soiled with clay, dew, pigments, chalk, alum, rice-flour, kukkusa,
+    and ground drugs.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6198-6202
+  quote_or_summary: Food given with a soiled hand under specified corresponding conditions
+    is said to be pure and acceptable.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6204-6212
+  quote_or_summary: A monk or nun should not accept flattened or chaffy grains that
+    a layman has ground or winnowed, is grinding or winnowing, or will grind or winnow
+    for the mendicant on a rock or a piece of clay containing life; such grains are
+    impure and unacceptable.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6214-6220
+  quote_or_summary: A monk or nun should not accept fossil salt or sea salt that a
+    householder has ground or pounded, is grinding or pounding, or will grind or pound
+    for the mendicant on a rock or piece of clay containing life; such salt is impure
+    and unacceptable.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The disciplinary rules and purity judgments are explicit. No comparative
+    claim is made because the passage does not itself support comparison to another
+    tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The final broken sentence and grammatical footnote at the end of the supplied line range were not used for motif extraction because they do not add a complete rule relevant to this record.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:jain-jaina-sutras-sbe22-jacobi-archive__l6187-l6229
+  passage_sha256=3cae0dc74a2e59288c15db1622496344f647c6453f48813806d86026cb4705b5
+

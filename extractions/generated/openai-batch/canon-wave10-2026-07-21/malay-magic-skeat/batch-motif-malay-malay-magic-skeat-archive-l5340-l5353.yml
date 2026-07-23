@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l5340-l5353
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: THE  GENII / THE  MALA  V PANTHEON / ORIGIN  OF  THE  GENII / THE  MALA  Y
+    PANTHEON; lines 5340-5353
+  start: '5340'
+  end: '5353'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Malicious elves use invisible coconut shells to catch raindrops, causing
+    herbs and trees to wither. Angry angels cast thunderbolts from heaven; the elves
+    take shelter in tall trees, which are blasted. At another time the elves climb
+    upon one another to reach the sky, the highest elf kicks an angel, and all fall
+    with a crash like thunder.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The beings use invisible coconut shells, one for each drop of rain, to catch
+    raindrops as they fall.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Herbs and trees wither because of lack of moisture.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Angels become angry and cast thunderbolts upon the malicious elves from heaven.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The malicious elves shelter in tall trees, and the thunderbolts blast the
+    trees as they fall.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The elves climb on one another’s shoulders until they reach the sky.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The topmost elf kicks a neighbouring angel, after which all the elves fall
+    together with a crash like thunder.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: malicious elves
+  description: Beings who catch raindrops, shelter from thunderbolts, climb to the
+    sky, and kick an angel.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: angels
+  description: Heavenly beings who become angry and cast thunderbolts; one neighbouring
+    angel is kicked by the topmost elf.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: rain-intercepting beings
+  assigned_to:
+  - fig:1
+  basis: They catch each raindrop in invisible coconut shells.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sky-climbing offenders
+  assigned_to:
+  - fig:1
+  basis: They climb to the sky and the topmost elf kicks a neighbouring angel.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: thunderbolt-casting punishers
+  assigned_to:
+  - fig:2
+  basis: The angels, being angry, cast thunderbolts out of heaven upon the elves.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: heavenly neighbour
+  assigned_to:
+  - fig:2
+  basis: A neighbouring angel is kicked by the topmost elf.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: rain and moisture
+  literal_form: raindrops and moisture
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tall trees
+  literal_form: tall trees
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: thunderbolts
+  literal_form: thunderbolts cast out of heaven
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sky
+  literal_form: the sky
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: invisible coconut shells
+  literal_form: invisible cocoa-nut shells
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Raindrops intercepted
+  summary: The elves catch falling raindrops in invisible coconut shells, and vegetation
+    withers for lack of moisture.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Thunderbolts and trees
+  summary: Angry angels cast thunderbolts from heaven; the elves hide in tall trees,
+    which are blasted by the thunderbolts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Climb to the sky and fall
+  summary: The elves climb upon one another to reach the sky; the highest kicks an
+    angel, and all fall with a crash like thunder.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: malicious spirits intercept rain and cause drought
+  taxonomy_refs: []
+  basis: The elves catch each falling raindrop, after which herbs and trees wither
+    from lack of moisture.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage describes the action but does not explicitly label it as an
+    origin of drought.
+- id: motif:2
+  label: heavenly punishment by thunderbolt
+  taxonomy_refs: []
+  basis: Angry angels cast thunderbolts from heaven upon the malicious elves, blasting
+    the tall trees where the elves shelter.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not state a formal moral or legal judgment beyond angelic
+    anger.
+- id: motif:3
+  label: stacked ascent to the sky
+  taxonomy_refs:
+  - ascent
+  basis: The elves climb one upon another’s shoulders until they reach the sky.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The ascent is not described as successful beyond reaching the sky and
+    provoking the fall.
+- id: motif:4
+  label: offense against a heavenly being followed by thunderous fall
+  taxonomy_refs: []
+  basis: The topmost elf kicks a neighbouring angel, and the elves then fall together
+    with a crash like thunder.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage implies a thunder explanation but does not explicitly call
+    it an origin account.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5340-5344
+  quote_or_summary: The elves have invisible coconut shells, one for each raindrop;
+    they catch falling raindrops, and herbs and trees wither for lack of moisture.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5344-5349
+  quote_or_summary: Angels become angry and cast thunderbolts from heaven upon the
+    malicious elves; the elves shelter in tall trees, which the thunderbolts blast.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5349-5353
+  quote_or_summary: The elves climb on each other’s shoulders until reaching the sky;
+    the topmost kicks a neighbouring angel, and all fall with a crash like thunder.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and literal actions are clear. Motif labels are candidate
+    analytical groupings and should be reviewed, especially because the excerpt begins
+    mid-sentence and broader context is absent.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only supplied passage text and metadata; no external comparisons added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l5340-l5353
+  passage_sha256=311a3fe285c77ed0a01d26337311e7e95070be52bf173ab8bc3fa63b5a64b42c
+

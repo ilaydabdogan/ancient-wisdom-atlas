@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l13137-l13147
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: XII.  XERXES   INSCRIPTION   (D) / XIII.  XERXES   INSCRIPTION   (E) / ASSYRIAN   AND   BABYLONIAN   LITERATURE
+    / XVI.    INSCRIPTION   FROM   ELVEND; lines 13137-13147
+  start: '13137'
+  end: '13147'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The inscription names Ahura-mazda as a great god and chief of the gods,
+    creator of earth, heavens, humanity, and Xerxes as a uniquely preeminent king.
+    Xerxes then identifies himself with expansive royal titles and as the son of Darius,
+    the Achaemenian king.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as an inscription from Elvend.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ahura-mazda is described as a great god and chief of the gods.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ahura-mazda is said to have created the earth, the heavens, and humanity.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ahura-mazda is said to have granted favour to mankind.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ahura-mazda is said to have created Xerxes as a king unique among many kings
+    and former rulers.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Xerxes identifies himself as great king, king of kings, king of countries,
+    king of all lands, and king of the great, broad earth.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Xerxes identifies himself as the son of Darius the king and as Achaemenian.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ahura-mazda
+  description: A great god and chief of the gods, described as creator of earth, heavens,
+    humanity, and Xerxes, and as grantor of favour to mankind.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Xerxes
+  description: The king whom Ahura-mazda is said to have created; he speaks in the
+    first person and claims expansive royal titles.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Darius
+  description: Named as Xerxes's father and as a king.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Humanity or mankind
+  description: Created by Ahura-mazda and described as recipient of divine favour.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Creator and chief deity
+  assigned_to:
+  - fig:1
+  basis: Ahura-mazda is called chief of the gods and is credited with creating earth,
+    heavens, humanity, and Xerxes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Grantor of favour
+  assigned_to:
+  - fig:1
+  basis: The passage says Ahura-mazda granted favour to mankind.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Divinely created universal king
+  assigned_to:
+  - fig:2
+  basis: Xerxes is said to have been created by Ahura-mazda as a unique king and then
+    claims rule over kings, countries, lands, and the broad earth.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: Royal father
+  assigned_to:
+  - fig:3
+  basis: Darius is named as the king and father of Xerxes.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Created humanity and recipient of favour
+  assigned_to:
+  - fig:4
+  basis: Humanity is said to have been created by Ahura-mazda, and mankind is said
+    to receive divine favour.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Earth
+  literal_form: this earth; great, broad earth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Heavens
+  literal_form: these heavens
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Divine creation and royal making
+  summary: Ahura-mazda is presented as creator of the cosmos and humanity, grantor
+    of favour to mankind, and maker of Xerxes as a uniquely preeminent king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Royal self-identification and lineage
+  summary: Xerxes declares his broad royal titles and identifies himself as son of
+    Darius, the Achaemenian king.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Divine legitimation of kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Xerxes's kingship is grounded in Ahura-mazda's creation of him as a unique
+    king, followed by Xerxes's universal royal titles and royal lineage.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is a royal inscriptional declaration rather than a narrative
+    of enthronement, covenant, or heroic action.
+- id: motif:2
+  label: Supreme deity creates cosmos and humanity
+  taxonomy_refs: []
+  basis: Ahura-mazda is credited with creating earth, heavens, and humanity.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives a brief theological formula and does not narrate a detailed
+    cosmogony.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits a royal-legitimacy motif pattern in which the king's status
+    is grounded in a supreme deity's creative act and reinforced by universal royal
+    titles and dynastic descent.
+  claim_level: same_motif
+  target: royal_legitimacy
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to motif function; the passage does not itself
+    provide a broader comparative context or historical-contact claim.
+evidence:
+- id: ev:1
+  type: quote
+  locator: '13137'
+  quote_or_summary: '"XVI. INSCRIPTION FROM ELVEND"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: '13139'
+  quote_or_summary: '"A great god is Ahura-mazda, chief of the gods"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 13139-13143
+  quote_or_summary: Ahura-mazda is said to have created the earth, the heavens, and
+    humanity; to have granted favour to mankind; and to have created Xerxes as a king
+    unique among other kings and former rulers.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 13145-13146
+  quote_or_summary: '"I am Xerxes, the great king, king of kings" and king of countries,
+    lands, and the broad earth.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt with summary.
+- id: ev:5
+  type: quote
+  locator: '13147'
+  quote_or_summary: '"son of Darius the king, the Achaemenian"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is short and formulaic, so extraction of figures, roles, and
+    royal-legitimacy motif is direct. Comparative claims are limited to the provided
+    motif family and do not imply historical contact.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata; no inference was made from Elvend beyond the passage heading.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l13137-l13147
+  passage_sha256=d9116a29ab41efd6deb68fcbc4eb9046a0e16d53931044c9bd2fc3bc68c4a73e
+

@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l15951-l15996
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  IX. / OF  MAIZE,  AND  OF  WHAT  THEY  CALL  RICE,  AND  OF  OTHER  GRAINS.
+    / A A 2 / EIGHTH  BOOK  OF  THE  ROYAL; lines 15951-15996
+  start: '15951'
+  end: '15996'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes maize grinding with a half-moon-shaped stone rather
+    than mortars, preparation of api fritters, sifting flour from bran on a cotton
+    cloth, and the narrator’s eyewitness statement that he was sustained on sara,
+    or maize, until his nineteenth year.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A half-moon-shaped stone, described as somewhat oblong and three fingers wide
+    at the edge, is used for grinding maize.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The grinding action places the hands on the half-moon-shaped side while the
+    other edge is rubbed up and down over the maize.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says this difficult grinding method helped explain why bread was
+    not eaten on ordinary occasions.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Mortars existed but were not used for this grinding because mortar grinding
+    required arm force and blows, while the shaped stone ground by its own weight.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: An Indian woman is described as holding the stone, working it up and down,
+    and gathering the material into the middle of the tile for regrinding.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Fritters called api were made and eaten with appetite, accompanied by pleasant
+    jests, and described as a rare treat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Flour was separated from bran by placing it on clean cotton cloth, stirring
+    by hand, retaining finer flour, and casting out coarser bran.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The sifting was said to be done more for Spaniards than for Indians, because
+    Indians minded the bran less.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Sieves are said not to have been introduced into Peru before wheat.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The narrator says he saw the practices with his own eyes and was sustained
+    until his nineteenth year on sara, identified as maize.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Indian woman
+  description: A woman who holds the half-moon-shaped stone, works it over the grain,
+    and gathers the ground material for regrinding.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Indians
+  description: The group described as eating maize foods, not minding bran as much,
+    and eating api fritters.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Spaniards
+  description: The group for whom flour sifting was chiefly done, according to the
+    passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: First-person narrator
+  description: The speaker who says he saw the described practices and lived on sara,
+    or maize, until his nineteenth year.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: maize grinder
+  assigned_to:
+  - fig:1
+  basis: The woman is described operating the grinding stone and gathering the material
+    for regrinding.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: maize-food consumers
+  assigned_to:
+  - fig:2
+  basis: The Indians are described eating api and as less concerned with bran in maize
+    flour.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: preferred recipients of sifted flour
+  assigned_to:
+  - fig:3
+  basis: The passage says sifting was done more for Spaniards than for what the Indians
+    ate.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: eyewitness witness
+  assigned_to:
+  - fig:4
+  basis: The narrator states that he saw the practices with his own eyes.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: maize or sara
+  literal_form: maize, called sara
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: half-moon-shaped grinding stone
+  literal_form: oblong grinding stone with a half-moon-shaped side and an edge rubbed
+    over maize
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: cotton cloth used for sifting
+  literal_form: clean cotton cloth used to separate flour from bran
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: api fritters
+  literal_form: fritters called api
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: flour and bran
+  literal_form: fine flour and coarser bran separated during sifting
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Grinding maize with a shaped stone
+  summary: Maize is ground by rubbing the edge of a half-moon-shaped stone over it,
+    rather than by using mortars.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Eating api fritters
+  summary: Fritters called api are made and eaten with appetite and joking, and are
+    described as a rare treat.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Sifting maize flour without sieves
+  summary: Flour and bran are separated on clean cotton cloth by hand, a method associated
+    with the absence of sieves before wheat.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Narrator’s eyewitness testimony
+  summary: The narrator states that he personally saw these practices and was sustained
+    on sara, or maize, until his nineteenth year.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: manual maize grinding with a shaped stone
+  taxonomy_refs: []
+  basis: The passage gives a detailed account of maize grinding with a half-moon-shaped
+    stone and contrasts it with unused mortars.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a material-culture pattern rather than a mythic motif; no available
+    taxonomy reference directly applies.
+- id: motif:2
+  label: maize food preparation as communal rare treat
+  taxonomy_refs: []
+  basis: Api fritters are described as a rare treat eaten eagerly with joking.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not identify the treat as ritual, sacred, or mythic.
+- id: motif:3
+  label: maize as staple sustenance
+  taxonomy_refs: []
+  basis: The narrator identifies sara as maize and says he was sustained on it until
+    his nineteenth year.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The evidence is autobiographical and dietary; it does not state symbolic
+    or mythological meaning.
+- id: motif:4
+  label: sifting flour without introduced sieves
+  taxonomy_refs: []
+  basis: The passage explains a cloth-and-hand sifting process and says sieves were
+    not introduced into Peru before wheat.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a technological food-processing pattern, not a mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15951-15958
+  quote_or_summary: A half-moon-shaped, somewhat oblong stone is used by hand to rub
+    maize; the difficulty of this grinding is linked to bread not being eaten ordinarily.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 15959-15972
+  quote_or_summary: Mortars are avoided for this work; the shaped stone grinds by
+    its own weight, and an Indian woman moves it up and down and gathers the meal
+    for regrinding.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 15972-15976
+  quote_or_summary: Fritters called api are made and eaten with appetite and pleasant
+    jests, and are described as a rare treat.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 15976-15987
+  quote_or_summary: Flour is separated from bran on a clean cotton cloth by stirring
+    with the hand; fine flour remains while coarser bran is removed, and the process
+    is repeated.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 15987-15994
+  quote_or_summary: Sifting is said to be done more for Spaniards because Indians
+    cared less about bran; sieves were not introduced into Peru before wheat.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: 15994-15996
+  quote_or_summary: The narrator says he saw all this with his own eyes and was sustained
+    until his nineteenth year on sara, identified as maize.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and material-cultural rather than mythic. Objects
+    and practices are clear, but motif labels are cautious and have no direct taxonomy
+    match. No comparison claims were produced because the passage itself does not
+    support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references did not include directly matching motifs or symbols for maize, grinding stones, cloth sifting, or fritters.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l15951-l15996
+  passage_sha256=dd1cd7b71c22f20533e83956499f6b1de744963ddb3efcade3262a21651ebb53
+

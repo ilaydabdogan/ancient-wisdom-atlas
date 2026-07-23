@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l9000-l9010
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: ANNALS   OF   ASHURBANIPAL / IOO       ASSYRIAN   AND   BABYLONIAN   LITERATURE
+    / ANNALS   OF   ASHURBANIPAL  103 / ANNALS   OF   ASHURBANIPAL  105; lines 9000-9010
+  start: '9000'
+  end: '9010'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Teumman, king of Elam, wounded in battle, flees with his oldest son Tamritu
+    and hides in a forest. The royal narrator says that, under the protection of Ashur
+    and Ishtar, he bound them and cut off their heads in each other's presence. A
+    caption describes a man in a chariot holding a man's head, identified as Teumman's
+    head, cut off in battle and brought to Assyria as joyful news.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Teumman is identified as king of Elam and as wounded in the royal narrator's
+    battle.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tamritu is identified as Teumman's oldest son.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Tamritu seized Teumman's hand; the two fled to save their lives and hid in
+    a forest.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The royal narrator states that, under the protection of Ashur and Ishtar,
+    he bound Teumman and Tamritu and cut off their heads in each other's presence.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: An inscription is said to be written above the figure of a man in a chariot
+    holding a man's head.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The head is identified as the head of Teumman, king of Elam, cut off in battle
+    and brought quickly to Assyria as a message of joyful tidings.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Teumman
+  description: King of Elam; wounded in battle; flees with his son; later bound and
+    beheaded; his head is brought to Assyria.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Tamritu
+  description: Oldest son of Teumman; seizes his father's hand, flees with him, is
+    bound and beheaded in his father's presence.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: royal narrator
+  description: First-person speaker who reports defeating, binding, and beheading
+    Teumman and Tamritu under divine protection.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Ashur
+  description: Named as a divine protector of the royal narrator's action.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ishtar
+  description: Named as a divine protector of the royal narrator's action.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: man in a chariot
+  description: Depicted figure holding a man's head in his hands.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: ahurru of the royal narrator's troops
+  description: Agent named as cutting off Teumman's head in battle.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: defeated enemy king
+  assigned_to:
+  - fig:1
+  basis: Teumman is king of Elam, wounded in battle, captured, and beheaded.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: fleeing son
+  assigned_to:
+  - fig:2
+  basis: Tamritu is Teumman's oldest son and flees with him after seizing his hand.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: victorious royal narrator
+  assigned_to:
+  - fig:3
+  basis: The first-person speaker claims the battle and the binding and execution
+    of Teumman and Tamritu.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: bound captive
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says both were bound before their heads were cut off.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: divine protector
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Ashur and Ishtar are named as providing protection for the royal narrator.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: depicted trophy bearer
+  assigned_to:
+  - fig:6
+  basis: A figure of a man in a chariot is described as holding a man's head.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: battle execution agent
+  assigned_to:
+  - fig:7
+  basis: The ahurru of the troops are said to have cut off Teumman's head in battle.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: forest hiding place
+  literal_form: forest
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: severed head
+  literal_form: head of Teumman
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: chariot display
+  literal_form: man in a chariot holding a head
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: message of joyful tidings
+  literal_form: Teumman's head brought to Assyria as a message
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Flight to the forest
+  summary: After Teumman is wounded in battle, his son Tamritu takes his hand, and
+    they flee and hide in a forest to save their lives.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Binding and mutual-view execution
+  summary: The royal narrator says that, under Ashur and Ishtar's protection, he binds
+    Teumman and Tamritu and beheads them in each other's presence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Trophy head brought to Assyria
+  summary: A caption describes a man in a chariot holding a head; Teumman's head is
+    said to have been cut off in battle and brought swiftly to Assyria as joyful news.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Defeated enemy king beheaded as trophy
+  taxonomy_refs: []
+  basis: Teumman, a defeated king, is beheaded; his head is displayed and brought
+    to Assyria as news of victory.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents annalistic royal violence rather than a mythic narrative
+    cycle; motif use should remain descriptive.
+- id: motif:2
+  label: Father and son fugitives captured after hiding
+  taxonomy_refs: []
+  basis: Teumman and his oldest son flee together, hide in a forest, and are then
+    bound and killed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is brief and does not develop the forest hiding beyond a literal
+    episode.
+- id: motif:3
+  label: Divinely protected royal victory
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The narrator links the binding and execution of enemies to the protection
+    of Ashur and Ishtar.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage supports divine protection of a royal act, but does not explicitly
+    state a broader legitimacy doctrine in this excerpt alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9000-9001
+  quote_or_summary: Teumman is named as king of Elam and as wounded in the royal narrator's
+    powerful battle.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 9001-9003
+  quote_or_summary: Tamritu, Teumman's oldest son, takes his hand; both flee for their
+    lives and hide in a forest.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 9003-9004
+  quote_or_summary: Under the protection of Ashur and Ishtar, the narrator binds them
+    and cuts off their heads in each other's presence.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 9006-9007
+  quote_or_summary: A caption is written above a figure of a man in a chariot holding
+    a man's head.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: lines 9009-9010
+  quote_or_summary: Teumman's head is said to have been cut off in battle by the ahurru
+    of the narrator's troops and brought quickly to Assyria as joyful tidings.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Figures and events are explicit in the passage. Motif labels are descriptive
+    and should be reviewed because the excerpt is historical-annalistic rather than
+    an extended mythic narrative. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference limited to royal_legitimacy for the divinely protected royal victory motif; no listed symbol taxonomy items are present in the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l9000-l9010
+  passage_sha256=00380f00f9a1561d38c844a2c8e2413a410b64e74e19a7eb9c97cac9e54f7182
+

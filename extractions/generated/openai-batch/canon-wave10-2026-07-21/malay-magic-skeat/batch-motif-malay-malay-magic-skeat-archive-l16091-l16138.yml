@@ -1,0 +1,377 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l16091-l16138
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: CROCODILE  FOLKLORE / REPTILES  AND  REPTILE  CHARMS / HABITS  OF  THE  CROCODILE
+    / REPTILES  AND  REPTILE  CHARMS; lines 16091-16138
+  start: '16091'
+  end: '16138'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: |-
+    “It was not I who killed you,
+
+    It was water which killed you.”
+  summary: The passage describes degrees of danger associated with named crocodile
+    teeth, then recounts how a crocodile takes a victim below the surface, drowns
+    or smothers him, surfaces with the body, calls on the Sun, Moon, and Stars to
+    witness that water, not the crocodile, killed him, repeats this three times, and
+    then prepares the corpse for eating. A footnote states that Malays credit the
+    crocodile with human origin, practical sense, and honesty.
+  language: English, with a Malay formula and English translation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage distinguishes named crocodile teeth called the “Exhausters of
+    all Resources,” the “Debateable” teeth, and the “Tearers of the Shroud,” with
+    the last described as making a captured man effectively dead.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the crocodile captures a victim, it carries him below the surface.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The crocodile is said to smother the victim in thick mangrove mud or push
+    him under a snag or projecting root so that he drowns.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The crocodile waits at a short distance after submerging the victim.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After waiting, the crocodile seizes the drowned body and rises to the surface.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At the surface, the crocodile calls upon the Sun, Moon, and Stars to bear
+    witness that it was not guilty of the homicide.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The translated formula says that the crocodile did not kill the victim and
+    that water killed him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The crocodile repeats the performance three times.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After the three repetitions, the crocodile dives again and prepares the corpse
+    for a prospective banquet.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A footnote says Malays credit the crocodile with human origin, common sense,
+    and a strict regard for honesty.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The footnote compares the crocodile’s reputed laughter at people who pole
+    a boat downstream with a tiger’s reputed laughter at people who carry a torch
+    on a moonlit night.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: crocodile
+  description: A crocodile that captures a human victim, submerges him, speaks a denial
+    of guilt before celestial witnesses, and prepares the corpse for eating; the note
+    says Malays credit it with human origin, common sense, and honesty.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: captured man / drowned man / corpse
+  description: A human victim captured by the crocodile, submerged, drowned or smothered,
+    and then treated as a corpse for the crocodile’s prospective banquet.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Sun, Moon, and Stars
+  description: Celestial bodies called upon by the crocodile to bear witness to its
+    denial of homicide.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: captor and corpse-preparer
+  assigned_to:
+  - fig:1
+  basis: The crocodile captures the man, carries him below the surface, later rises
+    with the body, and then prepares the corpse for eating.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: captured victim and corpse
+  assigned_to:
+  - fig:2
+  basis: The man is captured, drowned or smothered, and then handled as a corpse.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: invoked witnesses
+  assigned_to:
+  - fig:3
+  basis: The crocodile calls upon the Sun, Moon, and Stars to bear witness to its
+    statement.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: morally and mentally attributed animal
+  assigned_to:
+  - fig:1
+  basis: The footnote says Malays credit the crocodile with human origin, common sense,
+    and honesty.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: water blamed for death
+  literal_form: water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: celestial witnesses
+  literal_form: Sun, Moon, and Stars
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: named crocodile teeth
+  literal_form: "“Exhausters of all Resources,” “Debateable” teeth, and “Tearers of
+    the Shroud”"
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: mangrove drowning place
+  literal_form: soft, thick mud of the mangrove swamp; snag or projecting root
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: capture beneath the surface
+  summary: The crocodile captures the man, carries him underwater, and uses mud, a
+    snag, or a root to make him drown or smother.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: denial before celestial witnesses
+  summary: The crocodile surfaces with the drowned body and calls on the Sun, Moon,
+    and Stars to witness that water, not the crocodile, killed the man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: threefold repetition and preparation of corpse
+  summary: The crocodile repeats the denial performance three times, dives again,
+    and begins preparing the corpse for a banquet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: explanatory note on crocodile attributes
+  summary: A footnote states that Malays attribute human origin, common sense, and
+    honesty to the crocodile, and gives examples of animal laughter at foolish human
+    behavior.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: fatal crocodile tooth categories
+  taxonomy_refs: []
+  basis: Named sets of crocodile teeth are linked with different chances of escape,
+    culminating in a category that makes the captured man effectively dead.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only a brief classification and does not explain the
+    wider system behind the tooth names.
+- id: motif:2
+  label: predatory crocodile drowning a human victim
+  taxonomy_refs: []
+  basis: The crocodile submerges the captured man and uses mud, a snag, or a root
+    so that he drowns or smothers.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a literal episode within crocodile folklore rather than a fully
+    narrated myth.
+- id: motif:3
+  label: animal denial of killing by blaming water
+  taxonomy_refs: []
+  basis: The crocodile calls celestial witnesses and recites that it did not kill
+    the victim; water killed him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The account does not specify whether the formula is understood as legal,
+    ritual, comic, or explanatory beyond the crocodile’s denial of homicide.
+- id: motif:4
+  label: threefold ritualized performance before eating
+  taxonomy_refs: []
+  basis: The crocodile repeats the witness-calling and denial three times before diving
+    to prepare the corpse for its banquet.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Only the repetition count and sequence are given; no explicit ritual interpretation
+    is supplied.
+- id: motif:5
+  label: crocodile as human-origin intelligent moral agent
+  taxonomy_refs: []
+  basis: The footnote says Malays credit the crocodile with human origin, common sense,
+    and a strict regard for honesty.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The human-origin belief is stated in a note, but the origin narrative
+    itself is not included in this passage.
+comparison_claims:
+- id: claim:1
+  claim: Within the footnote, crocodile folklore is cautiously compared with tiger
+    folklore by assigning both animals a similar capacity to laugh at foolish human
+    behavior.
+  claim_level: same_function
+  target: Malay tiger belief mentioned in the footnote
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to one noted behavioral attribution and does
+    not establish a shared narrative plot or historical relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16091-16100
+  quote_or_summary: 'Named crocodile teeth are listed with escalating danger: a man
+    may escape the “Exhausters of all Resources,” has uncertain escape from the “Debateable”
+    teeth, and is effectively dead if caught by the “Tearers of the Shroud.”'
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 16100-16110
+  quote_or_summary: After capture, the crocodile carries the victim below the surface
+    and tries to smother him in mangrove mud or push him under a snag or projecting
+    root so he drowns, while it watches from a short distance.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 16110-16117
+  quote_or_summary: After waiting, the crocodile seizes the drowned man’s body, rises
+    to the surface, and calls on the Sun, Moon, and Stars to witness that it was not
+    guilty of the homicide.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 16118-16128
+  quote_or_summary: "“It was not I who killed you, / It was water which killed you.”"
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 16129-16138
+  quote_or_summary: After repeating the performance three times, the crocodile dives
+    again and proceeds to prepare the corpse for its prospective banquet.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: footnote 1 within lines 16091-16138
+  quote_or_summary: The note says Malays credit the crocodile with human origin, common
+    sense, and honesty; it also compares crocodile laughter at people who pole a boat
+    downstream with tiger laughter at people carrying a torch on a moonlit night.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence is clear in the passage. Motif labels are descriptive
+    and need human review for taxonomy alignment. The only comparison claim is restricted
+    to the passage’s own footnote comparison with tiger lore.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external sources or unprovided taxonomy identifiers were used. Available taxonomy reference “water” was applied only to the literal water in the crocodile’s formula.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l16091-l16138
+  passage_sha256=eac54ca7e85b2eeef416e33956a1e02e8d3d7786900cc972a421f5f256ad3263
+

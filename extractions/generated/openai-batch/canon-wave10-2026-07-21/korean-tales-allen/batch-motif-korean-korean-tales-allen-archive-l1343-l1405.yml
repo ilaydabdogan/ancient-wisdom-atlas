@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.korean-korean-tales-allen-archive-l1343-l1405
+source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+passage_locator:
+  label: THE  ENCHANTED  WINE-JUG. / THE  ENCHANTED  WINE-JUG . 43 / THE  ENCHANTED  WINE-JUG.  45
+    / THE  ENCHANTED  WINE-JUG.  47; lines 1343-1405
+  start: '1343'
+  end: '1405'
+  translation: Korean Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: After failing to find the missing object in their neighborhood, the cat
+    and dog search across the frozen river for their poor old master. The cat detects
+    the odor of the coveted gem in a house across the river and traces it to a sealed
+    soapstone tobacco box on top of a clothes-press. Unable to open or move the box,
+    the cat consults the dog, who proposes asking the chief of the local rat guild
+    for help in exchange for ten years of protection from the cat and dog.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The searching party has already searched the whole neighborhood without success
+    and decides the missing item may have been taken to the other side of the river.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The river freezes solid enough for carts and ponies to cross, allowing the
+    searchers to cross on the ice and return each morning to the old master.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The old master is described as poor, broken by his loss, and mostly remaining
+    near his door except to buy limited provisions.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Near the time of the spring thaw, the cat chases around roof timbers in a
+    house across the river and detects an odor.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The cat traces the odor to a dusty soapstone tobacco box on top of a high
+    clothes-press.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The cat concludes that the coveted gem is the source of the odor and that
+    the possessor had placed it in the stone box without knowing its nature.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The box lid is fastened so securely that the cat cannot open it, so the cat
+    goes to consult the dog.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The dog says he cannot get up to the box, and the cat says he cannot move
+    it or safely push it down without risking breakage.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The dog proposes that the cat ask the chief of the neighborhood rat guild
+    for help.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The dog proposes offering the rats and mice ten years of safety from both
+    the cat and dog in return for help.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The dog explains that the stone is not harder than some wood and begins to
+    say that the rats can take turns at it; the passage ends before the plan is completed.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: poor old master
+  description: The old man whose loss has broken his spirits and who waits while the
+    searching animals return each morning.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: dog
+  description: One of the faithful comrades searching for the lost item; he avoids
+    the icy river water, is consulted for his wisdom, and proposes involving the rat
+    guild.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: cat / Thomas
+  description: One of the faithful comrades; he detects and traces the odor of the
+    gem, finds the sealed box, and consults the dog.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: sleeping man / possessor
+  description: A sleeping man lies below where the cat detects the odor; the cat concludes
+    that the possessor placed the gem in the stone box without knowing its nature.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: chief of the rat guild
+  description: The local rat leader whom the dog says the cat should approach for
+    help.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: rat guild / mice
+  description: The local rat and mouse group whose help is sought in exchange for
+    ten years of safety from the cat and dog.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: loss-stricken master
+  assigned_to:
+  - fig:1
+  basis: The passage calls him the poor old master and says he is completely broken
+    up by his loss.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: faithful animal searcher
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage calls the searching animals faithful comrades who continue looking
+    across the river and return to their master.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: scent-tracking finder
+  assigned_to:
+  - fig:3
+  basis: The cat detects and traces the odor to the box containing the coveted gem.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: planner and counselor
+  assigned_to:
+  - fig:2
+  basis: The cat consults the dog, and the dog proposes a plan involving the rat guild.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: unaware house occupant or possessor
+  assigned_to:
+  - fig:4
+  basis: A sleeping man is present below, and the cat concludes that the possessor
+    put the gem in the box without knowing its nature.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: prospective animal allies
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The dog proposes asking the chief of the rat guild and offering protection
+    to the rats and mice in return for help.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: frozen river crossing
+  literal_form: river, icy water, and frozen ice crossing
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: coveted gem
+  literal_form: gem identified by its odor and believed to be in the box
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sealed stone container
+  literal_form: dusty soapstone tobacco box with a securely fastened lid
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: ten-year non-harm pledge
+  literal_form: offer not to hurt the rat guild, even a mouse, for ten years
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Search extends across the frozen river
+  summary: After searching the neighborhood unsuccessfully, the animal searchers wait
+    for the river to freeze, cross on the ice, and continue returning to their old
+    master.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Cat discovers the gem’s hiding place
+  summary: In a house across the river, the cat detects an odor and traces it to a
+    dusty soapstone tobacco box that he believes contains the coveted gem.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Dog proposes help from the rat guild
+  summary: Because the cat cannot open or move the box and the dog cannot reach it,
+    the dog proposes bargaining with the chief of the rat guild for help.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: faithful animal helpers search for a lost precious object
+  taxonomy_refs: []
+  basis: The dog and cat are described as faithful comrades who continue searching
+    for the missing item on behalf of their poor old master.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not give the full earlier loss event or the full function
+    of the missing object.
+- id: motif:2
+  label: scent reveals hidden treasure in a sealed container
+  taxonomy_refs: []
+  basis: The cat detects an odor, traces it to a soapstone tobacco box, and concludes
+    the coveted gem is inside.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents the cat's conclusion; the object is not physically
+    recovered within this excerpt.
+- id: motif:3
+  label: wise animal counselor devises a solution
+  taxonomy_refs:
+  - wisdom
+  basis: The cat consults the dog's superior wisdom, and the dog devises a plan involving
+    the rat guild.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The effectiveness of the plan is not shown before the passage ends.
+- id: motif:4
+  label: predator-prey bargain for assistance
+  taxonomy_refs: []
+  basis: The dog proposes asking the rat guild for help in exchange for the cat and
+    dog sparing them for ten years.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The bargain is proposed but not accepted or carried out within the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1343-1361
+  quote_or_summary: The searchers fail to find the lost item in the neighborhood,
+    decide it may be across the river, wait for the river to freeze, cross on the
+    ice, and return each morning to the poor old master.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; provided passage allows full-text use.
+- id: ev:2
+  type: summary
+  locator: lines 1362-1371
+  quote_or_summary: After further unsuccessful searching, near the spring thaw the
+    cat chases along roof timbers in a house across the river and detects a significant
+    odor above a sleeping man.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; provided passage allows full-text use.
+- id: ev:3
+  type: summary
+  locator: lines 1372-1384
+  quote_or_summary: The cat traces the odor to a dusty soapstone tobacco box on a
+    high clothes-press and concludes the coveted gem is inside, placed there by someone
+    unaware of its nature.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; provided passage allows full-text use.
+- id: ev:4
+  type: summary
+  locator: lines 1385-1393
+  quote_or_summary: The box lid is too securely fastened for the cat to open; the
+    cat consults the dog, and both explain why they cannot safely reach, move, or
+    break open the box themselves.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; provided passage allows full-text use.
+- id: ev:5
+  type: summary
+  locator: lines 1394-1405
+  quote_or_summary: The dog proposes that the cat visit the chief of the local rat
+    guild and offer ten years of safety from the cat and dog in exchange for help,
+    noting that the stone is no harder than some wood.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; provided passage allows full-text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is clear for the excerpt. Motif candidates are limited
+    by the passage ending before the rat-guild plan is completed and by missing earlier
+    context about the lost object. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Passage ends mid-plan after the dog begins explaining how the rat guild could work on the stone box; no recovery outcome is included in this excerpt.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-tales-allen-archive__l1343-l1405
+  passage_sha256=2f5a1bc4dd77d2ad6443f566315a68acb5552d1e1c591f2627cdb682afce7b40
+

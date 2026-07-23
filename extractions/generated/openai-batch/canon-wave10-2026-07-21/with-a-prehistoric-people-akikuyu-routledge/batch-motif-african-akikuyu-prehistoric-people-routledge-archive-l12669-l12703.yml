@@ -1,0 +1,357 @@
+---
+record_id: batch.motif.african-akikuyu-prehistoric-people-routledge-archive-l12669-l12703
+source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+passage_locator:
+  label: DISPOSAL  OF  THE  DEAD  169 / BURIAL  171 / DEATH  173 / THE   DRINKING   OF  WARM   BLOOD;
+    lines 12669-12703
+  start: '12669'
+  end: '12703'
+  translation: 'With a Prehistoric People: The Akikuyu of British East Africa'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: Occasionally, towards sundown, the picturesque scene may be witnessed of
+    the warriors (A-na-ke) drinking blood.
+  summary: The passage describes Akikuyu warriors and elders assembling near a cattle
+    enclosure toward sundown, preparing specially wrapped arrows, restraining a selected
+    beast by the neck so that its external jugular vein swells, and a warrior attempting
+    to pierce the vein with an arrow.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Warriors called A-na-ke are described as drinking blood toward sundown.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Warriors and elders assemble outside a strong palisaded cattle enclosure called
+    a ky-u-go.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Cattle are driven in from pasture to a spot near the enclosure but are not
+    put into it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Arrows are prepared by wrapping most of their iron heads with thin sheepskin,
+    leaving only the tip exposed.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A beast is singled out, seized, and has a hide thong tightened around its
+    neck.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The tightened neck thong causes the external jugular vein to swell because
+    blood can no longer pass forward to the heart.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The beast struggles, and the surrounding people shout, argue, and scatter
+    when the animal moves.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: After the animal is secured, a warrior kneels about six feet away and shoots
+    an arrow at the swollen vein.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The passage says the warrior seldom pierces the vessel on the first attempt
+    because of the vein’s toughness and resiliency.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: warriors (A-na-ke)
+  description: Warriors who assemble near the cattle enclosure and are associated
+    with drinking blood; one warrior shoots an arrow at the swollen vein.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:2
+  name_or_label: elders
+  description: Elders assemble with the warriors outside the cattle enclosure.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: selected beast
+  description: A herd animal is singled out, restrained by a hide thong around its
+    neck, struggles, and has its swollen vein targeted by an arrow.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: cattle herd
+  description: The herd is driven from pasture to a spot near the cattle enclosure.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: blood drinkers
+  assigned_to:
+  - fig:1
+  basis: The opening sentence identifies warriors as drinking blood.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: assembled elders
+  assigned_to:
+  - fig:2
+  basis: The elders assemble with warriors outside the cattle enclosure.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: vein-piercing archer
+  assigned_to:
+  - fig:1
+  basis: One warrior kneels and shoots an arrow at the swollen vein.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: restrained animal
+  assigned_to:
+  - fig:3
+  basis: The beast is singled out, seized, restrained by the neck, and shot at near
+    the jugular vein.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: herd brought from pasture
+  assigned_to:
+  - fig:4
+  basis: The cattle are driven in from pasture toward the enclosure area.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: warm blood
+  literal_form: blood from the selected beast
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: cattle enclosure
+  literal_form: ky-u-go, a strong palisaded enclosure for the herd at night
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: prepared arrow
+  literal_form: lanceolate iron-headed arrow wrapped with thin sheepskin except for
+    the exposed tip
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:4
+  label: hide neck thong
+  literal_form: hide thong tightened around the beast’s neck
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Assembly near the cattle enclosure
+  summary: Toward sundown, warriors and elders assemble outside the ky-u-go while
+    cattle are brought from pasture to a nearby spot.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Preparation of arrows
+  summary: A few arrows are prepared with their iron heads mostly wrapped in thin
+    sheepskin so that only the cutting tip remains exposed.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Restraint of the beast
+  summary: A beast is selected, seized, and restrained with a hide thong around its
+    neck, making the external jugular vein swell while the animal struggles and the
+    crowd reacts noisily.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Arrow shot at the swollen vein
+  summary: After the animal is secured, a warrior kneels about six feet away and shoots
+    an arrow at the swollen vein, though the passage says the vessel is rarely pierced
+    on the first attempt.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: communal drinking of animal blood
+  taxonomy_refs: []
+  basis: The passage explicitly presents a scene of warriors drinking blood in the
+    presence of assembled elders near the cattle enclosure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The excerpt is ethnographic description rather than a mythic narrative,
+    and it does not state a theological or cosmological meaning for the act.
+- id: motif:2
+  label: blood extraction from a restrained living herd animal
+  taxonomy_refs: []
+  basis: The described procedure restrains a beast, swells its jugular vein with a
+    neck thong, and uses a prepared arrow to pierce the vein.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The provided passage ends before the full outcome of the procedure is
+    described.
+- id: motif:3
+  label: ritualized preparation of a specialized piercing weapon
+  taxonomy_refs: []
+  basis: The passage gives detailed preparation of arrows, including sheepskin wrapping
+    and an exposed cutting tip, before the vein-piercing attempt.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage describes a practical preparation; any ritual significance
+    beyond the described sequence is not stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 12669-12673
+  quote_or_summary: "“Occasionally, towards sundown,” warriors “(A-na-ke)” may be
+    seen “drinking blood.”"
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 12673-12677
+  quote_or_summary: Warriors and elders assemble outside the ky-u-go, described as
+    a strong palisaded cattle enclosure used to protect the herd at night.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 12677-12682
+  quote_or_summary: The cattle are driven from pasture to a convenient spot near the
+    ky-u-go but are not put into the enclosure.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 12683-12691
+  quote_or_summary: A few arrows are prepared by wrapping thin sheepskin around most
+    of their lanceolate iron heads, leaving a small flat cutting tip exposed.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 12692-12697
+  quote_or_summary: A beast is singled out and seized; a hide thong is tightened around
+    its neck, causing the external jugular vein to swell as blood cannot pass forward
+    to the heart.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 12697-12702
+  quote_or_summary: The beast struggles to rejoin the herd while the people shout,
+    argue, and at times scatter when the animal moves.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 12702-12703
+  quote_or_summary: Once the animal is secured, one warrior kneels about six feet
+    away and shoots an arrow at the swollen vein.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: '12703'
+  quote_or_summary: The passage states that the shooter seldom pierces the vessel
+    on the first attempt because of its toughness and resiliency.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for the described ethnographic procedure. Motif
+    classification is cautious because the passage does not provide mythic interpretation
+    or explicit symbolic meaning. No comparison claims are made because the passage
+    itself does not support comparison to another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The supplied passage appears to end mid-sentence, so extraction is limited to the provided lines.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-akikuyu-prehistoric-people-routledge-archive__l12669-l12703
+  passage_sha256=e82ad84bf08ee1377330cdc3640251a91955ca342849d4bef23d594804eb0122
+

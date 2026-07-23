@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l8396-l8443
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: OF  THE  VALLEYS  OF  PACHACAMAC  AND  EIMAC  AND  OF  THEIR / IDOLS. / SIXTH  BOOK  OF  THE  ROYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 8396-8443
+  start: '8396'
+  end: '8443'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage mentions human-victim immolation at principal festivals before
+    Inca conquest, then explains that the valley of Rimac was named for an anthropomorphic
+    idol whose name means “He who speaks.” The idol was said to speak and answer questions,
+    was venerated by Yuncas and later Yncas, and was kept in a rich temple consulted
+    by envoys for important affairs. The author also corrects Spanish historians who
+    confused the Rimac temple and speaking idol with Pachacamac.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A human victim was immolated during principal festivals, and the passage says
+    this was a practice in many provinces before they were conquered by the Yncas.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The valley of Rimac is described as four leagues north of Pachacamac.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The word Rimac is explained as meaning “He who speaks,” and the valley is
+    said to have been named from an idol there.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Rimac idol is described as having the shape of a man and as speaking and
+    giving answers to questions.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Yuncas held the Rimac idol in great veneration, and the Yncas also venerated
+    it after acquiring the valley.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Spaniards founded the city called “Of the Kings” in the valley; the passage
+    identifies Rimac, Lima, and the City of the Kings as referring to the same place
+    and notes that the city’s arms have three crowns and a star.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The idol was kept in a rich temple, and the lords of Peru sent envoys there
+    to consult about important affairs.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The author says Spanish historians confused the temple of Rimac with that
+    of Pachacamac and wrongly said Pachacamac was the speaking idol, attributing the
+    error to language ignorance, poor information gathering, and the proximity of
+    the valleys.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Rimac idol
+  description: An idol in the shape of a man, named from a term meaning “He who speaks,”
+    said to speak and answer questions and kept in a rich temple.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Yuncas
+  description: The people who held the Rimac idol in great veneration.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Yncas
+  description: The people who also venerated the Rimac idol after acquiring the valley.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: lords of Peru
+  description: Rulers or nobles who sent envoys to consult the Rimac temple about
+    important affairs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Spanish historians
+  description: Writers whom the author says confused the Rimac temple with the temple
+    of Pachacamac.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Pachacamac
+  description: A nearby valley and temple subject with which the author says Spanish
+    historians confused Rimac.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: speaking idol and respondent
+  assigned_to:
+  - fig:1
+  basis: The idol is said to speak and give answers to questions.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: temple cult object
+  assigned_to:
+  - fig:1
+  basis: The idol was kept in a rich temple and consulted by envoys.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: venerators of the idol
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage says the Yuncas and later the Yncas held the idol in great veneration.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: political consultants of the oracle
+  assigned_to:
+  - fig:4
+  basis: The lords of Peru sent envoys to consult the idol about important affairs.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: confounding historians
+  assigned_to:
+  - fig:5
+  basis: The author says Spanish historians confounded Rimac with Pachacamac and misidentified
+    the speaking idol.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: human victim
+  literal_form: A human victim immolated during principal festivals.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: speaking anthropomorphic idol
+  literal_form: An idol in the shape of a man that spoke and answered questions.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rich temple of Rimac
+  literal_form: The rich temple in which the speaking idol was kept and consulted.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: city arms of crowns and star
+  literal_form: Three crowns and a star used as the arms of the City of the Kings.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Festival immolation
+  summary: A human victim is immolated during principal festivals, in a practice associated
+    with provinces before their conquest by the Yncas.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Naming and speech of Rimac
+  summary: The valley of Rimac is said to take its name from an anthropomorphic idol
+    that spoke and gave answers to questions.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Veneration and consultation of the Rimac idol
+  summary: The Yuncas and Yncas venerate the Rimac idol, and the lords of Peru send
+    envoys to consult its temple about important affairs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Correction of confusion between Rimac and Pachacamac
+  summary: The author states that Spanish historians wrongly identified Pachacamac
+    as the speaking idol and confused the temples of Rimac and Pachacamac.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Human-victim immolation at festivals
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly mentions immolating a human victim during principal
+    festivals.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage begins mid-sentence, so the exact officiants and full ritual
+    setting are not recoverable from this excerpt alone.
+- id: motif:2
+  label: Speaking idol as oracle
+  taxonomy_refs:
+  - wisdom
+  basis: The Rimac idol is described as speaking, answering questions, and being consulted
+    through envoys on important affairs.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy has no specific oracle category; the link to “wisdom”
+    is functional rather than exact.
+- id: motif:3
+  label: Sacred place named from a speaking cult object
+  taxonomy_refs: []
+  basis: The valley name Rimac is explained from the idol called “He who speaks.”
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a naming pattern in the passage, not necessarily a broader mythic
+    motif without further corroborating passages.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the Rimac idol’s speaking and answering function
+    to the oracle of Delphic Apollo and other ancient oracles.
+  claim_level: same_function
+  target: Delphic Apollo oracle and other ancient oracle traditions
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an authorial functional analogy only; the passage does not
+    support historical contact, common inheritance, or a shared origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8396-8401
+  quote_or_summary: The passage mentions “immolating a human victim” during principal
+    festivals and says this was practiced in many provinces before Inca conquest.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 8403-8410
+  quote_or_summary: Rimac signifies “He who speaks”; the valley was named from “an
+    idol there, in the shape of a man, which spoke and gave answers to questions,”
+    compared to the Delphic Apollo oracle.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 8412-8420
+  quote_or_summary: The Yuncas and later the Yncas venerated the idol; the Spaniards
+    founded the City of the Kings there, and its arms are described as three crowns
+    and a star.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence from public domain text.
+- id: ev:4
+  type: summary
+  locator: 8422-8426
+  quote_or_summary: The idol was kept in a rich temple, and the lords of Peru sent
+    envoys to consult it about important affairs.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence from public domain text.
+- id: ev:5
+  type: summary
+  locator: 8426-8437
+  quote_or_summary: The author says Spanish historians confused the temple of Rimac
+    with Pachacamac, wrongly saying Pachacamac was the speaking idol, and explains
+    the mistake by language ignorance, poor information, proximity, and common lordship.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence from public domain text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is limited by the passage starting mid-sentence and ending
+    at the beginning of the next narrative section. The oracle comparison is explicit
+    in the passage; motif taxonomy mapping for the speaking idol is approximate.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. No historical-contact claim is made for the Delphic oracle analogy.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l8396-l8443
+  passage_sha256=ee434091100525e6f7fb6162d5557b78af76283af4e9fee345bd86cfec032450
+

@@ -1,0 +1,373 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l27009-l27048
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: NURSERY  RHYMES / HANTU  MUSANG / DANCES , SPORTS , GAMES / THE  MALA  Y
+    DRAMA; lines 27009-27048
+  start: '27009'
+  end: '27048'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists several Malay games involving coins, shells, coconut
+    shells, seeds, and cockle-shells, then introduces Malay theatrical exhibitions
+    as diverse forms with foreign sources that have been modified and naturalised
+    in the Peninsula.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One game is described as throwing coins as near as possible to one or more
+    holes in the ground.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Chimp lek is described as a heads-and-tails game, with heads called chaping
+    and tails called sim.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Porok consists of kicking a small coconut shell with the side of the foot
+    in order to hit a similar shell a few yards away.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Porok is compared with Selangor main gayau, where a fruit or seed called buah
+    gandu replaces the coconut shell and is propelled by the player’s big toe.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Main seremban is played with cockle-shells by two girls at a time, each taking
+    twenty cockle-shells into her lap.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: In main seremban, a player tosses and catches one cockle-shell while simultaneously
+    snatching another from the heap; failure in either task means losing to the opponent.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Malay drama is introduced broadly as theatrical exhibitions of several types
+    deriving from distinct sources.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage says many theatrical forms show traces of foreign extraction,
+    have been modified by Malays, are naturalised in the Peninsula, and were largely
+    borrowed from India, Siam, China, and possibly other countries.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: player of porok or main gayau
+  description: A game participant whose foot is used to kick or propel the game object.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: two girls playing main seremban
+  description: Two girls play main seremban at a time, each with twenty cockle-shells
+    in her lap.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: the Malays
+  description: The group described as having modified theatrical performances that
+    are now naturalised in the Peninsula.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: game participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Participants are described kicking, propelling, tossing, catching, or snatching
+    game objects.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: opponent in competitive play
+  assigned_to:
+  - fig:2
+  basis: The rule states that failure in the tasks causes the playing girl to lose
+    to her opponent.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: local modifiers of theatrical forms
+  assigned_to:
+  - fig:3
+  basis: The passage states that the theatrical forms have been much modified by the
+    Malays and naturalised in the Peninsula.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: coin game piece
+  literal_form: coins thrown toward a hole or holes in the ground
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hole target
+  literal_form: a hole or holes in the ground used as the target for thrown coins
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: porok game piece
+  literal_form: small coconut shell kicked toward a similar shell
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: main gayau substitute game piece
+  literal_form: fruit or seed called buah gandu, propelled by the player’s big toe
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: main seremban cockle-shells
+  literal_form: twenty cockle-shells held in each player’s lap and used for tossing,
+    catching, and snatching
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Coin throwing toward a ground hole
+  summary: A game is described in which coins are thrown as near as possible to a
+    hole or holes in the ground.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Chimp lek heads-and-tails game
+  summary: Chimp lek is presented as a heads-and-tails game with Malay terms for the
+    two outcomes.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Porok and main gayau
+  summary: Porok uses a kicked coconut shell to hit another shell; the passage compares
+    it to Selangor main gayau, which uses buah gandu propelled by the big toe.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Main seremban shell play
+  summary: Two girls play with cockle-shells, tossing and catching one while snatching
+    another; failure results in losing to the opponent.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Overview of Malay theatrical exhibitions
+  summary: Malay drama is described as a broad class of theatrical performances with
+    diverse sources, foreign extraction, local modification, and borrowing from India,
+    Siam, China, and possibly other countries.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: targeting a ground hole with thrown coins
+  taxonomy_refs: []
+  basis: The passage describes coins being thrown as near as possible to a hole or
+    holes in the ground.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a game pattern, not a mythic motif from the supplied taxonomy.
+- id: motif:2
+  label: binary heads-and-tails game
+  taxonomy_refs: []
+  basis: Chimp lek is defined by two named outcomes, heads and tails.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only the game type and terms, without ritual or mythic
+    context.
+- id: motif:3
+  label: kicking an object to strike a matching target object
+  taxonomy_refs: []
+  basis: Porok involves kicking a small coconut shell to hit a similar shell; main
+    gayau is presented as a variant using a seed or fruit.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a sports or game motif rather than a narrative motif.
+- id: motif:4
+  label: competitive shell toss-and-snatch dexterity game
+  taxonomy_refs: []
+  basis: Main seremban requires tossing and catching a shell while snatching another,
+    with failure causing loss to the opponent.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No symbolic interpretation is stated in the passage.
+- id: motif:5
+  label: foreign theatrical forms locally naturalised
+  taxonomy_refs: []
+  basis: The Malay theatrical exhibitions are said to derive from distinct sources,
+    show foreign extraction, and be modified by Malays into naturalised Peninsula
+    forms.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage gives broad source claims but does not name specific plays,
+    stories, or transmission routes.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Porok as functionally identical or very close to Selangor
+    main gayau, differing in the substituted game object and method of propulsion.
+  claim_level: same_function
+  target: Selangor main gayau
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the passage and concerns game mechanics
+    only.
+- id: claim:2
+  claim: The passage attributes much of Malay theatrical exhibition to historical
+    borrowing from India, Siam, China, and possibly other countries, followed by Malay
+    modification and naturalisation.
+  claim_level: historical_contact
+  target: theatrical traditions of India, Siam, China, and possibly other countries
+  evidence_refs:
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is general and does not specify individual dramatic works,
+    dates, intermediaries, or mechanisms of transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 27009-27012
+  quote_or_summary: A game is described in which coins are thrown as near as possible
+    to a hole or holes in the ground.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 27013-27016
+  quote_or_summary: Chimp lek is described as a heads-and-tails game, with heads called
+    chaping and tails called sim.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 27017-27020
+  quote_or_summary: Porok consists of kicking a small coconut shell with the side
+    of the foot to hit a similar shell a few yards away.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 27021-27025
+  quote_or_summary: Porok is said to appear identical with Selangor main gayau, except
+    that main gayau uses buah gandu and propels it by the big toe.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 27026-27030
+  quote_or_summary: Main seremban is played with cockle-shells by two girls at a time,
+    each taking twenty cockle-shells into her lap.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 27030-27034
+  quote_or_summary: Each main seremban player tosses and catches one cockle-shell
+    while snatching another from the heap; failure causes loss to the opponent.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 27035-27040
+  quote_or_summary: Malay drama is introduced broadly as including every kind of theatrical
+    exhibition and comprising several types derived from distinct sources.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 27040-27048
+  quote_or_summary: Many Malay theatrical performances are said to show foreign extraction,
+    to have been modified by Malays and naturalised in the Peninsula, and to have
+    been largely borrowed from India, Siam, China, and possibly other countries.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The games and broad theatrical-borrowing pattern are explicit. Motif confidence
+    is limited because the passage is ethnographic and recreational rather than mythic,
+    and the available mythological taxonomy has no clear matching entries.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No supplied taxonomy motif family or symbol reference was applied because the passage does not support those specific mythological categories.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l27009-l27048
+  passage_sha256=56c778c55bd23690c2a8ea818658d90931038879b9c7a21ec216d40ff6e08d49
+

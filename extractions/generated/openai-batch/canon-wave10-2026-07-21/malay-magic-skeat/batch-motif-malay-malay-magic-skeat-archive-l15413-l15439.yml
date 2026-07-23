@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l15413-l15439
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: MINING  TABOOS / GOLD-MINING / SILVER  AND  IRON / BEZOAR  STONES; lines
+    15413-15439
+  start: '15413'
+  end: '15439'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes monkey-bezoars and related stones by color, shape,
+    surface, and size; one calculus is said to have formed around a broken sumpitan
+    dart in an animal’s stomach; two Landak stones are compared in shape to a block
+    and a constable’s staff; an opened porcupine stone is introduced but not described
+    further in the excerpt.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Common monkey-bezoars are said to vary greatly in color and shape.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some observed monkey-bezoars are described as large-filbert-sized, convoluted,
+    cordate, smooth, shiny, and pale olive-green.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One stone shown by Mr. A. R. Houghton is described as one and a half inches
+    long, dirty greenish, smooth, cylindrical, and shaped like an Indian club.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The same stone is said to have formed around part of a sumpitan dart that
+    penetrated an animal’s stomach and broke off there.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'Two Landak stones in Houghton’s possession are described: one bright green
+    and block-like, and one chocolate-brown and shaped like a constable’s staff.'
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A porcupine stone is mentioned as having been opened, but the provided excerpt
+    ends before further description.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed narrator-observer
+  description: The speaker reports having seen monkey-bezoars of particular sizes,
+    colors, and shapes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mr. A. R. Houghton
+  description: A named person who showed the narrator one stone and possessed two
+    Landak stones.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: unspecified animal
+  description: The animal whose stomach was penetrated by a sumpitan dart fragment
+    around which a calculus formed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: observer-reporter
+  assigned_to:
+  - fig:1
+  basis: The passage uses first-person observation to describe seen monkey-bezoars.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: collector or possessor of stones
+  assigned_to:
+  - fig:2
+  basis: Houghton showed one stone to the narrator and had two Landak stones in his
+    possession.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: animal host of calculus formation
+  assigned_to:
+  - fig:3
+  basis: A dart fragment is said to have penetrated the animal’s stomach and later
+    served as the nucleus of a calculus.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: monkey-bezoars
+  literal_form: Animal stones or calculi described by color, shape, size, and surface.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sumpitan dart fragment
+  literal_form: A broken portion of a sumpitan dart inside an animal’s stomach.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: dart-nucleated calculus
+  literal_form: A smooth greenish cylindrical stone formed around a sumpitan dart
+    fragment.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Landak stones
+  literal_form: Two stones, one bright green and block-like, the other chocolate-brown
+    and staff-like.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: porcupine stone
+  literal_form: A porcupine stone mentioned as opened, without further details in
+    the excerpt.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Description of monkey-bezoar variation
+  summary: The narrator describes common monkey-bezoars as varying in color and shape,
+    with examples that are smooth, shining, pale olive-green, convoluted, and cordate.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Houghton’s dart-nucleated stone
+  summary: Mr. A. R. Houghton shows a greenish cylindrical stone said to have aggregated
+    around a broken sumpitan dart fragment in an animal’s stomach.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Houghton’s Landak stones
+  summary: Houghton’s two Landak stones are described by color and resemblance to
+    a block and a constable’s staff.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Incomplete mention of opened porcupine stone
+  summary: The excerpt begins to describe a porcupine stone that was opened, but the
+    passage cuts off before details are provided.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal-origin stone or bezoar
+  taxonomy_refs: []
+  basis: The passage repeatedly describes stones or calculi associated with animals,
+    including monkey-bezoars, Landak stones, and a porcupine stone.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The excerpt catalogs physical features and does not state a magical use,
+    ritual function, or mythic narrative for the stones.
+- id: motif:2
+  label: foreign object becoming nucleus of animal stone
+  taxonomy_refs: []
+  basis: One calculus is explicitly said to have formed around a broken sumpitan dart
+    fragment lodged in an animal’s stomach.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage explains the formation as a calculus around a foreign body;
+    no supernatural transformation is stated.
+- id: motif:3
+  label: stones compared to tools or implements by shape
+  taxonomy_refs: []
+  basis: The described stones are visually likened to an Indian club, a block, and
+    a constable’s staff.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a descriptive visual pattern in the passage, not evidence of a
+    broader comparative motif by itself.
+comparison_claims:
+- id: claim:1
+  claim: The passage makes explicit visual comparisons between bezoar or Landak stone
+    shapes and familiar objects or implements.
+  claim_level: visual_similarity
+  target: Indian club, block, and constable’s staff as shape analogies for stones
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the author’s shape analogies; no historical,
+    linguistic, or mythological connection is asserted.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15413-15420
+  quote_or_summary: Common monkey-bezoars vary in color and shape; examples seen by
+    the narrator are large-filbert-sized, convoluted, cordate, smooth, shining, and
+    pale olive-green.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: 15420-15431
+  quote_or_summary: Mr. A. R. Houghton showed a one-and-a-half-inch dirty greenish
+    smooth cylindrical stone shaped like an Indian club; it had aggregated around
+    a broken sumpitan dart fragment that penetrated an animal’s stomach.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: 15431-15438
+  quote_or_summary: 'Houghton possessed two Landak stones: one bright green and block-like,
+    and another rich chocolate-brown and comparable in form to a constable’s staff.'
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: 15438-15439
+  quote_or_summary: The excerpt begins to mention a porcupine stone that was opened,
+    but no further description is included in the provided lines.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because this excerpt is primarily descriptive and does not state ritual or mythic
+    meaning.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family or symbol reference is directly supported by the provided passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l15413-l15439
+  passage_sha256=ad6a7106c36fc56237903920d417aab8a9659978bedf9c59715b3d825a6defe5
+

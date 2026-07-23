@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.polynesian-ancient-history-maori-v3-white-archive-l1211-l1248
+source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+passage_locator:
+  label: UE-NUKU AND WHENA. 6 / WHENA KILLS THE CHILDREN OF UE-NUKU. O / MAHI-KUA
+    AXD UE-NUKU. 7 / EUA-TAPU KILLS HIS COMPANIONS. 11; lines 1211-1248
+  start: '1211'
+  end: '1248'
+  translation: The Ancient History of the Maori, His Mythology and Traditions, Volume
+    3
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: he fed his mother's heart to his and her own son Ira
+  summary: The passage gives an English translation of a spell or chant invoking sacred
+    fire, the west, chiefly figures, cooking-oven imagery, and commands to space and
+    sky to fight and return. After the spell is completed, the chanter feeds his mother's
+    heart to Ira, named parenthetically as meaning wart or pimple.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The chant says the speaker's sacred fire is kindled by friction.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chant refers to being above, abroad, outside, and toward the west, and
+    mentions a vengeful desolating principal chief.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The chant says the great chief and the first-born will never be forgotten,
+    and mentions an eater of scraps and leavings.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The chant repeatedly describes a cooking-oven baking slowly or badly, including
+    an oven above and an oven below, while the speaker says he is wasting away, naked,
+    and waiting.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The chant commands space and sky to rush to the fight, show valor, and then
+    return; it says the matter is ended.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After chanting the spell, the unnamed male actor feeds his mother's heart
+    to Ira.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed spell-chanter
+  description: An unnamed male figure identified by the pronoun "he" after he has
+    chanted the spell.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: the chanter's mother
+  description: The mother of the unnamed figure; her heart is fed to Ira.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Ira
+  description: A named figure described in the phrase "his and her own son Ira" and
+    glossed parenthetically as "wart or pimple"; he receives the mother's heart.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: spell-chanter and feeder
+  assigned_to:
+  - fig:1
+  basis: The passage states that he had chanted all his spell and then fed the heart
+    to Ira.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: mother whose heart is used
+  assigned_to:
+  - fig:2
+  basis: The heart being fed is identified as the heart of the chanter's mother.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: named recipient
+  assigned_to:
+  - fig:3
+  basis: Ira is the named recipient of the mother's heart in the final sentence.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sacred fire
+  literal_form: fire kindled by friction
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: west
+  literal_form: direction toward the west
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: cooking-oven
+  literal_form: cooking-oven or baking-oven described as baking above and below
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: space and sky called to fight
+  literal_form: space and sky commanded to rush to the fight and show valor
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: mother's heart
+  literal_form: the heart of the chanter's mother, fed to Ira
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: chant of fire, oven, west, and battle commands
+  summary: The spell speaks of sacred fire kindled by friction, the west, remembered
+    chiefs, cooking-oven imagery, and commands to space and sky to fight, show valor,
+    return, and end.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: feeding of the mother's heart to Ira
+  summary: Once the spell has been fully chanted, the unnamed male actor feeds his
+    mother's heart to Ira.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: spell or chant preceding ritual action
+  taxonomy_refs: []
+  basis: The passage consists of a spell-like chant and then explicitly says that,
+    after all the spell was chanted, the actor performed the feeding action.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The purpose and ritual context of the spell are not explained in this
+    excerpt.
+- id: motif:2
+  label: martial invocation of cosmic spaces
+  taxonomy_refs: []
+  basis: The chant addresses space and sky directly and commands them to rush to the
+    fight, show valor, and return.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain whether space and sky are personified beings,
+    locations, or poetic terms.
+- id: motif:3
+  label: sacred fire kindled by friction
+  taxonomy_refs: []
+  basis: The opening line states that the speaker's sacred fire is kindled by friction.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The excerpt does not describe the actual fire-making act beyond the line
+    in the chant.
+- id: motif:4
+  label: ritualized use of a mother's heart
+  taxonomy_refs:
+  - sacrifice
+  basis: After the spell, the actor feeds his mother's heart to Ira, making the heart
+    the focus of a spell-linked action.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage does not state that the mother was killed as an offering or
+    explain the ritual purpose; the association with the sacrifice motif family is
+    tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 1211
+  quote_or_summary: '"My sacred fire is verily kindled by friction."'
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 1213-1215
+  quote_or_summary: The chant refers to being above, abroad, outside, toward the west,
+    and to a vengeful desolating principal chief.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1217-1221
+  quote_or_summary: The chant says the great chief and the first-born will never be
+    forgotten, and then mentions an eater of scraps and leavings.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1223-1233
+  quote_or_summary: The chant describes the cooking-oven or baking-oven baking slowly
+    or badly, above and below, while the speaker is wasting away, naked, and waiting.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1235-1245
+  quote_or_summary: The chant commands space and sky to rush to the fight, show valor,
+    return from the charge, and says it is ended.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 1247-1248
+  quote_or_summary: '"When he had chanted all his spell he fed his mother''s heart
+    to his and her own son Ira (wart or pimple)."'
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is based on a short English passage, but the chant
+    imagery and kinship phrasing are obscure. No comparison claims are made because
+    the excerpt itself does not establish a cross-text or cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage text and metadata. Section-title context was not used to infer additional events.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-ancient-history-maori-v3-white-archive__l1211-l1248
+  passage_sha256=98311b9a50cb8553359e849723b5c7c3ed1310c2cdc779f5924cc1dc4651d8b8
+

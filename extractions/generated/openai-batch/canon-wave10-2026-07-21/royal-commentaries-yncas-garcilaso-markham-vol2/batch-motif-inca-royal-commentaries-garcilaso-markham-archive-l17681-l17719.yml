@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l17681-l17719
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OE  THE  YNCAS. / CHAPTER  XX. / OF  THE  PARTRIDGES,  DOVES,  AND  OTHER  SMALLER  BIRDS.
+    / EIGHTH  BOOK  OF  THE  ROYAL; lines 17681-17719
+  start: '17681'
+  end: '17719'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: the Indians looked upon their song as an evil omen
+  summary: The passage catalogs several small birds in Peru and Chile, giving Spanish
+    comparison-names and Indigenous names, noting song, nesting habits, seasonal appearance,
+    tameness, flocking, and speed. One brown bird's bad song is described as an evil
+    omen for the Indians, and the Chilean suri is described as faster than horses
+    in relay tests.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Small grey birds called pariapichiu by the Indians are compared to sparrows
+    in size and colour, sing sweetly, and build both under house eaves and in fields.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Brown birds called nightingales by the Spaniards are said to sing very badly.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Indians looked upon the bad song of the brown birds as an evil omen.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Small black birds called swallows by the Spaniards, but described as more
+    like martins, arrive at certain seasons, lodge together in roof holes, fly about
+    villages, and are tame.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator says that in the Sierra he never saw true swallows or martins.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Chilean birds called suri are compared to ostriches, are grey and white,
+    do not fly high, and run faster than a horse.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Spaniards put some suri in relays against horses, and one or two successive
+    horses could not tire the birds.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Birds called linnets by the Spaniards are black and yellow, fly in flocks,
+    and are called chayna by the Indians from the sound of their song.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: pariapichiu birds
+  description: Small grey, sparrow-like birds with sweet song that build under eaves
+    and in fields.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: brown birds called nightingales
+  description: Brown birds compared by Spaniards to nightingales; their song is described
+    as very bad and treated by Indians as an evil omen.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: small black birds called swallows or martins
+  description: Small black birds called swallows by Spaniards but said to resemble
+    martins; they arrive seasonally, lodge in roof holes, and are tame in villages.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: suri ostriches of Chile
+  description: Grey and white ostrich-like birds in Chile, within the empire of the
+    Yucas of Cuzco, described as swift runners that could not be tired by horses in
+    relay.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: chayna birds
+  description: Black and yellow birds called linnets by Spaniards; they fly in flocks
+    and receive the Indigenous name chayna from the sound of their song.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Spaniards
+  description: People who assign European comparison-names to local birds and are
+    said to have tested suri against horses.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Indians
+  description: People who provide Indigenous bird names and interpret the brown birds'
+    song as an evil omen.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+roles:
+- id: role:1
+  label: sweet-singing small bird
+  assigned_to:
+  - fig:1
+  basis: The passage says these grey birds sing very sweetly and nest under eaves
+    and in fields.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: omen-associated badly singing bird
+  assigned_to:
+  - fig:2
+  basis: The passage states that the brown birds sing very badly and that Indians
+    regard the song as an evil omen.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: seasonal roof-lodging tame bird
+  assigned_to:
+  - fig:3
+  basis: The passage describes their seasonal arrival, roof-hole lodging, village
+    flight, and tameness.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: swift runner tested against horses
+  assigned_to:
+  - fig:4
+  basis: The passage says suri run faster than a horse and could not be tired by horse
+    relays.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: flocking bird named from its song
+  assigned_to:
+  - fig:5
+  basis: The passage says these birds fly in flocks and are called chayna, the sound
+    of their song.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: Spanish comparers and testers
+  assigned_to:
+  - fig:6
+  basis: The Spaniards apply European bird names to local birds and test suri against
+    horses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:7
+  label: Indigenous namers and omen interpreters
+  assigned_to:
+  - fig:7
+  basis: The Indians name certain birds and treat the brown birds' song as an evil
+    omen.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+symbols:
+- id: sym:1
+  label: evil omen bird song
+  literal_form: the bad song of the brown birds called nightingales by the Spaniards
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Catalog of small birds and names
+  summary: The passage lists several birds, comparing them to European species and
+    giving Indigenous names for pariapichiu and chayna.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: scene:2
+  label: Bad song interpreted as omen
+  summary: Brown birds called nightingales by Spaniards are described as bad singers,
+    and the Indians regard their song as an evil omen.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Seasonal birds in village roofs
+  summary: Small black birds compared to swallows or martins come in certain seasons,
+    lodge in holes in roofs in groups of ten or twelve, and fly tamely in villages.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Suri outrun horses
+  summary: In Chile, suri are described as grey and white ostrich-like birds that
+    run faster than horses; Spaniards try them in relays against horses, but the birds
+    are not tired.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: bird song as evil omen
+  taxonomy_refs: []
+  basis: The passage explicitly states that Indians regarded the bad song of the brown
+    birds as an evil omen.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage records an omen belief but gives no associated ritual, narrative
+    consequence, or detailed divinatory procedure.
+- id: motif:2
+  label: extraordinary bird swiftness surpassing horses
+  taxonomy_refs: []
+  basis: The suri are said to run faster than a horse, and horse relays could not
+    tire them.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is presented as natural-historical description and anecdote, not
+    explicitly as mythic or sacred narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17683-17687
+  quote_or_summary: Small grey birds called pariapichiu by the Indians are sparrow-like
+    in colour and size, sing sweetly, and build under house eaves and in fields.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 17688-17692
+  quote_or_summary: Brown birds are called nightingales by Spaniards, sing very badly,
+    and “the Indians looked upon their song as an evil omen.”
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 17692-17698
+  quote_or_summary: Small black birds called swallows by Spaniards are described as
+    more like martins; they come seasonally, lodge in roof holes in groups of ten
+    or twelve, fly about villages, and are tame.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 17699-17702
+  quote_or_summary: The narrator says coastal birds are mostly the same except for
+    sea birds, and that certain European birds are absent while other birds take their
+    places.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 17702-17710
+  quote_or_summary: In Chile, suri are ostrich-like birds, grey and white, not high
+    flyers, but very swift; they run faster than a horse, and horse relays could not
+    tire them.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 17710-17713
+  quote_or_summary: Birds called linnets by Spaniards are black and yellow, fly in
+    flocks, and are called chayna by the Indians from the sound of their song.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 17714-17716
+  quote_or_summary: The narrator says there are many other kinds of birds, but he
+    cannot account for them because of their number and his limited memory.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is chiefly descriptive natural history. The omen motif is explicit;
+    the suri speed pattern is less securely mythic. No cross-text comparison claims
+    were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy refs were not assigned because the passage does not directly support a listed motif family or symbol taxonomy item.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l17681-l17719
+  passage_sha256=b5c234794920b3218ac55e07e1e4e55097b14e6a8d6c56ee3b05a6067a9eb648
+

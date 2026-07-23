@@ -1,0 +1,382 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l9483-l9574
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: FOUNDATION. / INUINU   TAI. / FIRST   OFFSHOOT. / INUINU   RUA.  SECOND   OFFSHOOT.;
+    lines 9483-9574
+  start: '9483'
+  end: '9574'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A song section describes a first-person speaker turning toward another
+    land, standing at the edge of a dark chasm, leading a troop of ghosts over sharp
+    sea-side rocks, awaiting a south-eastern breeze to cross the ocean, and departing
+    amid darkness, rain, spray, tears, and mourning garments.
+  language: Mangaian with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker turns their eyes toward another land and refers to the spirit
+    resting in another region.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker is positioned on a trembling stone at the edge or entrance of
+    a dark chasm.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The path is described as passing over black rocks near the sea and over rough,
+    sharp stones.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker says they lead a feeble troop of ghosts.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The group awaits a south-eastern breeze to carry them over a far-reaching
+    ocean.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The group has wandered over sea-washed sandstone and thickly studded rocks.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Darkness overtakes the group; they sit down to weep and are described as a
+    tearful band under Vera’s guidance.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A drizzling shower hides the interior heights, and ocean spray besprinkles
+    the group.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The group is told it is time to depart, and their garments are described as
+    mourning weeds and flowers.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: first-person speaker
+  description: The first-person voice turns toward another land, stands at the chasm
+    edge, describes the path, and says they lead ghosts.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: feeble troop of ghosts / tearful band
+  description: A ghostly group led over rocks, awaiting a breeze to cross the ocean,
+    weeping in darkness, and addressed as friends at departure.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: Vera
+  description: A named figure under whose guidance the tearful band is described.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: spirit-traveler
+  assigned_to:
+  - fig:1
+  basis: The speaker turns toward another land where the spirit may rest and stands
+    at the edge of a dark chasm.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: traveling dead or ghost band
+  assigned_to:
+  - fig:2
+  basis: The group is explicitly called a feeble troop of ghosts and later a tearful
+    band.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: guide or leader
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The speaker says they lead the ghost troop, and the band is also said to
+    be under Vera’s guidance.
+  evidence_refs:
+  - ev:4
+  - ev:7
+symbols:
+- id: sym:1
+  label: other land or region
+  literal_form: another land; other region where the spirit may rest
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: dark chasm threshold
+  literal_form: trembling stone at the edge or entrance of a dark chasm
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: black and sharp rocks
+  literal_form: black rocks near the sea; roughest and sharpest stones; thickly studded
+    rocks
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: sea and ocean waters
+  literal_form: sea, far-reaching ocean, drizzling shower, and ocean spray
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:5
+  label: south-eastern breeze
+  literal_form: long-hoped-for south-eastern breeze
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: darkness and tears
+  literal_form: darkness overtaking the group; weeping and tearful band
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: mourning garments
+  literal_form: garments described as mourning weeds and flowers
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: turning toward another land at the chasm
+  summary: The speaker looks toward another land, speaks of the spirit resting elsewhere,
+    and stands on a trembling stone at the edge of a dark chasm.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: leading ghosts over sea-side rocks
+  summary: The speaker’s path crosses black rocks near the sea and rough sharp stones
+    while leading a feeble troop of ghosts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: awaiting the ocean-crossing breeze
+  summary: The ghost band awaits a south-eastern breeze to waft them over the ocean
+    after wandering over sea-washed sandstone and rocks.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: weeping and departure under Vera’s guidance
+  summary: Darkness overtakes the group; they weep as a tearful band under Vera’s
+    guidance, are exposed to rain and ocean spray, and are told it is time to depart
+    in mourning garments.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: journey of spirits through an afterlife landscape
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: 'The passage describes a spirit and a troop of ghosts moving through named
+    or vivid terrain: chasm, rocks, sea, ocean, darkness, and guidance.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage is a song excerpt and does not provide a prose explanation
+    of the full cosmology or destination.
+- id: motif:2
+  label: departure across water
+  taxonomy_refs:
+  - departure
+  basis: The ghost band awaits a breeze to carry them across the far-reaching ocean
+    and is later told it is time to depart.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  confidence: high
+  cautions: The destination and outcome of the departure are not stated in this excerpt.
+- id: motif:3
+  label: guided procession of ghosts
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The speaker leads a troop of ghosts, and the tearful band is described as
+    under Vera’s guidance.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The relationship between the speaker and Vera is not clarified in the
+    passage.
+- id: motif:4
+  label: liminal chasm threshold
+  taxonomy_refs: []
+  basis: The speaker stands on a trembling stone at the edge or entrance of a dark
+    chasm before the ghostly journey continues.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not state whether the chasm is entered, crossed, or avoided.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9483-9574, opening of Second Offshoot
+  quote_or_summary: "“I turn my eyes ... to another land”; “may my spirit rest” in
+    another region."
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 9483-9574, chasm lines
+  quote_or_summary: "“On this trembling stone, at the edge of the chasm”; “entrance
+    ... of this dark chasm.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 9483-9574, rocky path lines
+  quote_or_summary: "“My path is over yon black rocks near the sea”; “roughest and
+    sharpest stones.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 9483-9574, ghost troop line
+  quote_or_summary: "“I lead this feeble troop of ghosts.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 9483-9574, breeze and ocean lines
+  quote_or_summary: The group awaits the “south-eastern breeze” to “waft us over the
+    far-reaching ocean.”
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: lines 9483-9574, wandering over rocks lines
+  quote_or_summary: They have wandered, stepping on “sea-washed sandstone” and over
+    “thickly studded rocks.”
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: quote
+  locator: lines 9483-9574, darkness and Vera lines
+  quote_or_summary: "“Overtaken by darkness we sit down to weep”; “A tearful band,
+    under the guidance of Vera.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:8
+  type: summary
+  locator: lines 9483-9574, rain and spray lines
+  quote_or_summary: A drizzling shower hides the interior heights, and at another
+    time ocean spray besprinkles the group.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; neutral summary used.
+- id: ev:9
+  type: quote
+  locator: lines 9483-9574, departure and mourning lines
+  quote_or_summary: "“’Tis time, friends, to depart”; “Our garments are mourning weeds
+    and flowers.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the translated song text. Motif candidates
+    are plausible from the imagery of ghosts, travel, chasm, ocean crossing, guidance,
+    and departure, but the excerpt does not supply a full explanatory mythic frame.
+    No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used; no external identifications of Vera or named places were added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l9483-l9574
+  passage_sha256=5ffb453bc75afb1e8f2f828633ca40cca37bfa043cbacfec9444ed9bb130e212
+

@@ -1,0 +1,461 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l13429-l13474
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: INSCRIPTION   OF   ANTIOCHUS-SOTER  195 / THE   HISTORY   OF   ASSYRIA   AND   BABYLONIA      197
+    / I98        ASSYRIAN   AND   BABYLONIAN   LITERATURE / THE   HISTORY   OF   ASSYRIA   AND   BABYLONIA      199;
+    lines 13429-13474
+  start: '13429'
+  end: '13474'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A fragmentary historical inscription recounts Assyrian victories over Karduniash,
+    capture of cities, deportation of persons and treasures, removal of gods as spoil,
+    offerings at Kutha, Babylon, and Borsippa, receipt of tribute, boundary settlement,
+    return of captives, temple tribute, and instructions for a later prince to add
+    royal deeds to an eternal tablet.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A boundary is described as fixed in the opening fragment.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Shamshi-Jramman, King of Assyria, is said to have defeated Mardukbalatsuiqbi,
+    King of Karduniash, and covered the plain with corpses of soldiers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A city was captured, and Bauhiddin, with property and palace treasure, was
+    brought to Assyria.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Several Karduniash cities and their citadels are listed as captured.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Named gods, including Humhummu, Belit of Babylon, Belit of Akkad, Shimalia,
+    Nergal, and Anunit, are said to have been carried away as rich spoil.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The victorious figure went to Kutha, Babylon, and Borsippa and offered pure
+    sacrifices.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The figure went down to Kaldu, received tribute from the King of Kaldu, and
+    re-established or fixed territory and boundary.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Rammannirari is named in a badly broken section; the passage then reports
+    captives brought back, temple tribute imposed, and a boundary fixed fairly.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A later prince established in Akkad is instructed to write power and conquest
+    on an eternal tablet and add it to the inscription.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The receiver of the tablet is instructed to listen to what is written, glorify
+    Assyria, and drive out the wickedness of Akkad.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: A postscript identifies the object as property of Ashurbanipal, King of Assyria.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mardukbalatsuiqbi, King of Karduniash
+  description: Named as the King of Karduniash who was defeated; the name appears
+    in a broken/OCR-distorted context.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Shamshi-Jramman, King of Assyria
+  description: Named as the Assyrian king who defeated Mardukbalatsuiqbi; subsequent
+    conquest actions appear to continue the Assyrian victory narrative.
+  role_refs:
+  - role:2
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Bauhiddin
+  description: Person brought to Assyria with property and palace treasure after a
+    city was captured.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Rammannirari, King of Assyria
+  description: Named in a broken section associated with bringing back captives, imposing
+    temple tribute, and fixing a boundary fairly.
+  role_refs:
+  - role:6
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Later prince established in Akkad
+  description: Future ruler addressed in the inscription and instructed to add records
+    of power and conquest to the tablet.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Ashurbanipal, King of Assyria
+  description: Named in the postscript as owner of the tablet or text object.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Captured gods of Karduniash cities
+  description: 'Named divine figures or divine images carried away as spoil: Humhummu,
+    Belit of Babylon, Belit of Akkad, Shimalia, Nergal, Anunit, and others in a broken
+    line.'
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: King of Kaldu
+  description: Ruler from whom tribute is received.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: defeated king
+  assigned_to:
+  - fig:1
+  basis: The passage says Mardukbalatsuiqbi was defeated by Shamshi-Jramman.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Assyrian victor and conqueror
+  assigned_to:
+  - fig:2
+  basis: The passage names Shamshi-Jramman as defeating the Karduniash king and then
+    recounts captures, removal of goods and gods, sacrifices, tribute, and boundary
+    re-establishment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: captive or removed person with property
+  assigned_to:
+  - fig:3
+  basis: Bauhiddin is brought to Assyria with property and palace treasure after a
+    captured city.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine figures removed as spoil
+  assigned_to:
+  - fig:7
+  basis: The named gods are carried away as rich spoil.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: tributary ruler
+  assigned_to:
+  - fig:8
+  basis: The King of Kaldu gives or has tribute received from him.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Assyrian boundary-settling king
+  assigned_to:
+  - fig:4
+  basis: Rammannirari is named in a broken section followed by return of captives,
+    temple tribute, and fair fixing of a boundary.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: future tablet continuator
+  assigned_to:
+  - fig:5
+  basis: A later prince is instructed to write power and conquest and add it to the
+    eternal tablet.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: tablet owner in postscript
+  assigned_to:
+  - fig:6
+  basis: The postscript identifies the object as property of Ashurbanipal, King of
+    Assyria.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: King of Assyria
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:6
+  basis: Each figure is explicitly titled King of Assyria in the passage or postscript.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: fixed boundary
+  literal_form: Boundary and territory fixed or re-established
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: captured gods as spoil
+  literal_form: Named gods carried away as rich spoil
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs:
+  - sacred_theft
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: pure sacrifices
+  literal_form: Pure sacrifices offered at Kutha, Babylon, and Borsippa
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: tribute and temple tribute
+  literal_form: Tribute from the King of Kaldu and imposed temple tribute of grain
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: eternal tablet
+  literal_form: Tablet described as eternal and never to be forgotten
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Fragmentary defeat and boundary notice
+  summary: The passage opens with a broken notice of a fixed boundary and then names
+    an Assyrian king defeating a Karduniash king with heavy slaughter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Capture of cities, treasure, and gods
+  summary: A city and several Karduniash cities and citadels are captured; Bauhiddin,
+    treasure, and named gods are brought or carried away to Assyria.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sacrifices, tribute, and boundary re-establishment
+  summary: The conquering figure visits Kutha, Babylon, and Borsippa, offers pure
+    sacrifices, receives tribute from Kaldu, and re-establishes territory and boundary.
+  figure_refs:
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Return of captives and fair boundary fixing
+  summary: In a broken section naming Rammannirari, captives are brought back, temple
+    tribute is imposed, and Assyria and Karduniash have their territory and boundary
+    fixed fairly.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Instruction for eternal royal record
+  summary: A later prince is told to add power and conquest to the eternal tablet;
+    whoever receives it is told to heed the writing, glorify Assyria, and expel Akkadian
+    wickedness; the postscript names Ashurbanipal as owner.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: victorious royal conquest and boundary affirmation
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage repeatedly links Assyrian kingship with military victory, capture
+    of cities, tribute, boundary fixing, and later commemoration of power and conquest
+    on a tablet.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is fragmentary and historical-inscriptional rather than a
+    continuous myth narrative.
+- id: motif:2
+  label: removal of divine figures as war spoil
+  taxonomy_refs:
+  - sacred_theft
+  basis: The passage says named gods were carried away as rich spoil after the capture
+    of cities.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The text frames the act as conquest spoil, not explicitly as theft; taxonomy
+    mapping should be reviewed.
+- id: motif:3
+  label: ritual sacrifice at named sacred cities
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly says pure sacrifices were offered at Kutha, Babylon,
+    and Borsippa.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The ritual details and recipients are not specified in the passage.
+- id: motif:4
+  label: imperishable royal inscription preserving conquest
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: A later prince is instructed to write power and conquest onto an eternal
+    tablet, and future receivers are told to listen and glorify Assyria.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is an inscriptional commemoration pattern; it is not presented as
+    a mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13429-13435
+  quote_or_summary: 'Fragmentary opening: a boundary is fixed; Shamshi-Jramman, King
+    of Assyria, defeats Mardukbalatsuiqbi, King of Karduniash, and the plain is covered
+    with soldiers'' corpses.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 13436-13444
+  quote_or_summary: A city is captured; Bauhiddin, property, and palace treasure are
+    brought to Assyria; multiple Karduniash cities and citadels are captured, and
+    named gods are carried away as rich spoil.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 13444-13450
+  quote_or_summary: The figure goes to Kutha, Babylon, and Borsippa to offer pure
+    sacrifices, goes down to Kaldu, receives tribute from the King of Kaldu, and re-establishes
+    or fixes territory and boundary.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 13452-13458
+  quote_or_summary: Rammannirari, King of Assyria, is named in badly broken lines;
+    captives are brought back, temple tribute of grain is imposed, and Assyria and
+    Karduniash fix territory and boundary fairly.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 13460-13466
+  quote_or_summary: A later prince in Akkad is instructed to write power and conquest
+    and add it to an eternal tablet; whoever receives it is to heed the writing, glorify
+    Assyria, and drive out Akkadian wickedness.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 13468-13470
+  quote_or_summary: The postscript identifies the object as property of Ashurbanipal,
+    King of Assyria; a note says the source is a broken tablet.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is heavily fragmentary with broken lines and OCR-like name distortions.
+    Literal extraction is mostly secure where action verbs and titles are clear; motif
+    mapping is provisional.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another text, tradition, or motif family beyond cautious taxonomy tagging.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l13429-l13474
+  passage_sha256=90d590380399c0aeafc312c65f57f6a0049b823837867cae190427a2390b9c73
+

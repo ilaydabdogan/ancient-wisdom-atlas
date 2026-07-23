@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.polynesian-maori-polynesian-mythology-grey-archive-l5141-l5161
+source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+passage_locator:
+  label: PEEPARATIONS TO EVIIGEATE. / PRIESTESS PERFORMING INCANTATIONS. / CHIEF LYING
+    IN STATE. / THE CURSE OF MANAIA.; lines 5141-5161
+  start: '5141'
+  end: '5161'
+  translation: Polynesian Mythology and Ancient Traditional History of the New Zealand
+    Race
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: '"Accursed be your head ; are the logs of fii-ewood as sacred as the bones
+    of your brother"'
+  summary: The Tainui and Ai'awa leave Hawaiki with Ngatoro-i-rangi aboard, while
+    his younger sister Kuiwai remains behind as the wife of Manaia. Manaia later holds
+    a tribal meeting to remove a tapu; after the religious part, women cook food for
+    strangers. Kuiwai's oven food is underdone, and Manaia angrily beats and curses
+    her, invoking her head, firewood, and her brother's bones.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Tainui and the Ai'awa sailed away from Hawaiki with Ngatoro-i-rangi on
+    board.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ngatoro-i-rangi left behind his younger sister Kuiwai, who was married to
+    Manaia.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Manaia held a large meeting of the people of his tribe to remove a tapu.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the religious part of the ceremony ended, women cooked food for strangers.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When the ovens were opened, the food in Kuiwai's oven was found to be much
+    underdone.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Manaia became very angry with Kuiwai, beat her severely, and cursed her.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: Manaia's curse refers to Kuiwai's head, firewood logs, the bones of her brother,
+    and the act of putting logs into the fire.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ngatoro-i-rangi
+  description: A person aboard the Tainui and Ai'awa when they sailed away from Hawaiki;
+    identified as Kuiwai's brother.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Kuiwai
+  description: Younger sister of Ngatoro-i-rangi and wife of Manaia; her oven food
+    was underdone, and Manaia beat and cursed her.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Manaia
+  description: A powerful chief, husband of Kuiwai, convener of the tapu-removal meeting,
+    and the person who beat and cursed Kuiwai.
+  role_refs:
+  - role:3
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Women at the ceremony
+  description: Women who cooked food for the strangers after the religious part of
+    the ceremony ended.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Strangers
+  description: People for whom food was cooked after the religious part of the ceremony
+    ended.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: departing passenger
+  assigned_to:
+  - fig:1
+  basis: Ngatoro-i-rangi is said to be on board when the canoes sailed away from Hawaiki.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: siblings
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Kuiwai is identified as Ngatoro-i-rangi's younger sister, and Manaia's curse
+    later refers to her brother's bones.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: powerful chief
+  assigned_to:
+  - fig:3
+  basis: Manaia is explicitly called a powerful chief.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: ritual meeting convener
+  assigned_to:
+  - fig:3
+  basis: Manaia held a meeting of the people of his tribe to remove a tapu.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: wife beaten and cursed
+  assigned_to:
+  - fig:2
+  basis: Manaia was angry with his wife, beat her, and cursed her after her oven food
+    was underdone.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: curser and assailant
+  assigned_to:
+  - fig:3
+  basis: Manaia gave Kuiwai a severe beating and pronounced the curse.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: food preparers
+  assigned_to:
+  - fig:4
+  basis: The passage says the women cooked food for the strangers.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: recipients of cooked food
+  assigned_to:
+  - fig:5
+  basis: The food was cooked for the strangers.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire and logs of firewood mentioned in Manaia's curse.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: tapu
+  literal_form: A tapu to be removed at the meeting held by Manaia.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Kuiwai's oven
+  literal_form: The oven of Kuiwai in which the food was found to be underdone.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: brother's bones
+  literal_form: The bones of Kuiwai's brother, invoked in Manaia's curse as a point
+    of comparison for sacredness.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: head
+  literal_form: Kuiwai's head as the target named in Manaia's curse.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Departure from Hawaiki
+  summary: The Tainui and Ai'awa sail away from Hawaiki with Ngatoro-i-rangi on board,
+    while his younger sister Kuiwai remains behind as Manaia's wife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tapu-removal meeting and cooking
+  summary: Manaia holds a tribal meeting to remove a tapu; after the religious ceremony,
+    women cook food for strangers.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Underdone food and curse
+  summary: Kuiwai's oven food is underdone when the ovens are opened. Manaia becomes
+    angry, beats her, and curses her with words about her head, firewood, and her
+    brother's bones.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Canoe departure from Hawaiki
+  taxonomy_refs:
+  - departure
+  basis: The passage opens with named canoes sailing away from Hawaiki with Ngatoro-i-rangi
+    aboard.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: In this excerpt the departure functions as backstory rather than a full
+    journey episode.
+- id: motif:2
+  label: Ritual removal of tapu followed by food preparation
+  taxonomy_refs: []
+  basis: Manaia holds a meeting to remove a tapu, and after the religious part ends
+    women cook food for strangers.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a brief description of the rite and does not detail
+    the ritual procedure.
+- id: motif:3
+  label: Improperly cooked food provoking curse and violence
+  taxonomy_refs: []
+  basis: Kuiwai's oven food is found underdone; Manaia reacts by beating and cursing
+    her.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is truncated after the beginning of Manaia's speech, so later
+    consequences are not present here.
+- id: motif:4
+  label: Sibling relationship invoked through sacred bones in a curse
+  taxonomy_refs:
+  - sibling_pair
+  basis: Kuiwai is identified as Ngatoro-i-rangi's sister, and Manaia's curse compares
+    firewood logs with the bones of her brother.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: low
+  cautions: The excerpt does not show siblings acting as a pair; the sibling link
+    is invoked mainly as a relationship and as an image within the curse.
+comparison_claims:
+- id: claim:1
+  claim: At a descriptive level, the sailing away from Hawaiki with Ngatoro-i-rangi
+    aboard can be compared with a general departure motif family.
+  claim_level: same_motif
+  target: departure
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt provides only a brief departure notice and not a full departure
+    narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5141-5147
+  quote_or_summary: The Tainui and Ai'awa sailed away from Hawaiki with Ngatoro-i-rangi
+    aboard; he left behind his younger sister Kuiwai, who was married to Manaia.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: 5147-5153
+  quote_or_summary: Manaia held a large meeting of his tribe to remove a tapu; after
+    the religious part ended, women cooked food for strangers.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: quote
+  locator: 5154-5157
+  quote_or_summary: '"the food in the oven of Kuiwai, the wife of Manaia, and sister
+    of Ngatoro-i-rangi, was found to be much underdone"'
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: 5157-5159
+  quote_or_summary: Manaia was very angry with his wife and gave her a severe beating.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: quote
+  locator: 5159-5161
+  quote_or_summary: '"Accursed be your head ; are the logs of fii-ewood as sacred
+    as the bones of your brother"'
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the supplied lines. Motif mapping is cautious
+    because the excerpt is brief and ends mid-speech.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. OCR spellings in quoted evidence are retained where quoted.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-maori-polynesian-mythology-grey-archive__l5141-l5161
+  passage_sha256=1353fc4da1904fa4352fd5c3c4c63ab590b98f1023a09ff25d06cbf1ba6a688b
+

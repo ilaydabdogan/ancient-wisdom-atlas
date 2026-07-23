@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l19854-l19868
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: NINTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OP  THE  VNCAS.  443 / NINTH  BOOK  OF  THE  ROYAL
+    / CHAPTER  IX.; lines 19854-19868
+  start: '19854'
+  end: '19868'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: They say that certain giants arrived at that land from the sea, and disembarked
+    at the point they call Santa Elena.
+  summary: The chapter opening introduces an ancestral native tradition about giants
+    who came from the sea and landed at Santa Elena, and it says Garcilaso will draw
+    on Pedro de Cieza de Leon's fuller account.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The chapter heading identifies the topic as giants in the region and their
+    destruction.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator says the natives received the history as a tradition from ancestors
+    who lived many ages earlier.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Certain giants are said to have arrived at the land from the sea.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The giants are said to have disembarked at the point called Santa Elena.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Santa Elena is said to have been named because the first Spaniards discovered
+    it on that day.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Pedro de Cieza de Leon is identified as the Spanish historian who treats the
+    account of the giants at greatest length, based on information received from people
+    of the province.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the natives
+  description: People described as having received the history as a tradition from
+    their ancestors.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: ancestors of the natives
+  description: Ancestors said to have lived many ages earlier and to be the source
+    of the received tradition.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: certain giants
+  description: Giants said to have arrived from the sea and disembarked at Santa Elena.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: first Spaniards
+  description: Spaniards said to have discovered the point on the day associated with
+    the name Santa Elena.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Pedro de Cieza de Leon
+  description: Spanish historian named as treating the giants most fully.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: people of the province
+  description: People from whom Pedro de Cieza de Leon is said to have received the
+    account.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: sea-arriving giants
+  assigned_to:
+  - fig:3
+  basis: The passage says the giants arrived from the sea and disembarked at Santa
+    Elena.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: native tradition-bearers
+  assigned_to:
+  - fig:1
+  basis: The natives are described as having received the history as an ancestral
+    tradition.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ancestral source of tradition
+  assigned_to:
+  - fig:2
+  basis: The tradition is said to come from ancestors who lived many ages earlier.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Spanish discoverers associated with place-name
+  assigned_to:
+  - fig:4
+  basis: The name Santa Elena is linked to the first Spaniards' discovery of the point
+    on that day.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Spanish historian and recorder
+  assigned_to:
+  - fig:5
+  basis: Pedro de Cieza de Leon is identified as the historian who gives the fullest
+    treatment of the giants.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: provincial informants
+  assigned_to:
+  - fig:6
+  basis: Cieza is said to have received the account from the people of the province.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: giants
+  literal_form: certain giants
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: sea
+  literal_form: the sea
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Santa Elena landing point
+  literal_form: the point they call Santa Elena
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Introduction of an ancestral local tradition
+  summary: The narrator frames the account as a history preserved by natives from
+    ancestors who lived many ages earlier.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Giants arrive by sea and land at Santa Elena
+  summary: The giants are said to arrive from the sea and disembark at the point called
+    Santa Elena.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Spanish naming context and historiographic source
+  summary: The passage explains the name Santa Elena through the first Spaniards'
+    discovery and identifies Cieza de Leon as a fuller Spanish historical source drawing
+    on provincial people.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: giants arriving from the sea
+  taxonomy_refs: []
+  basis: The passage directly states that giants arrived at the land from the sea
+    and disembarked at Santa Elena.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The excerpt gives no further detail about the giants' origin beyond their
+    arrival from the sea.
+- id: motif:2
+  label: destruction of giants
+  taxonomy_refs: []
+  basis: The chapter heading announces an account of giants and their destruction.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The provided excerpt contains only the heading and opening setup; it does
+    not narrate the destruction or identify its cause.
+- id: motif:3
+  label: ancestral tradition transmitted through native memory and recorded by a chronicler
+  taxonomy_refs: []
+  basis: The passage frames the account as a native tradition from ancestors and then
+    points to Cieza de Leon as a Spanish historian who received the account from provincial
+    people.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: This is a transmission pattern rather than a mythic action-motif; the
+    excerpt does not provide the fuller narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links Garcilaso's account of the giants with Pedro
+    de Cieza de Leon's fuller treatment of the same local tradition.
+  claim_level: same_motif
+  target: Pedro de Cieza de Leon's account of the Giants from the people of the province
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt names Cieza and describes his account but does not quote
+    or summarize the fuller Cieza narrative.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19854-19857
+  quote_or_summary: 'Chapter heading: "OF THE GIANTS THAT WERE IN THOSE COUNTRIES,
+    AND OF THEIR DESTRUCTION."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 19859-19863
+  quote_or_summary: The narrator says the natives received a wonderful history as
+    a tradition from ancestors who lived many ages earlier.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 19863-19866
+  quote_or_summary: '"certain giants arrived at that land from the sea, and disembarked
+    at the point they call Santa Elena"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 19866-19867
+  quote_or_summary: Santa Elena is said to have been named because the first Spaniards
+    discovered the point on that day.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 19867-19868
+  quote_or_summary: Pedro de Cieza de Leon is named as the Spanish historian who treats
+    the giants most fully, based on an account received from the people of the province.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage clearly supports the arrival, landing, transmission, and source-framing
+    observations. Motif extraction is limited because the excerpt stops before the
+    promised account of the giants' destruction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. No cause or manner of the giants' destruction is inferred from the heading.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l19854-l19868
+  passage_sha256=8d345750895895f849be529f741815a44903942fc5e5454943bf5e9a07dcfcfd
+

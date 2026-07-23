@@ -1,0 +1,273 @@
+---
+record_id: batch.motif.polynesian-maori-polynesian-mythology-grey-archive-l2514-l2527
+source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+passage_locator:
+  label: THE CHILDREN OF HEAVEN AND EARTH. 13 / THE CHILDREN OF HEAVEN AND EARTH.
+    15 / THE LEGEND OF MAUL 43 / THE LEGEND OF MAUT. 55; lines 2514-2527
+  start: '2514'
+  end: '2527'
+  translation: Polynesian Mythology and Ancient Traditional History of the New Zealand
+    Race
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Karihi tries to catch tendrils, catches a loose one by mistake, and is
+    swung to the edge of the horizon. Winds drive him across the skies, upward toward
+    heaven, and back downward. As he nears earth, Tawhaki tells him to let go; Karihi
+    does so and stands on earth again. The two brothers weep over his narrow escape.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Karihi springs at tendrils in order to catch them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Karihi mistakenly catches a loose tendril.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Karihi is swung to the edge of the horizon and then driven back across the
+    skies by wind.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: A strong land wind sweeps Karihi heavenwards, and currents of air from above
+    blow him downward again.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When Karihi nears the earth, Tawhaki tells him to loose his hands.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Karihi lets go and stands on the earth again.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The two brothers weep together over Karihi's narrow escape from destruction.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Karihi
+  description: The brother who catches the loose tendril, is blown about by winds,
+    lets go, and returns to the earth.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Tawhaki
+  description: Karihi's brother, who calls out telling him when to loose his hands.
+  role_refs:
+  - role:3
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: imperiled brother
+  assigned_to:
+  - fig:1
+  basis: Karihi is swung by a loose tendril, blown across the skies, and described
+    as having narrowly escaped destruction.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: brother pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage calls them brothers and says they weep together after the danger
+    passes.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: guiding brother
+  assigned_to:
+  - fig:2
+  basis: Tawhaki calls out the instruction for Karihi to loose his hands at the right
+    moment.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: loose tendril
+  literal_form: a loose tendril caught by mistake
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: edge of the horizon
+  literal_form: the very edge of the horizon
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: winds and air currents
+  literal_form: blast of wind, land wind, and currents of air from above
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: earth and skies
+  literal_form: earth, skies, and heavenwards movement
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Karihi catches the loose tendril
+  summary: Karihi springs toward tendrils, catches a loose one by mistake, and is
+    carried to the edge of the horizon.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Winds drive Karihi through sky and heavenward
+  summary: Winds and air currents push Karihi across the skies, upward heavenwards,
+    and then downward again.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Tawhaki instructs Karihi to release
+  summary: As Karihi nears earth, Tawhaki tells him to loose his hands; Karihi does
+    so and stands on earth again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Brothers lament the escape
+  summary: After Karihi's return, the two brothers weep together over his narrow escape
+    from destruction.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: imperiled ascent and return to earth
+  taxonomy_refs:
+  - ascent
+  - return
+  basis: Karihi is swept heavenwards by wind and then returns safely to stand on the
+    earth after letting go.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The movement is forced by wind rather than a deliberate ascent journey,
+    and the passage is fragmentary.
+- id: motif:2
+  label: brother pair in danger and rescue
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage presents Karihi and Tawhaki as brothers; Tawhaki gives the timely
+    instruction that allows Karihi to escape danger, and the brothers weep together
+    afterward.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: Only a short episode is present, so broader sibling-pair functions in
+    the larger legend are not assessed.
+- id: motif:3
+  label: near destruction narrowly escaped
+  taxonomy_refs: []
+  basis: The passage explicitly describes Karihi's return as a narrow escape from
+    destruction.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No specific taxonomy reference is assigned beyond the literal danger-and-escape
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2514-2517
+  quote_or_summary: Karihi springs at the tendrils, catches a loose one by mistake,
+    and swings to "the very edge of the horizon."
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2517-2522
+  quote_or_summary: Winds drive Karihi back across the skies, sweep him heavenwards,
+    and then blow him downward by currents of air from above.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2522-2525
+  quote_or_summary: 'As Karihi nears earth, Tawhaki calls: "Now, my brother, loose
+    your hands"; Karihi does so and stands on earth again.'
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2525-2527
+  quote_or_summary: The two brothers weep together over Karihi's narrow escape from
+    destruction.
+  source_text_path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif assignment is limited by
+    the short, fragmentary passage ending mid-sentence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not make or clearly support a comparison beyond internal motif classification.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-maori-polynesian-mythology-grey-archive__l2514-l2527
+  passage_sha256=07ca1a847e449a7acda780d33cc43db91fe157b68fee6acfc23db1ce4a140874
+

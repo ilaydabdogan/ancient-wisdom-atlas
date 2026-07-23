@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.korean-korean-folk-tales-gale-archive-l1356-l1385
+source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+passage_locator:
+  label: YUN  SE-PYONG,  THE  WIZARD  37 / YUN  SE-PYONG,  THE  WIZARD  39 / THE  WILD-CAT  WOMAN
+    / THE  WILD-CAT  WOMAN  43; lines 1356-1385
+  start: '1356'
+  end: '1385'
+  translation: Korean Folk Tales - Imps, Ghosts and Fairies
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: suddenly changed into a wild cat
+  summary: Kim holds two women by the hands until daybreak. One woman complains, struggles,
+    falls to the floor, changes into a wild cat, and escapes when Kim releases her.
+    A writer's note compares this transformation with foxes turning into women in
+    Chinese novels and mentions speculation about a fox's magic charm.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Kim holds two women firmly, one by the right hand and the other by the left,
+    until the break of day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cocks crow and the east begins to lighten before the held woman speaks.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The woman whose right hand Kim holds asks why he holds her, says it hurts,
+    and asks to be let go.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The woman shakes, tugs, and struggles while Kim holds more tightly.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After struggling, the woman falls to the floor and changes into a wild cat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Kim lets the transformed wild cat go in fear and surprise, and she escapes
+    through the door.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The writer's note says foxes turning into women and deceiving people are told
+    of in Kwang-ketii and other Chinese novels, while the wild cat's transformation
+    is described as more wonderful and unfamiliar to the writer.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The writer's note says some people claim the fox carries a magic charm, but
+    questions whether this can explain the wild cat.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Kim
+  description: Person who holds the two women by their hands and later releases the
+    transformed wild cat in fear and surprise.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: right-hand woman / wild cat
+  description: The woman held by Kim's right hand who complains, struggles, falls,
+    changes into a wild cat, and escapes.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: second woman
+  description: The woman held by Kim's left hand until daybreak; no later action by
+    her is given in this excerpt.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: foxes in the writer's note
+  description: Foxes described in the note as turning into women and deceiving people
+    in Kwang-ketii and other Chinese novels; some are said to carry a magic charm.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: human holder and frightened releaser
+  assigned_to:
+  - fig:1
+  basis: Kim holds the two women tightly, then releases the transformed wild cat because
+    of fear and surprise.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: animal shapeshifter
+  assigned_to:
+  - fig:2
+  basis: The woman falls and changes into a wild cat.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: escapee
+  assigned_to:
+  - fig:2
+  basis: After Kim lets her go, she escapes through the door.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: held second woman
+  assigned_to:
+  - fig:3
+  basis: Kim holds the second woman by the left hand until daybreak.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: comparative fox shapeshifters
+  assigned_to:
+  - fig:4
+  basis: The writer says foxes in Chinese novels turn into women and deceive people,
+    and mentions a proposed magic charm.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: wild cat
+  literal_form: Wild cat into which the struggling woman changes.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: hand-holding grip
+  literal_form: Kim's firm grip on the first woman's right hand and the second woman's
+    left hand.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: cockcrow and eastern light
+  literal_form: Cocks crowing and the east beginning to lighten at daybreak.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: magic charm
+  literal_form: A charm said by some to be carried by the fox for doing magical things.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Holding until daybreak
+  summary: Kim holds two women firmly by the hands until cockcrow and the first light
+    in the east.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Transformation and escape
+  summary: The right-hand woman asks to be released, struggles, falls, changes into
+    a wild cat, and escapes when Kim lets her go.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Writer's comparative note
+  summary: The writer compares the wild cat's transformation with foxes that turn
+    into women in Chinese novels and discusses an uncertain explanation involving
+    a magic charm.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Animal shapeshifter in woman's form
+  taxonomy_refs:
+  - shapeshifter
+  basis: A woman held by Kim changes into a wild cat, and the writer's note compares
+    this with foxes turning into women.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The excerpt directly shows a woman becoming a wild cat; any prior deception
+    by the wild-cat woman is not included in the supplied passage except through the
+    title and comparative note.
+- id: motif:2
+  label: Supernatural form revealed at cockcrow or daybreak
+  taxonomy_refs: []
+  basis: Kim holds the women until daybreak; after cockcrow and the east lightening,
+    the right-hand woman struggles and changes into a wild cat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The sequence is explicit, but the passage does not state that dawn causes
+    the transformation.
+- id: motif:3
+  label: Transforming animal associated with a magic charm explanation
+  taxonomy_refs: []
+  basis: The writer reports a claim that the fox carries a magic charm by which it
+    performs magical transformations, while questioning whether this explains the
+    wild cat.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a reported explanation in the writer's note, not an event demonstrated
+    in the narrative.
+comparison_claims:
+- id: claim:1
+  claim: The writer explicitly compares the wild-cat transformation with accounts
+    of foxes turning into women and deceiving people in Kwang-ketii and other Chinese
+    novels.
+  claim_level: same_motif
+  target: Foxes turning into women and deceiving people in Kwang-ketii and other Chinese
+    novels
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supplied by the writer's note, but the exact Chinese
+    passages are not identified in the supplied excerpt; the writer also says the
+    wild-cat version is unfamiliar and more wonderful.
+- id: claim:2
+  claim: The note places fox and wild-cat transformations in the same explanatory
+    problem of how animals change form, while treating the fox charm explanation as
+    uncertain for the wild cat.
+  claim_level: same_function
+  target: Animal transformation explained by a charm or unknown law
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The writer presents questions and hearsay rather than a settled explanation
+    or a direct narrative parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1356-1360
+  quote_or_summary: Kim takes firm hold of each woman, the first by the right hand
+    and the second by the left, and holds them until daybreak.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public-domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1361-1364
+  quote_or_summary: '"At last the cocks crew, and the east began to lighten"; the
+    right-hand woman asks why he holds her, says it hurts, and asks to be let go.'
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public-domain source metadata; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 1364-1368
+  quote_or_summary: The woman shakes and tugs while Kim holds tighter; after struggling,
+    she falls to the floor and suddenly changes into a wild cat.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public-domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1368-1371
+  quote_or_summary: Kim, afraid and surprised, lets the wild cat go; she escapes through
+    the door, and the narrator regrets that he did not secure the beast.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public-domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1372-1378
+  quote_or_summary: The writer notes that foxes turning into women and deceiving people
+    are told of in Kwang-ketii and other Chinese novels, but says the wild cat's transformation
+    is more wonderful and unfamiliar to him.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public-domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1378-1384
+  quote_or_summary: The writer asks what law governs transformations by foxes and
+    wild cats, mentions a claim that the fox carries a magic charm, and asks whether
+    this can account for the wild cat.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public-domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal events are clear in the passage. Motif identification is strongest
+    for shapeshifting; dawn-related and charm-related motifs are more cautious because
+    the passage gives sequence and reported speculation rather than explicit causal
+    explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy symbol references were assigned because the available symbol list does not include wild cat, charm, hand, cockcrow, or dawn. The available motif family reference `shapeshifter` is used where directly supported.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-folk-tales-gale-archive__l1356-l1385
+  passage_sha256=c038593c57e6f59b610062842dad9abcaeee6ea3ced57e72bf69aef35a744486
+

@@ -1,0 +1,303 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l5303-l5339
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: XIII. / DIBANGA NI HUEDI JE. / A BRIDE AND HER BROTHERS-IN-LAW. / O JIHOJI
+    NI KIMONA-NGOMBE.; lines 5303-5339
+  start: '5303'
+  end: '5339'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A woman preparing food learns from a little bird the names of her husband's
+    four brothers. When the brothers-in-law say they will eat her mush only if she
+    tells their names, she recites the four names. They laugh, accept the food, and
+    eat. A closing summary states that the wife had not known the brothers' names
+    until the little bird told her while she went to pound.
+  language: English with Kimbundu title and names
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The woman chases a little bird and realizes that it had been telling her the
+    names of her brothers-in-law.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman finishes pounding mbombo and cooks mush on a fire.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The brothers-in-law make eating her mush conditional on her telling their
+    names.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'The woman identifies four named brothers-in-law: Tumba Sikundu, Tumba Sikundu
+    Muna, Tumba Kaulu, and Tumba Kaula Mund.'
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After she names them, the brothers-in-law laugh, accept the mush, and eat.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The closing summary states that a young man had four brothers, that his wife
+    did not know their names, and that the little bird told her the names when she
+    went to pound.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the woman / wife
+  description: A woman married by a young man; she pounds, cooks mush, learns the
+    brothers-in-law's names from a little bird, and recites those names.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the young man / husband / master
+  description: The man who married the woman and had four brothers; the passage later
+    refers to her living with her master.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the four brothers-in-law
+  description: The husband's four brothers; they require the woman to tell their names
+    before eating her mush, and they later accept and eat it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: little bird
+  description: A little bird that tells the woman the names of her brothers-in-law
+    while she is pounding.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: wife who prepares food and recites names
+  assigned_to:
+  - fig:1
+  basis: She pounds, cooks mush, and answers the brothers-in-law by naming them.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: husband with four brothers
+  assigned_to:
+  - fig:2
+  basis: The closing summary says the young man married the woman and had four brothers.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: brothers-in-law who set a naming condition for eating
+  assigned_to:
+  - fig:3
+  basis: They say they will eat the mush if she tells their names, then accept and
+    eat after she names them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: bird that tells hidden family names
+  assigned_to:
+  - fig:4
+  basis: The woman realizes the little bird was telling her the brothers-in-law's
+    names; the summary also says the bird told her the names.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: little bird as name-informant
+  literal_form: little bird
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: brothers-in-law's names
+  literal_form: spoken personal names of the four brothers-in-law
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: mush / mbombo food
+  literal_form: mbombo and cooked mush
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: cooking fire
+  literal_form: fire used to cook the mush
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Bird discloses the names
+  summary: The woman chases the little bird and realizes it has been telling her the
+    names of her brothers-in-law; the closing summary confirms that the bird told
+    her the names while she went to pound.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: scene:2
+  label: Food preparation
+  summary: The woman completes the pounding of mbombo and cooks mush on the fire.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Name condition and acceptance of food
+  summary: The brothers-in-law say they will eat only if she tells their names. She
+    names the four men, after which they laugh, accept the mush, and eat.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Animal informant reveals hidden kinship names
+  taxonomy_refs: []
+  basis: A little bird tells the woman the names of her brothers-in-law, information
+    she needs in the subsequent exchange.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain the bird's motive or give a broader cosmological
+    role to the animal.
+- id: motif:2
+  label: Bride or wife tested by in-laws through name-recitation
+  taxonomy_refs: []
+  basis: The brothers-in-law make eating her mush conditional on her telling their
+    names; she succeeds by reciting the four names.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explicitly call the episode an initiation or rite;
+    no initiation taxonomy is assigned.
+- id: motif:3
+  label: Prepared food accepted after social condition is fulfilled
+  taxonomy_refs: []
+  basis: The woman prepares mush, the brothers-in-law initially condition their eating
+    on name-knowledge, and after she names them they accept and eat the food.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The food is ordinary mush in the passage; no sacred or ritual exchange
+    is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 5303-5339, bird episode
+  quote_or_summary: "“It was telling me the names of my brothers-in-law; now I perceive!”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:2
+  type: quote
+  locator: 5303-5339, cooking episode
+  quote_or_summary: "“She has pounded; the mbombo is finished. She came into the house;
+    she put the mush on the fire. She cooked it.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:3
+  type: quote
+  locator: 5303-5339, brothers-in-law's condition
+  quote_or_summary: "“If we shall eat thy mush, tell us our names.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:4
+  type: summary
+  locator: 5303-5339, naming and meal acceptance
+  quote_or_summary: The woman names Tumba Sikundu, Tumba Sikundu Muna, Tumba Kaulu,
+    and Tumba Kaula Mund; her brothers-in-law laugh, accept the mush, and eat.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:5
+  type: summary
+  locator: 5303-5339, closing summary
+  quote_or_summary: A young man married a wife and had four brothers; the wife did
+    not know their names, and a little bird told her the names when she went to pound.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction uses only the supplied passage. No comparison claims are made
+    because the passage itself does not provide comparative evidence beyond local
+    patterning.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The heading in the supplied range names “The Lions and Kimona-ngombe,” but the narrated action in this excerpt concerns the wife, her husband, the four brothers-in-law, and the little bird; no lion action is extracted from this passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l5303-l5339
+  passage_sha256=947d3705fc8d0724f8c066952e7c9928c824ed23009c3b8e8180812d384b4ac6
+

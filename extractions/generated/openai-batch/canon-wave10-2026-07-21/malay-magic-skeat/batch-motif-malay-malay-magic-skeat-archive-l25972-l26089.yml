@@ -1,0 +1,451 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l25972-l26089
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: RULES  OF  COCK-FIGHTING / VARIOUS  GAMES / CHESS / CARD  GAMES; lines 25972-26089
+  start: '25972'
+  end: '26089'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a Malay Tiger or Tiger-and-Goat game compared to
+    fox and goose, then gives terminology and rules for Malay card games, especially
+    daun tiga lei as played in Perak, including card names, dealing, hand rankings,
+    stakes, cutting the pack, and actions associated with luck.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Tiger Game, also called the Tiger-and-Goat Game, is said to resemble fox
+    and goose and usually uses four tigers against twelve goats.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cards are called Kertas sakopong, and the passage states that Malays are fond
+    of card games.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists Malay terms for card suits, court ranks, ace, shuffling,
+    dealing, cutting, and sweeping the board.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In daun tiga lei, three cards are dealt to each player, and the highest hand
+    by pips is calculated after tens are deducted.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The best hand is three aces; next are three court-cards, then nine, then eight;
+    these four hands are called terus.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A hand of three threes is described as a good hand worth nine, but it is considered
+    a propitiation of good luck to throw it down without exposing it and announce
+    that one is buta.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Each player may make two stakes, kapala and ekor; kapala must not be greater
+    than ekor, and a single stake may be called podul.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Betting between players is called sorong, tuwi, or sorong tuwi; a pool is
+    called tuwi tengah.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The ekor stake is paid to the dealer only if the dealer holds a terus hand;
+    if a player holds a smaller hand, the dealer takes both kapala and ekor, called
+    mengelong.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: A player holding thirty exactly is said to be out, or buta, except when the
+    hand consists of three court-cards.
+  category: attribute
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Any player except the player on the dealer's right may cut; the cutter looks
+    at the bottom card of the lifted portion and accepts the cut if it is thought
+    lucky.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The dealer then places the rest of the pack on the cut, lifts a portion, and
+    looks at the bottom card.
+  category: action
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: The cutter and dealer use names for different cards and combinations of cards
+    with varying degrees of luck, declaring confidence in luck from cutting or lifting
+    a particular card.
+  category: speech
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: tigers
+  description: The Tiger-and-Goat Game usually has four tigers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: goats
+  description: The Tiger-and-Goat Game usually has a dozen goats.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: players
+  description: Participants in the card game who receive three cards, make stakes,
+    bet, and may hold winning or losing hands.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:4
+  name_or_label: dealer
+  description: The card-game participant who deals, may receive the ekor stake under
+    certain hands, may take both stakes, and lifts part of the pack after the cut.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+  - ev:12
+  - ev:13
+- id: fig:5
+  name_or_label: cutter
+  description: A player permitted to cut the pack, look at the bottom card of the
+    lifted portion, and accept the cut if it seems lucky.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:11
+  - ev:13
+roles:
+- id: role:1
+  label: opposed game side
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Tiger-and-Goat Game is described as using four tigers and twelve goats
+    in a game resembling fox and goose.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: card-game participant
+  assigned_to:
+  - fig:3
+  basis: Players are dealt cards, make stakes, bet with one another, and may hold
+    specified hands.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:10
+- id: role:3
+  label: dealer
+  assigned_to:
+  - fig:4
+  basis: The dealer is named as dealing, receiving stakes under specified conditions,
+    and lifting part of the pack after a cut.
+  evidence_refs:
+  - ev:9
+  - ev:12
+- id: role:4
+  label: cutter
+  assigned_to:
+  - fig:5
+  basis: The cutter cuts the pack, inspects a bottom card, and accepts the cut if
+    considered lucky.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: tiger and goat game animals
+  literal_form: four tigers and twelve goats in the Tiger-and-Goat Game
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: three aces
+  literal_form: Sat tiga, the best hand in daun tiga lei
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: three threes thrown down
+  literal_form: a hand of three threes thrown down unexposed while announcing buta
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: stakes
+  literal_form: kapala, ekor, and podul stakes
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:5
+  label: lucky cut card
+  literal_form: bottom card seen by the cutter or dealer after cutting or lifting
+    the pack
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+scenes:
+- id: scene:1
+  label: Tiger-and-Goat game comparison
+  summary: A game called Tiger or Tiger-and-Goat is described as resembling fox and
+    goose, with four tigers opposed to twelve goats.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Card terminology and hand ranking
+  summary: The passage gives Malay terms for cards and play actions, then explains
+    that three cards are dealt and hands are ranked by specified combinations and
+    pip values.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Propitiation of good luck with three threes
+  summary: A player with three threes may throw the hand down without exposing it
+    and declare buta in the hope of later good luck.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Staking and dealer payment
+  summary: Players make kapala and ekor stakes or a single podul stake; under specified
+    hand conditions the dealer may receive ekor or take both stakes.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Cutting and declaring luck
+  summary: A permitted cutter inspects the bottom card of a lifted portion and may
+    accept it as lucky; the dealer also lifts and inspects a card, and both cutter
+    and dealer use named lucky card combinations to declare confidence.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: animal-opposition strategy game
+  taxonomy_refs: []
+  basis: The Tiger-and-Goat Game is organized around opposed animal sides, four tigers
+    and twelve goats, and is explicitly compared to fox and goose.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only a brief game description and does not describe
+    mythic narrative content.
+- id: motif:2
+  label: ritualized gaming luck propitiation
+  taxonomy_refs: []
+  basis: A player may discard a good hand of three threes unexposed and announce buta
+    as a propitiation of good luck for later play.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The act is described within gambling play rather than as a formal ritual
+    outside the game.
+- id: motif:3
+  label: divination-like lucky card cut
+  taxonomy_refs: []
+  basis: The cutter and dealer inspect bottom cards after cutting or lifting and declare
+    confidence in luck associated with particular cards or combinations.
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+  confidence: medium
+  cautions: The passage frames the action as gaming luck, not explicit divination.
+comparison_claims:
+- id: claim:1
+  claim: The Tiger-and-Goat Game is presented as resembling the game fox and goose,
+    with animal sides in opposition.
+  claim_level: same_function
+  target: fox and goose game
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states resemblance but provides only the number of animal
+    pieces, not detailed rules or historical connection.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 25972-26089, Tiger Game paragraph
+  quote_or_summary: The Tiger Game or Tiger-and-Goat Game is said to resemble fox
+    and goose, usually with four tigers to a dozen goats.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 25972-26089, Cards opening
+  quote_or_summary: Cards are called Kertas sakopong, and Malays are described as
+    fond of card games.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 25972-26089, card terminology list
+  quote_or_summary: The passage lists suit and rank names, including Lekoh, Retin,
+    Kalalawar, Sakopong, Raja, Bandahara, Pekah, Sat, and terms for shuffling, dealing,
+    cutting, and sweeping the board.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 25972-26089, daun tiga lei rules
+  quote_or_summary: Three cards are dealt to each player; the highest hand by pips
+    is counted after deducting tens.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 25972-26089, hand rankings
+  quote_or_summary: Three aces are best; three court-cards next; then nine and eight;
+    these four hands are called terus.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 25972-26089, three threes passage
+  quote_or_summary: A hand of three threes is a good hand, but throwing it down unexposed
+    and announcing buta is considered a propitiation of good luck.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 25972-26089, stakes rules
+  quote_or_summary: Each player makes kapala and ekor stakes; kapala must not exceed
+    ekor; a single stake is called podul.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 25972-26089, betting terms
+  quote_or_summary: Betting between players is called sorong, tuwi, or sorong tuwi;
+    a pool is tuwi tengah.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 25972-26089, dealer stake rules
+  quote_or_summary: The ekor stake is paid to the dealer only if he holds a terus
+    hand; if a player holds a smaller hand, the dealer takes both kapala and ekor,
+    called mengelong.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 25972-26089, buta rule
+  quote_or_summary: A player holding exactly thirty, except with three court-cards,
+    is out and called buta.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 25972-26089, cutting rule
+  quote_or_summary: Any player except the one on the dealer's right may cut; the cutter
+    looks at the bottom card of the lifted portion and accepts it if thought lucky.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: 25972-26089, dealer lifting rule
+  quote_or_summary: The dealer places the remaining pack on the cut, lifts a portion,
+    and looks at the bottom card.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: 25972-26089, lucky card names
+  quote_or_summary: Different cards and combinations have names and degrees of luck;
+    cutter and dealer quote these names and declare confidence in luck from cutting
+    or lifting a particular card.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Rules and terminology are explicit. Motif labeling is cautious because the
+    passage concerns games and gambling practice rather than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied; none was directly supported by the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l25972-l26089
+  passage_sha256=790ca1d8de9adab503bd6f630359a8912f49be0a30907a2d58f8005743a6b6a3
+

@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l17886-l17930
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / EIGHTH  BOOK  OF  THE  ROYAL / CHAPTER  XXII.
+    / COMMENTARIES  OP  THE  YNCAS.; lines 17886-17930
+  start: '17886'
+  end: '17930'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Apurimac river, its names and meanings, its rapid
+    course between lofty mountains, and a 1555 landslide that blocked the river for
+    three days, causing people downstream to think the world had ended.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The river is described as carrying much water, flowing rapidly, and passing
+    between very lofty mountains.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Indians call the river Apurimac, glossed as meaning the chief or prince
+    who speaks.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The river is also called Ccapac-mayu; the passage explains mayu as river and
+    Ccapac as a title given to kings.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The title Ccapac was applied to the river to show that it was considered the
+    prince of all rivers in the world.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In 1555, heavy winter rains caused part of a mountain to fall into the river
+    with stones and earth.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The fallen mountain material blocked the river from side to side, stopping
+    all water flow for three days.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: People living in the valleys below saw the great river suddenly dry up and
+    supposed that the world had come to an end.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The backed-up water extended fourteen leagues above the stoppage, as far as
+    a bridge on the high road from Cuzco to the City of the Kings.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Apurimac / Ccapac-mayu river
+  description: A large, rapid river in Peru, named as a speaking chief or prince and
+    as the royal or chief river.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: People in the valleys below
+  description: People downstream who observed the sudden drying of the river and thought
+    the world had ended.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Mountain section
+  description: A piece of mountain that fell into the river during heavy winter rains,
+    bringing stones and earth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: named speaking prince
+  assigned_to:
+  - fig:1
+  basis: The river is called Apurimac, glossed as the chief or prince who speaks.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: prince of rivers
+  assigned_to:
+  - fig:1
+  basis: The title Ccapac is applied to the river to show that it was the prince of
+    all rivers in the world.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: fearful witnesses
+  assigned_to:
+  - fig:2
+  basis: They saw the great river suddenly dry and supposed that the world had ended.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: river-blocking mass
+  assigned_to:
+  - fig:3
+  basis: A fallen piece of mountain with stones and earth blocked the stream from
+    side to side.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: royal or speaking river
+  literal_form: river
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: lofty mountains enclosing the river
+  literal_form: mountains
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: suddenly dried river as perceived world-end sign
+  literal_form: dried riverbed or absent river flow
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Naming and description of the Apurimac
+  summary: The river is described as large, rapid, mountain-bound, and named Apurimac
+    and Ccapac-mayu, with both names emphasizing princely or royal status.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Mountain collapse blocks the river
+  summary: In 1555, heavy rains cause part of a mountain to fall into the river, blocking
+    it completely for three days until the river rises above the obstruction.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Downstream fear of world-end
+  summary: People in the lower valleys see the great river suddenly dried up and suppose
+    that the world has ended.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Royal personification of a river
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage explains the river names through titles of chiefs, princes, and
+    kings, and says the title was applied to show the river as prince of all rivers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage concerns naming and status language rather than a royal genealogy
+    or explicit legitimating myth.
+- id: motif:2
+  label: Sudden drying of a great river interpreted as world-end sign
+  taxonomy_refs:
+  - chaos
+  basis: After the river is blocked upstream, people downstream see it suddenly dry
+    and suppose that the world has come to an end.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The event is presented as historical/natural rather than as a mythic apocalypse.
+- id: motif:3
+  label: Blocked river and rising waters
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: A mountain collapse blocks the river, causing water to be pent up and overflow
+    for fourteen leagues above the stoppage.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: low
+  cautions: The passage describes flooding or impoundment but does not describe renewal,
+    survival, divine causation, or a flood myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17886-17896
+  quote_or_summary: The river cannot be forded near its source, carries much water,
+    is rapid, and flows between very lofty mountains.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 17896-17901
+  quote_or_summary: The Indians call it Apurimac, meaning “the chief or prince who
+    speaks.”
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 17901-17908
+  quote_or_summary: The river is also called Ccapac-mayu; mayu means river, Ccapac
+    is a title of kings, and the title is used to mark the river as prince of all
+    rivers.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 17914-17923
+  quote_or_summary: In 1555, abundant winter rains caused a piece of mountain with
+    stones and earth to fall into the river and block the stream completely for three
+    days until the pent-up river rose over it.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 17923-17926
+  quote_or_summary: Those in the valleys below, seeing the great river suddenly dried
+    up, “supposed that the world had come to an end.”
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 17926-17930
+  quote_or_summary: The overflow extended fourteen leagues above the stoppage, as
+    far as the bridge on the high road from Cuzco to the City of the Kings.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are cautious because
+    the passage is primarily geographic and historical, with only naming symbolism
+    and a reported world-end interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l17886-l17930
+  passage_sha256=f1c6c117a046e92703bb72ece20bf2917380b2ed526845c3e5f21b6aba8d1a34
+

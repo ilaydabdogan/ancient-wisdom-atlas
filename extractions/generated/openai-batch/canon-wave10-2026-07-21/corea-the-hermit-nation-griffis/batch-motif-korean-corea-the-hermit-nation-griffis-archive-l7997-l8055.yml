@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.korean-corea-the-hermit-nation-griffis-archive-l7997-l8055
+source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+passage_locator:
+  label: HAM-KIONG,    OK   COMPLETE   VIEW. / THE  BIGHT  PROVINCES. / THE   EIGHT   PROVINCES.  213
+    / THE  EIGHT  PROVINCES.; lines 7997-8055
+  start: '7997'
+  end: '8055'
+  translation: Corea, the Hermit Nation
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A geographical and historical account of Ham-kiung describes coastal ports,
+    the opening of Gensan to Japanese trade, the venerated tomb of the founder of
+    the reigning Cho-sen dynasty near the bay, the local naming of the place with
+    reference to the dragon as a type of strength and renown, the coastal road and
+    mountainous interior, fisheries and whale hunting, provincial administration,
+    and border trade.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Yung-hing, or Broughton's Bay, is described as having fine harbors, high tides,
+    a small archipelago, and fertile, populous surrounding country.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Port Lazareff is placed near the mouth of the Dungan River, and the passage
+    says a Japanese army under Kato occupied the territory in 1592.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Gensan was opened for trade and commerce with Japan from May 1, 1880; nearby
+    features include Chotoku island and the old castle-town of Tokugen within the
+    permitted Japanese travel circuit.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The tomb of the founder of the reigning dynasty of Cho-sen is near the bay
+    and is described as highly venerated.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The place near the founder's tomb is named with reference to the dragon because
+    the dragon is said to be, in native ideas, a type of strength, might, and renown.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: A major road follows the strip of land along the sea, where much of the population
+    lives, while the interior is mountainous, thinly inhabited, forested, and populated
+    chiefly by tigers and other beasts of prey.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Shoals of herring and other fish move along the coast, pursued by whales;
+    local people fish seasonally, use rafts or catamarans, and sometimes hunt or strand
+    whales.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: founder of the reigning dynasty of Cho-sen
+  description: A dynastic founder whose tomb is near the bay and is highly venerated.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: dragon
+  description: A being or image described as, in native ideas, the type of what is
+    strong, mighty, and renowned.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Corean fishers
+  description: People from the interior and shore villages who come to the coast seasonally
+    to fish, use rafts or catamarans, and sometimes hunt whales.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: whales
+  description: Schools of whales pursue shoals of fish along the coast and are sometimes
+    hunted or driven into shoal water until stranded.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: dynastic founder
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the figure as the founder of the reigning dynasty
+    of Cho-sen.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: emblematic strong being
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly states that the dragon is a native type of strength,
+    might, and renown.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: fishers and whale hunters
+  assigned_to:
+  - fig:3
+  basis: The passage describes local people fishing seasonally, using rafts, and sometimes
+    hunting or stranding whales.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: great sea prey
+  assigned_to:
+  - fig:4
+  basis: Whales are described as pursuing fish and being hunted or captured by people.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: dragon as strength and renown
+  literal_form: dragon
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: venerated founder's tomb
+  literal_form: tomb near the bay
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: coastal waters
+  literal_form: bay, shore, sea, coastal current
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:4
+  label: mountainous interior
+  literal_form: mass of mountains and primeval forests
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Venerated dynastic tomb and dragon-named place
+  summary: Near the bay stands the highly venerated tomb of the founder of the reigning
+    Cho-sen dynasty, and the place is named with reference to the dragon as a native
+    image of strength, might, and renown.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Coastal fishing and whale hunting
+  summary: Fish shoals move along the coast, whales pursue them, and local people
+    fish in season, use rafts or catamarans, and sometimes hunt or strand whales.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:3
+  label: Coastal settlement and mountainous interior
+  summary: A high road runs along the sea and holds much of the population, while
+    the interior is mountainous, forested, thinly inhabited, and associated with tigers
+    and other beasts of prey.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Dragon-linked veneration of a dynastic founder's resting place
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage connects the founder of the reigning dynasty, a highly venerated
+    tomb, and a place-name explained through the dragon as a type of strength, might,
+    and renown.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is primarily geographical and historical, not a mythic narrative;
+    the link to royal legitimacy is a cautious classification based on the dynastic
+    founder, veneration, and dragon symbolism.
+- id: motif:2
+  label: Dragon as emblem of strength, might, and renown
+  taxonomy_refs: []
+  basis: The passage explicitly states that in native ideas the dragon is the type
+    of what is strong, mighty, and renowned.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The dragon is not an acting character in a story here; it appears as an
+    explanatory symbol for a place-name.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7997-8010, Broughton's Bay paragraph
+  quote_or_summary: Yung-hing, or Broughton's Bay, is described as well known for
+    fine harbors and high tides, containing a small archipelago, with populous and
+    fertile surrounding country.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 8010-8014, Port Lazareff paragraph
+  quote_or_summary: Port Lazareff is located near the mouth of the Dungan River; a
+    large Japanese army under Kato occupied this territory in 1592.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8015-8022, Gensan paragraph
+  quote_or_summary: By treaty with Japan, Gensan was opened for trade and commerce
+    from May 1, 1880; Chotoku island and the castle-town of Tokugen are described
+    nearby or within the permitted travel circuit.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8022-8025, founder's tomb sentence
+  quote_or_summary: The tomb of the founder of the reigning dynasty of Cho-sen is
+    near the bay and is described as a highly venerated spot.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 8025-8027, dragon explanation
+  quote_or_summary: '"the dragon is in native ideas the type of all that is strong,
+    mighty, and renowned"; the place is named the "Eise of the Dragon" in the supplied
+    OCR text.'
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 8027-8034, road and interior paragraph
+  quote_or_summary: A high road traverses the sea-skirted strip of land; many inhabitants
+    live along it, while the interior is mountainous, thinly inhabited, forested,
+    and chiefly populated by tigers and other beasts of prey.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 8035-8048, fisheries and whales paragraph
+  quote_or_summary: Coastal currents contain fish shoals pursued by whales; local
+    people fish seasonally, stand in the water, use rafts or catamarans, and sometimes
+    hunt whales or drive them ashore.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal geography and symbolic dragon reference are explicit. Motif identification
+    is limited because the passage is not a mythic narrative and offers no direct
+    comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. No comparison claims were generated because the passage itself does not compare this material to another tradition or motif corpus.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-corea-the-hermit-nation-griffis-archive__l7997-l8055
+  passage_sha256=3e2c477100d100e4eea616a3f784ce42567f97c39b262f10d5ec5c320ccab726
+

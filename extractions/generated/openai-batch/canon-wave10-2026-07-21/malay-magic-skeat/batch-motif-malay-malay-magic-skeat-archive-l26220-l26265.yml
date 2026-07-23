@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l26220-l26265
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: CHESS / CARD  GAMES / RULES  OF  PLA  Y / MAIN  CHABUT; lines 26220-26265
+  start: '26220'
+  end: '26265'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes rules and terminology for the Malay card game Main
+    Chabut: players draw cards toward a target of thirty-one pips, may pass at certain
+    totals, cannot draw more than seven cards, classify the first two cards as various
+    kinds of lunas or “keels,” throw away tens, and use set phrases for equal totals
+    and bluffing.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A dealer gives cards to each player, and each player draws fresh cards from
+    the bottom of the pack in turn.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The object of drawing is to get as near as possible to thirty-one pips.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A player may pass if he thinks it is unsafe to draw another card; stopping
+    at twenty-six to twenty-eight and stopping at twenty-nine or thirty have distinct
+    Malay terms.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Obtaining exactly thirty-one pips is called “entering the points.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: No player may draw more than seven cards; failure after the full limit is
+    called “entering the pack.”
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The first two cards are called lunas or “keels,” and several named combinations
+    are listed.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:7
+  text: Tens should be thrown away in playing chabut.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Equal pip totals held by two players are described by a set Malay phrase.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Being bluffed is called kena ranjau, glossed as being wounded by a caltrop.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: A player with twenty-six pips in six cards has only one more permitted draw
+    and may be afraid to risk it.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: dealer
+  description: The dealer is named as perdi and deals to each player.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: player
+  description: A participant who draws cards, passes, counts pips, and may be bluffed
+    or afraid to risk another draw.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: card dealer
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the dealer as the one who deals to each player.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: card-drawing participant
+  assigned_to:
+  - fig:2
+  basis: Players draw cards, try to reach thirty-one pips, may pass, and are subject
+    to the game limits and terms.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: pack of cards
+  literal_form: pack of cards from which players draw
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: thirty-one pips
+  literal_form: target total of exactly thirty-one pips
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: seven-card limit
+  literal_form: maximum of seven cards a player may draw
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: lunas or keels
+  literal_form: the first two cards in a hand, named as lunas or “keels”
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: caltrop wound expression
+  literal_form: kena ranjau, glossed as “wounded by a caltrop,” for being bluffed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Drawing toward thirty-one
+  summary: The dealer deals, and players draw from the bottom of the pack in turn,
+    trying to approach thirty-one pips and deciding whether to pass.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Named outcomes and limits
+  summary: A player who reaches exactly thirty-one is said to enter the points, while
+    a player who exhausts the seven-card limit without enough pips enters the pack.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Named opening combinations
+  summary: The passage lists named kinds of lunas or keels formed by the first two
+    cards, including court-card and ace, two aces, court-card and four, two threes,
+    and ace and two.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Discarding tens and game expressions
+  summary: Tens are to be thrown away; equal totals receive a set phrase, and bluffing
+    is described with the caltrop-wound expression.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: risk-threshold card drawing
+  taxonomy_refs: []
+  basis: The passage presents a repeated game pattern in which players draw toward
+    a numerical target, may stop at risk thresholds, and face a maximum-card limit.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: This is a game-rule pattern, not a mythological motif, and it has no supported
+    match among the supplied taxonomy motif families.
+- id: motif:2
+  label: special named opening hand
+  taxonomy_refs: []
+  basis: The passage gives special names and rankings for the first two cards, including
+    a best opening combination.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The evidence supports a gaming classification pattern only; no broader
+    symbolic or mythic meaning is stated.
+- id: motif:3
+  label: combat-injury metaphor for bluffing
+  taxonomy_refs: []
+  basis: The passage glosses being bluffed as kena ranjau, “wounded by a caltrop.”
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The metaphor is explicitly stated, but the passage does not connect it
+    to a mythic or ritual motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 26220-26231
+  quote_or_summary: The dealer deals to each player; players draw fresh cards from
+    the bottom of the pack in turn, try to approach thirty-one pips, and may pass
+    at specified totals.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 26232-26241
+  quote_or_summary: Exactly thirty-one pips is called entering the points; no player
+    may draw more than seven cards; failure after the full limit is called entering
+    the pack; the first two cards are called lunas or keels.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 26242-26255
+  quote_or_summary: 'The passage lists kinds of lunas: court-card with ace, two aces,
+    court-card with four, two threes, and ace with two, the last being described as
+    best.'
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 26256-26262
+  quote_or_summary: In chabut, tens should be thrown away; equal pip totals are described
+    by a set Malay phrase; being bluffed is called kena ranjau, glossed as wounded
+    by a caltrop.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: lines 26263-26265
+  quote_or_summary: A player with twenty-six pips in six cards has only one more chance
+    and may be afraid to risk it; the passage cuts off before completing the description.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mostly procedural game description. Literal extraction is
+    straightforward, but motif significance is limited because no mythic or ritual
+    comparison is supplied in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No supplied taxonomy motif family or symbol is directly supported by the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l26220-l26265
+  passage_sha256=f40c0ce626f787acc46a102a5bf964031c011503c6bc69f429d3ff0d707aa93b
+

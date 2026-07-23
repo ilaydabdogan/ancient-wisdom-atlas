@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.african-akikuyu-prehistoric-people-routledge-archive-l4655-l4772
+source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+passage_locator:
+  label: LAND  AND  AGRICULTURE / LAND   AND   AGRICULTURE / LAND  AND  AGRICULTURE  39
+    / AGRICULTURE; lines 4655-4772
+  start: '4655'
+  end: '4772'
+  translation: 'With a Prehistoric People: The Akikuyu of British East Africa'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes an agricultural year organized around irregular rains,
+    planting, hoeing, bird-scaring, and harvest. It also describes maize sowing with
+    a hoe-like implement, field labor by women and men, and communal protection of
+    ripening crops from birds using platforms, thrown objects, slings, and shouted
+    abuse.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A typical agricultural sequence is presented as planting in the first month,
+    light and heavy rains in the early months, hoeing in later months, and bird-scaring
+    with harvest in the sixth month; the passage states that irregular rains can cause
+    crop failure.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Maize is identified as the principal crop and is sown by stabbing planting
+    holes about six inches deep and two feet apart, with two seeds dropped into each
+    hole.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: During hoeing and weeding, women are described as working in the fields while
+    bending from the waist, while men squat on their heels for the same work.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The ka-hi-yu is described as an efficient implement for removing weeds by
+    prizing them up by the roots.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When crops become ripe enough to attract birds, crop protection becomes a
+    serious activity involving the whole population.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Temporary field platforms are erected for visibility, and stones, pieces of
+    earth, slings, abusive epithets, cries, and shouts are used against the birds.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: women working in fields
+  description: Women are described as much occupied in the fields during hoeing and
+    weeding, bending from the waist with knees almost straight.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: men working in fields
+  description: Men are described as squatting on their heels for the same hoeing and
+    weeding work.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: whole population guarding crops
+  description: The whole population is said to take part in protecting ripening crops
+    from birds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: birds / flocks of small thieves
+  description: Birds are described as depredators attracted by ripe crops and are
+    addressed with abusive epithets.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: field weeders
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Women and men are both described in relation to hoeing and weeding work in
+    the fields.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: communal crop protectors
+  assigned_to:
+  - fig:3
+  basis: The passage states that the whole population takes part in protecting ripening
+    crops.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: crop depredators
+  assigned_to:
+  - fig:4
+  basis: The birds are described as attracted to ripe crops and as targets of thrown
+    objects, slings, and shouted abuse.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: rains
+  literal_form: Light rains, heavy rains, and the stopping of rain in the agricultural
+    sequence.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: maize crop
+  literal_form: Maize is named as the principal crop and later as ripening crops attractive
+    to birds.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: kai-hu / ka-hi-yu implement
+  literal_form: Agricultural implement used for stabbing planting holes and for prizing
+    weeds up by the roots.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: temporary field platforms
+  literal_form: Platforms erected in fields so that the whole field of operations
+    may be in view.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: stones, earth, and slings
+  literal_form: Objects and tools used to drive birds away from ripening crops.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Six-month agricultural sequence
+  summary: The passage presents a sequence from planting and rains through hoeing,
+    bird-scaring, and harvest, with crop success dependent on irregular rainfall.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Maize sowing
+  summary: Maize is sown by making regularly spaced holes with the kai-hu and placing
+    two seeds in each hole.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hoeing and weeding
+  summary: Women and men perform field work in different postures, and the ka-hi-yu
+    is used to uproot weeds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Bird-scaring at ripening crops
+  summary: When birds threaten ripening crops, the whole population guards the fields
+    from temporary platforms and drives birds away with projectiles, slings, cries,
+    and abuse.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: seasonal agricultural cycle keyed to rains
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The table and accompanying note organize agricultural work by months, rains,
+    hoeing, bird-scaring, and harvest, and state that failed rains lead to crop failure.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic farming schedule rather than a mythic narrative.
+- id: motif:2
+  label: communal defense of crops from bird depredators
+  taxonomy_refs: []
+  basis: The passage describes ripening crops attracting birds and the whole population
+    responding with platforms, thrown objects, slings, and shouted abuse.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The pattern is practical and agricultural; no sacred or explicitly mythic
+    framing is given.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a functional comparison to a seasonal-cycle motif family
+    because agricultural actions are ordered by rains, hoeing, bird-scaring, and harvest.
+  claim_level: same_function
+  target: seasonal_cycle
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No mythic personification, ritual explanation, or narrative cosmology
+    is stated; the comparison is limited to seasonal structure.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4655-4709
+  quote_or_summary: A table of a typical year presents planting, light rains, heavy
+    rains, rain stopping, hoeing, bird-scaring, and harvest; it also states that rains
+    are irregular and failed rains cause crop failure.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 4710-4717
+  quote_or_summary: Maize is named as the principal crop and is sown by making holes
+    with the kai-hu, about six inches deep and two feet apart, with two seeds placed
+    in each hole.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 4718-4732
+  quote_or_summary: During hoeing and weeding, women work in the fields bent from
+    the waist, men squat for the same work, and the ka-hi-yu is described as effective
+    for removing weeds by the roots.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 4733-4772
+  quote_or_summary: When ripe crops attract birds, the whole population protects the
+    fields from temporary platforms, throwing stones and earth, using slings, and
+    shouting abuse at the birds.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The agricultural details are explicit. Motif and comparison fields are limited
+    because the passage is descriptive ethnography, not a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. OCR irregularities in the passage were handled by summarizing rather than quoting extensively.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-akikuyu-prehistoric-people-routledge-archive__l4655-l4772
+  passage_sha256=38463da56a4712b0a7951eed4573f1039db2195c0cd891672393978cbb9cd72e
+

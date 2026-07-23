@@ -1,0 +1,347 @@
+---
+record_id: batch.motif.african-akikuyu-prehistoric-people-routledge-archive-l6215-l6314
+source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+passage_locator:
+  label: HUT-BUILDING  67 / HUT-BUILDING  69 / ARTS  AND  CRAFTS  71 / BRIDGE-BUILDING;
+    lines 6215-6314
+  start: '6215'
+  end: '6314'
+  translation: 'With a Prehistoric People: The Akikuyu of British East Africa'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes the durability of occupied houses and the decay
+    of deserted houses, then describes Kikuyu stream conditions and several bridge-building
+    methods, including felled-tree bridges and concealed suspension bridges made with
+    trees, creepers, posts, crossbars, footways, and supporting cords.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A well-built house is said to last a lifetime with occasional repairs if occupied,
+    but a deserted house may disappear within a few years through white ants and boring
+    beetles.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Kikuyu country is described as having many streams from nearby mountains,
+    with rocky channels, steep gradients, and sudden changes in water level.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A small rise in water can make a ford dangerous or impassable because of the
+    force of the current.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The people are described as expert bridge-builders in response to stream conditions.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One bridge method is to fell a tree so that it falls across a stream and rests
+    on both shores.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Felled-tree bridges are only suitable where high banks rise above flood level;
+    otherwise a trunk could be swept away after a mountain thunderstorm.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The usual bridge is described as a suspension bridge made like a spider-web
+    of creepers from one tree to another.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Bridges, like paths, were preferably made unobtrusive and screened from observation
+    for defensive purposes.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A first-class bridge footway may be made from a large tree axed flat, repaired
+    with a sewn-on smaller piece if twisted, or replaced by a spindle-shaped fascine
+    of sticks and creepers if no large tree is available.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The bridge structure includes paired posts, a crossbar supporting the footway,
+    tall posts, a hand-rail cord, short cords attached to the footway, and additional
+    cords distributing the load.
+  category: object
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Kikuyu people
+  description: The people of the described region, identified as becoming expert bridge-builders
+    because of local stream conditions.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: expert bridge-builders
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly states that the people became expert bridge-builders
+    as a consequence of dangerous or impassable fords.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: defensive concealment builders
+  assigned_to:
+  - fig:1
+  basis: The passage says paths and bridges were made unobtrusive or screened from
+    observation for purposes of defence.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: streams and dangerous water crossing
+  literal_form: mountain-fed streams with sudden rises, rocky channels, and strong
+    currents
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: tree as bridge material and support
+  literal_form: felled trees, standing trees, tree trunks, and posts used to form
+    or support bridges
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: creeper suspension web
+  literal_form: creepers and cords forming a suspension bridge compared to a spider's
+    web
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:4
+  label: concealed bridge
+  literal_form: a bridge built in a place and manner intended to screen it from observation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: deserted house consumed by insects
+  literal_form: a deserted house disappearing under white ants and boring beetles
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Occupied and deserted houses
+  summary: The passage contrasts the longevity of an occupied house with the rapid
+    disappearance of a deserted one through insect damage.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dangerous mountain streams
+  summary: Mountain-fed streams with rocky channels and steep gradients can rise suddenly,
+    making fords dangerous or impassable.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Felled-tree bridge
+  summary: Where banks are high enough, a tree may be felled across a stream to rest
+    on both shores, though this form is limited by flood risk.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Concealed suspension bridge
+  summary: The usual bridge is described as a creeper suspension bridge carried between
+    trees and often difficult to see because concealment served defensive purposes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Construction of a first-class bridge
+  summary: A bridge is built with a flattened or fascine footway, paired posts, crossbars,
+    tall posts, hand-rail cords, hanging cords, and additional load-bearing cords
+    on both halves of the bridge.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: engineered crossing over dangerous water
+  taxonomy_refs: []
+  basis: The passage presents dangerous streams and impassable fords as the condition
+    that leads to developed bridge-building practices.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a technical ethnographic pattern, not a mythic narrative motif
+    in the passage.
+- id: motif:2
+  label: concealed crossing for defence
+  taxonomy_refs: []
+  basis: The passage states that bridges, like paths, were constructed to be unobtrusive
+    and screened from observation for defensive purposes.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No ritual, mythic, or sacred meaning is stated.
+- id: motif:3
+  label: tree transformed into crossing
+  taxonomy_refs: []
+  basis: The passage describes both a felled tree used directly as a bridge and trees
+    or trunks used as major components of suspension bridges.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The available motif-family taxonomy does not include a direct non-sacred
+    bridge or crossing category; the passage describes practical construction rather
+    than symbolic transformation.
+- id: motif:4
+  label: deserted dwelling overtaken by decay
+  taxonomy_refs: []
+  basis: The house summary states that a deserted house disappears within a few years
+    because of insects, unlike an occupied house that can last a lifetime with repairs.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an observed material-life pattern and not presented as a mythological
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6215-6222, ARTS AND CRAFTS 71, General Summary
+  quote_or_summary: A good occupied house lasts a lifetime with repairs; if deserted,
+    it disappears in a few years because of white ants and boring beetles.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6223-6233, BRIDGE-BUILDING opening description
+  quote_or_summary: Kikuyu is described as a land of mountain-fed streams with sudden
+    rises and falls, rocky channels through gorges, and considerable gradient.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 6230-6235, BRIDGE-BUILDING opening description
+  quote_or_summary: '"The people have in consequence become expert bridge-builders."'
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 6235-6245, felled-tree bridge description
+  quote_or_summary: When possible, a tree is felled across the stream to rest on both
+    shores, but this is limited to places with banks above flood level because floods
+    could sweep away the trunk.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6245-6258, usual suspension bridge description
+  quote_or_summary: The usual bridge is a suspension form, described as a spider-web
+    of creepers from tree to tree; it is often hard to recognize and is built unobtrusively
+    for defence.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6259-6277, first-class bridge footway
+  quote_or_summary: A large tree is felled and flattened for the footway; defects
+    may be corrected with a smaller sewn-on piece, or a fascine of sticks and creepers
+    may replace a large tree.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6278-6289, posts and crossbar
+  quote_or_summary: A pair of strong posts with a crossbar supports one end of the
+    foot-plank, and another pair of tall tree trunks is erected nearby.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 6290-6314, suspension cords and load-bearing system
+  quote_or_summary: A hand-rail cord, short cords attached to the footway, and additional
+    cords from tall posts distribute the weight of the footway and load; the same
+    arrangement applies to both halves of the bridge.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The technical details of bridge construction and house decay are explicit.
+    Motif candidates are treated as practical narrative patterns rather than mythological
+    motifs because the passage gives no sacred, ritual, or comparative framing. No
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. Available taxonomy symbol refs were applied only to literal water and tree references; no motif-family taxonomy refs were assigned.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-akikuyu-prehistoric-people-routledge-archive__l6215-l6314
+  passage_sha256=fe3b4dd9bbc6be65fed2901cbeac7b59938c6d55292ea34030c863c60bd4554f
+

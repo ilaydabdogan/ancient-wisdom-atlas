@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l20948-l20972
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: HANDSOME-BOY.  417 / HANDSOME-BOY.  419 / HANDSOME-BOY.  42I / HANDSOME-BOY.  423;
+    lines 20948-20972
+  start: '20948'
+  end: '20972'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A warrior borrows a warriors' bundle, invites young men to his lodge, and
+    leads a pipe-smoking rite addressed to the gods in the heavens before announcing
+    a raid into enemy country. The young men prepare clothing, food, and moccasins,
+    depart in the morning, and travel many days. Near a deep ravine they see a big
+    Turtle; two mischievous young men climb onto it, try to ride it, jump on it, and
+    become stuck fast.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A warrior borrows the warriors' bundle because he is going to leave his country
+    to capture ponies or kill people.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The warrior takes the bundle to his lodge, invites young men to join him,
+    and sits with the bundle in front of him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The young men are told to sit in a circle around the fireplace.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A pipe is filled and lighted, and the men smoke to the gods in the heavens
+    to insure success.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The leader tells the young men that he is going into enemy country and will
+    start in the morning.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The young men return with bundles of clothing and food and with moccasins;
+    they leave in the morning and walk for many days.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: While walking along a deep ravine, the warriors see a big Turtle moving along.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Two mischievous young men climb onto the Turtle's back, say they will ride
+    it, jump up and down, and become stuck fast on it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A supplied note says the story is told to children so that they may not make
+    fun of animals on the earth.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: warrior leader
+  description: A warrior who borrows the warriors' bundle, invites young men, sits
+    with the bundle before him, and announces the expedition into enemy country.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: young men / warriors
+  description: Young men invited to join the leader; they sit around the fireplace,
+    smoke, prepare supplies, depart, and later see the Turtle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: big Turtle
+  description: A big Turtle moving along near a deep ravine; two young men climb onto
+    its back and become stuck fast.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: gods in the heavens
+  description: Divine recipients to whom the men smoke in order to insure success.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: two mischievous young men
+  description: Two young men who climb onto the Turtle's back, attempt to ride it,
+    jump up and down, and become stuck fast.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: war-party leader
+  assigned_to:
+  - fig:1
+  basis: He borrows the warriors' bundle, invites others, and announces the departure
+    into enemy country.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: war-party participants
+  assigned_to:
+  - fig:2
+  basis: They respond to the leader's invitation, join the lodge rite, prepare supplies,
+    and depart.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: divine recipients of smoke
+  assigned_to:
+  - fig:4
+  basis: The passage says the men smoked to the gods in the heavens to insure success.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: animal encountered on the journey
+  assigned_to:
+  - fig:3
+  basis: The warriors see a big Turtle moving along while they are walking near a
+    ravine.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: mischievous riders
+  assigned_to:
+  - fig:5
+  basis: They climb onto the Turtle, say they will ride it, jump on it, and become
+    stuck.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: warriors' bundle
+  literal_form: borrowed warriors' bundle placed before the leader in the lodge
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pipe smoke to the gods
+  literal_form: filled and lighted pipe smoked to gods in the heavens
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fireplace circle
+  literal_form: men seated in a circle around the fireplace
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: big Turtle
+  literal_form: large Turtle encountered beside a deep ravine
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: deep ravine
+  literal_form: deep ravine along which the warriors are walking
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: lodge preparation and pipe rite
+  summary: The leader brings the warriors' bundle to his lodge, gathers young men
+    around the fireplace, and the group smokes a lighted pipe to the gods in the heavens
+    for success.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: departure for enemy country
+  summary: The leader announces the expedition into enemy country; the young men gather
+    clothing, food, and moccasins, depart in the morning, and walk many days.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Turtle encounter at the ravine
+  summary: The warriors see a big Turtle near a deep ravine. Two mischievous young
+    men climb onto the Turtle, try to ride it, jump on it, and become stuck fast.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: departure after ritual preparation
+  taxonomy_refs:
+  - departure
+  basis: The leader gathers a party, performs a pipe-smoking rite for success, announces
+    the journey into enemy country, and the group departs in the morning.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage concerns a war-party departure, not necessarily a full heroic
+    quest structure.
+- id: motif:2
+  label: ritual bundle before an expedition
+  taxonomy_refs: []
+  basis: The leader borrows the warriors' bundle, keeps it before him in the lodge,
+    and gathers companions before departure.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage names the bundle but does not explain its origin, contents,
+    or ritual meaning.
+- id: motif:3
+  label: disrespectful treatment of animal followed by sticking fast
+  taxonomy_refs: []
+  basis: Two mischievous young men climb on the Turtle to ride it, jump up and down,
+    and immediately find themselves stuck fast.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage reports the adhesion but does not yet state a cause or outcome
+    beyond becoming stuck.
+- id: motif:4
+  label: didactic warning not to mock animals
+  taxonomy_refs: []
+  basis: A supplied note states that the story is told to children so they may not
+    make fun of animals on the earth.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This basis comes from a paratextual note rather than from explicit speech
+    within the narrative scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 20948-20952
+  quote_or_summary: A warrior borrows the warriors' bundle, takes it to his lodge,
+    invites young men, and sits with the bundle before him.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: 20952-20956
+  quote_or_summary: The young men sit around the fireplace in a circle; a pipe is
+    filled and lighted, and the men smoke to the gods in the heavens for success.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; brief excerpt summarized with minimal
+    quotation.
+- id: ev:3
+  type: quote
+  locator: 20956-20959
+  quote_or_summary: The leader says he is about to go into the enemy's country and
+    will start in the morning.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; brief excerpt summarized.
+- id: ev:4
+  type: summary
+  locator: 20959-20963
+  quote_or_summary: The young men return with clothing, food, and moccasins; they
+    leave in the morning and walk for many days.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 20964-20965
+  quote_or_summary: While walking along a deep ravine, the warriors see a big Turtle
+    moving along.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: quote
+  locator: 20966-20970
+  quote_or_summary: Two mischievous young men climb onto the Turtle's back, say, "Let
+    us ride the Turtle," jump up and down, and become stuck fast.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; brief quotation included.
+- id: ev:7
+  type: note
+  locator: supplied note within 20948-20972
+  quote_or_summary: The note says the story is told to children so that they may not
+    make fun of any animals on the earth.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Narrative actions and figures are explicit in the supplied passage. Motif
+    labels are candidate-level only; the passage is fragmentary at the end of the
+    supplied range, and paratextual notes require human verification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparisons were asserted. Taxonomy references were limited to available refs and only applied where directly supported by the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l20948-l20972
+  passage_sha256=59a499a6cd96e2c2a3a9c12a9be8c1ee9119f4e5bc8ba7ca873ee370bfd21403
+

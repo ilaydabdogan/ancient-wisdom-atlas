@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l2298-l2316
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: THE  LAWS  CONCERNING  IT. / COMMENTARIES  OF  THE  YNCAS. / FIFTH  BOOK  OF  THE  BOYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 2298-2316
+  start: '2298'
+  end: '2316'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes an Inca labor law concerning household work and tribute.
+    A man could choose not to have his wife and children assist him, provided they
+    were not idle at home; judges and decurions could not compel them. Large families
+    were viewed as wealthy because they helped complete tribute tasks, while those
+    without children could suffer from prolonged labor. A remedy required people with
+    many children or completed tasks to help poorer brethren for one or two days,
+    and the law was agreeable to all the Indians.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man could choose to do the work himself rather than employ his wife and
+    children.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If the wife and children were not idle, they could remain occupied at home
+    and officials could not compel them to work with the men.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A man with a large family was considered very rich in the days of the Yucas.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: People without children were said to fall ill frequently because they spent
+    a long time completing their tribute.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The remedy was for those rich in children and those who had completed their
+    tasks to help poorer brethren for one or two days.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The law was agreeable to all the Indians.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Man responsible for work or tribute
+  description: A man who may either employ his family in work or do it himself.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Wife and children
+  description: Household members who may assist father or husband, but may also remain
+    occupied at home if not idle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Judges and decurions
+  description: Officials who could not oblige the wife and children to work with the
+    men when they were not idle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Those rich in children and those who had completed their tasks
+  description: People identified as able to help poorer brethren for one or two days.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Poorer brethren
+  description: People helped by those rich in children and by others who had completed
+    their tasks.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: All the Indians
+  description: The community for whom the law was agreeable.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: household work or tribute bearer
+  assigned_to:
+  - fig:1
+  basis: The passage describes the man deciding whether to employ his family or do
+    the work himself.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: optional family assistants
+  assigned_to:
+  - fig:2
+  basis: The wife and children could assist the father or husband, but could not be
+    compelled if occupied at home and not idle.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: officials with limited authority to compel labor
+  assigned_to:
+  - fig:3
+  basis: Judges and decurions could not oblige the wife and children to work under
+    the stated conditions.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: helpers with surplus labor or completed tasks
+  assigned_to:
+  - fig:4
+  basis: Those rich in children and those who had completed their tasks were to help
+    poorer brethren.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: recipients of labor assistance
+  assigned_to:
+  - fig:5
+  basis: The poorer brethren were helped for one or two days by others.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: community approving the law
+  assigned_to:
+  - fig:6
+  basis: The law was described as agreeable to all the Indians.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Household labor choice and official restraint
+  summary: A man may do the work himself, while his wife and children remain occupied
+    at home; officials cannot force them to assist if they are not idle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Family size as labor wealth
+  summary: A large family is described as a source of wealth because it helps with
+    work, while people without children may suffer from the prolonged task of completing
+    tribute.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Remedy through communal assistance
+  summary: People with many children or completed tasks help poorer brethren for one
+    or two days, and the law is said to be agreeable to the community.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Reciprocal labor assistance within a tribute system
+  taxonomy_refs: []
+  basis: The passage presents a remedy in which those with more household labor capacity
+    or finished tasks help poorer brethren complete their obligations.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a social and legal pattern in the passage, not an explicitly mythic
+    or sacred motif.
+- id: motif:2
+  label: Household wealth measured by children and labor capacity
+  taxonomy_refs: []
+  basis: The passage states that a man with a large family was considered very rich,
+    while people without children could be burdened by the time needed to complete
+    tribute.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage frames this as a practical labor condition rather than as
+    a symbolic or mythic theme.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2298-2304
+  quote_or_summary: A man could avoid employing his wife and children in work and
+    do it himself; if they were occupied at home and not idle, judges and decurions
+    could not compel them to work with the men.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 2304-2309
+  quote_or_summary: A man with a large family was considered very rich in the days
+    of the Yucas, while those without children often fell ill because completing tribute
+    took them a long time.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 2309-2314
+  quote_or_summary: The remedy was that those rich in children and those who had completed
+    their tasks should help poorer brethren for one or two days.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 2314-2316
+  quote_or_summary: '"This law was agreeable to all the Indians."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The social and legal content is clear. Motif candidates are treated cautiously
+    because the passage is administrative rather than explicitly mythological. No
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy symbol or motif family is directly supported by the passage without adding sacred or mythic interpretation.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l2298-l2316
+  passage_sha256=1ffd9df4a077e556c1955ae51715a6a03ffb038ce735de5ebf6f8bd7a0341300
+

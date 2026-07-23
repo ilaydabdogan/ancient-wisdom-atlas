@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l21973-l22007
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: FUNERALS / WASHING  THE  BODY / FUNERALS / THE  FUNERAL  PROCESSION; lines
+    21973-22007
+  start: '21973'
+  end: '22007'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a Malay funeral procession: the corpse is protected
+    and placed on a bier with a coffin or mat arrangement, the bier is covered with
+    colored cloth and sometimes floral strips, bearers carry it to the grave, and
+    mourners generally wear no special mourning dress except certain rare or rank-related
+    signs.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A split-bamboo wicker-work covering is placed over the corpse to protect it
+    on the way to the grave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In one coffin type, the body is laid in the coffin and carried on the bier;
+    in another bottomless coffin type, the body lies on a mat.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The bier is covered with one or more palls of good colored cloth, described
+    as never white and often green.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Floral strips made from areca-palm blossoms and scented pandanus may be laid
+    across the pall, usually five or six strips alternating between the two materials.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The number of bier bearers depends on the rank of the deceased; for a Sultan,
+    many people try to take part in carrying him to the grave.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that bearers may participate because of religious merit
+    and because of alms given to bearers.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The procession starts for the grave, and mourners or followers generally wear
+    no special dress or sign of mourning.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A strip of white cloth may be distributed as a funeral favor at the death
+    of a Sultan.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage says the only mourning sign apparently known to Malays is the
+    rare use of black edging for envelopes of letters, described as copied from English
+    custom.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: corpse or deceased person
+  description: The body being covered, placed in or with a coffin arrangement, carried
+    on a bier, and taken to the grave.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: funeral bearers
+  description: People who carry the bier; their number varies by the rank of the deceased,
+    and they may receive merit and alms.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: mourners or followers
+  description: People following the procession, described as generally wearing no
+    special mourning dress or sign.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Sultan as deceased
+  description: A high-ranking deceased person used as an example; many people help
+    carry him to the grave, and a white cloth strip may be distributed at his death.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: deceased
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage centers on the corpse or body and gives the death of a Sultan
+    as a special case.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: bier bearer
+  assigned_to:
+  - fig:2
+  basis: The passage describes persons bearing the bier and receiving merit or alms
+    for carrying the deceased.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: mourner or procession follower
+  assigned_to:
+  - fig:3
+  basis: The passage identifies mourners or followers in the procession and describes
+    their dress practices.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: high-ranking deceased
+  assigned_to:
+  - fig:4
+  basis: The Sultan is presented as a case where many people help carry the body and
+    where a white cloth funeral favor may be distributed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: protective split-bamboo covering
+  literal_form: wicker-work covering of split bamboo placed over the corpse
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: coffin and bier arrangement
+  literal_form: karanda coffin on a bier, or bottomless long coffin with body on a
+    mat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: colored funeral pall
+  literal_form: kain tudong pall of colored cloth, never white and often green
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: floral strips called Centipedes' Feet
+  literal_form: strips woven from areca-palm blossom and scented pandanus, laid across
+    the pall
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: white cloth funeral favor
+  literal_form: kabong puteh, a strip of white cloth distributed at the death of a
+    Sultan
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: black-edged letter envelopes
+  literal_form: black edging for envelopes of letters as a rare mourning sign
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Preparation of the covered bier
+  summary: The corpse is covered with a split-bamboo protective covering, arranged
+    with a coffin or mat on the bier, and covered by a colored pall that may be decorated
+    with floral strips.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Carrying the deceased to the grave
+  summary: Bearers carry the deceased toward the grave; the number of bearers depends
+    on rank, and a Sultan attracts many participants because of merit and alms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Mourning signs in the procession
+  summary: The procession begins for the grave, while mourners or followers generally
+    wear no special mourning dress; the passage notes a possible white cloth favor
+    for a Sultan and a rare black-edged-letter practice.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: protective covering of the corpse during funeral transport
+  taxonomy_refs: []
+  basis: The corpse is covered with split-bamboo wicker-work specifically to protect
+    it on the way to the grave.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a ritual practice described ethnographically, not a narrative
+    myth motif.
+- id: motif:2
+  label: decorated funeral bier
+  taxonomy_refs: []
+  basis: The bier is covered with colored cloth and may be decorated with alternating
+    floral strips made from areca-palm blossoms and pandanus.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage describes objects and decoration but does not explain their
+    symbolic meaning.
+- id: motif:3
+  label: funerary participation for merit and alms
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage states that people help carry a Sultan to the grave partly for
+    pahala or merit and partly for sedekah or alms.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage gives a ritual-economy explanation
+    rather than a mythic exchange narrative.
+- id: motif:4
+  label: rank-marked funeral procession
+  taxonomy_refs: []
+  basis: The number of bearers depends on the deceased person's rank, with a Sultan
+    receiving especially broad participation.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives one high-status example and does not provide a full
+    social ranking system.
+- id: motif:5
+  label: minimal or absent mourning dress
+  taxonomy_refs: []
+  basis: The passage says mourners and followers generally wear no special mourning
+    dress or sign, with only limited exceptions noted.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The statement is framed by the source author's observation and includes
+    exceptions and comparisons.
+comparison_claims:
+- id: claim:1
+  claim: The passage contrasts the described Malay procession with a Singapore mourning-dress
+    practice involving a white sash with colored ribbon.
+  claim_level: same_function
+  target: Singapore mourning dress practice mentioned in the passage
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief contrast and does not identify the community,
+    date, or full ritual context of the Singapore practice.
+- id: claim:2
+  claim: The passage states that rare black edging on letter envelopes is probably
+    copied from English mourning custom.
+  claim_level: historical_contact
+  target: English custom of black-edged mourning stationery
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The historical-contact claim is the source author's assertion; no independent
+    evidence is provided in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21973-21980
+  quote_or_summary: A split-bamboo wicker-work covering is placed over the corpse
+    to protect it on the way to the grave; the body is placed either in a coffin on
+    the bier or on a mat in a bottomless coffin form.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 21980-21991
+  quote_or_summary: The bier is covered with colored cloth, never white and often
+    green; floral strips called Centipedes' Feet, made from areca-palm blossoms and
+    scented pandanus, may be laid across the pall in alternating groups.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 21991-21997
+  quote_or_summary: The number of bearers depends on the rank of the deceased; for
+    a Sultan, many help carry him to the grave because of merit and because alms are
+    given to bearers.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 21997-22004
+  quote_or_summary: The procession starts for the grave; mourners or followers wear
+    no special mourning dress like the white sash with colored ribbon sometimes worn
+    at Singapore, except possibly the white cloth strip distributed at a Sultan's
+    death.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 22004-22007
+  quote_or_summary: The passage says the only mourning apparently known to Malays
+    is rare black edging for letter envelopes, described as copied from English custom.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is concrete and descriptive, supporting high confidence for ritual
+    objects and actions. Motif labeling is more tentative because the passage is ethnographic
+    rather than mythic narrative. Comparison claims are limited to comparisons explicitly
+    made by the source.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external sources or unstated taxonomy identifiers were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l21973-l22007
+  passage_sha256=dfe79d8bc2e24fc168980836a192410f223fc855c9da46e9c9b97f199c8ed89a
+

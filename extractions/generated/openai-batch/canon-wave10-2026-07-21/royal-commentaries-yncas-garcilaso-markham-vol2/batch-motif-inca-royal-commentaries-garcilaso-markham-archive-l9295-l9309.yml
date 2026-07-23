@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l9295-l9309
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XXXV. / COMMENTARIES  OF  THE  YNCAS. / SIXTH  BOOK  OP  THE  ROYAL
+    / COMMENTARIES  OP  THE  YNCAS.; lines 9295-9309
+  start: '9295'
+  end: '9309'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes an appointed day for building a house, communal assistance
+    by inhabitants for their neighbour, completion of the house, approval of the custom
+    by the Yuca and its confirmation as law, continued observance by villages, and
+    a moral contrast with avaricious men.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A day is appointed for building the house.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The inhabitants assemble together to assist their neighbour, and the house
+    is completed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Yuca approves the custom and confirms it by law.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Many villages of Indians are said still to observe the law and help each other
+    with Christian charity.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Avaricious men are described as thinking only of themselves, harming themselves,
+    and doing their neighbours no good.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the inhabitants
+  description: A group that assembles with one accord to assist their neighbour in
+    building a house.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: their neighbour
+  description: The neighbour whose house is being built with communal assistance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the Yuca
+  description: The ruler or authority figure who approves the custom and confirms
+    it by law, as named in the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: many villages of Indians
+  description: Villages said to continue observing the law and helping each other.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: avaricious men
+  description: Men described as thinking only of themselves, harming themselves, and
+    doing no good to their neighbours.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: communal helpers
+  assigned_to:
+  - fig:1
+  basis: The inhabitants assemble to assist their neighbour with house-building.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: neighbour receiving assistance
+  assigned_to:
+  - fig:2
+  basis: The house-building assistance is directed toward the neighbour.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: approving lawgiver
+  assigned_to:
+  - fig:3
+  basis: The Yuca approves the custom and confirms it by law.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: continuing observers of the law
+  assigned_to:
+  - fig:4
+  basis: Many villages are said to observe the law and help each other.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: self-interested negative example
+  assigned_to:
+  - fig:5
+  basis: Avaricious men are contrasted as thinking only of themselves and failing
+    to benefit neighbours.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: house
+  literal_form: the house to be built
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: communal house-building
+  summary: After an appointed day for building, the inhabitants assemble together
+    to help their neighbour, and the house is completed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: custom confirmed as law
+  summary: The Yuca approves the communal house-building custom and confirms it by
+    law.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: continued observance and moral contrast
+  summary: Many villages are said to continue observing the law through mutual help,
+    while avaricious men are described as self-harming and useless to neighbours.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: communal mutual aid in house-building
+  taxonomy_refs: []
+  basis: The inhabitants assemble with one accord to assist a neighbour in building
+    a house, and later villages are said to help each other under the same law.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a social custom pattern rather than a strongly mythic motif in
+    the supplied passage.
+- id: motif:2
+  label: custom sanctioned by ruler as law
+  taxonomy_refs: []
+  basis: The Yuca approves the custom and confirms it by law.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage reports legal confirmation but does not explicitly frame it
+    as royal legitimacy or divine sanction.
+- id: motif:3
+  label: selfishness contrasted with neighbourly reciprocity
+  taxonomy_refs: []
+  basis: The passage contrasts mutual help among villages with avaricious men who
+    think only of themselves and do no good to neighbours.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The contrast is moral and social; no explicit mythic narrative pattern
+    is developed in this short passage.
+comparison_claims:
+- id: claim:1
+  claim: The narrator characterizes the continued mutual assistance of villages in
+    terms of Christian charity.
+  claim_level: same_function
+  target: Christian charity as a neighbourly-help ethic
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the narrator's wording within the passage; it does not by itself
+    establish historical influence or identity of traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9295-9299
+  quote_or_summary: A day is appointed for building; the inhabitants assemble with
+    one accord to assist their neighbour, and the house is completed.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; supplied passage.
+- id: ev:2
+  type: summary
+  locator: 9299-9301
+  quote_or_summary: The Yuca approves the custom and confirms it by law.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; supplied passage.
+- id: ev:3
+  type: summary
+  locator: 9301-9305
+  quote_or_summary: Many villages of Indians are said to observe the law to this day
+    and help each other with Christian charity.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; supplied passage.
+- id: ev:4
+  type: summary
+  locator: 9305-9309
+  quote_or_summary: Avaricious men are described as thinking only of themselves, harming
+    themselves, and doing their neighbours no good.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on a short passage with OCR irregularities and a
+    fragmentary opening. The named figure is retained as 'Yuca' because that is the
+    supplied wording.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy references were assigned because the passage presents communal legal custom and moral commentary rather than one of the supplied mythic motif families.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l9295-l9309
+  passage_sha256=4ff7e1e79bdc40621081598c08a4c8df1f99af1e1727ab88e2dac118620d841b
+

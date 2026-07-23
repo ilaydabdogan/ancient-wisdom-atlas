@@ -1,0 +1,406 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l17171-l17219
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: EIGHTH  BOOK  OF  THE  ROYAL / CHAPTER  XVII. / OF  THE  WILD  SHEEP,  AND  OF  OTHER  WILD  ANIMALS.
+    / COMMENTARIES  OF  THE  YNCAS.; lines 17171-17219
+  start: '17171'
+  end: '17219'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives a natural-history description of huanacus and vicuñas
+    in Peru: the male huanacu watches from a high hill and warns others; huanacus
+    and vicuñas are hunted or captured; their wool, flesh, habitat, speed, and herd
+    behavior are described, with a note citing Father Acosta and editorial footnotes
+    on the vicuña.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A male huanacu is described as keeping watch on a high hill while females
+    browse below.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the male huanacu sees a man, he neighs like a horse to warn the others,
+    after which the animals flee with the females in front.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Huanacu wool is described as coarse and short, and Indians use it for weaving
+    cloth.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Huanacus were hunted with greyhounds and many were killed in the narrator's
+    time.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The vicuña is described as a smaller wild sheep, slight and delicate, with
+    very fine wool and a clear chestnut or lion-colored fleece.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Vicuñas are described as very swift, beyond the reach of greyhounds.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Vicuñas are killed with arquebuses or secured with a rope, including a method
+    associated with the time of the Yncas.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Vicuñas browse on very lofty deserts near the snow, and their flesh is described
+    as edible but inferior to huanacu flesh.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A footnote describes vicuñas as living in herds of six to fifteen, with one
+    male as leader and protector.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A footnote states that vicuñas avoid rocky ground and keep to turf because
+    their hoofs are soft and tender.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Father Acosta is cited as writing about the medicinal virtues of vicuña wool
+    and other animals and birds in the Indies.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: male huanacu
+  description: A male huanacu that watches from a high hill, warns others with a neigh,
+    and is linked to the herd's flight.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: female huanacus
+  description: Females browse in lower ground and are kept in front when the huanacus
+    flee.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: huanacus
+  description: Wild animals with coarse, short wool used for weaving, hunted with
+    greyhounds and killed.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: vicuña
+  description: A slight, delicate wild sheep with very fine chestnut or lion-colored
+    wool, great speed, high snowy habitat, and edible flesh.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: male vicuña herd leader
+  description: The footnote describes one male in a vicuña herd as leader and protector.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Indians and hunters
+  description: People who use huanacu wool for weaving and hunt or capture huanacus
+    and vicuñas.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:7
+  name_or_label: Father Acosta
+  description: A cited authority who wrote about vicuña wool and other animals and
+    birds of the Indies.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: animal watchman and warner
+  assigned_to:
+  - fig:1
+  basis: The male huanacu watches from a high hill and warns others when he sees a
+    man.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: warned browsing group
+  assigned_to:
+  - fig:2
+  basis: The females browse below and are placed in front during flight.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: herd leader and protector
+  assigned_to:
+  - fig:5
+  basis: The footnote says a vicuña herd has one male as leader and protector.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: hunted or captured wild animal
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Huanacus are hunted with greyhounds; vicuñas are killed with arquebuses or
+    secured with a rope.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: human users and hunters
+  assigned_to:
+  - fig:6
+  basis: Indians use wool for weaving, and humans hunt or capture the animals.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: cited natural-history authority
+  assigned_to:
+  - fig:7
+  basis: The narrator refers to Father Acosta's writings about animal uses and vicuña
+    wool.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: source of wool and flesh
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage describes the wool and flesh of huanacus and vicuñas.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: elevated highland lookout and habitat
+  literal_form: high hill; very lofty deserts near the snow
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: wool or fleece
+  literal_form: coarse short huanacu wool; very fine vicuña wool; wool used for weaving
+    and discussed for medicinal virtues
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: sym:3
+  label: hunting and capture implements
+  literal_form: greyhounds; arquebuses; rope
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: huanacu lookout and warning
+  summary: The male huanacu watches from a high hill while females browse below; when
+    he sees a man he warns the others, and the animals flee with females in front.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: huanacu use and hunting
+  summary: The passage describes huanacu wool as useful for weaving and says huanacus
+    were hunted with greyhounds and killed.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: vicuña description and capture
+  summary: The vicuña is described by its fine wool, color, speed, high snowy habitat,
+    edible flesh, and capture or killing by arquebus or rope.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: vicuña herd and terrain notes
+  summary: Footnotes describe vicuñas as living in small herds with one male leader-protector
+    and as avoiding rocky ground because of tender hoofs.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sentinel animal warns the herd
+  taxonomy_refs: []
+  basis: A male huanacu keeps watch from a high place and warns the others when a
+    man appears.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as animal behavior in a natural-history account,
+    not as a mythic episode.
+- id: motif:2
+  label: protective male herd organization
+  taxonomy_refs: []
+  basis: The main text places females in front during huanacu flight, and a footnote
+    describes a male vicuña as leader and protector of a herd.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: This combines observations about huanacus and vicuñas; the broader pattern
+    is tentative.
+- id: motif:3
+  label: highland wild animal pursued for valuable fleece
+  taxonomy_refs: []
+  basis: Huanacus and vicuñas are described through their wool, flesh, habitat, and
+    human hunting or capture methods.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: This is an economic and natural-history pattern rather than an explicit
+    mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 17175-17180
+  quote_or_summary: "“The male huanacu is always on the watch on some high hill,”
+    while females browse lower, and he neighs when he sees a man “to warn the others.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 17180-17183
+  quote_or_summary: The huanacus flee when people approach, keeping females in front;
+    their wool is coarse and short, Indians use it for weaving, and hunters killed
+    many with greyhounds.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 17185-17197
+  quote_or_summary: The vicuña is described as a smaller wild sheep, slight and delicate,
+    with much very fine wool, clear chestnut or lion-colored fleece, and great speed
+    beyond greyhounds.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 17197-17202
+  quote_or_summary: Vicuñas are killed with arquebuses or secured with a rope, browse
+    on very lofty deserts near the snow, and have edible flesh inferior to huanacu
+    flesh.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 17204-17214
+  quote_or_summary: The footnote describes the vicuña's size, coloring, fine wool,
+    and herds of six to fifteen, with one male as leader and protector.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 17216-17219
+  quote_or_summary: The footnote states that vicuñas avoid rocky ground and remain
+    on turf because their hoofs are soft and tender.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 17188-17193
+  quote_or_summary: Father Acosta is cited for writings on the medicinal virtues of
+    vicuña wool and on uses of other animals and birds found in the Indies.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The animal descriptions are explicit, but motif candidates are cautious because
+    the passage is natural history rather than a mythic narrative. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Taxonomy symbol 'mountain' is used only for the literal elevated highland setting; no sacred or mythic mountain interpretation is asserted.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l17171-l17219
+  passage_sha256=fcb477675e5ecb5f8882aa1790511dcd16e4fcde2b00e981858744425effb37d
+

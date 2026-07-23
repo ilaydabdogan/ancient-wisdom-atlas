@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l1275-l1294
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OP  THE  YNCAS. / CHAPTER  VIII. / OP  THE  MANNER  OP  GUARDING  THE  TRIBUTE,  AND  HOW  IT  WAS
+    / USED.; lines 1275-1294
+  start: '1275'
+  end: '1294'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage explains an imperial storage system for tribute. It describes
+    three kinds of storehouses: village storehouses for famine relief and for the
+    crops of the Ynca and the Sun, plus storehouses along royal roads at three-league
+    intervals that later served Spaniards as inns and taverns.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chapter announces that it will explain how tribute was guarded and used.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Throughout the empire, three kinds of storehouses held crops and other tribute.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Each village, whether large or small, had two storehouses.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One village storehouse held provision for the people against famine in years
+    of scarcity.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The other village storehouse kept the crops of the Ynca and of the Sun.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Other storehouses stood on the royal roads at intervals of three leagues.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The road storehouses are said to serve, in the narrator's present, as inns
+    and taverns for the Spaniards.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the people
+  description: The collective people for whom provision was stored against famine.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the Ynca
+  description: Named as one holder or recipient of crops kept in a village storehouse.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: the Sun
+  description: Named as one holder or recipient of crops kept in a village storehouse.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: the Spaniards
+  description: Later users of the royal-road storehouses as inns and taverns.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: beneficiaries of famine reserve
+  assigned_to:
+  - fig:1
+  basis: A storehouse held provision for the people to guard against famine in years
+    of scarcity.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: royal crop holder or recipient
+  assigned_to:
+  - fig:2
+  basis: The passage says crops of the Ynca were kept in the second village storehouse.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: solar crop holder or recipient
+  assigned_to:
+  - fig:3
+  basis: The passage says crops of the Sun were kept in the second village storehouse.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: later occupants or users of road storehouses
+  assigned_to:
+  - fig:4
+  basis: The road storehouses are described as now serving as inns and taverns for
+    Spaniards.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: storehouses
+  literal_form: Buildings or repositories in which crops and other tribute were shut
+    up.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: famine provision
+  literal_form: Stored provision reserved for the people against famine and scarcity.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: crops of the Ynca and the Sun
+  literal_form: Crops kept in a village storehouse for the Ynca and the Sun.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: royal-road storehouses at three-league intervals
+  literal_form: Storehouses placed on royal roads every three leagues.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Empire-wide tribute storage
+  summary: The passage describes three kinds of storehouses throughout the empire
+    for guarding crops and other tribute.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Village dual storehouse arrangement
+  summary: 'Each village has two storehouses: one for public famine provision and
+    another for crops of the Ynca and the Sun.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Road storehouses and later Spanish use
+  summary: Storehouses along the royal roads, spaced three leagues apart, are said
+    to have become inns and taverns for Spaniards.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: imperial tribute storage
+  taxonomy_refs: []
+  basis: The passage states that crops and other tribute were shut up in storehouses
+    throughout the empire.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an administrative pattern rather than a clearly mythological motif.
+- id: motif:2
+  label: community famine reserve
+  taxonomy_refs: []
+  basis: One village storehouse is reserved for provisions for the people against
+    famine in years of scarcity.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives a practical provisioning function and does not frame
+    it as ritual or myth.
+- id: motif:3
+  label: royal and solar allocation of crops
+  taxonomy_refs: []
+  basis: A separate village storehouse keeps the crops of the Ynca and of the Sun.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage names the Ynca and the Sun as associated with stored crops
+    but does not describe a ritual offering, exchange, or legitimating myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1275-1284
+  quote_or_summary: The chapter introduces the guarding and use of tribute; throughout
+    the empire there were three kinds of storehouses in which crops and other tribute
+    were shut up.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1284-1288
+  quote_or_summary: Each village had two storehouses; one stored provisions for the
+    people against famine in years of scarcity.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 1288-1289
+  quote_or_summary: '"the crops of the Ynca and of the Sun were kept"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 1289-1291
+  quote_or_summary: Other storehouses stood on the royal roads every three leagues
+    and later served Spaniards as inns and taverns.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The administrative details are explicit. Motif candidates are limited because
+    the passage does not narrate mythic action or provide internal comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were generated because the passage itself does not support a comparison to another motif family, text, or tradition.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l1275-l1294
+  passage_sha256=0619d0df6e78db7202a2baf00ac5251747aaf306137328314b11b3caf07a2aed
+

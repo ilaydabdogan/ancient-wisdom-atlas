@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l16963-l16977
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE  BEAR  MEDICINE-MAN. / THE    BEAR    MEDICINE.  337 / THE    BEAR   MEDICINE.  339
+    / THE  BEAR  MEDICINE.  34I; lines 16963-16977
+  start: '16963'
+  end: '16977'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: During a battle, the poor boy kills enemies while the chief's boy watches
+    and admires his courage but remembers he has been told not to kill. The community
+    recognizes the poor boy's powers, invites him into the Bear dance, and eventually
+    makes him leader of its ceremonies. The chief's boy asks for the same powers,
+    but the poor boy refuses. Winter arrives and the people begin preparing for a
+    buffalo hunt.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In battle, the poor boy attacks the enemy and kills them while the chief's
+    boy watches.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chief's boy is thankful that the poor boy is his friend and regards him
+    as brave.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The chief's boy says inwardly that he wishes he had the poor boy's courage
+    but recalls that he has been told not to kill.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The people ask the young man to enter the Bear dance ceremony because they
+    recognize that he possesses wonderful powers.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The poor boy joins the Bear dance and is eventually made leader of the Bear
+    dance ceremonies.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The chief's boy repeatedly asks the poor boy to give him the same powers,
+    and the poor boy refuses.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Winter comes; the people discuss going on a buffalo hunt, and the poor boy
+    and chief's boy prepare to go with the hunt.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: poor boy / young man
+  description: A young man who attacks and kills enemies in battle, is recognized
+    as possessing wonderful powers, joins and leads the Bear dance ceremonies, and
+    refuses to give the same powers to the chief's boy.
+  role_refs:
+  - role:1
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: chief's boy
+  description: The poor boy's friend, who watches the battle, admires the poor boy's
+    bravery, remembers being told not to kill, and asks for the same powers.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the people
+  description: The community that talks about the young man, recognizes his wonderful
+    powers, asks him to enter the Bear dance ceremony, and later discusses the buffalo
+    hunt.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: enemy
+  description: Opponents in battle whom the poor boy attacks and kills.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: battle attacker
+  assigned_to:
+  - fig:1
+  basis: The poor boy rushes among the enemy and kills them.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: watching friend
+  assigned_to:
+  - fig:2
+  basis: The chief's boy watches the battle and is thankful the poor boy is his friend.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: bearer of wonderful powers
+  assigned_to:
+  - fig:1
+  basis: The people recognize that the young man possesses wonderful powers.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: supplicant for powers
+  assigned_to:
+  - fig:2
+  basis: The chief's boy begs the poor boy to give him the same powers.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: ritual-recognizing community
+  assigned_to:
+  - fig:3
+  basis: The people ask the young man to enter the Bear dance ceremony after recognizing
+    his powers.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Bear dance leader
+  assigned_to:
+  - fig:1
+  basis: The poor boy is made leader of the Bear dance ceremonies.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: battle opponents
+  assigned_to:
+  - fig:4
+  basis: The enemy are attacked and killed by the poor boy during the battle.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Bear dance ceremony
+  literal_form: Named Bear dance ceremony and its ceremonies
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: buffalo hunt
+  literal_form: Communal buffalo hunt preparation
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Battle witnessed by the chief's boy
+  summary: The poor boy attacks and kills enemies while the chief's boy watches, admires
+    him, and remembers the instruction not to kill.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Recognition and Bear dance leadership
+  summary: The people recognize the poor boy's wonderful powers, invite him into the
+    Bear dance, and he is eventually made leader of its ceremonies.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Request for powers refused
+  summary: As both boys grow older, the chief's boy asks to receive the same powers,
+    but the poor boy says he cannot give them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Winter buffalo hunt preparation
+  summary: Winter arrives, the people discuss going on a buffalo hunt, and the poor
+    boy and chief's boy prepare to go.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Recognition and initiation into a ceremonial role after a display of power
+  taxonomy_refs:
+  - initiation
+  basis: After the poor boy's battle actions, the people recognize his wonderful powers,
+    ask him to enter the Bear dance ceremony, and he is made leader.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage states entry and later leadership in the Bear dance but does
+    not describe the internal rites of initiation.
+- id: motif:2
+  label: Warrior distinguished by wonderful powers
+  taxonomy_refs: []
+  basis: The poor boy kills enemies in battle and is publicly recognized as possessing
+    wonderful powers.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the origin or exact nature of the powers.
+- id: motif:3
+  label: Refusal to transfer special powers to a companion
+  taxonomy_refs: []
+  basis: The chief's boy asks the poor boy for the same powers, but the poor boy answers
+    that he cannot give them.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the refusal but does not explain whether the inability
+    is ritual, moral, personal, or practical.
+- id: motif:4
+  label: Companion restrained from killing
+  taxonomy_refs: []
+  basis: The chief's boy admires the poor boy's courage but recalls that the poor
+    boy has told him not to kill.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The wider reason for the instruction not to kill is outside the supplied
+    passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16963-16966
+  quote_or_summary: The poor boy attacks the enemy in battle, rushes into their midst,
+    and kills them while the chief's boy watches and is thankful for his friendship.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 16966-16969
+  quote_or_summary: The chief's boy inwardly calls his friend brave, wishes he had
+    the same courage, and remembers that he has been told not to kill.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 16969-16972
+  quote_or_summary: The people talk about the young man, ask him to enter the Bear
+    dance ceremony because they recognize his wonderful powers, and he is eventually
+    made leader of the Bear dance ceremonies.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 16972-16975
+  quote_or_summary: As both boys grow, the chief's boy keeps asking the poor boy to
+    give him the same powers, but the poor boy says he cannot.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 16976-16977
+  quote_or_summary: Winter comes; the people begin discussing a buffalo hunt, and
+    the poor boy and chief's boy prepare to go with the hunt. The supplied passage
+    ends mid-sentence.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied line range. Motif labels are candidate-level
+    because the wider episode may clarify the source and function of the powers. No
+    comparison claims are made because the passage itself does not explicitly compare
+    traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The final sentence in the supplied passage is truncated after the word break 'hunt-', so hunt-related extraction is limited to preparation only.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l16963-l16977
+  passage_sha256=fedfbc5b6a21e3805de0ce7b75926f73da5184e4b080633370bfb395240ddb7c
+

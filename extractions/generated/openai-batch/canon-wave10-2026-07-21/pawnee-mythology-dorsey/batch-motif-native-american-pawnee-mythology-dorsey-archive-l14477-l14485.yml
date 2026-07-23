@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l14477-l14485
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE  STONE-MAN  MEDICINE-LODGE.  283 / THE  STONE-MAN  MEDICINE-LODGE.  285
+    / THE  STONE-MAN  MEDICINE-LODGE.  287 / THE  STONE-MAN  MEDICINE-LODGE.  289;
+    lines 14477-14485
+  start: '14477'
+  end: '14485'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A boy goes out crying. A swift hawk consoles him, says the hawks know what
+    he wants, and a flock drops fine feathers for him to collect. The boy cries again,
+    and a wolf says it knows what he wants and will provide four wolves because the
+    boy's father-in-law wants four hides instead of one. Wolves approach, with the
+    passage ending mid-action.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The boy goes out the next day and cries.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A swift hawk comes to the boy, addresses him as “my son,” tells him not to
+    cry, and says the hawks know what he wants.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A flock of swift hawks flies overhead and drops its finest feathers; the boy
+    picks up the feathers and takes them home.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The boy goes out again and cries.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A wolf comes to the boy, addresses him as “my son,” says the wolves know what
+    he wants, and says four wolves will be given because the father-in-law wants four
+    hides instead of one.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Wolves come from beyond a hill, and the passage ends as the four leading wolves
+    are mentioned.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the boy
+  description: A boy who repeatedly goes out and cries, collects fallen hawk feathers,
+    and is addressed by animal helpers as “my son.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: swift hawk
+  description: A swift hawk who comes to the crying boy, speaks to him, and points
+    to a flock that will drop feathers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: flock of swift hawks
+  description: Many swift hawks flying overhead who drop their finest feathers for
+    the boy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: wolf
+  description: A wolf who comes to the boy, speaks to him, and says four wolves will
+    be given because four hides are wanted.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: wolves beyond the hill
+  description: Wolves coming from beyond a hill, with four leading wolves mentioned
+    at the end of the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: father-in-law
+  description: A father-in-law referred to as wanting four hides instead of one.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: recipient of animal aid
+  assigned_to:
+  - fig:1
+  basis: The boy cries, is told by animal speakers that they know what he wants, and
+    receives feathers; a wolf also promises four wolves for hides.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: speaking animal helper
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Both the hawk and the wolf come to the boy, speak to him, and arrange help
+    related to what he wants.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: animal providers
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The hawk flock drops feathers; the wolves come after the speaking wolf says
+    four wolves will be given.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:4
+  label: setter or source of requested hides
+  assigned_to:
+  - fig:6
+  basis: The father-in-law is mentioned as wanting four hides instead of one.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: hawk feathers
+  literal_form: finest feathers dropped by swift hawks
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: wolf hides
+  literal_form: four hides wanted by the father-in-law
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: hill
+  literal_form: hill beyond which wolves are coming
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Hawks provide feathers to the crying boy
+  summary: The boy cries outside; a swift hawk speaks to him, a flock of hawks flies
+    overhead, feathers fall, and the boy gathers them and takes them home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Wolf promises four wolves for hides
+  summary: The boy cries again; a wolf tells him the wolves know what he wants and
+    says four wolves will be given because the father-in-law wants four hides instead
+    of one. Wolves then come from beyond a hill, with the passage breaking off as
+    the four leading wolves are mentioned.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: speaking animal helpers know and answer a human need
+  taxonomy_refs: []
+  basis: The swift hawk and wolf each tell the crying boy they know what he wants
+    and then arrange help from their animal groups.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain why the boy needs the items or the full ritual
+    or narrative context.
+- id: motif:2
+  label: animal-provided materials for a demanded task
+  taxonomy_refs: []
+  basis: Hawks drop feathers for the boy, and a wolf says four wolves will be provided
+    because the father-in-law wants four hides.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The larger task is only partly visible in this excerpt, and the line range
+    ends mid-sentence.
+- id: motif:3
+  label: father-in-law demand requiring animal aid
+  taxonomy_refs: []
+  basis: The wolf states that the father-in-law wants four hides instead of one, linking
+    the boy’s need to a father-in-law’s requirement.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The excerpt does not state the social or marriage context beyond the title
+    father-in-law and the requested hides.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14477-14477
+  quote_or_summary: "“The next day the boy went out and cried.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 14477-14480
+  quote_or_summary: A swift hawk comes, addresses the boy as “my son,” tells him not
+    to cry, says the hawks know what he wants, and points to a flock overhead that
+    will drop fine feathers.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 14480-14482
+  quote_or_summary: The boy sees many hawks overhead; feathers fall, and he picks
+    them up and takes them home.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: line 14482
+  quote_or_summary: "“Again he went out and cried.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:5
+  type: summary
+  locator: lines 14482-14485
+  quote_or_summary: A wolf comes, addresses the boy as “my son,” says the wolves know
+    what he wants, and says four wolves will be given because the father-in-law wants
+    four hides instead of one.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: line 14485
+  quote_or_summary: Wolves come from beyond a hill; the excerpt ends as the four leading
+    wolves are mentioned.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and ends mid-sentence, limiting certainty about the
+    complete second animal-aid episode and the larger narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the provided taxonomy does not directly include hawks, wolves, feathers, hides, or animal-helper task motifs.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l14477-l14485
+  passage_sha256=3442ed93e87ff01a465f1264ee8c9967b81b614f4d1aa3e7fd1f3b908b9228d0
+

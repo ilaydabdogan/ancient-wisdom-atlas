@@ -1,0 +1,473 @@
+---
+record_id: batch.motif.korean-korean-tales-allen-archive-l5610-l5671
+source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+passage_locator:
+  label: HONG  KIL  TONG . / HONG  KIL  TONG . / HONG  NIL  TONG. / HONG  KIL  TONG
+    .; lines 5610-5671
+  start: '5610'
+  end: '5671'
+  translation: Korean Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Hong Kil Tong induces the Pochang to seek the feared thief in the mountains.
+    The party enters a stronghold through a stone door; the guide disappears, the
+    officer is surrounded and bound, and the guide is revealed seated in royal style.
+    The officer is drugged, put in a bag, transported to a high mountain near the
+    capital, and after recovering casts himself down and dies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Pochang says that if he can glimpse the feared figure, matters will be
+    different; Kil Tong says the Pochang may see him by going into the mountains.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kil Tong appears reluctant to go, insists on finishing his dinner, and then
+    starts into the mountains with the Pochang and servants.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Night overtakes the party, and the guide pretends to be anxious to abandon
+    the quest.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The party comes to an open stone door; after they enter the robber's stronghold,
+    the door closes, the guide disappears, and the officer is surrounded by thieves.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The robbers bind the officer and lead him past a miniature city into a brightly
+    colored enclosure and a large audience chamber.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In the audience chamber, the former guide sits on a sort of throne in royal
+    style; the Pochang realizes his mistake and begs for mercy.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Kil Tong rebukes the officer but promises to let him off this time.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Wine is served; the officer's wine is drugged, and he falls into a stupor
+    after drinking it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: While stuporous, the officer is put into a bag and conveyed in a marvellous
+    manner to a high mountain overlooking the capital.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: After recovering, the officer fears facing his sovereign with the tale, casts
+    himself down from the mountain, and is found dead by passers-by in the morning.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: His Majesty receives word of the officer's death and also receives simultaneous
+    reports of depredations; the supplied passage breaks off during this sentence.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hong Kil Tong / the guide
+  description: Kil Tong acts as guide into the mountains and is later revealed in
+    the stronghold seated on a throne-like seat in royal style.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: The Pochang / officer
+  description: An officer who seeks to see the feared thief, enters the stronghold,
+    is bound and drugged, and later dies after being transported to a mountain.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Robbers / thieves
+  description: The thieves surround the officer in the stronghold, bind him, lead
+    him through the hidden settlement, and are present when wine is served.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Servants
+  description: Servants accompany the party when they start into the mountains.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: His Majesty / the sovereign
+  description: The sovereign whom the officer fears facing; His Majesty receives word
+    of the officer's death.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Passers-by
+  description: People who find the officer dead in the morning.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: disguised guide and target of pursuit
+  assigned_to:
+  - fig:1
+  basis: Kil Tong directs and accompanies the officer toward the figure being sought,
+    then the guide is revealed as the seated authority in the stronghold.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: hidden stronghold ruler or chief
+  assigned_to:
+  - fig:1
+  basis: The guide is found seated on a sort of throne in royal style, and Kil Tong
+    rebukes the officer.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: official pursuer
+  assigned_to:
+  - fig:2
+  basis: The Pochang wants to see the feared thief and enters the mountains to pursue
+    the quest.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: captive and victim
+  assigned_to:
+  - fig:2
+  basis: The officer is surrounded, bound, drugged, transported in a bag, and later
+    dies.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: captors in the stronghold
+  assigned_to:
+  - fig:3
+  basis: The thieves surround the officer, and the robbers bind and lead him through
+    the stronghold.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: attendants on the mountain journey
+  assigned_to:
+  - fig:4
+  basis: The passage states that they start off with their servants into the mountains.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: sovereign recipient of report
+  assigned_to:
+  - fig:5
+  basis: The officer fears facing his sovereign, and His Majesty receives word of
+    the officer's death.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:8
+  label: discoverers of the body
+  assigned_to:
+  - fig:6
+  basis: Passers-by pick up the officer dead in the morning.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: The mountains entered by the party and the high mountain overlooking
+    the capital.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: stone door
+  literal_form: An open stone door that closes behind the party after entry into the
+    robber's stronghold.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: hidden stronghold and miniature city
+  literal_form: The robber's stronghold, including a miniature city and a brightly
+    colored enclosure that appears royal.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: throne-like seat
+  literal_form: A sort of throne in a large audience chamber, where the guide sits
+    in royal style.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: drugged wine
+  literal_form: Wine served to all, with the officer's portion drugged so that he
+    falls into a stupor.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: bag
+  literal_form: A bag into which the stuporous officer is placed before being conveyed
+    to the high mountain.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Agreement to seek the feared figure in the mountains
+  summary: The Pochang declares his wish to see the feared figure, and Kil Tong says
+    he can be seen in the mountains; after apparent reluctance, Kil Tong accompanies
+    the party.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Entry through the stone door
+  summary: At night the party reaches an open stone door, enters the robber's stronghold,
+    and is trapped when the door closes and the guide disappears.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Audience chamber revelation
+  summary: The bound officer is led through the hidden settlement into a royal-looking
+    audience chamber, where the guide appears seated in royal style and the officer
+    begs for mercy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Drugged wine and mountain death
+  summary: The officer drinks drugged wine, falls into a stupor, is put in a bag and
+    transported to a high mountain near the capital, then dies after casting himself
+    down.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: disguised guide leads pursuer into trap
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Kil Tong acts as a guide for the officer's search, leads the party into the
+    mountains and through the stone door, then disappears and is revealed as the authority
+    in the stronghold.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not label Kil Tong a trickster; the taxonomy link is
+    an interpretive classification based on disguise, misdirection, and boundary-crossing.
+- id: motif:2
+  label: hidden mountain stronghold behind a closing threshold
+  taxonomy_refs: []
+  basis: The officer's party enters a mountain stronghold through an open stone door
+    that closes behind them, after which the officer is surrounded by thieves.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No precise available motif-family reference is assigned beyond the literal
+    mountain symbol.
+- id: motif:3
+  label: outlaw chief displayed as hidden ruler
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The stronghold contains a miniature city, a royal-looking enclosure, a large
+    audience chamber, and a throne-like seat where Kil Tong sits in royal style.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage shows royal styling and authority, but it does not explicitly
+    state legal kingship or formal legitimacy.
+- id: motif:4
+  label: drugged stupor followed by marvellous relocation
+  taxonomy_refs: []
+  basis: The officer drinks drugged wine, falls into a stupor, is placed in a bag,
+    and is conveyed in a marvellous manner to a high mountain overlooking the capital.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The means of conveyance is not explained beyond the word 'marvellous'.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5610-5625
+  quote_or_summary: The Pochang wants a glimpse of the feared figure; Kil Tong says
+    the Pochang can go back into the mountains and see him.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 5626-5638
+  quote_or_summary: The officer agrees to go and offers reward and protection; Kil
+    Tong objects, appears reluctant, insists on finishing dinner, then starts into
+    the mountains with servants; night overtakes them and the guide pretends to want
+    to abandon the quest.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 5639-5647
+  quote_or_summary: They reach an open stone door, enter the robber's stronghold,
+    the door closes behind them, the guide disappears, and the officer is surrounded
+    by thieves.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 5648-5657
+  quote_or_summary: The robbers bind the officer, lead him past a miniature city into
+    a royal-looking enclosure and large audience chamber, where the guide sits on
+    a sort of throne in royal style; the Pochang begs for mercy.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 5658-5662
+  quote_or_summary: Kil Tong rebukes the officer and promises to let him off; wine
+    is brought, and the officer's portion is drugged, causing him to fall into a stupor.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 5663-5669
+  quote_or_summary: While stuporous, the officer is put into a bag and marvellously
+    conveyed to a high mountain overlooking the capital; after recovering, he fears
+    facing his sovereign, casts himself down, and is found dead by passers-by in the
+    morning.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 5669-5671
+  quote_or_summary: At almost the same time, His Majesty receives word of the officer's
+    death and simultaneous reports of great depredations; the supplied passage ends
+    mid-sentence.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence is clear in the supplied passage. Motif-family assignments
+    are cautious because the passage does not explicitly name comparative categories.
+    No comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. The final sentence in the supplied excerpt is incomplete.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-tales-allen-archive__l5610-l5671
+  passage_sha256=3223e84ae537ef74c6ee18c5b831779ab5c0a1012a5828952f70afc71e10ed41
+

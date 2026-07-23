@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.polynesian-ancient-history-maori-v3-white-archive-l6668-l6682
+source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+passage_locator:
+  label: THE BAITLES KAU-NEKE AND TE-KANGI-HI-WEEA. 135 / KUA-TAU-PARE AND HER CHILDREN.
+    137 / TU-ERE AND TANGI-HAEKE. 139 / NGUNU.); lines 6668-6682
+  start: '6668'
+  end: '6682'
+  translation: The Ancient History of the Maori, His Mythology and Traditions, Volume
+    3
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces a chief, his wife, and the wife's male cousin living
+    together. The cousin snares birds for food, while the husband and wife remain
+    at home. Each day the husband takes the choice fat birds and leaves lean birds
+    for the cousin who caught them. The cousin sets these aside and secretly eats
+    them by the light of the cooking-fire; the final sentence is incomplete after
+    noting his eyes were made sore there.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A chief named Tara-nui-o-matenga is introduced, along with his wife Puha-ure-roa
+    and her male cousin Pukoro-au-ahi.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The three people lived together at one place.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Pukoro-au-ahi was skilled at snaring birds for food.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wife and husband remained quietly at home while the cousin obtained birds.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Each day the husband ate the choice fat birds and left lean birds for the
+    cousin who had obtained them.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The lean birds named in the passage include hawks, owls, parrots, and crows.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Pukoro-au-ahi set apart the lean birds and secretly ate them by the light
+    of smouldering birds at the cooking-fire.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage states that Pukoro-au-ahi's eyes were made sore at the cooking-fire,
+    but the sentence breaks off before completing the cause.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Tara-nui-o-matenga
+  description: A chief and husband of Puha-ure-roa.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Puha-ure-roa
+  description: The wife of Tara-nui-o-matenga.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Pukoro-au-ahi
+  description: The male cousin of Puha-ure-roa, skilled at snaring birds.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: chief and husband
+  assigned_to:
+  - fig:1
+  basis: The passage calls Tara-nui-o-matenga a chief and identifies Puha-ure-roa
+    as his wife.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wife
+  assigned_to:
+  - fig:2
+  basis: Puha-ure-roa is named as the chief's wife.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: wife's male cousin
+  assigned_to:
+  - fig:3
+  basis: Pukoro-au-ahi is identified as the male cousin of Puha-ure-roa.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: consumer of choice birds
+  assigned_to:
+  - fig:1
+  basis: The husband is described as eating the choice fat birds each day.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: bird snarer and recipient of lean birds
+  assigned_to:
+  - fig:3
+  basis: Pukoro-au-ahi obtains the birds by snaring them but is left the lean birds.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: cooking-fire
+  literal_form: smouldering birds at the cooking-fire
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: snared birds as food portions
+  literal_form: choice fat birds and lean birds, including hawks, owls, parrots, and
+    crows
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Shared household
+  summary: Tara-nui-o-matenga, Puha-ure-roa, and Pukoro-au-ahi live together in one
+    place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bird snaring and unequal food allocation
+  summary: Pukoro-au-ahi snares birds for food, but the husband eats the choice fat
+    birds and leaves lean birds for him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Secret eating at the cooking-fire
+  summary: Pukoro-au-ahi sets aside the lean birds and secretly eats them by the light
+    of smouldering birds at the cooking-fire.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: unequal division of food obtained by another
+  taxonomy_refs: []
+  basis: The cousin obtains birds through snaring, but the husband takes the choice
+    fat birds and leaves the lean birds to the cousin.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage segment gives only the setup and does not yet state the consequence
+    or broader narrative function.
+- id: motif:2
+  label: secret eating by firelight
+  taxonomy_refs: []
+  basis: The cousin secretly eats the set-apart lean birds by the light of the cooking-fire.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: This may be only a literal action in the story; the passage does not establish
+    a symbolic or recurring motif function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6668-6673
+  quote_or_summary: The passage introduces Tara-nui-o-matenga as a chief, names Puha-ure-roa
+    as his wife, names Pukoro-au-ahi as her male cousin, and says the three lived
+    together at one place.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 6673-6675
+  quote_or_summary: Pukoro-au-ahi is described as skilled at snaring birds for their
+    food, while the wife and husband lived quietly at home.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 6676-6680
+  quote_or_summary: Each day the husband ate the choice fat birds and left lean birds,
+    such as hawks, owls, parrots, and crows, for Pukoro-au-ahi, who had obtained them.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 6680-6682
+  quote_or_summary: Pukoro-au-ahi set apart the lean birds and secretly ate them by
+    the light of smouldering birds at the cooking-fire; the passage then notes his
+    eyes were made sore there but breaks off mid-sentence.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The literal extraction is limited by the passage ending mid-sentence. Motif
+    candidates are provisional because the excerpt provides only the setup and does
+    not include later consequences or explicit comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison to another text, tradition, or motif family.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-ancient-history-maori-v3-white-archive__l6668-l6682
+  passage_sha256=021fc2457dd72086e89fe5063295f1ef6e55ead063b42e3d866a24f114c83681
+

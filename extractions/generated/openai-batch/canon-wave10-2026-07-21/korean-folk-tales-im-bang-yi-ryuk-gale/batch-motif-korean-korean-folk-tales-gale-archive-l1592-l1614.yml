@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.korean-korean-folk-tales-gale-archive-l1592-l1614
+source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+passage_locator:
+  label: THE  ILL-FATED  PRIEST  45 / THE  VISION  OF  THE  HOLY  MAN / THE  VISION  OF  THE  HOLY  MAN  49
+    / THE  VISION  OF  THE  HOLY  MAN  51; lines 1592-1614
+  start: '1592'
+  end: '1614'
+  translation: Korean Folk Tales - Imps, Ghosts and Fairies
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: At cock-crow the sea rises, overflows, climbs the mountainsides, and engulfs
+    the seashore town before receding at daylight. To-jong bows to the holy man and
+    asks to become his disciple, but the holy man says he has no knowledge and only
+    knew by accident. The holy man indicates a nearby residence and leaves; when To-jong
+    searches the next day, the house is vacant.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At cock-crow, the sea rises, overflows, and the waves climb the mountainsides
+    until they touch To-jong's feet.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The whole town on the seashore is engulfed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At daylight, the waters recede.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: To-jong bows to the holy man and asks to become his disciple.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The holy man disclaims knowledge, says he knew it by accident, and is described
+    as not speaking of his own attainments.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The holy man indicates a nearby residence and leaves.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: When To-jong goes to seek the holy man the next day, the house is vacant and
+    no one is there.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: To-jong
+  description: A person present when the waves reach his feet; he bows to the holy
+    man, asks to become his disciple, and later seeks him at the indicated residence.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the holy man
+  description: A figure addressed by To-jong as a potential teacher; he denies having
+    knowledge, says he knew by accident, indicates a residence, and then is not found
+    there the next day.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: flood witness
+  assigned_to:
+  - fig:1
+  basis: The waves climb the mountainsides and touch To-jong's feet while the town
+    is engulfed.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: disciple-seeker
+  assigned_to:
+  - fig:1
+  basis: To-jong bows and asks to become the holy man's disciple.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: reluctant or self-effacing knower
+  assigned_to:
+  - fig:2
+  basis: The holy man disclaims knowledge, says he knew by accident, and is described
+    as not speaking of his own attainments.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: absent resident
+  assigned_to:
+  - fig:2
+  basis: He indicates a nearby residence, but the house is vacant when To-jong seeks
+    him the next day.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water
+  literal_form: sea, waves, and receding waters
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: mountain
+  literal_form: mountain-sides climbed by the waves
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Sea inundation at cock-crow
+  summary: The sea rises at cock-crow, overflows, sends waves up the mountainsides
+    to To-jong's feet, engulfs the seashore town, and later recedes at daylight.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: To-jong requests discipleship
+  summary: After the waters recede, To-jong bows to the holy man and asks to become
+    his disciple; the holy man denies having knowledge and says he only knew by accident.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Search for the holy man
+  summary: The holy man indicates a nearby residence and leaves, but when To-jong
+    searches the following day the house is vacant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sudden flood and recession
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The sea overflows, engulfs the seashore town, and recedes at daylight.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage shows inundation and recession, but no explicit renewal or
+    restoration.
+- id: motif:2
+  label: hidden or denied spiritual knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The holy man is treated as someone worth following, but he disclaims knowledge
+    and says he knew by accident.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The excerpt does not state the source or nature of the knowledge beyond
+    the holy man's denial.
+- id: motif:3
+  label: mysterious disappearance of a holy man
+  taxonomy_refs: []
+  basis: After indicating a residence and leaving, the holy man is not found; the
+    house is vacant the next day.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage reports absence and vacancy, but does not explicitly state
+    a supernatural disappearance.
+comparison_claims:
+- id: claim:1
+  claim: The inundation scene can be cautiously compared at motif-family level with
+    flood narratives because the sea rises, engulfs a settlement, and then recedes.
+  claim_level: same_motif
+  target: flood_and_renewal motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not describe a renewed world, survivors repopulating,
+    divine judgment, or a vessel.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1592-1598
+  quote_or_summary: '"the sea suddenly lifted its face, overflowed its banks" and
+    the waves climbed the mountain-sides until they touched To-jong''s feet; the seashore
+    town was engulfed.'
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1598-1599
+  quote_or_summary: '"When daylight came the waters receded."'
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1600-1602
+  quote_or_summary: To-jong bows to the holy man and asks to become his disciple.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1602-1605
+  quote_or_summary: The holy man disclaims knowledge, says he knew it by accident,
+    and is described as not speaking of his own attainments.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1605-1611
+  quote_or_summary: The holy man indicates a nearby residence and leaves; To-jong
+    seeks him the following day, but the house is vacant and no one is there.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence is clear in the supplied passage. Motif labels involving
+    flood and wisdom are cautious because the excerpt gives limited context and does
+    not explicitly explain the holy man's knowledge or the larger narrative function
+    of the inundation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-folk-tales-gale-archive__l1592-l1614
+  passage_sha256=d88b380a999ed4ad4d98bd901b34dd1d80f55c209b78665fb8561c679eacbd0b
+

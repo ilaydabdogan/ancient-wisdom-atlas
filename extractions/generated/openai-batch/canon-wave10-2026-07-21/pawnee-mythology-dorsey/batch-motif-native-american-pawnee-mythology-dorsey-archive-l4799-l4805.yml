@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l4799-l4805
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE    SON    OF    WIND,    READY-TO-GIVE.  91 / TRUE  STORIES  OF  THE  HEAVENLY  BEINGS.
+    / THE  SON  OF  WIND,  READY-TO-GIVE.  93 / THE  SON  OF  WIND,  READY-TO-GIVE.  95;
+    lines 4799-4805
+  start: '4799'
+  end: '4805'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: '"I am going west. Are there any more people in the west?"'
+  summary: A boy travels for several days without seeing people, reaches a village,
+    enters the chief's tipi, asks about people farther west, receives directions,
+    and continues to another village.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The boy travels for several days without seeing any human being.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: He comes to a village and asks where the chief's tipi is.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The people show him the chief's tipi.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Inside the tipi, the chief asks the boy where he is going.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The boy says he is going west and asks whether there are more people in the
+    west.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The chief tells him that after traveling a number of days he will find more
+    people.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The boy starts again and reaches another village after a few days.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the boy
+  description: A boy traveling west from village to village.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the chief
+  description: The chief in the village tipi who questions and answers the boy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: people of the village
+  description: Unnamed people who show the boy where the chief's tipi is.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: traveler
+  assigned_to:
+  - fig:1
+  basis: The boy travels for several days, goes west, and starts again toward another
+    village.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: inquirer
+  assigned_to:
+  - fig:1
+  basis: The boy asks where the chief's tipi is and asks about people in the west.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: local chief and informant
+  assigned_to:
+  - fig:2
+  basis: The chief asks the boy where he is going and tells him he will find more
+    people after traveling more days.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: guides to the chief's tipi
+  assigned_to:
+  - fig:3
+  basis: The village people show the boy where the chief's tipi is.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: westward direction
+  literal_form: west
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: chief's tipi
+  literal_form: tipi of the chief
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: village
+  literal_form: village
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+scenes:
+- id: scene:1
+  label: Arrival at the first village
+  summary: After several days without seeing people, the boy reaches a village and
+    is shown the chief's tipi.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Conversation with the chief
+  summary: The chief asks the boy where he is going; the boy says he is going west
+    and asks about people there; the chief replies that he will find more people after
+    traveling more days.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Continuation to another village
+  summary: The boy resumes travel and reaches another village after a few days.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: westward journey from village to village
+  taxonomy_refs:
+  - departure
+  basis: The boy is already traveling, states that he is going west, receives information
+    from a chief, and continues onward to another village.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt is brief and does not state the larger purpose of the journey;
+    the taxonomy link to departure is provisional.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4799-4800
+  quote_or_summary: '"For several days he traveled without seeing any human being.
+    At last he came to a village."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 4800-4802
+  quote_or_summary: The boy enters the village, asks where the chief's tipi is, and
+    is shown it.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 4802-4804
+  quote_or_summary: The chief asks where he is going, and the boy says, "I am going
+    west. Are there any more people in the west?"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 4804-4805
+  quote_or_summary: The chief says the boy will travel for a number of days and then
+    find more people.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: line 4805
+  quote_or_summary: The boy starts again and, after a few days, comes to another village.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward; motif assignment is limited by the
+    short, mid-narrative excerpt. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Passage ends mid-sentence after the boy reaches another village; no details beyond the supplied excerpt are inferred.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l4799-l4805
+  passage_sha256=e1a5209596f7fc739f7374915cba13e0db0fee4336e1529663348609728b7d44
+

@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.polynesian-ancient-history-maori-v3-white-archive-l474-l566
+source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+passage_locator:
+  label: NGA UPOKO KOREKO. / VIII. / ANCIENT HISTORY OF THE MAORI. / CHAPTER I; lines
+    474-566
+  start: '474'
+  end: '566'
+  translation: The Ancient History of the Maori, His Mythology and Traditions, Volume
+    3
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The supplied passage includes heading and table-like material, then a short
+    conditional lament. It says that if Tu and Papa fought for two farms, they would
+    stop the streams of Moana-kura and Moana-toto, make war cease, go far out to places
+    where powerful gods reside, gain divine aid, and make peace rest on all mankind,
+    ending war and strife.
+  language: English with Maori names and terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage contains headings and table-like entries before the chapter/lament
+    material.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A closing label identifies the material as a lament connected with a named
+    group and the dead.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:3
+  text: Tu and Papa are named in a conditional statement about fighting for two farms
+    at U-bea and Po-hutu-kawa.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage names Moana-kura, glossed in the supplied text as “rod sea,” and
+    Moana-toto, glossed as “sea of blood.”
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The streams of those named seas would be stayed, and the war would be made
+    to cease.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The figures would go far out to Marere-o-tonga and Tumu-whaka-iri-a.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Marere-o-tonga and Tumu-whaka-iri-a are described as places where gods with
+    power reside.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The figures would gain the gods’ aid, make peace rest on all mankind, and
+    end war and strife with the power of gods.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Tu
+  description: Named figure in the conditional fighting passage.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Papa
+  description: Named figure paired with Tu in the conditional fighting passage.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: gods with power
+  description: Collective divine beings described as residing at Marere-o-tonga and
+    Tumu-whaka-iri-a; their aid and power would enable peace and the ending of war.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: all mankind
+  description: Collective beneficiary on whom peace would rest.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Nga-ti-lcahu-ngunii
+  description: Name as printed in the supplied closing label identifying a lament
+    for the dead.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: conditional combatants
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage conditionally frames Tu and Papa as fighting for two farms.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: divine aid-givers and source of power
+  assigned_to:
+  - fig:3
+  basis: The gods are described as powerful, and their aid/power would enable peace
+    and the ending of war.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: beneficiaries of peace
+  assigned_to:
+  - fig:4
+  basis: Peace would be made to rest on all mankind.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: lament-associated group
+  assigned_to:
+  - fig:5
+  basis: The passage labels the material as a lament of this named group for the dead.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: prospective peacemakers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The pronoun sequence implies Tu and Papa would gain divine aid and make peace.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: Moana-kura and Moana-toto streams/seas
+  literal_form: Streams of Moana-kura, glossed in the supplied text as “rod sea,”
+    and Moana-toto, glossed as “sea of blood.”
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: two farms
+  literal_form: Two farms at U-bea and Po-hutu-kawa, named as the object of the fighting.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: distant divine dwelling places
+  literal_form: Marere-o-tonga and Tumu-whaka-iri-a, places where gods with power
+    reside.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Conditional fighting over farms
+  summary: Tu and Papa are framed as fighting for two farms at U-bea and Po-hutu-kawa.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Staying the bloody waters and ceasing war
+  summary: The streams of Moana-kura and Moana-toto would be stayed, and war would
+    cease.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Journey to powerful gods for peace
+  summary: The figures would go far out to Marere-o-tonga and Tumu-whaka-iri-a, gain
+    the aid of the gods who reside there, make peace rest on all mankind, and end
+    war and strife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Lament framing
+  summary: A label frames the passage as a lament of a named group for the dead.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: conflict over named lands or farms
+  taxonomy_refs: []
+  basis: The passage conditionally presents Tu and Papa fighting for two farms at
+    U-bea and Po-hutu-kawa.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a descriptive motif candidate only; no supplied taxonomy family
+    directly matches the land/farm conflict.
+- id: motif:2
+  label: blood sea or war-water image
+  taxonomy_refs: []
+  basis: The passage links the cessation of war with staying the streams of Moana-kura
+    and Moana-toto, one glossed as “sea of blood.”
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives the image briefly and poetically; it does not explain
+    whether the seas are literal, metaphorical, or mythic geography.
+- id: motif:3
+  label: journey to divine dwelling for aid
+  taxonomy_refs:
+  - departure
+  - mystical_quest
+  basis: The figures would go far out to named places where powerful gods reside and
+    gain their aid.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The journey is conditional and compressed within a lament, not a full
+    quest narrative.
+- id: motif:4
+  label: divine power ending war and establishing universal peace
+  taxonomy_refs: []
+  basis: The passage says peace would rest on all mankind and war and strife would
+    be ended with the power of gods.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: No covenant, judgment, ritual, or exchange is explicitly described; the
+    motif label remains descriptive.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 474-566, heading/table material
+  quote_or_summary: The passage begins with Maori and English headings, table-like
+    entries, and the heading “ANCIENT HISTORY OF THE MAORI. CHAPTER I.”
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; supplied metadata says full text and training
+    use are allowed.
+- id: ev:2
+  type: summary
+  locator: lines 474-566, conditional opening of lament
+  quote_or_summary: The passage conditionally names Tu and Papa as fighting for two
+    farms at U-bea and Po-hutu-kawa.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; supplied metadata says full text and training
+    use are allowed.
+- id: ev:3
+  type: summary
+  locator: lines 474-566, Moana-kura/Moana-toto lines
+  quote_or_summary: The figures would stay the streams of Moana-kura, glossed in the
+    supplied text as “rod sea,” and Moana-toto, glossed as “sea of blood,” and make
+    war cease.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; supplied metadata says full text and training
+    use are allowed.
+- id: ev:4
+  type: summary
+  locator: lines 474-566, Marere-o-tonga/Tumu-whaka-iri-a lines
+  quote_or_summary: The figures would go far out to Marere-o-tonga and Tumu-whaka-iri-a,
+    described as places where gods with power reside.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; supplied metadata says full text and training
+    use are allowed.
+- id: ev:5
+  type: summary
+  locator: lines 474-566, peace and divine power lines
+  quote_or_summary: The figures would gain the gods’ aid, make peace rest on all mankind,
+    and with divine power end war and strife.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; supplied metadata says full text and training
+    use are allowed.
+- id: ev:6
+  type: summary
+  locator: lines 474-566, closing label
+  quote_or_summary: A closing label identifies the material as a lament of “Nga-ti-lcahu-ngunii”
+    for the dead, preserving the supplied OCR-like spelling.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; supplied metadata says full text and training
+    use are allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main poetic passage is short and conditional, and the supplied text contains
+    OCR irregularities. Taxonomy links are therefore conservative. No comparison claims
+    were made because the passage itself does not compare the material with another
+    tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the provided passage and metadata. Apparent OCR forms such as “rod sea” and “Nga-ti-lcahu-ngunii” are preserved rather than normalized.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-ancient-history-maori-v3-white-archive__l474-l566
+  passage_sha256=b33cd31dd72055ce90a45923104a92e480ff084a893a6fd08cae41558a6d8ae0
+

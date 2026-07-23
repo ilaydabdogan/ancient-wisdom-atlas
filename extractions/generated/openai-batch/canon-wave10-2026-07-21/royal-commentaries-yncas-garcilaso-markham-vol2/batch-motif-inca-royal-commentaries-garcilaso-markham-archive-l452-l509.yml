@@ -1,0 +1,424 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l452-l509
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: FIFTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. / CHAPTER  II.
+    / FIFTH  BOOK  OF  THE  KOYAL; lines 452-509
+  start: '452'
+  end: '509'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes an ordered system for cultivating land: the fields
+    of the Sun were tilled first, then the fields of widows, orphans, the aged, the
+    sick, and other distressed persons, followed by the people’s own lands and finally
+    the fields of the Curaca. Village officers announced work obligations from towers
+    using a trumpet or shell. Workers brought their own food, seed could be supplied
+    from stores, and soldiers’ families received comparable support. The passage ends
+    with the beginning of an incomplete anecdote about a superintendent punished in
+    the time of Huayna Ccapac.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The prescribed cultivation order began with the fields of the Sun, followed
+    by the fields of widows, orphans, the aged, and the sick.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Ynca ordered that the fields of people classed as poor should be tilled
+    for them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In each village or ward, officers called Llada-camayu were deputed to oversee
+    the lands of those classed as poor.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Llada-camayu supervised ploughing, sowing, and harvesting, and announced
+    work assignments from towers after sounding a trumpet or shell.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: District inhabitants were expected to assist on the lands of relations or
+    nearest neighbours and to bring their own food.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Those unable to work were not required to provide food for the workers, and
+    if disabled people lacked seed, it was supplied from stores.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The lands of soldiers serving in wars were tilled like those of widows and
+    orphans; absent soldiers’ wives were treated as widows, and children of men killed
+    in war were cared for until marriage.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After the lands of the poor and distressed were tilled, people worked their
+    own lands with neighbourly assistance, and the Curaca’s fields were tilled last
+    in each village or district.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage begins a fragmentary anecdote from the time of Huayna Ccapac in
+    which an Indian superintendent in Chachapoyas was hanged; the stated reason is
+    cut off in this excerpt.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Sun
+  description: Entity whose fields were tilled first in the agricultural order.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: The Ynca
+  description: Ruler who ordered that the fields of the poor should be tilled for
+    them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Widows, orphans, aged, and sick
+  description: People classed as poor whose fields were cultivated for them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Llada-camayu
+  description: Village or ward officers deputed to oversee the lands of poor persons
+    and announce communal work.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: District inhabitants and neighbours
+  description: People who assisted on assigned lands, especially those of relations
+    or nearest neighbours, and later assisted one another on their own lands.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: Soldiers employed in wars and their families
+  description: Soldiers’ lands were tilled during service; their wives were treated
+    as widows during absence, and children of those killed were cared for until marriage.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Curaca
+  description: Local lord or chief whose fields were tilled last in each village or
+    district.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Huayna Ccapac
+  description: Ruler named as the time marker for the fragmentary punitive anecdote
+    at the end of the passage.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Indian superintendent in Chachapoyas
+  description: Official said to have been hanged in the fragmentary anecdote.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: sacred landholder
+  assigned_to:
+  - fig:1
+  basis: The Sun has fields that are cultivated first.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: royal orderer
+  assigned_to:
+  - fig:2
+  basis: The Ynca ordered cultivation for those classed as poor.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: beneficiaries of communal cultivation
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: Poor, distressed, and military households had their lands tilled for them.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: village labor officers and announcers
+  assigned_to:
+  - fig:4
+  basis: The Llada-camayu supervised cultivation and publicly announced assignments.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: communal agricultural laborers
+  assigned_to:
+  - fig:5
+  basis: Inhabitants assisted on designated lands and helped neighbours on their own
+    lands.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:6
+  label: military-service household
+  assigned_to:
+  - fig:6
+  basis: Soldiers serving in wars and their wives and children receive specified support.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: local elite landholder
+  assigned_to:
+  - fig:7
+  basis: The Curaca has fields that are cultivated last in each village or district.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: reign-time marker
+  assigned_to:
+  - fig:8
+  basis: Huayna Ccapac is named to date the fragmentary anecdote.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: punished official
+  assigned_to:
+  - fig:9
+  basis: The Chachapoyas superintendent is said to have been hanged.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Fields of the Sun
+  literal_form: Agricultural fields belonging to the Sun and cultivated first.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Trumpet or shell
+  literal_form: Sounding instrument used by village officers to secure attention before
+    announcing cultivation assignments.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Announcement towers
+  literal_form: Towers built for officers to ascend on the night before communal agricultural
+    work.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Seed stores
+  literal_form: Stores from which seed was provided to disabled persons who had none.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Curaca’s fields
+  literal_form: Fields of the Curaca, cultivated last in the local sequence.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ordered cultivation sequence
+  summary: The cultivation schedule begins with the Sun’s fields, then the lands of
+    the poor and distressed, then household lands, and finally the Curaca’s lands.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: scene:2
+  label: Village officers announce communal work
+  summary: Llada-camayu supervise agricultural tasks and announce the designated lands
+    from towers after sounding a trumpet or shell.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Communal support for vulnerable and military households
+  summary: Workers assist on lands of poor persons, bring their own food, seed is
+    supplied when needed, and soldiers’ households receive similar agricultural and
+    family support.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Fragmentary punitive anecdote
+  summary: The excerpt ends with the beginning of an anecdote in which a Chachapoyas
+    superintendent was hanged in the time of Huayna Ccapac; the cause is incomplete
+    in the supplied passage.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Royal administration of communal labor and welfare
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage presents the Ynca’s order, village officers, seed stores, and
+    communal labor as mechanisms for caring for poor, distressed, and military households.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage describes administrative practice rather than explicitly stating
+    a legitimating myth or ideology; the taxonomy link is therefore interpretive and
+    should be reviewed.
+- id: motif:2
+  label: Sacred-first agricultural service
+  taxonomy_refs: []
+  basis: The fields of the Sun are cultivated first before communal care fields, household
+    fields, and Curaca fields.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The supplied excerpt names the Sun’s fields and a cultivation order but
+    does not narrate the festival promised in the chapter heading.
+- id: motif:3
+  label: Communal care for war-absent households
+  taxonomy_refs: []
+  basis: Soldiers’ fields are tilled during service, their wives are treated as widows
+    during absence, and children of the war dead are cared for until marriage.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an institutional pattern in the passage, not a mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 452-466
+  quote_or_summary: The passage says the fields of the Sun were tilled first, then
+    those of widows, orphans, aged, and sick, and that the Ynca ordered fields of
+    people classed as poor to be cultivated for them.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 466-477
+  quote_or_summary: Village or ward officers called Llada-camayu oversaw the poor
+    persons’ lands, supervised ploughing, sowing, and harvesting, and announced work
+    from towers after blowing a trumpet or shell.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 477-490
+  quote_or_summary: District inhabitants helped on lands of relations or nearest neighbours,
+    brought their own food, did not require the unable to feed them, and seed was
+    supplied from stores if disabled people lacked it.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 490-498
+  quote_or_summary: Soldiers’ lands were tilled like those of widows and orphans;
+    soldiers’ wives were treated as widows during absence, and children of those killed
+    in war were cared for until marriage.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: lines 499-505
+  quote_or_summary: After lands of the poor and distressed were tilled, people worked
+    their own lands with neighbourly help, then tilled the Curaca’s fields last in
+    each village or district.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:6
+  type: summary
+  locator: lines 505-509
+  quote_or_summary: 'The excerpt begins an incomplete anecdote: in Huayna Ccapac’s
+    time, an Indian superintendent in Chachapoyas was hanged after causing something
+    involving the land of a Curaca who was a relation.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The administrative sequence is clear, but the passage contains OCR irregularities
+    and ends mid-sentence. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy symbols did not match the passage’s literal symbols, so taxonomy_refs for symbols are empty.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l452-l509
+  passage_sha256=f80787ffe0598ae27dcb43165963788acdd0caa88636e32ec18f086f13b8fb7c
+

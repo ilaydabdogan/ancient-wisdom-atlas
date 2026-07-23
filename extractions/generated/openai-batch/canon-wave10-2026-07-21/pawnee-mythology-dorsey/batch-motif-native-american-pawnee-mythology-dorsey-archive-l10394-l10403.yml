@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l10394-l10403
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE    SINGING    HAWK.  20I / THE  BOY  WHO  MARRIED  A  BUFFALO. / THE  BUFFALO  WIFE  AND  THE  DISPERSION  OF  THE  BUFFALO.  205
+    / THE  POOR  BOY  WHO  WANTED  TO  GET  MARRIED.  207; lines 10394-10403
+  start: '10394'
+  end: '10403'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A boy kills a large buffalo cow. He and an old woman prepare and bring
+    home the meat. After eating, the boy goes to an opening in the side of a hill
+    and meets a strange man, who gives him moccasins, leggings, a buffalo robe, an
+    eagle cap, an otter-skin quiver with arrows, and a bow. The strange being instructs
+    the boy to tell his grandmother to ask village girls to come live with them. The
+    boy returns to the tipi and begins striking his bowstring with an arrow while
+    singing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The boy kills a big buffalo cow a few days later.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old woman and the boy skin the buffalo, cut up the meat, carry it home,
+    and eat.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The boy goes to an opening on the side of a hill after eating.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: At the hill opening, the boy meets a strange man, later called a strange being.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The strange man gives the boy moccasins, leggings, a buffalo robe, an eagle
+    cap, an otter-skin quiver filled with arrows, and a bow.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The strange being tells the boy to tell his grandmother to ask village girls
+    to come and live with them.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The boy stands outside the tipi, takes his new bow and one arrow, strikes
+    the bowstring with the arrow, and sings.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the boy
+  description: A boy who kills the buffalo cow, meets the strange man, receives gifts,
+    and sings outside the tipi.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: the old woman / grandmother
+  description: An old woman who helps the boy process the buffalo; the strange being
+    identifies the boy's grandmother as the person to contact village girls.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: the strange man / strange being
+  description: A strange figure met at the opening on the side of the hill who gives
+    the boy clothing, a robe, a cap, a quiver, arrows, and a bow, and gives him instructions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: village girls
+  description: Girls from the village whom the grandmother is to ask to come and live
+    with the boy and grandmother.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: big buffalo cow
+  description: A large buffalo cow killed by the boy and then skinned and cut up for
+    meat.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: hunter
+  assigned_to:
+  - fig:1
+  basis: The boy kills a big buffalo cow.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: elder household helper
+  assigned_to:
+  - fig:2
+  basis: The old woman helps skin, cut up, and carry home the buffalo, and is later
+    named as the grandmother who should ask the girls.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: recipient of gifts and instructions
+  assigned_to:
+  - fig:1
+  basis: The strange man gives the boy garments, hunting gear, and directions to relay
+    to his grandmother.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: strange giver and instructor
+  assigned_to:
+  - fig:3
+  basis: The strange man/being gives the boy multiple items and tells him what to
+    say to his grandmother.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: invited co-residents
+  assigned_to:
+  - fig:4
+  basis: The girls are to be asked to come and live with the boy and grandmother.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: hunted animal
+  assigned_to:
+  - fig:5
+  basis: The buffalo cow is killed and processed for meat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: buffalo cow
+  literal_form: big buffalo cow
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: hill opening
+  literal_form: opening on the side of the hill
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: gifted clothing and animal regalia
+  literal_form: moccasins, leggings, buffalo robe, eagle cap
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: gifted hunting gear
+  literal_form: otter-skin quiver filled with arrows and a bow
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: tipi
+  literal_form: tipi
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: bowstring song action
+  literal_form: striking the bowstring with an arrow while singing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Buffalo kill and food preparation
+  summary: The boy kills a large buffalo cow; he and the old woman skin it, cut up
+    the meat, carry it home, and eat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Meeting at the hill opening
+  summary: After eating, the boy goes to the opening on the side of a hill and meets
+    the strange man.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Gifts and instruction from the strange being
+  summary: The strange man gives the boy clothing, animal-associated regalia, and
+    hunting gear, then tells him to have his grandmother ask village girls to come
+    live with them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Song outside the tipi
+  summary: The boy stands outside the tipi, takes his new bow and an arrow, strikes
+    the bowstring, and sings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Strange helper equips the youth
+  taxonomy_refs:
+  - initiation
+  basis: A strange man/being met at a hill opening gives the boy garments, animal-associated
+    regalia, a quiver, arrows, and a bow.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly call this an initiation; the taxonomy
+    link rests on the sequence of a youth receiving equipment and status-marking objects
+    from a strange figure.
+- id: motif:2
+  label: Hunting success followed by provision for household
+  taxonomy_refs: []
+  basis: The boy kills a large buffalo cow, and he and the old woman process, carry
+    home, and eat the meat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a literal action pattern in the passage; no broader mythic interpretation
+    is stated.
+- id: motif:3
+  label: Musical or ritualized action with weapon
+  taxonomy_refs: []
+  basis: The boy uses his new bow and one arrow to strike the bowstring and then sings
+    outside the tipi.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage records the action and song opening but does not explain its
+    purpose or ritual meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10394-10394
+  quote_or_summary: '"the boy went out and killed a big buffalo cow"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 10395-10397
+  quote_or_summary: The old woman and boy skin the buffalo, cut up the meat, carry
+    it home, and eat.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 10397-10398
+  quote_or_summary: After eating, the boy goes to the opening on the side of the hill
+    and meets the strange man there.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 10398-10400
+  quote_or_summary: The strange man gives the boy moccasins, leggings, a buffalo robe,
+    an eagle cap, an otter-skin quiver filled with arrows, and a bow.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 10400-10402
+  quote_or_summary: The strange being tells the boy to tell his grandmother to ask
+    village girls to come and live with them.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 10402-10403
+  quote_or_summary: The boy stands outside the tipi, takes his new bow and one arrow,
+    strikes the bowstring with the arrow, and sings.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the excerpt does not explain the strange being's identity or the meaning of the
+    song action. No comparison claims were made from this passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference to initiation is tentative and should be reviewed.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l10394-l10403
+  passage_sha256=05d6f0765bd3ef5f85039fa4a1ba352b4ace4b9c1f9003d1dc1662ebf7ab993f
+

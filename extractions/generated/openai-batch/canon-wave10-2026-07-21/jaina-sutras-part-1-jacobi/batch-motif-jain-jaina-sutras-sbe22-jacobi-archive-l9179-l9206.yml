@@ -1,0 +1,190 @@
+---
+record_id: batch.motif.jain-jaina-sutras-sbe22-jacobi-archive-l9179-l9206
+source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+passage_locator:
+  label: FIRSI LESSON. / SECOND PART. / BOOK II, LECTURE 9. - 179 / NINTH LECTURE
+    1 .; lines 9179-9206
+  start: '9179'
+  end: '9206'
+  translation: 'Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred
+    Books of the East, Vol. 22)'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives rules for monks or nuns selecting a place for study:
+    they should reject a place infected by eggs or living beings and may accept one
+    free from them. It cross-references similar rules about couches. It also forbids
+    small parties of mendicants going to the study place from embracing, biting, or
+    scratching one another.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A monk or nun may wish to go to a pure place for study.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A study place infected by eggs or living beings is described as impure and
+    unacceptable.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A study place free from eggs or living beings is described as pure and acceptable.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says the corresponding instructions about couches should be repeated
+    here as far as the reference to water-plants.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Parties of two, three, four, or five mendicants may resolve to go to the place
+    for study.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Such mendicants are instructed not to embrace, hug, bite, or scratch each
+    other's bodies.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: monk or nun
+  description: A monastic practitioner who wishes to go to a pure place for study.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: parties of mendicants
+  description: Groups of two, three, four, or five mendicants resolving to go to the
+    place for study.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: monastic study practitioner
+  assigned_to:
+  - fig:1
+  basis: The passage describes a monk or nun wishing to go to a place for study.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mendicant group under conduct rules
+  assigned_to:
+  - fig:2
+  basis: The passage specifies conduct limits for groups of mendicants going to the
+    study place.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: selection of a pure study place
+  summary: A monk or nun evaluates whether a study place is pure or impure based on
+    the presence or absence of eggs or living beings.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: conduct of mendicants going to study
+  summary: Groups of two to five mendicants resolving to go to the study place are
+    told to avoid embracing, hugging, biting, or scratching one another.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: purity requirement for a study place
+  taxonomy_refs: []
+  basis: The passage distinguishes acceptable and unacceptable study places by whether
+    they are free from eggs or living beings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a disciplinary rule rather than a narrative mythic motif.
+- id: motif:2
+  label: avoidance of harm to small living beings
+  taxonomy_refs: []
+  basis: A place infected by eggs or living beings is rejected, while one free from
+    them is accepted.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly state the rationale as non-harm; this
+    is inferred only from the rule's attention to eggs and living beings.
+- id: motif:3
+  label: ascetic restraint of bodily contact within a mendicant group
+  taxonomy_refs: []
+  basis: Groups of mendicants going to study are prohibited from embracing, hugging,
+    biting, or scratching one another.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a monastic conduct pattern, not a mythological episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9179-9185
+  quote_or_summary: A monk or nun who wishes to go to a pure place for study should
+    not accept a place infected by eggs or living beings, because it is impure and
+    unacceptable.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9185-9189
+  quote_or_summary: If the desired study place is free from eggs or living beings,
+    it may be accepted as pure and acceptable.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9195-9198
+  quote_or_summary: The text says that material from the corresponding passage about
+    couches should be repeated here as far as the mention of water-plants.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9200-9205
+  quote_or_summary: Parties of two, three, four, or five mendicants going to the study
+    place should not embrace, hug, bite, or scratch one another's bodies.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily prescriptive monastic discipline. Literal extraction
+    is straightforward; motif labels are descriptive and should be reviewed for usefulness
+    in a mythology-oriented atlas.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy references or comparison claims were assigned because the passage itself does not support a specific comparative mythological link.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:jain-jaina-sutras-sbe22-jacobi-archive__l9179-l9206
+  passage_sha256=201b6e463ce8d8e588f2e5eac78bfaa2a58ece70ef3eca16c7346abf0640227c
+

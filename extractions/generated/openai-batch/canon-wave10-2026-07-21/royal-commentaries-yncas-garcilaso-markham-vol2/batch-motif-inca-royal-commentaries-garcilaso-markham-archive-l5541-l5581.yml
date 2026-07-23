@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l5541-l5581
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / CHAPTER  VIH. / SIXTH  BOOK  OF  THE  ROYAL
+    / COMMENTARIES  OR  THE  VNCAS.; lines 5541-5581
+  start: '5541'
+  end: '5581'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes how quipu knots and threads encode numbers, identifies
+    Quipu-camayu as keepers of the accounts, praises their selection for fitness and
+    honesty, notes the absence of money and sale of offices, and explains that multiple
+    accountants in each village used the same register to check one another by Inca
+    design.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The quipu uses knots arranged by numerical order, with the highest number
+    at the top and lower places descending to units.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The knots of each number and each thread are aligned with one another and
+    are compared to the way an accountant aligns figures for long addition.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: obs:3
+  text: Quipus are said to be in the charge of Indians called Quipu-camayu, glossed
+    as those who have charge of the accounts.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says the best and longest-proved persons were selected for these
+    and other offices because of special fitness, not favoritism.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The offices are described as neither sold nor farmed out, and the people are
+    described as having no money and exchanging one article of food for another.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The number of Quipucamayus in a village was regulated by population, from
+    four in the smallest village to twenty or thirty in larger ones.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Several accountants in each village used the same register so that they could
+    act as checks upon one another.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: The Yncas are said to have desired multiple accountants in each village and
+    to have stated that, where many were involved, all must be at fault or none.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Quipu-camayu / Quipucamayus
+  description: Account-keepers in charge of quipus; described as trustworthy and honest,
+    with their number regulated by village population.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Indians
+  description: The broader population described as gentle and governed well; the best
+    and most proven were selected for offices, and they are said to have no money
+    and to exchange food for food.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Yncas
+  description: Ruling authorities who desired several accountants in each village
+    to serve as checks on one another.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: keepers of accounts
+  assigned_to:
+  - fig:1
+  basis: The Quipu-camayu are defined as those who have charge of the accounts.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: trusted officeholders
+  assigned_to:
+  - fig:1
+  basis: The passage describes the account-keepers as trustworthy and honest and says
+    offices were assigned by fitness.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: mutual checks on the register
+  assigned_to:
+  - fig:1
+  basis: Multiple accountants used the same register to check one another.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: population and source of selected officials
+  assigned_to:
+  - fig:2
+  basis: The passage discusses the character of the Indians generally and says the
+    best and longest-proved were selected for offices.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: administrative authority requiring checks
+  assigned_to:
+  - fig:3
+  basis: The Yncas are said to have wanted several accountants in each village as
+    checks on each other.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: quipu as knotted account record
+  literal_form: Knots and threads arranged by numerical place value on a quipu.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: shared register
+  literal_form: One account or same register used by multiple accountants in a village.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Arrangement and custody of quipu accounts
+  summary: Knots and threads are arranged by numerical place value and alignment,
+    and the quipus are under the care of Quipu-camayu account-keepers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: scene:2
+  label: Selection and economic context of offices
+  summary: Officeholders are described as selected for proven fitness rather than
+    favor, while offices are not sold or farmed out and money is absent from the described
+    economy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Multiple village accountants as checks
+  summary: Each village has several Quipucamayus using the same register, because
+    the Yncas wanted them to check one another.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: knotted numerical record
+  taxonomy_refs: []
+  basis: The passage presents quipu knots and threads as an ordered medium for keeping
+    numerical accounts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an administrative record-keeping pattern rather than an explicitly
+    mythic motif; no available taxonomy reference exactly matches quipu accounting.
+- id: motif:2
+  label: mutual accountability among record-keepers
+  taxonomy_refs: []
+  basis: Multiple accountants in each village use the same register so that they act
+    as checks on one another.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a governance and accounting pattern, not a mythic narrative episode.
+- id: motif:3
+  label: ordered royal administration as good government
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage praises the government, emphasizes selection by fitness, and
+    attributes the system of multiple checking accountants to the Yncas.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The passage does not explicitly assert sacred kingship or a royal legitimation
+    myth; the taxonomy mapping is tentative and should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly likens the visual alignment of quipu knots and threads
+    to the arrangement of figures by an accountant for a long addition sum.
+  claim_level: visual_similarity
+  target: columnar arrangement of figures in long addition accounting
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an analogy made within the passage about layout; it does not
+    demonstrate historical contact, shared origin, or equivalence beyond the stated
+    visual/accounting resemblance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5541-5553
+  quote_or_summary: Knots are arranged from highest place value at the top down to
+    units, and knots and threads are aligned with one another.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5552-5555
+  quote_or_summary: The quipus are in the charge of Indians called Quipu-camayu, glossed
+    as those having charge of the accounts.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5555-5565
+  quote_or_summary: The best and longest-proved persons were selected for offices
+    on grounds of special fitness rather than favoritism.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5565-5571
+  quote_or_summary: The offices were not sold or farmed out; the people are described
+    as having no money and exchanging one article of food for another.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5572-5578
+  quote_or_summary: The number of Quipucamayus was regulated by village population,
+    from four in even the smallest village to twenty or thirty, while all used the
+    same register.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5578-5581
+  quote_or_summary: The Yncas wanted several accountants in each village to act as
+    checks upon one another and said that where there were many, all must be at fault
+    or none.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 5548-5552
+  quote_or_summary: '"exactly in the way a good accountant places his figures to make
+    a long addition sum"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labeling is less certain because
+    the passage is primarily administrative and historical rather than mythic.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available symbol taxonomy item directly matches quipu, knots, register, or accounting.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l5541-l5581
+  passage_sha256=67c28052f5b3c005502fbf1384f983a7920c1d35b5d70838548f716567d6c430
+

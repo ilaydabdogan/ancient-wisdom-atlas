@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.jain-jaina-sutras-sbe22-jacobi-archive-l7492-l7521
+source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+passage_locator:
+  label: THIRD LESSON. / THIRD LECTURE, / WALKING 1 . / FIRST LESSON.; lines 7492-7521
+  start: '7492'
+  end: '7521'
+  translation: 'Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred
+    Books of the East, Vol. 22)'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives rules for Jain monks and nuns about walking and residence.
+    During the rainy season, because many living beings and seeds arise and roads
+    contain living beings and become hard to recognize, they should not wander between
+    villages but remain in one place. It also says that if a village lacks space for
+    religious practice or study, lacks suitable furniture and pure alms, has many
+    other mendicants and needy people, and has very small means of existence, monks
+    and nuns should not remain there during the cold season.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that when the rainy season comes and it is raining, many
+    living beings originate and many seeds spring up.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that roads contain many living beings and seeds, footpaths
+    are not used, and roads are not recognizable.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Knowing the rainy-season conditions, one should not wander from village to
+    village but remain in one place during the rainy season.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A monk or nun is instructed to assess whether a village has a large place
+    for religious practices or study, suitable furniture, and pure acceptable alms.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage lists Śramaṇas, Brāhmaṇas, guests, paupers, and beggars as people
+    who may have come or will come to the village.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: If the means of existence in a village are extremely small and it is not fit
+    for a wise man to enter or leave it, monks and nuns should not remain there during
+    the cold season.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: monk
+  description: A monk who knows the conditions of a village or town and is subject
+    to rules about wandering and residence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: nun
+  description: A nun who knows the conditions of a village or town and is subject
+    to rules about wandering and residence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: many living beings
+  description: Living beings said to originate in the rainy season and to be present
+    on roads.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Śramaṇas and Brāhmaṇas, guests, paupers, and beggars
+  description: Groups of people whose presence or expected arrival affects whether
+    a village is suitable for residence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: monastic resident and traveler
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage addresses monks and nuns deciding whether to wander, remain during
+    the rainy season, or avoid remaining during the cold season.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: vulnerable living beings on paths
+  assigned_to:
+  - fig:3
+  basis: The passage says living beings arise in the rainy season and are present
+    on roads, forming the reason not to wander.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: other claimants on village resources
+  assigned_to:
+  - fig:4
+  basis: The passage lists these groups when describing a village with small means
+    of existence and unsuitable conditions for residence.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: rainy season
+  literal_form: rain and rainy season
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: road and footpath
+  literal_form: roads between places and footpaths
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: one-place residence
+  literal_form: remaining during the rainy season in one place
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Rainy-season restraint from wandering
+  summary: Because rain brings forth living beings and seeds and makes roads full
+    of life and difficult to recognize, the instructed person should not wander between
+    villages but stay in one place during the rainy season.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Assessment of an unsuitable village
+  summary: A monk or nun evaluates a village or town for religious space, study, furniture,
+    acceptable alms, the presence of other mendicants and needy people, and limited
+    resources; if unsuitable, they should not remain there during the cold season.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Rainy-season non-wandering to avoid harm to living beings
+  taxonomy_refs: []
+  basis: The passage links rainy-season proliferation of living beings and seeds on
+    roads with an instruction not to wander from village to village and to remain
+    in one place.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a monastic disciplinary pattern rather than a mythic narrative
+    motif; no broader taxonomy motif is assigned.
+- id: motif:2
+  label: Residence determined by suitability for religious practice and subsistence
+  taxonomy_refs: []
+  basis: The passage instructs monks and nuns to avoid remaining in a village lacking
+    space for practice or study, suitable goods, pure alms, and sufficient means of
+    existence.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an ethical-regulatory pattern in the passage, not a comparative
+    mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7498-7504
+  quote_or_summary: "“When the rainy season has come and it is raining, many living
+    beings are originated and many seeds just spring up,” and roads contain many living
+    beings and seeds while footpaths are unused and roads unrecognizable."
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 7504-7507
+  quote_or_summary: "“one should not wander from village to village, but remain during
+    the rainy season in one place”."
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7507-7515
+  quote_or_summary: A monk or nun may know that a village or town has no large place
+    for religious practices or study, and lacks easily obtainable stool, bench, bed,
+    couch, or pure acceptable alms.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 7515-7517
+  quote_or_summary: The passage says “many Śramaṇas and Brāhmaṇas, guests, paupers,
+    and beggars” have come or will come.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 7517-7520
+  quote_or_summary: The means of existence are described as extremely small and the
+    place as not fit for a wise man to enter or leave; in such a place monks and nuns
+    should not remain during the cold season.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is prescriptive and literal rather than narrative. Extracted
+    motif candidates are local disciplinary patterns, not taxonomy-level myth motifs.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. Apparent OCR anomalies in the supplied text were not normalized except where the context and passage wording clearly identify terms such as rainy season.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:jain-jaina-sutras-sbe22-jacobi-archive__l7492-l7521
+  passage_sha256=bbc48c39bcab57989cd76bd3055abdc1b4328b7f3aa6714e0b3238a732c2abfe
+

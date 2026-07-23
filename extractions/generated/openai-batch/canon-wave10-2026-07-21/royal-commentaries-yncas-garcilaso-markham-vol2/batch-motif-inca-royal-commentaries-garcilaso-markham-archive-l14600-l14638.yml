@@ -1,0 +1,332 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l14600-l14638
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / CHAPTER  II. / EIGHTH  BOOK  OF  THE  EOYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 14600-14638
+  start: '14600'
+  end: '14638'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Ynca campaign against Cuntur-marca and Caxamarquilla.
+    Cuntur-marca resists for many days but submits after being overwhelmed. The Ynca
+    receives the defeated people with clemency, gives presents, leaves ministers to
+    administer the conquered area, and advances. Other villages submit by following
+    this example. Caxamarquilla, reached by a rugged forest road, fights for a time
+    but also submits after recognizing Ynca power and the conquest of much of the
+    province.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The inhabitants of Cuntur-marca make a desperate resistance for many days.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Chachas are overwhelmed by the number of their enemies and submit to the
+    will of the Ynca.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The Ynca receives the submitted people with clemency and gives them presents
+    to reassure them and to influence others still resisting.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Ynca leaves ministers in Cuntur-marca to arrange affairs in the conquered
+    country.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Ynca advances to occupy villages and fortresses ahead with less trouble
+    and less loss of life.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Other villages follow the example of Cuntur-marca and submit, while those
+    that resist do so with less resolution.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Caxamarquilla is described as eight leagues from Cuntur-marca, with a rugged
+    intervening road covered with forest.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Caxamarquilla is inhabited by a numerous and warlike race; after several encounters
+    and awareness of Ynca power, they decide to submit.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the Ynca
+  description: The ruling leader who receives submissions, gives presents, leaves
+    ministers, and advances to occupy more places.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: inhabitants of Cuntur-marca / Chachas
+  description: A numerous group that resists bravely for many days and then submits
+    to the Ynca.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: the Yncas / enemies
+  description: The forces whose numbers overwhelm Cuntur-marca and whose power is
+    later felt in fighting at Caxamarquilla.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:4
+  name_or_label: ministers
+  description: Officials left in Cuntur-marca to arrange affairs of the conquered
+    country.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: other villages
+  description: Villages that follow Cuntur-marca's example and submit, or resist with
+    less resolution.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: inhabitants of Caxamarquilla
+  description: A numerous and warlike people who fight several encounters before deciding
+    to submit.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: conquering ruler
+  assigned_to:
+  - fig:1
+  basis: The Ynca receives submission, occupies villages and fortresses, and advances
+    through the province.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: clemency-giving victor
+  assigned_to:
+  - fig:1
+  basis: The Ynca receives the submitted people with clemency and gives presents.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: resisting conquered people
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: Both Cuntur-marca and Caxamarquilla resist or fight before submitting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:4
+  label: victorious force
+  assigned_to:
+  - fig:3
+  basis: The Ynca side overwhelms Cuntur-marca by numbers and is described as powerful
+    in later encounters.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:5
+  label: administrators
+  assigned_to:
+  - fig:4
+  basis: Ministers are left to arrange the affairs of the conquered country.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: submitting neighboring communities
+  assigned_to:
+  - fig:5
+  basis: Other villages follow Cuntur-marca's example and submit.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Resistance and submission at Cuntur-marca
+  summary: Cuntur-marca resists for many days but is overwhelmed by enemy numbers
+    and submits to the Ynca.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Clemency and consolidation after conquest
+  summary: The Ynca receives the submitted people with clemency, gives presents, and
+    leaves ministers to administer the conquered country.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Advance and spreading submission
+  summary: The Ynca advances to occupy more villages and fortresses, and other villages
+    submit after the example of Cuntur-marca.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Fighting and submission at Caxamarquilla
+  summary: Caxamarquilla, reached by a rugged forest road, fights several encounters
+    but decides to submit after feeling Ynca power and recognizing that much of the
+    province is conquered.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Military resistance overcome by superior force
+  taxonomy_refs: []
+  basis: Cuntur-marca resists for many days but is overwhelmed by enemy numbers, and
+    Caxamarquilla submits after several encounters with the Yncas.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: This is a historical-political pattern in the passage, not an explicitly
+    mythic motif.
+- id: motif:2
+  label: Clemency and gifts after submission
+  taxonomy_refs: []
+  basis: The Ynca receives the defeated people with clemency and gives presents to
+    reassure them and to signal similar treatment to remaining holdouts.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as royal policy; no sacred or ritual meaning
+    is stated.
+- id: motif:3
+  label: Administrative consolidation after conquest
+  taxonomy_refs: []
+  basis: After taking Cuntur-marca, the Ynca leaves ministers to arrange the affairs
+    of the conquered country.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives administrative action rather than mythic symbolism.
+- id: motif:4
+  label: One submission becomes an example for further submissions
+  taxonomy_refs: []
+  basis: Other villages follow Cuntur-marca's example, and Caxamarquilla also submits
+    after considering that most of the province is already conquered.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is an inferred recurring campaign pattern within the passage, not
+    a named traditional motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14600-14610
+  quote_or_summary: Cuntur-marca resists desperately for many days; the Chachas rely
+    on their own valor but face the superior power of the Yncas.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 14610-14616
+  quote_or_summary: The Chachas are overwhelmed by enemy numbers and submit; the Ynca
+    receives them with clemency and gives presents to reassure them and others.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 14617-14621
+  quote_or_summary: The Ynca leaves ministers in Cuntur-marca to arrange affairs and
+    advances to occupy further villages and fortresses with less trouble and less
+    loss of life.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 14622-14626
+  quote_or_summary: Other villages follow Cuntur-marca's example and submit; any resistance
+    is less resolute than before.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 14626-14631
+  quote_or_summary: The Ynca reaches Caxamarquilla, eight leagues from Cuntur-marca,
+    over a rugged road covered with forest.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 14631-14638
+  quote_or_summary: Caxamarquilla is inhabited by a numerous and warlike race; after
+    several encounters and recognizing Ynca power and the conquered state of much
+    of the province, they submit.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are framed as passage-level
+    historical-political patterns, since the passage does not present explicit mythic
+    symbolism or cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy symbols or comparison claims were assigned because the passage provides conquest narrative details but no explicit symbolic or comparative framing.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l14600-l14638
+  passage_sha256=5fe97fba69318bd341084f48d0dd3c83a0c0d43c7caae847cabdd594e783d3a6
+

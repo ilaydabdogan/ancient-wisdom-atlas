@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l4310-l4343
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: TUMU. / PAPA. / UNUUNU   TAI. / PAPA  RUA.; lines 4310-4343
+  start: '4310'
+  end: '4343'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: WANDERINGS  OF  ONO.
+  summary: 'A short song headed as the wanderings of Ono is arranged in four labelled
+    sections: TUMU, PAPA, UNUUNU TAI, and PAPA RUA. The stanzas repeatedly name Ono
+    and include a recurring phrase containing Iva. The supplied passage gives the
+    song text without an English prose translation of the stanzas.'
+  language: Mangaian with English heading
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage opens with the English heading “WANDERINGS OF ONO.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage is divided into the labelled sections TUMU, PAPA, UNUUNU TAI,
+    and PAPA RUA.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:3
+  text: The name Ono appears in the heading and in several stanzas.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: The phrase containing “Iva” recurs as “Kauvare a Iva e !” in multiple sections.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: The untranslated term “matangi” appears in the TUMU section and is repeated
+    in the PAPA RUA section.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: obs:6
+  text: The untranslated term “motu” appears in the TUMU section and again in the
+    UNUUNU TAI section.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:7
+  text: The UNUUNU TAI section includes an address using “koe” and also names Ono.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ono
+  description: Named in the heading as the subject of the wanderings and named again
+    in several stanzas.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Iva
+  description: A named entity appearing in the recurring phrase “Kauvare a Iva e !”
+    across the song sections.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: named subject of wanderings
+  assigned_to:
+  - fig:1
+  basis: The English heading identifies the passage as the wanderings of Ono, and
+    the name Ono recurs in the stanzas.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: named entity in recurring refrain
+  assigned_to:
+  - fig:2
+  basis: The phrase “Kauvare a Iva e !” recurs in the song sections.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: 'untranslated recurring term: matangi'
+  literal_form: matangi
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: 'untranslated recurring term: motu'
+  literal_form: motu
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: TUMU stanza
+  summary: The opening TUMU section names Ono, includes the terms “matangi” and “motu,”
+    and ends with the recurring phrase containing Iva.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: PAPA stanza
+  summary: The PAPA section includes several short lines, names Ono, and closes with
+    the recurring phrase containing Iva.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: UNUUNU TAI stanza
+  summary: The UNUUNU TAI section includes an address, names Ono, includes the term
+    “motu,” and ends with the recurring phrase containing Iva.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: PAPA RUA stanza
+  summary: The PAPA RUA section repeats the term “matangi” and closes with the recurring
+    phrase containing Iva.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: named figure’s wanderings
+  taxonomy_refs: []
+  basis: The passage is headed “WANDERINGS OF ONO,” and Ono is named repeatedly in
+    the song.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The supplied passage does not include an English prose translation of
+    the stanzas, so the nature of the wanderings cannot be described beyond the heading
+    and repeated names.
+- id: motif:2
+  label: recurrent refrain naming Iva
+  taxonomy_refs: []
+  basis: The phrase containing Iva recurs at the end of, or within, multiple labelled
+    sections of the song.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a formal song-pattern observation rather than a securely interpreted
+    mythic motif.
+- id: motif:3
+  label: repeated untranslated natural or place terms
+  taxonomy_refs: []
+  basis: The terms “matangi” and “motu” recur in different sections and are associated
+    with the song’s named figures or refrain structure.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: No translation is supplied in the passage; the terms are recorded only
+    as repeated literal forms, not interpreted symbolically.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4310-4312
+  quote_or_summary: "“WANDERINGS  OF  ONO.” followed by the section label “TUMU.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 4314-4318
+  quote_or_summary: The TUMU stanza names Ono, includes the terms “matangi” and “tai
+    motu,” and ends with “Kauvare a Iva e !”
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized with short textual tokens.
+- id: ev:3
+  type: summary
+  locator: 4320-4325
+  quote_or_summary: The PAPA stanza contains four lines, including a line naming Ono
+    and a closing “Kauvare a Iva e !” phrase.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized with short textual tokens.
+- id: ev:4
+  type: summary
+  locator: 4327-4338
+  quote_or_summary: The UNUUNU TAI stanza includes an address, the terms “manu,” “pitai,”
+    and “motu,” a line naming Ono, and a final “Kauvare a Iva e !” phrase.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized with short textual tokens.
+- id: ev:5
+  type: summary
+  locator: 4340-4343
+  quote_or_summary: The PAPA RUA stanza repeats “matangi” in two lines and ends with
+    “Kauvare a Iva e !”
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized with short textual tokens.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal structure, names, and repeated terms are extractable, but the stanzas
+    are not translated in the supplied passage. Motif interpretation is therefore
+    limited and requires human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy symbol or motif refs were assigned because the supplied passage does not provide enough translated semantic context to support them securely.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l4310-l4343
+  passage_sha256=b3b475b684f348f848600eb5507559ec7bdfe05d63f4ceb48c112e1efd1c52d7
+

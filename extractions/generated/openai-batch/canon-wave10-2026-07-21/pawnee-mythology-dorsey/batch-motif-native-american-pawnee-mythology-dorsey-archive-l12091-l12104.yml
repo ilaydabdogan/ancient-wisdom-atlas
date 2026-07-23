@@ -1,0 +1,339 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l12091-l12104
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE    BASKET    GAME,    OR    THE    WOMAN    IN    THE    MOON.  233 /
+    THE  BASKET  GAME,  OR  THE  WOMAN  IN  THE  MOON.  235 / THE   GIRL,  SPIDER-WOMAN,  AND  THE  BALL  GAME.  237
+    / THE    GIRL,   SPIDER-WOMAN,  AND   THE    BALL   GAME.  239; lines 12091-12104
+  start: '12091'
+  end: '12104'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A woman continues singing while a boy and the Witch-Woman dance. The Witch-Woman
+    is about to kill the boy when men arrive, kill the old woman, and save him. She
+    is burned in a fire, bursts open, and something flies to a tree; it is found to
+    be a croaking tree frog. The boy reports that the Witch-Woman had killed a man
+    and is now dead, and the people discover that she had turned into a tree frog.
+    A source note states that the story warns hunters away from home not to stop at
+    strange habitations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A woman continued singing while the boy and the Witch-Woman danced.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Witch-Woman was about to kill the boy when several men came to the place.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The men took the old woman, killed her, and saved the boy.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Witch-Woman was put into a fire, burned, and burst while in the fire.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: After the bursting, something flew up and rested on a tree.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When examined, the thing was found to be a croaking tree frog.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The boy took the frog home and told the people that it was the Witch-Woman
+    who had killed the man and that she was dead.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The people discovered that the woman had turned into a tree frog.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The attached source note says the story warns hunters away from home not to
+    stop at strange habitations.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: boy
+  description: A boy dances during the confrontation, is about to be killed, is saved,
+    and later takes the frog home and reports what happened.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Witch-Woman / old woman
+  description: A Witch-Woman dances, is about to kill the boy, is killed and burned,
+    bursts in the fire, and is later understood to have turned into a tree frog.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: several men
+  description: Several men come to the place, take the old woman, kill her, and save
+    the boy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: people
+  description: The people examine the thing found on the tree, hear the boy's report,
+    and discover that the woman had turned into a tree frog.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: threatened boy and witness
+  assigned_to:
+  - fig:1
+  basis: The boy is about to be killed, is saved, and later reports the Witch-Woman's
+    fate.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: threatening Witch-Woman
+  assigned_to:
+  - fig:2
+  basis: The Witch-Woman is about to kill the boy and is identified as having killed
+    a man.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: rescuers and executioners
+  assigned_to:
+  - fig:3
+  basis: The men kill the old woman and save the boy.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: examining community
+  assigned_to:
+  - fig:4
+  basis: The people examine the thing on the tree and discover the transformation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: transformed being
+  assigned_to:
+  - fig:2
+  basis: The woman is discovered to have turned into a tree frog after being burned.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: The fire into which the Witch-Woman is put and burned.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: tree
+  literal_form: The tree on which the thing that flew from the fire came to rest.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: croaking tree frog
+  literal_form: A croaking tree frog found after something flew from the burning Witch-Woman
+    to a tree.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Singing, dancing, and threatened killing
+  summary: The woman continues singing while the boy and Witch-Woman dance; the Witch-Woman
+    is about to kill the boy when men arrive.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rescue and burning of the Witch-Woman
+  summary: The men take and kill the old woman, save the boy, and the Witch-Woman
+    is put into a fire and burned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Tree-frog transformation discovered
+  summary: The burned Witch-Woman bursts; something flies to a tree and is found to
+    be a croaking tree frog. The boy reports the event, and the people understand
+    that the woman had turned into a tree frog.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Witch-Woman transformed into tree frog after burning
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage states that the woman burst in the fire, that a frog flew to
+    a tree, and that the people discovered she had turned into a tree frog.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage describes the transformation after burning; it does not explain
+    whether the transformation is voluntary or repeated.
+- id: motif:2
+  label: Boy rescued from a threatening Witch-Woman
+  taxonomy_refs: []
+  basis: The Witch-Woman is about to kill the boy, but several men arrive, kill the
+    old woman, and save him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No broader taxonomy reference is assigned from the provided list.
+- id: motif:3
+  label: Warning to hunters against strange habitations
+  taxonomy_refs: []
+  basis: The attached note explicitly says the story warns hunters away from home
+    not to stop at strange habitations.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is based on the source note rather than on a repeated comparative
+    corpus pattern in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared with the shapeshifter motif family
+    because the Witch-Woman is discovered to have turned into a tree frog.
+  claim_level: same_motif
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The transformation is inferred within the tale after the Witch-Woman
+    is burned; the passage does not describe a deliberate or repeated act of shape-changing.
+- id: claim:2
+  claim: The passage functions as a warning tale for hunters, according to the attached
+    note.
+  claim_level: same_function
+  target: hunter cautionary warning tale pattern
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied passage gives the function explicitly but provides no
+    external comparative examples.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 12091-12094
+  quote_or_summary: '"The boy was dancing" and the Witch-Woman was also dancing; she
+    was "about to kill the boy" when several men came.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 12094-12096
+  quote_or_summary: The men took the old woman, killed her, saved the boy, and the
+    Witch-Woman was put into a fire and burned.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 12096-12099
+  quote_or_summary: While in the fire she burst; something flew up, rested on a tree,
+    and was found to be a croaking tree frog.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 12099-12102
+  quote_or_summary: The boy took it home, said it was the Witch-Woman who had killed
+    the man and was now dead, and the people discovered she had turned into a tree
+    frog.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 12103-12104
+  quote_or_summary: '"The story conveys a warning to hunters when away from home not
+    to stop at strange habitations."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is direct from the supplied passage. Motif and comparison
+    labels are limited to the explicit transformation and attached warning note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external sources or unstated Pawnee-context comparisons were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l12091-l12104
+  passage_sha256=17f5a77d07b5bae33991a07bf0659c495e069a62c644ec66915c117cef14b9b2
+

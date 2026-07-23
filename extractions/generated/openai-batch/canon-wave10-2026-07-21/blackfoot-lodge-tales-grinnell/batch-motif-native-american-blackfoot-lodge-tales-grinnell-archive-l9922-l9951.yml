@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.native-american-blackfoot-lodge-tales-grinnell-archive-l9922-l9951
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+passage_locator:
+  label: HUNTING  237 / HUNTING  239 / HUNTING    .,  241 / THE   BLACKFOOT   IN   WAR;
+    lines 9922-9951
+  start: '9922'
+  end: '9951'
+  translation: Blackfoot Lodge Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Blackfeet as warlike and speculates that, before
+    horses, warfare was likely limited to disputes, revenge, or glory rather than
+    plunder. It states that common possessions such as arms, dogs, clothing, and dried
+    meat were not worth dangerous expeditions, and that captured goods were difficult
+    to transport on men's backs. The passage then begins an incomplete contrast with
+    the arrival of horses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Blackfeet are described as a warlike people, while conditions before the
+    coming of white men are said to be uncertain.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage suggests that in early times the Blackfeet were probably often
+    at peace with neighboring tribes, or fought limited battles over perceived rights.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that warfare changed when horses came into the possession
+    of the Indians.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Before horses, expeditions might go out to kill enemies for glory or revenge,
+    but the passage says war was not yet made desirable by plunder.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Primitive arms, dogs, clothing, and dried meat are listed as possessions common
+    to all tribes and usually abundant.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: For a war party, captured articles could only be transported on men's backs,
+    and burdened men could not run or fight effectively.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage ends in the middle of a sentence beginning a contrast about when
+    horses became known.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: The Blackfeet
+  description: The people who are the subject of the passage and are described as
+    warlike.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: neighboring tribes
+  description: Neighboring groups with whom the Blackfeet may have been at peace or
+    in disputes, and who had similar common possessions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: war parties or expeditions
+  description: Groups that may have gone out to kill enemies and that would have had
+    to transport captured articles.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: warlike people
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly describes the Blackfeet as warlike.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: neighboring groups and possible opponents
+  assigned_to:
+  - fig:2
+  basis: The passage refers to peace, quarrels, battles, and shared types of property
+    among neighboring tribes.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: war party
+  assigned_to:
+  - fig:3
+  basis: The passage refers to expeditions going out to kill enemies and to a war
+    party transporting captured articles.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: horses
+  literal_form: horses
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:2
+  label: common possessions
+  literal_form: primitive arms, dogs, clothing, and dried meat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: human-carried transport
+  literal_form: men's backs carrying captured articles
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Earlier limited conflict
+  summary: The passage speculates that earlier relations with neighboring tribes were
+    often peaceful or involved limited quarrels and battles over perceived rights.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Pre-horse war without plunder incentive
+  summary: Before horses, expeditions might kill enemies for glory or revenge, but
+    common property was not valuable enough to motivate dangerous long journeys for
+    plunder.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Transport limitation before horses
+  summary: A war party could only carry captured articles on men's backs, limiting
+    the amount taken and impairing movement and fighting.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Incomplete transition to horse period
+  summary: The passage begins to contrast the earlier situation with the period when
+    horses became known, but the provided excerpt cuts off before completing the thought.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: horse-enabled transformation of warfare incentives
+  taxonomy_refs: []
+  basis: The passage contrasts pre-horse warfare, which lacked a strong plunder incentive
+    and was constrained by transport on men's backs, with the statement that warfare
+    changed when horses came into Indian possession.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is an ethnographic social pattern rather than a mythic narrative
+    motif, and the provided passage cuts off before explaining the full horse-period
+    contrast.
+- id: motif:2
+  label: limited warfare before portable wealth or transport capacity
+  taxonomy_refs: []
+  basis: The passage says earlier war was probably limited or motivated by glory and
+    revenge, while common possessions were abundant and not worth dangerous raiding,
+    and transport capacity was limited.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is speculative in tone about early times and does not present
+    this as a formal traditional tale motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9922-9925
+  quote_or_summary: The passage opens the section on war by describing the Blackfeet
+    as warlike and noting uncertainty about conditions before white contact.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: 9925-9932
+  quote_or_summary: The passage suggests early relations were usually peaceful or
+    involved limited quarrels and battles over what each party considered its rights,
+    with wars not general or very bloody.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: 9932-9935
+  quote_or_summary: The passage says that when horses came into the possession of
+    the Indians, the earlier situation must have changed.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: 9935-9942
+  quote_or_summary: Before horses, there was little incentive to war; expeditions
+    might kill enemies for glory or revenge, but war was not desirable for plunder
+    because neighbors had no property worth capturing.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:5
+  type: summary
+  locator: 9942-9947
+  quote_or_summary: Primitive arms, dogs, clothing, and dried meat are identified
+    as common possessions of all tribes, usually held in abundance.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:6
+  type: summary
+  locator: 9947-9950
+  quote_or_summary: Even desirable plunder would have been limited because a war party
+    could only carry captured articles on men's backs, and burdened men could neither
+    run nor fight well.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:7
+  type: note
+  locator: 9950-9951
+  quote_or_summary: The excerpt ends after beginning an incomplete sentence about
+    when horses became known.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif classification is limited
+    because the passage is ethnographic prose and the excerpt ends mid-transition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the available taxonomy does not include horses, warfare, plunder, or transport-capacity patterns. No comparison claims were added because the passage itself does not compare this material to another text, tradition, or motif family.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-blackfoot-lodge-tales-grinnell-archive__l9922-l9951
+  passage_sha256=10281f5a33f558add822f6a4a46a4375d4f8cabd3add991d8ab7cced1d6d11c5
+

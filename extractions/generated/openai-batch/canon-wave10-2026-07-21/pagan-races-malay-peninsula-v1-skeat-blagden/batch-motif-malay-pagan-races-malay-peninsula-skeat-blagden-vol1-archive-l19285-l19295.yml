@@ -1,0 +1,244 @@
+---
+record_id: batch.motif.malay-pagan-races-malay-peninsula-skeat-blagden-vol1-archive-l19285-l19295
+source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+passage_locator:
+  label: TART  II / VOL.  I / CHAPTER   VII. / KAJ  OF  PEA; lines 19285-19295
+  start: '19285'
+  end: '19295'
+  translation: Pagan Races of the Malay Peninsula, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: At the ripening of the grain and the appointed start of harvest, food is
+    gathered and guests are invited for the Rice New Year's Day feast. In the morning
+    the family head wraps himself to conceal his person, goes to the padi-field with
+    a Malay reaping-knife, and begins an invocation naming Allah and the soul of the
+    Rice.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The rite occurs when the grain is ripe and a day has been fixed for the beginning
+    of the harvest.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A large quantity of food is collected, and guests are invited to attend a
+    feast called the New Year's Day of the Rice.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the morning, the head of the family wraps his clothes around himself so
+    as to conceal his entire person.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The head of the family goes to the padi-field with a Malay reaping-knife.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The head of the family repeats an invocation beginning with the name of Allah
+    and stating that he takes up the soul of the Rice.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: head of the family
+  description: The person who wraps himself, goes to the padi-field with the reaping-knife,
+    and repeats the invocation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: guests
+  description: People invited to attend the feast of the New Year's Day of the Rice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: family head and ritual actor
+  assigned_to:
+  - fig:1
+  basis: He performs the morning actions at the padi-field and speaks the invocation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: feast attendees
+  assigned_to:
+  - fig:2
+  basis: They are invited to attend the Rice New Year's Day feast.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: ripe grain / Rice
+  literal_form: grain, Rice, padi-field crop
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: soul of the Rice
+  literal_form: the invoked soul of the Rice
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Rice New Year's Day feast
+  literal_form: collected food and feast called "makan sulong tahun"
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Malay reaping-knife
+  literal_form: Malay reaping-knife called "tue"
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: concealing wrap
+  literal_form: clothes wrapped around the body to conceal the entire person, called
+    "berselubong"
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Preparation for Rice New Year's Day feast
+  summary: After the grain ripens and the harvest day is fixed, food is collected
+    and guests are invited for the feast.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Morning field rite
+  summary: The family head conceals his body with wrapped clothes, goes to the padi-field
+    carrying a Malay reaping-knife, and recites an invocation concerning Allah and
+    the soul of the Rice.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: harvest new-year rite for rice
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage links ripened grain, the appointed beginning of harvest, a New
+    Year's Day of the Rice feast, and a field invocation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage is a ritual description rather than a narrative myth; motif
+    labeling is limited to the explicitly seasonal and harvest context.
+- id: motif:2
+  label: ritual handling of the crop's soul
+  taxonomy_refs: []
+  basis: The invocation says, "I take up the soul of the Rice," during the morning
+    visit to the padi-field.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt ends mid-invocation and does not explain what is meant by
+    the soul of the Rice or what subsequent actions occur.
+- id: motif:3
+  label: ritual concealment before harvest action
+  taxonomy_refs: []
+  basis: Before going to the padi-field, the family head wraps his clothes around
+    himself to conceal his entire person.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the action but not its stated purpose or interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19285-19286
+  quote_or_summary: The grain is ripe, and a day has been fixed for the commencement
+    of the harvest.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 19286-19289
+  quote_or_summary: '"a large quantity of food was collected, and guests invited to
+    attend the feast of the New Year''s Day of the Rice"'
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: 19289-19292
+  quote_or_summary: In the morning, the head of the family wraps his clothes around
+    himself to conceal his entire person, termed "berselubong."
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized with short term.
+- id: ev:4
+  type: summary
+  locator: 19292-19294
+  quote_or_summary: The head of the family proceeds to the padi-field with a Malay
+    reaping-knife, termed "tue."
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized with short term.
+- id: ev:5
+  type: quote
+  locator: 19294-19295
+  quote_or_summary: '"In the name of Allah. I take up the soul of the Rice."'
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is a short ethnographic excerpt and the invocation is truncated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison beyond local ritual description.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-pagan-races-malay-peninsula-skeat-blagden-vol1-archive__l19285-l19295
+  passage_sha256=0f554de457d0b42d442cdf348ad5499f3099b34f640f654a9853fd5136734cb8
+

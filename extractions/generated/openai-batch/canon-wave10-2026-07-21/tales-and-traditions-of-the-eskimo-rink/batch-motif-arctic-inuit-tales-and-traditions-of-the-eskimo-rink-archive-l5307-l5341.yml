@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.arctic-inuit-tales-and-traditions-of-the-eskimo-rink-archive-l5307-l5341
+source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+passage_locator:
+  label: KUMAGDLAT  AND  ASALOK. / A K I G S I A K. / THE  FRIENDS. / I 2 I; lines
+    5307-5341
+  start: '5307'
+  end: '5341'
+  translation: Tales and Traditions of the Eskimo
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A man repeatedly tries to visit his friend despite attempts to detain him.
+    The friend is found in a worsening, unnatural condition, pursues him while saying
+    he is starving and wants him for food, and later walks on the water toward his
+    kayak. The visitor escapes by rocking the kayak to make ripples. On a final visit
+    he follows footprints to a cave, finds the friend dead, seals the cave entrance,
+    and is left friendless.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A door was fastened so that the visitor had to leave through a window and
+    escape to his kayak.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Others tried to detain the visitor on the following days, but he insisted
+    on going to his friend.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: obs:3
+  text: The friend was found in a worse physical state, lying with his head on the
+    floor, heels on the bench, protruding eyes, and a sharp-looking nose bone.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The friend started up, chased the visitor around the room, and said he was
+    starving and needed the visitor for food.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The visitor escaped by jumping out of the window and reaching his kayak.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the kayak left the shore, the pursuer was seen walking on the surface
+    of the water toward the prow of the kayak.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The visitor swung back and forth in the kayak, making ripples that prevented
+    the pursuer from keeping steady, and escaped again.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The visitor said that after a whole day without seeing his friend he was ready
+    to die with longing and could not stop going to him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: On the final visit, the friend's house was deserted, and the visitor followed
+    footprints up the hills to a cave in the rock.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The friend was sitting in the cave, bent together and much shrunk; when lifted,
+    he was found dead, with blood in his eyelids.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The visitor carefully covered and closed the entrance of the cave and was
+    thereafter friendless.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the visiting friend
+  description: The person who repeatedly goes to see his friend, escapes through windows
+    and by kayak, follows footprints to the cave, and closes the cave entrance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: the sick friend / madman
+  description: The visitor's friend, described as physically worsened, starving, pursuing
+    the visitor for food, walking on water, and later found dead in a cave.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: housemates
+  description: People who try to detain the visiting friend from going to see his
+    friend.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: loyal visitor and escapee
+  assigned_to:
+  - fig:1
+  basis: He repeatedly goes to see his friend despite danger and escapes from pursuit
+    by window and kayak.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: starving pursuer
+  assigned_to:
+  - fig:2
+  basis: He chases the visitor while saying he is starving and must have him for food.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: dead friend in cave
+  assigned_to:
+  - fig:2
+  basis: He is found dead in a cave after the visitor follows footprints there.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: detainers
+  assigned_to:
+  - fig:3
+  basis: They try to stop the visiting friend from going to see his friend.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: kayak
+  literal_form: The kayak used by the visitor to escape from the shore and from the
+    pursuer.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: water surface and ripples
+  literal_form: The water on which the pursuer walks and the ripples made by the rocking
+    kayak that make him unsteady.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: window escape
+  literal_form: The window through which the visitor escapes the house.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: cave in the rock
+  literal_form: A cave reached by following footprints up the hills, where the friend
+    is found dead and whose entrance is closed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: footprints leading to the cave
+  literal_form: Footprints winding up hills and leading the visitor to the cave.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Return to the worsening friend
+  summary: The visitor, despite attempts to stop him, enters his friend's house and
+    finds him in a grotesquely worsened state.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Pursuit inside the house
+  summary: The friend rises, chases the visitor around the room, declares hunger for
+    him as food, and the visitor escapes through the window to his kayak.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Water pursuit and kayak ripples
+  summary: The pursuer walks on the water toward the kayak, but the visitor rocks
+    the kayak to form ripples, making the pursuer unsteady and enabling another escape.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Final search and sealed cave
+  summary: The visitor returns again, finds the friend's house empty, follows footprints
+    to a cave, finds the friend dead, closes the cave entrance, and remains friendless.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Friend turned predatory pursuer
+  taxonomy_refs: []
+  basis: The sick friend pursues the visitor and says he is starving and must have
+    him for food.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives the predatory behavior but does not explain its cause.
+- id: motif:2
+  label: Repeated visit despite warnings or detention
+  taxonomy_refs: []
+  basis: The visitor is repeatedly urged or forced not to go, yet insists on visiting
+    because of longing for his friend.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage describes social detention and longing, not a formal quest
+    structure.
+- id: motif:3
+  label: Escape from water-walking pursuer by disturbing water
+  taxonomy_refs: []
+  basis: The pursuer walks on the water toward the kayak, and the visitor creates
+    ripples by swinging the kayak so the pursuer cannot steady himself.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the available motif
+    families do not directly name this pattern.
+- id: motif:4
+  label: Discovery of dead friend in cave and sealing of entrance
+  taxonomy_refs: []
+  basis: The visitor follows footprints to a cave, finds his friend dead, and covers
+    and closes the cave entrance.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The act resembles a burial or closure, but the passage does not explicitly
+    call it a burial ritual.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5307-5311
+  quote_or_summary: A door is fastened so the visitor must escape through a window
+    to his kayak; the next day others try to detain him, but he is determined to go.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5311-5317
+  quote_or_summary: The friend is found worse than before, lying with his head on
+    the floor, heels on the bench, protruding eyes, and a nose bone sharp like a knife
+    edge.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 5317-5322
+  quote_or_summary: The friend starts up and pursues him, crying, “I am starving;
+    I must have thee for food”; the visitor jumps out the window and reaches his kayak.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 5322-5329
+  quote_or_summary: After the kayak clears the shore, the pursuer walks on the water
+    toward its prow; the visitor rocks the kayak to form ripples, making the pursuer
+    nearly fall, and escapes.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 5330-5335
+  quote_or_summary: The housemates again try to detain him, but he says, “When I have
+    not seen my friend for a whole day, I am ready to die with longing,” and goes
+    to him.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: lines 5335-5340
+  quote_or_summary: The friend's house is deserted; the visitor follows footprints
+    up hills to a cave in the rock, where the friend sits bent and shrunken and is
+    found dead with blood-filled eyelids.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5340-5341
+  quote_or_summary: The visitor carefully covers and closes the cave entrance and
+    is thereafter friendless.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence is clear in the supplied passage. Motif labels are descriptive
+    rather than taxonomy-backed, and no comparison claims are made because the passage
+    itself does not provide a comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied line range and metadata were used; no outside context was added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:arctic-inuit-tales-and-traditions-of-the-eskimo-rink-archive__l5307-l5341
+  passage_sha256=432490dfdc91d2f3a0beeaca873a66344332ab05b231352c649af00d90493cba
+

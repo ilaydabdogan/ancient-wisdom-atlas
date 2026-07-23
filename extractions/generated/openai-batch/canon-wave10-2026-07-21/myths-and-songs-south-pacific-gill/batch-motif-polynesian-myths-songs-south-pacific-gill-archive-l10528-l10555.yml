@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l10528-l10555
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: UNUUNU   TAI. / UNUUNU    RUA. / UNUUNU   TORU. / FIRST   OFFSHOOT.; lines
+    10528-10555
+  start: '10528'
+  end: '10555'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: Now thou art wooed by a Shadow!
+  summary: A song passage addresses Varenga, associated with the sun rising. The speaker
+    recalls awakening from sleep on a steep mountain side while the addressee watched
+    for dawn. Miru is said to cherish the addressee in maidenhood. The addressee was
+    admired in life and is now wooed by a Shadow. The speaker identifies this as a
+    dream on the mountain.
+  language: English with Mangaian opening line
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage opens with a Mangaian line under the heading “UNUUNU TORU.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says the addressee was watching for dawn when the speaker awoke
+    from sleep on a steep mountain side.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Varenga is named and described as coming from “the sun rising.”
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker addresses Varenga possessively as “my Varenga.”
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Miru is said to cherish the addressee in maidenhood.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The addressee is described as having been admired by all in life wherever
+    her light steps wandered.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The addressee is now said to be wooed by a Shadow.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The speaker identifies the preceding vision or account as a dream on the mountain.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: speaker or dreamer
+  description: The first-person voice who awoke from sleep on the mountain and later
+    calls the account a dream.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:2
+  name_or_label: Varenga
+  description: A named addressee associated with “the sun rising,” called “my Varenga,”
+    described in relation to maidenhood, admired life, and present wooing by a Shadow.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Miru
+  description: A named figure who will cherish the addressee in her maidenhood.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Shadow
+  description: A Shadow who is said to woo the addressee.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: dreaming speaker
+  assigned_to:
+  - fig:1
+  basis: The voice says “I awoke” and later calls the account “my dream on the mountain.”
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:2
+  label: addressed maiden
+  assigned_to:
+  - fig:2
+  basis: Varenga is addressed by name, and the addressee is described in terms of
+    “thy maidenhood.”
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: cherisher of maidenhood
+  assigned_to:
+  - fig:3
+  basis: Miru is said to cherish the addressee in her maidenhood.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: shadow suitor
+  assigned_to:
+  - fig:4
+  basis: The Shadow is said to woo the addressee.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: admired living woman
+  assigned_to:
+  - fig:2
+  basis: The addressee is described as the admiration of all in life.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: steep mountain side; mountain
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:2
+  label: dawn and sun rising
+  literal_form: dawn; the sun rising
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: sleep and dream
+  literal_form: sleep; dream
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:4
+  label: Shadow
+  literal_form: a Shadow
+  associated_figures:
+  - fig:4
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: maidenhood
+  literal_form: thy maidenhood; thy lovely maidenhood
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Awakening on the mountain at dawn
+  summary: The speaker says the addressee watched for dawn while the speaker awoke
+    from sleep on a steep mountain side.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Address to Varenga and Miru’s cherishing
+  summary: Varenga is named as one who came from the sun rising, and Miru is said
+    to cherish the addressee in maidenhood.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Admired life and present Shadow wooing
+  summary: The addressee is described as formerly admired by all in life and now wooed
+    by a Shadow; the speaker frames this as a dream on the mountain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Dream on a mountain
+  taxonomy_refs: []
+  basis: The speaker locates the account in sleep, awakening, and a dream on the mountain.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: The passage gives a dream setting but does not describe a full journey,
+    ascent, or initiation sequence.
+- id: motif:2
+  label: Maiden wooed by a Shadow
+  taxonomy_refs: []
+  basis: The addressee, described in relation to maidenhood and admired life, is now
+    said to be wooed by a Shadow.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not explain the nature of the Shadow or state whether
+    it is divine, ancestral, dead, or metaphorical.
+- id: motif:3
+  label: Dawn-associated beloved
+  taxonomy_refs: []
+  basis: Varenga is associated with “the sun rising,” and the surrounding lines refer
+    to watching for dawn.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage associates Varenga with dawn imagery but does not elaborate
+    a broader solar myth pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 10528-10530
+  quote_or_summary: "“UNUUNU TORU.” followed by the Mangaian line “Kua veru te are
+    i Kauava e !”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: 10532-10534
+  quote_or_summary: "“Thou wert watching for the dawn / When I awoke from my sleep
+    / On the steep mountain side.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: 10536-10540
+  quote_or_summary: "“Varenga, who came from ‘the sun rising:’ / Yes, my Varenga!”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: quote
+  locator: 10542-10544
+  quote_or_summary: "“Miru will cherish thee in thy maidenhood — / Thy lovely maidenhood!”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: summary
+  locator: 10546-10550
+  quote_or_summary: The addressee is described as having been the admiration of all
+    in life wherever her light steps wandered.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 10552-10554
+  quote_or_summary: "“Now thou art wooed by a Shadow!”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:7
+  type: quote
+  locator: '10555'
+  quote_or_summary: "“Such was my dream on the mountain.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is mostly direct, but the identity of the addressee across
+    pronouns is inferred from the immediate address to Varenga. No comparison claims
+    are made because the passage itself does not supply a comparison to another tradition
+    or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy motif-family references were not assigned because the passage does not clearly support the available motif-family labels without external context.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l10528-l10555
+  passage_sha256=3a601389ae1562078dad3567ba625b54fb8623adffc5e8a4689c7d1cad5c8f87
+

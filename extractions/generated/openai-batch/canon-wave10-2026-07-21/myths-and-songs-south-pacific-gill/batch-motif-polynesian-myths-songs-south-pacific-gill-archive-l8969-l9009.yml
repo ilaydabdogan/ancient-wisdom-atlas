@@ -1,0 +1,273 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l8969-l9009
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: CIRCA    1770. / TUMU. / INTRODUCTION. / PAPA.; lines 8969-9009
+  start: '8969'
+  end: '9009'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A dirge or death-talk for Vera is attributed to Uanuku and described as
+    a partial weeping. In the translated introduction, a solo voice is placed at Vairorongo
+    toward the setting sun, asks others to remain for the evening, and says it is
+    going far away from its mother. The chorus identifies the route as a perilous
+    path to spirit-land. The following PAPA stanza, not translated in the supplied
+    passage, names Vera and Mangaia.
+  language: Mangaian and English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a dirge or death-talk for Vera, composed by Uanuku,
+    and identified as a partial weeping dated circa 1770.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The translated introduction locates the solo at Vairorongo toward the setting
+    sun.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The solo voice asks others to tarry for the evening.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The solo voice says it goes far away and addresses a mother.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The chorus describes the way as a perilous path to spirit-land.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The PAPA stanza in the supplied text names Vera and Mangaia.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Uanuku
+  description: Named as the composer of the dirge.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Vera
+  description: Named in the title as the person for whom the dirge is composed and
+    named again in the PAPA stanza.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: solo voice
+  description: The voice in the translated introduction that says it goes far away
+    and addresses a mother.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: chorus
+  description: The choral voice that states the route is a perilous path to spirit-land.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: mother addressed by the solo
+  description: The addressee called mother by the solo voice.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: composer
+  assigned_to:
+  - fig:1
+  basis: The heading states that the dirge was composed by Uanuku.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: named subject of dirge
+  assigned_to:
+  - fig:2
+  basis: The title calls the passage a dirge for Vera, and the PAPA stanza also names
+    Vera.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: departing first-person speaker
+  assigned_to:
+  - fig:3
+  basis: The solo voice says, 'I go far away, mother.'
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: choral responder
+  assigned_to:
+  - fig:4
+  basis: The chorus supplies the line about the perilous path to spirit-land.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: maternal addressee
+  assigned_to:
+  - fig:5
+  basis: The solo voice addresses 'mother.'
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Vairorongo at sunset
+  literal_form: Vairorongo, toward the setting sun
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: evening tarrying
+  literal_form: this evening
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: perilous path
+  literal_form: a perilous path to spirit-land
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: spirit-land
+  literal_form: spirit-land
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dirge framing
+  summary: The piece is presented as a dirge or death-talk for Vera, composed by Uanuku
+    and described as a partial weeping.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Evening departure toward spirit-land
+  summary: At Vairorongo toward sunset, a solo voice asks others to remain for the
+    evening and says it goes far away from its mother; the chorus identifies the route
+    as a perilous path to spirit-land.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: PAPA stanza naming Vera
+  summary: The supplied PAPA stanza is untranslated here but visibly names Vera and
+    Mangaia.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: journey to spirit-land by a perilous path
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The speaker says it goes far away, and the chorus specifies that the route
+    is a perilous path to spirit-land.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage provides only a brief lyric statement, not a detailed map
+    of stages or destinations.
+- id: motif:2
+  label: departure from kin or community
+  taxonomy_refs:
+  - departure
+  basis: The solo voice asks others to tarry this evening and addresses the mother
+    while saying it goes far away.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The identity of the first-person speaker is not explicitly stated in the
+    supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8969-8975
+  quote_or_summary: '"DIRGE FOR VERA: A DEATH-TALK"; "COMPOSED BY UANUKU"; "A ''TIAU,''
+    OR PARTIAL WEEPING."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: INTRODUCTION translation, lines 8983-8993
+  quote_or_summary: '"At Vairorongo, towards the setting sun"; "Tarry with us this
+    evening. I go far away, mother,"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: INTRODUCTION chorus translation, lines 8994-8997
+  quote_or_summary: '"By a perilous path to spirit-land."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: PAPA, lines 8998-9009
+  quote_or_summary: '"Pare mai Vera i te kau ara, / Ariua te mata i Mangaia."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The translated introduction clearly supports the departure and spirit-land
+    path motifs. The PAPA stanza is not translated in the supplied passage, so extraction
+    from it is limited to visible names and forms.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself establish a specific cross-textual comparison beyond candidate motif classification.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l8969-l9009
+  passage_sha256=754df0e4e2f0d2ca6a94eb546f232e5d83d7ea5852550daf260b9c5be9beb05b
+

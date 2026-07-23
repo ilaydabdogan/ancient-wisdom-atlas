@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l23166-l23183
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XXXVI. / NINTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OP  THE  YNCAS.
+    / NINTH  BOOK  OF  THE  ROYAL; lines 23166-23183
+  start: '23166'
+  end: '23183'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Chiefs loyal to Huascar are taken in manacles to a level space in the valley
+    of Sacsahuana and formed into a lane. Huascar, dressed in mourning with his hands
+    tied and a rope around his neck, is led through them. Those who lament, prostrate
+    themselves, and worship him are killed with small axes called champi, so that
+    nearly all the Curacas and captains die before their king.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Chiefs devoted to Huascar are taken in manacles to a level space in the valley
+    of Sacsahuana.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The captive chiefs are formed into a long lane.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Huascar is dressed in mourning, with his hands tied behind his back and a
+    rope around his neck.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Huascar is led down the lane formed by his people.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: On seeing Huascar fallen, his people cry, lament, cast themselves on the ground
+    before him, and adore and worship him because they can no longer help him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: All who prostrate themselves and worship Huascar are slain with small axes
+    called champi.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Nearly all the Curacas and captains are slain in the presence of their king,
+    and scarcely one escapes.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The valley of Sacsahuana is identified as the later battlefield of President
+    Gasca and Gonzalo Pizarro.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Huascar
+  description: A fallen prince or king, dressed in mourning, with hands tied behind
+    his back and a rope around his neck, led before his people.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: chiefs, Curacas, and captains devoted to Huascar
+  description: Captive loyalists taken in manacles, arranged in a lane, lamenting
+    and worshipping Huascar, and then slain with axes.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: bound fallen prince or king
+  assigned_to:
+  - fig:1
+  basis: Huascar is led out in mourning with tied hands and a rope around his neck,
+    and his people see him as fallen.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: adored ruler
+  assigned_to:
+  - fig:1
+  basis: His people cast themselves on the ground before him to adore and worship
+    him.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: loyal captive chiefs and captains
+  assigned_to:
+  - fig:2
+  basis: They are described as chiefs devoted to Huascar, later as Curacas and captains,
+    and are taken in manacles.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: executed worshippers or retainers
+  assigned_to:
+  - fig:2
+  basis: Those who lament and worship Huascar are slain, with nearly all Curacas and
+    captains killed before him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: manacles
+  literal_form: manacles placed on the chiefs devoted to Huascar
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mourning dress
+  literal_form: Huascar's dress of mourning
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bindings on Huascar
+  literal_form: hands tied behind his back and a rope around his neck
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: lane of captives
+  literal_form: a long lane formed of Huascar's people
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:5
+  label: prostration before the fallen prince
+  literal_form: people casting themselves on the ground before Huascar to adore and
+    worship him
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: champi axes
+  literal_form: small axes called champi used to slay the worshippers
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Sacsahuana valley
+  literal_form: a level space in the valley of Sacsahuana
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: Captive assembly in Sacsahuana
+  summary: Chiefs devoted to Huascar are brought in manacles to a level space in Sacsahuana
+    and arranged into a long lane.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Huascar led through his people
+  summary: Huascar, dressed in mourning and bound with tied hands and a neck rope,
+    is led down the lane formed by his people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Lamentation and execution before the king
+  summary: Huascar's people lament, prostrate themselves, and worship him; those who
+    do so are killed with champi axes, leaving nearly all Curacas and captains dead
+    in the king's presence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: fallen ruler publicly led bound before his people
+  taxonomy_refs: []
+  basis: Huascar is presented in mourning, tied, and with a rope around his neck while
+    being led down a lane formed by his people.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is framed as historical chronicle rather than explicit mythic
+    or ritual explanation.
+- id: motif:2
+  label: loyalists killed for lamenting and worshipping their fallen ruler
+  taxonomy_refs: []
+  basis: The people cry, lament, prostrate themselves, and worship Huascar; all who
+    do this are slain with champi axes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The label abstracts a narrative pattern from the described events; the
+    passage does not name it as a ritual motif.
+- id: motif:3
+  label: mass execution of nobles in the presence of their king
+  taxonomy_refs: []
+  basis: Nearly all the Curacas and captains are said to be slain in the presence
+    of their king, with scarcely anyone escaping.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No direct cosmological or supernatural symbolism is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23167-23172
+  quote_or_summary: Chiefs devoted to Huascar are taken in manacles to a level space
+    in the valley of Sacsahuana and formed into a long lane.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 23172-23175
+  quote_or_summary: Huascar is taken in a dress of mourning, with hands tied behind
+    his back and a rope around his neck, and led down the lane formed by his people.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 23175-23179
+  quote_or_summary: Seeing their prince fallen, the people cry and lament, cast themselves
+    on the ground before him, and adore and worship him because they can no longer
+    help him.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 23179-23183
+  quote_or_summary: All who perform the act of worship are slain with small axes called
+    champi; nearly all Curacas and captains are killed in the presence of their king,
+    with scarcely one escaping.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: 23168-23170
+  quote_or_summary: The valley of Sacsahuana is identified as the place where a later
+    battle occurred between President Gasca and Gonzalo Pizarro.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main actions, figures, and objects are explicit. Motif labels are cautious
+    abstractions from a historical chronicle passage. No comparison claims are made
+    because the passage itself does not support a specific cross-textual or cross-traditional
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Chapter-heading text in the supplied line range is non-narrative; extraction focuses on the narrative content about Huascar and his loyal chiefs.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l23166-l23183
+  passage_sha256=6324fc47eb812cd7a5b214545b2e7f648738aacf0de006d94f9cfaa191efd571
+

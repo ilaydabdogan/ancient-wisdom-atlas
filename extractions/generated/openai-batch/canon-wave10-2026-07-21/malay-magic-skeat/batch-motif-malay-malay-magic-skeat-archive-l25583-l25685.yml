@@ -1,0 +1,413 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l25583-l25685
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: COCK-FIGHTING  ON  THE  EAST  COAST / DANCES , SPORTS , GAMES / THE  FIGHT
+    / WEST  COAST  CUSTOMS; lines 25583-25685
+  start: '25583'
+  end: '25685'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes West Coast Malay customs concerning cock-fighting.
+    It reports that Malays value fighting-cocks highly, gives an anecdote in which
+    a Raja kills a boy for damaging a royal cock's tail feathers, and then summarizes
+    a Malay manuscript classification of game-cock breeds, colors, spurs, and methods
+    of attaching spurs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Malays are said to regard fighting-cocks with great respect and to value
+    them next to their children.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A boy in charge of a Raja's cock accidentally pulled feathers from the bird's
+    tail.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Raja struck the boy on the head with a billet of wood, and the boy died.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Raja described the killing as a lesson to others about handling his fighting-cocks.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The father of the young Raja treated the killing as a boyish prank and said
+    that killing one or two people by his own hand would teach men to fear him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A Malay manuscript lists named breeds of game-cocks and describes their colors
+    and physical features.
+  category: object
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:7
+  text: The Teddong breed is described with black eyes and legs, red and black plumage,
+    and a black beak, and is named from a serpent whose bite is considered mortal.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: 'Two kinds of artificial spurs are described: a straight knife-shaped form
+    and a curved spur.'
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: Several methods of tying the spur onto a cock are named and described by their
+    placement on the leg or toes.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Malays
+  description: Collective group said to respect fighting-cocks and value them highly.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Fighting-cocks / game-cocks
+  description: Birds valued highly, classified by breed and appearance, and fitted
+    with spurs for fighting.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: Raja / Prince
+  description: Owner of the cock whose tail feathers were accidentally pulled; he
+    kills the boy servant with a billet of wood.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Boy servant
+  description: A boy in charge of the Raja's cock who accidentally damages the bird's
+    tail feathers and is killed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Father of the young Raja
+  description: A royal father who excuses the killing and frames it as a way for men
+    to learn fear of the young Raja.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: community valuing fighting-cocks
+  assigned_to:
+  - fig:1
+  basis: The passage states that Malays regard the birds with immense respect and
+    value fighting-cocks next to children.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: prestige fighting animal
+  assigned_to:
+  - fig:2
+  basis: The birds are highly valued, classified by breed, and equipped with fighting
+    spurs.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:9
+  - ev:10
+- id: role:3
+  label: royal owner of protected animal
+  assigned_to:
+  - fig:3
+  basis: The cock belongs to a Raja, who reacts violently when its feathers are pulled.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: violent enforcer
+  assigned_to:
+  - fig:3
+  basis: The Raja strikes the boy dead and says this will teach people to handle his
+    fighting-cocks carefully.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: servant victim
+  assigned_to:
+  - fig:4
+  basis: The boy is in charge of the cock, accidentally pulls tail feathers, and is
+    killed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: royal apologist
+  assigned_to:
+  - fig:5
+  basis: The father of the young Raja excuses the killing and says fear of the Raja
+    is useful.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fighting-cock
+  literal_form: Highly valued game-cock used in cock-fighting.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: tail feathers
+  literal_form: Feathers accidentally pulled from the royal cock's tail.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: billet of wood
+  literal_form: Piece of wood used by the Raja to strike the boy on the head.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: cock-fighting spurs
+  literal_form: Artificial spurs, including a straight knife-shaped spur and a curved
+    spur, tied onto the cock.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:5
+  label: serpent-named breed
+  literal_form: The Teddong game-cock breed, named from a serpent whose bite is considered
+    mortal.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Royal punishment for damaging a fighting-cock
+  summary: A boy accidentally pulls feathers from a Raja's cock; the Raja rebukes
+    him and kills him with a billet of wood, saying the act will teach others to handle
+    his fighting-cocks carefully.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Royal father excuses the killing
+  summary: When the killing is reported, the father of the young Raja calls it a boyish
+    prank and says that personal killing will teach men to fear him.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Classification and equipment of game-cocks
+  summary: A Malay manuscript lists breeds of game-cocks, describes their colors and
+    features, and explains types and placements of spurs used in cock-fighting.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: prestige animal protected by extreme punishment
+  taxonomy_refs: []
+  basis: A royal fighting-cock is treated as important enough that accidental damage
+    to its feathers leads to the boy servant's death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is an ethnographic anecdote, not a mythic narrative; the motif
+    label is descriptive rather than a fixed taxonomy match.
+- id: motif:2
+  label: royal violence as a lesson in fear
+  taxonomy_refs: []
+  basis: The Raja states that the killing will teach people to handle his fighting-cocks
+    carefully, and his father says killing one or two people will teach men to fear
+    him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a social-political pattern in the passage; it is not explicitly
+    presented as royal legitimation or sacred kingship.
+- id: motif:3
+  label: martial animal equipped with artificial weapons
+  taxonomy_refs: []
+  basis: The passage describes knife-shaped and curved spurs and multiple methods
+    of tying them onto fighting-cocks.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The motif is based on technical cock-fighting practice rather than symbolic
+    interpretation.
+- id: motif:4
+  label: animal breed named after a deadly serpent
+  taxonomy_refs:
+  - serpent
+  basis: The Teddong game-cock breed is said to be named from a serpent whose bite
+    is accounted mortal.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage gives an etymological or descriptive association only; it
+    does not state that the cock embodies serpent qualities beyond the name.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 25583-25588
+  quote_or_summary: The passage says Malays regard the birds with great respect and
+    value fighting-cocks next to their children.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 25588-25596
+  quote_or_summary: A boy in charge of a cock belonging to a Raja accidentally pulls
+    feathers from the bird's tail and says it was not done on purpose.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 25597-25603
+  quote_or_summary: The Prince lifts a nearby billet of wood and strikes the boy on
+    the head so that he dies.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 25604-25609
+  quote_or_summary: The Raja says the killing will teach his people to be careful
+    in how they handle his fighting-cocks.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 25610-25618
+  quote_or_summary: The father of the young Raja calls the matter a boyish prank and
+    adds that killing one or two people by his own hand will teach men to fear him.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 25619-25631
+  quote_or_summary: Newbold introduces a Malay manuscript on cock-fighting that begins
+    with remarks on breeds of game-cocks.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 25632-25663
+  quote_or_summary: The manuscript lists breeds such as Biring, Jalak, Teddong, Chenantan,
+    Ijou, Pilas, Bongkas, Su, Belurong, and Krabu, and describes their colors, feet,
+    beaks, eyes, legs, and plumage.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 25645-25649
+  quote_or_summary: The Teddong is described as having black eyes and legs, red and
+    black plumage, and a black beak; it is named from a serpent whose bite is considered
+    mortal.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 25664-25669
+  quote_or_summary: 'Two kinds of spurs are described: the Golok Golok, shaped like
+    a straight Malay knife, and the Taji Benkok, a curved spur that is most in vogue.'
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 25670-25685
+  quote_or_summary: The passage names several modes of tying on a cock's spur, placing
+    it below, level with, or above the natural spur, near the knee, close to feathers,
+    on toes, or binding several toes together with the spur.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mostly ethnographic and technical rather than mythic. Motif
+    candidates are descriptive and should be reviewed before use in comparative mythology
+    contexts. No comparison claims were added because the passage itself does not
+    support historical or cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were limited to the explicit serpent association in the Teddong breed name.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l25583-l25685
+  passage_sha256=5e36ee83eed4016b12ca0138f9408b878840a57b98ef07601b5907ace3cda0ca
+

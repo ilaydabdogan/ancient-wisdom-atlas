@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l12387-l12471
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: THE  GUTTA-PERCHA  SPIRIT / RULES  FOR  PLANTING / CULTIVATION  OF  RICE
+    / SOWING; lines 12387-12471
+  start: '12387'
+  end: '12471'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“the ‘chief of the seed,’ i.e. ‘mother-seed,’”"
+  summary: 'The passage gives instructions for sowing rice: preparing plots and a
+    nursery, drying and soaking seed-grain and mother-seed, ritually treating the
+    nursery with benzoin and tepong tawar, sowing mother-seed first in a special corner,
+    managing water as seedlings develop, and preparing other plots by ploughing and
+    harrowing.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A cultivator with many plots begins by ploughing half of them and prepares
+    a nursery plot at the end of Zilhijah so it will be ready about ten days later.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Seed-grain and mother-seed are laid out separately to dry, soaked in a vessel
+    for two days and two nights, strained, spread evenly on a mat with fresh leaves,
+    and sprinkled with water every afternoon until the germ breaks through.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: While the seed soaks, the nursery plot is ploughed again, harrowed, levelled,
+    ditched, allowed to settle, and smoothed after embankments are mended.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When the seed has sprouted, benzoin supplied by the Pawang is burnt and the
+    nursery plot is sprinkled with tepong tawar.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The mother-seed, called the chief of the seed, is sown first in a specially
+    prepared corner of the nursery; the remaining seed is then sown over the whole
+    plot.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage recommends sowing in plenty of water and during the dark half
+    of the month so that the seedlings may be preserved from insects.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Water is drawn off after the first shoots rise, and later let back in gradually
+    when the shoots have become blades, so the seedling stalks may thicken.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The seedlings remain in the nursery at least forty or forty-four days, with
+    seventy days described as best.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Other plots are ploughed, embankments are mended, plots are harrowed, weeds
+    are allowed to rot in water as manure, and a second ploughing and harrowing follow.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: cultivator or man with plots
+  description: The person who owns or works multiple plots and performs the sowing
+    and field-preparation procedures.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:9
+- id: fig:2
+  name_or_label: Pawang
+  description: The ritual specialist named as the supplier of benzoin used before
+    sowing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: field preparer and sower
+  assigned_to:
+  - fig:1
+  basis: The passage describes this figure ploughing plots, preparing the nursery,
+    processing seed, sowing mother-seed and seed, and managing fields.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:9
+- id: role:2
+  label: ritual supplier
+  assigned_to:
+  - fig:2
+  basis: The benzoin burnt at the nursery plot is said to be supplied by the Pawang.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water used for soaking seed, sprinkling germinating seed, keeping
+    the nursery wet, draining the plot, and later reintroducing water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:9
+- id: sym:2
+  label: mother-seed or chief of the seed
+  literal_form: rice seed designated as mother-seed and sown first in a special corner
+    of the nursery
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: benzoin
+  literal_form: benzoin supplied by the Pawang and burnt before sowing
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: tepong tawar
+  literal_form: a mixture including rice-flour and water, applied by dipping a bundle
+    of leaves and sprinkling it about
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:10
+- id: sym:5
+  label: dark half of the month
+  literal_form: lunar timing specified for sowing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: preparation of seed and nursery
+  summary: The seed-grain and mother-seed are dried, soaked, strained, spread on leaves,
+    sprinkled with water, and taken to a nursery plot that has been ploughed, harrowed,
+    levelled, ditched, and smoothed.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: ritual beginning of sowing
+  summary: After sprouting, benzoin supplied by the Pawang is burnt, the nursery is
+    sprinkled with tepong tawar, the mother-seed is sown first in a special corner,
+    and the rest of the seed is sown over the plot.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:10
+- id: scene:3
+  label: water and lunar timing for seedlings
+  summary: The sowing is advised to take place in abundant water and during the dark
+    half of the month; water is then drained and later restored according to the seedlings’
+    stages of growth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: preparation of the remaining fields
+  summary: While the seedlings grow, other plots are ploughed, embanked, harrowed,
+    soaked so weeds rot into manure, and then ploughed and harrowed again.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: ritualized rice sowing within an agricultural cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage orders rice sowing by month, seed preparation, lunar timing,
+    nursery duration, seedling stages, and later field preparation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage is procedural and agricultural; its mythic or symbolic dimension
+    is limited to ritual elements embedded in farming instructions.
+- id: motif:2
+  label: first sowing of a designated mother-seed
+  taxonomy_refs: []
+  basis: The mother-seed, also called the chief of the seed, is kept separate and
+    sown first in a specially prepared corner before the rest of the seed is sown.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain the theological or mythic meaning of mother-seed,
+    so interpretation should remain literal.
+- id: motif:3
+  label: fumigation and sprinkling before planting
+  taxonomy_refs: []
+  basis: Before sowing, benzoin is burnt and the plot is sprinkled with tepong tawar
+    made with rice-flour, water, and leaves.
+  evidence_refs:
+  - ev:4
+  - ev:10
+  confidence: high
+  cautions: The passage describes a ritual action but does not state whether it is
+    an offering, purification, blessing, or another category.
+- id: motif:4
+  label: protective timing by the dark half of the month
+  taxonomy_refs: []
+  basis: The time for sowing is specified as the dark half of the month, with the
+    stated purpose of preserving seedlings from being eaten by insects.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: Only this practical protective reason is given; broader lunar symbolism
+    is not stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12387-12395
+  quote_or_summary: A man with many plots ploughs half of them and prepares the nursery
+    plot at the end of Zilhijah to be ready in about ten days.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 12396-12414
+  quote_or_summary: Seed-grain and mother-seed are dried separately, soaked in a bucket
+    or pot for two days and nights, strained, spread on a mat with fresh leaves, and
+    sprinkled daily with water until germination.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 12415-12424
+  quote_or_summary: During soaking, the nursery plot is ploughed, harrowed, levelled,
+    ditched, settled, embanked, and smoothed.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 12424-12427
+  quote_or_summary: "“Benzoin supplied by the Pawang is burnt, and the plot sprinkled
+    with tepong tawar.”"
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 12427-12433
+  quote_or_summary: The sowing begins with the “chief of the seed,” identified as
+    mother-seed, in a specially prepared corner about two yards square; afterward
+    the rest of the seed is sown over the plot.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized with brief quoted phrase.
+- id: ev:6
+  type: summary
+  locator: 12433-12450
+  quote_or_summary: The plot should contain plenty of water during sowing, and sowing
+    should be during the dark half of the month to preserve seedlings from insects.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 12451-12460
+  quote_or_summary: After three days shoots rise like needles and water is drawn off;
+    after later stages, water is gradually let back in so the stalks grow thick.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 12461-12465
+  quote_or_summary: Seedlings remain in the nursery at least forty or forty-four days,
+    and preferably until about seventy days old.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 12466-12471
+  quote_or_summary: While seedlings are in the nursery, other plots are ploughed,
+    embankments are mended, plots are harrowed, weeds rot in water as manure, and
+    a second ploughing and harrowing are performed.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: footnote within 12387-12471
+  quote_or_summary: Tepong tawar is described as rice-flour mixed with water and plant
+    materials; a bundle of leaves is dipped into it and used to sprinkle it about.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Procedural actions and objects are explicit. Motif labels are cautious because
+    the passage gives ritualized agricultural instructions but little explicit interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare these practices with another tradition or motif family beyond supporting candidate motifs.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l12387-l12471
+  passage_sha256=07d10350411e8becf4da2051291adaeced002873d441a633046f18c7b0e15540
+

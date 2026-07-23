@@ -1,0 +1,363 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l18965-l19006
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: BIRTH  CEREMONIES / ROCKING  THE  CRADLE / BIRTH  CEREMONIES / NAMING  THE  CHILD;
+    lines 18965-19006
+  start: '18965'
+  end: '19006'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Malay infant rites involving a betel-leaf mixture
+    applied to the child, naming within the first week, temporary re-adoption and
+    renaming if illness follows naming, black cloth wrist and ankle bindings called
+    tumpang sayang, and later first shaving and nail-cutting with the remains deposited
+    at the foot of a shady tree.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A betel-leaf mixture, including pounded leaves and wood chips, is ejected
+    from a woman's mouth onto the pit of the child's stomach.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mixture includes bunglei, chekor, jerangau, brazil-wood, ebony, sugar-palm
+    twigs, and sometimes small portions of other bamboo or palm materials.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The child is generally named within the first week.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The author reports not having heard of a special naming ceremony, while stating
+    that naming is most probably considered a religious act.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: If the child becomes ill directly after naming, the child may be temporarily
+    re-adopted by a third party and given a different name.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In the temporary re-adoption rite, black cloth bracelets and anklets are placed
+    on the child's wrists and ankles, and the ceremony is called tumpang sayang.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A few days later, the child's head is shaved and the child's nails are cut
+    for the first time.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: For the head-shaving, a red lather is made from fine rice-flour mixed with
+    gambier, lime, and betel-leaf.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Some people shave the child's head clean, while others leave a central lock
+    called jambul.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The remaining red lather and clippings of hair, and possibly nails, are received
+    in a rolled-up yam-leaf or possibly a coconut and deposited at the foot of a shady
+    tree, such as a banana or possibly a pomegranate.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the child
+  description: The infant who receives the naming, possible re-adoption and renaming,
+    black cloth wrist and ankle bindings, and first shaving and nail-cutting.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: unnamed female ritual actor
+  description: A female person implied by the pronoun 'her' who ejects the betel-leaf
+    mixture from her mouth onto the child's stomach.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: third party
+  description: A person who may temporarily re-adopt the child and give the child
+    a different name if illness follows naming.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: infant recipient of birth and naming rites
+  assigned_to:
+  - fig:1
+  basis: The child receives the stomach application, naming, possible re-adoption
+    and renaming, black cloth bindings, and later shaving and nail-cutting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: applier of ritual mixture
+  assigned_to:
+  - fig:2
+  basis: The passage states that the mixture is ejected out of her mouth onto the
+    pit of the child's stomach.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: temporary adopter and renamer
+  assigned_to:
+  - fig:3
+  basis: The passage says a third party may temporarily re-adopt the child and give
+    it a different name.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: betel-leaf compound
+  literal_form: Betel-leaf mixed with pounded leaves, wood chips, sugar-palm twigs,
+    and sometimes other bamboo or palm materials.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: black cloth bracelets and anklets
+  literal_form: Bracelets and anklets made of black cloth, placed on the child's wrists
+    and ankles.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: red lather
+  literal_form: Red lather made from fine rice-flour, gambier, lime, and betel-leaf
+    for the child's head-shaving.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: central lock
+  literal_form: A central lock of hair called jambul, sometimes left when the child's
+    head is shaved.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: hair and possible nail clippings
+  literal_form: Clippings from the child's first hair-cutting, and possibly nail-cutting.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: leaf or coconut receptacle
+  literal_form: A rolled-up yam-leaf or possibly a coconut used to receive the remaining
+    red lather and clippings.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: shady tree deposition place
+  literal_form: The foot of a shady tree, such as a banana or possibly a pomegranate,
+    where the remains are deposited.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Application of betel-leaf mixture to the infant
+  summary: An unnamed female ritual actor ejects a betel-leaf mixture from her mouth
+    onto the pit of the child's stomach.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Naming and possible tumpang sayang re-adoption
+  summary: The child is named within the first week; if illness follows the naming,
+    a third party may temporarily re-adopt and rename the child, with black cloth
+    bracelets and anklets placed on the child.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: First shaving, nail-cutting, and deposition of remains
+  summary: A few days later the child's head is shaved and nails cut for the first
+    time; red lather and clippings are collected and deposited at the foot of a shady
+    tree.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Protective application of a plant-and-wood mixture to an infant
+  taxonomy_refs: []
+  basis: The passage describes a prepared betel-leaf mixture ejected from a woman's
+    mouth onto the pit of the child's stomach.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage begins mid-context and does not explicitly state the purpose
+    of the application.
+- id: motif:2
+  label: Naming as consequential infant rite
+  taxonomy_refs: []
+  basis: The child is named within the first week, and the name is described as important
+    because illness after naming may prompt temporary re-adoption and a different
+    name.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The author says no special naming ceremony was known to him and only infers
+    that naming is probably religious.
+- id: motif:3
+  label: Illness-triggered temporary re-adoption and renaming
+  taxonomy_refs: []
+  basis: If the child becomes ill after naming, the child may be temporarily re-adopted
+    by a third party and given a different name.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the underlying rationale for the re-adoption
+    or name change.
+- id: motif:4
+  label: Black cloth bindings in tumpang sayang
+  taxonomy_refs: []
+  basis: The temporary re-adoption ceremony includes black cloth bracelets and anklets
+    placed on the child's wrists and ankles and is named tumpang sayang.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage records the objects and name of the ceremony but does not
+    interpret their meaning.
+- id: motif:5
+  label: First hair and nail cutting with deposition at a tree
+  taxonomy_refs: []
+  basis: The child's first shaving and nail-cutting are followed by collecting red
+    lather and clippings in a leaf or coconut and depositing them at the foot of a
+    shady tree.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage marks some details as uncertain, including whether nails are
+    included, whether a coconut may be used, and whether the tree may be pomegranate.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18965-18975
+  quote_or_summary: Betel-leaf mixed with ingredients is ejected from a woman's mouth
+    onto the pit of the child's stomach; ingredients include several pounded leaves,
+    wood chips, sugar-palm twigs, and sometimes bamboo or palm materials.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from passage.
+- id: ev:2
+  type: summary
+  locator: 18976-18981
+  quote_or_summary: The child is generally named within the first week; the author
+    reports no known special naming ceremony but says naming is probably considered
+    a religious act.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from passage.
+- id: ev:3
+  type: summary
+  locator: 18981-18987
+  quote_or_summary: If illness occurs directly after naming, the child may be temporarily
+    re-adopted by a third party and given another name; black cloth bracelets and
+    anklets are placed on the child in a ceremony called tumpang sayang.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from passage.
+- id: ev:4
+  type: summary
+  locator: 18988-18992
+  quote_or_summary: A few days later, the child's head is shaved and nails cut for
+    the first time; red lather for shaving is made from rice-flour, gambier, lime,
+    and betel-leaf.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from passage.
+- id: ev:5
+  type: summary
+  locator: 18993-19001
+  quote_or_summary: Some shave the head clean and others leave a central lock; red
+    lather and hair clippings, and possibly nails, are collected in a yam-leaf or
+    possibly coconut and deposited at the foot of a shady tree such as banana or possibly
+    pomegranate.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is mostly clear. Motif labels are descriptive rather than
+    mapped to taxonomy families because the passage reports ritual actions without
+    broader mythic comparison. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference applied only to the explicitly present tree symbol.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l18965-l19006
+  passage_sha256=84b0e491c810c719d43282aecb23804a11d9c9d308015c9a15feb8fe86f0a5a9
+

@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l27051-l27090
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: HANTU  MUSANG / DANCES , SPORTS , GAMES / THE  MALA  Y DRAMA / THEATRICAL  EXHIBITIONS;
+    lines 27051-27090
+  start: '27051'
+  end: '27090'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Malay theatrical exhibitions as locally modified
+    traditions derived especially from the Ramayana and describes the opening of a
+    performance site through the Buka Panggong ceremony, in which a pawang leads incense-burning
+    and an incantation repeated by the troupe to invoke and propitiate spirits.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the theatrical exhibitions owe their origin to old
+    classical Indian epics, especially the Ramayana, and that the tradition was modified
+    by local colouring in Java, Siam, and the Malay Peninsula.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the account will focus on ritual accompanying dramatic representations
+    and the ideas and superstitions they seem to involve.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The most important ceremony relating to the Malay theatre is described as
+    inaugurating or opening a site for performance.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A company intending to open at a place erects a small square shed, open on
+    all four sides, roofed, with a hand-rail around it; the shed is called a Bangsal
+    and the enclosed space is called Panggong.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Before the play begins, the Buka Panggong ceremony is performed with the stated
+    object of invoking and propitiating certain spirits.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The company enters the shed and takes seats; a brazier is placed in front
+    of the Pawang, who is also called the Medicine-Man and head of the theatrical
+    troop.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Precious woods and spices are burned in the brazier; incense ascends while
+    the Pawang intones an incantation and the other members repeat each sentence in
+    chorus.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: theatrical company or troop
+  description: The performing company that erects the Bangsal, enters the shed, takes
+    seats, and repeats the Pawang's incantation sentences in chorus.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Pawang / Medicine-Man
+  description: The ritual specialist described as the Pawang or Medicine-Man and as
+    head of the theatrical troop; a brazier is placed in front of him and he intones
+    the incantation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: certain spirits
+  description: Spirits named only as the beings invoked and propitiated by the Buka
+    Panggong ceremony.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ritual officiant and head of theatrical troop
+  assigned_to:
+  - fig:2
+  basis: The passage places the brazier before the Pawang, identifies him as Medicine-Man
+    and head of the troop, and says he intones the incantation.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: choral participants in the ceremony
+  assigned_to:
+  - fig:1
+  basis: The other members of the troop repeat each sentence after the Pawang in chorus.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: invoked and propitiated spirits
+  assigned_to:
+  - fig:3
+  basis: The Buka Panggong ceremony has the stated object of invoking and propitiating
+    certain spirits.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Bangsal and Panggong performance space
+  literal_form: A small square shed open on all four sides but roofed, with a hand-rail;
+    the enclosed space is termed Panggong.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: brazier with burning woods and spices
+  literal_form: A brazier placed in front of the Pawang, in which precious woods and
+    spices are burned while incense ascends.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: incantation with choral repetition
+  literal_form: The Pawang intones an incantation and the other troop members repeat
+    each sentence in chorus.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Opening the performance site
+  summary: A theatrical company intending to perform erects the Bangsal, establishing
+    the Panggong, and the site is opened through the Buka Panggong ceremony before
+    the play begins.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Incense and incantation led by the Pawang
+  summary: After the company enters the shed and sits, a brazier is placed before
+    the Pawang; fragrant materials are burned, incense rises, the Pawang intones an
+    incantation, and the troupe repeats in chorus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ritual opening of a performance site
+  taxonomy_refs: []
+  basis: The passage identifies the chief Malay theatre ceremony as inaugurating or
+    opening the site for performance and names it Buka Panggong.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a ritual pattern in the passage, not a mythic narrative episode.
+- id: motif:2
+  label: spirit invocation and propitiation before performance
+  taxonomy_refs: []
+  basis: The Buka Panggong ceremony is explicitly said to have the object of invoking
+    and propitiating certain spirits before the play begins.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not name the spirits or describe a myth explaining them.
+- id: motif:3
+  label: ritual specialist uses incense and chanted speech
+  taxonomy_refs: []
+  basis: The Pawang presides with a brazier, burning fragrant woods and spices while
+    intoning an incantation repeated by the troupe.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The symbolic meaning of the incense or choral repetition is not explained
+    in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage frames Malay theatrical exhibitions as locally modified descendants
+    of Indian epic material, especially the Ramayana, and notes related transmission
+    in Java and Siam as well as the Malay Peninsula.
+  claim_level: common_inheritance
+  target: Ramayana-derived theatrical traditions in Java, Siam, and the Malay Peninsula
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a claim reported by the passage; the excerpt does not provide
+    primary performance texts or details proving the historical route of transmission.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 27051-27057
+  quote_or_summary: Theatrical exhibitions are said to “owe their origin” to old classical
+    Indian epics, “especially” the Ramayana, handed down with local modification in
+    Java, Siam, and the Malay Peninsula.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 27058-27064
+  quote_or_summary: The author states an intention to give an account of the ritual
+    accompanying dramatic representations and the ideas and superstitions involved.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 27065-27070
+  quote_or_summary: The most important Malay theatre ceremony is described as inaugurating
+    or opening a performance site.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 27071-27079
+  quote_or_summary: A company erects a small square open-sided roofed shed called
+    a Bangsal; the enclosed space is called Panggong.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 27079-27083
+  quote_or_summary: Before the play, Buka Panggong is performed, with the object of
+    “the invocation and propitiation of certain spirits.”
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: 27084-27090
+  quote_or_summary: The troupe sits in the shed; a brazier is placed before the Pawang
+    or Medicine-Man, precious woods and spices are burned, incense ascends, and the
+    Pawang intones an incantation repeated by the troupe in chorus.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal ritual details are explicit in the passage. Motif labels are descriptive
+    and should be reviewed for taxonomy alignment. The comparison claim is limited
+    to the passage's own statement about Ramayana-derived transmission.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No additional figures, named spirits, or incantation text are supplied in the provided excerpt.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l27051-l27090
+  passage_sha256=084167691e0da02a69cd70ae0e07231d31f4a6440a6f78620bc47c723cae1082
+

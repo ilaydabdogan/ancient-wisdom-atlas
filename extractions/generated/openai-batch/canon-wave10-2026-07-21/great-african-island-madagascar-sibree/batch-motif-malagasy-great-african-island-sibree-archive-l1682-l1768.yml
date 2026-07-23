@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l1682-l1768
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: CHAPTER  II. / MOUNTAINOUS  REGION.  23 / LAGOONS.  25 / VIRGIN  FOREST.  27;
+    lines 1682-1768
+  start: '1682'
+  end: '1768'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Madagascar's near-continuous belt of virgin forest,
+    then surveys geological evidence for extinct volcanoes, lava flows, craters, earthquake
+    shocks, and hot springs, including observations near Ankaratra and Lake Itasy
+    and a proposed volcanic line extending toward Reunion and the Comoro group.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A nearly continuous belt of virgin forest is described as running around Madagascar
+    and generally following the coastline.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On the eastern side, the forest divides into two belts, leaving a long narrow
+    valley between them; north of the valley the two lines unite.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage reports extensive evidence of recent volcanic action in much of
+    Madagascar, including extinct craters and igneous rock near Nosibe and the adjacent
+    mainland.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rev. T. Campbell is quoted as describing five nearby mountains that had been
+    active volcanoes in a remote period, with melted sides, hollowed interiors, and
+    lava flows.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator reports seeing many truncated cones in the hills surrounding
+    Lake Itasy during a journey in 1866.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage proposes that a volcanic belt may extend across Madagascar and
+    connect toward Reunion on one side and the Comoro group on the other.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Madagascar is said to have no active volcano, but slight yearly earthquake
+    shocks and hot springs are presented as signs of forces not altogether extinct.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: West of Lake Itasy, many extinct volcanoes are described, including craters
+    of different sizes and shapes, lava ridges, and lava streams near Ivoko and Iatsifitra.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Rev. T. Campbell
+  description: A Church Missionary Society member who pointed out traces of volcanic
+    agency near the Ankaratra hills and is quoted describing former volcanoes and
+    lava flows.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Narrator / authorial observer
+  description: The first-person observer who reports a journey to Lake Itasy in 1866
+    and notes truncated cones in the surrounding hills.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Dr. Mullens
+  description: Quoted observer who describes extinct volcanoes west of Lake Itasy,
+    including numerous craters and lava features.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: geographical or geological observer
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: Each figure is presented as reporting or describing visible geographical
+    or volcanic features.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: missionary informant
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Rev. T. Campbell as belonging to the Church Missionary
+    Society.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: encircling forest belt
+  literal_form: An almost continuous belt of virgin forest around Madagascar, generally
+    following the coastline.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: volcanic mountains and craters
+  literal_form: Extinct craters, truncated cones, hollow or horseshoe-shaped craters,
+    and mountains formerly active as volcanoes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: lava and igneous rock
+  literal_form: Clinkers, igneous rock, lava flows, lava ridges, lava streams, and
+    fresh black sharp lava.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: lake and hot springs
+  literal_form: Lake Itasy and hot springs occurring in various parts of Madagascar.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: forest belt around Madagascar
+  summary: The passage maps a broad virgin-forest belt around the island, noting its
+    division into two eastern lines, its widths, its long extent, and remaining unexplored
+    portions.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ankaratra-area volcanic evidence
+  summary: After noting extinct craters and igneous rock, the passage quotes Rev.
+    T. Campbell's description of mountains that had once been active volcanoes, with
+    hollow interiors and lava flows.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: regional volcanic belt and residual activity
+  summary: The passage presents a possible volcanic line from Reunion through Madagascar
+    toward the Comoro group, while noting that Madagascar has no active volcano but
+    does have earthquake shocks and hot springs.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Lake Itasy crater field
+  summary: The narrator and Dr. Mullens describe numerous cones, craters, crater walls,
+    lava ridges, and lava streams around or west of Lake Itasy.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1682-1699
+  quote_or_summary: Madagascar is described as having an almost continuous belt of
+    virgin forest around the island, divided into two eastern belts with a long valley
+    between them, averaging fifteen to twenty miles wide and totaling about 2300 miles.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1700-1727
+  quote_or_summary: The passage reports evidence of volcanic action, extinct craters,
+    and igneous rock; Rev. T. Campbell describes five mountains near Ankaratra as
+    former volcanoes with melted sides, hollowed interiors, and lava flows.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1728-1758
+  quote_or_summary: The narrator notes truncated cones near Lake Itasy and describes
+    a widespread volcanic belt possibly extending from Reunion through Madagascar
+    toward the Comoro group; Madagascar has no active volcano, but earthquake shocks
+    and hot springs are noted.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1759-1768
+  quote_or_summary: Dr. Mullens describes many extinct volcanoes west of Lake Itasy,
+    including numerous craters, cones, hollow and horseshoe forms, crater walls, lava
+    ridges, lava streams, and fresh black sharp lava near Iatsifitra.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is a physical-geographical description rather than a mythic narrative.
+    Literal landscape symbols and reported observations are extractable, but no supported
+    comparative mythological motif or comparison claim is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No candidate motifs or comparison claims were added because the passage itself supports only geographical and geological description.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l1682-l1768
+  passage_sha256=2eaf237e334c4cd9553ce8f56477d0e2f6fb7239543db7f54e44a0d939467687
+

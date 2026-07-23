@@ -1,0 +1,183 @@
+---
+record_id: batch.motif.korean-korean-folk-tales-gale-archive-l6196-l6209
+source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+passage_locator:
+  label: THE  BUDDHA '  203 / A  WONDERFUL  MEDICINE / FAITHFUL  MO / FAITHFUL  MO;
+    lines 6196-6209
+  start: '6196'
+  end: '6209'
+  translation: Korean Folk Tales - Imps, Ghosts and Fairies
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage praises Mo, a low-status slave said to lack formal knowledge
+    of ceremonial and moral teachings, for remaining pure and giving up her life out
+    of love for her husband. The narrator asks whether any ancient faithful person
+    was better than Mo, and the passage ends with the name Yi Ryuk.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mo is described as a slave and as socially very low.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mo is said not to know the first thing of Ceremony, Righteousness, Truth,
+    or Devotion.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Mo is said to act out of love for her husband.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mo is said to hold fast to her purity and yield up her life without a blemish.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage compares Mo favorably with faithful people among the ancients
+    through a rhetorical question.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Mo
+  description: A slave described as low-status, faithful, pure, and loving toward
+    her husband.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Mo's husband
+  description: Mo's husband, named only as the person for whom Mo acts out of love.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: low-status slave
+  assigned_to:
+  - fig:1
+  basis: Mo is called a slave and the lowest of the low.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: faithful wife
+  assigned_to:
+  - fig:1
+  basis: Mo is praised for love toward her husband, purity, and giving up her life
+    without blemish.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: husband beloved by Mo
+  assigned_to:
+  - fig:2
+  basis: The passage says Mo acted out of love for her husband.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Moral praise of Faithful Mo
+  summary: The narrator states that Mo, despite being a low-status slave without formal
+    knowledge of named virtues, remained pure and gave her life out of love for her
+    husband, then asks whether any ancient faithful person was better.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: faithful spouse gives life for marital devotion
+  taxonomy_refs:
+  - sacrifice
+  basis: Mo is said to yield up her life out of love for her husband while remaining
+    pure.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a moral summary, not the circumstances of Mo's
+    death or any ritual context.
+- id: motif:2
+  label: virtue surpassing social status and formal instruction
+  taxonomy_refs:
+  - wisdom
+  basis: Mo is described as a low-status slave lacking formal knowledge of Ceremony,
+    Righteousness, Truth, or Devotion, yet is praised as exceptionally faithful.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage is evaluative rather than a full narrative episode; the taxonomy
+    link to wisdom is broad.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly places Mo in comparison with faithful people among
+    the ancients and implies that she equals or surpasses them in faithfulness.
+  claim_level: same_function
+  target: faithful among the ancients
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No specific ancient figure, text, or tradition is named, so the comparison
+    cannot establish historical contact or a precise shared motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6196-6202
+  quote_or_summary: Mo is described as a slave, 'the lowest of the low,' who lacked
+    knowledge of Ceremony, Righteousness, Truth, or Devotion.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 6202-6206
+  quote_or_summary: '"out of love for her husband, she held fast to her purity and
+    yielded up her life without a blemish"'
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 6206-6209
+  quote_or_summary: The narrator asks whether even among the faithful ancients there
+    was ever anyone better than Mo, and the passage ends with the attribution 'Yi
+    Ryuk.'
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but motif classification is limited
+    because the passage is a concluding moral evaluation rather than a full narrative
+    account.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No concrete symbols from the provided symbol list appear in the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-folk-tales-gale-archive__l6196-l6209
+  passage_sha256=957fb7343b95469d941fabb739dbf0a547b5fedb6f87eed1d36434377ee40378
+

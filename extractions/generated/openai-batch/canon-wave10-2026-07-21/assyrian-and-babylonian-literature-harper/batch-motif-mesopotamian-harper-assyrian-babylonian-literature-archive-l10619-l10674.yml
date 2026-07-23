@@ -1,0 +1,377 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l10619-l10674
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: EAST   INDIA   HOUSE   INSCRIPTION / I40        ASSYRIAN   AND   BABYLONIAN   LITERATURE
+    / EAST   INDIA   HOUSE   INSCRIPTION  141 / ASSYRIAN   AND   BABYLONIAN   LITERATURE;
+    lines 10619-10674
+  start: '10619'
+  end: '10674'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A royal speaker describes adorning and fortifying Babylon with precious
+    materials, high walls, and battlements, then prays to Marduk as creator, divine
+    patron of his sovereignty, and lord of Babylon. The speaker asks Marduk to favor
+    his raised hands and prayers and identifies himself as the king and restorer of
+    Marduk's cities.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker installs ornate doors, thresholds, hinges, turrets, walls, and
+    battlements using woods, ivory, silver, gold, copper, bronze, stone, bitumen,
+    and burned brick.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker compares the city's fortifications to mountains and says the city
+    Babylon was fortified mountain-high.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The described building is filled with splendour and abundance for public spectacle.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fortification is presented as a barrier to the wicked, the perverse, and
+    the battle shaft of a terrible enemy.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker makes supplication to Marduk and lifts his hands in prayer.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:6
+  text: The prayer addresses Marduk as lord, leader of the gods, powerful prince,
+    creator of the speaker, and giver of sovereignty over all men.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker says he has not adorned any human habitation except Marduk's city
+    Babylon.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker asks Marduk to look favorably on his raised hands and hear his
+    prayers.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The speaker calls himself the king, the restorer, the clever governor, and
+    the restorer of all Marduk's cities.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: royal speaker
+  description: A first-person royal builder who fortifies Babylon, prays to Marduk,
+    and calls himself king, restorer, and clever governor.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Marduk
+  description: Addressed as lord, leader of the gods, powerful prince, creator of
+    the speaker, and the one who entrusted sovereignty to him.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: the wicked and the perverse
+  description: Persons whom the speaker says should not enter the fortified city or
+    structure.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: terrible enemy
+  description: An enemy whose battle shaft is to be kept away from the sides of the
+    wall of Babylon.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: builder-fortifier
+  assigned_to:
+  - fig:1
+  basis: The speaker describes setting gates and fortifying Babylon with walls and
+    battlements.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: supplicant
+  assigned_to:
+  - fig:1
+  basis: The speaker makes supplication to Marduk, lifts his hands, and asks that
+    his prayers be heard.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: king-restorer
+  assigned_to:
+  - fig:1
+  basis: The speaker calls himself king, restorer, clever governor, and restorer of
+    Marduk's cities.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: divine creator
+  assigned_to:
+  - fig:2
+  basis: The prayer states that Marduk created the speaker.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: divine grantor of sovereignty
+  assigned_to:
+  - fig:2
+  basis: The prayer states that Marduk entrusted the speaker with sovereignty over
+    all men.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: excluded transgressors
+  assigned_to:
+  - fig:3
+  basis: The passage says the fortification is to keep the wicked and perverse from
+    entering.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: hostile threat
+  assigned_to:
+  - fig:4
+  basis: The passage refers to keeping the battle shaft of a terrible enemy away from
+    Babylon's wall.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: mountain-high fortification
+  literal_form: The walls and battlements of Babylon are raised or fortified mountain-high
+    and compared to a mountain.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: raised hands in prayer
+  literal_form: The speaker lifts up his hands in supplication to Marduk.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: ornate city gate materials
+  literal_form: Doors of palm-wood, cedar, cypress, ushu, and ivory inlaid with silver
+    and gold and sheathed with copper; bronze thresholds and hinges.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: city wall as protective boundary
+  literal_form: The wall of Babylon is fortified to exclude the wicked and perverse
+    and to keep away the enemy's battle shaft.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: construction and adornment of Babylon
+  summary: The royal speaker describes installing costly materials and raising large
+    walls and battlements for Babylon, making the structure splendid and visible to
+    the whole world.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: protective fortification
+  summary: The speaker says he fortified Babylon mountain-high so that the wicked
+    and perverse would not enter and the enemy's weapon would be kept away from the
+    wall.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: prayer to Marduk
+  summary: The speaker lifts his hands to Marduk, acknowledges him as creator and
+    source of sovereignty, professes devotion to Babylon, and asks that his prayers
+    be heard.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: royal self-identification as restorer
+  summary: The speaker identifies himself as king, restorer, and governor who makes
+    Marduk's heart cheerful and restores Marduk's cities.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divinely granted kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The prayer says Marduk created the speaker and entrusted him with sovereignty
+    over all men.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a royal theological claim within an inscription; it
+    does not narrate an accession episode.
+- id: motif:2
+  label: king as restorer of divine cities
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The speaker calls himself king, restorer, clever governor, and restorer of
+    Marduk's cities, tying royal identity to service of the god's cities.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The motif is extracted from self-presentation rather than from a narrative
+    plot.
+- id: motif:3
+  label: sacred city as fortified cosmic spectacle
+  taxonomy_refs:
+  - world_center
+  basis: Babylon is singled out as Marduk's city, adorned uniquely, filled with splendour
+    for the spectacle of the whole world, and fortified mountain-high.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage emphasizes Babylon's uniqueness and worldwide spectacle, but
+    it does not explicitly call Babylon the world center.
+- id: motif:4
+  label: devotional building in exchange for divine favor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: After describing the adornment and fortification of Marduk's city, the speaker
+    prays for Marduk to look favorably on his raised hands and hear his prayers.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The exchange is implied by the sequence of building and petition; no explicit
+    bargain is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10619-10631
+  quote_or_summary: The speaker installs doors of fine woods and ivory inlaid with
+    precious metals, bronze thresholds and hinges, and raises walls and battlements
+    of stone, bitumen, and burned brick like a mountain.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: 10632-10643
+  quote_or_summary: The building is made splendid for the spectacle of the whole world;
+    the city Babylon is fortified mountain-high to exclude the wicked and perverse
+    and to keep away the weapon of a terrible enemy; the speaker then makes supplication
+    to Marduk and lifts his hands.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: quote
+  locator: 10644-10653
+  quote_or_summary: "“O Marduk, lord, leader of the gods... Thou hast created me,
+    and With sovereignty over all men Thou hast intrusted me.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 10654-10664
+  quote_or_summary: The speaker declares love for Marduk's exalted presence, says
+    he has adorned no city except Babylon, follows Marduk's lordship, and asks Marduk
+    to favor his raised hands and hear his prayers.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: quote
+  locator: 10665-10674
+  quote_or_summary: "“Truly I am the king, the restorer... The clever governor, The
+    restorer of all thy cities.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is direct. Motif labels are limited to evident royal-building
+    and divine-legitimation patterns in the passage. No comparison claims were made
+    because the passage itself does not explicitly compare to another tradition or
+    corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l10619-l10674
+  passage_sha256=806cc79a595bde47e52dd118bb4488fd3a3c1a5284939c8d311f00922906ea68
+

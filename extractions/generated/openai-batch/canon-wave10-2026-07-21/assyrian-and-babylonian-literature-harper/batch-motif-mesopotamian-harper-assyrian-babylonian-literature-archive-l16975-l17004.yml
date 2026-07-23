@@ -1,0 +1,440 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l16975-l17004
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: SALES   AND   PURCHASES  257 / RENTALS  259 / II.   RENTALS / CONTRACTS  CONCERNING  LABOUR       261;
+    lines 16975-17004
+  start: '16975'
+  end: '17004'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A legal rental contract records a long-term field lease between Baga'miri
+    and Bel-shum-iddin, specifying rent in dates, possession for planting, compensation
+    if the field is reclaimed early, settlement of claims, witnesses and authentication
+    marks on the tablet, the presence of Baga'miri's mother, and the date at Nippur.
+    An editorial note identifies the contract as unusual because of its long lease,
+    advance rent, and guarantees.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage concerns a field made available for use and planting by Bel-shum-iddin
+    for a term of sixty years.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:2
+  text: Bel-shum-iddin is to give Baga'miri twenty talents of dates each year in the
+    month Tishri for use of the field.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The text states that Baga'miri has received the whole rent for the field for
+    sixty years from Bel-shum-iddin.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: If Baga'miri takes the field from Bel-shum-iddin before sixty years are completed,
+    Baga'miri must pay one talent of silver for work done and for an orchard planted.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: If any claim arises against the field, Baga'miri must settle it and pay instead
+    of Bel-shum-iddin.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: From Nisan in the thirty-seventh year of King Artaxerxes, the field is to
+    be in Bel-shum-iddin's possession for use and planting for sixty years.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Thirty witnesses and a scribe are named; eleven witnesses left seal impressions
+    on the tablet.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Baga'miri placed the print of his thumb-nail on the tablet instead of his
+    seal.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The tablet was written in the presence of Ekur-belit, identified as daughter
+    of Bel-balatu-ittannu and mother of Baga'miri.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The contract is dated at Nippur on the second of Tishri in the thirty-sixth
+    year of Artaxerxes.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The editorial note says the contract is unusually interesting because the
+    lease is long, the rent is paid in advance, and the lessee is guaranteed against
+    future contingencies.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bel-shum-iddin, son of Murashu
+  description: The lessee or field possessor who pays rent in dates and is to possess
+    the field for use and planting.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Baga'miri, son of Mitradatu
+  description: The rent recipient and party obligated to compensate Bel-shum-iddin
+    if he reclaims the field early and to settle claims against the field.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Artaxerxes, the king
+  description: The king whose regnal years are used to date the contract and the start
+    of possession.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Thirty witnesses and a scribe
+  description: A group named after the contract; eleven witnesses left seal impressions
+    on the tablet.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Ekur-belit, daughter of Bel-balatu-ittannu, mother of Baga'miri
+  description: A woman in whose presence the tablet was written; she is identified
+    by father and by her relationship as Baga'miri's mother.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Murashu
+  description: Named as the father of Bel-shum-iddin.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:7
+  name_or_label: Mitradatu
+  description: Named as the father of Baga'miri.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:8
+  name_or_label: Bel-balatu-ittannu
+  description: Named as the father of Ekur-belit.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: lessee and field possessor
+  assigned_to:
+  - fig:1
+  basis: Bel-shum-iddin pays for use of the field and is to possess it for use and
+    planting for sixty years.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: lessor, rent recipient, and guarantor
+  assigned_to:
+  - fig:2
+  basis: Baga'miri receives the rent, must compensate for early reclamation, and must
+    settle claims against the field.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: king used for regnal dating
+  assigned_to:
+  - fig:3
+  basis: Artaxerxes is named as king in the dates for possession and for the contract.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: contract witnesses and scribe
+  assigned_to:
+  - fig:4
+  basis: The contract states that names of thirty witnesses and a scribe follow, with
+    seal impressions from eleven witnesses.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: present maternal relative
+  assigned_to:
+  - fig:5
+  basis: The tablet was written in Ekur-belit's presence, and she is identified as
+    Baga'miri's mother.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: genealogical identifier
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: The passage identifies several persons through parent-child relationships
+    or maternal relationship.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: leased field
+  literal_form: field for use and planting
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: dates as rent
+  literal_form: twenty talents of dates
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: silver compensation
+  literal_form: one talent of silver
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: orchard improvement
+  literal_form: orchard planted on the field
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: tablet authentication marks
+  literal_form: tablet, seal impressions, and Baga'miri's thumb-nail print
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: sixty-year term
+  literal_form: sixty years
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+scenes:
+- id: scene:1
+  label: Lease and rent terms
+  summary: The contract sets out Bel-shum-iddin's use of Baga'miri's field for planting,
+    the annual payment of dates, and the statement that the full sixty-year rent has
+    been received.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Contingency and guarantee clauses
+  summary: The contract states that Baga'miri must pay silver if he reclaims the field
+    early and must handle claims against the field on Bel-shum-iddin's behalf.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Possession term and regnal dating
+  summary: The field is assigned to Bel-shum-iddin for use and planting beginning
+    in Nisan of Artaxerxes' thirty-seventh year and lasting sixty years.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Tablet validation and witnesses
+  summary: Witnesses, a scribe, seal impressions, Baga'miri's thumb-nail print, and
+    Ekur-belit's presence are recorded as part of the tablet's authentication and
+    documentation.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Place and date of contract
+  summary: The contract is dated at Nippur on Tishri second in the thirty-sixth year
+    of Artaxerxes.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: long-term land lease with advance rent
+  taxonomy_refs: []
+  basis: The legal text records a sixty-year lease, states that the full rent has
+    been received, and the editorial note highlights the length of the lease and advance
+    payment.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: This is a documentary legal pattern, not a mythological motif; no sacred
+    or cosmological interpretation is supported by the passage.
+- id: motif:2
+  label: contractual guarantee against future contingencies
+  taxonomy_refs: []
+  basis: The contract requires Baga'miri to compensate Bel-shum-iddin for early reclamation
+    and to settle any claims against the field; the editorial note also describes
+    the lessee as guaranteed against future contingencies.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: This is a legal-contractual pattern rather than a mythic narrative motif.
+- id: motif:3
+  label: written tablet validated by witnesses, seals, and substitute thumb-nail mark
+  taxonomy_refs: []
+  basis: The passage records thirty witnesses, a scribe, seal impressions, and Baga'miri's
+    thumb-nail print placed on the tablet instead of his seal.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage supports this as a documentary authentication pattern only;
+    it does not support symbolic or mythological interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16977-16981
+  quote_or_summary: Bel-shum-iddin is to give Baga'miri twenty talents of dates each
+    Tishri for use of the field; Baga'miri has received the whole rent for sixty years
+    from Bel-shum-iddin.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: 16982-16988
+  quote_or_summary: If Baga'miri takes the field before sixty years are complete,
+    he must pay one talent of silver for Bel-shum-iddin's work and planted orchard;
+    Baga'miri must also settle claims against the field.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: 16988-16991
+  quote_or_summary: From Nisan in the thirty-seventh year of Artaxerxes, the king,
+    the field is to be in Bel-shum-iddin's possession for use and planting for sixty
+    years.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: 16991-16998
+  quote_or_summary: Thirty witnesses and a scribe are named; eleven witnesses left
+    seal impressions on the tablet; Baga'miri's thumb-nail print was placed on the
+    tablet instead of his seal; the tablet was written in the presence of Ekur-belit,
+    daughter of Bel-balatu-ittannu and mother of Baga'miri.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:5
+  type: summary
+  locator: 16998-16999
+  quote_or_summary: The contract is dated at Nippur, Tishri second, in the thirty-sixth
+    year of Artaxerxes.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:6
+  type: summary
+  locator: 17001-17004
+  quote_or_summary: The editorial note calls the contract unusually interesting because
+    the lease is for a long period, the rent is paid in advance, and the lessee is
+    guaranteed against future contingencies.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a legal contract rather than a mythological narrative. Literal
+    extraction is strong; candidate motifs are better understood as documentary/legal
+    patterns. No comparison claims are supported by the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied; the passage does not support a sacred-exchange or other mythological taxonomy mapping.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l16975-l17004
+  passage_sha256=720559698bb6f4dff91a9dcbe3e1b1e40bc469f11e6fd157f2c8a951e01cd2e0
+

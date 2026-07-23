@@ -1,0 +1,465 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l1735-l1777
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XI. / FIRST  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS.
+    / VOL.  II.; lines 1735-1777
+  start: '1735'
+  end: '1777'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes laws providing sustenance for incapacitated poor
+    people, guest-houses for strangers and travellers, public banquets for the poor,
+    compulsory work under the law called Casera, open-door meals to permit inspection,
+    and household inspections by Llacta-comayu officials who rewarded order and punished
+    disorder. The narrator says these ordinances contributed to abundance of necessities.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: People described as blind, lame, aged, and infirm, if unable to till their
+    lands for clothing and food, are to receive sustenance from public stores.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Strangers and travellers are to be treated as guests in public houses called
+    corpa huasi and supplied with what they require.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The poor are to be invited to public banquets two or three times a month so
+    that communal rejoicing may make them forget their misery.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The law called Casera contains a provision that no one should be idle, including
+    light work for children of five years old.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Blind and lame people without other infirmity are given certain kinds of work,
+    and healthy people are occupied at their own labor.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Public chastisement for idleness is described as infamous and degrading among
+    the people.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Indians are to dine and sup with open doors so judges can enter freely to
+    visit them.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Judges called Llacta-comayu are responsible for visiting temples, public buildings,
+    and private houses.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Officials or their deputies inspect households to see that the man and wife
+    keep order, discipline their children, and maintain cleanliness of clothes, furniture,
+    and utensils.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Orderly people receive public commendation, while disorderly people are flogged
+    on arms and legs or receive other legal chastisement.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The narrator states that these reasons made necessities for human life abundant
+    and almost given away for nothing.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Blind, lame, aged, and infirm poor unable to till land
+  description: People unable to till their lands so as to clothe and feed themselves.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Strangers and travellers
+  description: People to be treated as guests and supplied in corpa huasi.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: The poor
+  description: Poor people invited to public banquets two or three times a month.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Children of five years old
+  description: Children employed at very light work suitable to their age.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Blind and lame people without other infirmity
+  description: Blind and lame persons, if without other infirmity, provided with certain
+    kinds of work.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Healthy people and Indian householders
+  description: Healthy people occupied at their own labor; Indians required to dine
+    and sup with open doors.
+  role_refs:
+  - role:4
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:7
+  name_or_label: Llacta-comayu judges and deputies
+  description: Judges or officials whose duty is to visit temples, public buildings,
+    and private houses and inspect households.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: Man and wife in the household
+  description: Household pair expected to keep the household in proper order and preserve
+    discipline among their children.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: public sustenance recipient
+  assigned_to:
+  - fig:1
+  basis: The passage says these incapacitated people receive sustenance from public
+    stores when they cannot till their land for clothing and food.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: travelling guest
+  assigned_to:
+  - fig:2
+  basis: The passage says strangers and travellers are treated as guests in public
+    houses and supplied with necessities.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: public-banquet invitee
+  assigned_to:
+  - fig:3
+  basis: The passage says the poor are invited to public banquets two or three times
+    monthly.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: assigned worker under Casera law
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The Casera law prohibits idleness and assigns light or suitable work to children,
+    blind and lame persons without other infirmity, and healthy people.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: inspected householder
+  assigned_to:
+  - fig:6
+  - fig:8
+  basis: Householders dine with open doors for inspection, and officials inspect household
+    order, cleanliness, and child discipline.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: household and public-space inspector
+  assigned_to:
+  - fig:7
+  basis: The Llacta-comayu judges and their deputies visit temples, public buildings,
+    and private houses and inspect household order.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: recipient of commendation or chastisement
+  assigned_to:
+  - fig:6
+  - fig:8
+  basis: Orderly people receive public commendation, while disorderly people are flogged
+    or otherwise chastised under law.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: public stores
+  literal_form: stores from which sustenance is supplied
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: corpa huasi public houses
+  literal_form: public guest-houses for strangers and travellers
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: public banquets
+  literal_form: banquets held two or three times a month for the poor
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: open doors
+  literal_form: dining and supping with open doors so judges may enter
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: inspected spaces
+  literal_form: temples, public buildings, and private houses visited by judges
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Sustenance from public stores
+  summary: A law provides that incapacitated people unable to till land for self-support
+    receive sustenance from public stores.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hospitality and public banquets
+  summary: Strangers and travellers are hosted in corpa huasi, and the poor are invited
+    regularly to public banquets.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Casera law against idleness
+  summary: The Casera law requires work suited to age or ability and treats public
+    chastisement for idleness as degrading.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Open-door inspection by Llacta-comayu
+  summary: People dine and sup with open doors so Llacta-comayu judges can visit public
+    and private spaces and inspect household order.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Reward, punishment, and abundance
+  summary: Orderly households receive public commendation; disorderly ones are punished,
+    and the narrator links these ordinances with abundance of necessities.
+  figure_refs:
+  - fig:6
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: institutional care for incapacitated poor
+  taxonomy_refs: []
+  basis: The passage describes a law giving sustenance from public stores to those
+    unable to support themselves through tillage.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a legal-administrative pattern in the chronicle passage, not an
+    explicitly mythic motif.
+- id: motif:2
+  label: hospitality to strangers through public guest-houses
+  taxonomy_refs: []
+  basis: The passage describes strangers and travellers being treated as guests in
+    corpa huasi and supplied with what they need.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No available taxonomy symbol or motif family is directly named by the
+    passage.
+- id: motif:3
+  label: public banquet for the poor
+  taxonomy_refs: []
+  basis: The passage describes regular public banquets intended to include the poor
+    in communal rejoicing.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage frames this as law and public welfare rather than ritual myth.
+- id: motif:4
+  label: anti-idleness labor discipline
+  taxonomy_refs: []
+  basis: The Casera law forbids idleness, assigns age- and ability-suited work, and
+    treats chastisement for idleness as shameful.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The motif candidate is a social-order pattern; no mythic or divine agency
+    is stated here.
+- id: motif:5
+  label: open-door household surveillance
+  taxonomy_refs: []
+  basis: The law requires meals with open doors so judges can enter, and Llacta-comayu
+    officials inspect domestic order and cleanliness.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The pattern is administrative and moralizing; symbolic meaning should
+    not be inferred without further context.
+- id: motif:6
+  label: orderly governance producing abundance
+  taxonomy_refs: []
+  basis: After describing welfare, labor, inspection, reward, and punishment, the
+    narrator says these were reasons that necessities were abundant and nearly given
+    away.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The causal link is stated by the narrator, but the passage does not explicitly
+    connect it to a named mythic taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1741-1744
+  quote_or_summary: A law decrees that blind, lame, aged, and infirm people unable
+    to till land for their clothing and food receive sustenance from public stores.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1744-1747
+  quote_or_summary: Another law treats strangers and travellers as guests in public
+    houses called corpa huasi, where they are supplied with what they require.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1747-1750
+  quote_or_summary: The poor are invited to public banquets two or three times a month
+    so that, in universal rejoicing, they may forget their misery.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1750-1758
+  quote_or_summary: The Casera law says no one should be idle; five-year-old children
+    do light work, blind and lame people without other infirmity receive certain work,
+    healthy people labor, and public chastisement for idleness is degrading.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1759-1763
+  quote_or_summary: Indians dine and sup with open doors so judges may enter freely;
+    judges called Llacta-comayu visit temples, public buildings, and private houses.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1764-1769
+  quote_or_summary: Officials or deputies inspect houses to see that man and wife
+    keep household order, discipline children, and maintain cleanliness of clothes,
+    furniture, and utensils.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1770-1773
+  quote_or_summary: Orderly people receive public commendation, while disorderly people
+    are flogged on the arms and legs or otherwise chastised as law ordains.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1773-1775
+  quote_or_summary: The narrator states that these were the reasons necessities of
+    human life were so abundant that they were almost given away for nothing.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear for legal, social, and administrative observations.
+    Motif candidates are treated as social patterns rather than established mythic
+    motifs. No comparison claims are made because the passage itself does not compare
+    traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  OCR irregularities in the supplied passage were not normalized in evidence beyond neutral summarization. Listed symbols are literal objects, places, or practices in the passage, not claims of symbolic interpretation. No available taxonomy refs were assigned.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l1735-l1777
+  passage_sha256=ac1ae894cdcfe840bb8e6b9baa2b72281416f1720f6e1683919c1c69197f6304
+

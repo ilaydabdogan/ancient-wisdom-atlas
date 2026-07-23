@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.native-american-ethnology-kwakiutl-1-boas-hunt-archive-l2938-l3010
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+passage_locator:
+  label: INDUSTRIES / INDUSTRIES / INDUSTKIES / INDUSTRIES; lines 2938-3010
+  start: '2938'
+  end: '3010'
+  translation: Ethnology of the Kwakiutl, Part 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A technical ethnographic passage describes how a drying-frame is made from
+    measured cedar components, soaked cedar-bark strips, and tied middle sticks, with
+    work divided between a husband and wife. It then describes how the wife makes
+    a rack for holding baskets by splitting and measuring cedar-wood, soaking and
+    splitting cedar-bark, and tying cross-sticks at equal distances.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A crosspiece for tying on is measured by finger-widths and spans, notched
+    with a straight knife, trimmed, and fitted tightly through a side-stick hole.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same shaping and fitting process is repeated for the other ends and for
+    the other crosspieces of the drying-frame.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Cedar-bark is soaked in water before being used for tying.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: obs:4
+  text: Thin cedar-wood pieces are prepared as middle sticks for the drying-frame.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The husband calls his wife, and she splits soaked cedar-bark into narrow strips
+    for him.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: The husband ties middle sticks to the drying-frame with split cedar-bark and
+    takes care that the cedar-bark has no turn in it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After the drying-frame is finished, the husband gives it to his wife.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: For the basket rack, the wife splits cedar-wood, measures pieces by the inside
+    and width of an empty oil-box, and makes four pieces of the same size and length.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The wife ties cedar-stick components together with cedar-bark, spaces four
+    cross-sticks equally, and completes the rack.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: husband
+  description: The male craft worker who shapes and assembles the drying-frame, calls
+    his wife for cedar-bark strips, and gives the finished frame to her.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: wife
+  description: The female craft worker who splits cedar-bark for the drying-frame
+    and then makes the rack for holding baskets.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: drying-frame maker
+  assigned_to:
+  - fig:1
+  basis: He measures, notches, trims, fits, and ties the drying-frame components.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: cedar-bark strip preparer
+  assigned_to:
+  - fig:2
+  basis: She is called to split soaked cedar-bark into narrow strips and gives strips
+    to her husband.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: basket-rack maker
+  assigned_to:
+  - fig:2
+  basis: She prepares, measures, and ties cedar components to make the rack for holding
+    baskets.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: water used for soaking
+  literal_form: water in which cedar-bark is soaked before splitting and tying
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: cedar-bark binding strips
+  literal_form: soaked cedar-bark split into narrow strips for tying frame and rack
+    components
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: cedar-wood frame elements
+  literal_form: side-sticks, crosspieces, middle sticks, and rack sticks made from
+    cedar-wood
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: empty oil-box measuring template
+  literal_form: empty oil-box used to measure the rack pieces
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Making the drying-frame
+  summary: The husband shapes and fits crosspieces, prepares cedar materials, receives
+    cedar-bark strips from his wife, ties middle sticks onto the frame, and gives
+    the finished drying-frame to his wife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Making the rack for holding baskets
+  summary: The wife splits and measures cedar-wood, soaks and splits cedar-bark, ties
+    rack components together, spaces four cross-sticks equally, and finishes the rack.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2938-2951, drying-frame crosspiece instructions
+  quote_or_summary: A crosspiece is measured, notched with a straight knife, trimmed
+    to fit tightly through the side-stick hole, and the procedure is repeated for
+    the other crosspieces.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2952-2963, cedar-bark and middle-stick preparation
+  quote_or_summary: Cedar-bark is soaked in water, thin cedar-wood middle sticks are
+    set out, and the wife is called to split the cedar-bark into narrow strips.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2963-2975, tying and completion of drying-frame
+  quote_or_summary: The wife gives strips to her husband; he ties middle sticks to
+    the crosspieces and side-sticks with split cedar-bark, avoids twisting the bark,
+    completes the drying-frame, and gives it to his wife.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2976-2987, beginning of rack for holding baskets
+  quote_or_summary: The wife splits cedar-wood, measures pieces by the inside and
+    width of an empty oil-box, cuts them, and makes four pieces of the same size and
+    length.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2988-2999, rack tying preparation
+  quote_or_summary: The wife soaks cedar-bark, splits it into narrow strips, arranges
+    cedar-stick pieces, and ties the two ends of the rack she is making.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 3000-3010, completion of basket rack
+  quote_or_summary: Long cedar-sticks are tied flat on the crosspieces; shorter cedar-sticks
+    are tied underneath; equal distances are measured between four cross-sticks, and
+    the rack is completed.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a technical industry description rather than a mythic narrative.
+    Literal extraction is straightforward; no candidate mythological motif families
+    or comparison claims are supported by the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif family was assigned. The only available taxonomy symbol used is water, because water is literally present as the soaking medium for cedar-bark.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-ethnology-kwakiutl-1-boas-hunt-archive__l2938-l3010
+  passage_sha256=8711afd630f01102c9ec4f6c6a341d08c786e4be02f1540669c8c783db76d8ee
+

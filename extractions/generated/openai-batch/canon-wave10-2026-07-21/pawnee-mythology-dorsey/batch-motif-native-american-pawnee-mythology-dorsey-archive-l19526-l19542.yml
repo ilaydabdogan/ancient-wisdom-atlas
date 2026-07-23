@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l19526-l19542
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE  WOLF-WARRIOR.  389 / THE  SCALPED  MAN  MEDICINE.  39I / THE  SCALPED-MAN    MEDICINE.  393
+    / HOW   THE   PAWNEE    GOT   THE    EAGLE    DANCE.  395; lines 19526-19542
+  start: '19526'
+  end: '19542'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Eagles repeatedly surround a boy, cover him with down, and cause feathers
+    to appear on his arms. After another circling, he is placed on the south side
+    of the den and has become an Eagle according to his age. He cannot yet fly, stays
+    in the den, eats meat brought by the Eagles with the other young Eagles, and is
+    taught by the old Eagles the power he is to have.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Eagles surround the boy repeatedly and cover him with soft downy feathers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the Eagles fly away, the boy has feathers on his arms.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After another surrounding, the boy is no longer where he had been; the Eagles
+    fly around the den and place him on the south side.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The boy sits as an Eagle, having been turned into an Eagle according to his
+    age.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The boy tries to fly but cannot, because he is still young and his feathers
+    are small.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Every day the Eagles leave the den, travel over the country, return in the
+    afternoon with meat and animals, and drop them into the den.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The boy and the other young Eagles surround the meat and eat it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After the young Eagles eat the meat and the old Eagles return, the bones are
+    taken out and dropped over the country.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: For some time the boy remains in the den because he cannot fly out.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The old Eagles teach the boy the power he is to have.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the boy
+  description: A boy who is covered with feathers, turned into an Eagle according
+    to his age, unable yet to fly, fed in the den, and taught power by the old Eagles.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the Eagles
+  description: A collective group of Eagles that surround the boy, transform him,
+    fly from and return to the den, and bring meat and animals.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: the old Eagles
+  description: Older Eagles in the den who return after feeding activity and teach
+    the boy the power he is to have.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: the other young Eagles
+  description: Young Eagles in the den who eat meat with the boy.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: transforming agents
+  assigned_to:
+  - fig:2
+  basis: The Eagles cover the boy with down, surround him, and he is then turned into
+    an Eagle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: transformed young eagle and learner
+  assigned_to:
+  - fig:1
+  basis: The boy is turned into an Eagle according to his age, cannot yet fly, remains
+    in the den, and is taught power.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: elder teachers
+  assigned_to:
+  - fig:3
+  basis: The old Eagles teach the boy the power he is to have.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: food providers
+  assigned_to:
+  - fig:2
+  basis: The Eagles leave the den, return with meat and animals, and drop them into
+    the den.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: co-feeding young eagles
+  assigned_to:
+  - fig:4
+  basis: The other young Eagles surround and eat the meat with the boy.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: eagle feathers
+  literal_form: Soft downy feathers and feathers on the boy's arms
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: eagle form
+  literal_form: The boy sitting as an Eagle after being turned into an Eagle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: den
+  literal_form: The den from which the Eagles fly out and into which they return;
+    the boy remains there because he cannot fly out
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: south side placement
+  literal_form: The boy is placed on the south side after the Eagles fly around the
+    den
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: meat and bones
+  literal_form: Meat and animals dropped into the den for eating; bones later taken
+    out and dropped over the country
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Eagles transform the boy
+  summary: The Eagles surround the boy, cover him with feathers, fly around the den,
+    place him on the south side, and he appears as an Eagle according to his age.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Life and instruction in the Eagle den
+  summary: The newly transformed boy cannot fly, remains in the den with young Eagles,
+    eats meat brought by the Eagles, and is taught power by the old Eagles.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: human transformed into an eagle
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage states that the boy is turned into an Eagle after the Eagles
+    surround him and cover him with feathers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: 'The available taxonomy term is approximate: the passage describes transformation
+    into an Eagle, not repeated voluntary shapeshifting.'
+- id: motif:2
+  label: instruction by animal elders after transformation
+  taxonomy_refs:
+  - initiation
+  basis: After becoming an Eagle, the boy remains in the den unable to fly and is
+    taught by the old Eagles the power he is to have.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The excerpt is partial and does not describe the full outcome or ritual
+    context of the instruction.
+- id: motif:3
+  label: animal-nest fosterage and feeding
+  taxonomy_refs: []
+  basis: The boy lives among young Eagles in the den, eats meat brought by the Eagles,
+    and remains there while unable to fly.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a descriptive candidate motif without a supplied taxonomy reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19526-19529
+  quote_or_summary: The Eagles surround the boy, cover him with soft downy feathers,
+    and after they fly away the boy has feathers on his arms.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: public_domain
+- id: ev:2
+  type: summary
+  locator: 19529-19533
+  quote_or_summary: After the Eagles surround him again, the boy is not where he had
+    been; the Eagles fly around the den, place him on the south side, and he sits
+    there as an Eagle, turned into an Eagle according to his age.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: public_domain
+- id: ev:3
+  type: summary
+  locator: 19533-19535
+  quote_or_summary: The boy tries to fly, but he is young, his feathers are small,
+    and he cannot fly.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: public_domain
+- id: ev:4
+  type: summary
+  locator: 19535-19538
+  quote_or_summary: Each day the Eagles fly out from the den, return in the afternoon
+    with meat and animals, drop them into the den, and the boy and other young Eagles
+    eat the meat.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: public_domain
+- id: ev:5
+  type: summary
+  locator: 19538-19541
+  quote_or_summary: After the meat is eaten and the old Eagles return, bones are taken
+    out and dropped over the country; the boy remains in the den because he cannot
+    fly out.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: public_domain
+- id: ev:6
+  type: summary
+  locator: 19541-19542
+  quote_or_summary: The boy is being taught by the old Eagles the power he is to have.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: public_domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the supplied lines. Motif labels
+    are provisional because the passage excerpt is partial and does not provide the
+    surrounding narrative outcome.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the excerpt itself does not make an explicit comparison to another text, tradition, or motif family beyond the supplied taxonomy-supported candidate motif labels.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l19526-l19542
+  passage_sha256=c5a5f99f1557bb7b6d0b2455f5db7767d6cea73be391e19e37621cd947231654
+

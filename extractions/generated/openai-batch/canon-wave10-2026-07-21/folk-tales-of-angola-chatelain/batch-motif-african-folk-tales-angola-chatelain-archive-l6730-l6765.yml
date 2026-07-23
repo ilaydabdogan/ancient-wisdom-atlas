@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l6730-l6765
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: XXIII. / NA NGO NI JIXITU. / XXIII. / LEOPARD AND THE OTHER ANIMALS.; lines
+    6730-6765
+  start: '6730'
+  end: '6765'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Leopard is hungry and decides to call all the animals to a supposed medical
+    consultation so that he may catch and eat them. Deer, Antelope, Soko, Hare, and
+    Philantomba gather and ask why they were summoned. Leopard says they should consult
+    medicine for health. At sundown, drumming and songs begin outside, with Leopard
+    beating the drum and singing a Kimbundu refrain.
+  language: English with Kimbundu song text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Leopard experiences hunger.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Leopard plans to summon all the animals under the stated pretext of a medical
+    consultation, intending to catch and eat them when they arrive.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Leopard sends for Deer, Antelope, Soko, Hare, and Philantomba.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The summoned animals gather and ask Leopard why he sent for them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Leopard tells the animals they should consult medicine in order to get health.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At sundown, drums and songs begin outside.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Leopard beats the drum and sings a Kimbundu refrain.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mr. Leopard
+  description: A hungry leopard who summons other animals to a supposed medical consultation
+    while intending to catch and eat them; he later beats the drum and sings.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Deer
+  description: One of the animals summoned by Leopard.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Antelope
+  description: One of the animals summoned by Leopard.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Soko
+  description: One of the animals summoned by Leopard.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Hare
+  description: One of the animals summoned by Leopard.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Philantomba
+  description: One of the animals summoned by Leopard.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: the animals in the world
+  description: A collective group Leopard says he will call.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: hungry predator
+  assigned_to:
+  - fig:1
+  basis: Leopard is described as hungry and intending to catch and eat the animals.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceptive summoner
+  assigned_to:
+  - fig:1
+  basis: Leopard proposes a medical consultation as the reason for calling the animals,
+    while his stated intent is to catch and eat them.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: summoned animals
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The animals are called by Leopard and gather in response.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: medical consultation
+  literal_form: consulting medicine for health
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: drum
+  literal_form: drum beaten by Leopard as songs begin outside
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: song refrain
+  literal_form: Kimbundu refrain sung by Leopard during the drumming
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Leopard devises a summons
+  summary: Leopard becomes hungry and decides to call the animals to a supposed medical
+    consultation so he can catch and eat them.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Animals gather for consultation
+  summary: Deer, Antelope, Soko, Hare, and Philantomba gather after being summoned
+    and ask Leopard why they were called; Leopard answers that they should consult
+    medicine for health.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Drumming and song at sundown
+  summary: At sundown, drums and songs begin outside, and Leopard beats the drum while
+    singing a Kimbundu refrain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: predator lures victims with false communal consultation
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Leopard uses the pretext of a health-related consultation to gather animals
+    he intends to catch and eat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage excerpt gives only the setup and does not show the outcome
+    of the trap; the taxonomy reference is broad and should be reviewed.
+- id: motif:2
+  label: ritual performance accompanying a deceptive gathering
+  taxonomy_refs: []
+  basis: After the animals gather for the consultation, drumming and singing begin,
+    with Leopard himself performing.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The excerpt does not clarify whether the drumming and song function as
+    part of the trap, a ritual, or a narrative performance detail.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6730-6740
+  quote_or_summary: Leopard is hungry and says he will call all the animals to a medical
+    consultation so he may catch and eat them when they come.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6741-6744
+  quote_or_summary: Leopard sends for Deer, Antelope, Soko, Hare, and Philantomba;
+    they gather and ask why he summoned them.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 6744-6745
+  quote_or_summary: "“Let us consult medicine, that we get health.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 6746-6749
+  quote_or_summary: At sundown, drums and songs begin outside; Leopard beats the drum
+    and sings.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 6750-6765
+  quote_or_summary: Kimbundu refrain includes repeated forms such as “Mukuenu ukata”
+    and “Ki kukata.”
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly identifies the setup, figures, and actions. Motif interpretation
+    is limited because this excerpt ends before the outcome of Leopard’s plan.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. No comparison claims were added because the passage itself does not make an explicit comparative connection.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l6730-l6765
+  passage_sha256=3217cf259f9ff77572d711ef9d9b558636e87d057f003ee2d313ca12c3b5cc91
+

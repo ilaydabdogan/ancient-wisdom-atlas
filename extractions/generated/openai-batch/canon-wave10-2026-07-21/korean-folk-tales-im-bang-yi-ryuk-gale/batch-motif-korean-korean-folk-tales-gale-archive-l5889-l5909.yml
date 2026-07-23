@@ -1,0 +1,363 @@
+---
+record_id: batch.motif.korean-korean-folk-tales-gale-archive-l5889-l5909
+source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+passage_locator:
+  label: XXXIX / THE  AWFUL  LITTLE  GOBLIN / THE  AWFUL  LITTLE  GOBLIN  193 / GOD'S  WAY;
+    lines 5889-5909
+  start: '5889'
+  end: '5909'
+  translation: Korean Folk Tales - Imps, Ghosts and Fairies
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A fierce man beats his mother. After being beaten, she cries to God asking
+    why the wicked man is not struck dead. The son then takes a sickle to a buckwheat
+    field. A sudden storm arises with thunder, rain, and lightning; villagers see
+    a man in the field lifting a sickle as if to ward off the flashes. The supplied
+    passage breaks off as villagers go to inspect after the storm.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man in a town is described as fierce and ungovernable and as beating his
+    mother when angry.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: After being beaten, the mother addresses God and asks why the wicked man who
+    beats his mother is not struck dead.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After the beating, the son places a sickle in his belt and goes to fields
+    where a neighbor has engaged him to reap buckwheat.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'A clear day changes suddenly: a dark cloud appears, the sky blackens, thunder
+    follows, and rain begins.'
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Village people look toward the field, where lightning flashes are especially
+    noticeable.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The villagers seem to see a man with a lifted sickle trying to ward off the
+    lightning flashes.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After the storm clears, villagers go to see what happened, but the supplied
+    excerpt ends before the result is fully stated.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the fierce son
+  description: A man of fierce and ungovernable disposition who beats his mother;
+    later he goes to reap buckwheat with a sickle.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the mother
+  description: The beaten parent who cries out to God after her son beats her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: God
+  description: The deity addressed in the mother's cry; the passage is titled "GOD'S
+    WAY."
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: the neighbour
+  description: A neighbor who has engaged the son to reap buckwheat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: the village people
+  description: People of the village who look toward the field during the storm and
+    later go to see after it clears.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: abusive son
+  assigned_to:
+  - fig:1
+  basis: The man is the son who beats his mother in moments of anger.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: beaten mother and supplicant
+  assigned_to:
+  - fig:2
+  basis: The mother is beaten and then cries out to God for the wicked man to be struck
+    dead.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: addressed divine authority
+  assigned_to:
+  - fig:3
+  basis: God is directly addressed in the mother's speech and named in the passage
+    title.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: neighboring employer
+  assigned_to:
+  - fig:4
+  basis: The son is engaged by a neighbor to reap buckwheat.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: village witnesses
+  assigned_to:
+  - fig:5
+  basis: Village people watch the lightning in the field and go to inspect afterward.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: field worker with sickle
+  assigned_to:
+  - fig:1
+  basis: The son carries a sickle to the field and is seen with a lifted sickle during
+    the lightning.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: sickle
+  literal_form: A sickle thrust through the son's belt and later lifted toward the
+    lightning flashes.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: lightning storm
+  literal_form: A sudden blackening sky, thunder, rain, and especially noticeable
+    lightning flashes over the field.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: rain
+  literal_form: Rain that begins during the sudden storm.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: buckwheat field
+  literal_form: The field where the son goes to reap buckwheat and where villagers
+    observe the lightning.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Mother's appeal after beating
+  summary: A fierce son beats his mother, and she cries out to God asking why he is
+    not struck dead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Son goes to the buckwheat field
+  summary: The son puts a sickle through his belt and goes to reap buckwheat for a
+    neighbor.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Sudden storm over the field
+  summary: A clear day abruptly turns dark; thunder, rain, and lightning come, and
+    villagers watch the field.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Man seen lifting sickle against lightning
+  summary: Villagers seem to see a man in the field holding up a sickle as if warding
+    off the lightning flashes.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Inspection after the storm
+  summary: After the storm clears, villagers go to see, but the supplied passage breaks
+    off before reporting the full result.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment following violence against a parent
+  taxonomy_refs:
+  - divine_judgment
+  basis: The mother asks God why the wicked son is not struck dead, and a sudden thunderstorm
+    with conspicuous lightning immediately follows around the field where the son
+    is working.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The supplied excerpt ends mid-sentence and does not explicitly state the
+    outcome or directly narrate divine causation.
+- id: motif:2
+  label: Human tool raised against celestial force
+  taxonomy_refs: []
+  basis: The villagers seem to see a man in the field with a lifted sickle trying
+    to ward off lightning flashes.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a visible action pattern in the passage, but its narrative result
+    is not provided in the supplied excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared to a divine-judgment pattern in which
+    a grave moral offense is followed by an apparent heavenly or storm-related punishment.
+  claim_level: same_motif
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The excerpt does not complete the final sentence and does not explicitly
+    say that God causes the storm or that the man dies.
+evidence:
+- id: ev:1
+  type: quote
+  locator: '5889'
+  quote_or_summary: '"GOD''S WAY"'
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain; short excerpt.
+- id: ev:2
+  type: quote
+  locator: 5891-5896
+  quote_or_summary: A man of fierce disposition "used to beat his mother"; she cries,
+    "Oh, God, why do you not strike dead this wicked man who beats his mother?"
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 5898-5901
+  quote_or_summary: After the beating, the son puts his sickle through his belt and
+    goes to fields where a neighbor has engaged him to reap buckwheat.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 5901-5905
+  quote_or_summary: A clear day changes when "a dark fleck of cloud" appears; the
+    sky turns black, thunder follows, and rain begins.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain; short excerpt.
+- id: ev:5
+  type: quote
+  locator: 5905-5909
+  quote_or_summary: Villagers see lightning in the field and seem to see "a man with
+    lifted sickle trying to ward them off."
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain; short excerpt.
+- id: ev:6
+  type: note
+  locator: '5909'
+  quote_or_summary: After the storm clears, the villagers go to see; the supplied
+    passage ends after saying they found the man, leaving the result unstated.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain; summarized evidence note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is limited by the supplied passage ending mid-sentence.
+    Motif interpretation is supported by the title, the mother's appeal to God, and
+    the sudden lightning storm, but the outcome and causation are not explicit in
+    the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata; no external tale context added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-folk-tales-gale-archive__l5889-l5909
+  passage_sha256=0232e982d24023ec38c6a3aed4ee2b9dd54a3361b7c2ae6c9b045c4eba9eac62
+

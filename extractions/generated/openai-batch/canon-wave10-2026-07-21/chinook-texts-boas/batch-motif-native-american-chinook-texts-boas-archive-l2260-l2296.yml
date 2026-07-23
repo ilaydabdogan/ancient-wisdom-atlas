@@ -1,0 +1,511 @@
+---
+record_id: batch.motif.native-american-chinook-texts-boas-archive-l2260-l2296
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+passage_locator:
+  label: Chinook Texts / BOAS J; lines 2260-2296
+  start: '2260'
+  end: '2296'
+  translation: Chinook Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A panther who hunts elk finds a spruce branch, twists it, puts it under
+    his bed, and wishes it would become a man. After repeated signs of disk-playing
+    in his house, he hides and sees a youth playing and singing that his brother calls
+    him a spruce branch and twisted him often. The panther accepts him as a younger
+    brother, gives him arrows, and warns him not to go downriver. The youth grows
+    up, later goes downriver, shoots a chicken-hawk, follows it to a house, and enters
+    despite fearing danger because he wants his arrow back.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The panther is described as an elk hunter who goes hunting every day.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The panther finds a spruce branch, twists it, throws it under his bed, and
+    wishes it would become a man.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After the branch is placed in the house, cedar bark, counters, and the sound
+    of batons appear in the panther's house on successive returns from hunting.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The panther hides near the house, looks through a hole, and sees a youth playing
+    at disks inside.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The youth sings that his brother calls him a branch of a spruce and twisted
+    him often.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The panther calls the youth his poor brother, asks why he hid, and tells him
+    to stay with him.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The panther gives the youth good arrows, and the youth goes hunting deer.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The panther tells his younger brother to go only one way and not go down the
+    river; the youth initially obeys and goes only upriver.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: After growing up, the youth goes down the river despite the earlier instruction.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The youth shoots a chicken-hawk in the wing, follows it for a long distance,
+    and sees it enter a house.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The youth fears he may be killed, but enters the house because he wants his
+    arrow.
+  category: speech
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The house is full of people who look at the youth's arrow.
+  category: setting
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Panther
+  description: A panther described as an elk hunter who finds the spruce branch, wishes
+    it would become a man, later accepts the youth as his brother, gives him arrows,
+    and gives him travel instructions.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Spruce-branch youth / younger brother
+  description: A youth associated with the twisted spruce branch; he plays at disks,
+    sings about being called a spruce branch, stays with the panther, receives arrows,
+    hunts deer, and later goes downriver.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Chicken-hawk
+  description: A chicken-hawk shot in the wing by the youth; it falls, runs away jumping,
+    and enters a house.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:10
+- id: fig:4
+  name_or_label: People in the house
+  description: A house full of people who look at the youth's arrow after he enters.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: elk hunter
+  assigned_to:
+  - fig:1
+  basis: The passage says the panther was an elk hunter and hunted every day.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wisher of transformation
+  assigned_to:
+  - fig:1
+  basis: The panther wishes that the spruce branch would become a man.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: elder brother and instructor
+  assigned_to:
+  - fig:1
+  basis: The panther calls the youth brother, tells him to stay, gives him arrows,
+    and warns him not to go downriver.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:4
+  label: hidden disk-player
+  assigned_to:
+  - fig:2
+  basis: The youth is seen inside the house playing at disks.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: younger brother
+  assigned_to:
+  - fig:2
+  basis: The panther addresses him as brother and later calls him his younger brother.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:6
+  label: deer hunter
+  assigned_to:
+  - fig:2
+  basis: After receiving good arrows, the youth goes hunting deer.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: violator of travel instruction
+  assigned_to:
+  - fig:2
+  basis: He is told not to go down the river but later goes down the river.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:8
+  label: wounded quarry leading to a house
+  assigned_to:
+  - fig:3
+  basis: The chicken-hawk is shot, flees, and enters a house while the youth follows
+    it.
+  evidence_refs:
+  - ev:10
+- id: role:9
+  label: inhabitants or gathered onlookers
+  assigned_to:
+  - fig:4
+  basis: The house is full of people who look at the youth's arrow.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: spruce branch
+  literal_form: A branch of a spruce found, twisted, put under the bed, and wished
+    into manhood.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: disk-playing objects
+  literal_form: Cedar bark, counters, disks, and batons associated with play inside
+    the panther's house.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: good arrows
+  literal_form: Arrows given by the panther to the youth and later valued by the youth
+    when he follows the chicken-hawk into a house.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:11
+  - ev:12
+- id: sym:4
+  label: river direction
+  literal_form: The instruction to go upriver only and not downriver, followed by
+    the youth's later movement downriver.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: chicken-hawk
+  literal_form: A bird shot in the wing and followed to a house.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:6
+  label: house full of people
+  literal_form: A house entered by the wounded chicken-hawk and then by the youth;
+    it is full of people looking at his arrow.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:12
+scenes:
+- id: scene:1
+  label: Panther finds and addresses the spruce branch
+  summary: The panther, an elk hunter, finds a spruce branch, twists it, places it
+    under his bed, and wishes it would become a man.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Signs of unseen disk-playing in the house
+  summary: On repeated returns from hunting, the panther finds cedar bark and counters
+    and hears batons in his house, but the activity stops when he approaches.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Discovery of the youth
+  summary: The panther hides near the house, sees a youth playing at disks through
+    a hole, and hears him sing about being the spruce branch twisted by his brother.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: The youth becomes the panther's younger brother
+  summary: The panther enters, addresses the youth as brother, asks why he hid, tells
+    him to stay, and later gives him arrows for hunting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Instruction not to go downriver
+  summary: The panther tells his younger brother to travel only one way and not down
+    the river; the youth obeys at first and goes only upriver.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Downriver pursuit of the chicken-hawk
+  summary: After growing up, the youth goes downriver, shoots a chicken-hawk, follows
+    it to a house, and enters despite fearing danger because he wants his arrow.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: Spruce branch becomes a human younger brother
+  taxonomy_refs:
+  - shapeshifter
+  - miraculous_child
+  - sibling_pair
+  basis: The panther wishes a twisted spruce branch would become a man; a youth later
+    sings that his brother calls him a spruce branch and twisted him, and the panther
+    treats him as a younger brother.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The passage implies a branch-to-youth transformation but does not narrate
+    the moment of transformation directly; the available taxonomy labels are approximate.
+- id: motif:2
+  label: Hidden supernatural or transformed house occupant revealed by watching
+  taxonomy_refs: []
+  basis: The panther repeatedly finds traces of play, then hides and watches until
+    he sees the youth playing at disks inside the house.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explicitly call the youth supernatural; the motif
+    is limited to the hidden occupant and revelation pattern.
+- id: motif:3
+  label: Forbidden route followed by transgressive departure
+  taxonomy_refs:
+  - departure
+  basis: The panther instructs the youth not to go downriver; after growing up, the
+    youth goes downriver and enters a new dangerous situation.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The instruction is a travel prohibition rather than an explicit sacred
+    taboo; the consequences are only beginning within the supplied passage.
+- id: motif:4
+  label: Wounded bird quarry leads hunter to an inhabited house
+  taxonomy_refs: []
+  basis: The youth shoots a chicken-hawk, follows it a long distance, sees it enter
+    a house, and then enters the house himself.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: The passage ends before the outcome of this encounter is given.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2260-2261
+  quote_or_summary: The panther is introduced as an elk hunter who goes hunting every
+    day.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2261-2264
+  quote_or_summary: The panther finds a spruce branch, twists it, throws it under
+    his bed, and wishes it would become a man.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2264-2276
+  quote_or_summary: On successive returns from hunting, the panther finds cedar bark,
+    counters, and evidence or sounds of disk-playing in his house.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2276-2281
+  quote_or_summary: The panther hides near the house, hears batons inside, looks through
+    a hole, and sees a youth playing at disks.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 2281-2283
+  quote_or_summary: 'The youth sings: "My brother calls me branch of a spruce, my
+    brother -twisted me often."'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: 2283-2286
+  quote_or_summary: The panther enters, calls the youth his poor brother, asks why
+    he hid, and tells him to stay with him; the youth remains.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 2286-2288
+  quote_or_summary: The panther gives the youth good arrows, and the youth goes hunting
+    deer.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 2288-2290
+  quote_or_summary: The panther tells his younger brother to go only one way and not
+    go down the river; the youth obeys and goes only upriver.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 2290-2291
+  quote_or_summary: After growing up, the youth goes down the river one day.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 2291-2294
+  quote_or_summary: The youth finds a chicken-hawk, shoots its wing, follows it a
+    long distance, and sees it enter a house.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 2294-2296
+  quote_or_summary: The youth thinks they may kill him and considers turning back,
+    but decides to enter because he wants his arrow.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: '2296'
+  quote_or_summary: The youth enters the house; it is full of people looking at his
+    arrow.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence and figures are clear in the supplied passage. Motif labels
+    involving transformation and departure are interpretive and should be reviewed
+    against surrounding lines and Chinook narrative context. No comparison claims
+    were added because the passage itself does not make an explicit comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The supplied passage ends mid-sentence or at an incomplete narrative point, so the outcome of the house encounter is not included.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-chinook-texts-boas-archive__l2260-l2296
+  passage_sha256=72bc7f911671bea679a522646d6a7cca066520188fb5c146b2db3155e0575756
+

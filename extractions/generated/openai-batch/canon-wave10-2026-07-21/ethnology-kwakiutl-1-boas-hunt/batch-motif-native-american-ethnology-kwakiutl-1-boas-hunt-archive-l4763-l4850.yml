@@ -1,0 +1,390 @@
+---
+record_id: batch.motif.native-american-ethnology-kwakiutl-1-boas-hunt-archive-l4763-l4850
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+passage_locator:
+  label: INDUSTKIES / INDUSTRIES / II. HUNTING, FISHING, AND FOOD-GATHERING / III.
+    PRESERVATION OF FOOD; lines 4763-4850
+  start: '4763'
+  end: '4850'
+  translation: Ethnology of the Kwakiutl, Part 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: '"the halibut know that the one who caught them first is thankful for it"'
+  summary: The passage describes practices for eating, cleaning up, cooking, and preserving
+    halibut. It gives special rules for the first halibut caught, including immediate
+    steaming as an expression of thankfulness, and then details later processing,
+    drying, and storage procedures for autumn halibut intended for winter food.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Guests eat on the beach, leave bones and fat skin on a mat, then wash their
+    hands in the sea.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman scrapes remaining food from stones onto the mat, adds earlier leftovers,
+    carries the mat to the beach, shakes the contents into the sea, and washes the
+    mat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Halibut skins are hung over the fire with the meat side upward; this is called
+    "turning up the back."
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The first halibut caught is steamed by women at once.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says the halibut know that the first catcher is thankful.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: If the first catcher does not cook the halibut right away, the passage says
+    he will not get another bite and will fish in vain.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: For later catches, stomachs, guts, heads, backbone, apron-part, and sometimes
+    fins are thrown into the sea.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: In autumn, when halibut are fat, fishermen catch halibut for winter food,
+    and wives process parts into dried stomach, dried head, dried fins, ribs, dried
+    tail, and dried apron.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The woman cuts the skin into strips called "torn-from-the-edge," hangs the
+    skin meat-side upward, later tears off the edges, ties them with cedar-bark, and
+    hangs them again away from the fire.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: After guests leave, the woman sharpens fish-knives, cleans the cutting-board,
+    places it on the beach, and is ready for the next day's cutting.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: guests
+  description: People who eat the halibut meal on the beach, then go down to wash
+    their hands in the sea and later go home.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: woman or wife preparing halibut
+  description: Female food preparer who cleans remains, washes the mat, hangs skins,
+    steams the first halibut, dries and cuts halibut parts, sharpens knives, and prepares
+    the cutting-board.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: fisherman or husband who catches halibut
+  description: Male fisher who catches the first halibut and later catches more halibut;
+    if the first halibut is not cooked at once, he is said to fish in vain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: halibut
+  description: Fish caught for food and preservation; the passage says the halibut
+    know when the first catcher is thankful.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: food preparer and preserver
+  assigned_to:
+  - fig:2
+  basis: The woman steams, cuts, dries, hangs, cleans, and prepares halibut and equipment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: first catcher and fisherman
+  assigned_to:
+  - fig:3
+  basis: The passage refers to the one who first caught halibut and to the fisherman
+    going out to fish halibut.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: meal guests
+  assigned_to:
+  - fig:1
+  basis: The guests eat, rise from the beach, wash their hands in the sea, and go
+    home.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: nonhuman catch with attributed awareness
+  assigned_to:
+  - fig:4
+  basis: The passage states that the halibut know the first catcher is thankful.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sea water
+  literal_form: sea or water where hands are washed and remains are thrown
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: fire heat
+  literal_form: fire used to heat, dry, roast, or position halibut parts
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: first halibut
+  literal_form: first halibut caught and immediately steamed
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: mat for food remains
+  literal_form: mat spread on the beach, used to gather leftovers and then washed
+    clean
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: cedar-bark tie
+  literal_form: narrow piece of cedar-bark used to tie torn-off edges of halibut skin
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Guest meal and washing at the sea
+  summary: Guests eat on the beach, leave bones and fat skin on a mat, wash their
+    hands in the sea, and go home; the woman gathers leftover food on the mat, shakes
+    it into the sea, and washes the mat clean.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First halibut steamed immediately
+  summary: The first halibut caught is steamed by women at once because the halibut
+    are said to know the catcher is thankful; failure to cook it immediately is said
+    to prevent further successful halibut fishing.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Processing later and autumn halibut
+  summary: Later halibut parts may be thrown into the sea, boiled, roasted, or dried.
+    In autumn, fat halibut are caught for winter and processed into named dried parts.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Preparation for next day's splitting
+  summary: After guests leave, the woman sharpens fish-knives, cleans the cutting-board,
+    places it on the beach, and prepares to cut halibut the next day.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: First-catch thanksgiving and continued abundance
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The first halibut is steamed at once because the halibut are said to know
+    the catcher is thankful; if it is not cooked immediately, future halibut fishing
+    will fail.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is ethnographic and procedural rather than a narrative myth;
+    the taxonomy match is functional and should be reviewed.
+- id: motif:2
+  label: Seasonal preservation for winter food
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage states that in autumn, when halibut are fat, fishermen catch
+    them for winter food and women process many parts into dried forms.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a practical food-preservation sequence; mythic or symbolic seasonal
+    meaning is not stated directly.
+- id: motif:3
+  label: Return or disposal of remains into the sea
+  taxonomy_refs: []
+  basis: Leftover food from the guest meal and several later halibut parts are thrown
+    or shaken into the sea.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the actions but does not explicitly explain their ritual
+    meaning, apart from the separate first-halibut thanksgiving rule.
+comparison_claims:
+- id: claim:1
+  claim: 'The first-halibut rule has the same function as a sacred-exchange pattern:
+    correct immediate preparation expresses thankfulness toward the halibut and is
+    linked to future fishing success.'
+  claim_level: same_function
+  target: sacred_exchange motif family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a cautious functional comparison to an available motif family,
+    not evidence of historical contact, common inheritance, or a myth narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4763-4774
+  quote_or_summary: Guests leave bones and fat skin on a beach mat, wash their hands
+    in the sea, and go home; the woman scrapes leftovers onto the mat, carries it
+    to the beach, shakes the contents into the sea, and washes the mat clean.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4775-4781
+  quote_or_summary: The woman hangs halibut skins over the fire with the meat-side
+    upward; this is called "turning up the back," and she will split the halibut the
+    next day.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized with short quoted term.
+- id: ev:3
+  type: summary
+  locator: lines 4782-4791
+  quote_or_summary: For the first halibut, women steam everything immediately; the
+    text says the halibut know the first catcher is thankful, and that if he does
+    not cook it at once he will not get another bite and will fish in vain.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4792-4802
+  quote_or_summary: For later halibut, the stomach, guts, heads, backbone, apron-part,
+    and sometimes fins are thrown into the sea; fins may also be half-dried, boiled,
+    or roasted.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4803-4824
+  quote_or_summary: In autumn, when halibut are fat, fishermen catch halibut for winter;
+    wives prepare and dry stomachs, heads, fins, ribs, rough-edges, tails, and apron-parts.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4825-4839
+  quote_or_summary: The woman cuts halibut skin into strips called "torn-from-the-edge,"
+    hangs it meat-side upward, later tears off the edges, ties them with cedar-bark,
+    and hangs them again away from the fire; this is done for autumn halibut when
+    they are getting fat.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized with short quoted term.
+- id: ev:7
+  type: summary
+  locator: lines 4840-4850
+  quote_or_summary: After the guests leave, the woman sharpens fish-knives, scrapes
+    the cutting-board clean, places it on the beach for splitting halibut, and begins
+    work the next day.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The procedural actions are explicit. Motif classification is more tentative
+    because the passage is an ethnographic food-preservation description, with only
+    the first-halibut practice explicitly framed in relational or consequential terms.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. No historical-contact or inheritance claims are made.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-ethnology-kwakiutl-1-boas-hunt-archive__l4763-l4850
+  passage_sha256=ebc81d94849c9bf1c50945de9b371357737f1330987b1bef92ba548a0c010c66
+

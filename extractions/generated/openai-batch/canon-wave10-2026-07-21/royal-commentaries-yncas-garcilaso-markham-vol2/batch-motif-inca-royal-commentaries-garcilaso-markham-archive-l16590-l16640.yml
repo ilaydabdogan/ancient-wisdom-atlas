@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l16590-l16640
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XIV. / THE  PLANTAIN,  THE  PINE,  AND  OTHER  FRUITS. / VOL.  II.
+    / EIGHTH  BOOK  OP  THE  ROYAL; lines 16590-16640
+  start: '16590'
+  end: '16640'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes plantains and other fruits, including their preparation,
+    taste, size, rind, seeds, and local abundance. It also notes that Spaniards named
+    several New World fruits by perceived resemblance to Spanish fruits or foods.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Plantains are eaten raw, roasted, boiled, and in stewed dishes; conserves
+    are also made from them with a little treacle or sugar.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Plantain bunches ripened on the trees are described as sweeter and more wholesome.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Plantain trees are described as about two varas high, with some taller or
+    shorter.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A smaller kind of plantain called Dominicos is identified by white skin when
+    the bunch begins to grow and black-and-white skin when ripe; it is less numerous
+    than the larger plantains.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The fruit called pina by Spaniards is so named because it is said to resemble
+    the pines of Spain, though the narrator says it is not really comparable.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The pina has a rind removed with a knife, white edible fruit, slight acidity,
+    and is said to be twice the size of the Spanish pine.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A fruit in the country of the Antis is called manjar blanco by Spaniards because,
+    when cut in half, it resembles two slices of manjar blanco in colour and taste.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The manjar blanco fruit has small black pips that are not eaten, is about
+    the size of a small melon, has a hard rind like a dry calabash, and has sweet
+    fruit with slight acidity.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Many other wild fruits grow in the country of the Antis, and Spaniards call
+    some of them almonds and nuts because of supposed resemblance to Spanish fruits.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Spaniards
+  description: A group named in the passage as assigning names such as pina, manjar
+    blanco, almonds, and nuts to fruits on the basis of perceived resemblance to Spanish
+    foods or fruits.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Unnamed plantain eaters and preparers
+  description: The passage says plantains are eaten in several ways and made into
+    conserves, but does not identify the people by name in this excerpt.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Analogical namers of fruits
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly states that Spaniards named fruits by resemblance
+    to pines, manjar blanco, almonds, and nuts known from Spain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Consumers and preparers of plantains
+  assigned_to:
+  - fig:2
+  basis: The passage describes plantains being eaten raw, roasted, boiled, in stews,
+    and made into conserves.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Plantain tree
+  literal_form: Plantain trees bearing bunches of fruit
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Dominicos plantain
+  literal_form: A smaller plantain with skin described as white at first and black-and-white
+    when ripe
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Pina fruit
+  literal_form: A large fruit with rind, white flesh, pleasant taste, and slight acidity,
+    named by comparison with Spanish pines
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Manjar blanco fruit
+  literal_form: A hard-rinded fruit in the country of the Antis with sweet, slightly
+    acid flesh and small black pips
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Spanish comparison names
+  literal_form: Names such as pina, manjar blanco, almonds, and nuts applied to unfamiliar
+    fruits by perceived resemblance
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Preparation and description of plantains
+  summary: Plantains are described by their uses as food, their ripening on trees,
+    and the smaller Dominicos variety.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Spanish naming of fruits by resemblance
+  summary: The passage describes several fruits whose Spanish names come from perceived
+    resemblance to foods or fruits already known in Spain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Analogical naming of unfamiliar natural objects
+  taxonomy_refs: []
+  basis: The passage presents a repeated pattern in which Spaniards apply familiar
+    Spanish food or fruit names to unfamiliar fruits because of perceived resemblance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnobotanical and colonial-descriptive pattern, not an explicitly
+    mythological motif; no supplied motif-family taxonomy item directly applies.
+comparison_claims:
+- id: claim:1
+  claim: The text reports that the fruit called pina was named by Spaniards from a
+    perceived resemblance to the pines of Spain.
+  claim_level: visual_similarity
+  target: Pines of Spain
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The narrator also says the fruit is not really comparable, so the similarity
+    should be treated as reported naming rationale rather than full equivalence.
+- id: claim:2
+  claim: The text reports that a fruit in the country of the Antis was called manjar
+    blanco because its cut interior resembled that food in colour and taste.
+  claim_level: visual_similarity
+  target: Manjar blanco food
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison includes taste as well as visual appearance; the claim
+    is limited to the passage's naming explanation.
+- id: claim:3
+  claim: The text reports that some wild fruits were called almonds and nuts by Spaniards
+    because of supposed resemblance to Spanish fruits.
+  claim_level: visual_similarity
+  target: Spanish almonds and nuts
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage calls the resemblance 'fancied' or 'supposed' and gives
+    no detailed description of these fruits in the excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16595-16612
+  quote_or_summary: Plantains are eaten raw, roasted, boiled, in stews, and as conserves;
+    bunches ripened on trees are sweeter and more wholesome; trees are about two varas
+    high; a smaller variety called Dominicos is described.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 16613-16623
+  quote_or_summary: A fruit called pina by Spaniards is named from resemblance to
+    Spanish pines, though the narrator qualifies the comparison; it has a rind, white
+    edible flesh, slight acidity, and larger size than the Spanish pine.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 16623-16635
+  quote_or_summary: A fruit in the country of the Antis is called manjar blanco because
+    its cut halves resemble that dish in colour and taste; it has black pips, a hard
+    rind, and sweet, slightly acid flesh.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 16635-16640
+  quote_or_summary: Many wild fruits grow in the country of the Antis, and Spaniards
+    call some almonds and nuts from supposed resemblance to those fruits in Spain.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily descriptive ethnobotany with explicit Spanish analogical
+    naming; it does not contain an explicit myth narrative or a supplied motif-family
+    match.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No explicit Inca mythological motif is present in the excerpt; taxonomy reference is limited to the literal plantain tree image.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l16590-l16640
+  passage_sha256=63c3b5098f1e792a795a2604bd4f707bbfe210573bcd8693964e887a9064e518
+

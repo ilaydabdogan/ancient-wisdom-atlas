@@ -1,0 +1,422 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l2525-l2563
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: THE  YNCA  CIRA-CCOCHA  RECEIVES  TIDINGS  OF  HIS  ENEMIES  ; / AND  OF  THE  AID  THAT  COMES  TO  HIM.
+    / COMMENTARIES  OP  THE  YNCAS. / FIFTH  BOOK  OF  THE  ROYAL; lines 2525-2563
+  start: '2525'
+  end: '2563'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Prince Ynca Uira-ccocha stays on a plain near the city while allied forces
+    gather. He receives reinforcements, rewards their leaders, hears that more men
+    are approaching, and orders them to conceal themselves in nearby hills and ravines
+    for a possible flank attack against the rebels. The enemy vanguard is then seen
+    from the pass of Pmac-Tampu.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Prince and his councillors decide not to go far from the city because
+    provisions and other army supplies are stored there and help could quickly be
+    given to the city if danger threatened it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Prince Ynca Uira-ccocha remains on the plain until his friends join him with
+    twelve thousand fighting men.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Prince receives the allied force joyfully, gives rich presents to the
+    Curacas and other officers, praises their loyalty, and offers rewards for their
+    service.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Curacas do homage to Ynca Uira-ccocha and report that five thousand more
+    fighting men are two days' journey behind them.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After consulting his relations, the Prince tells the Curacas to send notice
+    and instructions to the approaching force.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The approaching force is instructed to march quickly to nearby hills and ravines,
+    conceal itself there, and attack the rebels on one side if battle is offered.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Two days after the arrival of the reinforcements, the enemy vanguard is seen
+    from the top of the pass of Pmac-Tampu.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A note identifies Pmac-Tampu as now called Limatambo, a town with ruins of
+    an ancient palace and located at stated distances from the Apurimac bridge and
+    the plain where the Ynca was encamped.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Prince Ynca Uira-ccocha
+  description: The Prince and Ynca who remains on the plain, receives allies, rewards
+    leaders, consults relations, and orders tactical instructions.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Councillors and relations of the Prince
+  description: Advisers or kin consulted by the Prince in decisions about encampment
+    and action.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Friends of Prince Ynca Uira-ccocha
+  description: Allied force numbering twelve thousand fighting men who join the Prince
+    on the plain.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Curacas and other officers of each nation
+  description: Allied leaders who receive presents, are praised for loyalty, do homage
+    to the Ynca, report on another force, and are asked to send instructions.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Additional allied force
+  description: Five thousand more fighting men said to be two days' journey behind
+    the first reinforcements.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Enemy rebels
+  description: Hostile forces approaching the Prince; their vanguard is seen from
+    the pass of Pmac-Tampu.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: ruling Prince and Ynca
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly calls Uira-ccocha the Prince and Ynca.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: military commander and reward-giver
+  assigned_to:
+  - fig:1
+  basis: He receives forces, gives presents and rewards, and gives instructions for
+    concealed deployment against the rebels.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: advisers or consulted kin
+  assigned_to:
+  - fig:2
+  basis: The Prince acts with councillors and later consults his relations.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: loyal allied reinforcements
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The forces join or are approaching the Prince, and the first group is praised
+    for loyalty.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: allied leaders and intermediaries
+  assigned_to:
+  - fig:4
+  basis: The Curacas and officers receive gifts, do homage, report on another force,
+    and are asked to send notice and instructions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:6
+  label: concealed flanking force
+  assigned_to:
+  - fig:5
+  basis: The approaching five thousand are to hide in hills and ravines and attack
+    one side if battle occurs.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: hostile rebel army
+  assigned_to:
+  - fig:6
+  basis: The passage calls them enemies, rebels, and hostile forces approaching the
+    Ynca.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: plain encampment
+  literal_form: The plain where Prince Ynca Uira-ccocha waits for allies and enemies.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: city with provisions
+  literal_form: The nearby city where provisions and other army supplies are stored
+    and which may need help if threatened.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hills and ravines
+  literal_form: Nearby terrain where the approaching allied force is instructed to
+    conceal itself.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: pass of Pmac-Tampu
+  literal_form: The pass from whose top the enemy vanguard is seen; the note identifies
+    it with Limatambo.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: homage to the Ynca
+  literal_form: The Curacas do homage to their Ynca Uira-ccocha.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: rich presents
+  literal_form: Rich presents given by the Prince to the Curacas and other officers.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Decision to remain near the city
+  summary: The Prince and his councillors decide to stay near the city and its stores
+    so the army can be supplied and the city can be helped if threatened.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arrival and honoring of reinforcements
+  summary: Twelve thousand allied fighting men join the Prince; he welcomes them,
+    gives presents to their leaders, and praises their loyalty.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Homage and report of additional forces
+  summary: The Curacas do homage to the Ynca and report that another five thousand
+    fighting men are two days behind.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Instructions for concealed flank attack
+  summary: After consulting his relations, the Prince orders that the approaching
+    force be told to hide in nearby hills and ravines and attack the rebels on one
+    side if battle begins.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Enemy vanguard seen at Pmac-Tampu
+  summary: Two days after the reinforcements arrive, the enemy vanguard is seen from
+    the top of the pass of Pmac-Tampu, while the rebels know the Ynca is within five
+    leagues.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Loyal reinforcements gather around an embattled ruler
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Allied forces join Prince Ynca Uira-ccocha, their leaders do homage to him
+    as their Ynca, and he praises and rewards their loyalty.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a military-political chronicle excerpt; it does not explicitly
+    frame the ruler's legitimacy as divine or sacred in this passage.
+- id: motif:2
+  label: Royal reward for loyal service
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Prince gives rich presents to allied Curacas and officers, praises loyalty,
+    and offers rewards for signal service.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The exchange is political and military in the excerpt; no explicit sacred
+    exchange is stated.
+- id: motif:3
+  label: Concealed auxiliary force attacks from the side
+  taxonomy_refs: []
+  basis: The Prince orders the additional allied force to hide in hills and ravines
+    until the rebels approach and then attack one side during battle.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a narrative military tactic rather than a mapped mythological
+    motif family in the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2525-2532
+  quote_or_summary: The Prince and councillors judge that the army should stay near
+    the city because supplies are stored there and the city could be helped quickly
+    if threatened.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 2532-2538
+  quote_or_summary: Uira-ccocha remains on the plain until friends join him with twelve
+    thousand fighting men; he welcomes them, gives rich presents to Curacas and officers,
+    praises loyalty, and offers rewards.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 2538-2544
+  quote_or_summary: The Curacas do homage to Ynca Uira-ccocha and declare that five
+    thousand more fighting men are two days' journey behind.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 2544-2555
+  quote_or_summary: After consulting his relations, the Prince tells the Curacas to
+    notify the approaching men to conceal themselves in nearby hills and ravines and
+    to attack the rebels on one side if battle occurs.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 2556-2560
+  quote_or_summary: Two days after the reinforcements arrive, the enemy vanguard is
+    seen from the top of the pass of Pmac-Tampu; the rebels know Uira-ccocha is within
+    five leagues.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: note
+  locator: footnote at lines 2560-2563
+  quote_or_summary: The footnote identifies Pmac-Tampu as now called Limatambo, a
+    town with ruins of an ancient palace and located near the Apurimac bridge and
+    the Ynca's plain encampment.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignment is cautious because
+    the passage is primarily military and political, with limited explicitly mythic
+    or symbolic language. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to royal_legitimacy where supported by homage, loyalty, and royal reward language.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l2525-l2563
+  passage_sha256=b1f84124dca1e9ec18df3721779ef957bcbee506a5758f85ca3aaee8bc6d7bc9
+

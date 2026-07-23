@@ -1,0 +1,278 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l8748-l8761
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: J, 2  TALES  OF  READY-TO-GIVE. / THE    POOR  BOY  WHO  TURNED   INTO  AN    EAGLE.  173
+    / THE  POOR   BOY   WHO    TURNED   INTO   AN    EAGLE.  175 / THE  POOR  BOY  WHO  LOST  HIS  POWER.  177;
+    lines 8748-8761
+  start: '8748'
+  end: '8761'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: '"I shall now become a piece of flint, and shall go with you wherever you
+    go."'
+  summary: A speaker instructs a poor addressee that sprinkling water will bring clouds
+    and rain, promises to make him powerful, says he will become a piece of flint
+    and accompany him, and instructs him to heal the sick by placing the flint on
+    pains. A note says the tale teaches respect for flint and connects flint with
+    powers in the west, especially lightning.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says that sprinkling water on an unspecified object will cause
+    clouds to form in the west and bring rain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressee is described as poor, and the speaker says he will make the
+    addressee a powerful man.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says he will become a piece of flint and go with the addressee
+    wherever he goes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker instructs the addressee to heal sick people after returning to
+    his people by placing the flint on painful places.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The note states that the tale illustrates Pawnee respect for flint used in
+    arrowheads, knives, and similar implements.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note states that the tale teaches boys respect for flint and a belief
+    that flint originated from powers in the west, especially lightning.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed speaker who becomes flint
+  description: A speaker who promises power, says he will become a piece of flint,
+    and says he will remove pains when placed on them.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: poor addressee
+  description: A poor person addressed by the speaker and instructed to return to
+    his people and heal the sick with the flint.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: the sick
+  description: People whom the addressee is instructed to heal by placing the flint
+    upon their pains.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: transforming helper
+  assigned_to:
+  - fig:1
+  basis: The speaker says he will become a piece of flint and accompany the addressee.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: healing agent
+  assigned_to:
+  - fig:1
+  basis: The speaker says he will remove pains when placed on them after becoming
+    flint.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recipient of power and instructions
+  assigned_to:
+  - fig:2
+  basis: The addressee is called poor, promised power, and instructed to use the flint
+    for healing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: patients to be healed
+  assigned_to:
+  - fig:3
+  basis: The passage refers to sick people whose pains will be removed.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: water for rainmaking
+  literal_form: water sprinkled on an unspecified object
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: clouds in the west and rain
+  literal_form: clouds forming in the west and coming as rain
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: flint
+  literal_form: a piece of flint used as an accompanying healing object
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: lightning-linked western power
+  literal_form: powers in the west, especially lightning, named in the note as the
+    origin of flint
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Instruction for rain and power
+  summary: The speaker tells the poor addressee that sprinkling water will bring clouds
+    from the west and rain, and promises to make him powerful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Transformation into healing flint
+  summary: The speaker says he will become a piece of flint, accompany the addressee,
+    and remove pains when used to heal the sick.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Editorial note on flint respect
+  summary: The note explains that the tale teaches respect for flint and associates
+    flint with powers in the west, especially lightning.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: being transforms into a portable object companion
+  taxonomy_refs:
+  - shapeshifter
+  basis: The speaker explicitly says he will become a piece of flint and go with the
+    addressee wherever he goes.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is fragmentary and does not identify the speaker or the full
+    narrative context.
+- id: motif:2
+  label: empowerment through a healing object
+  taxonomy_refs:
+  - initiation
+  basis: The poor addressee is promised power and instructed to heal sick people by
+    placing the flint on pains.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives instruction and empowerment but does not show a complete
+    initiation sequence in this excerpt.
+- id: motif:3
+  label: ritual water act brings rain
+  taxonomy_refs: []
+  basis: The speaker says that sprinkling water on an unspecified object will cause
+    clouds to form in the west and bring rain.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The object sprinkled with water is not preserved in the excerpt, and no
+    taxonomy reference directly matches rainmaking.
+- id: motif:4
+  label: flint as sacred or powerful material
+  taxonomy_refs: []
+  basis: The note states that the tale teaches respect for flint and connects its
+    origin with powers in the west, especially lightning.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This basis comes from the supplied explanatory note rather than the narrative
+    speech alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8748-8751
+  quote_or_summary: The speaker says that sprinkling water will make clouds form in
+    the west and bring rain, and says, "You are poor, but I shall make you a powerful
+    man."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 8751-8754
+  quote_or_summary: '"I shall now become a piece of flint, and shall go with you wherever
+    you go"; after returning to his people, the addressee is to heal the sick by placing
+    the flint on pains.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 8755-8761
+  quote_or_summary: The note attributes the tale to White-Sun, Kitkehahki, and says
+    it illustrates Pawnee respect for flint used in tools and weapons, teaching boys
+    respect for flint and its origin from western powers, especially lightning.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The excerpt is short and begins mid-sentence; figures and setting are not
+    fully identified. Motif candidates are limited to details directly present in
+    the passage and note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison beyond available internal motif tagging.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l8748-l8761
+  passage_sha256=3e61eab06063cbbc1030a29f63c36176c83ca8b06f012d7d530f00ae92253c68
+

@@ -1,0 +1,218 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l628-l644
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS.  7 / FIFTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS.
+    / CHAPTER  III.; lines 628-644
+  start: '628'
+  end: '644'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains that each Indian was allotted a tupu of land for sowing
+    maize, and then defines the word tupu as a measure used for land, road distance,
+    liquids, and women’s cloak pins; it also gives Poccha as the name of the seed
+    measure equivalent to a fanegada.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chapter heading states that the passage concerns the quantity of land
+    given to each Indian and how it was improved.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Each Indian was given a tupu of land on which to sow maize.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The tupu is described as a fanega of land, compared with a fanega and a half
+    in Spain.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The word tupu is also used for a league of road and is connected with a verb
+    meaning to measure.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The word tupu is used for measures of liquids such as water, wine, or other
+    liquor.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The word tupu is also applied to large pins used by women to fasten their
+    cloaks.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The measure for seeds is named Poccha and is equated with a fanegada.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unspecified land-giving agents
+  description: The passage refers to unnamed agents who gave each Indian a tupu of
+    land.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: each Indian
+  description: Each Indian is described as receiving a tupu of land for sowing maize.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: women
+  description: Women are described as fastening their cloaks with large pins also
+    called tupu.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: land-allotting agent
+  assigned_to:
+  - fig:1
+  basis: The passage says that unnamed agents gave each Indian a tupu of land.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: recipient and maize sower
+  assigned_to:
+  - fig:2
+  basis: Each Indian receives land specifically for sowing maize.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: user of cloak pins
+  assigned_to:
+  - fig:3
+  basis: Women use large pins called tupu to fasten their cloaks.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: tupu
+  literal_form: A term used for a land measure, a league of road, a general measure
+    for liquids, and large cloak pins.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: maize land allotment
+  literal_form: A tupu of land assigned for sowing maize.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: water as measured liquid
+  literal_form: Water is listed among liquids that may be measured by a tupu.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Poccha
+  literal_form: The named measure for seeds, equivalent to a fanegada.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: allotment of maize land
+  summary: Unnamed agents give each Indian a tupu of land to sow maize, and the passage
+    explains the size by comparison with Spanish measures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: definitions of tupu and Poccha
+  summary: The passage explains several uses of the term tupu and distinguishes the
+    seed measure called Poccha.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 628-632
+  quote_or_summary: The chapter heading introduces the topic as the quantity of land
+    given to each Indian and how it was improved.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 633-635
+  quote_or_summary: Each Indian is given a tupu of land for sowing maize; the tupu
+    is compared to a fanega of land and to a larger Spanish equivalent.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 635-639
+  quote_or_summary: Tupu is also a term for a league of road, is associated with a
+    verb meaning to measure, and is used for measures of water, wine, or other liquids.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 639-643
+  quote_or_summary: Tupu is applied to large pins with which women fastened cloaks,
+    while the seed measure has another name, Poccha, equivalent to a fanegada.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is chiefly administrative and lexical. No mythic motif candidate
+    or comparison claim is supported by the provided text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No motif candidates were extracted because the passage defines measures and land allotment terminology rather than narrating a mythic episode.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l628-l644
+  passage_sha256=8846e30a3046a48a589f0c503570c8264213520d2742eb7ecd66b62c0cc9abda
+

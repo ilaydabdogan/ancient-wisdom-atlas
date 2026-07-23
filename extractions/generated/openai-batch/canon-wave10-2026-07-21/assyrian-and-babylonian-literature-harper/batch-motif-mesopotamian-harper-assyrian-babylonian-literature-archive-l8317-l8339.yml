@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l8317-l8339
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: CYLINDER   A   OF   ESARHADDON  87 / BLACK  STONE   OF   ESARHADDON / MONOLITH   OF   ESARHADDON  91
+    / SHORT   INSCRIPTIONS   OF  ESARHADDON; lines 8317-8339
+  start: '8317'
+  end: '8339'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains a fragmentary curse of captivity, an exhortation that
+    a future prince should see, read, cleanse, and ritually honor a tablet in the
+    speaker's name while exalting Ashur, and a short inscription identifying Esarhaddon's
+    palace and royal titles on a bronze lion.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed female-referred agent is invoked to cause an unnamed male-referred
+    target to dwell as a captive among enemies.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A future prince is wished or instructed to see a tablet written in the speaker's
+    name.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The future prince is wished or instructed to read the tablet aloud, cleanse
+    it with oil, offer a sacrifice, and exalt the name or fame of Ashur.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A heading identifies one short inscription as being on a bronze lion in the
+    Museum at Constantinople.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The inscription identifies the palace of Esarhaddon and calls him king of
+    the world, king of Assyria, and conqueror of Egypt and Cush.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed female-referred agent
+  description: A figure referred to only as "she" in the fragmentary curse formula.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unnamed male-referred target
+  description: A figure referred to only as "him" who is to dwell captive among enemies.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: future prince
+  description: A future prince addressed as the one who may see, read, cleanse, and
+    ritually honor the tablet.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Ashur
+  description: Named as the speaker's lord whose name or fame is to be exalted.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Esarhaddon
+  description: Named as king of the world, king of Assyria, conqueror of Egypt and
+    Cush, and associated with a palace inscription.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: enemies
+  description: The group among whom the unnamed target is to dwell as a captive.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: first-person inscriptional speaker
+  description: The speaker whose name is on the tablet and who refers to Ashur as
+    "my lord"; the passage excerpt does not independently identify this speaker within
+    the tablet instruction lines.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: invoked agent of captivity
+  assigned_to:
+  - fig:1
+  basis: The passage invokes "she" to cause a person to live as a captive among enemies.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: captive target
+  assigned_to:
+  - fig:2
+  basis: The passage refers to "him" as the one who may be made to dwell as a captive.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: future royal reader and ritual performer
+  assigned_to:
+  - fig:3
+  basis: The future prince is instructed or wished to see the tablet, read it aloud,
+    cleanse it with oil, offer a sacrifice, and exalt Ashur's name.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: lord whose name is exalted
+  assigned_to:
+  - fig:4
+  basis: Ashur is called "my lord" and his name or fame is to be exalted.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: named king and palace owner
+  assigned_to:
+  - fig:5
+  basis: The inscription names Esarhaddon and gives him royal titles connected with
+    the palace.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: enemy group associated with captivity
+  assigned_to:
+  - fig:6
+  basis: The target is to dwell as captive among enemies.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: owner of the inscribed name
+  assigned_to:
+  - fig:7
+  basis: The tablet is described as written in the speaker's name.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: tablet in the speaker's name
+  literal_form: written tablet
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: oil for cleansing
+  literal_form: oil
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sacrifice offering
+  literal_form: sacrifice
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: name or fame of Ashur
+  literal_form: name (fame) of Ashur
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: bronze lion
+  literal_form: bronze lion
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: palace of Esarhaddon
+  literal_form: palace
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: fragmentary captivity curse
+  summary: A female-referred agent is invoked to cause an unnamed target to live as
+    a captive among enemies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: future prince honors the tablet
+  summary: A future prince is asked to see and read a tablet in the speaker's name,
+    cleanse it with oil, offer sacrifice, and exalt Ashur's name.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: bronze-lion palace inscription
+  summary: A short inscription on a bronze lion identifies Esarhaddon's palace and
+    royal titles.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: captivity imprecation
+  taxonomy_refs: []
+  basis: The passage contains a curse-like formula in which a figure is invoked to
+    make a target dwell captive among enemies.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The supplied excerpt begins mid-sentence, and the antecedents of "she"
+    and "him" are not present.
+- id: motif:2
+  label: successor honors an inscribed royal tablet
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: A future prince is instructed to encounter a tablet written in the speaker's
+    name and perform acts that preserve or honor it while exalting Ashur.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The tablet instruction is clear, but the speaker's identity is not independently
+    stated inside these lines.
+- id: motif:3
+  label: ritual cleansing and sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly mentions cleansing the tablet with oil and offering
+    a sacrifice.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: royal titulary and conquest as legitimation
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: 'Esarhaddon is identified through expansive royal titles and conquest claims:
+    king of the world, king of Assyria, and conqueror of Egypt and Cush.'
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8317-8319
+  quote_or_summary: '"May she cause him to dwell as a captive among his enemies!"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source text; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 8320-8326
+  quote_or_summary: A future prince is to see the tablet written in the speaker's
+    name, read it aloud, cleanse it with oil, offer sacrifice, and exalt Ashur's name
+    or fame.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source text summarized.
+- id: ev:3
+  type: quote
+  locator: 8330-8336
+  quote_or_summary: '"ON A BRONZE LION IN THE MUSEUM AT CONSTANTINOPLE"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source text; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: 8337-8339
+  quote_or_summary: '"Palace of Esarhaddon, king of the world, King of Assyria, the
+    conqueror of Egypt and Cush."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source text; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is limited by the fragmentary opening and unresolved pronouns.
+    No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used; no external context was added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l8317-l8339
+  passage_sha256=e17037aea85b97ed27b94d0760eb277d373ffa0603c58a66e51d2b94c90b6351
+

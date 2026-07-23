@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l880-l927
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: FIFTH  BOOK  OF  THE  ROYAL / CHAPTER  IV. / COMMENTARIES  OF  THE  YNCAS.
+    / CHAPTER  Y.; lines 880-927
+  start: '880'
+  end: '927'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: Their tribute was to cultivate the lands of the Sun and of the Yuca, to gather
+    in the harvests, and to store them in granaries
+  summary: The passage explains that tribute to the Ynca kings consisted in cultivating
+    the lands assigned to the Sun and the ruler, gathering the harvests, and storing
+    them in village granaries. It then describes the construction, capacity, layout,
+    and measuring windows of the granaries.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage describes tribute as cultivation of the lands of the Sun and of
+    the Yuca, followed by gathering and storing the harvests in village granaries.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Granaries called pinta were built of clay mixed with straw and were constructed
+    carefully in the time of the Yncas.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The granaries were made in different sizes, with capacities stated as fifty
+    to two hundred fanegas.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Each granary had four walls and a passage down the middle leading from one
+    granary to another.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Small front windows arranged in eight squares allowed grain to be poured out
+    in measured quantities, so that the amount removed and remaining could be known.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Maize is named as a stored crop whose quantity in each depot could be known
+    by the size of the granary and the windows.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Yncas / kings
+  description: The rulers to whom tribute is paid, identified as kings and associated
+    with the described administrative system.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: vassals
+  description: The people who cultivated the land and paid tribute through agricultural
+    labor and harvest storage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the Sun
+  description: A named sacred landholder whose lands were cultivated as part of tribute.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: royal tribute recipient
+  assigned_to:
+  - fig:1
+  basis: The passage says the tribute was paid to the kings.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: tribute laborers
+  assigned_to:
+  - fig:2
+  basis: The vassals are described as cultivating the lands, gathering harvests, and
+    storing them.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: sacred landholder
+  assigned_to:
+  - fig:3
+  basis: The lands of the Sun are specifically named as lands cultivated in the tribute
+    system.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: granary storage
+  literal_form: granaries called pinta
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: measuring windows
+  literal_form: small windows in front, in eight squares
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: cultivated sacred and royal lands
+  literal_form: lands of the Sun and of the Yuca
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: stored maize
+  literal_form: maize in each depot
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Tribute through cultivation and storage
+  summary: The vassals cultivate the lands of the Sun and the Yuca, gather the harvests,
+    and store them in granaries kept in each village.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Construction and arrangement of granaries
+  summary: Granaries called pinta are described as carefully made clay-and-straw structures
+    of measured capacity, with four walls and a passage connecting one granary to
+    another.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Measured removal of grain
+  summary: Grain is poured out through small front windows arranged in eight squares,
+    allowing the amount removed and remaining to be known without further measurement.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacred and royal agricultural tribute
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage presents agricultural labor and harvested produce as tribute
+    connected both to the Sun and to the Ynca ruler, with storage in village granaries.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is administrative and historical in tone; it does not narrate
+    a reciprocal gift, mythic bargain, or explicit ritual exchange.
+- id: motif:2
+  label: ordered royal storage and measurement
+  taxonomy_refs: []
+  basis: The granaries are described as carefully built, standardized, measured storage
+    structures with windows used to track quantities removed and remaining.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a political-economic pattern rather than a mythic narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 880-927
+  quote_or_summary: "“Their tribute was to cultivate the lands of the Sun and of the
+    Yuca, to gather in the harvests, and to store them in granaries which were kept
+    in each village.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 880-927
+  quote_or_summary: Granaries called pinta are described as built of clay mixed with
+    straw and constructed with great care in the time of the Yncas.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 880-927
+  quote_or_summary: The granaries were made in varied sizes according to required
+    measurement, holding from fifty to two hundred fanegas.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 880-927
+  quote_or_summary: Each granary had four walls and a middle passage leading from
+    one granary to another, so they could be filled or emptied.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 880-927
+  quote_or_summary: Small front windows in eight squares measured grain poured out,
+    allowing people to know how many fanegas were removed and how much maize remained.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal administrative details are explicit. Motif assignments are cautious
+    because the passage is not primarily mythic and gives no explicit cross-tradition
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The passage contains OCR-like forms such as “Yuca”; extraction preserves the provided wording rather than normalizing it.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l880-l927
+  passage_sha256=f184c6b0d21967fec3939fa65cad10c3185f66dc70dd54771ead4e2b27068e88
+

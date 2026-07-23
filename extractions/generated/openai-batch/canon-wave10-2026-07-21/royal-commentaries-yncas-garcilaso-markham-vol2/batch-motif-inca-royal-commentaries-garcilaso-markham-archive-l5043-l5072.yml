@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l5043-l5072
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  IV. / SIXTH  BOOK  OP  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS.
+    / SIXTH  BOOK  OP  THE  ROYAL; lines 5043-5072
+  start: '5043'
+  end: '5072'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes items intended for a predecessor’s use in the next
+    world, while other palace ornaments were left for his successor. It then describes
+    fuel and water supplied to the Ynca’s palace by people from four districts around
+    Cuzco, preferences for thick or brackish water in brewing aca, and later conveyance
+    of better water to Cuzco squares.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some items are described as being for a male figure’s use in the next world,
+    while other rich palace ornaments such as gardens, baths, and imitation fuel were
+    left for his successor.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fuel and water consumed in the palace when the Ynca was in Cuzco were brought
+    in turn by Indigenous people of the four districts called Ttahua-ntin Suyu.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same supplies were brought during the Ynca’s absence, but in smaller quantity.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Water used for brewing the drink called aca was expected to be thick and a
+    little brackish, because clear sweet water was thought to give the beverage no
+    taste or seasoning.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says the Indigenous people were not particular about fountains
+    of good water, preferred muddy streams to clear ones, and that Cuzco had no good
+    water.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In 1555 and 1556, when the narrator’s father was Corregidor of Cuzco, water
+    called Tica-tica was conveyed from a quarter-league away into the great square;
+    later it was led to San Francisco square, and another spring was conducted to
+    the great square.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed male predecessor
+  description: A male figure referred to by pronouns whose items were intended for
+    use in the next world; the excerpt gives him a successor but begins mid-sentence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: his successor
+  description: The successor for whose use the remaining rich palace ornaments were
+    left.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the Ynca
+  description: The ruler whose presence or absence in Cuzco affected the quantity
+    of fuel and water supplied for the palace.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Indigenous people of the four districts / Ttahua-ntin Suyu
+  description: People from villages nearest Cuzco, belonging to four regions, who
+    brought palace fuel and water in turn and are associated with the stated water
+    preferences.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: narrator’s father
+  description: The narrator’s father, described as Corregidor of Cuzco in 1555 and
+    1556 when Tica-tica water was conveyed to the city.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Francisco Hernandez Giron
+  description: A named figure in the dating phrase referring to the war of Francisco
+    Hernandez Giron.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: next-world beneficiary
+  assigned_to:
+  - fig:1
+  basis: The passage says items were for his use in the next world.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: successor and palace-goods recipient
+  assigned_to:
+  - fig:2
+  basis: Gardens, baths, and imitation fuel were left for the use of his successor.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ruler associated with palace consumption
+  assigned_to:
+  - fig:3
+  basis: Fuel and water were consumed in the palace when the Ynca was in Cuzco, and
+    still supplied in lesser quantity during his absence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: rotating suppliers
+  assigned_to:
+  - fig:4
+  basis: They brought fuel and water in turn from the four districts around Cuzco.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: aca-water preference holders
+  assigned_to:
+  - fig:4
+  basis: The passage attributes preferences for thick, brackish, or muddy water to
+    the Indigenous people described in this section.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: colonial city official in dating notice
+  assigned_to:
+  - fig:5
+  basis: He is described as Corregidor of Cuzco in the years when Tica-tica water
+    was conveyed to the city.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: named war-associated figure
+  assigned_to:
+  - fig:6
+  basis: His war is mentioned as a chronological marker before the water conveyance.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Palace water, brewing water for aca, muddy or clear streams, Tica-tica
+    water, and springs conveyed to Cuzco.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: fuel and imitation fuel
+  literal_form: Fuel consumed in the palace and imitation fuel listed among rich palace
+    ornaments left to the successor.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: palace ornaments
+  literal_form: Rich ornaments of the palaces, including gardens, baths, and imitation
+    fuel.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: aca
+  literal_form: A drink brewed with water described as preferably thick and a little
+    brackish.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Allocation of palace goods between next world and successor
+  summary: A mid-sentence fragment says certain items were for a male figure’s use
+    in the next world, while other rich palace ornaments were left for his successor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rotating palace supplies from four districts
+  summary: When the Ynca was in Cuzco, palace fuel and water were brought in turn
+    by people from the four districts around the city; in his absence the same supplies
+    were brought in smaller quantity.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Water preferences for aca
+  summary: The passage explains that water for aca should be thick and slightly brackish,
+    and says muddy streams were preferred to clear ones.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Conveyance of better water to Cuzco
+  summary: During the narrator’s father’s tenure as Corregidor, Tica-tica water was
+    brought into the great square of Cuzco, and later waterworks led water to other
+    city squares.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Provisioning for use in the next world
+  taxonomy_refs: []
+  basis: The passage states that items were intended for a male figure’s use in the
+    next world.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The line range begins mid-sentence, so the specific antecedent and the
+    full list of items intended for the next world are outside the excerpt.
+- id: motif:2
+  label: Royal palace supplied by four regions
+  taxonomy_refs: []
+  basis: Fuel and water for the Ynca’s palace were brought in turn by people of the
+    four districts around Cuzco, with supply quantities varying according to the Ynca’s
+    presence or absence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents this as administrative practice; it does not explicitly
+    frame the four regions as cosmological or sacred.
+- id: motif:3
+  label: Special water quality for brewing
+  taxonomy_refs: []
+  basis: The passage gives a culturally specific preference for thick, brackish, or
+    muddy water over clear sweet water for brewing aca.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a practical and cultural water-use pattern rather than an explicitly
+    mythic motif in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5043-5047
+  quote_or_summary: A fragment says items were for use in the next world; other palace
+    ornaments, including gardens, baths, and imitation fuel, were left for the successor.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized with brief wording from the passage.
+- id: ev:2
+  type: summary
+  locator: 5048-5055
+  quote_or_summary: Fuel and water consumed in the palace when the Ynca was in Cuzco
+    were brought in turn by people of the four districts called Ttahua-ntin Suyu,
+    from nearby villages belonging to four regions.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5055-5056
+  quote_or_summary: In the Ynca’s absence, the same fuel and water were supplied,
+    though not in such quantity.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 5057-5065
+  quote_or_summary: Water for brewing aca should be thick and a little brackish; clear
+    sweet water was thought not to season the beverage, and muddy streams were preferred
+    to clear ones.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 5065-5072
+  quote_or_summary: When the narrator’s father was Corregidor after the war of Francisco
+    Hernandez Giron, Tica-tica water was conveyed to Cuzco’s great square; later it
+    was led to San Francisco square and another spring was brought to the great square.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is mostly historical and administrative. The afterlife-related
+    observation is clear but begins mid-sentence; no external context was used. No
+    comparison claims are made because the excerpt itself does not support cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Source metadata indicates public-domain English text. Extraction limited to supplied line range.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l5043-l5072
+  passage_sha256=7f0b50fca4a38befb8c7783dc8b89586fe5a4f8c551e5094d0be60d2c0a8f4d9
+

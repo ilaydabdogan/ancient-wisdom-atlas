@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l9854-l9951
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: FOUNDATION. / FIRST  OFFSHOOT. / SECOND  OFFSHOOT. / INUINU  RUA.; lines
+    9854-9951
+  start: '9854'
+  end: '9951'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A bilingual song excerpt describes Puvai's canoe, sorrow at the canoe,
+    instructions to sit in front clothed in a ghostly network and face a yonder land,
+    a wind-ruffled sea, Tiki leading the way, and Mangaia fading from Puvai's sight
+    as he departs over the billows.
+  language: Mangaian with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage names a bark or canoe as belonging to Puvai.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A figure sorrowfully bends over the canoe.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An addressed “son” is told to sit in front, to be clothed in ghostly network,
+    and to turn his face toward a yonder land.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The song states that he is about to depart and describes him skimming over
+    the crest of the billows.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The south-west wind and north-west wind are mentioned in connection with ruffling
+    the sea.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Tiki is identified as sister of Veetini and is said to lead the way.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Mangaia fades from Puvai's sight and is driven away by violent winds.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A footnote specifies that a referenced group of friends and relatives are
+    living persons, not ghosts.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Puvai
+  description: Named in relation to the canoe and as the one from whose sight Mangaia
+    fades.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: Tiki
+  description: Named as sister of Veetini and as the one who leads the way.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Veetini
+  description: Named in the section title and as Tiki's sibling; no direct action
+    is described in this excerpt.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:8
+roles:
+- id: role:1
+  label: departing canoe voyager
+  assigned_to:
+  - fig:1
+  basis: Puvai is associated with the canoe, the departure, and Mangaia fading from
+    his sight.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:2
+  label: leader of the way
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly states that Tiki leads the way.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: referenced sibling and title figure
+  assigned_to:
+  - fig:3
+  basis: Veetini appears in the section title and is identified as Tiki's sibling.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:4
+  label: sorrowful figure at the canoe
+  assigned_to:
+  - fig:1
+  basis: The canoe is called Puvai's, and the translation says he bends over it sorrowfully.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: canoe or bark
+  literal_form: the bark or canoe of Puvai
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: yonder land
+  literal_form: the land toward which the addressed figure is told to turn his face
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ghostly network
+  literal_form: a ghostly network worn as clothing or covering
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sea and billows
+  literal_form: ruffled sea and crest of the billows
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: directional winds
+  literal_form: south-west wind, north-west wind, and violent winds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:6
+  label: Mangaia fading from sight
+  literal_form: Mangaia fading from the sight of Puvai
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Puvai's canoe and preparation toward another land
+  summary: The song identifies Puvai's canoe, describes sorrow over it, and gives
+    instructions to sit in front, wear a ghostly network, and face a yonder land.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Wind-driven departure over the sea
+  summary: The song announces departure over the billows, invokes winds over the sea,
+    says Tiki leads the way, and describes Mangaia fading from Puvai's sight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: afterlife or otherworld journey by canoe
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The section title concerns immortality of the soul, while the song describes
+    a canoe departure toward a yonder land, ghostly covering, sea travel, and Tiki
+    leading the way.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The excerpt is a song fragment; the death context and destination are
+    not fully described within the supplied passage.
+- id: motif:2
+  label: departure from homeland by sea
+  taxonomy_refs:
+  - departure
+  basis: The passage says he is about to depart, skims over the billows, and Mangaia
+    fades from Puvai's sight under violent winds.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The broader narrative context is not included, so this is limited to the
+    depicted departure scene.
+- id: motif:3
+  label: guided journey
+  taxonomy_refs: []
+  basis: Tiki is explicitly said to lead the way during the departure sequence.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Only one line in the supplied excerpt states Tiki's guiding role.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9854-9951; INUINU RUA translation
+  quote_or_summary: "“Yonder is the bark — the canoe — of Puvai”; he “sorrowfully”
+    bends over it."
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:2
+  type: quote
+  locator: lines 9854-9951; INUINU RUA translation
+  quote_or_summary: "“Take thy seat, son, in front. Clothed in ghostly network; And
+    turn thy face to yonder land.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:3
+  type: quote
+  locator: lines 9854-9951; INUINU RUA translation
+  quote_or_summary: "“He is about to depart”; “Lightly he skims o'er the crest of
+    the billows.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:4
+  type: quote
+  locator: lines 9854-9951; THIRD OFFSHOOT translation
+  quote_or_summary: "“Let a south-west wind ruffle the sea. Awake thou north-west.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:5
+  type: quote
+  locator: lines 9854-9951; THIRD OFFSHOOT note/translation
+  quote_or_summary: "“Tiki, sister of Veetini, leads the way.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:6
+  type: quote
+  locator: lines 9854-9951; THIRD OFFSHOOT translation
+  quote_or_summary: "“Mangaia fades from the sight of Puvai, Driven away by the violence
+    of the winds.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:7
+  type: quote
+  locator: lines 9854-9951; footnote in excerpt
+  quote_or_summary: "“That is of living friends and relatives, not ghosts.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:8
+  type: quote
+  locator: lines 9854-9951; section heading
+  quote_or_summary: "“Veetini; or, The Immortality of the Soul.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain according to supplied source metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied song excerpt and its embedded English
+    translations. Motif candidates are cautious because the passage is fragmentary
+    and broader narrative context is absent. No cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only supplied passage text, metadata, and available taxonomy references.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l9854-l9951
+  passage_sha256=775ad0729b170e6e6a0687f852a7e772b4caefff8892ee8ea905d82c26d54412
+

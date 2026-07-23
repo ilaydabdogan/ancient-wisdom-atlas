@@ -1,0 +1,425 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l26092-l26217
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: VARIOUS  GAMES / CHESS / CARD  GAMES / RULES  OF  PLA  Y; lines 26092-26217
+  start: '26092'
+  end: '26217'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“Six is an unlucky card”"
+  summary: The passage lists card values, Malay card phrases, and rules or terminology
+    for Malay card games. It describes how players delay revealing cards to prolong
+    suspense, identifies an unlucky card, names a favorable hand, gives a saying for
+    continued good luck after winning, and summarizes Selangor card-game terminology
+    and rules for sakopong and chabut.
+  language: English with Malay terms and phrases
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The opening list names specific cards and includes the statement that six
+    is an unlucky card.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several Malay phrases or lines follow the initial card list.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A player with three cards delays looking at them by holding them together,
+    viewing the outside cards first, and sliding out the middle card little by little.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The delayed viewing leaves the identity of a card temporarily uncertain, such
+    as whether it is an eight or seven, or a nine or ten.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A player dealt a court-card, an eight, and an ace, with the eight in the middle,
+    sees eleven from the two outside cards, says “Handak kaki tiga,” and then slides
+    out the middle card hoping for an eight or seven.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The court-card, middle-eight, and ace hand is called “lang siput” because
+    it is said to be certain to carry off something.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A player who has just held a winning hand says a Malay phrase expressing hope
+    for continued good luck.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The plantain called sarabu is described as putting out fruit from every stem
+    of the clump at about the same time, or one immediately after another.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The Selangor account lists Malay names for suits, ranks, dealing actions,
+    card types, and sequences.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: 'The passage identifies three important card games: main sakopong, main chabut,
+    and main tiga ’lei or pakan.'
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: In sakopong, cards from two to six are cast out, five cards are dealt to each
+    player, players lead or follow suit, and the highest card of the suit wins unless
+    the play is drawn.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Main chabut is described as a species of vingt-et-un and may be played with
+    twenty-one or thirty-one points, with court cards counted only in the thirty-one-point
+    form.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: generic card player
+  description: A person participating in the card games, receiving cards, revealing
+    them, leading or following suit, and possibly winning.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: dealer
+  description: The person associated with dealing cards; the passage also mentions
+    an ace of diamonds in the hands of the dealer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: fig:3
+  name_or_label: player with court-card, eight, and ace
+  description: A player dealt a court-card, an eight, and an ace, who slides out the
+    middle card while hoping for a favorable result.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: player who has just held a winning hand
+  description: A player who has won and speaks a phrase hoping for continued good
+    luck.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: writer/compiler of the Selangor account
+  description: The writer is said to have compiled the following account of card games
+    played in Selangor.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: card player
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  basis: The passage describes persons receiving, holding, revealing, leading, following,
+    and winning cards.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+- id: role:2
+  label: dealer
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the hands of the dealer and to cards being dealt.
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: role:3
+  label: winning or luck-seeking player
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: One player hopes for a favorable middle card, and another expresses hope
+    for continued good luck after a winning hand.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: compiler of game account
+  assigned_to:
+  - fig:5
+  basis: The passage states that the account of Selangor card games was compiled by
+    the writer.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: unlucky six-card
+  literal_form: the six card
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: concealed middle card
+  literal_form: the middle card of a three-card hand, slid out little by little between
+    the two outside cards
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: lang siput hand
+  literal_form: a hand containing a court-card, an eight, and an ace, with the eight
+    in the middle
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: plantain sarabu as continued fruiting image
+  literal_form: a plantain whose stems put out fruit at about the same time or one
+    immediately after another
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: card list and unlucky six
+  summary: The passage opens with card names and Malay lines, including the explicit
+    statement that six is an unlucky card.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: delayed revelation of three cards
+  summary: A player prolongs suspense by examining outside cards first and sliding
+    out the middle card gradually, leaving the result uncertain for a time.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: lang siput hand
+  summary: A player with a court-card, an ace, and a concealed middle card hopes the
+    middle card will be an eight or seven; the hand is named lang siput because it
+    is expected to carry off something.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: continued good luck after winning
+  summary: A recent winner uses a saying about plantain sarabu to express hope for
+    further good luck.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Selangor terminology for cards
+  summary: The writer gives Malay terms used in Selangor for suits, ranks, card actions,
+    ordinary cards, and sequences.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: sakopong and chabut rules
+  summary: The passage names major card games and summarizes rules for sakopong and
+    chabut, including dealing, following suit, winning tricks, draws, and point totals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: unlucky card within play
+  taxonomy_refs: []
+  basis: The passage explicitly states that six is an unlucky card.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives no explanation for why six is unlucky and no wider ritual
+    or cosmological context.
+- id: motif:2
+  label: delayed revelation of gaming fate
+  taxonomy_refs: []
+  basis: A player is said to delay looking at the three cards and to learn his fate
+    only gradually by revealing the middle card last.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The word fate is used in the immediate context of card play; broader divinatory
+    meaning is not established by the passage.
+- id: motif:3
+  label: concealed decisive middle card
+  taxonomy_refs: []
+  basis: The result of a hand remains uncertain while the middle card is slid out,
+    and the player hopes that the hidden card will be an eight or seven.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a play pattern and suspense device; symbolic meaning beyond the
+    game is not stated.
+- id: motif:4
+  label: continued luck imagined through repeated fruiting
+  taxonomy_refs: []
+  basis: After a winning hand, a player expresses hope for continued good luck through
+    a saying about plantain sarabu fruiting stem after stem.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage explains the plantain image but does not connect it to ritual
+    practice outside card play.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares main chabut to vingt-et-un by calling it a species
+    of that game and describing twenty-one- and thirty-one-point variants.
+  claim_level: same_function
+  target: vingt-et-un card-game pattern
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a comparison of card-game mechanics, not a mythological or
+    ritual comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 26092-26217, opening card list
+  quote_or_summary: 'The list includes named cards and the statement: “Six is an unlucky
+    card.”'
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 26092-26217, paragraph beginning “A player does not hastily look...”
+  quote_or_summary: A player delays looking at three cards, holds them together, looks
+    first at the outside cards, and slowly slides out the middle one so the result
+    remains uncertain for a time.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 26092-26217, paragraph beginning “A man to whom a court-card...”
+  quote_or_summary: A player with a court-card, an eight, and an ace, with the eight
+    in the middle, says “Handak kaki tiga,” slides out the middle card, and the hand
+    is called lang siput because it is sure to carry off something.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized with short quoted terms.
+- id: ev:4
+  type: summary
+  locator: lines 26092-26217, paragraph beginning “A man who has just held a winning
+    hand...”
+  quote_or_summary: A recent winner expresses hope for continued good luck with a
+    saying about plantain sarabu; the plantain is explained as fruiting from each
+    stem in close succession.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: citation
+  locator: lines 26092-26217, footnote after quoted card-play description
+  quote_or_summary: The quoted material is attributed to Notes and Queries No. I,
+    section 23, quoted in Denys, Descriptive Dictionary of British Malaya, under “Cards.”
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; citation summarized.
+- id: ev:6
+  type: summary
+  locator: lines 26092-26217, Selangor terminology list
+  quote_or_summary: The writer says the Selangor card-game account was compiled by
+    him and lists Malay names for suits, ranks, shuffling, dealing, cutting, sweeping
+    the board, court cards, ordinary cards, and sequences.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 26092-26217, sentence beginning “The three most important card games...”
+  quote_or_summary: The three most important card games are listed as main sakopong,
+    main chabut, and main tiga ’lei or pakan.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 26092-26217, section “1. In the game called sakopong...”
+  quote_or_summary: In sakopong, cards two through six are removed, five cards are
+    dealt to each player, players lead and follow suit or turn over a card, the highest
+    card of the suit wins, and equal tricks make a draw with stakes returned.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 26092-26217, section “2. Main chabut...”
+  quote_or_summary: Main chabut is described as a species of vingt-et-un played with
+    either twenty-one or thirty-one points; court cards are not counted in the twenty-one-point
+    game but are included in the thirty-one-point game.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear as a description of card games and card-luck expressions.
+    Motif interpretation is limited because the material is gaming lore rather than
+    an explicit mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif or symbol reference was applied, because the passage does not directly support the supplied mythological taxonomy categories.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l26092-l26217
+  passage_sha256=ff820a8380ef375d371fe4d739fb330e25400740d04c31f36e87c066c874e089
+

@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.african-akikuyu-prehistoric-people-routledge-archive-l11110-l11139
+source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+passage_locator:
+  label: PLATE   CI / PL.  CI / PLATE    CI  I / PL.  CII; lines 11110-11139
+  start: '11110'
+  end: '11139'
+  translation: 'With a Prehistoric People: The Akikuyu of British East Africa'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: A woman specially decorated with banana leaves for the initiation festival...
+  summary: 'Plate caption describing a woman in dancing dress for an initiation festival:
+    she is decorated with banana leaves, carries bamboo used as a horn, postures,
+    and at intervals rushes about brandishing her husband''s club, which she is allowed
+    to have for that day only.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A woman is specially decorated with banana leaves for an initiation festival.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman bears a length of bamboo in her left hand.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The bamboo is used as a horn immediately before the woman postures in a peculiar
+    manner.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: From time to time the woman rushes about the ground while brandishing her
+    husband's club.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The woman is privileged to have her husband's club for the day on this one
+    occasion only.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: woman in dancing dress
+  description: A woman decorated with banana leaves for the initiation festival, holding
+    bamboo and brandishing her husband's club.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: husband
+  description: The woman's husband is referenced as the owner of the club she is privileged
+    to have for the day.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: initiation festival performer
+  assigned_to:
+  - fig:1
+  basis: The caption places her decoration and actions in the context of an initiation
+    festival.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: temporary bearer of husband's club
+  assigned_to:
+  - fig:1
+  basis: She brandishes her husband's club and is privileged to have it for that day
+    only.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: owner of club
+  assigned_to:
+  - fig:2
+  basis: The club is identified as belonging to the woman's husband.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: banana leaves
+  literal_form: banana leaves used as special decoration
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bamboo horn
+  literal_form: a length of bamboo used as a horn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: husband's club
+  literal_form: club belonging to the woman's husband, brandished by her during the
+    festival
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: dancing dress
+  literal_form: initiation festival dancing dress indicated by the plate caption
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: initiation festival dance dress and actions
+  summary: A specially decorated woman participates in an initiation festival, using
+    bamboo as a horn before posturing and later rushing about while brandishing her
+    husband's club.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: initiation festival performance with special dress and ritual actions
+  taxonomy_refs:
+  - initiation
+  basis: The passage explicitly identifies the setting as an initiation festival and
+    describes special decoration, horn use, posturing, and brandishing of a club.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is a short plate caption and does not explain the ritual meaning
+    of the actions or objects.
+- id: motif:2
+  label: temporary festival privilege to carry spouse's weapon or club
+  taxonomy_refs: []
+  basis: The woman is described as having her husband's club for the day on this one
+    occasion only and brandishing it during the event.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The caption states the privilege but does not provide wider context or
+    interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11110-11139
+  quote_or_summary: '"A woman specially decorated with banana leaves for the initiation
+    festival"; plate captioned as dancing dress.'
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 11110-11139
+  quote_or_summary: The woman bears a length of bamboo in her left hand and uses it
+    as a horn immediately before posturing.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11110-11139
+  quote_or_summary: At intervals she rushes about the ground brandishing her husband's
+    club.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 11110-11139
+  quote_or_summary: The caption says she is privileged to have the husband's club
+    for the day on this one occasion only.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward, but motif interpretation is limited
+    because the passage is a short plate caption with OCR noise and little ritual
+    explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text or cross-tradition comparison beyond the initiation motif classification.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-akikuyu-prehistoric-people-routledge-archive__l11110-l11139
+  passage_sha256=b17115d9dfcd26c13ea3e1097d4db057804bbbcffea31f8cb305a23af8605599
+

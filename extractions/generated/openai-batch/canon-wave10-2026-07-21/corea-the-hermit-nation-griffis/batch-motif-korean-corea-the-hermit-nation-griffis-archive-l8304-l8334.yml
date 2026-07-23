@@ -1,0 +1,360 @@
+---
+record_id: batch.motif.korean-corea-the-hermit-nation-griffis-archive-l8304-l8334
+source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+passage_locator:
+  label: THE  KING  AND  EOYAL  PALACE. / THE  KING  AND  KOYAL  PALACE.  219 / THE  KING  AND  ROYAL  PALACE.  221
+    / THE  KING  AND  ROYAL  PALACE.  223; lines 8304-8334
+  start: '8304'
+  end: '8334'
+  translation: Corea, the Hermit Nation
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes features of a royal procession, including signaling
+    by pennons, emergency messages sent by arrow, five decorated horses before the
+    royal sedan, and a large dragon-flag carried on a horse. It then outlines succession
+    rules and royal ranks in the Korean dynasty, including the sovereign's authority
+    to nominate successors, precedence of a queen's son, possible succession by a
+    concubine's male child, and distinctions between wang and kun.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Orders in the procession are given by signals made with pennons; in sudden
+    emergencies, a written message may be attached to an arrow and shot along the
+    line.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Five caparisoned horses with embroidered saddles precede the royal sedan.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A large dragon-flag, about fourteen feet square, is mounted in a socket, strapped
+    to a strong fresh horse, steadied by ropes held by footmen, and described as the
+    most conspicuous object in the procession.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Succession to the throne is described as being at the pleasure of the sovereign,
+    who may nominate a legitimate son, natural male offspring, cousin, or uncle.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A son of the queen takes precedence over other sons; a concubine's male child
+    may become king when the queen has no sons, with daughters not counted as preventing
+    that condition in the passage's description of Corean views.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Since the founding of the dynasty in 1392, the passage states that there had
+    been twenty-nine successors to the founder, including nephews, cousins, and younger
+    sons in several cases.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The heir to the throne is said to hold the rank of wang, while younger sons
+    are kun, or princes.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: sovereign or king
+  description: The ruler whose procession is described and who may nominate the successor
+    to the throne.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: heir to the throne
+  description: The heir holds the rank of wang, glossed as king.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: son of the queen
+  description: A queen's son is said to take precedence over other sons in succession.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: male child of a concubine
+  description: A concubine's male child may become king when the queen has no sons.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: younger sons or kun princes
+  description: Younger sons are described as kun, princes, rather than wang.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: footmen holding guy ropes
+  description: Footmen hold the guy ropes attached to the large dragon-flag in the
+    procession.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: royal procession figure
+  assigned_to:
+  - fig:1
+  basis: The passage centers on the royal sedan and objects preceding or accompanying
+    it.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: succession nominator
+  assigned_to:
+  - fig:1
+  basis: The sovereign may nominate among several male relatives or offspring as successor.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: recognized heir with wang rank
+  assigned_to:
+  - fig:2
+  basis: The heir to the throne holds the rank of wang.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: preferred royal son
+  assigned_to:
+  - fig:3
+  basis: A son of the queen takes precedence over other sons.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: alternate male successor
+  assigned_to:
+  - fig:4
+  basis: A concubine's male child becomes king when the queen is described as childless
+    or has daughters only.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: junior prince
+  assigned_to:
+  - fig:5
+  basis: Younger sons are described as kun, princes.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: procession attendants
+  assigned_to:
+  - fig:6
+  basis: Footmen hold the guy ropes of the dragon-flag.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: great dragon-flag
+  literal_form: A dragon-flag about fourteen feet square, mounted in a socket and
+    strapped to a horse, with guy ropes held by footmen.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: royal sedan
+  literal_form: The royal sedan in the procession, preceded by five caparisoned horses.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: caparisoned horses
+  literal_form: Five horses with embroidered saddles preceding the royal sedan.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: pennons used for signals
+  literal_form: Pennons used to transmit orders along the procession line.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: message-bearing arrow
+  literal_form: An arrow with writing attached, shot from one end of the line to the
+    other in emergencies.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Processional signaling
+  summary: Orders are transmitted along the procession by pennon signals, with written
+    messages sent by arrow in emergencies.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Royal procession with insignia
+  summary: Decorated horses precede the royal sedan, while a large dragon-flag mounted
+    on a horse and steadied by footmen is the most conspicuous object.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Royal succession and ranks
+  summary: The passage describes the sovereign's power to nominate successors, the
+    precedence of a queen's son, possible succession by a concubine's male child,
+    and the ranks wang and kun.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: royal succession by nomination and male-line precedence
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage defines legitimate succession through the sovereign's nomination
+    power, male offspring, precedence of a queen's son, and ranked heirs or princes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a historical court-description passage rather than a mythic narrative;
+    the motif assignment is limited to the royal-legitimacy pattern.
+- id: motif:2
+  label: royal authority displayed through procession insignia
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The royal sedan, decorated horses, and conspicuous dragon-flag form a visible
+    display surrounding the king's procession.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage describes ceremonial display; it does not explicitly interpret
+    the dragon-flag or procession as sacred or mythological.
+- id: motif:3
+  label: message-bearing arrow as emergency command device
+  taxonomy_refs: []
+  basis: The passage states that in emergencies a written order is attached to an
+    arrow and shot along the line.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents this as practical processional communication, not
+    as a mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly glosses the Korean royal rank wang with Japanese O,
+    supporting only a limited terminological comparison of royal titles.
+  claim_level: linguistic_similarity
+  target: Japanese O as a gloss for wang
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a parenthetical gloss only; it does not provide etymology,
+    ritual equivalence, or a broader comparative argument.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8304-8311
+  quote_or_summary: Orders are given by pennon signals; in emergencies, an arrow with
+    writing attached is shot from one end of the line to the other.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 8312-8318
+  quote_or_summary: "“Five caparisoned horses with embroidered saddles precede the
+    royal sedan. The great dragon-flag... forms the most conspicuous object in the
+    procession.”"
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 8318-8322
+  quote_or_summary: Succession is at the sovereign's pleasure; he may nominate a legitimate
+    son, natural male offspring, cousin, or uncle.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8322-8326
+  quote_or_summary: A queen's son takes precedence; a concubine's male child becomes
+    king when the queen has no sons, with daughters treated as not altering that condition.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8326-8331
+  quote_or_summary: Since the dynasty's founding in 1392, the passage counts twenty-nine
+    successors, including nephews, cousins, and younger sons in several instances,
+    and mentions degraded kun.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 8331-8334
+  quote_or_summary: "“The heir to the throne holds the rank of wang (Japanese O),
+    king, while the younger sons are kun, princes.”"
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is mostly literal. Motif assignments are cautious because
+    the passage is a historical description of royal ceremony and succession, not
+    a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No provided taxonomy symbol was assigned to the dragon-flag because the available symbol list includes serpent but not dragon, and the passage does not equate them.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-corea-the-hermit-nation-griffis-archive__l8304-l8334
+  passage_sha256=1069a848f7a593177bb7837488ab5204932ceec07988ffee81a44fdf981242c7
+

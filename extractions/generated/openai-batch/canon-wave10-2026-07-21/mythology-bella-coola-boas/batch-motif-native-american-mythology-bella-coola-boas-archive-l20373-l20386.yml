@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l20373-l20386
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 339 / TEIT, THE THOMPSON
+    INDIANS OF BRITISH COLUMBIA. 341 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA.
+    343 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 347; lines 20373-20386
+  start: '20373'
+  end: '20386'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: The small black lizard is held in dread.
+  summary: The passage describes fear and disgust toward various small animals, especially
+    a black lizard said to pursue a person's tracks and enter the body. Fire is used
+    as a protective measure against the lizard. The passage also lists several food
+    taboos involving coyote-liver, birds, insects, shell-fish, and fool-hen heart.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Snakes, toads, frogs, lizards, insects, and shell-fish are described as viewed
+    with abhorrence and disgust.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The small black lizard is described as especially dreaded.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: It is said that the small black lizard follows a person's tracks, overtakes
+    the person at night, crawls into the anus, and eats the intestines.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When people see the lizard, they light a fire in their tracks or jump over
+    the camp-fire four times after returning home.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The lizard is said always to turn back from fire because it greatly fears
+    fire.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Eating coyote-liver is forbidden and is said to cause swelling of the face
+    or eyes.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Coyote, plover, ptarmigan, red-winged flicker, and robin are described as
+    eaten only by old people.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The heart of the fool-hen was not eaten, and a hunter would not let his dog
+    eat it, lest the dog become foolish like the fool-hen.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: No insects or shell-fish were considered edible.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: small black lizard
+  description: A dreaded lizard said to follow tracks at night, enter a person's body,
+    and fear fire.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: person or Indians who encounter the lizard
+  description: People who may be followed by the lizard and who use fire or camp-fire
+    jumping as a protective response.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: coyote
+  description: Named in food taboos; coyote-liver is forbidden, and coyote is eaten
+    only by old people.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: fool-hen
+  description: Its heart was not eaten and was not given to a hunter's dog, lest the
+    dog become foolish like the fool-hen.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: hunter's dog
+  description: An animal kept from eating fool-hen heart to avoid becoming foolish.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: old people
+  description: The only people described as eating coyote, plover, ptarmigan, red-winged
+    flicker, and robin.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: dreaded pursuing body-invader
+  assigned_to:
+  - fig:1
+  basis: The lizard is said to follow tracks, overtake a person at night, crawl into
+    the anus, and eat the intestines.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: threatened humans and protective fire users
+  assigned_to:
+  - fig:2
+  basis: People who see the lizard respond by lighting fire in their tracks or jumping
+    over a camp-fire four times.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: tabooed animal food source
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Coyote-liver and fool-hen heart are named in food prohibitions.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: animal companion protected from taboo food effect
+  assigned_to:
+  - fig:5
+  basis: A hunter does not let his dog eat fool-hen heart lest it become foolish.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: age-restricted permitted eaters
+  assigned_to:
+  - fig:6
+  basis: Certain animals and birds are described as eaten by old people only.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: dreaded reptiles and small creatures
+  literal_form: snakes, toads, frogs, lizards, insects, and shell-fish
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: protective fire
+  literal_form: fire in tracks; camp-fire jumped over four times
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: tracks followed by harmful being
+  literal_form: a person's tracks
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: fourfold camp-fire jumping
+  literal_form: jump over the camp-fire four times
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: tabooed animal organs
+  literal_form: coyote-liver; fool-hen heart
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Abhorrence toward small animals
+  summary: The passage states that several kinds of reptiles, amphibians, insects,
+    and shell-fish are regarded with abhorrence and disgust.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Threat of the small black lizard
+  summary: The small black lizard is said to follow a person's tracks, overtake the
+    person at night, and enter the body to eat the intestines.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fire used to turn back the lizard
+  summary: People who see the lizard protect themselves by lighting fire in their
+    tracks or jumping over a camp-fire four times; the lizard is said to turn back
+    from fire.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Food taboos and consequences
+  summary: The passage lists prohibitions and restrictions on eating coyote-liver,
+    certain birds and animals, fool-hen heart, insects, and shell-fish, with stated
+    bodily or behavioral consequences for some violations.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Dreaded reptile pursues tracks and invades the body
+  taxonomy_refs:
+  - serpent
+  basis: The passage emphasizes dread of a small black lizard and says it follows
+    tracks, overtakes a person at night, enters the anus, and eats the intestines.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The central being is a lizard, not explicitly a serpent; the serpent taxonomy
+    reference is supported only broadly by the passage's inclusion of snakes among
+    feared creatures.
+- id: motif:2
+  label: Fire as protection against a harmful being
+  taxonomy_refs: []
+  basis: People light fire in their tracks or jump over a camp-fire four times because
+    the lizard is said to turn back from fire.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a protective use of fire but does not explain a broader
+    cosmological meaning.
+- id: motif:3
+  label: Food taboo with bodily or behavioral consequence
+  taxonomy_refs: []
+  basis: Eating coyote-liver is said to cause swelling of the face or eyes, and a
+    dog is kept from fool-hen heart lest it become foolish.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage lists taboos but does not present a narrative episode explaining
+    their origin.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 20373-20374
+  quote_or_summary: '"All kinds of snakes, toads, frogs, lizards, insects, and shell-fish
+    are looked upon with abhorrence and disgust"'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain; short excerpt from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 20374-20378
+  quote_or_summary: The small black lizard is held in dread and is said to follow
+    a person's tracks, overtake the person at night, crawl into the anus, and eat
+    the intestines.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain; summary of provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 20378-20380
+  quote_or_summary: When people see the lizard, they light fire in their tracks or
+    jump over the camp-fire four times; the lizard is said to turn back from fire,
+    which it greatly dreads.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain; summary of provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 20382-20386
+  quote_or_summary: 'The passage lists taboos: coyote-liver is forbidden and said
+    to cause swelling; coyote, plover, ptarmigan, red-winged flicker, and robin are
+    eaten only by old people; fool-hen heart is not eaten or fed to a dog; insects
+    and shell-fish are not considered edible.'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain; summary of provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited to the provided line range. The last sentence in the
+    passage is truncated after 'A woman should not eat in' and has not been interpreted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l20373-l20386
+  passage_sha256=e8d7b6e65b19bdb7d6f1753f4cbdb63302cecac32a0558b6075c3e48ab4b87e8
+

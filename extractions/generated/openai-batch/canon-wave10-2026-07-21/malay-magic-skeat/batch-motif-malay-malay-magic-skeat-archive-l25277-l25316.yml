@@ -1,0 +1,233 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l25277-l25316
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: THE  PALM-BLOSSOM  DANCE / BUFFALO  FIGHTS / THE  BULL- RING / DANCES,  SPOPTS
+    , AND  GAMES; lines 25277-25316
+  start: '25277'
+  end: '25316'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a buffalo or bull fight as a skilled fencing match:
+    the animals test one another with their horns, exploit openings, stab into the
+    neck or cheek, lift a wounded opponent on the horn, and then separate after the
+    effort exhausts the attacker and the wounded animal regains its footing.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes bulls or buffaloes engaged in fencing-like matches using
+    their horns.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Each animal gives way when a horn-tip touch indicates that the opponent has
+    found an opening.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A bull that overcommits to a stab may lose balance, allowing the opponent
+    to wedge a horn-point into its neck or cheek.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After securing a grip, the stabbing animal braces its legs and lifts its opponent
+    with the horn.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A wounded bull may be lifted off its fore-feet and hang helpless and motionless
+    for a short time.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The lifting effort cannot be sustained long; once the wounded buffalo’s fore-feet
+    return to the ground, it releases itself from the opponent’s horn.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: bull or buffalo that gains the horn grip
+  description: The animal that finds an opening, wedges its horn into the opponent,
+    and attempts to lift the opponent.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: opposing wounded bull or buffalo
+  description: The animal struck in the neck or cheek, lifted off its fore-feet, and
+    later able to free itself when it regains footing.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: animal combatant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both animals are described as participants in bull or buffalo fencing matches.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: stabber and lifter
+  assigned_to:
+  - fig:1
+  basis: One animal secures a horn grip, drives the horn into the flesh, braces its
+    legs, and lifts the opponent.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: wounded opponent
+  assigned_to:
+  - fig:2
+  basis: The opponent is described as wounded, lifted off its fore-feet, and later
+    freeing itself from the adversary’s horn.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: horn-tip or horn-point
+  literal_form: Buffalo or bull horn used to warn, stab, hook, and lift in combat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Horn fencing and search for an opening
+  summary: The animals test one another with horn-tip contact and react immediately
+    when an opening is found.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Horn grip and lifting
+  summary: One animal wedges its horn into the opponent’s neck or cheek, braces itself,
+    and lifts the wounded opponent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Release after exhaustion
+  summary: The effort of lifting is too great to continue, and the wounded buffalo
+    frees itself once its fore-feet return to the ground.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal combat as skilled fencing
+  taxonomy_refs: []
+  basis: The passage repeatedly frames the buffalo or bull fight as a tactical exchange
+    in which horn-tip contact, openings, balance, and rapid reaction decide advantage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic description of a sport or game, not a mythic narrative
+    motif in the supplied passage.
+- id: motif:2
+  label: wounded combatant lifted helpless on opponent’s horn
+  taxonomy_refs: []
+  basis: The passage describes the stabber driving its horn into the opponent and
+    lifting the wounded bull off its fore-feet so that it hangs helpless for a short
+    interval.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No broader mythological or ritual interpretation is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 25277-25283
+  quote_or_summary: Bulls in the fight are described as showing activity and skill
+    in fencing matches; each gives way when warned by the touch of the opponent’s
+    horn-tip.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 25284-25291
+  quote_or_summary: When one animal blunders by putting weight into a stab, the opponent
+    quickly exploits the opening and wedges a horn-point into the neck or cheek.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 25292-25303
+  quote_or_summary: After winning a firm grip and driving the horn into the flesh,
+    the stabbing animal braces its legs, strains its neck, and lifts the opponent.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 25304-25310
+  quote_or_summary: If the stab is low enough, the wounded bull may be lifted off
+    its fore-feet and hang helpless and motionless for a brief time.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 25311-25316
+  quote_or_summary: The lifting effort is too great to continue; when the wounded
+    buffalo’s fore-feet return to the ground, it releases itself from the adversary’s
+    horn, while the other animal is often spent.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal combat sequence is clear. Motif candidates are descriptive patterns
+    only; the passage itself does not support comparative or mythological claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned, because the passage concerns buffalo/bull fighting technique and does not mention the listed symbolic items or comparative mythic patterns.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l25277-l25316
+  passage_sha256=bfd4698e42034d9c808e9edac164abd498a80781ef046ee4856283d848035edf
+

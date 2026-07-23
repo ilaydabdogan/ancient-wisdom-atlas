@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l11038-l11057
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SEVENTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OE  THE  YNCAS. / SEVENTH  BOOK  OP  THE  ROYAL
+    / COMMENTARIES  OE  THE  YNCAS.; lines 11038-11057
+  start: '11038'
+  end: '11057'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes areas near the temple of the Sun: a square of the
+    Sun where non-Yncas could bring offerings but could not enter the temple; priests
+    received these offerings and presented them to the image of the Sun worshipped
+    as a god; the temple ward was called the golden ward because it contained gold,
+    silver, and precious stones; another ward lay outside in the suburbs.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A square called Yntir-Pampa, meaning the square of the Sun, lay beyond the
+    preceding ward to the south.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Those who were not Yncas were allowed to come to the square with offerings
+    but were not permitted to enter the temple itself.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Priests received the offerings and presented them to the image of the Sun.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The image of the Sun was worshipped as a god.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The ward where the temple of the Sun stood was called Ccuri-cancha, meaning
+    the golden ward.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The golden ward contained gold, silver, and precious stones.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The ward called Pumap-chupan was outside, in the suburbs of the city.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: those who were not Yncas
+  description: People not identified as Yncas who were allowed to come to the square
+    with offerings but not to enter the temple.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: priests
+  description: Religious functionaries who received offerings and presented them to
+    the image of the Sun.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: image of the Sun
+  description: Cult image to which priests presented offerings and which was worshipped
+    as a god.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: restricted offerers
+  assigned_to:
+  - fig:1
+  basis: They could bring offerings to the square but were barred from entering the
+    temple.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: priestly mediators of offerings
+  assigned_to:
+  - fig:2
+  basis: They received offerings and presented them to the image of the Sun.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: worshipped cult image
+  assigned_to:
+  - fig:3
+  basis: The passage says the image of the Sun was worshipped as a god.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: square of the Sun
+  literal_form: Yntir-Pampa, a square south of the preceding ward
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: temple of the Sun
+  literal_form: temple itself / temple of the Sun
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: image of the Sun
+  literal_form: image of the Sun
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: golden ward
+  literal_form: Ccuri-cancha, the ward in which the temple of the Sun stood
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: precious materials in the ward
+  literal_form: gold, silver, and precious stones
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Restricted offering at the square of the Sun
+  summary: Non-Yncas could approach the square of the Sun with offerings, but they
+    were not allowed into the temple; priests received the offerings and presented
+    them to the image of the Sun.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Description of the golden ward
+  summary: The ward containing the temple of the Sun is named Ccuri-cancha, the golden
+    ward, and is described as containing gold, silver, and precious stones.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Offerings mediated by priests to a worshipped divine image
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Offerings are brought by worshippers, received by priests, and presented
+    to the image of the Sun worshipped as a god.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage describes ritual handling of offerings but does not elaborate
+    on reciprocal benefits or a full exchange theology.
+- id: motif:2
+  label: Ritual boundary around a sacred temple
+  taxonomy_refs: []
+  basis: Non-Yncas may enter the square with offerings but are not permitted to enter
+    the temple itself.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a spatial and ritual access pattern; no specific taxonomy reference
+    is provided among the available motif families.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11041-11047
+  quote_or_summary: Yntir-Pampa is named as the square of the Sun; people who were
+    not Yncas could come there with offerings but could not enter the temple itself.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11047-11050
+  quote_or_summary: Priests received the offerings and presented them to the image
+    of the Sun, which was worshipped as a god.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11050-11055
+  quote_or_summary: The ward containing the temple of the Sun was called Ccuri-cancha,
+    the golden ward, and contained gold, silver, and precious stones.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 11055-11057
+  quote_or_summary: The ward called Pumap-chupan was outside, in the suburbs of the
+    city.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is limited to the
+    directly described offering practice and spatial restriction; no comparison claims
+    are made because the passage itself does not support a comparative assertion.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available symbol taxonomy references clearly match the passage’s Sun image, temple, square, or precious materials.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l11038-l11057
+  passage_sha256=a64858efc5222f28106f58b5297ad5ac51154a0b61dc9ac1952c90f98aa19bb8
+

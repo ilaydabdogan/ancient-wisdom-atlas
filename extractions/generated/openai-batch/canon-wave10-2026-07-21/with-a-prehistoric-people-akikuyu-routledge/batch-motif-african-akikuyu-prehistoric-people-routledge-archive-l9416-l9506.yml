@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.african-akikuyu-prehistoric-people-routledge-archive-l9416-l9506
+source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+passage_locator:
+  label: R.ATTLE    I. / PLATE    LXXXVIII. / MUSIC / MUSIC  113; lines 9416-9506
+  start: '9416'
+  end: '9506'
+  translation: 'With a Prehistoric People: The Akikuyu of British East Africa'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes iron and wooden bells with clappers, then gives Dr.
+    C. S. Myers's notes on phonograph wax-cylinder recordings of Akikuyu songs, including
+    rhythmic groupings, tempo, intervals, solo-chorus alternation, and scale analysis.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An iron bell is described as made from flat iron pieces joined by a connecting
+    bar that forms a suspension loop; each curved piece forms half of the bell and
+    an iron clapper is fitted.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A similar bell carved from hard wood has a wooden clapper and is described
+    as very uncommon.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dr. C. S. Myers examined wax phonograph records and supplied notes and musical
+    transcriptions; he states that some songs are difficult to analyze because the
+    singers sang loudly and that exact pitch could not be determined from the originals.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Dumo song is described as having successive bars with varying numbers
+    of beats, grouped into larger repeated periods.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The tempo is said to be kept very exactly in both simple measures and complex
+    measures, including a pattern where two five-pulse bars are followed by a four-pulse
+    bar.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The first four airs are described as composed of four notes each, while the
+    last two are composed of three notes each; the analysis notes occurrences of thirds,
+    fourths, fifths, and sixths.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The songs are described as showing alternation of chorus with solo, alternation
+    of one phrase with another, and rise and fall of melody.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage analyzes several songs through possible tonics and transpositions,
+    proposing two scale groupings and noting overlap between them.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Dr. C. S. Myers
+  description: Music analyst who examined the wax records and supplied notes and written-out
+    airs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Akikuyu singers on the phonograph cylinders
+  description: Performers whose songs were recorded on wax cylinders; Myers notes
+    that they sang loudly in some recordings.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+roles:
+- id: role:1
+  label: music analyst and transcriber
+  assigned_to:
+  - fig:1
+  basis: Myers examined the wax records, sent notes and music, and analyzed rhythm,
+    tempo, intervals, and scales.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:2
+  label: recorded song performers
+  assigned_to:
+  - fig:2
+  basis: The recorded singers produced the songs analyzed from the phonograph cylinders,
+    including solo and chorus material.
+  evidence_refs:
+  - ev:2
+  - ev:6
+symbols:
+- id: sym:1
+  label: iron clapper bell
+  literal_form: Iron bell made from curved flat iron pieces with a suspension loop
+    and iron clapper.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wooden clapper bell
+  literal_form: Hard-wood bell with wooden clapper, described as uncommon.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: wax phonograph cylinders
+  literal_form: Wax records used to capture the songs examined by Myers.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: repeating beat-count pattern
+  literal_form: A numerical rhythm pattern in the Dumo song, with different beat counts
+    grouped into repeated larger periods.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Description of bell instruments
+  summary: The passage describes an iron clapper bell and a similar uncommon wooden
+    bell with a wooden clapper.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Examination of wax-cylinder song recordings
+  summary: Dr. C. S. Myers examines wax phonograph recordings, sends written-out airs,
+    and notes limitations caused by loud singing and uncertain pitch.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rhythmic and formal analysis of songs
+  summary: Myers analyzes the Dumo song and other airs for repeated rhythmic periods,
+    exact tempo, intervals, solo-chorus alternation, phrase alternation, melodic contour,
+    and scale patterns.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: repeated complex rhythmic periods
+  taxonomy_refs: []
+  basis: The Dumo song is described as grouping different measures into larger periods
+    that are regularly repeated.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a musical-form pattern, not a mythological narrative motif.
+- id: motif:2
+  label: solo-chorus alternation
+  taxonomy_refs: []
+  basis: The passage identifies alternation of chorus with solo as evidence of developed
+    musical form.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not assign ritual, mythic, or symbolic meaning to the
+    alternation.
+- id: motif:3
+  label: limited-note airs and scale groupings
+  taxonomy_refs: []
+  basis: The airs are analyzed as three- or four-note melodies with interval and scale
+    structures after possible transposition.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The scale analysis is technical and partly inferential, especially where
+    tonic and transposition are proposed.
+- id: motif:4
+  label: clapper bell instrument type
+  taxonomy_refs: []
+  basis: The passage describes iron and wooden bells with clappers as musical objects.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives construction details but does not describe a narrative,
+    ritual function, or symbolic interpretation for the bells.
+comparison_claims:
+- id: claim:1
+  claim: Myers compares the Dumo song's regular grouping of different measures into
+    larger periods to a characteristic found in many songs he calls primitive songs.
+  claim_level: same_motif
+  target: many songs described by Myers as primitive songs
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is a broad musicological statement in the passage and
+    gives no specific comparative corpus, examples, historical relationship, or cultural
+    context; the terminology reflects the source's colonial-era framing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9416-9425
+  quote_or_summary: Description of an iron bell made from flat iron pieces with a
+    connecting suspension bar and iron clapper, followed by a similar hard-wood bell
+    with wooden clapper described as uncommon.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: 9427-9438
+  quote_or_summary: Dr. C. S. Myers examined wax phonograph records, supplied notes
+    and written-out airs, and noted that loud singing and the condition of the originals
+    limited pitch analysis.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: 9440-9454
+  quote_or_summary: The Dumo song is described as rhythmically interesting; varying
+    beat counts are grouped into regularly repeated larger periods, which Myers calls
+    characteristic of many primitive songs.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: 9456-9464
+  quote_or_summary: Myers notes that one air should be transposed if sung with another,
+    and that tempo is kept very exactly in simple and complex measures, including
+    two five-pulse bars followed by a four-pulse bar.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: 9465-9480
+  quote_or_summary: The first four airs use four notes each and the last two use three;
+    the analysis notes thirds, fourths, fifths, glissando, and minor and major sixths,
+    including simultaneous solo and chorus tones forming a consonant minor sixth.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain; summarized.
+- id: ev:6
+  type: summary
+  locator: 9481-9486
+  quote_or_summary: The songs are said to show considerable development of musical
+    form through chorus-solo alternation, phrase alternation, and melodic rise and
+    fall.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain; summarized.
+- id: ev:7
+  type: summary
+  locator: 9487-9506
+  quote_or_summary: Myers analyzes possible tonics and transpositions for several
+    songs, proposing one scale with major second, major third, fifth, and major sixth,
+    and another with fourth, fifth, major sixth, and minor seventh.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is musicological rather than mythological. Literal extraction
+    is strong, but motif candidates are formal musical patterns and should be reviewed
+    before inclusion in a mythology-focused motif index.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family or symbol reference is directly supported by this passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-akikuyu-prehistoric-people-routledge-archive__l9416-l9506
+  passage_sha256=7661746cdf716dfa031b433087cd84086cfdbeba948ea0156972b048e8ac472d
+

@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l9498-l9517
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: SMITH, ARCHAOLOGY OF LYTTON, BRITISH COLUMBIA. 149 / SMITH, ARCHAOLOGY OF
+    LYTTON, BRITISH COLUMBIA. I51 / SMITH, ARCHAOLOGY OF LYTTON, BRITISH COLUMBIA.
+    155 / SMITH, ARCHZOLOGY OF LYTTON, BRITISH COLUMBIA.; lines 9498-9517
+  start: '9498'
+  end: '9517'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The excerpt gives figure captions for animal-form antler carvings found
+    in graves and summarizes Dawson''s notes on regional burial practices: bodies
+    buried sitting upright or on the side, bones buried after decomposition, a Nicola
+    Valley reburial after about a year, red ochre on heads or skulls, and grave objects
+    interpreted by Dawson as representations of property rather than objects intended
+    for future use by the dead.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The figure captions describe animal forms carved in antler and found in graves.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dawson's notes on the Shuswap mention bodies buried sitting upright and others
+    lying on the side.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Dawson also found a few bones arranged in a way that suggested burial after
+    decomposition of the soft parts.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Dawson saw Indigenous people in Nicola Valley rebury a body that had been
+    dead for about a year.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Dawson found many heads covered with red ochre, which still adhered to the
+    skull when taken up.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Dawson interpreted objects buried with the dead as representations of property
+    rather than items for future use by the dead.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Examples given for property-representing grave objects include flakes of glassy
+    basalt, crooked arrow-points, quartz crystals, calcite, mica, and stone objects.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Dr. Dawson
+  description: Observer cited for notes on Shuswap burials and Nicola Valley reburial
+    practices.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Indigenous people in Nicola Valley
+  description: People whom Dawson saw reburying a body that had been dead for about
+    a year.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: The dead or buried bodies
+  description: Bodies, bones, heads, and skulls described in burial and reburial contexts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: burial-practice observer
+  assigned_to:
+  - fig:1
+  basis: Dawson is cited as noting burial positions, secondary burial evidence, red
+    ochre on skulls, and grave objects.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: reburial participants
+  assigned_to:
+  - fig:2
+  basis: The passage says Dawson saw them rebury a body in Nicola Valley.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: deceased persons in burial contexts
+  assigned_to:
+  - fig:3
+  basis: The passage describes bodies, bones, heads, and skulls in graves or reburial
+    contexts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: animal-form antler carving
+  literal_form: Animal form carved in antler, found in a grave.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: grave or burial place
+  literal_form: Grave context in which animal-form antler carvings and buried bodies
+    are described.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: red ochre on head or skull
+  literal_form: Red ochre covering heads and adhering to skulls after burial.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: property-representing grave objects
+  literal_form: Objects buried with the dead, including basalt flakes, crooked arrow-points,
+    quartz crystals, calcite, mica, and stone objects.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Animal-form antler grave finds
+  summary: The captions identify animal-form antler carvings found in graves.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Varied burial positions
+  summary: Dawson's notes describe bodies buried sitting upright and others lying
+    on the side.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Burial after decomposition and later reburial
+  summary: Some bones appeared to have been buried after soft parts decomposed, and
+    Dawson saw a Nicola Valley reburial of a body dead about a year.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Red ochre and grave objects
+  summary: Dawson describes red ochre on many heads or skulls and interprets grave
+    objects as representing property rather than future-use equipment.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: varied mortuary posture
+  taxonomy_refs: []
+  basis: The passage reports bodies buried sitting upright and bodies lying on the
+    side.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an archaeological burial-practice pattern, not a myth narrative
+    motif.
+- id: motif:2
+  label: secondary burial after decomposition
+  taxonomy_refs: []
+  basis: The passage describes bones arranged as if buried after decomposition and
+    an observed reburial after about a year.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives Dawson's inference and observation but does not explain
+    ritual meaning.
+- id: motif:3
+  label: red ochre treatment of the dead
+  taxonomy_refs: []
+  basis: Many heads were found covered with red ochre that adhered to the skull.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: No symbolic interpretation is supplied in the passage.
+- id: motif:4
+  label: grave goods as property representations
+  taxonomy_refs: []
+  basis: Dawson considers objects buried with the dead to represent property rather
+    than to serve future use.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is Dawson's interpretation as reported in the passage.
+- id: motif:5
+  label: animal-form object in grave context
+  taxonomy_refs: []
+  basis: The figure captions identify animal-form antler carvings found in graves.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not state the animal species or the object's ritual function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9498-9503
+  quote_or_summary: Figure captions describe animal forms carved in antler and found
+    in graves, including one found with a specimen shown in another figure.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; passage supplied by requester.
+- id: ev:2
+  type: summary
+  locator: lines 9504-9507
+  quote_or_summary: Dawson's notes on the Shuswap refer to bodies found buried sitting
+    upright and others lying on the side.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; passage supplied by requester.
+- id: ev:3
+  type: summary
+  locator: lines 9507-9509
+  quote_or_summary: In other cases Dawson found a few bones placed in a manner suggesting
+    burial after decomposition of soft parts.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; passage supplied by requester.
+- id: ev:4
+  type: summary
+  locator: lines 9509-9511
+  quote_or_summary: Dawson saw Indigenous people in Nicola Valley rebury a body that
+    had been dead for about a year.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; passage supplied by requester.
+- id: ev:5
+  type: summary
+  locator: lines 9511-9513
+  quote_or_summary: Dawson found many heads covered with red ochre, which still adhered
+    to the skull when taken up.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; passage supplied by requester.
+- id: ev:6
+  type: summary
+  locator: lines 9513-9515
+  quote_or_summary: Dawson considered objects buried with the dead to represent their
+    property rather than to be for future use by them.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; passage supplied by requester.
+- id: ev:7
+  type: summary
+  locator: lines 9515-9517
+  quote_or_summary: Examples listed include flakes of glassy basalt, crooked arrow-points,
+    quartz crystals, calcite, mica, and stone objects.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; passage supplied by requester.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on a short archaeological excerpt with OCR corruption
+    in the figure captions. Motif candidates are mortuary-practice patterns rather
+    than narrative myth motifs. No comparison claims were added because the passage
+    does not explicitly support a broader comparative claim beyond the reported regional
+    observations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif or symbol references were assigned because the passage does not clearly match the supplied controlled terms.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l9498-l9517
+  passage_sha256=ecc8381b7028969dda1e2958597d263fe66467bcabfde2786f10d1df9145d72f
+

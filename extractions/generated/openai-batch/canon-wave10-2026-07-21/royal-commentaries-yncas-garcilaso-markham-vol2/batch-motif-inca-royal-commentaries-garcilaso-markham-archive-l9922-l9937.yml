@@ -1,0 +1,233 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l9922-l9937
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SEVENTH  BOOK  OP  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. / SEVENTH  BOOK  OF  THE  BOYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 9922-9937
+  start: '9922'
+  end: '9937'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A strange priest says that a brother could learn to do the same thing after
+    studying the general language. The priest of Chuquiapu, wanting to benefit the
+    Indians' souls, promises to learn; after receiving rules and hints from the stranger
+    and studying for six months, he can hear confessions and preach to the Indians.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The strange priest replies that he can perform an unstated action and that
+    his brother could also do it after a little study of the general language within
+    four or five months.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The priest of Chuquiapu is described as wanting to benefit the souls of the
+    Indians.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The priest of Chuquiapu promises to learn the general language with care and
+    diligence.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The priest of Chuquiapu receives certain rules and hints from the strange
+    priest.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After studying the language for six months, the priest of Chuquiapu can hear
+    confessions from the Indians and preach to them.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The result is described as satisfying the priest of Chuquiapu and benefiting
+    the Indians.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the strange priest
+  description: A priest called a stranger who replies about learning the general language
+    and later provides rules and hints.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: his brother
+  description: A person referred to by the strange priest as able to learn to do the
+    same thing after studying the general language; the excerpt does not otherwise
+    identify him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the priest of Chuquiapu
+  description: A priest who promises to learn the general language, studies it, and
+    later hears confessions and preaches to the Indians.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: the Indians
+  description: People whose souls the priest of Chuquiapu wants to benefit and who
+    receive confession and preaching.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: language instructor and claimant
+  assigned_to:
+  - fig:1
+  basis: The strange priest claims ability concerning the unstated action and gives
+    rules and hints for studying the language.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: potential learner
+  assigned_to:
+  - fig:2
+  basis: The strange priest says his brother could learn to do the same within four
+    or five months of study.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: language learner
+  assigned_to:
+  - fig:3
+  basis: The priest of Chuquiapu promises to learn the language and studies it after
+    receiving rules and hints.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: confessor and preacher
+  assigned_to:
+  - fig:3
+  basis: After six months of study, the priest can hear confessions from the Indians
+    and preach to them.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: spiritual beneficiaries
+  assigned_to:
+  - fig:4
+  basis: The Indians are described as people whose souls the priest wishes to benefit
+    and who benefit from his confession and preaching.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Reply about learning the general language
+  summary: The strange priest says that his brother could learn to do the same thing
+    after a little study of the general language.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Promise and instruction
+  summary: The priest of Chuquiapu, motivated by concern for the Indians' souls, promises
+    to learn the language and receives rules and hints from the strange priest.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Confession and preaching after study
+  summary: After six months of study, the priest of Chuquiapu can hear confessions
+    and preach to the Indians, producing satisfaction for himself and benefit for
+    them.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: transmission of sacred or practical language knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on language knowledge conveyed through rules and hints
+    by the strange priest, enabling the priest of Chuquiapu to perform confession
+    and preaching.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The excerpt is a missionary-historical narrative fragment and does not
+    explicitly frame the episode as a mythic or supernatural wisdom motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9922-9928
+  quote_or_summary: The strange priest says he can do the unspecified action and that
+    his brother could also do it after four or five months of study of the general
+    language.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 9928-9932
+  quote_or_summary: The priest of Chuquiapu, wishing to benefit the souls of the Indians,
+    promises to learn the language carefully and diligently.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 9932-9937
+  quote_or_summary: After receiving rules and hints from the stranger and studying
+    for six months, the priest can hear confessions and preach to the Indians, to
+    his satisfaction and their benefit.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage begins mid-sentence, and the action referred to as 'do this'
+    is not supplied. Figure identity for 'his brother' is kept separate from the priest
+    of Chuquiapu to avoid unsupported conflation. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No concrete symbol from the available symbol taxonomy is present in the supplied excerpt.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l9922-l9937
+  passage_sha256=c6ff0fca7b68bfbd7b779ee124071d2a7737596c5f1b5236662b5dafbe3f3190
+

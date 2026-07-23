@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.african-reynard-the-fox-hottentot-bleek-archive-l1033-l1062
+source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+passage_locator:
+  label: FSEFACK  XXIX / XXX  PMEFACH. / PREFACE.  XXXI / W.  H.  I.  BLEEK.; lines
+    1033-1062
+  start: '1033'
+  end: '1062'
+  translation: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: When the Lion was asleep, the Jackal persuaded the little Fox* to twist a
+    rope of ostrich sinews, in order to play the Lion a trick.
+  summary: The opening of a jackal fable states that wild animals assembled at the
+    Lion's place. While the Lion slept, the Jackal persuaded the little Fox to make
+    a rope from ostrich sinews as a trick. The rope was tied to the Lion's tail and
+    to a shrub. When the Lion woke and found himself tied up, he became angry and
+    called the animals together, beginning a conjuration formula. A footnote identifies
+    the little Fox as a small kind of jackal in Nama and gives names for the little
+    Fox and the Jackal.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is presented as the first item under “JACKAL FABLES,” titled “THE
+    LION'S DEFEAT.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wild animals were assembled at the Lion's place.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Lion was asleep when the Jackal persuaded the little Fox to make a rope
+    of ostrich sinews for a trick against the Lion.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ostrich sinews were twisted into a rope and fastened to the Lion's tail, with
+    the other end tied to a shrub.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the Lion woke and saw that he was tied up, he became angry and called
+    the animals together.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that the Lion began speaking using a form of conjuration,
+    but the supplied excerpt ends before the formula is given.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A footnote identifies the little Fox in Nama as “IKamap,” a small kind of
+    jackal described as a swift runner, and gives the Jackal's name as “IGirip.”
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: The animal at whose place the wild animals assemble; he is asleep,
+    then wakes tied by a rope, becomes angry, and calls the animals together.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Jackal
+  description: The animal who persuades the little Fox to twist a rope of ostrich
+    sinews in order to play a trick on the Lion; the footnote gives the Jackal's name
+    as “IGirip.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: little Fox / IKamap
+  description: The animal persuaded by the Jackal to twist the rope; the footnote
+    describes it as a small kind of jackal and a swift runner.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: wild animals
+  description: The assembled animal group at the Lion's place and later called together
+    by the Lion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: tied-up target of trick
+  assigned_to:
+  - fig:1
+  basis: The Lion is asleep while the trick is prepared and later wakes to find himself
+    tied up.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: trick instigator
+  assigned_to:
+  - fig:2
+  basis: The Jackal persuades the little Fox to make the rope specifically to play
+    a trick on the Lion.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: persuaded helper and rope-maker
+  assigned_to:
+  - fig:3
+  basis: The little Fox is persuaded to twist a rope of ostrich sinews; the following
+    sentence says the rope was twisted and used.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: assembled animal audience
+  assigned_to:
+  - fig:4
+  basis: The wild animals assemble at the Lion's place and are called together again
+    after the Lion wakes.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: rope of ostrich sinews
+  literal_form: A rope twisted from ostrich sinews.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: shrub as tether point
+  literal_form: A shrub to which the other end of the rope is tied.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: conjuration speech form
+  literal_form: A form of conjuration introduced as the Lion begins to speak.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Animals assembled at the Lion's
+  summary: The wild animals are said to have assembled at the Lion's place.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Jackal and little Fox bind the sleeping Lion
+  summary: While the Lion sleeps, the Jackal gets the little Fox to make a rope of
+    ostrich sinews; the rope is fastened to the Lion's tail and tied to a shrub.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Lion wakes and calls the animals
+  summary: The Lion wakes, sees he is tied up, becomes angry, calls the animals together,
+    and begins a conjuration speech.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal trickster immobilizes a stronger animal
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Jackal initiates a trick in which the sleeping Lion is tied by a rope
+    to a shrub.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The supplied excerpt gives only the setup and immediate reaction; the
+    full outcome of the fable lies outside the passage.
+- id: motif:2
+  label: binding with rope as comic or strategic defeat
+  taxonomy_refs: []
+  basis: The title announces the Lion's defeat, and the narrative describes the Lion
+    being tied by his tail to a shrub while asleep.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a descriptive passage-level motif rather than a taxonomy-backed
+    motif family in the supplied list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 1037-1043
+  quote_or_summary: 'Section heading: “JACKAL FABLES”; tale title: “THE LION''S DEFEAT”;
+    note says the original is in the Hottentot language in Grey''s Library, Kronlein''s
+    manuscript, pp. 19-20.'
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: quote
+  locator: lines 1045-1048
+  quote_or_summary: "“THE wild animals, it is said, were once assembled at the Lion's.
+    When the Lion was asleep, the Jackal persuaded the little Fox* to twist a rope
+    of ostrich sinews, in order to play the Lion a trick.”"
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: quote
+  locator: lines 1048-1051
+  quote_or_summary: "“They took ostrich sinews, twisted them, and fastened the rope
+    to the Lion's tail, and the other end of the rope they tied to a shrub.”"
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: quote
+  locator: lines 1051-1054
+  quote_or_summary: "“When the Lion awoke, and saw that he was tied up, he became
+    angrj^ and called the animals together. When they had assembled, he said (using
+    this form of conjuration) —”"
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:5
+  type: quote
+  locator: lines 1056-1059
+  quote_or_summary: "“The Kttle Fox, in Nama the IKamap, a small kind of Jackal, who
+    is a swift runner. The Jackal's name is IGirip.”"
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, though the passage contains OCR-like
+    spellings. Motif mapping to trickster_boundary is supported by the explicit statement
+    that the Jackal initiates a trick, but the excerpt stops before the full fable
+    outcome.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparisons were added because the supplied passage does not itself support a specific cross-textual comparison beyond the broad trickster motif candidate.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-reynard-the-fox-hottentot-bleek-archive__l1033-l1062
+  passage_sha256=76a8537b29e467585651e9b7f247df4cd8551996dbd8584bf9f3cf0c56438387
+

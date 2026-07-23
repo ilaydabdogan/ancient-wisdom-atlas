@@ -1,0 +1,243 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l11061-l11106
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: KOROA,  CIRCA    I  796. / TUMU. / PAPA. / UNUUNU    TAI,; lines 11061-11106
+  start: '11061'
+  end: '11106'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A song passage headed as a spirit-journey and a dirge for Pukukare and
+    Kourapapa by their father Koroa. It contains sections labeled Tumu, Papa, and
+    Unuunu Tai; the Papa section addresses Pukukare and includes quoted speech to
+    Ruru naming Avaiki.
+  language: Mangaian with English editorial headings
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The heading frames the passage as a spirit-journey and a dirge for Pukukare
+    and Kourapapa by their father Koroa.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Tumu section contains a repeated refrain using the original-language terms
+    “rakau,” “miro,” “vero,” “mate ua,” and “rave atu na koe.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Papa section addresses Pukukare and includes quoted speech addressed to
+    Ruru; the quoted line names Avaiki.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Unuunu Tai section names Turanga and Rurungapu and repeats earlier refrain
+    material from the Tumu section.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Pukukare
+  description: Named as one subject of the dirge and addressed directly in the Papa
+    section.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Kourapapa
+  description: Named as one subject of the dirge in the heading.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Koroa
+  description: Named in the heading as the father of Pukukare and Kourapapa and as
+    the dirge’s attributed source.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Ruru
+  description: Named as the addressee within quoted speech in the Papa section.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: father and dirge-maker
+  assigned_to:
+  - fig:3
+  basis: The heading states that the dirge is for Pukukare and Kourapapa by their
+    father Koroa.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: lamented subjects of dirge
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The heading identifies Pukukare and Kourapapa as the persons for whom the
+    dirge is made.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: directly addressed figure
+  assigned_to:
+  - fig:1
+  basis: The Papa section opens with direct address to Pukukare.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: addressee in quoted speech
+  assigned_to:
+  - fig:4
+  basis: The quoted speech in the Papa section addresses Ruru by name.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Avaiki
+  literal_form: Avaiki, a named place or destination in the quoted line
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: rakau/miro refrain image
+  literal_form: Original-language refrain terms “rakau” and “miro,” repeated with
+    “vero” and “mate ua”; exact referents are not translated in the supplied passage
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Funerary frame
+  summary: The passage is introduced as a spirit-journey and a dirge for Pukukare
+    and Kourapapa by their father Koroa.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tumu refrain
+  summary: The Tumu section presents a lament-like stanza with repeated original-language
+    refrain terms including “rakau,” “miro,” “vero,” and “mate ua.”
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Papa address and Avaiki line
+  summary: Pukukare is addressed, and a quoted utterance addresses Ruru while naming
+    Avaiki.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Unuunu Tai closing repetition
+  summary: The Unuunu Tai section adds names including Turanga and Rurungapu, then
+    repeats the earlier refrain material.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Spirit journey in a funerary dirge
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The English heading explicitly labels the passage “A Spirit-Journey,” and
+    the same heading identifies it as a dirge for two named persons; the Papa section
+    also names Avaiki in quoted speech.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The original-language song lines are not translated in the supplied passage,
+    so the detailed route, stages, or destination of the journey cannot be specified
+    from this excerpt alone.
+- id: motif:2
+  label: Parental lament for deceased children
+  taxonomy_refs: []
+  basis: The heading presents the passage as a dirge for Pukukare and Kourapapa by
+    their father Koroa, and Pukukare is directly addressed in the Papa section.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly corresponds to parental lament
+    or dirge.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11061-11067
+  quote_or_summary: "“A SPIRIT-JOURNEY. A DIRGE FOR PUKUKARE AND KOURAPAPA, BY THEIR
+    FATHER KOROA, CIRCA I 796.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain; short excerpt allowed.
+- id: ev:2
+  type: quote
+  locator: lines 11069-11077
+  quote_or_summary: 'The Tumu section includes: “Kua pa te rakau / Ki te miro ia vero
+    i mate ua!” and “rave atu na koe.”'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain; short excerpt allowed.
+- id: ev:3
+  type: quote
+  locator: lines 11079-11088
+  quote_or_summary: 'The Papa section addresses “Pukukare” and includes: “Teia au,
+    e Ruru e, ka eke, atu! / Taka e, tei Avaiki te moenga.”'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain; short excerpt allowed.
+- id: ev:4
+  type: summary
+  locator: lines 11090-11106
+  quote_or_summary: The Unuunu Tai section repeats “io ... kikino,” names Turanga
+    and Rurungapu, and closes by repeating the “miro ... mate ua” and “rave atu na
+    koe” refrain material.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The framing headings are in English and clear, but most song content is supplied
+    in original-language form without translation, limiting detailed interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage does not itself make an explicit cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l11061-l11106
+  passage_sha256=a13b4c2e9ece1057d8a0380eae1e465f499b3af3139e304d07284b978529bf2f
+

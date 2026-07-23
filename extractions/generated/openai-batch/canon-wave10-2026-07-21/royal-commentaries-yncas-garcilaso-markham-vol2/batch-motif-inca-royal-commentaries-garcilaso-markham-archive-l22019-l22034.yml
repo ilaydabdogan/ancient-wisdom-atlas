@@ -1,0 +1,191 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l22019-l22034
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: NINTH  BOOK  OP  THE  ROYAL / CHAPTER  XXVII. / OP  THE  OLIVE;  AND  WHO  FIRST  INTRODUCED  IT  INTO  PERU.
+    / COMMENTARIES  OF  THE  YNCAS.; lines 22019-22034
+  start: '22019'
+  end: '22034'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the cultivation and introduction of olives in Peru,
+    comparing their success in Chile, Peru's Sierra, and the coast valleys. It notes
+    that three olives were once considered a special treat for a guest, that olive
+    oil is now imported into Peru from Chile, and that the account will proceed to
+    other plants formerly absent from Peru.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Olives are said to yield better in Chile than in Peru, possibly because Chile
+    is closer to their native habitat and near the latitude of Spain.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Within Peru, olives are said to yield better in the Sierra than in the coast
+    valleys.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At first, presenting three olives to a guest was considered a great treat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Olive oil is now imported into Peru from Chile.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator frames the passage as an account of the introduction of olives
+    into his native country and then turns to other plants and vegetables not found
+    in Peru.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed guest
+  description: A guest to whom three olives could be presented as a special treat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: guest-recipient
+  assigned_to:
+  - fig:1
+  basis: The passage states that three olives were presented to a guest as a great
+    treat.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: olive and olive oil
+  literal_form: olives; olive oil
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: three olives
+  literal_form: numbered gift of three olives
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Chile
+  literal_form: place where olives yield better and from which olive oil is imported
+    to Peru
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: Peru
+  literal_form: native country where olives were introduced; includes Sierra and coast
+    valleys as contrasted growing settings
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: comparison of olive-growing regions
+  summary: The passage compares the success of olives in Chile, Peru's Sierra, and
+    Peru's coast valleys, attributing Chile's advantage to similarity with the olive's
+    native habitat and latitude near Spain.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: three olives offered to a guest
+  summary: In the early period described, three olives and no more were considered
+    a great treat when presented to a guest.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: later importation of olive oil
+  summary: The passage states that olive oil is now imported into Peru from Chile
+    and closes the discussion of the olive's introduction before moving to other plants
+    absent from Peru.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22019-22024
+  quote_or_summary: Olives yield better in Chile than in Peru, possibly because Chile
+    is nearer the olive's native habitat and near Spain's latitude; in Peru, they
+    yield better in the Sierra than in the coast valleys.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 22024-22027
+  quote_or_summary: '"At first it was considered a great treat to present three olives
+    to a guest, and no more."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 22027-22029
+  quote_or_summary: Olive oil is now imported into Peru from Chile.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 22029-22034
+  quote_or_summary: The narrator closes the discussion of the introduction of olives
+    into his native country and says the account will next enumerate other plants
+    and vegetables not found in Peru.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is primarily historical and agricultural rather than mythic;
+    no taxonomy motif or comparison claim is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No candidate mythic motifs or comparative claims were extracted because the passage only supports literal observations about olives, hospitality, cultivation, and importation.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l22019-l22034
+  passage_sha256=9ce5f1bc33492c62f531e6072046a178375a133d8a88879b5310dbc9bd7b3f28
+

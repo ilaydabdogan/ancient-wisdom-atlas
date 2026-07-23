@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.african-reynard-the-fox-hottentot-bleek-archive-l658-l745
+source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+passage_locator:
+  label: PRJEFACB.  XV / PREFACE.  XIX / XX  PREFACE. / PEIJFACE.  XXI; lines 658-745
+  start: '658'
+  end: '745'
+  translation: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A preface passage argues that grammatical gender in Hottentot and other
+    sex-denoting languages encourages personification of impersonal or irrational
+    beings. It presents fables and myths as arising from personification: fables give
+    speech and reason to lower animals, while myths explain celestial and elemental
+    phenomena through human-like agencies. It describes fables as moral teachers,
+    contrasts their durability with myths, and notes that the offered Hottentot fables
+    are translated faithfully though with slight omissions and alterations for English
+    readers.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that grammatical gender in Hottentot is brought into relation
+    with sex distinctions and may extend sex distinctions to inanimate beings.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that this linguistic tendency can produce personification
+    of impersonal objects and lead to attributing reason and human attributes to irrational
+    beings.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage distinguishes fables and myths while saying both are based on
+    personification of impersonal beings.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says fables ascribe speech and reason to lower animals.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says myths substitute human-like agencies for real causes in explaining
+    celestial and other elemental phenomena.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage describes fables as moral teachers that retain simple usefulness
+    more readily than myths.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says the Hottentot fables offered may be read as original compositions
+    or as familiar stories in different clothing and scenery.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage says the translation makes slight omissions and alterations for
+    English readers but remains faithful to the original in spirit.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: lower animals in fables
+  description: Animals to which fables ascribe speech and reason.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: human-like agencies in myths
+  description: Agencies substituted by myths in explanations of celestial and elemental
+    phenomena.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Hottentot fables
+  description: The fables offered in the collection, described as readable for the
+    general public and translated faithfully in spirit.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: personified animal speaker/reasoner
+  assigned_to:
+  - fig:1
+  basis: The passage states that fables ascribe speech and reason to lower animals.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: anthropomorphic explanatory agency
+  assigned_to:
+  - fig:2
+  basis: The passage states that myths use human-like agencies to explain celestial
+    and elemental phenomena.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: moral-teaching fable corpus
+  assigned_to:
+  - fig:3
+  basis: The passage describes fables as moral teachers and presents the Hottentot
+    fables as a collection offered to readers.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Prefatory explanation of fable and myth origins
+  summary: 'The author explains fables and myths as forms of personification arising
+    from linguistic and poetic tendencies: fables personify animals, while myths use
+    human-like agencies for natural phenomena.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Presentation of the Hottentot fables to readers
+  summary: The author presents the Hottentot fables as useful and amusing moral literature,
+    possibly familiar in new scenery, and notes that the translation has been lightly
+    adapted without changing the fables' spirit.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: animals endowed with speech and reason
+  taxonomy_refs: []
+  basis: The passage explicitly defines fables as narratives that ascribe speech and
+    reason to lower animals.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an editorial/theoretical statement in a preface, not a specific
+    tale episode.
+- id: motif:2
+  label: human-like agents explain natural phenomena
+  taxonomy_refs: []
+  basis: The passage describes myths as substituting human-like agencies for real
+    causes in explanations of celestial and elemental phenomena.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives no specific mythic narrative or named natural phenomenon.
+- id: motif:3
+  label: fable as moral instruction
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says fables have retained usefulness as moral teachers and offer
+    quaintly expressed moral lessons.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy reference 'wisdom' is broad; the passage concerns
+    fables as moral teaching rather than a concrete wisdom tale.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage compares fables and myths as related narrative forms grounded
+    in personification, while distinguishing the specific objects of personification:
+    animals in fables and natural phenomena in myths.'
+  claim_level: same_function
+  target: fable and myth as personification-based narrative patterns
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This comparison is the author's prefatory theory, not independent evidence
+    from tale variants.
+- id: claim:2
+  claim: The passage suggests that the Hottentot fables may be encountered either
+    as original compositions or as familiar fable material in different clothing and
+    scenery.
+  claim_level: same_motif
+  target: familiar fable material in other narrative settings
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No particular external tale, tradition, or motif is named in the passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 658-674
+  quote_or_summary: The passage says grammatical gender in Hottentot may extend sex
+    distinction to inanimate beings, producing 'a tendency to the personification
+    of impersonal objects' and attribution of reason and human attributes to irrational
+    beings.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 675-683
+  quote_or_summary: 'Fables and myths are described as based on personification: fables
+    by ''ascribing speech and reason to the lower animals,'' myths by substituting
+    human-like agencies for causes of celestial and elemental phenomena.'
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 684-701
+  quote_or_summary: Mythology is described as originating in figures of speech or
+    poetic explanations suggested by word forms or etymology, later becoming obscure
+    as traditions persist across generations.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 702-724
+  quote_or_summary: Fables are called the humbler sisters of myths, based on animal
+    propensities, retaining usefulness as moral teachers, and surviving as salutary
+    elements of national literatures.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 725-735
+  quote_or_summary: The passage says children and simple-minded grown readers may
+    enjoy moral lessons in fables, and that the Hottentot fables may appear as 'original
+    compositions' or as 'old acquaintances' in different clothing and scenery.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 736-744
+  quote_or_summary: The passage says slight omissions and alterations were made to
+    make the Hottentot fables readable for the general public, but that these do not
+    essentially affect the spirit of the fables and the translation is faithful though
+    not exactly literal.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a preface discussing fable and myth theory rather than narrating
+    a tale; motif candidates are therefore abstract patterns explicitly named by the
+    author.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No concrete mythic episode, named animal character, or listed symbol from the available symbol taxonomy appears in this passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-reynard-the-fox-hottentot-bleek-archive__l658-l745
+  passage_sha256=7ecb606fe4c8839ed227ef23ae797f8feb1b489f9cbec8673e2e0903a60c1855
+

@@ -1,0 +1,232 @@
+---
+record_id: batch.motif.inca-rites-laws-yncas-molina-markham-archive-l8137-l8242
+source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+passage_locator:
+  label: INDEX.  175 / INDEX.  177 / INDEX.  1 79 / INDEX.  181; lines 8137-8242
+  start: '8137'
+  end: '8242'
+  translation: Narratives of the Rites and Laws of the Yncas
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: An index section listing Inca-related places, provinces, topographic features,
+    ritual sites, and cross-references. It includes entries for Cuzco places and divisions,
+    lakes, rivers, hills, mountains, a temple of historical records, and brief references
+    to sacrifice and to the Mascas as a vanguard in the Ynca's array.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index section made up mainly of named places, provinces,
+    topographic sites, page numbers, and bibliographic cross-references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hurin Cuzco is identified as Lower Cuzco.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Several entries identify hills, mountains, or mountain peaks near Cuzco, in
+    Huarochiri, or near Lima.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Several entries identify water features, including the lake of Lanqui, Lake
+    Titicaca, and the Pollcaro river.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Mantucalla is associated with an Ynca remaining there during sacrifices, and
+    Omoto-yanachiri is associated with a sacrifice.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Mascas is described as the vanguard in the Ynca's array.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Poquen-cancha is described as a temple near Cuzco where historical records
+    were kept.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ynca
+  description: A figure or title mentioned in relation to remaining at Mantucalla
+    during sacrifices and in the phrase "Ynca's array."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Mascas
+  description: A named group or entity described as the vanguard in the Ynca's array.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: figure associated with sacrifices at Mantucalla
+  assigned_to:
+  - fig:1
+  basis: The Mantucalla entry states that the Ynca remained there during sacrifices.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: vanguard
+  assigned_to:
+  - fig:2
+  basis: The Mascas entry directly identifies them as the vanguard in the Ynca's array.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: mountain and hill places
+  literal_form: Pachatusam as a high hill near Cuzco; Matra-coto as a mountain in
+    Huarochiri; Puipu-huana as a mountain peak in Huarochiri; Latallaco as a hill
+    near Lima.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: lakes and river
+  literal_form: The lake of Lanqui, the western shore of Lake Titicaca, and the Pollcaro
+    river.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: temple of historical records
+  literal_form: Poquen-cancha, a temple near Cuzco where historical records were kept.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: named sacrifice places
+  literal_form: Mantucalla and Omoto-yanachiri as places associated with sacrifices
+    or sacrifice.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Index notices of sacrifice places
+  summary: The index notes Mantucalla as a place where the Ynca remained during sacrifices
+    and Omoto-yanachiri as a place of sacrifice.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:2
+  label: Index notice of the Mascas in the Ynca's array
+  summary: The index identifies the Mascas as the vanguard in the Ynca's array.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sacrifice at named places
+  taxonomy_refs:
+  - sacrifice
+  basis: The index explicitly mentions sacrifices at Mantucalla and a sacrifice at
+    Omoto-yanachiri.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is an index entry, not a ritual narrative; it gives no details
+    about participants, offerings, timing, or mythic context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8137-8242; index section
+  quote_or_summary: The passage lists entries for named places and groups such as
+    Huancavelica, Huarochiri, Hurin Cuzco, Jaquijahuana, Langui-supa, Mantucalla,
+    Poquen-cancha, Pucara, and others, with page numbers and occasional references
+    to Garcilaso de la Vega, Cieza de Leon, and Alcedo.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 8137-8242; entry Hurin Cuzco
+  quote_or_summary: '"Hurin Cuzco, or Lower Cuzco"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 8137-8242; entries Latallaco, Matra-coto, Pachatusam, Puipu-huana
+  quote_or_summary: Latallaco is listed as a hill near Lima; Pachatusam as a high
+    hill near Cuzco; Matra-coto as a mountain in Huarochiri; Puipu-huana as a mountain
+    peak in Huarochiri.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8137-8242; entries Langui-supa, Lupaca province, Pollcaro river
+  quote_or_summary: Langui-supa/Yayanacota is described as the lake of Lanqui; Lupaca
+    province is placed on the western shore of Lake Titicaca; Pollcaro is listed as
+    a river.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 8137-8242; entries Mantucalla and Omoto-yanachiri
+  quote_or_summary: '"Mantucalla. Ynca remained at, during sacrifices"; "Omoto-yanachiri.
+    Sacrifice at"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: quote
+  locator: lines 8137-8242; entry Mascas
+  quote_or_summary: '"Mascas. Vanguard in Ynca''s array"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: quote
+  locator: lines 8137-8242; entry Poquen-cancha
+  quote_or_summary: '"Poquen-cancha. Temple where historical records were kept, near
+    Cuzco"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: 'Literal extraction is straightforward because the passage is an index. Motif
+    extraction is limited: only sacrifice is explicitly present as a motif family,
+    and the index gives minimal context. No comparison claims were extracted because
+    the passage itself does not support a comparative claim.'
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No unsupported use was made of entries such as Paccari-tampu or Pachacamac beyond their literal index listing, because the passage gives no mythic description for them.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-rites-laws-yncas-molina-markham-archive__l8137-l8242
+  passage_sha256=6ea007d2a355b0e4edeeba2cacd1005372e182120920881ee1a43d17991c2177
+

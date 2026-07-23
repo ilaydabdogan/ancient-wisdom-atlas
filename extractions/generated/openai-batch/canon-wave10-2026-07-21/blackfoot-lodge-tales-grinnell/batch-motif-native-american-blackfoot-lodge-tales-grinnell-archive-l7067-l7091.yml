@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.native-american-blackfoot-lodge-tales-grinnell-archive-l7067-l7091
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+passage_locator:
+  label: THE   THEFT   FROM   THE   SUN / THE   FOX / OLD   MAN   AND   THE    LYNX
+    / OLD  MAN  AND  THE  LYNX  173; lines 7067-7091
+  start: '7067'
+  end: '7091'
+  translation: Blackfoot Lodge Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: So he gashed it across with his stone knife, as you see it to-day.
+  summary: The passage closes with a statement explaining the present appearance of
+    lynxes. Old Man then returns to a fire, becomes angry at his nose, burns it with
+    ignited willow sticks, asks the wind to cool him, and is blown to Birch Creek.
+    He survives by grasping a birch tree, then praises and permanently marks the tree
+    with a stone knife, explaining its present appearance.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage begins with a concluding statement that lynxes look as they do
+    today because of a preceding event.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Old Man returns to the fire, sees red willow sticks where his food had been,
+    becomes angry at his nose, and speaks to it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Old Man puts willow sticks into the coals, lets them catch fire, and burns
+    his nose.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Old Man runs to a hill, holds his nose to the wind, and calls for the wind
+    to blow hard and cool him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A hard wind blows Old Man away toward Birch Creek while he tries unsuccessfully
+    to hold weeds and brush.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Old Man seizes a birch tree, and the tree holds him despite the wind.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Old Man calls for the wind to blow gently, and the wind goes down.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Old Man praises the birch tree, says he will ornament it permanently, and
+    gashes it across with his stone knife.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Old Man
+  description: The main actor who returns to the fire, burns his nose, is blown by
+    the wind, grasps the birch tree, and marks it with a stone knife.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Wind
+  description: A natural force called on by Old Man; it blows hard, carries him away,
+    later listens, and goes down.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: lynxes
+  description: Animals whose current appearance is briefly explained in the opening
+    coda of the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: agent marked by self-inflicted injury and marker of the tree
+  assigned_to:
+  - fig:1
+  basis: Old Man burns his own nose and later gashes the birch tree so it remains
+    marked.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: responsive natural force
+  assigned_to:
+  - fig:2
+  basis: The wind comes when called, blows Old Man away, and later goes down after
+    he calls for gentleness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: animals with present appearance explained
+  assigned_to:
+  - fig:3
+  basis: The narrator says the preceding event is why lynxes look as they do today.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: fire and coals
+  literal_form: fire, coals, and ignited red willow sticks
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: nose
+  literal_form: Old Man's nose, addressed and burned
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: wind
+  literal_form: hard wind that blows Old Man away and later becomes gentle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: birch tree
+  literal_form: birch tree that Old Man grasps and later gashes across
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: stone knife
+  literal_form: stone knife used to gash the birch tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Lynx appearance coda
+  summary: The passage opens with a brief explanation that lynxes look as they do
+    today because of a preceding event.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Old Man burns his nose
+  summary: Old Man returns to the fire, blames his nose for not waking him, ignites
+    willow sticks in the coals, and burns his nose.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wind carries Old Man to Birch Creek
+  summary: Seeking relief for his burned nose, Old Man calls on the wind; the wind
+    blows him away until he catches and holds a birch tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Old Man marks the birch tree
+  summary: After the birch tree saves him from being blown apart, Old Man praises
+    it, declares he will ornament it permanently, and cuts it across with a stone
+    knife.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: origin of present-day lynx appearance
+  taxonomy_refs: []
+  basis: The passage states that the preceding event is the reason lynxes look as
+    they do today.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The causal action for this explanation is mostly outside the supplied
+    line range.
+- id: motif:2
+  label: self-inflicted punishment after blaming a body part
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Old Man calls his nose a fool for not waking him and then burns it with fire
+    from willow sticks.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage supports the comic self-injury pattern, but the taxonomy assignment
+    is interpretive and the word 'trickster' is not used in the excerpt.
+- id: motif:3
+  label: requested natural force becomes dangerous
+  taxonomy_refs: []
+  basis: Old Man asks the wind to blow hard and cool him, but the hard wind blows
+    him away toward Birch Creek.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: tree receives permanent marks after saving a figure
+  taxonomy_refs:
+  - culture_hero
+  basis: The birch tree keeps Old Man from being blown away; he then ornaments it
+    by gashing it so it remains marked as seen today.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage clearly gives an origin for the tree's markings, but it does
+    not explicitly call Old Man a culture hero.
+comparison_claims:
+- id: claim:1
+  claim: The birch-tree episode functions as an etiological explanation for a visible
+    natural feature in the present world.
+  claim_level: same_function
+  target: etiological origin-story pattern for present natural features
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional comparison to a broad narrative pattern only;
+    it does not imply historical contact or common inheritance.
+- id: claim:2
+  claim: The lynx coda also functions as an etiological explanation for an animal's
+    present appearance, though the causal details are outside this passage range.
+  claim_level: same_function
+  target: etiological origin-story pattern for animal appearance
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied excerpt preserves only the explanatory coda, not the full
+    episode that produced the lynx appearance.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7067-7069
+  quote_or_summary: '"That is the reason the lynxes look so to-day."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 7071-7077
+  quote_or_summary: Old Man returns to the fire, sees red willow sticks where his
+    food had been, scolds his nose for not waking him, ignites the sticks in the coals,
+    and burns his nose.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 7077-7083
+  quote_or_summary: In pain, Old Man goes to a hill, holds his nose to the wind, asks
+    it to blow hard and cool him, and is blown away toward Birch Creek while grabbing
+    at weeds and brush.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 7083-7087
+  quote_or_summary: Old Man catches a birch tree, which holds him while the wind whips
+    him about; after he calls for the wind to blow gently, it goes down.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 7088-7091
+  quote_or_summary: Old Man praises the birch tree for saving him, says he will ornament
+    it permanently, and "gashed it across with his stone knife, as you see it to-day."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal actions and objects are clear in the passage. Motif labels involving
+    etiological explanation are strongly supported; taxonomy mappings are more cautious
+    because the excerpt does not name a motif category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used; no historical or cross-cultural contact claims are made.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-blackfoot-lodge-tales-grinnell-archive__l7067-l7091
+  passage_sha256=de38783c029e77a6728671a9857d1d055c1baa171a260d253613644c6e44ee1b
+

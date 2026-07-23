@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l12551-l12595
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / SEVENTH  BOOK  OP  THE  ROYAL / CHAPTER  XIX.
+    / COMMENTARIES  OF  THE  YNCAS.; lines 12551-12595
+  start: '12551'
+  end: '12595'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Ynca ruler’s sustained provisioning of troops
+    during the conquest of Chile, the submission and administration of conquered provinces,
+    the southward advance to the river Maulli, the measured extent of the empire from
+    Atacama to Maulli, and a further crossing of the Maulli with a demand that the
+    Purunauca/Promaucaes acknowledge the Ynca as lord.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: During a conquest said to last more than six years, the Ynca sent reinforcements
+    and supplies of food, clothing, and shoes to his people.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The army in Chile is described as increasing to fifty thousand warriors, all
+    supplied with necessities as if they were in Cuzco.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the valley of Chile was reduced to submission, reports of proceedings,
+    including daily reports, were sent to the Ynca.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After making administrative arrangements for conquered provinces, the Yncas
+    marched south and conquered tribes as far as the river Maulli.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator states that he does not know what battles or encounters occurred
+    and that the country was supposed to have been reduced by peaceful means.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The empire is described as extending more than two hundred and sixty leagues
+    from Atacama to the river Maulli, with intermediate distances listed.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Yncas arranged affairs in the conquered country, placed garrisons there,
+    and crossed the river Maulli with twenty thousand men.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Yncas sent to the people of Purunauca, called Promaucaes by the Spaniards,
+    demanding that they acknowledge the Ynca as their lord.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the Ynca
+  description: The ruler who supplied his people, guarded his honour and majesty,
+    received reports, and was to be acknowledged as lord.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: the Yncas
+  description: The imperial commanders or forces who reduced Chile to submission,
+    administered conquered provinces, marched south, crossed the Maulli, and sent
+    a demand to the Purunauca/Promaucaes.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: army in Chile
+  description: A force described as increasing to fifty thousand warriors and being
+    supplied with necessities.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: tribes south of Chile
+  description: Tribes conquered as far as the river Maulli.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: people of Purunauca / Promaucaes
+  description: A people beyond the Maulli to whom the Yncas sent a demand that they
+    acknowledge the Ynca as lord.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: imperial ruler and claimed lord
+  assigned_to:
+  - fig:1
+  basis: The Ynca provides supplies, receives reports, is associated with honour and
+    majesty, and is the lord whom the Purunauca/Promaucaes are asked to acknowledge.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: conquering administrators
+  assigned_to:
+  - fig:2
+  basis: They reduce the valley of Chile to submission and arrange administration
+    in conquered provinces.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: frontier advance force
+  assigned_to:
+  - fig:2
+  basis: They cross the river Maulli with twenty thousand men and send a submission
+    demand to the people beyond it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: provisioned warriors
+  assigned_to:
+  - fig:3
+  basis: The army in Chile is described as fifty thousand warriors supplied with necessities.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: conquered tribes
+  assigned_to:
+  - fig:4
+  basis: The tribes are described as conquered as far as the river Maulli.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: people addressed with submission demand
+  assigned_to:
+  - fig:5
+  basis: The Yncas send to them demanding acknowledgement of the Ynca as lord.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: provisioning supplies
+  literal_form: food, clothing, and shoes
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Cuzco as supply benchmark
+  literal_form: the city of Cuzco
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Maulli frontier river
+  literal_form: the river Maulli
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: garrisons in conquered country
+  literal_form: necessary garrisons
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Provisioning of the conquest in Chile
+  summary: The Ynca sustains the conquest by sending reinforcements and supplies so
+    that the army in Chile lacks nothing.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Submission and southward administration
+  summary: After the valley of Chile is submitted, the Yncas report to the ruler,
+    arrange the conquered provinces, and continue south toward the Maulli.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Geographic measurement of imperial extent
+  summary: The passage measures the empire’s extension from Atacama through Copayapu,
+    Cuquimpu, and Chile to the river Maulli.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Crossing the Maulli and demanding submission
+  summary: The Yncas secure the conquered region with garrisons, cross the Maulli
+    with twenty thousand men, and demand that the Purunauca/Promaucaes acknowledge
+    the Ynca as lord.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal authority through conquest, provisioning, and submission
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Ynca’s honour and majesty are tied to not retreating, he supplies the
+    army, receives reports, and is presented as the lord whom new peoples must acknowledge.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage is a historical chronicle of imperial expansion rather than
+    a mythic origin episode; royal legitimacy is political in the passage and not
+    explicitly sacred.
+- id: motif:2
+  label: frontier crossing before renewed conquest
+  taxonomy_refs: []
+  basis: After consolidating conquered territory with administration and garrisons,
+    the Yncas cross the Maulli with a large force and issue a demand for submission
+    beyond the previous boundary.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a narrative pattern of expansion and boundary crossing, not clearly
+    a formal mythological motif in the passage.
+- id: motif:3
+  label: ordered imperial provisioning
+  taxonomy_refs: []
+  basis: The ruler sustains a distant army with reinforcements and necessities so
+    effectively that the warriors are described as supplied as if they were in Cuzco.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an administrative and military pattern; no available taxonomy
+    family directly matches it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12551-12560
+  quote_or_summary: During a conquest said to last more than six years, the Ynca sends
+    reinforcements and supplies of food, clothing, and shoes; his army in Chile grows
+    to fifty thousand warriors and is supplied as if in Cuzco.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 12561-12570
+  quote_or_summary: The valley of Chile is reduced to submission; proceedings are
+    reported to the Ynca daily; administrative arrangements are made; the Yncas march
+    south, conquering tribes as far as the river Maulli, with the narrator noting
+    uncertainty about battles and suggesting peaceful reduction.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 12570-12580
+  quote_or_summary: The empire is measured as extending more than two hundred and
+    sixty leagues from Atacama to the river Maulli, with distances from Atacama to
+    Copayapu, Copayapu to Cuquimpu, Cuquimpu to Chile, and Chile to Maulli.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 12580-12590
+  quote_or_summary: The Yncas desire to advance further, arrange the conquered country,
+    place garrisons as a precaution, and cross the river Maulli with twenty thousand
+    men.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 12590-12595
+  quote_or_summary: According to their custom, the Yncas send to the people of Purunauca,
+    called Promaucaes by the Spaniards, demanding that they acknowledge the Ynca as
+    their lord; the passage breaks off mid-sentence after this demand.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The historical actions and roles are explicit in the passage. Motif labels
+    are cautious because the passage is primarily chronicle-style military and administrative
+    history. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. The passage ends mid-sentence, so the final demand is not completed beyond the provided text.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l12551-l12595
+  passage_sha256=d5b8fda18ae559aa63a16cccef33a2f7480c7d26200c8ff5b9eef2f4f0ec576a
+

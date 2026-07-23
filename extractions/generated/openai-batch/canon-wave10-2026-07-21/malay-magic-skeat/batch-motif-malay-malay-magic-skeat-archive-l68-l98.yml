@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l68-l98
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: Malay Magic / CHAPTER  I; lines 68-98
+  start: '68'
+  end: '98'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage introduces a Peninsular Malay creation account quoted from
+    a Malay folk-tale: light emanates from the Supreme Being toward chaos, becomes
+    an ocean, vapor and foam arise from the waters, earth and sea are formed in seven
+    tiers, and God steadies the vibrating world by girding it with an adamantine chain
+    identified with the mountains of Caucasus. Beyond this boundary lies a rich plain
+    of gold, musk, gems, and fragrant flowers.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents the account as a creation theory usually held by Peninsular
+    Malays and quoted from a Malay folk-tale.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Light first emanates from the Supreme Being toward chaos.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The diffused light becomes a vast ocean.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Thick vapor and foam ascend from the waters.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Earth and sea are formed, each in seven tiers.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The earth rests on the surface of the water from east to west, and the world’s
+    foundations vibrate with the movement of the watery expanse.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: God steadies the world by girding it with an adamantine chain identified as
+    the mountains of Caucasus.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The mountains of Caucasus are described as wondrous regions of genii and aerial
+    spirits.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Beyond the mountain boundary lies a vast plain with gold and musk in the sand
+    and earth, rubies and emeralds as stones, and fragrant flowering vegetation.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage ends with an incomplete sentence beginning to describe something
+    from the range of Caucasus.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Supreme Being / God
+  description: The divine figure from whom light emanates and who steadies the foundations
+    of the world.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Genii and aerial spirits
+  description: Nonhuman beings associated with the wondrous regions of the mountains
+    of Caucasus.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine source of emanated light
+  assigned_to:
+  - fig:1
+  basis: The Supreme Being is said to be the source from which light first emanates
+    toward chaos.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: world-stabilizer
+  assigned_to:
+  - fig:1
+  basis: God steadies the vibrating world by girding it with the adamantine chain
+    of mountains.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: otherworldly inhabitants of mountain regions
+  assigned_to:
+  - fig:2
+  basis: The mountains of Caucasus are described as regions of genii and aerial spirits.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: emanated light
+  literal_form: Light moving from the Supreme Being toward chaos and becoming ocean
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: primordial chaos
+  literal_form: Chaos toward which the first light emanates
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - chaos
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: primordial ocean and waters
+  literal_form: The vast ocean formed from diffused light; waters from which vapor
+    and foam ascend
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: vapor and foam
+  literal_form: Thick vapor and foam ascending from the bosom of the waters
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: seven-tiered earth and sea
+  literal_form: Earth and sea formed each of seven tiers
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: world-girdling mountains
+  literal_form: Adamantine chain identified as the mountains of Caucasus
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: jeweled fragrant plain beyond the boundary
+  literal_form: A vast plain beyond the mountain limits with gold, musk, rubies, emeralds,
+    and fragrant flowers
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Emanation into chaos and formation of ocean
+  summary: Light emanates from the Supreme Being toward chaos and, by diffusing, becomes
+    a vast ocean.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Waters produce vapor, foam, earth, and sea
+  summary: Vapor and foam ascend from the waters, after which earth and sea are formed
+    in seven tiers.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Stabilizing the world with the Caucasus chain
+  summary: Because the world vibrates with the motion of the waters, God steadies
+    it by encircling it with an adamantine chain identified as the mountains of Caucasus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: The plain beyond the mountain limits
+  summary: Beyond the mountain limits spreads a rich plain of precious substances
+    and fragrant vegetation.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Creation from divine emanation into chaos
+  taxonomy_refs:
+  - chaos
+  basis: The creation sequence begins with light emanating from the Supreme Being
+    toward chaos.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a brief quoted summary of the cosmogony.
+- id: motif:2
+  label: Oceanic beginning of the world
+  taxonomy_refs: []
+  basis: The first light becomes a vast ocean, and later formations arise from the
+    waters.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No distinct taxonomy motif for primordial waters is provided beyond the
+    available water symbol.
+- id: motif:3
+  label: Seven-tiered earth and sea
+  taxonomy_refs: []
+  basis: Earth and sea are explicitly said to be formed each of seven tiers.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the function or contents of the seven tiers.
+- id: motif:4
+  label: World stabilized by encircling mountains
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: God steadies the vibrating world by girding it with an adamantine chain identified
+    as the mountains of Caucasus.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The mountains function as a cosmic boundary and stabilizer here, not explicitly
+    as a central world mountain.
+- id: motif:5
+  label: Precious otherworld beyond the cosmic boundary
+  taxonomy_refs: []
+  basis: Beyond the mountain limits lies a plain of gold, musk, rubies, emeralds,
+    and fragrant flowers.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage does not identify this plain as an afterlife realm or give
+    it a narrative function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Malay Magic, Chapter I, lines 68-98; introductory sentence
+  quote_or_summary: The passage says the creation theory usually held by Peninsular
+    Malays is summarized in a passage quoted by Lieutenant Newbold from a Malay folk-tale.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: Malay Magic, Chapter I, lines 68-98; quoted folk-tale opening
+  quote_or_summary: From the Supreme Being, light first emanates toward chaos; as
+    it diffuses, it becomes a vast ocean.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: Malay Magic, Chapter I, lines 68-98; quoted folk-tale creation sequence
+  quote_or_summary: From the waters, thick vapor and foam ascend; earth and sea are
+    then formed, each in seven tiers.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: Malay Magic, Chapter I, lines 68-98; world resting on water
+  quote_or_summary: The earth rests on the water from east to west, and the world’s
+    foundations vibrate with the motion of the watery expanse.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: Malay Magic, Chapter I, lines 68-98; world-girdling chain
+  quote_or_summary: God makes the world steadfast by girding it with an adamantine
+    chain, identified as the mountains of Caucasus, regions of genii and aerial spirits.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized.
+- id: ev:6
+  type: summary
+  locator: Malay Magic, Chapter I, lines 68-98; beyond the limits
+  quote_or_summary: Beyond the limits lies a vast plain whose sand and earth are gold
+    and musk, stones are rubies and emeralds, and vegetation is fragrant flowers.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized.
+- id: ev:7
+  type: note
+  locator: Malay Magic, Chapter I, line 98
+  quote_or_summary: The supplied passage ends mid-sentence after beginning a statement
+    about the range of Caucasus.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is high confidence for the supplied passage. Motif labeling
+    is medium because the passage is a short summarized quotation and ends mid-sentence.
+    No comparison claims were made because the passage itself does not compare this
+    account with another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. The final sentence is incomplete in the provided line range.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l68-l98
+  passage_sha256=aa4f7d4f0fe1d34279d4826f0f52544ea312ef92f57226fe0d3f409ec9381874
+

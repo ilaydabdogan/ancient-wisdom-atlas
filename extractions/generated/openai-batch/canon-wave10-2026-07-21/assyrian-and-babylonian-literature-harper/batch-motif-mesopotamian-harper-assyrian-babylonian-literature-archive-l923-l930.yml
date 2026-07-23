@@ -1,0 +1,132 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l923-l930
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: INTRODUCTION / INTRODUCTION  V / X  ASSYRIAN   AND   BABYLONIAN   LITERATURE
+    / INTRODUCTION  XV; lines 923-930
+  start: '923'
+  end: '930'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A legal article states that antiquities accidentally discovered during
+    construction digging are to be divided equally between the property owner and
+    the Government, with the Government able to select desired items by paying their
+    value.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Antiquities may be discovered accidentally while digging foundations of a
+    building, wall, or sewer.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The discovered antiquities are to be divided equally between the property
+    owner and the Government.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At the division, the Government has the choice of taking selected antiquities
+    after paying their value.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Government may obtain from the landowner’s share the portion it wants.
+  category: action
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: owner of the property / landowner
+  description: The private owner of the property where antiquities are discovered
+    and whose share may include items desired by the Government.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Government
+  description: The public authority that receives an equal share and may choose additional
+    desired antiquities by paying their value.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: property owner sharing discovered antiquities
+  assigned_to:
+  - fig:1
+  basis: The owner receives an equal part of accidentally discovered antiquities and
+    may have items taken from that share by the Government with payment of value.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: governmental claimant and purchaser
+  assigned_to:
+  - fig:2
+  basis: The Government receives an equal part and may select desired antiquities
+    by paying their value.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Legal division of accidentally discovered antiquities
+  summary: Antiquities found by accident during digging are divided between the property
+    owner and the Government, after which the Government may acquire desired items
+    by paying value.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 923-926
+  quote_or_summary: Antiquities accidentally discovered while digging foundations,
+    a wall, or a sewer are to be divided equally between the property owner and the
+    Government.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 927-930
+  quote_or_summary: At the division, the Government may choose desired antiquities
+    by paying their value and may obtain a wanted portion from the landowner’s share.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a legal provision about ownership and acquisition of antiquities;
+    no mythological motif or supported comparison claim is present in the provided
+    text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the passage contains a legal article rather than a mythic narrative or symbolic image.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l923-l930
+  passage_sha256=9cb159711264c0a0774357f9886371b4389b10c65ccf50e1f6054d613001755f
+

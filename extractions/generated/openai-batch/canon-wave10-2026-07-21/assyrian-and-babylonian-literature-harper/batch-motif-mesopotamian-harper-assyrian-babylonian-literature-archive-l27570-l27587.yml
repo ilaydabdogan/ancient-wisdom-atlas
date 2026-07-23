@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l27570-l27587
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: SOME   PROVERBS   AND   SAYINGS / II.  OMENS  FROM  THE  HORNS  OF  THE  MOON
+    / REPORTS  OF  THE  MAGICIANS  AND  ASTROLOGERS  453 / V.    VARIOUS  OMENS   FROM   THE  MOON;
+    lines 27570-27587
+  start: '27570'
+  end: '27587'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A lunar omen passage states that disappearance of the Moon portends evil
+    for the land, that disappearance outside its reckoning indicates an eclipse, and
+    that a solar halo on the day of lunar disappearance predicts an eclipse of the
+    Moon's left side. A watch for the eclipse is reported in Kislev, and Irasshi-ilu
+    addresses the king as his servant.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented as a set of various omens from the Moon.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The disappearance of the Moon is stated to precede evil befalling the land.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The disappearance of the Moon outside its reckoning is stated to precede an
+    eclipse.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A parenthetical note states that the Moon disappeared on the twenty-fourth
+    day.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A halo around the Sun on the day of the Moon's disappearance is stated to
+    precede an eclipse of the left side of the Moon.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In Kislev, a watch was kept for an eclipse because the solar halo and the
+    Moon's disappearance had been observed.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The report asks that the king know the information and rest happy.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The sender identifies himself as Irasshi-ilu, the king's servant, with the
+    parenthetical designation 'the greater.'
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the Moon
+  description: The Moon disappears, disappears outside its reckoning, and is predicted
+    to undergo an eclipse of its left side.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the Sun
+  description: The Sun is described as being surrounded by a halo on the day of the
+    Moon's disappearance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the king, my lord
+  description: The addressee of the report is the king, addressed as 'my lord.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Irasshi-ilu
+  description: Irasshi-ilu identifies himself as the king's servant and sender of
+    the report.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: lunar body whose disappearance is read as an omen
+  assigned_to:
+  - fig:1
+  basis: The passage links the Moon's disappearance with evil for the land and with
+    eclipse predictions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: celestial body with observed halo
+  assigned_to:
+  - fig:2
+  basis: A halo surrounding the Sun is cited as an observed sign associated with the
+    eclipse watch.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: royal addressee
+  assigned_to:
+  - fig:3
+  basis: The report asks that the king, addressed as lord, know and rest happy.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: reporting servant
+  assigned_to:
+  - fig:4
+  basis: Irasshi-ilu names himself as the king's servant at the end of the report.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Moon disappearance
+  literal_form: the Moon disappears
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: Solar halo
+  literal_form: a halo surrounds the Sun
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Lunar eclipse
+  literal_form: an eclipse, including an eclipse of the left side of the Moon
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Twenty-fourth day
+  literal_form: the Moon disappeared on the twenty-fourth day
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Kislev eclipse watch
+  literal_form: in Kislev a watch was kept for the eclipse
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Statement of lunar omen consequences
+  summary: The passage states that the Moon's disappearance predicts evil for the
+    land and that disappearance outside its reckoning predicts an eclipse.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Solar halo and predicted lunar eclipse
+  summary: The passage states that a halo around the Sun on the day of the Moon's
+    disappearance predicts an eclipse of the Moon's left side.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Kislev watch and royal report
+  summary: A watch for an eclipse is kept in Kislev because the relevant celestial
+    signs were observed, and Irasshi-ilu reports this to the king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Lunar disappearance as omen of landwide evil
+  taxonomy_refs: []
+  basis: The passage directly states that when the Moon disappears, evil will befall
+    the land.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an omen pattern rather than a narrative myth episode.
+- id: motif:2
+  label: Celestial anomaly as eclipse prediction
+  taxonomy_refs: []
+  basis: The Moon's disappearance outside its reckoning and a halo around the Sun
+    are both linked to a coming lunar eclipse.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives technical omen correlations without explaining their
+    ritual or theological basis.
+- id: motif:3
+  label: Royal astrological report
+  taxonomy_refs: []
+  basis: The passage ends with a report to the king from Irasshi-ilu, who identifies
+    himself as the king's servant, after noting observed celestial signs and an eclipse
+    watch.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage identifies the reporting relationship but gives little detail
+    about the administrative setting.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: '27570'
+  quote_or_summary: 'Section heading: various omens from the Moon.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: '27572'
+  quote_or_summary: '"When the Moon disappears, evil will befall the land."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: 27573-27575
+  quote_or_summary: The Moon disappearing outside its reckoning is linked to an eclipse,
+    and a parenthetical note says the Moon disappeared on the twenty-fourth day.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 27575-27578
+  quote_or_summary: A halo around the Sun on the day of the Moon's disappearance is
+    said to indicate an eclipse of the left side of the Moon.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 27582-27585
+  quote_or_summary: In Kislev, a watch was kept for an eclipse because the solar halo
+    and the Moon's disappearance had been observed.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 27585-27587
+  quote_or_summary: The report asks the king to know and rest happy, and identifies
+    the sender as Irasshi-ilu, the king's servant, 'the greater.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal omen correlations and reporting relationship are explicit. Motif
+    labels are descriptive and not mapped to the supplied taxonomy. No comparison
+    claims are made because the passage does not itself establish an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No supplied taxonomy symbol exactly matches Moon, Sun, halo, or eclipse; taxonomy_refs are therefore left empty.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l27570-l27587
+  passage_sha256=5e3410b94e4d0bb8f91a5c20d59c509062604480e29dbc2adac479531c6cb914
+

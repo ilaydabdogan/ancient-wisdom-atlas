@@ -1,0 +1,324 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l1918-l1927
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: LONG-TONGUE,  THE  ROLLING  HEAD.  3I / S.  LONQ-TONQUE,  THE  ROLLING  HEAD.'
+    / LONG-TONGUE,  THE  ROLLING  HEAD.  33 / LONG-TONGUE,    THE    ROLLING    HEAD.  35;
+    lines 1918-1927
+  start: '1918'
+  end: '1927'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: '"You are near the place now."'
+  summary: A Raven tells a girl she is near a place. She sees a mound-like place,
+    finds a man outside a lodge making a bow, asks him to save her from a mysterious
+    being that has followed her for days, enters the lodge, and sits beneath a sacred
+    bundle. Long-Tongue climbs out of a gulch and resumes chasing her as the passage
+    breaks off.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Raven flies over the girl and says she is near the place.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The girl sees what appears to her to be a mound, goes around it, and sees
+    a man outside a lodge making a bow.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The girl asks the man to save her and says a mysterious being has followed
+    her for several days; she says she is tired and weak.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The man tells the girl to walk into the lodge.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Inside the lodge, the girl sees another sacred bundle hanging up.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The girl sits down under the hanging sacred bundle.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Long-Tongue climbs out of the gulch and begins to chase the girl again.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Raven
+  description: A raven that flies over the girl and speaks to her about nearing the
+    place.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the girl
+  description: A tired and weak girl being followed for several days, who asks for
+    rescue and enters the lodge.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: man outside the lodge
+  description: A man sitting outside the lodge making a bow; he tells the girl to
+    enter the lodge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Long-Tongue
+  description: The named pursuer who climbs out of a gulch and begins chasing the
+    girl again; the girl has described a mysterious being following her for several
+    days.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+roles:
+- id: role:1
+  label: speaking guide or announcer
+  assigned_to:
+  - fig:1
+  basis: The Raven flies over the girl and tells her she is near the place.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: pursued refuge-seeker
+  assigned_to:
+  - fig:2
+  basis: The girl asks to be saved, reports being followed for several days, and enters
+    the lodge.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: lodge occupant and bow-maker
+  assigned_to:
+  - fig:3
+  basis: The man is outside the lodge making a bow and directs the girl into the lodge.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: pursuer
+  assigned_to:
+  - fig:4
+  basis: Long-Tongue climbs from the gulch and begins to chase the girl again.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: speaking Raven
+  literal_form: Raven flying over the girl and speaking
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mound-like lodge place
+  literal_form: a place that seems to the girl to be a mound, around which she goes
+    before seeing the lodge and man
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bow
+  literal_form: a bow being made by the man outside the lodge
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sacred bundle
+  literal_form: a sacred bundle hanging inside the lodge, beneath which the girl sits
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: gulch
+  literal_form: the gulch from which Long-Tongue climbs out
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Raven announces the nearby place
+  summary: The Raven tells the girl she is near the place; she sees a mound-like place
+    and a man outside a lodge making a bow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Girl asks for rescue at the lodge
+  summary: The girl asks the man to save her from a mysterious being that has been
+    following her and says she is tired and weak; the man directs her into the lodge.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Girl sits under the sacred bundle
+  summary: Inside the lodge, the girl sees a hanging sacred bundle and sits beneath
+    it.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Long-Tongue resumes the chase
+  summary: Long-Tongue climbs out of the gulch and begins chasing the girl again;
+    the passage ends mid-action.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: animal guide announces nearness to destination
+  taxonomy_refs: []
+  basis: A Raven flies over the girl and tells her she is near the place.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only a brief guiding utterance and does not explain
+    the Raven's broader role.
+- id: motif:2
+  label: pursued person seeks refuge at a lodge
+  taxonomy_refs: []
+  basis: The girl asks the man to save her from a being following her for days, enters
+    the lodge, and Long-Tongue resumes the chase.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage cuts off before showing the outcome of the pursuit or refuge.
+- id: motif:3
+  label: sitting beneath a sacred bundle after seeking aid
+  taxonomy_refs: []
+  basis: After asking for rescue and entering the lodge, the girl sees a hanging sacred
+    bundle and sits beneath it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage identifies the bundle as sacred but does not yet state what
+    protection or effect it has.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '1918'
+  quote_or_summary: The Raven flies over the girl and says, "You are near the place
+    now."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: summary
+  locator: 1919-1921
+  quote_or_summary: The girl sees what seems to be a mound, goes around it, and sees
+    a man outside a lodge making a bow.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 1921-1923
+  quote_or_summary: The girl asks the man to save her from a mysterious being that
+    has followed her for several days and says she is tired and weak.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 1923-1925
+  quote_or_summary: The man tells the girl to enter the lodge, where she sees another
+    sacred bundle hanging up.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 1925-1926
+  quote_or_summary: The girl goes to where the bundle is hanging and sits down under
+    it.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: 1926-1927
+  quote_or_summary: Long-Tongue climbs out of the gulch and begins to chase the girl
+    again; the supplied passage ends mid-sentence as he comes nearer.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward, but the passage is truncated at
+    the end, limiting motif interpretation. No comparison claims were extracted because
+    the supplied passage contains no explicit comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy references were assigned because the supplied taxonomy list did not include direct matches for the Raven, sacred bundle, lodge refuge, bow, mound-like place, or gulch.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l1918-l1927
+  passage_sha256=6f2b8e3df07ac3377b8e2cd2b0476d444f060c57f5150fb6184136cb98696b09
+

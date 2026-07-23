@@ -1,0 +1,461 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l3044-l3130
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: PARROTS.  51 / AVI-FAUNA.  53 / REPTILES.  55 / TORTOISES.  57; lines 3044-3130
+  start: '3044'
+  end: '3130'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage surveys Malagasy tortoises, crocodiles, and fish. It notes
+    geometric and giant tortoises, describes crocodiles as abundant in rivers and
+    lakes, records a small bird said to attend and warn crocodiles, describes Malagasy
+    fear of crocodiles and protective fenced water-drawing places, and briefly mentions
+    a crocodile ordeal formerly or possibly still practiced among tribes near the
+    Matitanaua River.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Several tortoise species are described, including a geometric or box-tortoise
+    with a carapace divided into large marked hexagons.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Large tortoise species formerly lived in Madagascar or nearby island groups;
+    the passage describes their remains, survival only on Aldabra, and exceptional
+    size and strength.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Crocodiles are reported to be abundant in Madagascar’s rivers, lakes, and
+    pools, often basking on sandbanks.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The crocodiles are described with yellowish-green, slaty, or spotted coloring,
+    serrated backs, and small-looking heads in proportion to their bodies.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A small bird is said to attend crocodiles, feed on their parasites, and warn
+    them of danger.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Many Malagasy tribes are said to regard crocodiles with superstitious dread.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Villages on riverbanks are described as fencing off spaces with strong stakes
+    so women and girls can draw water with reduced risk from crocodiles.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Among tribes on either side of the Matitanaua River, a kind of ordeal for
+    suspected crimes reportedly used to be, and perhaps still is, practiced, with
+    the crocodile playing an important part.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Crocodiles are said frequently to carry off cattle during river crossings,
+    and an anecdote describes an ox disappearing in the Mangoro River.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Crocodile eggs are collected and sold as food in markets.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Geometric or box-tortoise
+  description: A tortoise species allied to African genera, with a carapace divided
+    into large beautifully marked hexagons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Giant tortoise
+  description: Very large tortoise species formerly associated with Madagascar and
+    nearby islands; one male specimen is described as broader than long, about eight
+    hundred pounds, and able to carry great weight.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Crocodiles
+  description: Abundant reptiles in Madagascar’s rivers, lakes, and pools; feared,
+    dangerous, and involved in a reported ordeal practice.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Small bird attending crocodiles
+  description: A bird that feeds on crocodile parasites and is said to warn the crocodile
+    of danger.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Many Malagasy tribes
+  description: Groups described as regarding crocodiles with superstitious dread.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Women and girls drawing water
+  description: People protected by fenced spaces at riverbank villages so they can
+    draw water without being seized or swept off by crocodiles.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Suspected offenders in crocodile ordeal
+  description: People suspected of certain crimes and subjected to a kind of ordeal
+    in which the crocodile has an important part.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Cattle and oxen crossing rivers
+  description: Domestic animals described as being carried off by crocodiles while
+    fording or swimming across rivers.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: described animal specimen or species
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage gives natural-history descriptions of tortoise species and specimens.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: dangerous river predator
+  assigned_to:
+  - fig:3
+  basis: Crocodiles are said to seize people or cattle and to make riverbank water-drawing
+    dangerous.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: ordeal agent
+  assigned_to:
+  - fig:3
+  basis: The crocodile is said to have an important part in an ordeal for those suspected
+    of crimes.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: feared being
+  assigned_to:
+  - fig:3
+  basis: Many Malagasy tribes are described as regarding crocodiles with superstitious
+    dread.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: attendant and warning animal
+  assigned_to:
+  - fig:4
+  basis: The bird feeds on crocodile parasites and is said to warn the crocodile of
+    danger.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: community holding crocodile dread
+  assigned_to:
+  - fig:5
+  basis: Many Malagasy tribes are said to regard crocodiles with superstitious dread.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: protected water drawers
+  assigned_to:
+  - fig:6
+  basis: Fenced riverbank spaces are described as protecting women and girls while
+    they draw water.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: ordeal subjects
+  assigned_to:
+  - fig:7
+  basis: The ordeal is said to be for people suspected of certain crimes.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: prey during river crossing
+  assigned_to:
+  - fig:8
+  basis: Cattle are said to be carried off by crocodiles when crossing rivers.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Crocodile
+  literal_form: Crocodile in rivers, lakes, pools, and ordeal practice
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: River and water places
+  literal_form: Rivers, lakes, pools, riverbanks, and water-drawing places where crocodile
+    danger is encountered
+  associated_figures:
+  - fig:3
+  - fig:6
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: Fenced water-drawing space
+  literal_form: A riverbank space carefully fenced with strong stakes at villages
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Attendant warning bird
+  literal_form: Small bird feeding on crocodile parasites and said to warn of danger
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Tortoise species and giant tortoise survival
+  summary: The passage describes geometric tortoises in Madagascar and large tortoise
+    species known from remains and surviving only in Aldabra, with specimens in Britain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Crocodiles in waterways
+  summary: Crocodiles are described as swarming in rivers, lakes, and pools, basking
+    in groups, and having varied coloration and serrated backs.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Crocodile and attendant bird
+  summary: A small bird is said to attend crocodiles, remove parasites, and warn the
+    reptile of danger.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Fenced riverbank protection
+  summary: Because crocodiles are dangerous and feared, villages on riverbanks fence
+    off spaces so women and girls may draw water more safely.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Crocodile ordeal on the Matitanaua
+  summary: Among tribes dwelling on either side of the Matitanaua River, a kind of
+    ordeal for suspected crimes is reported in which the crocodile has an important
+    role.
+  figure_refs:
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Crocodile predation and eggs as food
+  summary: Crocodiles are said to take cattle during crossings, and crocodile eggs
+    are collected and sold for food.
+  figure_refs:
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Ordeal by crocodile
+  taxonomy_refs: []
+  basis: The passage explicitly mentions an ordeal for people suspected of crimes,
+    with the crocodile playing an important part.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage does not describe the ritual procedure, verdict logic, divine
+    agency, or outcome criteria; it points elsewhere for more detail.
+- id: motif:2
+  label: Feared river predator at the water boundary
+  taxonomy_refs: []
+  basis: Crocodiles inhabit waterways, are regarded with superstitious dread, and
+    require protective fenced spaces for water drawing.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage frames the danger partly as practical natural history; symbolic
+    or mythic meaning is only lightly indicated by the phrase 'superstitious dread.'
+- id: motif:3
+  label: Attendant warning bird of a dangerous animal
+  taxonomy_refs: []
+  basis: A small bird is said to clean crocodile parasites and warn the crocodile
+    of danger.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: This may be presented as a natural-history report rather than a narrative
+    or mythic motif; no Malagasy tale context is supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3044-3060
+  quote_or_summary: Several tortoise species are described; one geometric or box-tortoise
+    has a carapace divided into large marked hexagons and basks on sandy spits above
+    river surfaces.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 3060-3084
+  quote_or_summary: The passage describes very large extinct or surviving tortoises
+    associated with Madagascar, the Mascarenes, Aldabra, and museum or zoo specimens,
+    including a male about eight hundred pounds and believed able to carry a ton.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 3085-3100
+  quote_or_summary: Crocodiles are described as familiar to travelers, swarming in
+    rivers, lakes, and pools, sometimes seen by the hundred, basking on sandbanks,
+    and having yellowish-green, slaty, or spotted coloration with serrated backs.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 3100-3103
+  quote_or_summary: A small bird is said to attend crocodiles, feed on their parasites,
+    and warn them of danger.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 3103-3113
+  quote_or_summary: Many Malagasy tribes are said to regard crocodiles with superstitious
+    dread; at riverbank villages, strong-stake enclosures protect women and girls
+    drawing water from crocodile attack.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 3113-3119
+  quote_or_summary: Among tribes on either side of the Matitanaua River, the author
+    reports a kind of ordeal for those suspected of certain crimes in which the crocodile
+    has an important part.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 3119-3129
+  quote_or_summary: Cattle are frequently carried off by crocodiles during river crossings;
+    an anecdote describes an ox disappearing in the Mangoro and later an empty skin
+    floating downstream.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 3129-3130
+  quote_or_summary: Crocodile eggs are collected and sold as food in markets; they
+    are compared in size to turkey eggs with thick rough white shells.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Natural-history details are explicit. Motif interpretation is limited because
+    the passage only briefly mentions superstition and an ordeal without giving ritual
+    details.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparisons were added because the passage itself gives only a brief cross-reference to a folklore chapter and does not supply enough detail for historical or typological claims.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l3044-l3130
+  passage_sha256=d6ea9d19cf14b22d0696e78117ab72912241800cd365a82a1a99f8eb520115ec
+

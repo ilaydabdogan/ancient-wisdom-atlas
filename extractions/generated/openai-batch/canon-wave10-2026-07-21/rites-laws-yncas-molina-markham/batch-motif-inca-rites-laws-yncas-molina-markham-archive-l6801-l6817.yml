@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.inca-rites-laws-yncas-molina-markham-archive-l6801-l6817
+source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+passage_locator:
+  label: CHAPTER  VII. / OP   THE    INDIANS    OF    HUAROCHIEI.  145 / OF    THE    INDIANS    OF    HUAROCHIRI.  147
+    / CHAPTER  YIII.; lines 6801-6817
+  start: '6801'
+  end: '6817'
+  translation: Narratives of the Rites and Laws of the Yncas
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage names a place called Vim-lompa above a channel, where a stone
+    is said to be the transformed Conlraya. It then introduces a chapter on the Ayllu
+    of Copara, stating that they still worship Choque Suso and the channel, with the
+    narrator citing stories and judicial depositions; a note mentions the planned
+    addition of material on the hair of Choque Suso and depositions concerning the
+    irrigating channel.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A place above the channel is called Vim-lompa.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At Vim-lompa there is a stone into which Conlraya is said to have been turned.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Indians of the Ayllu of Copara are said to still worship Choque Suso and
+    the channel.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator says this worship is known from stories and from judicial depositions
+    he has taken.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note says material was to be added about the hair of Choque Suso and depositions
+    concerning the irrigating channel.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Conlraya
+  description: Named figure said to have been turned into a stone at Vim-lompa.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Choque Suso
+  description: Named figure worshipped by the Indians of the Ayllu of Copara; associated
+    in the note with a story of her hair.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Indians of the Ayllu of Copara
+  description: Group said to still worship Choque Suso and the channel.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: narrator
+  description: Speaker who says he knows of the worship from stories and judicial
+    depositions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: transformed figure
+  assigned_to:
+  - fig:1
+  basis: Conlraya is said to have been turned into a stone.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: worshipped figure
+  assigned_to:
+  - fig:2
+  basis: Choque Suso is named as still worshipped by the Indians of the Ayllu of Copara.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: worshipping group
+  assigned_to:
+  - fig:3
+  basis: The Ayllu of Copara are said to worship Choque Suso and the channel.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: collector of testimony
+  assigned_to:
+  - fig:4
+  basis: The narrator refers to stories and judicial depositions he has taken.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: stone of Conlraya
+  literal_form: stone
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: channel
+  literal_form: channel / irrigating channel
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: hair of Choque Suso
+  literal_form: hair
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Stone at Vim-lompa
+  summary: The passage identifies Vim-lompa as a place above a channel and says there
+    is a stone there into which Conlraya was turned.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Worship of Choque Suso and the channel
+  summary: The passage introduces a chapter stating that the Indians of the Ayllu
+    of Copara still worship Choque Suso and the channel, and that this is known from
+    stories and judicial depositions.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Planned additional testimony
+  summary: A note says material was to be added concerning the story of Choque Suso's
+    hair and depositions about the irrigating channel.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: figure transformed into stone
+  taxonomy_refs: []
+  basis: Conlraya is said to have been turned into a stone at Vim-lompa.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explain who performed the transformation, why it
+    occurred, or whether the transformed figure is human, divine, or another class
+    of being.
+- id: motif:2
+  label: worship of a sacred channel
+  taxonomy_refs: []
+  basis: The passage states that the Ayllu of Copara still worship Choque Suso and
+    the channel, and refers to depositions concerning the irrigating channel.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives no ritual details, offerings, or mythic narrative for
+    the worship within this line range.
+- id: motif:3
+  label: relic or bodily trace of a worshipped figure
+  taxonomy_refs: []
+  basis: The passage notes that a story of the hair of Choque Suso was to be added.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The note only mentions the story of the hair and does not provide the
+    story itself or specify how the hair functioned.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6801-6804
+  quote_or_summary: "“Above this channel there is another called Vim-lompa ... another
+    stone into which they say Conlraya was turned.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 6808-6812
+  quote_or_summary: "“How the Indians of the Ayllu of Copara still worship Choque
+    Suso and this channel ... from their stories ... from judicial depositions.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 6814-6817
+  quote_or_summary: "“the story of the hair of Choque Suso ... depositions ... concerning
+    this irrigating channel.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal entities and actions are clear, but the line range is fragmentary
+    and chapter-note material limits interpretation. No comparison claims are made
+    because the passage itself does not support a cautious cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The name appears in the supplied passage as “Conlraya”; no normalization to another spelling has been applied.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-rites-laws-yncas-molina-markham-archive__l6801-l6817
+  passage_sha256=f91dfad61f5c574aa3c1e63eb3c644508b5551b7305c1b0383e67382ccdaac92
+

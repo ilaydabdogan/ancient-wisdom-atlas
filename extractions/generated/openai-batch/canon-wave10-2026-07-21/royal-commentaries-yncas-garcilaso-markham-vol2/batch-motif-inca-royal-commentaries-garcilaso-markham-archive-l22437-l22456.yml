@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l22437-l22456
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XXX. / OF  FLAX,  ASPARAGUS,  CARROTS,  AND  ANISE. / COMMENTARIES  OP  THE  YNCAS.
+    / NINTH  BOOK  OF  THE  ROYAL; lines 22437-22456
+  start: '22437'
+  end: '22456'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: Anise was brought to Cuzco at about the same time, and was baked in the bread
+    as a thing of great value, as if it had been the nectar or the ambrosia of the
+    gods.
+  summary: 'The passage describes Spanish imports and plant introductions in Peru:
+    anise is brought to Cuzco and valued highly, Spanish goods are prized when newly
+    arrived, the narrator explains why he records small details, and mulberries and
+    silkworms are introduced though silk production proves difficult.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An unnamed item from the preceding context is said to have been served at
+    dinner, with a pajuela given for it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Anise was brought to Cuzco and baked into bread.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The anise was treated as highly valuable and compared to nectar or ambrosia
+    of the gods.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Things from Spain were generally valued in the same way when they first began
+    to arrive from Spain.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator says he writes about matters that may seem small because future
+    readers may find them useful or pleasing.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: Other plants, cereals, and legumes are said to have multiplied as previously
+    described.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Mulberries were planted and silkworms were imported; both are described as
+    previously unknown in Peru.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The people involved had not been able to work the silk because of a very great
+    difficulty.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person narrator
+  description: The narrator states that he writes an account of these things for future
+    usefulness and enjoyment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: unnamed people handling Spanish imports and plantings
+  description: Unspecified agents in the passage serve imported items, plant mulberries,
+    import silkworms, and fail to work the silk.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: gods mentioned in simile
+  description: The gods are mentioned only through the phrase comparing valued anise
+    to nectar or ambrosia of the gods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: historical narrator
+  assigned_to:
+  - fig:1
+  basis: The speaker explicitly says, “I write an account of these things.”
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: importers and cultivators
+  assigned_to:
+  - fig:2
+  basis: The passage attributes planting mulberries, importing silkworms, and attempting
+    silk production to unnamed agents.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: divine comparison figures
+  assigned_to:
+  - fig:3
+  basis: The gods appear as part of the comparison to nectar or ambrosia.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: anise as prized Spanish import
+  literal_form: anise baked in bread
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: divine-food comparison
+  literal_form: nectar or ambrosia of the gods
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: introduced silk-production materials
+  literal_form: mulberries, silkworms, and silk
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Spanish goods newly arrived in Peru
+  literal_form: things of Spain arriving from Spain
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: dinner service of unnamed imported item
+  summary: An item from the preceding context is served at dinner, and a pajuela is
+    given for it.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: anise valued in Cuzco
+  summary: Anise arrives in Cuzco, is baked in bread, and is valued like nectar or
+    ambrosia of the gods, reflecting the high value placed on new Spanish goods.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: narrator explains recording small details
+  summary: The narrator explains that he records seemingly minor matters because future
+    readers may rejoice to hear them and because histories are most useful in later
+    times.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: plants and silkworms introduced to Peru
+  summary: Other crops multiply, mulberries are planted, silkworms are imported, and
+    silk production remains unsuccessful because of a serious difficulty.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: prized foreign food likened to divine food
+  taxonomy_refs: []
+  basis: Anise brought to Cuzco is baked into bread and valued as if it were nectar
+    or ambrosia of the gods.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a rhetorical valuation in a historical chronicle, not a developed
+    mythic episode or ritual claim.
+- id: motif:2
+  label: introduction and attempted acclimatization of foreign plants and animals
+  taxonomy_refs: []
+  basis: The passage describes Spanish imports, multiplied crops, planted mulberries,
+    imported silkworms, and difficulty producing silk.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a historical colonization and cultivation pattern rather than
+    a named mythological motif.
+- id: motif:3
+  label: preservation of small beginnings for future memory
+  taxonomy_refs: []
+  basis: The narrator says he records matters that may seem unimportant because histories
+    are most useful in future times and future readers may rejoice to hear them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a historiographic pattern, not one of the supplied mythic motif-family
+    taxonomy items.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the value of anise in Cuzco to nectar or
+    ambrosia of the gods, making a limited comparison to divine-food imagery.
+  claim_level: same_function
+  target: nectar or ambrosia of the gods as divine-food imagery
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs:
+  - ev:3
+  confidence: medium
+  limitations: The comparison is a simile about value and prestige; it does not show
+    a shared myth, ritual practice, historical contact claim, or Inca divine-food
+    motif.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 22437-22440
+  quote_or_summary: "“They were served up at dinner when he had the next party, and,
+    for greater magnificence, he gave a pajuela for them.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; excerpt supplied in prompt.
+- id: ev:2
+  type: quote
+  locator: 22441-22445
+  quote_or_summary: "“Anise was brought to Cuzco ... and was baked in the bread as
+    a thing of great value, as if it had been the nectar or the ambrosia of the gods.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; excerpt supplied in prompt.
+- id: ev:3
+  type: quote
+  locator: 22445-22448
+  quote_or_summary: "“All the things of Spain were valued in the same way, when they
+    first began to arrive from Spain. I write an account of these things...”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; excerpt supplied in prompt.
+- id: ev:4
+  type: summary
+  locator: 22448-22451
+  quote_or_summary: The narrator says the details may seem unimportant, but future
+    readers may rejoice to hear them because histories are most useful in time to
+    come.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied prompt.
+- id: ev:5
+  type: summary
+  locator: 22452-22456
+  quote_or_summary: Other plants, cereals, and legumes have multiplied; mulberries
+    were planted and silkworms imported, though silk could not be worked because of
+    a major difficulty.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied prompt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a historical and agricultural chronicle excerpt rather than
+    a mythic narrative. The opening sentence is fragmentary and depends on preceding
+    context, so pronoun references are uncertain. No supplied taxonomy motif or symbol
+    reference is securely applicable.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references were left empty because the passage does not securely instantiate the available motif-family or symbol taxonomy items.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l22437-l22456
+  passage_sha256=625b480129a6aa8b93e0790121840981b1059be2f6bfd04b10ae51832ee88f9b
+

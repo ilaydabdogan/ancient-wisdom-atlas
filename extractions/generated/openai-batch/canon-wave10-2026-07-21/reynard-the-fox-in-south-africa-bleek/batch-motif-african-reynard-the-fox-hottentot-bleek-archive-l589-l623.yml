@@ -1,0 +1,163 @@
+---
+record_id: batch.motif.african-reynard-the-fox-hottentot-bleek-archive-l589-l623
+source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+passage_locator:
+  label: CONTENTS.  IX / PREFACE. / PRJEFACB.  XV / PREFACE.  XIX; lines 589-623
+  start: '589'
+  end: '623'
+  translation: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“the signs of gender were almost identical in the Namaqua and the Egyptian”"
+  summary: The preface reports that Dr. J. C. Adamson had made a linguistic comparison
+    involving Namaqua, Galla, and Old Egyptian gender markers, and then notes another
+    apparently independent agreement by Mr. J. R. Logan.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is part of a preface and discusses scholarly observations on the
+    analysis of languages, especially languages of South Africa.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator says he had only recently learned that Dr. J. C. Adamson communicated
+    observations to the Syro-Egyptian Society on June 10, 1851.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Adamson is reported as stating that gender signs were almost identical in
+    Namaqua and Egyptian, and that the feminine affix might be considered the same
+    in Namaqua, Galla, and Old Egyptian.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage introduces another curious agreement on the same point by Mr.
+    J. R. Logan, described as an apparently independent observer.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Dr. J. C. Adamson
+  description: Named scholar said to have communicated observations on language analysis
+    to the Syro-Egyptian Society.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Mr. J. R. Logan
+  description: Named as an apparently independent observer associated with another
+    agreement on the linguistic point under discussion.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: reported linguistic comparator
+  assigned_to:
+  - fig:1
+  basis: Adamson is reported as comparing signs of gender and feminine affixes in
+    Namaqua, Galla, and Old Egyptian.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: apparently independent observer
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly describes Logan as an apparently independent observer
+    whose work shows another agreement on the same point.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Prefatory notice of linguistic comparison
+  summary: The preface records prior scholarly claims about similarities among gender
+    markers in Namaqua, Galla, and Old Egyptian, and cites an apparently independent
+    agreement by Logan.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: 'The passage reports a linguistic similarity claim: gender signs in Namaqua
+    and Egyptian are said to be almost identical, and the feminine affix is said to
+    be comparable across Namaqua, Galla, and Old Egyptian.'
+  claim_level: linguistic_similarity
+  target: Namaqua, Galla, and Old Egyptian gender marking and feminine affix comparison
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a reported scholarly claim in the preface, not a mythological
+    motif comparison; the excerpt does not provide linguistic examples or analysis.
+- id: claim:2
+  claim: The passage states that Logan offered another apparently independent agreement
+    on the same linguistic point.
+  claim_level: linguistic_similarity
+  target: Logan's cited language discussion in relation to Adamson's comparison
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The excerpt names Logan's work and says it agrees, but the detailed
+    content of Logan's comparison is not included in this line range.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 593-600
+  quote_or_summary: The narrator says he was unaware until recent weeks that, on June
+    10, 1851, Dr. J. C. Adamson had communicated observations on the analysis of languages
+    to the Syro-Egyptian Society, with special reference to South African languages.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 600-606
+  quote_or_summary: "“the signs of gender were almost identical in the Namaqua and
+    the Egyptian, and the feminine affix might be considered as being the same in
+    all three”"
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 608-623
+  quote_or_summary: The passage notes another curious agreement on this point by an
+    apparently independent observer, Mr. J. R. Logan, and cites his work on the ethnology,
+    races, and languages of Southeast Asia and the Indo-Pacific Islands.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is expository and bibliographic rather than narrative; no mythic
+    motifs or listed symbols are present. Linguistic comparison claims are extracted
+    only because they are explicitly reported in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No candidate mythology motifs or taxonomy symbol refs are supported by this passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-reynard-the-fox-hottentot-bleek-archive__l589-l623
+  passage_sha256=0dac16f69140e1af232120eccfedc1f2a4e187cac8bd5cc6b66772e80fe46adc
+

@@ -1,0 +1,358 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l9214-l9227
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE  FLINT  MAN.  179 / THE  TURKEY  RITUAL.  1 83 / SO.  THE  BOY  WHO  TURNED  INTO  A  PRAIRIE  DOQ.'
+    / THE  BOY  WHO  TURNED  INTO  A  PRAIRIE  DOG.  185; lines 9214-9227
+  start: '9214'
+  end: '9227'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A game is prepared and played between a gambler and a boy, each with many
+    people on his side. After losing all he has, the boy accepts a wager in which
+    the loser will be killed. He loses, while an old witch dances and claims his head.
+    The people run away; the young man is taken to a killing place, beheaded, and
+    his head is taken into a lodge while the body is left outside. Later, people wonder
+    why he has not returned home and ask for him through the village.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Preparations are made for a game on the next day, and the group goes to a
+    place where they play.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The gambler and the boy each have many people on their side during the game.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The boy loses everything he has before the life-stake wager is proposed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The gambler asks the boy to wager himself, with death as the penalty for the
+    loser.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The boy consents to the wager, plays, and loses.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An old witch dances around during the game and says that the boy's head shall
+    be hers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After the boy loses, the people run away.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The young man is taken to a place where people are killed, and his head is
+    chopped off.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The head is taken into the lodge, while the body is left outside.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: After a long while, people wonder why the boy has not appeared at home and
+    ask for him through the village.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: boy / young man
+  description: A boy who plays against the gambler, loses all he has, consents to
+    wager himself, loses, and is beheaded.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: gambler
+  description: The opposing player who has many people on his side and proposes the
+    wager that the loser will be killed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: old witch
+  description: A figure who dances during the game and declares that the boy's head
+    shall be hers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: people on both sides / villagers
+  description: Many people support the gambler and the boy during the game; after
+    the boy loses, people run away; later people ask for the absent boy through the
+    village.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: contestant in game
+  assigned_to:
+  - fig:1
+  basis: The boy plays in the game against the gambler.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: loser and execution victim
+  assigned_to:
+  - fig:1
+  basis: The boy loses the death-stake wager and is taken away and beheaded.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: wager proposer and opposing contestant
+  assigned_to:
+  - fig:2
+  basis: The gambler plays against the boy and proposes that the loser will be killed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: claimant of the severed head
+  assigned_to:
+  - fig:3
+  basis: The old witch dances and says the boy's head shall be hers.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: supporting crowd
+  assigned_to:
+  - fig:4
+  basis: Many people are on the gambler's side and many on the boy's side.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: searching villagers
+  assigned_to:
+  - fig:4
+  basis: Later people wonder why the boy has not appeared at home and ask for him
+    through the village.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: severed head
+  literal_form: The boy's head, claimed by the old witch and later taken into the
+    lodge after beheading.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: death-stake game
+  literal_form: A game in which the boy wagers himself and the loser is to be killed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: lodge containing the head
+  literal_form: The lodge into which the severed head is taken while the body remains
+    outside.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: killing place
+  literal_form: A place where people are killed, to which the young man is taken before
+    beheading.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Preparation and beginning of the game
+  summary: Preparations are made for a game; the gambler and the boy play with many
+    people supporting each side.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fatal wager accepted and lost
+  summary: After losing everything, the boy accepts the gambler's proposal to wager
+    himself, with death for the loser, and he loses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Old witch claims the head
+  summary: During the game, the old witch dances and declares that the boy's head
+    shall be hers.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Beheading and separation of head and body
+  summary: After the boy loses, people run away; the young man is taken to a killing
+    place, beheaded, and his head is brought into the lodge while his body is left
+    outside.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Absence noticed at home
+  summary: After a long while, people notice that the boy has not returned home and
+    ask for him through the village.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: fatal gambling wager
+  taxonomy_refs: []
+  basis: The passage centers on a game in which the boy first loses his possessions,
+    then wagers himself under terms that the loser will be killed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives the wager and outcome but does not identify a formal
+    named motif.
+- id: motif:2
+  label: claimed severed head
+  taxonomy_refs: []
+  basis: The old witch explicitly claims the boy's head before he is beheaded, and
+    the head is taken separately into the lodge.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The subsequent function of the head is not included in this passage.
+- id: motif:3
+  label: execution after lost contest
+  taxonomy_refs: []
+  basis: The boy loses the game governed by a death condition and is then taken to
+    a killing place and beheaded.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not describe a trial, sacrifice, or ritual context beyond
+    the game and killing place.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9214-9216
+  quote_or_summary: Preparations are made for a game; the gambler and the boy each
+    have many people on his side while they play.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 9216-9218
+  quote_or_summary: The boy lost everything he had. The gambler asks him to put up
+    himself, with killing as the consequence for the loser.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:3
+  type: summary
+  locator: lines 9218-9221
+  quote_or_summary: The boy consents, plays, and loses; the old witch dances during
+    the game and says the boy's fine head shall be hers.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9221-9224
+  quote_or_summary: After the boy loses, the people run away; the young man is taken
+    to a killing place, beheaded, and his head is taken into the lodge while the body
+    is left outside.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9226-9227
+  quote_or_summary: After a long while, people wonder why the boy has not appeared
+    at home and ask for him through the village.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive and not
+    linked to taxonomy refs because the passage does not support the available motif
+    families directly. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage text and metadata were used; the title's transformation motif is not extracted because the provided lines do not describe a transformation.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l9214-l9227
+  passage_sha256=0d109f1b2eec30bd97f9ce2e7ebd268d334e310d8f9513347b64103102f4d8a9
+

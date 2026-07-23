@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.inca-rites-laws-yncas-molina-markham-archive-l6176-l6202
+source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+passage_locator:
+  label: OF    THE    INDIANS    OP    HUAROCHIRI.  127 / OF    THE    INDIANS    OF    HUAROCHIRI.  129
+    / OF    THE    INDIANS    OF    HUAROCHIRI.  131 / CHAPTER   III.; lines 6176-6202
+  start: '6176'
+  end: '6202'
+  translation: Narratives of the Rites and Laws of the Yncas
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A chapter reports an ancient tradition that the sun disappeared, leaving
+    the world dark for five days. During this darkness stones knocked together, mortars
+    and pestles rose against their masters, and sheep attacked people. The narrator
+    speculates whether this could relate to the eclipse at the death of the Redeemer,
+    but expresses doubt and rejects parts of the story as false.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage introduces the account as an ancient tradition about an eclipse
+    or disappearance of the sun.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sun is said to have disappeared and the world became dark for five days.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Stones are said to have knocked against one another during the period of darkness.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Mortars called mutca and pestles called marop are said to have risen against
+    their masters.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Sheep, both those fastened in houses and those in fields, are said to have
+    attacked their masters.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The narrator proposes, but does not confirm, a possible connection with the
+    eclipse at the death of the Redeemer, and gives reasons for doubt.
+  category: speech
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the sun
+  description: The sun is said to have disappeared, causing darkness in the world.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: masters
+  description: Human owners or masters are attacked by household implements and sheep.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: mortars and pestles
+  description: Mortars called mutca and pestles called marop rise against their masters.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: sheep
+  description: Sheep in houses and fields attack their masters.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: absent celestial body
+  assigned_to:
+  - fig:1
+  basis: The sun is the body whose disappearance causes the reported darkness.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: attacked masters
+  assigned_to:
+  - fig:2
+  basis: The masters are the targets of the uprising by implements and animals.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: rebelling household or domestic agents
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Mortars, pestles, and sheep act against their masters.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: disappearing sun
+  literal_form: sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: five days of darkness
+  literal_form: five days of darkness
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rebelling implements
+  literal_form: mortars called mutca and pestles called marop
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: attacking domestic animals
+  literal_form: sheep in houses and fields
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: moving stones
+  literal_form: stones knocking against one another
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sun disappears and the world becomes dark
+  summary: In an ancient tradition, the sun disappears and the world remains dark
+    for five days.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Objects and animals attack during darkness
+  summary: During the dark interval, stones knock together, mortars and pestles rise
+    against their masters, and sheep attack people.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Narrator questions the tradition
+  summary: The narrator suggests the event might have been the eclipse at the death
+    of the Redeemer, but states that he cannot clearly establish this and rejects
+    the rest of the story.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sun disappears and world falls into darkness
+  taxonomy_refs:
+  - chaos
+  basis: The passage reports that the sun disappeared and the world was dark for five
+    days, producing a disorderly setting.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage frames the report as an ancient tradition and the narrator
+    doubts its literal accuracy; no explicit divine cause is given.
+- id: motif:2
+  label: rebellion of domestic objects and animals against humans
+  taxonomy_refs:
+  - chaos
+  basis: Stones, mortars, pestles, and sheep behave violently or unnaturally against
+    human masters during the darkness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: No listed taxonomy ref exactly matches animated implements or domestic
+    animals attacking humans; 'chaos' is a broad fit only.
+- id: motif:3
+  label: eclipse associated with sacred-historical darkness
+  taxonomy_refs: []
+  basis: The narrator cautiously proposes that the tradition may relate to the eclipse
+    said to have occurred when the Redeemer died.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: The narrator explicitly says he cannot clearly determine the connection
+    and gives chronological/geographical reasons for doubt.
+comparison_claims:
+- id: claim:1
+  claim: The narrator cautiously compares the reported darkness to the eclipse at
+    the death of the Redeemer, but does not confirm the identification.
+  claim_level: visual_similarity
+  target: eclipse at the death of the Redeemer
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:7
+  confidence: low
+  limitations: The passage itself presents the comparison as uncertain and notes a
+    day-night problem between hemispheres; it does not establish historical identity
+    or transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6176-6185
+  quote_or_summary: The chapter is introduced as an account of an eclipse of the sun
+    said to have occurred in ancient times, within ancient traditions of the people.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 6185-6188
+  quote_or_summary: '"the sun disappeared and the world was dark for a space of five
+    days"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 6188-6189
+  quote_or_summary: '"the stones knocked one against the other"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 6189-6191
+  quote_or_summary: Mortars called mutca and pestles called marop are said to have
+    risen against their masters.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6191-6193
+  quote_or_summary: The masters are also attacked by sheep, including those fastened
+    in houses and those in fields.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6195-6197
+  quote_or_summary: The narrator says this may have been the eclipse that occurred
+    when the Redeemer died.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6197-6202
+  quote_or_summary: The narrator says he cannot clearly make out the connection, notes
+    the day-night problem between hemispheres, and dismisses the rest of the story
+    as lies.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is straightforward. Motif assignment is cautious because
+    the available taxonomy has no specific eclipse or animated-object category. The
+    only comparison is made by the narrator and is explicitly uncertain.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy refs are limited to the provided list.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-rites-laws-yncas-molina-markham-archive__l6176-l6202
+  passage_sha256=22b6e7a9b30523bb728eb8566acab58dc14a6aabf12dd1001a659975c737fabe
+

@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l19307-l19348
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: BIRTH  TABOOS / BIRTH  CEREMONIES / SPECIAL  MEDICINES / BIRTH  CEREMONIES;
+    lines 19307-19348
+  start: '19307'
+  end: '19348'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a Malay birth-related floor-washing ceremony involving
+    rice-cosmetic, a fowl scratching the floor, lime-juice removal, and changing the
+    hearth-fire. It then details the Bidan's payment, gifts at the ceremony, an older
+    custom for enforcing unpaid fees, and introduces birth-centered taboos, including
+    special caution required of the father before the child's birth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The floor is smeared with rice-cosmetic, and a caught and washed fowl is held
+    over it and forced to scratch it with its claws.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The rice-cosmetic is removed with lime-juice, and the hearth-fire is changed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Bidan receives payment scaled by the child's birth order, with a larger
+    possible payment if hastily summoned without a prior engagement.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At the floor-washing ceremony, well-to-do families may give the Bidan cast-off
+    clothes, saffron rice, rice-cosmetic with limes, and betel-leaf with accessories.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage reports that an unwritten former law allowed the Bidan to take
+    the child and publicly offer it for sale if her fee remained unpaid.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage introduces specific birth-related injunctions and taboos and states
+    that, before the child is born, the father must be unusually circumspect about
+    his actions; the excerpt breaks off before completing the consequence.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bidan
+  description: The birth attendant or midwife who receives payment and gifts and is
+    described as formerly having a right to enforce unpaid fees by taking the child.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Child
+  description: The child whose birth order affects the Bidan's fee and who could be
+    taken if the fee remained unpaid under the former custom.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Father
+  description: Before the child's birth, the father is said to have to be especially
+    circumspect in his actions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Fowl
+  description: A fowl is caught, washed, held over the floor, and forced to scratch
+    the rice-cosmetic-smeared floor with its claws.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: birth attendant and ritual-fee recipient
+  assigned_to:
+  - fig:1
+  basis: The Bidan receives cash payment and ceremonial gifts connected with the floor-washing
+    ceremony.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: birth subject tied to fee obligation
+  assigned_to:
+  - fig:2
+  basis: The payment schedule is keyed to the child's birth order, and the child is
+    described as claimable if the Bidan's fee remains unpaid.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: father under pre-birth conduct restriction
+  assigned_to:
+  - fig:3
+  basis: The father must be more than usually circumspect before the child is born.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: ritual animal used for floor scratching
+  assigned_to:
+  - fig:4
+  basis: The fowl is washed, held over the floor, and forced to scratch the prepared
+    floor.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: rice-cosmetic and lime-juice
+  literal_form: Rice-cosmetic smeared on the floor and later removed with lime-juice.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fowl claws scratching the prepared floor
+  literal_form: A fowl's claws scratching the rice-cosmetic-smeared floor.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: changed hearth-fire
+  literal_form: The hearth-fire is changed after the cosmetic is removed.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Bidan's fee and gifts
+  literal_form: Cash payment, cast-off clothes, saffron rice, rice-cosmetic with limes,
+    and betel-leaf with accessories.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Floor-washing birth ceremony
+  summary: The floor is prepared with rice-cosmetic, scratched by a washed fowl, cleaned
+    with lime-juice, and followed by a change of the hearth-fire.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Payment and gifts to the Bidan
+  summary: The Bidan receives a fee according to birth order or summoning circumstances,
+    and may also receive ceremonial gifts at the floor-washing ceremony.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Former enforcement of unpaid midwife fee
+  summary: A former unwritten rule is said to permit the Bidan to take the child and
+    publicly offer it for sale if her fee remained unpaid.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Introduction of birth taboos
+  summary: The passage shifts to birth-related injunctions and taboos and begins with
+    a warning that the father must be unusually careful before the birth.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: birth purification or floor-washing rite
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage describes a birth-centered ceremony with floor preparation, animal
+    scratching, lime-juice removal, and a changed hearth-fire.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an ethnographic description of custom rather than a mythic
+    narrative; the sacred-birth taxonomy is applied broadly to birth ritual.
+- id: motif:2
+  label: ritual exchange for birth service
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Bidan receives cash and ceremonial goods, and nonpayment is described
+    as having a former customary consequence involving the child.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The text presents this as remuneration and custom; it does not explicitly
+    frame the exchange as sacred.
+- id: motif:3
+  label: pre-birth parental conduct taboo
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage introduces birth taboos and states that the father must be unusually
+    circumspect before the child's birth.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The excerpt ends mid-sentence before specifying the consequence of the
+    father's untoward acts.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly aligns parts of the floor-washing birth ceremony with
+    the bathing ceremony by noting the same use of rice-cosmetic and lime-juice removal.
+  claim_level: same_function
+  target: Malay bathing ceremony mentioned within the passage
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal procedural comparison only; it does not establish
+    a broader historical relationship or shared mythic origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19307-19318
+  quote_or_summary: In the birth ceremony, the floor is smeared with rice-cosmetic
+    as in the bathing ceremony; a caught and washed fowl is forced to scratch it;
+    the cosmetic is removed with lime-juice, and the hearth-fire is changed.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 19318-19328
+  quote_or_summary: The Bidan receives payment, usually on a scale by birth order,
+    with a larger amount possible if she is hastily summoned without a prior engagement.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 19328-19336
+  quote_or_summary: At the floor-washing ceremony, well-to-do households give the
+    Bidan presents such as cast-off clothes, saffron rice, rice-cosmetic with limes,
+    and betel-leaf with accessories.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 19336-19341
+  quote_or_summary: If the Bidan's fee remained unpaid, an unwritten former law allowed
+    her to take the child and “cry it for sale” round the country.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 19342-19348
+  quote_or_summary: The passage introduces Malay customs, injunctions, and taboos
+    centered on birth; before the child is born, the father must be unusually circumspect,
+    though the excerpt ends before completing the stated consequence.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Ritual actions and persons are explicit. Motif labels are cautious because
+    the passage is ethnographic and partly cuts off at the transition to taboos.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparisons or unsupported taxonomy IDs were added; the only comparison claim is based on the passage's own reference to the bathing ceremony.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l19307-l19348
+  passage_sha256=becab93cf9b1250abdea1fbc103d68f747c423ddf74fa5a4f48ad9401ffb61dd
+

@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.inca-rites-laws-yncas-molina-markham-archive-l679-l715
+source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+passage_locator:
+  label: XIV  INTRODUCTION. / INTRODUCTION.  XV / XVI  INTRODUCTION. / INTKODUCTION,  XIX;
+    lines 679-715
+  start: '679'
+  end: '715'
+  translation: Narratives of the Rites and Laws of the Yncas
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage surveys colonial-era sources for traditions and religious practices
+    of coastal and adjacent Andean peoples, including Balboa’s account of Lambayeque
+    legends about first arrival by sea, Arriaga’s report on idol destruction, a 1555
+    Augustinian report on Huamachuco, and Father Avila’s narrative.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Balboa is said to relate legends of the coast Indians of Lambayeque concerning
+    their first arrival by sea.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Arriaga’s report is described as concerning the destruction of idols in Yauyos
+    and Conchucos, with some bearing on coastal peoples.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage cautions that Ynca words and ideas must be eliminated before using
+    Arriaga’s report for an inquiry into the Yuncas of the sea board.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An Augustinian friar is said to have made a 1555 report on idolatry and superstitions
+    in Huamachuco.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Conchucos, Yauyos, Huarochiri, and Huamachuco are described as regions overhanging
+    the coast valleys.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage identifies Father Avila’s narrative as a particularly important
+    source and says its translation is printed here for the first time.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Balboa
+  description: A source cited as relating legends of the coast Indians of Lambayeque
+    about their first arrival by sea.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: coast Indians of Lambayeque
+  description: A coastal group whose legends are said to concern their first arrival
+    by sea.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Father Pablo Joseph de Arriaga
+  description: Author of a cited report on the destruction of idols in Peru, specifically
+    mentioned in connection with Yauyos and Conchucos.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Augustinian friar
+  description: An unnamed Augustinian friar said to have made a 1555 report on idolatry
+    and superstitions in Huamachuco.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Father Avila
+  description: Author of a narrative described as a significant source of information
+    and newly translated in this edition.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Yuncas of the sea board
+  description: A coastal population named as the subject of inquiry for which Ynca
+    words and ideas must be filtered out from a report.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: colonial source or reporter
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: These figures are named as relating legends, making reports, or providing
+    narratives used as sources.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: tradition-bearing coastal group
+  assigned_to:
+  - fig:2
+  basis: The Lambayeque coastal group is associated with legends about first arrival
+    by sea.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: subject population of inquiry
+  assigned_to:
+  - fig:6
+  basis: The Yuncas of the sea board are named as the group under inquiry.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sea
+  literal_form: sea
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: idols
+  literal_form: idols
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Lambayeque first-arrival legends reported
+  summary: Balboa is said to relate legends of the coast Indians of Lambayeque concerning
+    their first arrival by sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Reports on idol destruction and regional idolatry surveyed
+  summary: The passage surveys Arriaga’s report on idol destruction in Yauyos and
+    Conchucos and an Augustinian friar’s report on idolatry and superstitions in Huamachuco.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Source-critical introduction to coastal traditions
+  summary: The author presents these reports and Father Avila’s narrative as scanty
+    materials for studying coastal peoples and related mountain districts, while warning
+    against confusing Ynca and Yunca materials.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: first arrival by sea
+  taxonomy_refs: []
+  basis: The passage explicitly mentions legends of the coast Indians of Lambayeque
+    concerning their first arrival by sea.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only the existence and topic of the legends are reported; no narrative
+    details, vessel, actors, or ritual context are given in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 679-686
+  quote_or_summary: The passage names Garcilasso, Balboa’s legends of Lambayeque coastal
+    Indians about first arrival by sea, and Arriaga’s report on destruction of idols
+    in Yauyos and Conchucos.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 686-695
+  quote_or_summary: The author warns that Ynca words and ideas must be eliminated
+    before using Arriaga for the Yuncas of the sea board, and mentions a 1555 Augustinian
+    report on Huamachuco idolatry and superstitions.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 695-704
+  quote_or_summary: The passage says these scanty materials may yield knowledge of
+    the coast people and their spread into mountainous districts, and identifies Father
+    Avila’s narrative as a notable source translated here for the first time.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: citation
+  locator: lines 706-715
+  quote_or_summary: Footnotes cite editions and publication details for related sources,
+    including Arriaga’s Extirpacion de la idolatria del Peru and Ternaux Compans’s
+    French translation collection.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; citation/summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is mostly historiographical introduction rather than a narrative
+    myth passage. The only clear motif candidate is the reported topic of Lambayeque
+    first-arrival-by-sea legends.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage does not provide enough narrative detail to support a specific cross-tradition comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-rites-laws-yncas-molina-markham-archive__l679-l715
+  passage_sha256=8e793eb6f7f4f8b0683d26f90f498cb4ea791307a6c9b1e710913850703b89d2
+

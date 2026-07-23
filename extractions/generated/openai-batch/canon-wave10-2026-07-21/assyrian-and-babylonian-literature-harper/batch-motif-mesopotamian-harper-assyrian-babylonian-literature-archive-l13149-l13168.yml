@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l13149-l13168
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: XIII.  XERXES   INSCRIPTION   (E) / ASSYRIAN   AND   BABYLONIAN   LITERATURE
+    / XVI.    INSCRIPTION   FROM   ELVEND / XVII.    XERXES   INSCRIPTION   FROM   VAN;
+    lines 13149-13168
+  start: '13149'
+  end: '13168'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The inscription praises Ahura-mazda as creator of heaven, earth, mankind,
+    and Xerxes; Xerxes identifies himself with royal titles and lineage; he says Darius
+    built many structures and ordered a mountain built but left it unwritten, after
+    which Xerxes ordered writing there and prays for divine protection over himself,
+    his sovereignty, and his deeds.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ahura-mazda is called a great god and chief of the gods.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ahura-mazda is said to have created the heavens, the earth, mankind, and Xerxes
+    the king.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Xerxes is described as king of many kings and as ruling over all the various
+    countries.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Xerxes identifies himself as great king, king of kings, king of countries,
+    king of all the various tongues, king of the broad earth, son of Darius, and Achaemenian.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Darius is identified as Xerxes's father and is said to have built many structures
+    under the protection of Ahura-mazda.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Darius gave orders to build a mountain but did not write on it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Xerxes later gave orders to write on the mountain.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Xerxes asks Ahura-mazda and all the gods to protect him, his sovereignty,
+    and what he has done.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ahura-mazda
+  description: A great god, chief of the gods, creator of heavens, earth, mankind,
+    and Xerxes, and invoked for protection.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Xerxes
+  description: The speaking king, son of Darius, styled king of kings and ruler of
+    many countries, who orders writing on the mountain and prays for protection.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Darius
+  description: Xerxes's father and predecessor, a king who built many structures and
+    ordered the mountain built.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: all the gods
+  description: A collective divine group invoked together with Ahura-mazda for protection.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: mankind
+  description: Humanity, said to have been created by Ahura-mazda and granted favour.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: creator deity
+  assigned_to:
+  - fig:1
+  basis: Ahura-mazda is said to have created the heavens, earth, mankind, and Xerxes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine protector invoked
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Xerxes asks Ahura-mazda together with all the gods to protect him, his sovereignty,
+    and his works.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: royal speaker
+  assigned_to:
+  - fig:2
+  basis: The inscription introduces Xerxes's self-identification and direct statement.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: king with universalizing titles
+  assigned_to:
+  - fig:2
+  basis: Xerxes is called king of kings, king of countries, and ruler over the various
+    countries and tongues.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: royal father and builder
+  assigned_to:
+  - fig:3
+  basis: Darius is called Xerxes's father and is said to have built many structures
+    and ordered the mountain built.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: created humanity
+  assigned_to:
+  - fig:5
+  basis: Mankind is said to have been created by Ahura-mazda and granted favour.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: the mountain ordered built by Darius and later written on by Xerxes
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: heavens and earth
+  literal_form: the heavens and the earth created by Ahura-mazda
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sovereignty
+  literal_form: Xerxes's sovereignty, for which he asks divine protection
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: inscribed writing
+  literal_form: writing placed on the mountain by Xerxes's order
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Praise of Ahura-mazda as creator
+  summary: The inscription begins by naming Ahura-mazda as chief god and creator of
+    heaven, earth, mankind, and Xerxes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Xerxes's royal self-identification
+  summary: Xerxes presents himself with extensive royal titles and identifies his
+    father as Darius the Achaemenian.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Darius's building and Xerxes's inscription
+  summary: Xerxes states that Darius built many structures and ordered a mountain
+    built without writing on it, and that Xerxes later ordered writing there.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Prayer for protection
+  summary: Xerxes asks Ahura-mazda and all the gods to protect himself, his sovereignty,
+    and his works.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divinely sanctioned kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Xerxes's kingship is framed through Ahura-mazda's creation of Xerxes, universal
+    royal titles, lineage from Darius, and a prayer for divine protection of sovereignty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is an inscriptional royal formula; it does not narrate a mythic
+    episode beyond its theological and royal claims.
+- id: motif:2
+  label: creator god establishes cosmic and human order
+  taxonomy_refs: []
+  basis: Ahura-mazda is credited with creating the heavens, earth, mankind, and the
+    king, and with granting favour to mankind.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The creation statements are brief praise-formulae and not a full creation
+    narrative.
+- id: motif:3
+  label: royal completion of predecessor's unfinished monument
+  taxonomy_refs: []
+  basis: Darius orders the mountain built but leaves it without writing; Xerxes later
+    orders writing on it.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The damaged or abbreviated phrase around the mountain limits certainty
+    about the exact monument or action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13151-13156
+  quote_or_summary: Ahura-mazda is called a great god, chief of the gods, creator
+    of the heavens, earth, mankind, and Xerxes, and granter of favour to mankind.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13158-13162
+  quote_or_summary: Xerxes names himself great king, king of kings, king of countries,
+    king of all tongues, king of the broad earth, son of Darius, and Achaemenian.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13164-13167
+  quote_or_summary: Xerxes says Darius, his father, built many structures under Ahura-mazda's
+    protection, ordered this mountain built, did not write on it, and that Xerxes
+    later ordered writing there.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 13167-13168
+  quote_or_summary: "“May Ahura-mazda, together with all the gods, protect me and
+    my sovereignty and what I have done!”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; public domain short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are limited to patterns
+    directly supported by the inscriptional praise, titulary, building notice, and
+    prayer. No comparison claims were added because the passage itself does not make
+    an explicit cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l13149-l13168
+  passage_sha256=c9254ce98222ed83bea04d6b842728c4e191f842419df6c57bacd3a662611839
+

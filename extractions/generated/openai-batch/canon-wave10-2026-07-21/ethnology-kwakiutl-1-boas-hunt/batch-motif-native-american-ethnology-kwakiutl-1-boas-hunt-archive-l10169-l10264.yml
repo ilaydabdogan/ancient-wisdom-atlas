@@ -1,0 +1,490 @@
+---
+record_id: batch.motif.native-american-ethnology-kwakiutl-1-boas-hunt-archive-l10169-l10264
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+passage_locator:
+  label: INDUSTRIES / II. HUNTING, FISHING, AND FOOD-GATHERING / III. PRESERVATION
+    OF FOOD / IV. RECIPES; lines 10169-10264
+  start: '10169'
+  end: '10264'
+  translation: Ethnology of the Kwakiutl, Part 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Procedural ethnographic passage describing preparation and serving of whale-tail
+    and dorsal-fin blubber, capture and boiling of devil-fish, restricted invitation
+    to eat devil-fish, and scorched preparation of female devil-fish arms because
+    female devil-fish are not boiled or washed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Whale-tail blubber is cooked in a kettle with water over the house fire; the
+    liquid is poured off, and the food is eaten while hot or reheated later.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The boiled whale-tail is restricted: not many tribes are invited, and the
+    passage says only the owner eats it.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Blubber from the whale dorsal fin is cut like tail-blubber, put into boiling
+    water, drained, and becomes shriveled.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The woman does not need to eat dorsal-fin blubber at once because it remains
+    tender when cold; she stores and eats it later.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A devil-fish hunter goes at low tide, finds a devil-fish hole, probes it with
+    a spear or harpoon, and waits for the implement to stop moving.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The hunter jerks the devil-fish out, strikes it on a rock, removes the entrails
+    described in the passage as phosphorescence, and strikes it again to kill it completely
+    and make it tender.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: For boiled devil-fish, the cook places the devil-fish in a kettle of boiling
+    water over the house fire, stirs it with tongs, and boils it for about an hour.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After boiling, the devil-fish is transferred to a dish with fresh water, cut
+    around the arms and stomach, stripped of loose skin, and divided into strips for
+    guests.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The cook looks for four shells on each side of the devil-fish stomach, pulls
+    them out, and throws them away.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Only the numaym are invited to eat devil-fish; the passage says many tribes
+    are not invited.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: For scorched devil-fish, the hunter cuts off an arm, scorches both sides by
+    the fire, pulls off the loose skin, and eats the arm.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Only female devil-fish are prepared by scorching in this way, because boiling
+    female devil-fish is feared to cause an itchy eruption wherever the liquid touches
+    the skin; female devil-fish are not washed or boiled, and the body and stomach
+    are thrown out after the roasted arms are eaten.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Owner of boiled whale-tail
+  description: Person who owns, reheats, and eats the boiled whale-tail food that
+    is not widely shared.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Woman handling dorsal-fin blubber
+  description: Woman who places the cooked dorsal-fin blubber in a dish, eats some,
+    stores the rest, and eats it cold later.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Devil-fish hunter/cook
+  description: Person who catches devil-fish at low tide, kills and tenderizes it,
+    then boils or scorches it for eating.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Devil-fish
+  description: Sea animal caught from a hole at low tide, struck on a rock, boiled,
+    cut, stripped, and eaten.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Female devil-fish
+  description: Female devil-fish are roasted or scorched rather than boiled or washed
+    because of a feared itchy eruption from boiled liquid.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Guests or eaters of devil-fish
+  description: People who receive loose skin or strips of devil-fish and eat until
+    satisfied.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: numaym
+  description: Named social group that the passage says is the only group invited
+    to eat devil-fish.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: reserved food owner/eater
+  assigned_to:
+  - fig:1
+  basis: The passage states that boiled whale-tail is eaten by the owner and not offered
+    to many tribes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: food preparer or cook
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: These figures place food in kettles or dishes, heat it over fire or boiling
+    water, and prepare it for eating.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:3
+  label: hunter or catcher
+  assigned_to:
+  - fig:3
+  basis: The devil-fish hunter finds the hole at low tide and uses spear or harpoon
+    to extract the devil-fish.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: prey and food animal
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Devil-fish are caught, killed or tenderized, boiled or scorched, cut, and
+    eaten.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:5
+  label: invited eaters
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Guests receive portions, and the passage specifies that only the numaym are
+    invited to eat devil-fish.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: gender-specific preparation category
+  assigned_to:
+  - fig:5
+  basis: Female devil-fish are singled out as roasted, not boiled or washed, because
+    of a feared bodily effect from boiling liquid.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Cooking fire
+  literal_form: House fire used to heat kettles and scorch devil-fish arms.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: Cooking and fresh water
+  literal_form: Water in the kettle for boiling and fresh water placed in a dish for
+    the boiled devil-fish.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:8
+- id: sym:3
+  label: Kettle and dish
+  literal_form: Cooking kettle and small dish used for boiling, draining, transferring,
+    and serving foods.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Devil-fish hole and spear or harpoon
+  literal_form: Hole at low tide and spear or harpoon used to locate and extract the
+    devil-fish.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Four shells on each side of the stomach
+  literal_form: Shells found on each side of the devil-fish stomach and thrown away.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Loose skin
+  literal_form: Loose skin pulled from boiled or scorched devil-fish arms and body
+    before eating or distribution.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Whale blubber boiling, eating, and storage
+  summary: Whale-tail blubber is boiled and eaten hot by the owner, while dorsal-fin
+    blubber is boiled, shriveled, placed in a dish by a woman, stored, and eaten cold
+    because it stays tender.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Devil-fish capture at low tide
+  summary: The hunter finds a devil-fish hole at low tide, uses a spear or harpoon,
+    waits until movement ceases, jerks the devil-fish out, strikes it, removes entrails,
+    and strikes it again.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Boiled devil-fish preparation and restricted serving
+  summary: The devil-fish is boiled in a kettle over the fire, stirred, transferred
+    to fresh water, cut, stripped, cleared of shells, divided for guests, and eaten
+    by the invited group identified as numaym.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Scorched female devil-fish arms
+  summary: A devil-fish arm is scorched by the fire and eaten; female devil-fish are
+    prepared this way rather than boiled or washed because of a feared itchy eruption
+    from boiling liquid, and the body and stomach are discarded.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Restricted food sharing or selective invitation
+  taxonomy_refs: []
+  basis: Boiled whale-tail is described as eaten only by the owner and not shared
+    with many tribes; devil-fish is served only to the numaym, not to many tribes.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: This is an ethnographic food-practice pattern rather than a mythic narrative
+    motif; the passage does not define numaym.
+- id: motif:2
+  label: Gender-specific food avoidance in preparation
+  taxonomy_refs: []
+  basis: Female devil-fish are roasted or scorched rather than boiled or washed because
+    boiling liquid from them is feared to cause itchy eruption where it touches the
+    skin.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage records a practical avoidance belief but gives no mythic origin
+    or ritual explanation.
+- id: motif:3
+  label: Body-part preparation and distribution before communal eating
+  taxonomy_refs: []
+  basis: The boiled devil-fish is cut into arms, stomach, body, loose skin, shells,
+    mouth-parts, and strips, with portions given to guests or discarded according
+    to the described procedure.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage supports a food-distribution pattern only; symbolic or ceremonial
+    meanings are not stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10169-10264; opening whale-tail blubber continuation
+  quote_or_summary: Whale-tail blubber is cooked in a kettle over the fire, liquid
+    is poured off, it is eaten hot or reheated later, and the passage states that
+    not many tribes are invited and only the owner eats it.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10169-10264; dorsal-fin blubber continuation
+  quote_or_summary: Dorsal-fin blubber is cut like whale-tail blubber, put into boiling
+    water, drained, shrivels, is placed in a dish by a woman, and can be stored and
+    eaten cold because it does not become tough.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10169-10264; Boiled Devil-Fish capture sequence
+  quote_or_summary: At low tide the hunter finds a devil-fish hole, uses spear or
+    harpoon to feel and extract it, waits until the implement stops moving, jerks
+    it out, strikes it on a rock, removes entrails called phosphorescence, and strikes
+    it again to kill and tenderize it.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10169-10264; Boiled Devil-Fish cooking sequence
+  quote_or_summary: The cook fills a kettle more than half full, boils the water over
+    the house fire, puts in the devil-fish, stirs it with tongs, lets it boil again,
+    and may boil it about an hour.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:5
+  type: summary
+  locator: lines 10169-10264; Boiled Devil-Fish cutting and serving sequence
+  quote_or_summary: The cooked devil-fish is placed in fresh water, cut around the
+    arms and stomach, stripped of loose skin, checked for four shells on each side
+    of the stomach, broken into strips, and portions are given to guests.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10169-10264; Boiled Devil-Fish eating and invitation statement
+  quote_or_summary: Eaters remove loose skin and mouth-parts and eat the body; after
+    eating enough they leave, and the passage says only the numaym are invited to
+    eat devil-fish and many tribes are not invited.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:7
+  type: summary
+  locator: lines 10169-10264; Scorched Devil-Fish preparation
+  quote_or_summary: The hunter cuts off one arm, places it by the fire, scorches both
+    sides, removes the loose skin, and eats it; some call this eating devil-fish roasted
+    by the fire, although only the legs are roasted.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:8
+  type: summary
+  locator: lines 10169-10264; Scorched Devil-Fish female-specific explanation
+  quote_or_summary: Only females are roasted in this way; the passage says they are
+    not boiled or washed because boiling female devil-fish is feared to cause itchy
+    eruption where the liquid touches skin, and the body and stomach are thrown out
+    after the roasted arms are eaten.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is procedural and ethnographic, not a myth narrative. Literal
+    actions and objects are clear despite OCR irregularities. Motif candidates are
+    framed as food-practice patterns with no external comparison claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage does not itself support external comparative links.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-ethnology-kwakiutl-1-boas-hunt-archive__l10169-l10264
+  passage_sha256=19df9ad50fa94ecb8f343c9f2b1837e42843cc7d0b20a2598d80c62292cb224e
+

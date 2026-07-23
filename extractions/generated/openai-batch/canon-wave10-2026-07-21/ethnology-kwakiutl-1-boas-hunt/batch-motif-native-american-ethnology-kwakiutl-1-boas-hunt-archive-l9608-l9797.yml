@@ -1,0 +1,476 @@
+---
+record_id: batch.motif.native-american-ethnology-kwakiutl-1-boas-hunt-archive-l9608-l9797
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+passage_locator:
+  label: INDUSTRIES / II. HUNTING, FISHING, AND FOOD-GATHERING / III. PRESERVATION
+    OF FOOD / IV. RECIPES; lines 9608-9797
+  start: '9608'
+  end: '9797'
+  translation: Ethnology of the Kwakiutl, Part 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives procedural instructions for cutting, boiling, and steaming
+    porpoise meat and blubber; lists names for parts of the porpoise body; and begins
+    a detailed account of seal butchering, including landing hair-seals, cleaning
+    and moving the canoe, gathering driftwood, singeing seal hair over a beach fire,
+    and preparing a cutting board with blocks and a dish.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Porpoise meat and blubber are cut for cooking; boiling uses a kettle with
+    water, meat added first, and blubber added on top after the meat has boiled for
+    a long time.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The steaming method uses red-hot stones, pieces of meat and blubber, four
+    bucketfuls of water, and an old mat placed over the food to keep in steam.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The prepared porpoise food is eaten only while hot; when cold, it is thrown
+    away.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The passage enumerates named parts of the porpoise body, including external
+    features, organs, blubber, meat, and designated cutting or butchering places.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A seal-hunter returns to the beach, brings the hunting-canoe sideways, pulls
+    hair-seals into shallow water, washes the canoe, and with the steersman carries
+    it above the spring-tide line.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After eating, the seal-hunter uses a small canoe to gather driftwood for singeing
+    seal hair and steaming the seal.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Two logs are set on the beach as side-pieces for a fire used in singeing the
+    seal.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The seal is placed across the fire with its head on the seaward side-piece,
+    and the head and neck are singed first.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The seal is rolled and pushed along the fire; tongs and a split cedar stick
+    are used to spread flippers so that hair in folds can be singed and removed.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: After singeing, a short board, driftwood blocks, and a dish are arranged to
+    form the beginning of a cutting station beside the seal.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Unspecified porpoise preparer
+  description: The procedural subject who cuts, boils, steams, and handles porpoise
+    meat and blubber.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Porpoise
+  description: The animal whose meat and blubber are cooked and whose body parts are
+    named in a list.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Seal-hunter
+  description: The person who returns with hair-seals, handles the canoe, gathers
+    driftwood, singes the seal, and prepares for cutting it open.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Steersman
+  description: The person who helps the seal-hunter carry the cleaned hunting-canoe
+    above the spring-tide line.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Hair-seals / seal
+  description: The hunted seals pulled into shallow water and then singed before butchering.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: food preparer
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The porpoise preparer cuts and cooks meat and blubber; the seal-hunter gathers
+    fuel, singes the seal, and arranges cutting equipment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: processed food animal
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The porpoise is cooked and anatomically listed; the seals are landed, singed,
+    and prepared for butchering.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:3
+  label: anatomical subject
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly lists names belonging to the body of the porpoise.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: seal-hunter
+  assigned_to:
+  - fig:3
+  basis: The passage names the person returning to the beach with seals as the seal-hunter.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: canoe assistant
+  assigned_to:
+  - fig:4
+  basis: The steersman assists in carrying the hunting-canoe above the spring-tide
+    line.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Fire
+  literal_form: Kettle fire, beach fire, and fire used for singeing seal hair.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: Water
+  literal_form: Water poured into the kettle, four bucketfuls of water for steaming,
+    shallow water at the beach, and high tide.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: Red-hot stones
+  literal_form: Heated stones used to steam pieces of porpoise meat and blubber.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Old mat
+  literal_form: An old mat placed over the steaming food to keep the steam in.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Canoes
+  literal_form: The hunting-canoe used when bringing in hair-seals and the small canoe
+    used to gather driftwood.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: Driftwood logs and side-pieces
+  literal_form: Two logs placed two spans apart as side-pieces for the seal-singeing
+    fire, with split dry driftwood burned on the beach.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Tongs and split cedar stick
+  literal_form: Tools used to spread seal flippers and help remove singed hair.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: Cutting board, blocks, and dish
+  literal_form: A short cutting board raised with driftwood blocks, with a dish under
+    the lower end.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Porpoise boiling and steaming
+  summary: The porpoise meat and blubber are cut and cooked either by boiling in a
+    kettle with water or by steaming with red-hot stones, water, and a mat cover.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Porpoise body-part naming
+  summary: A list names parts of the porpoise body, including organs, external features,
+    meat, blubber, and cutting places.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Landing seals and caring for canoe
+  summary: The seal-hunter lands hair-seals in shallow water, washes the hunting-canoe,
+    and with the steersman carries it above the spring-tide line.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Gathering driftwood and building the beach fire
+  summary: The seal-hunter gathers driftwood by small canoe, unloads it, sets two
+    logs as fire side-pieces, splits dry driftwood, and makes a beach fire.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Singeing the seal
+  summary: The seal is placed and moved over the fire; the head, neck, body, and flippers
+    are singed, with tools used to open folds and remove burned hair.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Preparing to cut open the seal
+  summary: After singeing, the seal-hunter sets a short board beside the seal and
+    raises it with driftwood blocks, placing a dish beneath the lower end.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Animal cooking by boiling or steaming
+  taxonomy_refs: []
+  basis: 'The porpoise section details two cooking methods: boiling meat and blubber
+    in a kettle with water and steaming them with red-hot stones, water, and a mat
+    cover.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a practical food-preparation pattern, not a mythic narrative motif
+    in the passage.
+- id: motif:2
+  label: Food eaten hot and discarded when cold
+  taxonomy_refs: []
+  basis: The passage states that the cooked food is eaten only when hot and thrown
+    away when cold.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents this as a procedural rule; no symbolic or ritual
+    interpretation is stated.
+- id: motif:3
+  label: Named anatomy of a hunted animal
+  taxonomy_refs: []
+  basis: The passage lists names for many porpoise body parts, including cutting and
+    butchering locations, organs, blubber, and meat.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The text provides terminology rather than a narrative episode.
+- id: motif:4
+  label: Beach singeing before seal butchering
+  taxonomy_refs: []
+  basis: The seal-butchering section describes constructing a beach fire, placing
+    and rolling the seal over it, spreading flippers with tools, and removing singed
+    hair before cutting.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is an ethnographic processing sequence; no explicit comparative or
+    sacred meaning is supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9608-9630, porpoise boiling instructions
+  quote_or_summary: Porpoise meat is cut into pieces, placed in a kettle with water
+    over the fire, boiled for a long time, then blubber is added on top before the
+    kettle is removed; the food is eaten hot and discarded if cold.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; source metadata says full text use is allowed.
+- id: ev:2
+  type: summary
+  locator: lines 9610-9637, porpoise steaming instructions
+  quote_or_summary: For steaming, pieces of meat and blubber are put with red-hot
+    stones, four bucketfuls of water are poured over them, and an old mat is placed
+    over them to keep the steam in; the food is eaten hot.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; source metadata says full text use is allowed.
+- id: ev:3
+  type: summary
+  locator: lines 9638-9695, porpoise body-name list
+  quote_or_summary: The passage lists names belonging to the porpoise body, including
+    head, eyes, blow-hole, mouth, bones, fins, backbone, ribs, organs, intestines,
+    heart, dorsal fin, tail/flukes, nipples, blubber, meat, and butchering or cutting
+    places.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; source metadata says full text use is allowed.
+- id: ev:4
+  type: summary
+  locator: lines 9696-9712, beginning of Seal Butchering
+  quote_or_summary: The seal-hunter arrives on the beach, brings the hunting-canoe
+    sideways, pulls hair-seals into shallow water, washes the canoe, and with the
+    steersman carries it above the spring-tide line.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; source metadata says full text use is allowed.
+- id: ev:5
+  type: summary
+  locator: lines 9713-9735, driftwood gathering and first singeing steps
+  quote_or_summary: After eating, the seal-hunter gathers driftwood by small canoe
+    to singe and steam the seal, sets two logs on the beach as fire side-pieces, makes
+    a fire, hauls up the seal, and begins singeing the head and neck.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; source metadata says full text use is allowed.
+- id: ev:6
+  type: summary
+  locator: lines 9736-9772, seal rolling and flipper singeing
+  quote_or_summary: The seal-hunter turns, pushes, and rolls the seal over the fire;
+    tongs and a split cedar stick are used to spread the flippers and hind-flippers
+    so folds can be singed, and singed hair is struck off.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; source metadata says full text use is allowed.
+- id: ev:7
+  type: summary
+  locator: lines 9773-9797, preparing cutting equipment
+  quote_or_summary: After singeing, the seal-hunter takes a short board to cut open
+    the seal, places driftwood blocks to raise the cutting board off the beach, and
+    sets a dish under the lower end.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; source metadata says full text use is allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is procedural ethnography rather than mythic narrative. Literal
+    extraction is high confidence, but motif candidates are framed as practical patterns
+    with no inferred sacred or comparative meaning. No comparison claims are made
+    because the passage itself provides no comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were assigned only to literal fire and water symbols present in the passage; no motif-family taxonomy refs were applied.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-ethnology-kwakiutl-1-boas-hunt-archive__l9608-l9797
+  passage_sha256=f26793e35bc8f0b6a5a15dd1ba635d8aa050967d0dc803f1817e98cf151fa2e9
+

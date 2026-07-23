@@ -1,0 +1,233 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l7321-l7347
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: KOLOMBOLO NI MUKENGE. / COCK AND FOX. / XXXI. / MBULU NI KABULU.; lines 7321-7347
+  start: '7321'
+  end: '7347'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Fox decides that Cock is only flesh and need not be feared. In the morning
+    Cock comes and they play; Fox goes behind Cock, seizes him by the neck, and kills
+    him. The concluding explanation says Cock had maintained friendship with Fox and
+    caused himself to be fooled by saying that what Fox feared was harmless flesh.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fox previously avoided Cock because he thought Cock could hurt him with something.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fox concludes that the feared thing is only flesh and sleeps.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In the morning Cock comes, and Fox and Cock play together.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Fox passes behind Cock and seizes him by the neck.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Cock protests that Fox is handling him shamefully although Fox is his friend.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Fox bites Cock hard in the neck and kills him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage explains that Cock maintained friendship with Fox and caused himself
+    to be fooled by saying the feared thing killed nothing and was only flesh.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Fox
+  description: Animal figure who fears Cock at first, then seizes and kills him.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Cock
+  description: Animal figure who plays friendship with Fox, is seized by the neck,
+    protests, and is killed.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: female fowl
+  description: Mentioned as a kind of fowl Fox formerly caught while avoiding cocks.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: deceiver or ambusher
+  assigned_to:
+  - fig:1
+  basis: Fox comes behind Cock during play and seizes him by the neck.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: killer
+  assigned_to:
+  - fig:1
+  basis: Fox bites Cock hard in the neck and kills him.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: friend or playmate
+  assigned_to:
+  - fig:2
+  basis: Cock comes in the morning, they play, and Cock addresses Fox as friend.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: victim of deception
+  assigned_to:
+  - fig:2
+  basis: The explanation says Cock caused himself to be fooled by Fox and was killed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Fox reassesses Cock
+  summary: Fox thinks about his former fear of Cock, decides that what he feared is
+    only flesh, and sleeps.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Play turns into attack
+  summary: In the morning Cock comes and plays with Fox; Fox goes behind Cock, seizes
+    him by the neck, and struggles with him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Cock is killed
+  summary: Cock protests on the basis of friendship, but Fox bites his neck and kills
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Explanatory conclusion
+  summary: The tale explains that Cock's own statement that the feared thing was harmless
+    allowed Fox to be fooled into catching cocks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: false friendship leading to predation
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Fox and Cock are described as friends or playmates, but Fox uses the situation
+    to seize and kill Cock.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy link is broad; the passage presents animal deception and
+    boundary-crossing in friendship, but does not name a trickster category.
+- id: motif:2
+  label: victim discloses vulnerability to predator
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The explanation says Cock caused himself to be fooled by saying the feared
+    thing did not kill and was only flesh, after which Fox catches cocks.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: low
+  cautions: The available taxonomy ref is only approximate; the passage concerns practical
+    disclosure of harmlessness rather than explicitly forbidden knowledge.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7321-7330
+  quote_or_summary: Fox thinks that he had fled Cock because he feared being hit,
+    but decides the feared thing is only flesh, and sleeps.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7332-7334
+  quote_or_summary: In the morning Cock comes; they play; Fox passes behind Cock and
+    seizes him by the neck.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7334-7336
+  quote_or_summary: Cock protests that Fox is his friend; Fox bites Cock hard in the
+    neck and kills him.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7338-7345
+  quote_or_summary: The explanation states that Cock played friendship with Fox; Fox
+    formerly caught female fowls but did not kill cocks; Cock caused himself to be
+    fooled by Fox by saying the feared thing killed nothing and was only flesh.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal actions and roles are clear. Motif assignments are cautious because
+    available taxonomy refs are broad and the passage gives no external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The supplied locator label includes other tale headings, but the provided passage content centers on Cock and Fox.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l7321-l7347
+  passage_sha256=16eb56399c2d6834c575c9615451cf670bc4b80f16d1460f08f225bc3b51b762
+

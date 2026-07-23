@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l6012-l6022
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: SECOND  OFFSHOOT. / A  BACHELOR  GOD  IN  SEARCH  OF  A  WIFE. / THE  PRINCE  OF  REED-THROWERS.
+    / THE    ORIGIN    OF    KITE-FLYING.; lines 6012-6022
+  start: '6012'
+  end: '6022'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: THE    ORIGIN    OF    KITE-FLYING.
+  summary: Tane challenges Rongo to kite-flying in the shades. Rongo, Tane's elder
+    brother, defeats him after secretly preparing abundant string. From this first
+    kite-flying, mortals acquire the pastime, with the condition that the first kite
+    to rise in each game is sacred to and named for Rongo, patron of the art.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Tane, in the shades, challenges Rongo to a game of kite-flying.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The contest is described as a trial of skill and ends in Tane's defeat by
+    Rongo.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: Rongo is identified as Tane's elder brother.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Rongo secretly provides himself with an enormous quantity of string before
+    or during the contest.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Mortals acquire kite-flying as a pastime from this first kite-flying.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In each game, the first kite that mounts the sky is to be sacred to Rongo
+    and bear his name; later kite names are indifferent.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Rongo is called the great patron of the art of kite-flying.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Tane
+  description: A god in the shades who challenges Rongo to kite-flying and is defeated.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Rongo
+  description: Tane's elder brother, who defeats Tane after secretly preparing an
+    enormous quantity of string; later named as patron of kite-flying.
+  role_refs:
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Mortals
+  description: Human recipients of the kite-flying pastime derived from the first
+    divine kite-flying.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: challenger
+  assigned_to:
+  - fig:1
+  basis: Tane challenges Rongo to a game of kite-flying.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: victorious contestant
+  assigned_to:
+  - fig:2
+  basis: The trial of skill ends in Rongo's defeat of Tane.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: elder brother
+  assigned_to:
+  - fig:2
+  basis: Rongo is explicitly called Tane's elder brother.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: defeated contestant
+  assigned_to:
+  - fig:1
+  basis: Tane suffers utter discomfiture in the kite-flying trial.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: patron of kite-flying
+  assigned_to:
+  - fig:2
+  basis: The first kite is sacred to and named for Rongo, who is called the great
+    patron of the art.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: recipients of pastime
+  assigned_to:
+  - fig:3
+  basis: Mortals acquire kite-flying from the first kite-flying.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: kite
+  literal_form: kite; first kite that mounts the sky
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: enormous quantity of string
+  literal_form: string secretly provided by Rongo
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Rongo-named first kite
+  literal_form: the first kite in each game bearing the name of Rongo
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: shades
+  literal_form: the shades, the setting where Tane challenges Rongo
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Divine kite-flying contest in the shades
+  summary: Tane challenges Rongo to a kite-flying trial in the shades; Rongo defeats
+    him after secretly preparing a large amount of string.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Human adoption and dedication of kite-flying
+  summary: Mortals acquire the pastime of kite-flying from the first contest, with
+    the first sky-rising kite in each game sacred to and named for Rongo.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Origin of kite-flying from a divine contest
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage identifies the origin of kite-flying and says mortals acquire
+    the pastime from the first kite-flying involving Tane and Rongo.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage presents the cultural practice as derived from divine action,
+    but it does not describe a deliberate gift to humans.
+- id: motif:2
+  label: Defeat through secretly prepared contest equipment
+  taxonomy_refs: []
+  basis: Rongo defeats Tane in a trial of skill after secretly providing himself with
+    an enormous quantity of string.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not state whether the secret preparation is condemned,
+    praised, or treated as trickery.
+- id: motif:3
+  label: First object in a game dedicated to a divine patron
+  taxonomy_refs: []
+  basis: The condition of each game is that the first kite to mount the sky is sacred
+    to Rongo and bears his name.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage states a dedication rule but gives no ritual procedure beyond
+    naming and sacred status.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '6012'
+  quote_or_summary: THE    ORIGIN    OF    KITE-FLYING.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 6014-6015
+  quote_or_summary: Tane, in the shades, challenges Rongo to a game of kite-flying.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 6015-6018
+  quote_or_summary: The trial of skill results in Tane's defeat by his elder brother
+    Rongo, who had secretly prepared an enormous quantity of string.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 6018-6019
+  quote_or_summary: Mortals acquire kite-flying as an agreeable pastime from this
+    first kite-flying.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 6019-6022
+  quote_or_summary: In each game, the first kite to mount the sky is sacred to and
+    named for Rongo, the great patron of the art; later kite names are indifferent.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment to culture_hero is
+    cautious because the passage explains a cultural origin but not an intentional
+    benefaction. No comparison claims were made because the passage itself does not
+    support a specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l6012-l6022
+  passage_sha256=d6237a919fc48319b7b7368d95362812cbb9528f7839491f455de10594fdc441
+

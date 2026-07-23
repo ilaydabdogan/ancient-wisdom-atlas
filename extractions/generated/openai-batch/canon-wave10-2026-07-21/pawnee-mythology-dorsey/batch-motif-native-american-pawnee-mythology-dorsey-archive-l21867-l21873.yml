@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l21867-l21873
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: COYOTE   AND  THE   PRIESTS.  435 / COYOTE  WHO  CALLED  HIMSELF       DRAGGING-THE-STONE.  439
+    / COYOTE-MAN  AND  HIS  TRICKS.  44I / COYOTE-MAN   AND    HIS    TRICKS.  443;
+    lines 21867-21873
+  start: '21867'
+  end: '21873'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Coyote-Man travels to a place where two women are gathering wood. He finds
+    a baby tied to a baby-board against a tree, removes and decapitates the baby,
+    puts the head back in the cradle, and leaves. When the women lift the baby onto
+    their backs, the head falls out, and they know Coyote-Man has been there. Coyote-Man
+    continues to another village.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Coyote-Man leaves a place and travels onward.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two women are gathering wood at the place Coyote-Man reaches.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A baby is tied to a baby-board standing against a tree.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Coyote-Man pulls out the baby, cuts off its head, and puts the head back in
+    the cradle.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The women take up the baby and sling it on their backs, after which the head
+    falls out.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The two women know that Coyote-Man has been there.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Coyote-Man goes on and comes to another village.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Coyote-Man
+  description: A traveling figure who encounters the women and baby, kills the baby,
+    and continues to another village.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Two women
+  description: Two women gathering wood who later take up their baby and discover
+    the head has fallen out.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Baby
+  description: A baby tied to a baby-board against a tree; Coyote-Man removes and
+    decapitates the baby.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: traveler
+  assigned_to:
+  - fig:1
+  basis: Coyote-Man leaves one place, travels on, and later goes to another village.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: killer of the baby
+  assigned_to:
+  - fig:1
+  basis: Coyote-Man pulls out the baby, cuts off its head, and puts the head in the
+    cradle.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: wood-gathering caregivers
+  assigned_to:
+  - fig:2
+  basis: The two women are gathering wood and later take up their baby.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: infant victim
+  assigned_to:
+  - fig:3
+  basis: The baby is tied to a baby-board and is decapitated by Coyote-Man.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: baby-board or cradle
+  literal_form: A baby-board or cradle holding the baby and later the baby's head.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: tree
+  literal_form: A tree against which the baby-board is standing.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: severed head in cradle
+  literal_form: The baby's head is put back in the cradle and later falls out when
+    the women sling the baby on their backs.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Coyote-Man reaches the wood-gathering women
+  summary: Coyote-Man travels to a place where two women are gathering wood and passes
+    by them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Baby at the tree and cradle
+  summary: Coyote-Man comes to a baby tied to a baby-board standing against a tree.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Killing and replacement of the head
+  summary: Coyote-Man removes the baby, cuts off its head, and places the head in
+    the cradle again.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: Women discover what happened
+  summary: The women take up the baby and, when they sling it on their backs, the
+    head falls out; they know Coyote-Man has been there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:5
+  label: Coyote-Man departs to another village
+  summary: Coyote-Man continues onward and reaches another village.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Coyote-Man harms an unattended infant while traveling
+  taxonomy_refs: []
+  basis: The passage describes Coyote-Man traveling, finding a baby tied to a baby-board
+    while two women gather wood, killing the baby, and moving on.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a descriptive motif candidate for the passage only; it does not
+    assert a broader comparative distribution.
+- id: motif:2
+  label: Disruptive Coyote-Man trick episode
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The supplied passage label identifies the section as involving Coyote-Man's
+    tricks, and the passage narrates a disruptive violent act by Coyote-Man followed
+    by departure.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt itself does not explicitly use the word trickster; the taxonomy
+    reference relies partly on the section label and the Coyote-Man figure.
+- id: motif:3
+  label: Concealed bodily injury revealed by a falling head
+  taxonomy_refs: []
+  basis: Coyote-Man puts the baby's head back in the cradle, and the women discover
+    the act when the head falls out as they lift the baby.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The concealment is inferred from the sequence of replacing the head in
+    the cradle and later discovery; the passage does not state Coyote-Man's motive.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 21867-21868
+  quote_or_summary: '"Coyote-Man left the place and traveled on" and came to a place
+    where "two women" were "gathering wood."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; short quotation allowed.
+- id: ev:2
+  type: quote
+  locator: 21869-21870
+  quote_or_summary: A baby was "tied to a baby-board standing against a tree"; Coyote-Man
+    "pulled out the baby, cut off its head" and put the head in the cradle.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; short quotation allowed.
+- id: ev:3
+  type: summary
+  locator: 21870-21872
+  quote_or_summary: When the women took up their baby and slung it on their backs,
+    the head fell out, and they knew Coyote-Man had been there.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:4
+  type: quote
+  locator: '21873'
+  quote_or_summary: '"Coyote-Man went on and came to another village."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; short quotation allowed.
+- id: ev:5
+  type: citation
+  locator: passage label
+  quote_or_summary: The supplied passage label identifies this section as "COYOTE-MAN
+    AND HIS TRICKS."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Source metadata supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif candidates
+    are descriptive; the trickster-boundary taxonomy reference should be reviewed
+    because the excerpt names Coyote-Man and the supplied label mentions tricks, but
+    the excerpt itself does not explicitly state a comparative trickster category.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  All fields use only the provided passage text, locator, taxonomy options, and source metadata.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l21867-l21873
+  passage_sha256=f3360c10fc0d951548d344ab39b565436fba59c38fa6ad927f06886988fcf14d
+

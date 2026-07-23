@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l10928-l10981
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SEVENTH  BOOK  OP  THE  BOYAL / COMMENTARIES  OF  THE  YNCAS. / SEVENTH  BOOK  OF  THE  ROYAL
+    / COMMENTARIES  OE  THE  YNCAS.; lines 10928-10981
+  start: '10928'
+  end: '10981'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: In the time of the Yncas the site was occupied by a beautiful hall ... and
+    by the palace of the Ynca Uira-ccocha.
+  summary: The passage describes Spanish and ecclesiastical buildings around Cuzco’s
+    principal square, noting that the cathedral site had formerly contained an Inca
+    festival hall used in rainy weather and the palace of the Ynca Uira-ccocha. It
+    also records later Spanish use of the hall and names several Spanish householders
+    and officers associated with nearby properties.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The cathedral church is described as facing the principal square.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the time of the Yncas, the cathedral site was occupied by a hall where
+    festivals were celebrated in rainy weather and by the palace of the Ynca Uira-ccocha.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator says that in his time only the hall remained from the earlier
+    Inca structures at that site.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When the Spaniards first entered the city, they lodged together in the hall
+    so they would be ready for anything that might happen.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The narrator remembers the hall first roofed with straw and later covered
+    with tiles.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Several nearby houses and properties are identified by their Spanish owners
+    or later occupants.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ynca Uira-ccocha
+  description: Named as the Ynca whose palace formerly stood on the site later associated
+    with the cathedral.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Spaniards entering the city
+  description: A collective group who first entered the city and lodged in the former
+    Inca hall.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Narrator
+  description: The first-person witness who remembers the hall roofed with straw and
+    later covered with tiles.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: former royal palace holder
+  assigned_to:
+  - fig:1
+  basis: The passage identifies a palace of the Ynca Uira-ccocha at the former Inca
+    site.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: first Spanish occupants of the hall
+  assigned_to:
+  - fig:2
+  basis: The passage says the Spaniards first entering the city lodged in the hall.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: eyewitness narrator
+  assigned_to:
+  - fig:3
+  basis: The narrator states that he remembers and saw changes to the hall’s roofing.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: festival hall
+  literal_form: A hall at the cathedral site, formerly used for festivals in rainy
+    weather.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: palace of the Ynca Uira-ccocha
+  literal_form: A royal palace formerly located on the later cathedral site.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: cathedral church
+  literal_form: The cathedral church facing the principal square on or near the former
+    Inca hall and palace site.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Description of the cathedral site and its Inca predecessors
+  summary: The passage locates the cathedral by the principal square and states that,
+    in Inca times, the site contained a festival hall and the palace of the Ynca Uira-ccocha.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Spanish lodging in the former hall
+  summary: After first entering the city, the Spaniards lodge in the former hall as
+    a precautionary measure.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Narrator’s memory of architectural change
+  summary: The narrator recalls the hall when it had a straw roof and later saw it
+    covered with tiles.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: successive reuse of royal ceremonial space
+  taxonomy_refs: []
+  basis: The passage describes a former Inca festival hall and royal palace site later
+    associated with the cathedral and Spanish occupation of the hall.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is a historical-urban pattern rather than a clearly narrated mythic
+    motif; no explicit symbolic interpretation is stated in the passage.
+- id: motif:2
+  label: royal palace as remembered urban landmark
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The former palace of the Ynca Uira-ccocha is used to identify an important
+    site in the city’s later colonial layout.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: The passage names a royal palace but does not explicitly discuss legitimation,
+    succession, or sacral kingship.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10938-10939
+  quote_or_summary: The cathedral church is described as facing the principal square.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 10939-10943
+  quote_or_summary: "“In the time of the Yncas the site was occupied by a beautiful
+    hall ... and by the palace of the Ynca Uira-ccocha.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 10943-10944
+  quote_or_summary: The narrator says that in his time nothing remained at the site
+    except the hall.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 10944-10947
+  quote_or_summary: When the Spaniards first entered the city, they all lodged in
+    the hall to be ready for any event.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 10947-10949
+  quote_or_summary: The narrator remembers the hall roofed with straw and later saw
+    it covered with tiles.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 10928-10938, 10949-10981
+  quote_or_summary: The surrounding urban area is described through Spanish houses,
+    shops, officer quarters, and named residents or property holders.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is primarily historical and topographical. The extracted motifs
+    are cautious pattern labels based on site succession and remembered royal space,
+    not explicit mythic narrative motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison to another named tradition or motif family beyond the limited local pattern of reuse of Inca ceremonial and royal space.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l10928-l10981
+  passage_sha256=5cea773d8b2784696b8cf7ba7a17fccee8c8e247ad8bad80e93c44208f450575
+

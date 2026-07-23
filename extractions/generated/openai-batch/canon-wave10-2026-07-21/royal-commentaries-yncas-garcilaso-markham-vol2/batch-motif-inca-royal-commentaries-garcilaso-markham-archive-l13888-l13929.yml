@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l13888-l13929
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SEVENTH  BOOS  OE  THE  KOTAL / COMMENTARIES  OE  THE  YNCAS. / CHAPTER  XXVIII.
+    / SEVENTH  BOOK  OF  THE  ROYAL; lines 13888-13929
+  start: '13888'
+  end: '13929'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: each one fitting into its neighbour, and each supplying the other’s defects
+  summary: The passage describes a grand Inca stone edifice whose enormous, irregular
+    boulders are said to have been brought from mountains and fitted together without
+    small filler stones, so that each stone complements the defects of another and
+    increases the majesty of the wall.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Three constructions are said to be made in the same way, with the first described
+    as the grandest and containing enormous stones.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The size and number of the stones are presented as remarkable in view of the
+    limited tools or appliances attributed to the builders.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator states an opinion that the stones were not hewn from quarries
+    but were loose boulders brought from the mountains.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stones are described as having varied convex, concave, oblique, pointed,
+    and unpointed forms.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The builders are said not to remove or level the irregularities, but to fit
+    the hollow of one rock with the convexity of another and to match other corresponding
+    shapes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A missing angle in one rock is described as being made up by another rock
+    with an opposite irregularity, rather than by filling the gap with a small stone.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The narrator infers that the builders aimed to use stones of equally admirable
+    grandeur, each fitting its neighbor and supplying the other's defects for the
+    edifice's majesty.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Father Acosta is mentioned as having enlarged upon the same point immediately
+    after the narrator's explanation.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the Indians
+  description: The group credited with bringing the boulders and fitting the stones
+    of the wall or edifice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Father Acosta
+  description: A cited commentator said to have enlarged upon the point just described.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: stone builders and transporters
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the bringing of loose rocks and the fitting of irregular
+    stones to the Indians.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:2
+  label: cited commentator
+  assigned_to:
+  - fig:2
+  basis: Father Acosta is introduced as having enlarged upon the same subject.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: enormous stones or boulders
+  literal_form: large loose rocks used in the wall or edifice
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: mountains as source of building stones
+  literal_form: mountains where suitable loose boulders may be found
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: complementary irregular stone forms
+  literal_form: concave, convex, oblique, and angular defects fitted to opposite forms
+    in other rocks
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: majestic wall or edifice
+  literal_form: a grand stone construction made of enormous fitted rocks
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+scenes:
+- id: scene:1
+  label: Grand stone edifice described
+  summary: The passage presents the first of three similarly constructed works as
+    the grandest, notable for enormous stones whose scale is impressive despite the
+    builders' limited appliances.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Boulders sourced and fitted by complementary defects
+  summary: The narrator explains that loose mountain boulders of irregular shape were
+    fitted together so that hollows, convexities, obliquities, and missing angles
+    complemented one another without small filler stones.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Acosta cited on the same subject
+  summary: After describing the fitting of stones, the narrator introduces Father
+    Acosta as someone who enlarged upon the same point.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Monumental construction displaying power
+  taxonomy_refs: []
+  basis: The passage describes an edifice whose enormous stones display power and
+    produce wonder, emphasizing grandeur and majesty.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage is architectural and historical rather than an explicit mythic
+    narrative; no divine or ritual function is stated.
+- id: motif:2
+  label: Complementary joining of imperfect stones
+  taxonomy_refs: []
+  basis: Irregular stones are described as being fitted so that the defects of one
+    are supplied by the opposite defects of another, creating a unified monumental
+    wall.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a construction pattern in the passage; symbolic or mythological
+    meaning is not explicitly asserted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13888-13899
+  quote_or_summary: Three works are described as constructed in the same way; the
+    first is the grandest and contains enormous stones that make the edifice seem
+    incredible or wonderful given their size, number, and the builders' few appliances.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 13900-13907
+  quote_or_summary: The narrator opines that the stones were not quarried or cut,
+    but were loose boulders brought by the Indians from mountains where suitable rocks
+    could be found.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 13906-13910
+  quote_or_summary: The stones are described as having convex, concave, oblique, pointed,
+    and unpointed forms.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 13910-13917
+  quote_or_summary: The irregularities were not removed; instead, the concavity of
+    one great rock was filled by another's convexity, and oblique or straight forms
+    were fitted to corresponding shapes.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 13917-13922
+  quote_or_summary: A missing angle in one rock was supplied by fitting another rock
+    with an opposite fault, not by using a small stone as filler.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: quote
+  locator: lines 13922-13928
+  quote_or_summary: The narrator says the builders seemed to intend that all stones
+    be of equally admirable grandeur, “each one fitting into its neighbour, and each
+    supplying the other’s defects,” for the greater majesty of the edifice.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 13928-13929
+  quote_or_summary: Father Acosta is introduced as having enlarged upon the point
+    just described.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal architectural details are explicit. Motif candidates are limited
+    because the passage does not state a mythic or ritual interpretation. No comparison
+    claims are made beyond the cited Acosta reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external information or unsupported taxonomy mapping has been added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l13888-l13929
+  passage_sha256=46b678cee924609aadb053660580763fe33634e2c1bd2fa6d1e1470f257e01e5
+

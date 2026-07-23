@@ -1,0 +1,406 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l6775-l6854
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: A  BARA   WARRIOR.  127 / BEZANOZANO.  129 / SAKALAVA  CONQUESTS.  133 /
+    KIM  OS.  137; lines 6775-6854
+  start: '6775'
+  end: '6854'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives an ethnographic and demographic explanation for Madagascar's
+    thin population, listing low fertility, slavery, killing of children born on unlucky
+    days, the tangena poison ordeal, charms used instead of medicine, epidemics, warfare,
+    climate, poor food, and lack of clothing. It then expresses hope that Christianity
+    and increased civilization will halt population decline, comparing this hoped
+    effect to Polynesian islands, and gives a population estimate table by named groups.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Madagascar is described as thinly peopled, with large fertile tracts uninhabited.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists early marriage, sexual habits, and intermarriage of near
+    relatives as causes said to lessen women's fertility and make large families rare.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Before a treaty made with England by Radama I in 1820, many Malagasy people
+    were sold as slaves and carried to foreign colonies.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says children were put to death if born on certain unlucky days,
+    and that this practice still destroyed many newborn children in some groups.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The tangena poison ordeal is said to have caused great loss of life.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The people are said to resort to charms for curing disease instead of using
+    simple medicines.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Smallpox and an epidemic of malarial fever are described as causing mortality
+    in coastal and central regions.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Frequent wars, especially Hova wars to subdue other peoples of the island,
+    are described as causing severe loss among both conquerors and conquered.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The author states that Christianity had helped preserve inhabitants in many
+    Polynesian islands and hopes it will similarly halt population decrease in Madagascar.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage says the destruction of life by the tangena ordeal and through
+    belief in unlucky days had ended in a large part of the island.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The passage includes a population estimate table listing Hovas, Sakalava with
+    Bezanozano and Sihanaka, Betsileo, and Betanimena with Betsimisaraka.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Malagasy people / inhabitants of Madagascar
+  description: The population whose size, mortality, practices, and prospects are
+    discussed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Children born on unlucky days
+  description: Newborn children said to be killed because they were born on certain
+    unlucky days.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Hovas
+  description: A named Malagasy group described as carrying on long wars to subdue
+    other peoples of the island.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: fig:4
+  name_or_label: Other peoples of the island
+  description: Groups described as being subdued by Hova wars and suffering severe
+    loss along with the conquerors.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Named population groups in the estimate table
+  description: Hovas, Sakalava, Bezanozano, Sihanaka, Betsileo, Betanimena, and Betsimisaraka
+    appear as groups in a population estimate.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: Population affected by mortality causes
+  assigned_to:
+  - fig:1
+  basis: The passage lists multiple causes said to reduce or limit the population
+    of Madagascar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: Victims of unlucky-day birth practice
+  assigned_to:
+  - fig:2
+  basis: Children born on certain unlucky days are said to be put to death.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Conquering group in wars of subjugation
+  assigned_to:
+  - fig:3
+  basis: The Hovas are described as carrying on wars to subdue other peoples.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: Conquered groups suffering loss
+  assigned_to:
+  - fig:4
+  basis: Other peoples of the island are described as conquered and suffering severe
+    loss.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: Enumerated population groups
+  assigned_to:
+  - fig:5
+  basis: The population estimate table groups inhabitants under several named categories.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Unlucky birth days
+  literal_form: Certain days treated as unlucky for birth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:2
+  label: Tangena poison ordeal
+  literal_form: Poison ordeal named tangena
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:3
+  label: Healing charms
+  literal_form: Charms used for curing disease
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Listed causes of population decrease
+  summary: The passage presents a sequence of causes said to keep the Malagasy population
+    low, including fertility-related customs, slavery, unlucky-day child killing,
+    poison ordeal, charms instead of medicine, disease, war, climate, food, and clothing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Wars of Hova subjugation
+  summary: The Hovas are described as carrying out long wars to subdue other peoples,
+    with severe loss to both conquerors and conquered.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: Hope for reform and demographic preservation
+  summary: The author compares Madagascar to Polynesian islands and hopes Christianity,
+    increased intelligence, civilization, and improved morals will end practices such
+    as tangena and unlucky-day killings and check mortality.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Population estimate by groups
+  summary: The passage cites an older estimate assigning population numbers to several
+    Malagasy groups and giving a total.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Ominous birth day leading to infant killing
+  taxonomy_refs: []
+  basis: The passage states that children born on certain unlucky days were put to
+    death and that the practice still destroyed many newborns in some groups.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: This is reported as an ethnographic custom by the author, not as a myth
+    narrative; no sacred-birth taxonomy is assigned because the passage frames the
+    day as unlucky rather than sacred.
+- id: motif:2
+  label: Poison ordeal causing death
+  taxonomy_refs: []
+  basis: The named tangena poison ordeal is said to have caused great waste of life,
+    and later to have ended in a large part of the island.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: The passage does not explain the ordeal's theology or procedure, so no
+    divine-judgment taxonomy is assigned.
+- id: motif:3
+  label: Charm-based healing in place of medicine
+  taxonomy_refs: []
+  basis: The passage says people resort to charms for curing disease instead of simple
+    medicines.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only the author's brief evaluative statement and no
+    details about the charms, healers, words, materials, or ritual context.
+- id: motif:4
+  label: Conversion and civilization as protection from collective extinction
+  taxonomy_refs: []
+  basis: The author hopes that Christianity, increased intelligence, civilization,
+    and improved morals will check causes of mortality and prevent population decline,
+    as he says occurred in many Polynesian islands.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: This is an authorial missionary interpretation and demographic hope, not
+    a traditional Malagasy mythic motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares Madagascar with many Polynesian islands by presenting
+    Christianity as having preserved peoples from rapid decrease there and as potentially
+    serving the same demographic-preserving function in Madagascar.
+  claim_level: same_function
+  target: 'Many Polynesian islands: Christianity as preservation of inhabitants as
+    peoples'
+  evidence_refs:
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is based on the author's broad assertion and hope; the passage
+    provides no Polynesian examples, figures, or independent demographic evidence,
+    and the comparison is social-historical rather than mythological.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6775-6784
+  quote_or_summary: Madagascar is described as thinly peopled, with uninhabited fertile
+    tracts; early marriage, sexual habits, and close-relative intermarriage are listed
+    as causes of low fertility and rare large families.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 6784-6787
+  quote_or_summary: Before the 1820 treaty with England by Radama I, many Malagasy
+    were sold as slaves and carried to Mauritius, Bourbon, and other colonies.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 6787-6792
+  quote_or_summary: The passage says children were put to death if born on certain
+    unlucky days, reducing the population and still destroying many newborns in some
+    tribes.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 6792-6795
+  quote_or_summary: The tangena poison ordeal is said to have caused great waste of
+    life, and people are said to use charms for disease rather than simple medicines.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: lines 6795-6801
+  quote_or_summary: Smallpox is described as ravaging the coast and causing mortality,
+    and an unusual malarial fever epidemic is said to have passed over central Madagascar
+    and caused great loss of life.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:6
+  type: summary
+  locator: lines 6801-6816
+  quote_or_summary: Frequent wars, especially long Hova wars to subdue other peoples,
+    are said to have caused severe loss; unhealthy climate, poor food, and lack of
+    warm clothing for children are also listed as mortality factors.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:7
+  type: summary
+  locator: lines 6817-6832
+  quote_or_summary: The author states that, as in many Polynesian islands, Christianity
+    has been the salvation of peoples and hopes it will similarly prevent threatened
+    extinction in Madagascar.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:8
+  type: summary
+  locator: lines 6832-6838
+  quote_or_summary: In a large part of Madagascar, the destruction of life by the
+    tangena ordeal and belief in unlucky days is said to have ended; increased intelligence,
+    civilization, and morals are expected to check other mortality causes.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:9
+  type: summary
+  locator: lines 6839-6854
+  quote_or_summary: A table from Ellis's History of Madagascar estimates populations
+    for the Hovas, Sakalava with Bezanozano and Sihanaka, Betsileo, and Betanimena
+    with Betsimisaraka, totaling 4,450,000.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is chiefly ethnographic and demographic rather than mythic narrative.
+    Extracted motifs are therefore cultural-symbolic or ritual patterns explicitly
+    mentioned in the passage, with no taxonomy references assigned where unsupported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy references were applied because the passage does not clearly support the listed mythic motif families or symbol refs.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l6775-l6854
+  passage_sha256=e0d7441689e5cd6042046199cbedd7a51066a1990846136ae53c1524e5063ac3
+

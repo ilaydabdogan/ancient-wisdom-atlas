@@ -1,0 +1,397 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l19351-l19385
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: BIRTH  CEREMONIES / SPECIAL  MEDICINES / BIRTH  CEREMONIES / INFRINGEMENT  OF  TABOOS;
+    lines 19351-19385
+  start: '19351'
+  end: '19385'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Malay beliefs that a father's infringement of birth-period
+    taboos, especially killing animals, can cause a child to be born with marks, deformities,
+    or animal-associated afflictions called kenan. Examples include a crab-associated
+    deformity and a fish-affection diagnosed and treated by a Pawang with a potion
+    made from pounded fish bones. The passage also lists categories such as fish-struck,
+    ape-struck, dog-struck, and crab-struck.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that infringement of taboos can have a harmful effect on
+    the child, causing a birthmark or deformity called kenan.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A reported son was born missing several fingers and toes on the left side,
+    and this was attributed to the father killing a crab with a cutlass at fishing-stakes.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says that formerly, during this period, the father was under pantang
+    not to kill animals, including buffalo, fowls, or any animal whatever.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A Malay father reported that his newborn son suffered a severe breathing obstruction,
+    which the Pawang diagnosed as fish-affection.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The father remembered killing many fish on the day his son was born; on the
+    Pawang's advice he gave the child a potion made from pounded fish bones, after
+    which the child recovered.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says Malays classify such affections by the supposed producing
+    influence, including fish-struck, ape-struck, dog-struck, and crab-struck conditions.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage states that in every such case the child is said to display some
+    physical deformity causing resemblance to the animal.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: father
+  description: The father is the person subject to the birth-period taboo and is described
+    in examples as killing a crab or fish in connection with the child's affliction.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: child or son
+  description: The child is the one said to be harmed by taboo infringement, including
+    deformity, birthmark, or breathing obstruction.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: medicine-man / Pawang
+  description: The Pawang diagnoses the child's condition as fish-affection and advises
+    giving a potion made from pounded fish bones.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: crab
+  description: A crab is killed by the father with a cutlass and is associated with
+    the child's crab-struck deformity.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:5
+  name_or_label: fish
+  description: Fish are killed by the father on the child's birth day, are associated
+    with the diagnosed fish-affection, and provide bones for the remedy.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: buffalo and fowl
+  description: Buffalo and fowl are examples of animals whose killing by the father
+    was formerly taboo during the relevant period.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: birth-period taboo violator or potential violator
+  assigned_to:
+  - fig:1
+  basis: The father is described as forbidden to kill animals during the period and
+    as causing affliction by killing a crab or fish.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: afflicted child
+  assigned_to:
+  - fig:2
+  basis: The child is described as receiving the harmful effect of taboo infringement
+    through birthmark, deformity, or obstruction of breathing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: diagnoser and healer
+  assigned_to:
+  - fig:3
+  basis: The Pawang diagnoses fish-affection and advises the fish-bone potion.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: animal linked to taboo and affliction
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage links killed animals to birth-period taboo, kenan categories,
+    and child afflictions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: source of remedial substance
+  assigned_to:
+  - fig:5
+  basis: The fish bones are pounded into the potion given for the fish-affection.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: kenan
+  literal_form: Birthmark, deformity, or animal-associated affection caused by taboo
+    infringement.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: crab-struck affliction
+  literal_form: A crab killed by the father and an associated deformity of the child's
+    left hand and foot.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: fish-affection
+  literal_form: Fish killed on the child's birth day and a diagnosed breathing obstruction
+    called kenan ikan.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: pounded fish-bones potion
+  literal_form: A potion made from pounded fish bones and given to the child as treatment.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: animal-killing taboo
+  literal_form: The father's prohibited killing of buffalo, fowl, or any animal during
+    the birth-related period.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Crab killing and birth deformity
+  summary: A son is born with missing fingers and toes on the left side, and the condition
+    is attributed to the father having killed a crab with a cutlass at fishing-stakes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Former animal-killing taboo for the father
+  summary: The passage states that in former days the father was forbidden during
+    the period to cut the throat of a buffalo or fowl, or to take the life of any
+    animal.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Fish-affection diagnosis and fish-bone remedy
+  summary: A child with breathing obstruction is diagnosed by a Pawang as having fish-affection
+    after the father recalls killing many fish on the day of birth; a pounded fish-bones
+    potion is given and recovery follows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Classification of animal-struck afflictions
+  summary: The passage describes Malay classification of afflictions by animal influence,
+    including fish-struck, ape-struck, dog-struck, and crab-struck categories.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Birth-period taboo violation harms the child
+  taxonomy_refs: []
+  basis: The passage directly states that infringement of taboos can cause the child
+    a birthmark or deformity and gives examples tied to the father's animal killing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage excerpt begins mid-sentence, so the full preceding description
+    of the taboo context is outside the provided range.
+- id: motif:2
+  label: Animal-struck affliction with resemblance to the animal
+  taxonomy_refs: []
+  basis: Afflictions are classified by animal influence, such as fish-struck or crab-struck,
+    and the child is said to display a deformity resembling the animal.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The final sentence is truncated at the end of the provided passage.
+- id: motif:3
+  label: Like-cures-like remedy from the afflicting animal
+  taxonomy_refs: []
+  basis: The child diagnosed with fish-affection is treated with a potion made from
+    pounded fish bones, followed by recovery.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only one remedy example is given in the passage.
+- id: motif:4
+  label: Liminal birth-period prohibition on taking life
+  taxonomy_refs: []
+  basis: The passage says the father was formerly forbidden during the relevant period
+    to kill buffalo, fowls, or any animal.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not fully specify the temporal boundaries of the period
+    within the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The author characterizes the father's former birth-period prohibition on
+    killing animals as probably reflecting Indian influences.
+  claim_level: historical_contact
+  target: Indian influences on Malay birth-period taboo practice
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is an authorial assertion in the passage; no comparative Indian
+    source or specific parallel is provided in the excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19351-19355
+  quote_or_summary: Taboo infringement is said to harm the child and cause a birthmark
+    or actual deformity, with such an affection called kenan.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: 19355-19364
+  quote_or_summary: A son born missing several fingers and toes on the left side is
+    said to have been affected because the father went to the fishing-stakes and killed
+    a crab with a cutlass.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: 19365-19370
+  quote_or_summary: Formerly, during this period, it was taboo for the father to cut
+    the throat of a buffalo or fowl, or to take any animal's life; the author calls
+    this a trace of Indian influences.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: 19370-19380
+  quote_or_summary: A Malay father says his newborn son had severe breathing obstruction;
+    a Pawang diagnosed fish-affection, the father recalled killing many fish on the
+    birth day, and a pounded fish-bones potion brought recovery.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: 19381-19385
+  quote_or_summary: Malays classify these afflictions by supposed influence, including
+    fish-struck, ape-struck, dog-struck, and crab-struck, and maintain that the child
+    displays deformity resembling the animal.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary only; provided excerpt ends mid-sentence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The main extraction is direct from the passage. Motif labels are descriptive
+    rather than taxonomy-based. The comparison claim relies only on the author's brief
+    statement about Indian influences.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy symbol refs were applied; the passage's key symbols are animals, kenan, and fish-bone medicine, which are not in the supplied symbol taxonomy.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l19351-l19385
+  passage_sha256=d5cc5e979aacf3f7523bdad4418288e534299292e08cc63498de9a1cdf8a3311
+

@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.arctic-inuit-tales-and-traditions-of-the-eskimo-rink-archive-l11271-l11293
+source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+passage_locator:
+  label: THE  GIRL  WHO  WAS  STOLEN  BY  AN / INLANDER. / THE  ORPHAN  BOY  ILIARSORKIK.
+    / THE  SOLITARY  KAYAKER.; lines 11271-11293
+  start: '11271'
+  end: '11293'
+  translation: Tales and Traditions of the Eskimo
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A son returns with a large white whale. While the women cut it up, the
+    daughter becomes cold because blood has filled her boots, sees the mountains double,
+    and dies when entering the house. The son performs a spell, is revealed to be
+    an angakok, calls spirits after the lamps are extinguished, and restores her to
+    life. They remain there; he later marries his adopted sister, and they eventually
+    die without further mishap.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A male figure returned home the next day dragging an immense white whale.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The women rejoiced and began to flense and cut up the whale.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The daughter complained that her feet were very cold; the passage explains
+    this by saying blood from the whale had filled her boots.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mother pretended not to notice the daughter's complaint and told her to
+    continue helping.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The girl said that she saw all the mountains double and was ordered to go
+    inside.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: When she bent down to descend through the entrance, she broke in two and died
+    on the spot.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In the evening the son performed a spell over the deceased body, and the mother
+    then realized he was an angakok.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The lamps were extinguished; the son called spirits and restored the deceased
+    girl to life and health.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: They remained living together at the place; the son later married his adopted
+    sister, and they eventually died there without further accidents.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the son / angakok
+  description: Male figure who brings home the white whale, performs a spell, calls
+    spirits, restores the deceased girl, and later marries his adopted sister.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the daughter / restored girl
+  description: Female figure who helps with the whale, suffers cold feet from blood-filled
+    boots, sees the mountains double, dies, and is restored to life. The later marriage
+    to the adopted sister appears in the same sequence, but the passage is context-limited.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the mother
+  description: Mother of the daughter; she tells the daughter to continue helping
+    and later realizes that the son is an angakok.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: whale-bringer
+  assigned_to:
+  - fig:1
+  basis: He returns home dragging an immense white whale.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: angakok / spirit-calling healer
+  assigned_to:
+  - fig:1
+  basis: He performs a spell, calls spirits, and restores the deceased to life and
+    health; the mother recognizes him as an angakok.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: deceased and restored person
+  assigned_to:
+  - fig:2
+  basis: She dies at the entrance and is later restored to life and health.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: mother
+  assigned_to:
+  - fig:3
+  basis: The passage identifies her as the girl's mother and describes her response
+    to the complaint.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: adopted sister / spouse in closing sequence
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The closing sequence states that the son later married his adopted sister
+    after the restoration episode.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: immense white whale
+  literal_form: A large white whale dragged home and cut up by the women.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: blood-filled boots
+  literal_form: Blood from the whale fills the daughter's boots and makes her feet
+    cold.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: double mountains
+  literal_form: The daughter says she sees all the mountains double.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: extinguished lamps
+  literal_form: The lamps are put out before the son calls the spirits.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Return with the white whale
+  summary: The son returns home with a large white whale, and the women begin to flense
+    and cut it up.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cold feet, double sight, and sudden death
+  summary: The daughter complains that her feet are cold because blood has filled
+    her boots, sees the mountains double, goes inside, breaks in two, and dies.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Angakok spell and restoration
+  summary: The son works a spell over the body, is recognized as an angakok, extinguishes
+    the lamps with the others, calls spirits, and restores the girl to life and health.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Settlement, marriage, and quiet death
+  summary: The group remains at the place; the son later marries his adopted sister,
+    and they eventually die there without further mishaps.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: spirit-mediated resurrection after sudden death
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: A girl dies suddenly, after which the angakok calls spirits and restores
+    her to life and health.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives the ritual action and result but does not explain the
+    full cosmology or prior causes beyond the local episode.
+- id: motif:2
+  label: hidden ritual specialist revealed by healing power
+  taxonomy_refs: []
+  basis: The mother becomes aware that the son is an angakok only when he performs
+    the spell and restores the deceased.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is excerpted from a larger tale, so the degree to which his
+    identity was hidden earlier is uncertain.
+comparison_claims:
+- id: claim:1
+  claim: The episode fits a resurrection-pattern comparison in which a dead person
+    is restored to life through ritual and spirit action.
+  claim_level: same_motif
+  target: resurrection / death_rebirth motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a motif-family comparison only; it does not imply historical
+    contact, common inheritance, or equivalence with other traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11271-11274
+  quote_or_summary: The son returns home dragging an immense white whale; the women
+    rejoice and begin flensing and cutting it up.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 11274-11281
+  quote_or_summary: The daughter complains of cold feet because blood has filled her
+    boots; her mother tells her to continue, and the girl then reports seeing the
+    mountains double.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 11281-11283
+  quote_or_summary: As she bends down to descend through the entrance, the girl breaks
+    in two and dies on the spot.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 11283-11286
+  quote_or_summary: The son works a spell over the body; the mother recognizes him
+    as an angakok; the lamps are extinguished, spirits are called, and the girl is
+    restored to life and health.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 11286-11290
+  quote_or_summary: They remain living together at the place; the son later marries
+    his adopted sister, and they die there without further accidents.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain; summarized from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and begins mid-sentence. Main events are clear, but
+    some relationship labels, especially the adopted-sister reference, depend on local
+    sequence and may need review against the fuller tale.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction limited to the supplied line range and metadata.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:arctic-inuit-tales-and-traditions-of-the-eskimo-rink-archive__l11271-l11293
+  passage_sha256=e1d4ce19f4c2ef2a98a41da36d7245a1bb20b2ea04d20361cafea939e2e0982c
+

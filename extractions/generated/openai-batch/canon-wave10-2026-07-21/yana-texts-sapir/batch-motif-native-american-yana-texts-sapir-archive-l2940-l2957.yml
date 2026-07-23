@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.native-american-yana-texts-sapir-archive-l2940-l2957
+source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+passage_locator:
+  label: VI. ORIGIN OF SEX, HANDS, AND DEATH. / ORIGIN OF SEX, HANDS, AND DEATH.ISI
+    / THE ROLLING SKULL.191 / XI. THE DROWMXO OF YOUNG BUZZARD'S WIFE.; lines 2940-2957
+  start: '2940'
+  end: '2957'
+  translation: Yana Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A speaker identified as Goose and Crane says he will go north, foretells
+    a meteor bursting and boiling the water, assigns future foraging behaviors to
+    Ground Squirrel and Gray Squirrel, and describes named warm bathing places, a
+    bridge across the river, plants, roots, and fish moving north.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Goose and Crane says he will go straight north and notes that he had been
+    happy at home with plenty to eat.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says a meteor will fall down and burst, and that the water will
+    boil.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says the same boiling-water condition will extend down the river
+    to the west, and that sick people will lie down in the waters.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ground Squirrel is told that he will always look around for food.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Gray Squirrel is told that he will jump among yellow-pines, get yellow-pine
+    nuts, and be satiated.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker says he will have a place where he is and also north across the
+    river at Waeu'p' di.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A bridge will go north across the river to a place called Dirl'ploha, which
+    people will hear about and visit to bathe.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Wacii'p' di will be only slightly warm; wild plums and named roots will grow
+    there; salmon and trout will swim north.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Goose and Crane
+  description: Named speaker who describes future movement, water conditions, animal
+    behaviors, and places.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Ground Squirrel
+  description: Addressee who is assigned the future habit of looking around for food.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Gray Squirrel
+  description: Addressee who is assigned future movement among yellow-pines and acquisition
+    of yellow-pine nuts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: People
+  description: People who will lie down in the waters when sick and who will go to
+    bathe at Dirl'ploha.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: future-condition speaker
+  assigned_to:
+  - fig:1
+  basis: Goose and Crane speaks in future terms about movement, a meteor, boiling
+    water, assigned animal behaviors, and named places.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: foraging-habit recipient
+  assigned_to:
+  - fig:2
+  basis: Ground Squirrel is told he will always look around for food.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: yellow-pine nut forager
+  assigned_to:
+  - fig:3
+  basis: Gray Squirrel is told he will jump among yellow-pines, get yellow-pine nuts,
+    and be satiated.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: bathers at warm waters
+  assigned_to:
+  - fig:4
+  basis: People are described as lying down in the waters when sick and saying they
+    will go bathe at Dirl'ploha.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: meteor
+  literal_form: A meteor falling down and bursting.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: boiling and bathing water
+  literal_form: Water that will boil after the meteor bursts, with sick people lying
+    down in it and people bathing at Dirl'ploha.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: river crossing
+  literal_form: A bridge going north across the river to the named place Dirl'ploha.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: yellow-pines and pine nuts
+  literal_form: Yellow-pines in which Gray Squirrel will jump and yellow-pine nuts
+    that he will get.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: local food abundance
+  literal_form: Wild plums, mu't!s-u and ma'ls-unna roots, and north-swimming salmon
+    and trout.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: northward declaration and boiling waters
+  summary: Goose and Crane says he will go north, recalls his former home, and foretells
+    a meteor bursting and boiling the waters.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: assignment of squirrel habits
+  summary: The speaker tells Ground Squirrel and Gray Squirrel what their future foraging
+    behaviors will be.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: named bathing place and local resources
+  summary: The speaker identifies places across the river, describes a bridge and
+    the name Dirl'ploha, says people will come to bathe there, and lists warmth, plants,
+    roots, and fish movement.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: origin of warm or healing bathing waters
+  taxonomy_refs: []
+  basis: The passage links a fallen, bursting meteor to boiling water and says sick
+    people will lie down in the waters and people will go to bathe at Dirl'ploha.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The excerpt does not explicitly use the word 'healing'; the association
+    rests on sick people lying down in the waters.
+- id: motif:2
+  label: animal-person assigns future animal habits
+  taxonomy_refs: []
+  basis: 'Ground Squirrel and Gray Squirrel are directly told what they will characteristically
+    do: look for food, jump among yellow-pines, gather nuts, and be satiated.'
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The broader narrative context is not included, so the full identity or
+    authority of the speaker is uncertain.
+- id: motif:3
+  label: founding and naming of a renowned bathing place
+  taxonomy_refs: []
+  basis: The passage says a place across the river will have a bridge, will be called
+    Dirl'ploha, will be heard about widely, and will be visited for bathing.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage describes future naming and use of the place, but does not
+    fully narrate a founding action within this excerpt.
+- id: motif:4
+  label: ordering of landscape and food resources
+  taxonomy_refs: []
+  basis: The speaker describes the distribution of warmth, plants, roots, and north-swimming
+    salmon and trout in named places.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage states future conditions, but the mechanism for the plants,
+    roots, and fish movement is not detailed in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2940-2944
+  quote_or_summary: Goose and Crane says he will go straight north, recalls having
+    plenty to eat at home, and says a meteor will fall, burst, and make the water
+    boil.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2944-2947
+  quote_or_summary: The boiling-water condition is said to extend downriver west,
+    and sick people are said to lie down in the waters.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 2947-2950
+  quote_or_summary: Ground Squirrel is told he will look around for food; Gray Squirrel
+    is told he will jump among yellow-pines, obtain yellow-pine nuts, and be full.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2950-2954
+  quote_or_summary: The speaker claims places here and north across the river at Waeu'p'
+    di; a bridge will cross to a place called Dirl'ploha, known as a bathing place.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2954-2957
+  quote_or_summary: Wacii'p' di will be slightly warm; wild plums and named roots
+    will grow there; salmon and trout will swim north.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited by the passage beginning mid-sentence and by ambiguity
+    in the singular speaker named 'Goose and Crane.' Motif candidates are based only
+    on the supplied excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparisons were added because the passage itself does not explicitly compare this episode with another tradition or corpus.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-yana-texts-sapir-archive__l2940-l2957
+  passage_sha256=449c700e4a479531f3866ee8b0ecd6942e19c85fbd730d02d45b744178d7be2f
+

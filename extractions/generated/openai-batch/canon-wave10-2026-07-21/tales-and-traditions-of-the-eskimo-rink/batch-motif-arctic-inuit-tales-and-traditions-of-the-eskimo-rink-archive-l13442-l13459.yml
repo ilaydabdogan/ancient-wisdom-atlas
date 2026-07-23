@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.arctic-inuit-tales-and-traditions-of-the-eskimo-rink-archive-l13442-l13459
+source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+passage_locator:
+  label: THE  WITCHCRAFT  OF  KUFANGE. / ATE  RFI  O. / INUGTUJUSOK. / THE  OLD  SOUTHLANDER.;
+    lines 13442-13459
+  start: '13442'
+  end: '13459'
+  translation: Tales and Traditions of the Eskimo
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: An old man kayaks toward a group of enemies or hunters. When a wounded
+    seal surfaces before him, he pierces it with his large arrows, returns another
+    hunter’s arrow contemptuously, lifts the seal onto his kayak with one hand, and
+    leaves the others amazed. They never attack him afterward, and he dies peacefully.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The old man kayaks toward a group after hearing them shouting.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The foremost member of the group has flung an arrow at a seal.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The group is startled when they see the old man and his large arrow.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wounded seal dives up in front of the old man’s kayak.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The old man pierces the seal with two big arrows and throws the first arrow
+    back to its owner.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The old man lifts the seal onto the kayak behind him with one hand.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The enemies are amazed and afterward do not venture to attack him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The old man dies in peace without being killed or wounded.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the old man
+  description: An aged man who kayaks among the group, carries large arrows, kills
+    the wounded seal, and shows notable strength.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: foremost hunter or enemy
+  description: The foremost member of the group who has flung an arrow at the seal
+    and receives the arrow back from the old man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: companions or enemies
+  description: The group accompanying the foremost man; they stare at the old man,
+    are amazed, and later avoid attacking him.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: wounded seal
+  description: A seal wounded by an arrow that surfaces in front of the old man’s
+    kayak and is then pierced and lifted onto the kayak.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: aged strong man
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly says that despite his great age he still has strength
+    and vigour.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: successful hunter
+  assigned_to:
+  - fig:1
+  basis: He pierces the seal and lifts it onto his kayak.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: hunters
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The foremost man throws an arrow at a seal while the group is present.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: enemies deterred from attack
+  assigned_to:
+  - fig:3
+  basis: The passage calls them enemies and says they never afterward ventured to
+    attack him.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: hunted animal
+  assigned_to:
+  - fig:4
+  basis: The seal is struck, surfaces wounded, and is killed by arrows.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: large arrows
+  literal_form: the old man’s tremendous arrow and two big arrows
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: kayak
+  literal_form: the old man’s kayak
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: wounded seal
+  literal_form: the seal wounded by the foremost hunter’s arrow and killed by the
+    old man
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Old man approaches the group by kayak
+  summary: The old man kayaks toward the group after hearing them shouting and rows
+    into their midst.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Seal-killing feat
+  summary: A wounded seal surfaces before the old man; he pierces it with his large
+    arrows and returns another arrow to its owner.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Enemies deterred by displayed strength
+  summary: The old man lifts the seal onto his kayak with one hand, leaving the enemies
+    amazed; they do not attack him afterward, and he dies peacefully.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: aged hero displays exceptional strength
+  taxonomy_refs: []
+  basis: The old man, despite great age, kills and lifts a seal with conspicuous power,
+    causing amazement.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents a strength display but does not explicitly frame
+    it as a named motif.
+- id: motif:2
+  label: public feat deters enemies
+  taxonomy_refs: []
+  basis: The enemies witness the old man’s handling of the seal and afterward never
+    venture to attack him.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The wider tale context may affect whether this is a central motif or a
+    concluding episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13442-13444
+  quote_or_summary: The old man kayaks away to look at the group, hears them shouting,
+    sees them, and rows into their midst.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13444-13449
+  quote_or_summary: The foremost man has thrown an arrow at a seal; the group is startled
+    by the old man with his large arrow; the wounded seal surfaces before the old
+    man’s kayak.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13449-13452
+  quote_or_summary: The old man pierces the seal with two big arrows and throws the
+    first arrow contemptuously back to its owner.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13452-13458
+  quote_or_summary: With one hand he lifts the seal behind him onto the kayak, leaves
+    his enemies amazed, is not attacked afterward, and later dies peacefully without
+    being killed or wounded.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the passage. Motif labels are descriptive
+    and not tied to a supplied taxonomy family. No comparison claims are made because
+    the passage itself does not support a specific comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The passage appears to be a concluding episode; broader tale context may refine figure identities and motif classification.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:arctic-inuit-tales-and-traditions-of-the-eskimo-rink-archive__l13442-l13459
+  passage_sha256=4c65ba0711f1e288e81bdd366ced8df7ee771ef2fd0aa55ac2c304a286f1ace9
+

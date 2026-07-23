@@ -1,0 +1,229 @@
+---
+record_id: batch.motif.malay-pagan-races-malay-peninsula-skeat-blagden-vol1-archive-l4159-l4178
+source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+passage_locator:
+  label: MIXTURE   OF  RACES  41 / JAKUN    WITH    MARKED    SAKAI    STRAIN,    SELANGOR.
+    / VOL  I  E / RACE  CHARACTERS  OF  SAA  AJ; lines 4159-4178
+  start: '4159'
+  end: '4178'
+  translation: Pagan Races of the Malay Peninsula, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes Logan's notice of tribes north of the Benua-Jakun,
+    called Berembun because their headquarters are around Gunong Berembun and nearby
+    mountains. It also states that the upper reaches of rivers rising in the Berembun
+    mountains are occupied by the Udai, and a footnote identifies Gunong Bermun with
+    Gunong Berembun in Sungei Ujong.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Logan mentions tribes living north of the Benua-Jakun and calls them Berembun
+    or “Birmun” tribes.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The name Berembun is explained by the tribes having their headquarters about
+    Gunong Berembun and neighbouring mountains.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The upper reaches of rivers rising in the Berembun mountains are occupied
+    by a tribe called Udai.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Udai are said to appear to be the same people as a group known to the
+    Benua-Jakun of Johor, but the supplied excerpt breaks off before the other name
+    is given.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note states that Gunong Bermun appears to be identical with Gunong Berembun,
+    situated in Sungei Ujong, with coordinates supplied.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Logan
+  description: A cited authority who mentions the tribes north of the Benua-Jakun.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Benua-Jakun / Benua-Jakun of Johor
+  description: A referenced population; the Berembun tribes are described as living
+    to their north, and the Udai are said to be known to the Benua-Jakun of Johor
+    under another name not preserved in the excerpt.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Berembun or “Birmun” tribes
+  description: Tribes north of the Benua-Jakun whose headquarters are about Gunong
+    Berembun and neighbouring mountains.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Udai
+  description: A tribe occupying the upper reaches of rivers rising in the Berembun
+    mountains.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: reporting source
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the notice of the Berembun tribes to Logan.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: reference population
+  assigned_to:
+  - fig:2
+  basis: The Berembun tribes are located north of the Benua-Jakun, and the Udai are
+    compared with a people known to the Benua-Jakun of Johor.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: mountain-headquartered tribes
+  assigned_to:
+  - fig:3
+  basis: Their headquarters are said to be around Gunong Berembun and neighbouring
+    mountains.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: upper-river occupants
+  assigned_to:
+  - fig:4
+  basis: The Udai are said to occupy the upper reaches of rivers rising in the Berembun
+    mountains.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: tentatively identified people
+  assigned_to:
+  - fig:4
+  basis: The passage says the Udai appear to be the same people known to the Benua-Jakun
+    of Johor under another, omitted name.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: mountain setting
+  literal_form: Gunong Berembun, neighbouring mountains, and the Berembun mountains
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: river upper reaches
+  literal_form: upper reaches of rivers rising in the Berembun mountains
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Berembun tribes located around Gunong Berembun
+  summary: Logan reports tribes north of the Benua-Jakun, called Berembun or “Birmun”
+    because their headquarters are about Gunong Berembun and neighbouring mountains.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Udai occupation of upper river reaches
+  summary: The passage states that the Udai occupy the upper reaches of rivers rising
+    in the Berembun mountains and are tentatively identified with a people known to
+    the Benua-Jakun of Johor.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4159-4163
+  quote_or_summary: Logan mentions tribes north of the Benua-Jakun, called Berembun
+    or “Birmun,” because their headquarters are about Gunong Berembun and neighbouring
+    mountains.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4165-4167
+  quote_or_summary: The upper reaches of rivers rising in the Berembun mountains are
+    occupied by a tribe called Udai.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4169-4172
+  quote_or_summary: The Udai appear to be identified with people known to the Benua-Jakun
+    of Johor, but the passage breaks off before the alternate name is supplied.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4174-4178
+  quote_or_summary: A note states that Gunong Bermun appears identical with Gunong
+    Berembun, situated in Sungei Ujong, and gives coordinates.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a geographic and ethnographic notice rather than a mythic
+    narrative. Mountain and river items are recorded only as literal setting symbols
+    from the available taxonomy; no mythological motif or comparison claim is inferred.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No candidate mythological motifs were extracted from this passage. The supplied excerpt appears to end mid-sentence in the Udai identification.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-pagan-races-malay-peninsula-skeat-blagden-vol1-archive__l4159-l4178
+  passage_sha256=03a17b1308d0b37ad33820fcc50ecc920e5bb4e47f81c84c212864292c1adfe8
+

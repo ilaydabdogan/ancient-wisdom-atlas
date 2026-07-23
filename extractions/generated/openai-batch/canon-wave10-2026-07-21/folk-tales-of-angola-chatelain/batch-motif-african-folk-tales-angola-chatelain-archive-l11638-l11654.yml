@@ -1,0 +1,183 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l11638-l11654
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: NO. XXIX. / NO. XXX. / NO. XXXI. / NO. XXXII.; lines 11638-11654
+  start: '11638'
+  end: '11654'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: It is an excellent symbol for impatience.
+  summary: Editorial notes for No. XXXII identify the dialect and origin as Mbaka,
+    describe the Angolan squirrel, state that it symbolizes impatience, and compare
+    this story with a following counterpart in which Squirrel and Dog each miss the
+    same opportunity for different faults.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the item as No. XXXII and gives Mbaka as its dialect
+    and origin.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The comparative note describes the Angola squirrel as smaller than the comparator
+    squirrel and just as restless.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note states that the Angolan squirrel is an excellent symbol for impatience
+    and gives its scientific and coast-dialect names.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The note states that this story is the counterpart of the following story.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The note states that the Squirrel loses a glorious chance by impatience, while
+    the Dog misses the same golden opportunity by greed.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Numbered notes discuss the expression “lelu a leley,” a pronoun of “ungana,”
+    and identify one item as a proverb.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Angola squirrel / Squirrel
+  description: Described as small and restless; also identified as the story figure
+    who loses a glorious chance by impatience.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Dog
+  description: Figure in the following counterpart story, said to miss the same golden
+    opportunity by greed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: impatient missed-chance figure
+  assigned_to:
+  - fig:1
+  basis: The note says the Squirrel loses his glorious chance by impatience.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: greedy missed-opportunity figure
+  assigned_to:
+  - fig:2
+  basis: The note says the Dog misses the same golden opportunity by greed.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: squirrel as impatience
+  literal_form: Angolan squirrel
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: missed chance through impatience
+  taxonomy_refs: []
+  basis: The editorial comparison states that the Squirrel loses a glorious chance
+    by impatience.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only the comparative note is present; the narrative episode itself is
+    not included in this passage.
+- id: motif:2
+  label: missed opportunity through greed
+  taxonomy_refs: []
+  basis: The editorial comparison states that the Dog misses the same golden opportunity
+    by greed in the following story.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The referenced following story is not included in this passage.
+- id: motif:3
+  label: animal emblem of temperament
+  taxonomy_refs: []
+  basis: The passage explicitly presents the Angolan squirrel as a symbol for impatience.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an editorial symbolic statement rather than a narrated action
+    in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage presents No. XXXII and the following story as counterparts:
+    both concern the same missed golden opportunity, but the Squirrel fails through
+    impatience and the Dog through greed.'
+  claim_level: same_function
+  target: the following Dog story in the same collection
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is based on the editor’s comparative note; the full narratives
+    and episode details are absent from the provided passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 11638-11645
+  quote_or_summary: The passage gives “Dialect and Origin. Mbaka,” describes the Angola
+    squirrel as small and restless, and says it is “an excellent symbol for impatience.”
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt and summary used.
+- id: ev:2
+  type: quote
+  locator: 11646-11649
+  quote_or_summary: "“This story is the counterpart of the following. Here the Squirrel
+    loses his glorious chance by his impatience; there the Dog misses the same golden
+    opportunity by his greed.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 11651-11654
+  quote_or_summary: Notes 555-557 gloss “lelu a leley,” discuss a pronoun of “ungana,”
+    and identify a proverb.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is brief and mostly editorial. Literal extraction is straightforward,
+    but motif identification is limited because the underlying tale episodes are not
+    included.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif or symbol reference was assigned because the supplied taxonomy does not include a directly supported squirrel, impatience, greed, or missed-opportunity category.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l11638-l11654
+  passage_sha256=0008b7b0885ada66819c10485a9d8770c4096b18a00592287cb7e7ff10519584
+

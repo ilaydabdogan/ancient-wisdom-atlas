@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l18075-l18119
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: EIGHTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. / CHAPTER  XXIII.
+    / OF  THE  EMERALDS,  TORQUOISES,  AND  PEARLS.; lines 18075-18119
+  start: '18075'
+  end: '18119'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“The emerald reaches perfection gradually, assuming its green colour little
+    by little, just as fruit ripens on a tree.”"
+  summary: 'The passage first concludes an account of abundant fish in a large lake
+    fed by rivers and streams. It then describes precious stones in Peru in the time
+    of the Kings Yncas: turquoises, emeralds, and crystal. Emeralds are said to come
+    from Manta under Puerto Viejo, though Spaniards have not found the source. The
+    passage compares emeralds from Puerto Viejo with those from the New Kingdom and
+    describes the emerald’s gradual greening, likened to fruit ripening on a tree,
+    beginning on one side, probably the east-facing side.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The opening fragment says two kinds of fish are abundant in a great lake because
+    there is space and food supplied by five large rivers, other smaller rivers, and
+    streams.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage names torquoises, emeralds, and beautiful crystal as precious
+    stones in Peru during the time of the Kings Yncas, and says the crystal was not
+    worked.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Emeralds are said to be found in the province of Manta, within the jurisdiction
+    of Puerto Viejo.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Spaniards are said not to have discovered the place where the emeralds
+    are found, despite diligence.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says emeralds from the New Kingdom lowered the price because they
+    were abundant and several carats smaller than those of Puerto Viejo.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The emerald is described as gradually reaching perfection by taking on green
+    colour little by little, like fruit ripening on a tree.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The greening of the emerald is said to begin on one of its four sides, probably
+    the side turned to the east, and then spread until the whole stone has the same
+    brilliancy.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage says that when the stone is taken from the mine, whether perfect
+    or imperfect, it remains in that state.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Kings Yncas
+  description: Rulers named as the temporal frame for the precious stones in Peru.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Spaniards
+  description: Group said to have used diligence but failed to discover the place
+    where the emeralds are found.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: temporal royal reference
+  assigned_to:
+  - fig:1
+  basis: The passage locates the named precious stones in Peru in the time of the
+    Kings Yncas.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: unsuccessful searchers for emerald source
+  assigned_to:
+  - fig:2
+  basis: The passage says the Spaniards have not been able to discover the place where
+    the emeralds are found.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: water-fed lake abundance
+  literal_form: great lake; five large rivers; smaller rivers; streams
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: turquoise
+  literal_form: torquoises named among precious stones in Peru
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: emerald
+  literal_form: emeralds described as precious stones, found in Manta/Puerto Viejo,
+    green gradually, and taken from mines
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: crystal
+  literal_form: beautiful crystal that the people did not know how to work
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: tree-fruit ripening image
+  literal_form: fruit ripens on a tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: east-facing side
+  literal_form: one of the emerald’s four sides, probably the side turned to the east
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Conclusion of lake and fish account
+  summary: The fragment concludes that fish are abundant in a great lake because rivers
+    and streams bring material for them to eat.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Catalogue of Inca-era precious stones
+  summary: The passage lists torquoises, emeralds, and crystal as precious stones
+    in Peru in the time of the Kings Yncas, noting that the crystal was not worked.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hidden emerald source in Manta and Puerto Viejo
+  summary: Emeralds are placed in Manta under Puerto Viejo, but the Spaniards are
+    said to have failed to find the actual source, and emeralds have become scarce
+    there.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Gradual greening of the emerald
+  summary: The emerald’s colour is described as developing gradually like fruit ripening
+    on a tree, beginning on one side, probably the east-facing side, until the whole
+    stone is brilliant; once mined, its condition remains fixed.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: concealed source of precious stones
+  taxonomy_refs: []
+  basis: The passage says emeralds formerly came from the Manta/Puerto Viejo region,
+    but the Spaniards could not discover the place where they are found.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents this as a geographical and historical report, not
+    as an explicit mythic episode.
+- id: motif:2
+  label: ripening or growing gemstone
+  taxonomy_refs: []
+  basis: The emerald is described as reaching perfection gradually and taking on green
+    colour like fruit ripening on a tree, beginning on one side and spreading through
+    the stone.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is framed as a natural-historical explanation and simile; no divine
+    agency or ritual context is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18075-18084
+  quote_or_summary: Two kinds of fish are abundant in a great lake because rivers
+    and streams bring ample material for them to eat.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 18089-18093
+  quote_or_summary: "“The precious stones in Peru, in the time of the Kings Yncas,
+    were torquoises and emeralds, and much very beautiful crystal, though they knew
+    not how to work it.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 18094-18101
+  quote_or_summary: Emeralds are said to be found in Manta within the jurisdiction
+    of Puerto Viejo, but the Spaniards have not discovered the place where they are
+    found, and they are now scarce in that province.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 18102-18108
+  quote_or_summary: Emeralds from the New Kingdom lowered the price because they were
+    abundant and smaller than those of Puerto Viejo.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: quote
+  locator: lines 18108-18117
+  quote_or_summary: "“The emerald reaches perfection gradually, assuming its green
+    colour little by little, just as fruit ripens on a tree”; the colour begins on
+    one of four sides, probably the east-facing side, and then spreads."
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt and summary from provided passage.
+- id: ev:6
+  type: quote
+  locator: lines 18117-18119
+  quote_or_summary: "“But as the stone is taken from the mine, perfect or imperfect,
+    so it remains.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward. Candidate motifs are limited because
+    the passage is mainly descriptive and natural-historical rather than narrative
+    myth. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy symbol refs were applied only to literal water and tree imagery present in the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l18075-l18119
+  passage_sha256=035dbc762a82eaf20857c8fe87ab24305500c2d6d607bb5e3cfcaba820829062
+

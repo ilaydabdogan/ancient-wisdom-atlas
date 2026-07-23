@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l2315-l2402
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: CHAPTER  III. / THE   ANDIAL    LIFE    OF   MADAGASCAE. / FA  UNA.  39 /
+    RING-TAILED  LEMUR.  41; lines 2315-2402
+  start: '2315'
+  end: '2402'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A natural-history passage describes the appearance, tameness, movement,
+    diet, habitats, species differences, geographic distribution, and anatomical distinctiveness
+    of lemurs associated with Madagascar and related regions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Lemurs are described as having varied coloration and hair forms, including
+    facial hair resembling white whiskers and a black-and-white banded bushy tail
+    that may coil around the neck in repose.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Lemurs are described as gentle, affectionate, easily tamed, and frequently
+    kept as pets in Madagascar, secured by a long cord to a verandah post.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Lemurs are described as highly agile animals that leap from branch to branch,
+    with woods frequented by them filled with rapid movements and cries.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: True lemurs are mostly fruit-eaters, but are said sometimes to eat smaller
+    woodland animals such as lizards, small birds, and insects; most are diurnal,
+    though some are chiefly nocturnal.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The ring-tailed lemur is described as living among rocks rather than forests,
+    with hands adapted to firm footing on wet slippery rocks, and is characterized
+    as non-arboreal.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The ring-tailed lemur is said to feed chiefly in winter on prickly-pear fruit,
+    not to drink water, and to defend itself spiritedly if attacked.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The broad-nosed lemur is said to subsist on young bamboo shoots and grass.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The brown-mouse lemur hibernates, making a nest of leaves or dry grass in
+    hollow trees for winter sleep.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The dwarf lemur lives on the tops of the highest trees, makes a bird-like
+    nest, eats fruit and insects and probably honey, and is described as pugnacious.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Madagascar is described as the headquarters of the Lemuridae, with two large
+    sub-families belonging exclusively to the island, while allied forms occur in
+    India, China, Borneo, Java, Ceylon, West Africa, and central Africa.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: M. Grandidier is reported as noting embryological and anatomical features
+    that distinguish several lemur genera from other quadrumana.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Lemurs / true lemurs
+  description: General lemur group described as varied in appearance, tameable, agile,
+    mostly fruit-eating, and often arboreal.
+  role_refs:
+  - role:1
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:2
+  name_or_label: Ring-tailed lemur
+  description: A lemur species described as rock-dwelling, non-arboreal, adapted to
+    wet slippery rocks, feeding on prickly-pear fruit, and defending itself when attacked.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Broad-nosed lemur
+  description: A species said to feed on young bamboo shoots and grass.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Brown-mouse lemur
+  description: A small brown-and-white lemur with large brilliant eyes that hibernates
+    in a nest made in hollow trees.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Dwarf lemur
+  description: The smallest described lemur, living in the tops of the highest trees,
+    making a bird-like nest, feeding on fruit, insects, and probably honey, and described
+    as pugnacious.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Allied lemur forms outside Madagascar
+  description: Slow lemurs, loris, potto, angwantibo, and galagos are described as
+    allied forms found in regions outside Madagascar.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: tameable pet animal
+  assigned_to:
+  - fig:1
+  basis: The passage says lemurs are gentle, affectionate, easily tamed, and frequently
+    kept as pets in Madagascar.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: arboreal leaper or tree-dweller
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: General lemurs are described leaping from branch to branch, and the dwarf
+    lemur lives on the tops of the highest trees.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: rock-dwelling non-arboreal lemur
+  assigned_to:
+  - fig:2
+  basis: The ring-tailed lemur is said not to live in forests but among rocks, with
+    anatomical traits suited to wet slippery rocks.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: specialized plant and insect feeder
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The broad-nosed lemur is said to feed on bamboo shoots and grass; the dwarf
+    lemur eats fruit and insects and probably honey.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: hibernating nest-maker
+  assigned_to:
+  - fig:4
+  basis: The brown-mouse lemur is described as hibernating in a nest of leaves or
+    dry grass in hollow trees.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: geographically dispersed allied forms
+  assigned_to:
+  - fig:6
+  basis: The passage lists lemur-allied animals in Asia, West Africa, and central
+    Africa outside Madagascar.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: anatomically distinct group
+  assigned_to:
+  - fig:1
+  basis: Several genera of lemurs are described as having embryological and anatomical
+    features distinct from other quadrumana.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: tree habitat
+  literal_form: trees, branches, hollow trees, and tops of the highest trees
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: rock habitat
+  literal_form: rocks and wet slippery rocks
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: water as environmental feature and non-drink
+  literal_form: wet slippery rocks and statement that the ring-tailed lemur is said
+    not to drink water
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: nest
+  literal_form: nest of leaves or dry grass in hollow trees; bird-like nest
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: General lemur appearance and behavior
+  summary: The passage describes varied physical appearances among lemurs, their tameness
+    as pets, and their agile leaping and vocal activity in woods.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Diet and daily habits of true lemurs
+  summary: True lemurs are described as mostly fruit-eating, sometimes eating small
+    animals, and varying between diurnal and nocturnal habits.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ring-tailed lemur among rocks
+  summary: The ring-tailed lemur is described as living among rocks, having hands
+    suited to wet slippery surfaces, feeding on prickly pear, avoiding water-drinking,
+    and defending itself when attacked.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Other lemur species and nesting habits
+  summary: The broad-nosed lemur, brown-mouse lemur, and dwarf lemur are described
+    through their foods, hibernation or nesting behavior, habitats, and temperament.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Lemur distribution and classification
+  summary: Madagascar is presented as the chief center of lemurs, while allied forms
+    are listed in Asia and Africa; the passage also notes distinctive embryological
+    and anatomical features.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2315-2328
+  quote_or_summary: The passage describes lemur coloration and hair forms, a black-and-white
+    banded tail, tameness as pets, and agile leaping with cries in woods.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2329-2335
+  quote_or_summary: The true lemurs are described as mostly fruit-eaters, sometimes
+    eating small animals, with most species diurnal and some chiefly nocturnal.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 2336-2351
+  quote_or_summary: The ring-tailed lemur is described as rock-dwelling rather than
+    forest-dwelling, adapted to wet slippery rocks, non-arboreal, eating prickly-pear
+    fruit, not drinking water, and defending itself when attacked.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2352-2362
+  quote_or_summary: The broad-nosed lemur is said to eat bamboo shoots and grass;
+    the brown-mouse lemur hibernates in a nest of leaves or dry grass in hollow trees
+    and is described physically.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2363-2371
+  quote_or_summary: The dwarf lemur is described as living on the tops of the highest
+    trees, making a bird-like nest, eating fruit, insects, and probably honey, and
+    being pugnacious; the author cites Shaw's notes.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 2372-2392
+  quote_or_summary: Madagascar is called the headquarters of Lemuridae, with two large
+    sub-families exclusive to the island; allied forms are listed in India, China,
+    Borneo, Java, Ceylon, West Africa, and central Africa, and their distribution
+    is called extraordinary.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 2393-2402
+  quote_or_summary: M. Grandidier is reported as pointing out embryological and anatomical
+    features that make several lemur genera distinct from other quadrumana; the passage
+    ends mid-discussion.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is zoological natural history rather than mythic narrative. Literal
+    figures, settings, and recurring natural objects are extractable, but no passage-supported
+    mythic motif candidate or comparative mythology claim is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No mythological narrative, ritual action, or explicit comparative motif claim is present in the supplied passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l2315-l2402
+  passage_sha256=a2c579825ca3ada0324e293631ea54d53c2d19aa9eef1e39f9837ffb2c9fb3a8
+

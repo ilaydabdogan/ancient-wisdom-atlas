@@ -1,0 +1,509 @@
+---
+record_id: batch.motif.native-american-fox-texts-jones-archive-l7925-l8076
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+passage_locator:
+  label: AND FOR THAT REASON DROWNS HER DAUGHTER.1 / THUS OBTAIN CRAWFISHES TO EAT.1
+    / CEASED FROM HER EVIL CONDUCT.1 / AND DREAMS.; lines 7925-8076
+  start: '7925'
+  end: '8076'
+  translation: Fox Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A woman called Doe-Fawn verifies Turtle's sacred bundle, lies with him
+    using the bundle as a pillow, exhausts him, replaces herself with a decayed ant-filled
+    log while he sleeps, and leaves with the bundle. Turtle wakes, discovers the substitution
+    and theft, returns home, then searches among manitous, including a great manitou
+    said to know everything; none knows Doe-Fawn.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The woman feels the sacred bundle with her hand and says Turtle was telling
+    the truth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman says she is called Doe-Fawn by her uncles and aunts when they tease
+    her.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Turtle and Doe-Fawn lie down with the sacred bundle placed under their heads
+    as a pillow.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Turtle and Doe-Fawn have repeated sexual intercourse; Doe-Fawn discourages
+    Turtle from resting or telling stories.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Turtle falls asleep and does not wake when Doe-Fawn shakes him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Doe-Fawn finds a decayed log alive with ants and places it where Turtle is
+    lying.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Doe-Fawn takes the sacred bundle and leaves.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Turtle wakes, touches what he expects to be Doe-Fawn, finds a chunk of wood,
+    and sees that Doe-Fawn and the sacred bundle are gone.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Turtle's brother asks where the thing Turtle had carried off has gone.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Turtle says a woman has hidden the sacred bundle from him and that he will
+    bring both it and her back.
+  category: speech
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:11
+  text: Turtle puts tobacco into the pouch that holds his pipe before leaving the
+    lodge to visit manitou dwellings.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Turtle asks several manitous about Doe-Fawn and says she took his sacred bundle;
+    they deny knowing anyone by that name.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:13
+  text: One manitou directs Turtle to a great manitou described as knowing everything
+    and having created them all.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:14
+  text: During the search Turtle becomes very thin because he has not eaten for a
+    long time.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:15
+  text: The great manitou also denies knowing anyone named Doe-Fawn and says he knows
+    all the manitous.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Turtle / Mischievous
+  description: Male figure called Turtle and addressed by his brother as Mischievous;
+    he carries or claims the sacred bundle, lies with Doe-Fawn, loses the bundle,
+    and searches for it.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Doe-Fawn / the woman
+  description: A very beautiful woman who gives the name Doe-Fawn, lies with Turtle,
+    places a decayed log beside him, and leaves with the sacred bundle.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Turtle's brother
+  description: Turtle's brother questions him about the thing he had carried off and
+    whether he threw it away.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Unnamed manitous
+  description: Manitous dwelling in separate dwellings whom Turtle asks about Doe-Fawn;
+    they deny knowing her, and one directs him to the great manitou.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: Great manitou
+  description: A great manitou described by another manitou as knowing everything
+    and creating all of them; he denies knowing anyone named Doe-Fawn.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: sexual partners
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Turtle and Doe-Fawn lie together and have repeated sexual intercourse.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: carrier and claimant of the sacred bundle
+  assigned_to:
+  - fig:1
+  basis: Turtle is asked about the thing he carried off and later calls it his sacred
+    bundle.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:3
+  label: taker of the sacred bundle
+  assigned_to:
+  - fig:2
+  basis: Doe-Fawn takes up the sacred bundle and goes away while Turtle sleeps.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: searcher for Doe-Fawn and the bundle
+  assigned_to:
+  - fig:1
+  basis: Turtle says he will hunt for the bundle and visits manitou dwellings asking
+    about Doe-Fawn.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+- id: role:5
+  label: questioned manitou informants
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Turtle asks manitous, including the great manitou, whether they know Doe-Fawn;
+    they deny knowledge.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+- id: role:6
+  label: questioning brother
+  assigned_to:
+  - fig:3
+  basis: The brother asks Turtle where the object he carried off has gone.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: creator and all-knowing manitou as reported by another manitou
+  assigned_to:
+  - fig:5
+  basis: An unnamed manitou says the great manitou knows everything and created them
+    all.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: sacred bundle
+  literal_form: A sacred bundle handled by Doe-Fawn, used as a pillow, taken by Doe-Fawn,
+    and sought by Turtle.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:8
+- id: sym:2
+  label: decayed ant-filled log
+  literal_form: A fallen log, decayed and alive with ants, placed where Turtle lies;
+    Turtle later sees it as a chunk of wood.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: tobacco and pipe pouch
+  literal_form: Tobacco put into the pouch that held Turtle's pipe before he leaves
+    the lodge.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: manitou dwellings
+  literal_form: Dwellings inhabited by manitous that Turtle enters while searching
+    for Doe-Fawn.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Doe-Fawn verifies the bundle and names herself
+  summary: The woman, described as very beautiful, feels the sacred bundle, says Turtle
+    told the truth, and gives the name Doe-Fawn.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The bundle used as pillow during intimacy
+  summary: Turtle and Doe-Fawn lie down with the sacred bundle as a pillow and engage
+    in repeated sexual intercourse while Doe-Fawn keeps him from turning to stories
+    or rest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Doe-Fawn substitutes a log and leaves with the bundle
+  summary: After Turtle falls asleep, Doe-Fawn brings a decayed ant-filled log, places
+    it where he lies, takes the sacred bundle, and departs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Turtle discovers the substitution and reports the loss
+  summary: Turtle wakes, finds a chunk of wood instead of Doe-Fawn, notices that Doe-Fawn
+    and the bundle are gone, returns home, and answers his brother's questions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Turtle searches among the manitous
+  summary: Turtle prepares tobacco, visits manitou dwellings, asks after Doe-Fawn
+    and the bundle, is denied knowledge by several manitous, and finally receives
+    the same denial from the great manitou.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: theft of a sacred object after intimacy
+  taxonomy_refs:
+  - sacred_theft
+  basis: Doe-Fawn waits until Turtle is asleep, replaces herself with a decayed log,
+    and leaves with the sacred bundle.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage calls the object a sacred bundle but does not explain its
+    ritual contents or full significance.
+- id: motif:2
+  label: deceptive substitution in the bed
+  taxonomy_refs: []
+  basis: Doe-Fawn places a decayed ant-filled log where Turtle lies; when Turtle wakes,
+    he mistakes the situation until he sees a chunk of wood and realizes she is gone.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents the substitution literally but does not give an explicit
+    interpretive label for it.
+- id: motif:3
+  label: search for a stolen sacred object through spirit dwellings
+  taxonomy_refs:
+  - mystical_quest
+  basis: Turtle says he will hunt for the sacred bundle and questions multiple manitous,
+    including a great manitou, about Doe-Fawn.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The search is through manitou dwellings, but the passage segment ends
+    before any recovery or completion of a quest.
+- id: motif:4
+  label: unknown woman beyond the knowledge of manitous
+  taxonomy_refs: []
+  basis: Several manitous and the great manitou deny knowing anyone named Doe-Fawn,
+    even though the great manitou is described as knowing everything and having created
+    them all.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage does not reveal Doe-Fawn's identity or explain why the manitous
+    do not know her.
+- id: motif:5
+  label: trickster-like loss caused by desire
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Turtle, called Mischievous by his brother, is distracted and exhausted by
+    repeated sexual intercourse, falls asleep, and loses the sacred bundle to Doe-Fawn.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: low
+  cautions: The available passage supports deception and loss, but it does not explicitly
+    identify Turtle or Doe-Fawn as a trickster figure in this segment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7925-7938
+  quote_or_summary: The woman is described as very beautiful, feels the sacred bundle,
+    says Turtle told the truth, and gives her name as Doe-Fawn.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 7944-7953
+  quote_or_summary: Turtle and Doe-Fawn make a place to lie down; the sacred bundle
+    is placed under their heads as a pillow, and their sexual encounter begins.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 7954-7983
+  quote_or_summary: Turtle repeatedly tries to rest or tell stories, while Doe-Fawn
+    urges continued sexual activity and blocks his attempts to speak.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 7984-8002
+  quote_or_summary: Turtle finally falls asleep; Doe-Fawn cannot wake him, finds a
+    decayed log alive with ants, places it beside him, takes the sacred bundle, and
+    leaves.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 8003-8012
+  quote_or_summary: Turtle wakes, reaches for Doe-Fawn, encounters a strange body,
+    sees a chunk of wood, and realizes both the woman and the sacred bundle are gone.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: lines 8013-8022
+  quote_or_summary: Turtle calls for Doe-Fawn, returns home, and his brother asks
+    where the thing he carried off has gone; Turtle says he will find and bring it
+    back.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: lines 8023-8034
+  quote_or_summary: Turtle says a woman has hidden the object from him, puts tobacco
+    into the pouch holding his pipe, leaves the lodge, and asks a manitou about Little
+    Doe-Fawn; the manitou denies knowing her.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:8
+  type: summary
+  locator: lines 8035-8053
+  quote_or_summary: Turtle visits further manitou dwellings and says Doe-Fawn took
+    his sacred bundle; the manitous deny knowing anyone by that name.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:9
+  type: summary
+  locator: lines 8054-8068
+  quote_or_summary: One manitou says a great manitou may know because he knows everything
+    and created them all; Turtle, now thin from not eating, goes to the great manitou.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:10
+  type: summary
+  locator: lines 8069-8076
+  quote_or_summary: Turtle asks the great manitou about Doe-Fawn and the bundle; the
+    great manitou denies knowing her and says he knows all the manitous but none with
+    that name.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels involving
+    taxonomy are cautious; no external comparative claims were made. Untranslated
+    or transcribed fragments in the passage were not interpreted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were extracted because the passage itself does not make an explicit cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-fox-texts-jones-archive__l7925-l8076
+  passage_sha256=15075f6173417ec5cfec338d44f0785e10d3a12959d2f447c168e51ae0a23410
+

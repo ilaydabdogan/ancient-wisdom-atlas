@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l740-l790
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  III. / FIFTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS.
+    / FIFTH  BOOK  OF  THE  ROYAL; lines 740-790
+  start: '740'
+  end: '790'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes agricultural manuring on the Peruvian coast, including
+    bird manure and the use of small fish heads in fields in several named hoyas.
+    It emphasizes difficulty of sustenance because of lack of irrigation water, rain,
+    and rivers, while the editorial footnote corrects the geography and describes
+    rivers, fertile valleys, desert stretches, wells, oasis-like places, huacas, and
+    crops or reeds at Villa-ccuri, Mala, and Chilca.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bird manure is described as very fertilising.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the hoyas of Atico, Atequipa, Villa-ccuri, Mala, and Chilca, fields are
+    said to have been manured with heads of small fish.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The people of the named valleys are described as obtaining sustenance with
+    difficulty because they lack irrigation water from springs or rains.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The main text states that it never rains and that no rivers flow in the coast
+    region for seven hundred leagues.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The editorial footnote says the main text makes a geographical error, stating
+    that the desert coast of Peru is crossed by many rivers from the Andes and has
+    fertile valleys where rivers occur, with sandy desert between them.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Villa-ccuri is described in the footnote as a desert location with a ruined
+    soap hacienda, a large date-palm grove, wells, and nearby huacas where gold ornaments
+    had been dug up.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Mala is described as a rich valley watered by a river, with oranges, vines,
+    bananas, and cattle pasture grounds.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Chilca is described as dependent on wells, forming a small oasis in sandy
+    wilderness; former maize holes are said to be used for reeds, with palm trees
+    and figs on sand hills.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: people of the coastal valleys
+  description: The people of the valleys of Atico, Atequipa, Villa-ccuri, Mala, and
+    Chilca are described as manuring fields with small fish heads and obtaining sustenance
+    with difficulty because of water scarcity.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: coastal field cultivators
+  assigned_to:
+  - fig:1
+  basis: They are associated with manuring fields with heads of small fish.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: water-scarce inhabitants
+  assigned_to:
+  - fig:1
+  basis: They are said to have difficulty obtaining sustenance because they lack irrigation
+    water from springs or rains.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: bird manure fertilizer
+  literal_form: bird manure
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fish heads used as manure
+  literal_form: heads of small fish
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: water as irrigation resource
+  literal_form: water from springs, rains, rivers, and wells
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: desert oasis landscape
+  literal_form: sandy desert or wilderness with wells, valleys, palms, figs, and cultivated
+    holes
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Manuring fields in arid coastal hoyas
+  summary: 'The passage describes coastal agricultural practice: bird manure is fertile,
+    and in several named hoyas the fields are manured with small fish heads while
+    inhabitants struggle with lack of irrigation water.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Editorial correction and examples of coastal valleys and oases
+  summary: The footnote corrects the main text's claim about rivers on the coast and
+    gives examples of desert stretches, fertile river valleys, wells, huacas, orchards,
+    palms, figs, reeds, and oasis-like settlements.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: animal-derived field fertilization
+  taxonomy_refs: []
+  basis: The passage presents bird manure as fertilising and describes fields manured
+    with heads of small fish.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a practical agrarian pattern in the passage, not explicitly a
+    mythic or ritual motif and not matched to the supplied motif-family taxonomy.
+- id: motif:2
+  label: water scarcity and oasis cultivation
+  taxonomy_refs: []
+  basis: The passage emphasizes lack of water, rain, and rivers in the main text,
+    while the footnote describes rivers, wells, fertile valleys, and Chilca as a small
+    oasis in sandy wilderness.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage supports this as a geographical and subsistence pattern; it
+    does not present a sacred-water myth or an afterlife/cosmic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 740-743
+  quote_or_summary: The passage says bird manure is very fertilising.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 744-751
+  quote_or_summary: The main text names the hoyas of Atico, Atequipa, Villa-ccuri,
+    Mala, and Chilca; says fields there were manured with small fish heads; and states
+    that people lacked irrigation water, rain, and rivers along the coast.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 754-763
+  quote_or_summary: The footnote corrects the claim about rivers, saying the Peruvian
+    desert coast is crossed by many rivers from the Andes, with fertile valleys where
+    rivers occur and sandy desert between them.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 764-773
+  quote_or_summary: The footnote describes Villa-ccuri as in the desert, with a ruined
+    soap hacienda, date palms, wells, and nearby huacas where gold ornaments had been
+    dug up.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 774-781
+  quote_or_summary: The footnote describes Mala as a rich river-watered valley with
+    oranges, vines, bananas, and cattle pasture grounds, and mentions a historical
+    meeting there.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: summary
+  locator: lines 782-790
+  quote_or_summary: The footnote describes Chilca as near the sea coast, dependent
+    on wells, a small oasis in sandy wilderness, with former maize holes used for
+    reeds and with palms and figs on sand hills.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is agrarian and geographical rather than mythic. No comparison claims
+    were generated because the passage does not itself support a comparative mythological
+    claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Objects and places in the symbols array are recorded as salient literal images from the passage, not as claims of sacred or mythological symbolism.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l740-l790
+  passage_sha256=d5a4072270b1d676db321a4a3bd87b6974dfe4b8b7c1361d5b17d4d0516796f3
+

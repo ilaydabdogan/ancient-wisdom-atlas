@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l9037-l9089
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: FOUNDATION. / UNUUNU    TAI. / PAPA. / FIRST   OFFSHOOT.; lines 9037-9089
+  start: '9037'
+  end: '9089'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: |-
+    I go far away, mother,
+    Chorus.
+
+    By a perilous path to spirit-land.
+  summary: A song segment places Vera's home toward the setting sun, mentions rest
+    at the Red-Cave, describes Tueva mourning while encircled with red leaves, names
+    the death-flail of Mueu, and speaks of following or departing by a perilous path
+    to spirit-land.
+  language: Mangaian with English translation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says Vera has a home toward the setting sun and abundant food.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: A chorus line refers to resting in the Red-Cave by the way.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Tueva is described as encircled with red leaves and mourning.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says the death-flail of Mueu is beating.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Speakers or mourners say they weep and follow beloved Vera.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A speaker says they go far away, addressing mother, by a perilous path to
+    spirit-land.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Vera
+  description: Named as beloved Vera; associated with a home and plenty of food toward
+    the setting sun.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Tueva
+  description: Named figure encircled with red leaves and mourning.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Mueu
+  description: Named in connection with a beating death-flail.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: mother
+  description: A figure addressed by the departing speaker as mother.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: departing speaker or mourners
+  description: Voice that says it weeps, follows Vera, and goes far away by a perilous
+    path to spirit-land.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: beloved figure with distant home
+  assigned_to:
+  - fig:1
+  basis: Vera is called beloved and is said to have a home toward the setting sun
+    with food in plenty.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: mourning figure
+  assigned_to:
+  - fig:2
+  basis: Tueva is explicitly described as mourning.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: figure associated with death-flail
+  assigned_to:
+  - fig:3
+  basis: Mueu is named in the phrase about the beating death-flail.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: addressed mother
+  assigned_to:
+  - fig:4
+  basis: The departing voice addresses 'mother'.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: weeping follower and departing voice
+  assigned_to:
+  - fig:5
+  basis: The voice says it weeps, follows Vera, and goes far away by a perilous path
+    to spirit-land.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Red-Cave
+  literal_form: Red-Cave by the way
+  associated_figures: []
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: setting sun
+  literal_form: towards the setting sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: red leaves
+  literal_form: red leaves encircling Tueva
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: death-flail
+  literal_form: death-flail of Mueu
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: perilous path to spirit-land
+  literal_form: perilous path to spirit-land
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Rest at the Red-Cave
+  summary: The chorus names a rest at the Red-Cave by the way.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Vera's distant home
+  summary: Vera's home is placed toward the setting sun and described as having plentiful
+    food.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Mourning for Vera
+  summary: Tueva mourns while encircled with red leaves; mourners weep and follow
+    beloved Vera; the death-flail of Mueu beats.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Departure to spirit-land
+  summary: The departing voice addresses mother and says it goes far away by a perilous
+    path to spirit-land.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: journey by a perilous path to spirit-land
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage explicitly names a perilous path to spirit-land and frames it
+    as a far-away departure.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The short excerpt does not give a full map or sequence of afterlife stations.
+- id: motif:2
+  label: departure from home or kin toward spirit-land
+  taxonomy_refs:
+  - departure
+  basis: The speaker says 'I go far away, mother' and the chorus identifies the route
+    as a perilous path to spirit-land.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not identify the speaker's status or the full narrative
+    context of the departure.
+- id: motif:3
+  label: mourning and following a beloved dead figure
+  taxonomy_refs: []
+  basis: The passage describes Tueva mourning, a death-flail beating, and mourners
+    weeping as they follow beloved Vera.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage implies a death context but does not state all narrative details
+    in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9037-9089, chorus translation
+  quote_or_summary: '"Resting in the Red-Cave by the way."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 9037-9089, First Offshoot translation
+  quote_or_summary: Vera's home is said to be toward the setting sun, with a home
+    and food in plenty.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 9037-9089, First Offshoot translation
+  quote_or_summary: '"Tueva, encircled with red leaves, is mourning."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 9037-9089, First Offshoot translation
+  quote_or_summary: '"Alas! the death-flail of Mueu is beating."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 9037-9089, First Offshoot translation
+  quote_or_summary: '"Weeping, we follow thee, beloved Vera."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 9037-9089, First Offshoot translation, solo and chorus
+  quote_or_summary: '"I go far away, mother"; "By a perilous path to spirit-land."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied English translation.
+    Motif labeling is limited by the short, song-fragment context. No comparison claims
+    are made because the passage itself does not explicitly compare traditions or
+    motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to supplied available taxonomy refs.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l9037-l9089
+  passage_sha256=48e1ac28e49dace84b01181f03295a6bcd6dc27f147811e977015bd3f2c276f7
+

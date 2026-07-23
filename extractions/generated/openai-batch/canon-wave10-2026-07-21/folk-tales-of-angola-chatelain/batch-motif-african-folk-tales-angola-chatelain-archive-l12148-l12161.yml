@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l12148-l12161
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: NO. XLV. / NO. XLVI. / NO. XLVII. / NO. XLVIII.; lines 12148-12161
+  start: '12148'
+  end: '12161'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“In native parlance it is said, in such a case, that God is the judge.”"
+  summary: 'An editorial comparative note classifies the present case as similar to
+    judicial tale pieces: two parties make contrary claims, test those claims in practice,
+    and the outcome decides which party is justified or condemned. The note says that,
+    in native parlance, God is the judge. A separate lexical note explains phrases
+    translated as “able builder” and “hasty builder.”'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is an editorial comparative note for No. XLVIII, identified as
+    Mbaka in dialect and origin.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says some maka lack an apparent court, judge, or umpire but are nevertheless
+    of the same nature as regular judicial pieces.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the present case, two parties make contrary assertions and try to prove
+    them by putting them into practice.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The result decides the question in favor of one party and against the other.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note states that one party wins and is justified, while the other loses
+    and is condemned.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says that native parlance describes such a case by saying that
+    God is the judge.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A lexical note glosses “Builder of ability” as “able builder” and “builder
+    of haste” as “hasty builder.”
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: first party
+  description: One of two parties making contrary assertions; the outcome favors and
+    justifies one party.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: second party
+  description: One of two parties making contrary assertions; the outcome goes against
+    and condemns one party.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: God
+  description: Named in native parlance as the judge in such a case.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: justified winner
+  assigned_to:
+  - fig:1
+  basis: The passage states that one party wins and is justified after the result
+    decides the question.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: condemned loser
+  assigned_to:
+  - fig:2
+  basis: The passage states that the other party loses and is condemned after the
+    result decides the question.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: judge in native parlance
+  assigned_to:
+  - fig:3
+  basis: The passage says that, in native parlance, God is the judge in such a case.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Contrary assertions tested in practice
+  summary: Two parties make opposing claims and attempt to prove them by putting the
+    claims into practice; the result decides the dispute.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Outcome as judgment
+  summary: The result favors one party and condemns the other; the passage describes
+    this kind of decision as one in which God is the judge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment through outcome of a practical test
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage describes a dispute where opposing assertions are tested in practice,
+    the outcome decides who is justified or condemned, and native parlance says God
+    is the judge.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is an editorial comparative note rather than the full narrative
+    episode; the exact actions used to test the assertions are not provided in this
+    excerpt.
+- id: motif:2
+  label: Judicial contest without an apparent court
+  taxonomy_refs: []
+  basis: The note says some maka, including the present case, have no apparent court,
+    judge, or umpire but still function like regular judicial pieces.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: No formal taxonomy reference is supplied for this motif, and the passage
+    gives only a generalized description.
+comparison_claims:
+- id: claim:1
+  claim: The present case is explicitly compared to regular judicial pieces, despite
+    lacking an apparent court, judge, or umpire.
+  claim_level: same_function
+  target: regular judicial pieces within the same corpus
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is editorial and functional; the excerpt does not provide
+    the full narrative structure of the present case.
+- id: claim:2
+  claim: The passage links the present case with No. XLII as another example of maka
+    with a judicial character.
+  claim_level: same_function
+  target: No. XLII in the same collection
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt mentions No. XLII but does not reproduce its content, so
+    the specific points of similarity cannot be independently assessed from this passage
+    alone.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12148-12151
+  quote_or_summary: "“NO. XLVIII. Dialect and Origin. Mbaka.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 12152-12155
+  quote_or_summary: "“some of the maka, though there is no apparent court, and judge
+    or umpire, still are of the same nature as the regular judicial pieces.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 12155-12158
+  quote_or_summary: In the present case, two parties make contrary assertions and
+    try to prove them by putting them in practice; the result decides the question.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 12158-12159
+  quote_or_summary: "“One wins, the other loses; one is justified, the other is condemned.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: quote
+  locator: lines 12159-12160
+  quote_or_summary: "“God is the judge.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: line 12161
+  quote_or_summary: The note glosses “Builder of ability” as “able builder” and “builder
+    of haste” as “hasty builder.”
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized with brief quoted phrases.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage clearly states a judicial-test pattern and an internal comparison,
+    but it is a brief editorial note rather than the full tale narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata; no external tale details or taxonomy IDs beyond the provided list were added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l12148-l12161
+  passage_sha256=bc83f6ef65b548cea0b89f507ef5ddb4104d0be737d88bee24d9651b9ff77bc7
+

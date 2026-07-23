@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.arctic-inuit-tales-and-traditions-of-the-eskimo-rink-archive-l3270-l3296
+source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+passage_locator:
+  label: TRADITIONAL  TALES,  SCIENCE,  AND  ARTS.  65 / A NITH-SONG  OF  KUKOOK,
+    / A SONG  FRON  SANERUT. / A SONG  FROM  ARSUT.; lines 3270-3296
+  start: '3270'
+  end: '3296'
+  translation: Tales and Traditions of the Eskimo
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Two South Greenland song excerpts describe looking toward named southern
+    places and mountains. The Sanerut song describes Nunarsuit, its cloud-wrapped
+    southern mountaintops, its southward slope toward Usuarsuk, and surrounding ice
+    that delays travel until late spring. The Arsut song describes beholding and contemplating
+    the great Koonak mount to the south and a shining brightness or possible clouds
+    there.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Sanerut song speaker says they behold the land of Nunarsuit.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nunarsuit's southern mountaintops are described as wrapped in clouds.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Nunarsuit is described as sloping southward toward Usuarsuk.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The surroundings are described as shrouded with ice.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: People from that place are said to be unable to travel until late in spring.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Arsut song speaker says they behold and regard the great Koonak mount
+    to the south.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Arsut song speaker says they contemplate a shining brightness, glossed
+    in the text as possibly clouds, to the south.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Sanerut song speaker
+  description: First-person voice who beholds the land of Nunarsuit and comments on
+    its conditions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: People from Nunarsuit or the ice-shrouded place
+  description: People who can travel only late in spring because of surrounding ice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Arsut song speaker
+  description: First-person voice who beholds, regards, and contemplates the southern
+    Koonak mount and shining brightness or clouds.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: landscape observer
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Both song speakers describe seeing or contemplating distant southern landforms
+    or atmospheric features.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: seasonally delayed travelers
+  assigned_to:
+  - fig:2
+  basis: The passage says people from the ice-shrouded place can travel only late
+    in spring.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: cloud-wrapped southern mountaintops
+  literal_form: mountaintops wrapped in clouds on Nunarsuit's south side
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: surrounding ice
+  literal_form: surroundings shrouded with ice
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: great Koonak mount
+  literal_form: the great Koonak mount yonder south
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: shining brightness or clouds
+  literal_form: shining brightness, with parenthetical uncertainty 'clouds ?'
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Sanerut song view of Nunarsuit
+  summary: A speaker looks toward Nunarsuit, describes cloud-wrapped southern mountaintops,
+    a southward slope toward Usuarsuk, and surrounding ice that delays travel until
+    late spring.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Arsut song view of Koonak mount
+  summary: A speaker looks south toward the great Koonak mount and contemplates a
+    shining brightness or possible clouds.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: seasonally restricted travel by ice
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage links surrounding ice with travel becoming possible only late
+    in spring.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a brief song excerpt describing practical seasonal conditions
+    rather than a developed mythic narrative.
+- id: motif:2
+  label: distant mountain contemplation
+  taxonomy_refs: []
+  basis: Both excerpts emphasize a first-person speaker beholding or contemplating
+    southern mountains or mountaintops.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: No explicit mythic action or named supernatural figure is present in the
+    supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3270-3277
+  quote_or_summary: '"I behold yon land of Nunarsuit"; its south-side mountaintops
+    are "wrapped in clouds."'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: lines 3277-3279
+  quote_or_summary: Nunarsuit "slopes towards the south" and "towards Usuarsuk."
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 3280-3287
+  quote_or_summary: The place is called "miserable"; its surroundings are "shrouded
+    with ice," and only "late in the spring" can people from there travel.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: quote
+  locator: lines 3290-3294
+  quote_or_summary: '"The great Koonak mount yonder south" is beheld and regarded
+    by the speaker.'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: quote
+  locator: lines 3294-3296
+  quote_or_summary: The speaker contemplates "the shining brightness (clouds ?) yonder
+    south."
+  source_text_path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal landscape and seasonal details are clear, but motif identification
+    is limited because the passage is a short song excerpt with little narrative development.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a comparison beyond the local landscape and seasonal-travel pattern.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:arctic-inuit-tales-and-traditions-of-the-eskimo-rink-archive__l3270-l3296
+  passage_sha256=d38927a5068e475eb501eb31ff632c4360ef2864fade5abcacc63bf093a9a22f
+

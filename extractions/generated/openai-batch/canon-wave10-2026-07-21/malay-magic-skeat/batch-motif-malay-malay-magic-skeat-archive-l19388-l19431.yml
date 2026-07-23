@@ -1,0 +1,447 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l19388-l19431
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: SPECIAL  MEDICINES / BIRTH  CEREMONIES / INFRINGEMENT  OF  TABOOS / BIRTH  CEREMONIES;
+    lines 19388-19431
+  start: '19388'
+  end: '19431'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage reports Malay birth-related prohibitions and precautions:
+    a father must not cut his hair before the child is born; marked timber should
+    not be used for house uprights because it may endanger childbirth; during pregnancy
+    people must avoid certain movements through the house and must keep a guest for
+    an even two-night period; during an eclipse the expectant woman is placed in the
+    kitchen beneath a shelf with a spoon in her hand to prevent deformity in the child.
+    The cited account is identified as concerning Perak Malays.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The father is forbidden to cut his hair until after the child's birth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Timber for Malay house uprights must reject a log indented by a parasitic
+    creeper that wound around it when it was a living tree.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A marked log used in a house is said to exert an unfavorable influence on
+    childbirth, prolonging delivery and endangering mother and child.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When a house inmate is expecting to become a mother, many precautions are
+    required against a similar evil influence.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: No one may 'divide the house' by going in at the front door and out at the
+    back, or the reverse.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A guest or stranger may not be entertained in the house for only one night;
+    the person must be detained for a second night to complete an even period.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: If an eclipse occurs, the expectant woman must be taken into the kitchen,
+    placed beneath the shelf or platform where utensils are kept, and given a spoon
+    to hold.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage states that if the eclipse precautions are not taken, the child
+    when born will be deformed.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The quoted account is identified as concerning Perak Malays.
+  category: setting
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Father
+  description: The father of the expected child, subject to a hair-cutting prohibition
+    before birth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Expectant woman
+  description: A woman in the house who is expecting to become a mother and for whom
+    precautions are observed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Child
+  description: The child to be born, described as endangered by some failures of precaution
+    and as at risk of deformity if eclipse precautions are not taken.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:4
+  name_or_label: Person entering or leaving the house
+  description: Any person covered by the rule not to go in by one door and out by
+    the opposite door.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Guest or stranger
+  description: A guest or stranger in the house who may not stay for one night only
+    but must remain for a second night.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: father under pre-birth taboo
+  assigned_to:
+  - fig:1
+  basis: The passage says the father is stringently forbidden to cut his hair until
+    after the birth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: expectant mother protected by precautions
+  assigned_to:
+  - fig:2
+  basis: The passage describes precautions required when a house inmate is expecting
+    to become a mother and gives special eclipse procedures for her.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: child at birth-related risk
+  assigned_to:
+  - fig:3
+  basis: The passage says improper materials or omitted precautions can endanger the
+    child or lead to deformity at birth.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:4
+  label: subject of house-division prohibition
+  assigned_to:
+  - fig:4
+  basis: The passage says no one may 'divide the house' by crossing from front to
+    back door or the reverse.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: guest required to complete even stay
+  assigned_to:
+  - fig:5
+  basis: The passage says a guest or stranger cannot be entertained for one night
+    only and must stay a second night.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: uncut hair before birth
+  literal_form: The father's hair, not to be cut until after the child is born.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: marked house timber
+  literal_form: A log for a house upright indented by a parasitic creeper from when
+    it was a living tree.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: front-to-back house passage
+  literal_form: Going in at the front door and out at the back door, or vice versa,
+    called 'dividing the house.'
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: second night and even period
+  literal_form: A guest's required second night in the house to complete an even period.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: eclipse
+  literal_form: An eclipse occurring during the pregnancy precautions.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: kitchen shelf or platform
+  literal_form: The penangga or kitchen, beneath the para shelf or platform where
+    domestic utensils are kept.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: spoon held by expectant woman
+  literal_form: A spoon put into the expectant woman's hand during the eclipse precaution.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Father's pre-birth hair prohibition
+  summary: Before the child is born, the father is forbidden to cut his hair.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rejecting marked timber for a house
+  summary: Timber selection for house uprights excludes logs marked by parasitic creepers
+    because such logs are said to affect childbirth adversely.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Household restrictions during pregnancy
+  summary: During pregnancy-related precautions, no one may pass through the house
+    from front to back, and a guest or stranger must stay a second night rather than
+    only one.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Eclipse precaution for the expectant woman
+  summary: If an eclipse occurs, the expectant woman is placed in the kitchen beneath
+    a utensil shelf with a spoon in her hand; failure to do so is said to cause deformity
+    in the child.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Birth protected by taboos and prescribed precautions
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage gathers prohibitions and ritualized precautions around an expected
+    birth, with stated consequences for mother and child if some are not observed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage is ethnographic description of birth customs rather than a
+    mythic narrative; the taxonomy reference is a broad fit only.
+- id: motif:2
+  label: Sympathetic obstruction of childbirth by marked house timber
+  taxonomy_refs: []
+  basis: A log constricted by a creeper is said to protract delivery and endanger
+    mother and child if used as a house upright.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage states the causal belief but does not explain the symbolism
+    beyond the marked log and childbirth effect.
+- id: motif:3
+  label: Eclipse danger to the unborn child averted by household rite
+  taxonomy_refs: []
+  basis: During an eclipse, the expectant woman must be placed beneath the kitchen
+    platform with a spoon in hand, and omission is said to result in deformity of
+    the child.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No wider eclipse mythology is supplied in the passage.
+- id: motif:4
+  label: Even-period requirement for a guest during pregnancy
+  taxonomy_refs: []
+  basis: A guest or stranger may not stay one night only but must remain a second
+    night to complete an even period while pregnancy precautions are in force.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage does not specify why the even period is required.
+- id: motif:5
+  label: Paternal hair-cutting taboo before childbirth
+  taxonomy_refs: []
+  basis: The father is expressly forbidden to cut his hair until after the child is
+    born.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not state the consequence of violating this specific
+    taboo.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, the timber rule, house-movement rule, guest-stay rule,
+    eclipse rite, and father's hair prohibition can be grouped cautiously as birth-related
+    taboos or precautions serving a protective function around childbirth.
+  claim_level: same_function
+  target: Perak Malay birth-related taboo and precaution pattern reported in the passage
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal functional comparison within the cited passage,
+    not a claim of historical contact, common inheritance, or cross-cultural equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19393-19395
+  quote_or_summary: The father is stringently forbidden to cut his hair until after
+    the child's birth.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 19400-19405
+  quote_or_summary: For Malay house uprights, any log indented by a parasitic creeper
+    from when it was a living tree must be rejected.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 19405-19409
+  quote_or_summary: A marked log used in a house is said to influence childbirth unfavorably,
+    prolong delivery, and endanger mother and child.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 19409-19411
+  quote_or_summary: When a house inmate expects to become a mother, many precautions
+    must guard against evil influence of a similar kind.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 19411-19415
+  quote_or_summary: No one may 'divide the house' by entering at the front and leaving
+    at the back, or the reverse.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 19415-19418
+  quote_or_summary: A guest or stranger may not stay in the house for one night only
+    but must stay a second night to make an even period.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 19418-19425
+  quote_or_summary: If an eclipse occurs, the expectant woman must be taken into the
+    kitchen, placed beneath the utensil shelf or platform, and given a spoon to hold.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 19425-19427
+  quote_or_summary: If the eclipse precautions are not taken, the child when born
+    will be deformed.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 19429-19431
+  quote_or_summary: The passage states that Maxwell is speaking of Perak Malays.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear about actions, prohibitions, and stated consequences.
+    Motif labels are cautious because the material is ethnographic birth custom rather
+    than mythic narrative, and the available taxonomy has only a broad 'sacred_birth'
+    category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparisons or unsupported taxonomy references were added; symbols and motifs are limited to items present in the supplied passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l19388-l19431
+  passage_sha256=a4c83f25468856f0a418edfae2a91306f12a0111be35b9aa9a47ee2c767c3f03
+

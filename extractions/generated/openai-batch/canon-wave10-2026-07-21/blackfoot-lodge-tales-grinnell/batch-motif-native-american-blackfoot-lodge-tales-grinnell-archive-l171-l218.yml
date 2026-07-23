@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.native-american-blackfoot-lodge-tales-grinnell-archive-l171-l218
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+passage_locator:
+  label: STORIES   OF  ADVENTURE / STORIES   OF  ANCIENT    TIMES / STORIES   OF  OLD  MAN
+    / IV  CONTENTS; lines 171-218
+  start: '171'
+  end: '218'
+  translation: Blackfoot Lodge Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents passage lists Blackfoot Lodge Tales sections and story
+    titles with page numbers, including titles under “Stories of Ancient Times” and
+    “Stories of Old Man.”
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a contents list with section headings and page numbers.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: Under “Stories of Ancient Times,” the listed titles include Scarface, origins
+    of named ritual items or traditions, The Beaver Medicine, The Buffalo Rock, and
+    The Ghosts’ Buffalo.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Under “Stories of Old Man,” the listed titles include The Blackfoot Genesis,
+    animal or object-titled stories, Old Man Doctors, The Rock, The Theft from the
+    Sun, The Fox, and Old Man and the Lynx.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: One title explicitly names a theft involving the Sun.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'Several titles include animals or beings: beaver, buffalo, dog, bears, bird,
+    elk, fox, and lynx.'
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:6
+  text: 'Several titles include objects or ritual terms: medicine pipe, worm pipe,
+    stick, weapons, and rock.'
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Scarface
+  description: A named title in the contents list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Old Man
+  description: A named figure in the section heading “Stories of Old Man” and in titles
+    such as “Old Man Doctors” and “Old Man and the Lynx.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Sun
+  description: A named entity in the title “The Theft from the Sun.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Lynx
+  description: A named animal in the title “Old Man and the Lynx.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Fox
+  description: A named animal in the title “The Fox.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Beaver
+  description: A named animal in the title “The Beaver Medicine.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Buffalo
+  description: Named in titles including “The Buffalo Rock” and “The Ghosts’ Buffalo.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: title subject or named entity
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The passage is a contents list; these figures are identified only as named
+    entities or title subjects.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: medicine pipe
+  literal_form: medicine pipe
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: worm pipe
+  literal_form: worm pipe
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: rock
+  literal_form: rock
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: stick
+  literal_form: stick
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: weapons
+  literal_form: weapons
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Contents list for ancient-time stories
+  summary: The passage lists story titles and page numbers under “Stories of Ancient
+    Times.”
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Contents list for Old Man stories
+  summary: The passage lists story titles and page numbers under “Stories of Old Man.”
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: theft from a celestial being
+  taxonomy_refs:
+  - sacred_theft
+  basis: The title “The Theft from the Sun” explicitly combines theft with the Sun.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only the title is present; the passage gives no narrative details about
+    the theft, the thief, or the object taken.
+- id: motif:2
+  label: origin of ritual object or practice
+  taxonomy_refs: []
+  basis: Multiple titles begin with “Origin of,” including titles naming the I-kun-uh'-kah-tsi,
+    the Medicine Pipe, and the Worm Pipe.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The contents list identifies origin-story titles but gives no narrative
+    account of creation, transmission, or ritual use.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 171-190
+  quote_or_summary: "“STORIES OF ANCIENT TIMES”; listed titles include “Scarface,”
+    “Origin of the Medicine Pipe,” “The Beaver Medicine,” “The Buffalo Rock,” “Origin
+    of the Worm Pipe,” and “The Ghosts’ Buffalo.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 192-218
+  quote_or_summary: "“STORIES OF OLD MAN”; listed titles include “The Blackfoot Genesis,”
+    “The Dog and the Stick,” “The Bears,” “The Wonderful Bird,” “The Race,” “The Bad
+    Weapons,” “The Elk,” “Old Man Doctors,” “The Rock,” “The Fox,” and “Old Man and
+    the Lynx.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 214-216
+  quote_or_summary: "“The Theft from the Sun 167”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a table of contents rather than a narrative passage. Literal
+    extraction of titles is reliable, but motif identification is limited to title
+    wording.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were made because the passage itself does not support cross-text or cross-tradition comparison beyond title-level motif hints.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-blackfoot-lodge-tales-grinnell-archive__l171-l218
+  passage_sha256=f28e946b31fbf86e89d4d8970c00bc449f2558569d0213dd28923602c9c9ef7d
+

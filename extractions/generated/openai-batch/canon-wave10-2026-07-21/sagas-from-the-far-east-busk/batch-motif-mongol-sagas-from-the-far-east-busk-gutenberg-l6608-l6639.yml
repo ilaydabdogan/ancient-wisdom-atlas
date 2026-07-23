@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.mongol-sagas-from-the-far-east-busk-gutenberg-l6608-l6639
+source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+passage_locator:
+  label: TALE XXIII. / WHAT BECAME OF THE RED-COLOURED DOG. / CONCLUSION OF THE ADVENTURES
+    OF THE WELL-AND-WISE-WALKING KHAN. / THE BOY-KING.; lines 6608-6639
+  start: '6608'
+  end: '6639'
+  translation: Sagas from the Far East
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: '"the virtue is not in the boy, but in the hill"'
+  summary: A mighty king hears of a hill near his residence where calf-tending boys
+    race. The race winner becomes king for the day and is treated with real royal
+    majesty by playfellows and passers-by. The king investigates and concludes that
+    the power belongs to the hill rather than to any one boy, but remains troubled
+    and seeks certain knowledge.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Ardschi-Bordschi is introduced as a mighty king who lived long ago.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Near the king's residence there is a hill where boys tending calves pass time
+    by racing up and down.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The boys have a custom that the race winner is king for the day.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When the game is played at this place, the boy-king is endowed with extraordinary
+    importance and majesty, and people are constrained to treat him as a real king.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The boy-king has ministers and dignitaries among his playfellows, who prostrate
+    themselves before him and obey his commands.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Anyone passing that way must also pay homage to the boy-king.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The report spreads through the land and reaches Ardschi-Bordschi.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Ardschi-Bordschi investigates the conduct of the boys and reasons that the
+    majesty comes from the hill used as a throne, not from a particular boy.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The matter troubles the king, who desires certain knowledge but does not know
+    how to search it out.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ardschi-Bordschi
+  description: A mighty king who hears of and investigates the boy-king phenomenon.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Calf-tending boys
+  description: Boys near the king's residence who race on the hill and take part in
+    the king-for-a-day custom.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Boy-king
+  description: The boy who wins the race and is made king for the day, receiving extraordinary
+    majesty and homage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Passers-by
+  description: People who pass the place and are compelled to pay homage to the boy-king.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: reigning king
+  assigned_to:
+  - fig:1
+  basis: Ardschi-Bordschi is named as a mighty king.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: calf-tenders and racers
+  assigned_to:
+  - fig:2
+  basis: The boys tend calves and race up and down the hill.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: temporary king for the day
+  assigned_to:
+  - fig:3
+  basis: The race winner is king for the day and treated as a real king.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: playfellow ministers and dignitaries
+  assigned_to:
+  - fig:2
+  basis: The boy-king's playfellows serve as ministers and dignitaries, prostrate
+    themselves, and obey him.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: investigator of the marvel
+  assigned_to:
+  - fig:1
+  basis: The king has the matter exposed before him, inquires into the boys' ways,
+    and seeks certain knowledge.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:6
+  label: homage-payers
+  assigned_to:
+  - fig:4
+  basis: Whoever passes that way must pay homage to the boy-king.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: hill as throne
+  literal_form: hill near the king's residence, treated by the king as the boy-king's
+    throne
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:2
+  label: prostration and homage
+  literal_form: playfellows prostrate themselves and passers-by pay homage
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: race for kingship
+  literal_form: boys racing up and down the hill, with the winner made king for the
+    day
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Boys race on the hill and make a boy-king
+  summary: Calf-tending boys race on a hill; the winner is made king for the day and
+    receives real-seeming royal treatment, including prostration, obedience, and homage.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Ardschi-Bordschi investigates the source of majesty
+  summary: After hearing the report, the king investigates and concludes that the
+    power is not in any one boy but in the hill used as the throne; he remains troubled
+    and seeks certain knowledge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: place-conferred temporary kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: A boy becomes king for the day by winning a race on a particular hill, and
+    the reigning king concludes that the royal majesty comes from the hill rather
+    than the child.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage concerns temporary, localized
+    majesty rather than formal dynastic legitimacy.
+- id: motif:2
+  label: sacred or potent hill as source of authority
+  taxonomy_refs: []
+  basis: The king explicitly identifies the hill used as the throne as the source
+    of the phenomenon's virtue.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage does not explain the hill's origin or classify it with a wider
+    sacred-mountain or world-center pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 6608-6610
+  quote_or_summary: '"Long ages ago there lived a mighty king called Ardschi-Bordschi"'
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 6611-6614
+  quote_or_summary: A hill near the king's residence is where boys tending calves
+    race up and down.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 6614-6616
+  quote_or_summary: The boys' custom is that whoever wins the race is king for the
+    day.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 6616-6620
+  quote_or_summary: At this place, the boy-king gains extraordinary importance and
+    majesty, so that everyone must treat him as a real king.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 6620-6624
+  quote_or_summary: The boy-king has playfellow ministers and dignitaries who prostrate
+    themselves and obey him; passers-by also pay homage.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 6625-6626
+  quote_or_summary: The report of the matter spreads through the land and reaches
+    the king.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: 6627-6636
+  quote_or_summary: '"the virtue is not in the boy, but in the hill of which he makes
+    his throne"'
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:8
+  type: summary
+  locator: 6637-6639
+  quote_or_summary: The matter troubles the king; he desires certain knowledge but
+    does not see how to search it out.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the passage. Motif labels are cautious
+    because the passage gives no wider comparative explanation. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mongol-sagas-from-the-far-east-busk-gutenberg__l6608-l6639
+  passage_sha256=9ac4dcfdac29b44c3b4f67bae5e96bdad386993ad6b345c57460a81060888817
+

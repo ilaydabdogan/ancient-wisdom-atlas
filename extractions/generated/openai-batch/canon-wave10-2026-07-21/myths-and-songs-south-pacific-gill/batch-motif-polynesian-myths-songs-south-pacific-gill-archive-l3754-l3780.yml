@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l3754-l3780
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: STONE. / THE  SUN  MADE  CAPTIVE. / MAUI  ENSLAVING  THE  SUN. / THE  SKY  RAISED.;
+    lines 3754-3780
+  start: '3754'
+  end: '3780'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains that the heavens were once very close to the earth.
+    Maui, assisted by Ru, raised the sky in stages from north and south positions,
+    using their bodies and finally gigantic strength to push it to its present height.
+    They then used adzes to chip and smooth the irregular blue vault into its present
+    oval, beautiful form.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The heavens are described as originally almost touching the earth.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Maui resolved to elevate the sky and obtained Ru's assistance.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Maui stood at the north and Ru stood at the south.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Maui and Ru first raised the solid blue mass while prostrate on the ground,
+    using their backs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: They raised the sky higher in stages using their knees, shoulders, palms,
+    and fingertips.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: They drew themselves out to gigantic proportions and pushed the heavens to
+    the lofty position they have occupied ever since.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The sky's surface remained irregular after it was raised.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Maui and Ru used large stone adzes, then superior adzes, to chip the sky smooth
+    and give it an oval appearance.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Maui
+  description: A figure who resolves to elevate the sky, takes the northern position,
+    helps raise the heavens, and chips the sky smooth with adzes.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Ru
+  description: A figure who assists Maui, takes the southern position, helps raise
+    the heavens, and chips the sky smooth with adzes.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: initiator of sky-raising
+  assigned_to:
+  - fig:1
+  basis: Maui is the one who resolves to elevate the sky and secures Ru's assistance.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: co-raiser of the heavens
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Maui and Ru together lift the sky in stages and finally push it to its lofty
+    position.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: sky-shaping artisan
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both figures use adzes to chip rough parts from the sky and smooth the blue
+    vault.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: low and raised sky
+  literal_form: the heavens; the sky; the solid blue mass; the blue vault
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: opposed north and south positions
+  literal_form: Maui stationed at the north; Ru positioned in the south
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: bodily lifting sequence
+  literal_form: backs, knees, shoulders, palms, fingertips, and gigantic proportions
+    used to raise the sky
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: adzes for shaping the sky
+  literal_form: large stone adzes and superior adzes used to chip the sky smooth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Maui and Ru prepare to raise the sky
+  summary: The heavens are close to the earth; Maui decides to elevate them, gains
+    Ru's aid, and the two take positions at north and south.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The heavens are lifted in stages
+  summary: Maui and Ru raise the solid blue sky progressively with their backs, knees,
+    shoulders, hands, and fingertips, then enlarge themselves and push it to its present
+    height.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The sky is chipped smooth
+  summary: Because the sky's surface is irregular, Maui and Ru use adzes to chip the
+    blue vault until it becomes smooth, oval, and beautiful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Primordial sky raised from near the earth
+  taxonomy_refs:
+  - ascent
+  basis: The passage presents the sky as originally close to earth and then elevated
+    upward to its present lofty position.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is used for the upward elevation of the heavens,
+    not for a journey of ascent by a traveler.
+- id: motif:2
+  label: Cosmic ordering by named powerful figures
+  taxonomy_refs:
+  - culture_hero
+  basis: Maui and Ru perform actions that establish the current height and shape of
+    the visible heavens.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly call either figure a culture hero; the
+    label is a taxonomy-level inference from their world-ordering actions.
+- id: motif:3
+  label: Cosmic craftsmanship with tools
+  taxonomy_refs: []
+  basis: After raising the sky, Maui and Ru use stone and superior adzes to chip and
+    finish the blue vault.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this tool-based sky-shaping
+    motif.
+- id: motif:4
+  label: Etiology of the present sky
+  taxonomy_refs: []
+  basis: The account explains why the heavens are now lofty, smooth, oval, and beautiful.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a descriptive motif label rather than a supplied taxonomy family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3754-3760
+  quote_or_summary: The heavens originally almost touched the earth; Maui decides
+    to elevate the sky, gains Ru's assistance, and the two take positions at north
+    and south.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 3761-3771
+  quote_or_summary: Maui and Ru lift the solid blue mass in stages with their backs,
+    knees, shoulders, hands, and fingertips, then become gigantic and push the heavens
+    to their lasting lofty position.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 3772-3780
+  quote_or_summary: Because the raised sky is irregular, Maui and Ru use large stone
+    adzes and then superior adzes to chip the blue vault until it is oval, smooth,
+    and beautiful.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage is direct and self-contained.
+    Motif labels involving taxonomy are cautious, especially where supplied taxonomy
+    does not exactly name sky-earth separation. No comparison claims are made because
+    the passage itself gives no explicit cross-text or cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  All content is based only on the supplied passage and metadata.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l3754-l3780
+  passage_sha256=ebd14fb3699971675f6e864245b61befd1395a634a962dedc885582fa5e1a7d7
+

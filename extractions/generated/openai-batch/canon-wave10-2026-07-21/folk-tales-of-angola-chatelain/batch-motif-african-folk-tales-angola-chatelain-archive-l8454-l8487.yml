@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l8454-l8487
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: XLVIL / XLVIII. / XLIX. / KUTUTUNDA NI KUTUIA.; lines 8454-8487
+  start: '8454'
+  end: '8487'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A person goes in the morning to visit a friend. The friend reports that
+    a lion came during the night, destroyed the house, and threw him out. The visitor
+    laughs and asks why he did not shoot or spear the lion. After discussion and silence,
+    the friend says that the lion is strong and friendship is strong, ending the argument.
+  language: English; includes Kimbundu headings
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed with Kimbundu title material and the English title “The
+    Past and the Future.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the morning, an unnamed person says he will visit his friend and then finds
+    him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The visited friend says a lion came during the night, destroyed the house,
+    and threw him out.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The visitor laughs and asks why the friend did not shoot the lion or pierce
+    it with a spear.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The two friends talk and then become quiet.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The visited friend says that the lion is strong and friendship is strong;
+    after this, the argument between the friends ends.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: visiting friend
+  description: An unnamed person who goes in the morning to visit his friend, laughs,
+    and questions why the lion was not attacked.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: visited friend
+  description: An unnamed friend who reports being thrown out when a lion destroyed
+    the house and who later says that both the lion and friendship are strong.
+  role_refs:
+  - role:2
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: lion
+  description: A lion said to have come at night, destroyed the house, and thrown
+    the visited friend out.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: visitor
+  assigned_to:
+  - fig:1
+  basis: He says he will go visit his friend and then finds him.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: victim of night attack
+  assigned_to:
+  - fig:2
+  basis: He reports that the lion destroyed the house and threw him out.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: destructive animal attacker
+  assigned_to:
+  - fig:3
+  basis: The lion is reported to have come in the night, destroyed the house, and
+    thrown the man out.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: arguing friends
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that an argument between friend and friend ceased after
+    the final statement.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: speaker of resolving statement
+  assigned_to:
+  - fig:2
+  basis: He states that the lion is strong and friendship is strong, after which the
+    argument ceases.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: lion
+  literal_form: lion
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: destroyed house
+  literal_form: house destroyed by the lion
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: spear
+  literal_form: spear named as a possible weapon against the lion
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: morning visit
+  literal_form: morning setting for visiting a friend
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: morning visit to a friend
+  summary: A person decides in the morning to visit his friend and finds him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: report of lion’s night attack
+  summary: The visited friend reports that a lion came during the night, destroyed
+    the house, and threw him out.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: questioning and argument resolution
+  summary: The visitor laughs and asks why the lion was not attacked with weapons.
+    The friends talk, fall silent, and the visited friend ends the argument by saying
+    that the lion is strong and friendship is strong.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: animal attack on dwelling at night
+  taxonomy_refs: []
+  basis: The friend reports that a lion came at night, destroyed the house, and threw
+    him out.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage reports the attack briefly and does not elaborate its cause
+    or outcome beyond the dispute between friends.
+- id: motif:2
+  label: friend questions failure to fight dangerous animal
+  taxonomy_refs: []
+  basis: The visitor laughs and asks why the attacked friend did not shoot or spear
+    the lion.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a local narrative exchange rather than a clearly named or classified
+    motif in the supplied taxonomy.
+- id: motif:3
+  label: proverbial wisdom resolves dispute
+  taxonomy_refs:
+  - wisdom
+  basis: The statement that the lion is strong and friendship is strong is followed
+    by the cessation of the argument.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The link to the broad wisdom motif family is based on the aphoristic,
+    dispute-ending function of the speech; the passage does not explicitly label it
+    as a proverb.
+- id: motif:4
+  label: 'paired contrast in title: past and future'
+  taxonomy_refs:
+  - duality
+  basis: The English title names “The Past and the Future,” suggesting a paired contrast
+    at the title level.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The narrative body names only two friends and does not explicitly identify
+    them as Past and Future within the supplied excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage may be cautiously compared to a wisdom or proverbial dispute-resolution
+    pattern because a concise statement about strength and friendship ends the argument.
+  claim_level: same_function
+  target: wisdom motif family / proverbial resolution pattern
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is functional only; the supplied passage does not state
+    that the final line is a proverb or connect it to another named tradition.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 8454-8471
+  quote_or_summary: The excerpt includes Kimbundu title material and the English title
+    “The Past and the Future.”
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 8472-8474
+  quote_or_summary: Morning comes; a person says he will visit his friend and finds
+    him.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 8474-8477
+  quote_or_summary: "“The lion came in the night; he has destroyed the house; me,
+    he threw me out there.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 8477-8480
+  quote_or_summary: The visitor laughs and asks why the friend did not shoot the lion
+    or pierce it with the spear.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 8480-8481
+  quote_or_summary: "“They talked; kept quiet.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: lines 8482-8487
+  quote_or_summary: "“The lion is strong; friendship is strong.” The argument between
+    the friends ceased."
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence is brief and clear. Motif assignments are cautious because
+    the passage is short and only one broad supplied taxonomy family, wisdom, is directly
+    supported by function; the duality suggestion rests mainly on the title.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external parallels or unsupported taxonomy IDs were added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l8454-l8487
+  passage_sha256=0263b890d2c1ab51d5ba96dbd78f358dbb78831be3ebb4533c3296fda23b3b9d
+

@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l23767-l23811
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: YNCAS. / VOL.  II. / NINTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OP  THE  YNCAS.;
+    lines 23767-23811
+  start: '23767'
+  end: '23811'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes petitioners who expect the Catholic monarch to redress
+    their grievances because they are descendants of kings. It then explains a painted
+    and titled genealogy of the Kings Yncas, including the common title Ccapac Ayllu,
+    descent from the first Ynca Manco Ccapac, and named lineages with numerical counts
+    of Yncas in each descent group.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A document or writing about the petitioners' miseries is not inserted because
+    it would cause sorrow.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The writers express confidence that his Catholic Majesty will redress grievances
+    and grant favors to the petitioners because they are descendants of kings.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Figures of the Kings Yncas are painted, and each has his lineage inserted
+    beside him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The title Ccapac Ayllu is translated as the august or royal generation and
+    is applied to all in common.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The shared title implies that all descend from the first Ynca, Manco Ccapac.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Separate special titles and numerical counts are given for the descendants
+    belonging to particular kings.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: The descents of Ynca Pachacutec and his son Ynca Yupanqui are combined into
+    one lineage called Ynca Panaca, making ninety-nine descendants.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: petitioners / descendants of kings
+  description: The petitioners are described as descendants of kings whose grievances
+    are expected to be redressed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: his Catholic Majesty
+  description: The monarch is expected, once he knows the grievances, to redress them
+    and grant favors.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Kings Yncas
+  description: Royal figures are painted with their lineages placed beside them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Manco Ccapac
+  description: Manco Ccapac is identified as the first Ynca and as the ancestor from
+    whom all descend; his lineage is called Chima Panaca.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: named later Ynca kings
+  description: The passage names later kings and their lineages, including Sinchi
+    Rocca, Lloque Yupanqui, Ccapac Yupanqui, Mayta Ccapac, Ynca Rocca, Yahuar-huaccac,
+    Uirra-ccocha Ynca, Ynca Pachacutec, Ynca Yupanqui, Tupac Ynca Yupanqui, and Huayna
+    Ccapac.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: royal-descendant petitioners
+  assigned_to:
+  - fig:1
+  basis: They are petitioners who expect favor because they are descendants of kings.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: expected royal redresser
+  assigned_to:
+  - fig:2
+  basis: The passage says his Catholic Majesty is expected to redress grievances and
+    grant favors when informed.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: lineage-bearing royal ancestor
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The Kings Yncas are associated with painted figures, lineage names, and counts
+    of descendants.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: first Ynca and common ancestor
+  assigned_to:
+  - fig:4
+  basis: The passage states that all descend from the first Ynca, Manco Ccapac.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: painted royal ancestor image
+  literal_form: painted figures of the Kings Yncas
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Ccapac Ayllu title
+  literal_form: title meaning august or royal generation, and elsewhere imperial descent
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: lineage names and numerical counts
+  literal_form: panaca or ayllu lineage titles with numbers of Yncas in each descent
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: petitioners expect redress through royal descent
+  summary: The writers trust that the Catholic monarch will redress grievances and
+    favor the petitioners because they are descendants of kings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: painted Ynca kings with lineage titles
+  summary: Painted figures of the Kings Yncas are accompanied by lineage information
+    and the common title Ccapac Ayllu, which marks royal generation and descent from
+    Manco Ccapac.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: enumeration of royal panacas
+  summary: The passage lists specific royal lineages, their names, and the number
+    of Yncas counted in each, including combined descents for Pachacutec and Ynca
+    Yupanqui.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal genealogy legitimates claims
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The petitioners' expected favor is grounded in their descent from kings,
+    and the passage emphasizes common and particular royal lineages through titles
+    and painted king figures.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is a chronicle-style genealogical and petitionary account
+    rather than a mythic narrative episode.
+- id: motif:2
+  label: catalogue of royal ancestor lineages
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage systematically names royal descents, assigns lineage titles,
+    and gives counts of descendants associated with individual Ynca kings.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is best treated as a documentary or genealogical pattern; symbolic
+    or mythological interpretation should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23771-23777
+  quote_or_summary: A writing about miseries is withheld; the writers believe Catholic
+    Majesty will redress grievances and favor the petitioners because they are descendants
+    of kings.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 23777-23780
+  quote_or_summary: '"Having painted the figures of the Kings Yncas, they insert by
+    the side of each his lineage, with this title Ccapac Ayllu"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 23779-23784
+  quote_or_summary: Ccapac Ayllu means the august or royal generation, applies to
+    all in common, and implies descent from the first Ynca Manco Ccapac; special titles
+    and numbers distinguish descents from particular kings.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 23786-23797
+  quote_or_summary: The passage lists lineages from Manco Ccapac through Uirra-ccocha
+    Ynca, giving names such as Chima Panaca, Raurava Panaca, Hahuanina Ayllu, Apu
+    Mayta, Usca Mayta, Vicaquirau, Ayllu Panaca, and Socso Panaca, along with numerical
+    counts.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 23798-23805
+  quote_or_summary: The descents of Ynca Pachacutec and Ynca Yupanqui are combined
+    as Ynca Panaca with ninety-nine descendants; Tupac Ynca Yupanqui's lineage is
+    called Ccapac Ayllu and includes eighteen Yncas; Huayna Ccapac's lineage is called
+    Tumipampa.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal genealogical content is clear. Motif assignment to royal_legitimacy
+    is well supported, but broader mythological interpretation is limited because
+    the passage is primarily documentary and genealogical. No external comparison
+    claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available symbol taxonomy refs such as cave, fire, milk, mountain, serpent, tree, or water are directly supported by this passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l23767-l23811
+  passage_sha256=6815d1d0779625f8448369d5eaa129b3fbafeb3e93cd79bfe7b6f3b61d63b1b8
+

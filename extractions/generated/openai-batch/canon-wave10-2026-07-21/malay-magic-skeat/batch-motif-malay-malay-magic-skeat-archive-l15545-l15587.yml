@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l15545-l15587
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: BEZOAR  STONES / P URIFICA  TION  BY  W A TER / I.  PURIFICATION  BY  WATER
+    / WATER; lines 15545-15587
+  start: '15545'
+  end: '15587'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a Malay cleansing rite using limes or sintok root,
+    followed by standing toward the east, seven spittings and a seven-count, throwing
+    the used cleansing material westward while verbally sending misfortune and evil
+    spirits to the whirlpool of Lake Paujangi, and finally pouring buckets of water
+    over oneself. It also describes Lake Paujangi as a mid-ocean place receiving all
+    waters and notes that similar water-purification ceremonies occur at critical
+    life periods in Malay custom.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Limes in Perak, and sintok root in Penang, are described as materials used
+    for bodily cleansing.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the body is deemed cleansed, the performer stands facing east.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The performer spits seven times and counts aloud up to seven.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the word for seven, the performer throws the remains of the limes or
+    sintok to the west.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The spoken formula commands misfortune and spirits of evil to leave the performer's
+    body and go to the whirlpool of Lake Paujangi.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The performer throws a few buckets of water over himself to complete the operation.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Lake Paujangi is described as situated in mid-ocean, with a whirlpool that
+    likely causes the tides and receives all waters of the sea and rivers.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage identifies the described ceremony as purification by water and
+    states that similar purificatory ceremonies are part of Malay customs at birth,
+    adolescence, marriage, sickness, death, and other critical periods.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Malay cleansing performer
+  description: The person performing the cleansing rite, including standing, spitting,
+    counting, speaking the formula, and pouring water over himself.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Spirits of evil
+  description: Beings named in the formula as to be expelled from the performer's
+    body.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ritual performer and purification subject
+  assigned_to:
+  - fig:1
+  basis: The same person carries out the cleansing actions and pours water over himself.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: exorcised beings
+  assigned_to:
+  - fig:2
+  basis: The formula commands the spirits of evil to depart from the body to Lake
+    Paujangi.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: water
+  literal_form: buckets of water; waters of sea and rivers; Lake Paujangi
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: lime or sintok cleansing material
+  literal_form: limes cut and squeezed in the hand, or sintok root
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: number seven
+  literal_form: seven spittings and a spoken count up to seven
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: east-west orientation
+  literal_form: standing facing east and throwing remains to the west
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Lake Paujangi whirlpool
+  literal_form: the whirlpool of Lake Paujangi in mid-ocean
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Initial bodily cleansing
+  summary: The performer cleanses the body with limes or sintok root.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Directional expulsion formula
+  summary: Facing east, the performer spits seven times, counts to seven, throws the
+    used cleansing material westward, and speaks a formula sending misfortune and
+    evil spirits away from the body to Lake Paujangi.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Water dousing completion
+  summary: The performer throws several buckets of water over himself, completing
+    the operation.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Cosmological destination of expelled spirits
+  summary: Lake Paujangi is described as a mid-ocean whirlpool receiving the waters
+    of seas and rivers and as a fitting abode for exorcised spirits.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual purification by water
+  taxonomy_refs: []
+  basis: The passage explicitly identifies the described rite as purification by water,
+    and the rite ends with water poured over the performer.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage gives one example and says further details are discussed elsewhere.
+- id: motif:2
+  label: expulsion of misfortune and evil spirits to a remote watery place
+  taxonomy_refs: []
+  basis: The formula sends misfortune and spirits of evil from the body to the whirlpool
+    of Lake Paujangi, which is described as a mid-ocean receptacle of waters.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage reports the formula and cosmological explanation but does
+    not give a broader myth narrative for Lake Paujangi here.
+- id: motif:3
+  label: sevenfold ritual actions in cleansing
+  taxonomy_refs: []
+  basis: The rite includes seven spittings and an aloud count to seven before disposal
+    of the cleansing material.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No explanation for the number seven is supplied in this passage.
+- id: motif:4
+  label: purification at critical life periods
+  taxonomy_refs: []
+  basis: The passage states that similar purificatory ceremonies are integral to Malay
+    customs at birth, adolescence, marriage, sickness, death, and other critical periods.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The listed life-period ceremonies are not described in detail in this
+    passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that similar purificatory ceremonies have the same general
+    function at multiple critical periods in Malay life custom.
+  claim_level: same_function
+  target: Malay customs at birth, adolescence, marriage, sickness, death, and other
+    critical periods
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage names the contexts but does not describe each ceremony.
+- id: claim:2
+  claim: The passage compares Lake Paujangi with the Red Sea as a possible abode for
+    exorcised spirits.
+  claim_level: same_function
+  target: Red Sea as an abode for exorcised spirits
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an authorial analogy within the passage; no independent details
+    about the Red Sea belief are provided here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15545-15554
+  quote_or_summary: Limes are used in Perak for a thorough scrub; in Penang, sintok
+    root is usually preferred. The limes are cut and squeezed in the hand.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 15555-15562
+  quote_or_summary: After cleansing, the performer stands facing east, spits seven
+    times, counts aloud to seven, and throws the remains of the limes or sintok to
+    the west.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 15562-15567
+  quote_or_summary: "“Misfortune and spirits of evil begone from my body to the whirlpool
+    of the lake Paujangi!”"
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 15567-15569
+  quote_or_summary: The performer throws a few buckets of water over himself, completing
+    the operation.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 15570-15577
+  quote_or_summary: Lake Paujangi is said to be in mid-ocean; its whirlpool likely
+    causes the tides, receives all sea and river waters, and is compared to the Red
+    Sea as an abode for exorcised spirits.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 15578-15587
+  quote_or_summary: The described ceremony is called a form of purification by water,
+    and similar purificatory ceremonies are said to be part of Malay customs at birth,
+    adolescence, marriage, sickness, death, and other critical periods.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The rite is described clearly, but broader motif taxonomy assignments are
+    limited because no exact purification motif family is supplied in the available
+    taxonomy list.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l15545-l15587
+  passage_sha256=26d4bc4bcda239836f562bec8d9c8b96509fd4dc1d8781ba257f19868e4d9d7e
+

@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l17929-l17935
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE  BEAR  MEDICINE    AND  CEREMONY.  355 / THE   BUFFALO  POWER  AND  THE   WILD  HORSE   DANCE.  357
+    / THE  BUFFALO  POWER  AND  THE  WILD  HORSE  DANCE.        359 / THE  BUFFALO  POWER  AND  THE  WILD  HORSE  DANCE.       361;
+    lines 17929-17935
+  start: '17929'
+  end: '17935'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“the man becomes a medicine-man through the power of the ring”"
+  summary: A note identifies the story as told by Mouth-Waving-in-Water, Kitkehahki,
+    describes it as a variant of tales about the buffalo game, states that a man becomes
+    a medicine-man through the power of a ring, and explains that the telling encourages
+    listeners to keep the pipe filled so lodge occupants can smoke during pauses.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The story is attributed to Mouth-Waving-in-Water, Kitkehahki.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes the story as a variant of several previously presented
+    tales relating to the so-called buffalo game.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In the story, a man becomes a medicine-man through the power of a ring.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The story is said to be told in a way that encourages people to keep the pipe
+    filled.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Those in the lodge are expected to smoke during pauses in the telling of the
+    story.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Mouth-Waving-in-Water
+  description: Named Kitkehahki narrator of the story.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the man
+  description: A man in the story who becomes a medicine-man through the power of
+    the ring.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the people
+  description: People instructed by the mode of the story to keep the pipe filled.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: those in the lodge
+  description: Persons in the lodge who may smoke during pauses in the story.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: storyteller
+  assigned_to:
+  - fig:1
+  basis: The passage says the story was told by Mouth-Waving-in-Water.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of medicine power
+  assigned_to:
+  - fig:2
+  basis: The man becomes a medicine-man through the power of the ring.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: medicine-man
+  assigned_to:
+  - fig:2
+  basis: The man is described as becoming a medicine-man.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: ritual listeners or community
+  assigned_to:
+  - fig:3
+  basis: The passage says the story teaches the people to keep the pipe filled.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: lodge occupants
+  assigned_to:
+  - fig:4
+  basis: The passage refers to those in the lodge smoking during pauses in the story.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: ring
+  literal_form: ring
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: pipe
+  literal_form: filled pipe used for smoking during pauses in storytelling
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: lodge
+  literal_form: lodge in which people smoke during pauses in the story
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Story classification and attribution
+  summary: The passage attributes the story to Mouth-Waving-in-Water, Kitkehahki,
+    and classifies it as a variant of tales about the buffalo game.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Medicine-man transformation through a ring
+  summary: A man in the story becomes a medicine-man through the power of the ring.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pipe kept filled during storytelling
+  summary: The story is said to instruct people to keep the pipe filled so that those
+    in the lodge may smoke during pauses in the narration.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: acquisition of medicine power through an empowered object
+  taxonomy_refs:
+  - initiation
+  basis: The man becomes a medicine-man through the power of the ring.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a short editorial note and does not narrate the full process
+    of becoming a medicine-man; the taxonomy link to initiation is broad.
+- id: motif:2
+  label: storytelling accompanied by communal pipe smoking
+  taxonomy_refs: []
+  basis: The passage says the story is told so that the pipe is kept filled and lodge
+    occupants smoke during pauses.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is presented as a performance context or instruction rather than
+    as an event inside the tale itself.
+- id: motif:3
+  label: buffalo game tale variant
+  taxonomy_refs: []
+  basis: The passage explicitly identifies the story as a variant of several previously
+    presented tales relating to the so-called buffalo game.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The actual buffalo game episode is not included in the supplied line range.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself identifies this story as a variant of several previously
+    presented tales relating to the so-called buffalo game.
+  claim_level: same_motif
+  target: previously presented buffalo game tales in the same corpus
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The supplied excerpt does not include the earlier tales or the full
+    narrative details, so the comparison cannot be independently specified beyond
+    the passage’s statement.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 17929-17931
+  quote_or_summary: "“Told by Mouth-Waving-in-Water, Kitkehahki. This may be regarded
+    as a variant of several tales already presented relating to the so-called buffalo
+    game.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 17931-17933
+  quote_or_summary: "“the man becomes a medicine-man through the power of the ring”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 17933-17935
+  quote_or_summary: "“the people should be on the look-out to keep the pipe filled,
+    in order that those in the lodge might smoke during the pauses in the relation
+    of the story.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is brief and partly editorial, but it directly states the key
+    motifs and comparison to buffalo game variants. Interpretation is limited to what
+    is explicitly stated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include ring, pipe, smoke, lodge, buffalo, or game.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l17929-l17935
+  passage_sha256=316436a200da4e4491b6182e8f1526b9e928cddcc46a2245c335964745bea7d9
+

@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l22832-l22876
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: NINTH  BOOK  OF  THE  ROYAL / CHAPTER  XXXIV. / HUASCAR  RECEIVES  A WARNING,  AND  SUMMONS  HIS  FOLLOWERS.
+    / COMMENTARIES  OP  THE  YNCAS.; lines 22832-22876
+  start: '22832'
+  end: '22876'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: The King Huascar Ynca, seeing that his enemies were so close, sent out a
+    summons for his troops to assemble with all possible speed.
+  summary: The passage narrates Atahuallpa's hostile army advancing toward Cuzco,
+    crossing the Apurimac, displaying military signs, and reaching a pass near the
+    city, while Huascar summons provincial troops whose response is limited by distance,
+    sparse population, or lack of military practice.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Messengers were not sent to Chincha-suyu because that province was already
+    occupied by the hostile army marching through it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Atahuallpa's people increased in confidence and their advanced guard reached
+    a point forty leagues from Cuzco before halting for the rest to join them.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: More than twenty thousand warriors crossed the river Apurimac without opposition
+    and appeared in arms with banners and military insignia displayed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'The advancing force moved in three bodies: vanguard, main battle, and a rear
+    guard of ten thousand men.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The force arrived at the pass of Villacunca, described as six leagues from
+    the city.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Atahuallpa remained on the frontier of his kingdom and waited to learn the
+    result of the first battle.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Huascar Ynca summoned his troops to assemble quickly when he saw that his
+    enemies were close.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Colla-suyu was too distant for its vassals to arrive in time; Anti-suyu had
+    few people because of dense forests; Cunti-suyu assembled more than thirty thousand
+    men who were unpractised in arms after a long peace.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Huascar Ynca
+  description: The King Huascar Ynca sees enemies close to Cuzco and summons troops
+    to assemble quickly.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Atahuallpa
+  description: Atahuallpa remains on the frontier of his kingdom and waits for the
+    result of the first battle, relying on his captains and veteran soldiers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Atahuallpa's army
+  description: The hostile army occupies Chincha-suyu, advances toward Cuzco, crosses
+    the Apurimac, displays banners and military insignia, and moves in three bodies.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Curacas and men of Cunti-suyu
+  description: The Curacas of Cunti-suyu assemble with more than thirty thousand men,
+    though they are unpractised in arms.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Vassals of Colla-suyu
+  description: The vassals of Colla-suyu are more than two hundred leagues away and
+    cannot arrive in time to be useful.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: People of Anti-suyu
+  description: The people of Anti-suyu are few in number because the land is thinly
+    populated by reason of dense forests.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: defending king and summoner of troops
+  assigned_to:
+  - fig:1
+  basis: Huascar is called King and sends out a summons when enemies are close.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: opposing ruler awaiting battle outcome
+  assigned_to:
+  - fig:2
+  basis: Atahuallpa remains at the frontier of his kingdom until he knows the result
+    of the first battle.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: advancing hostile force
+  assigned_to:
+  - fig:3
+  basis: The army is called hostile, marches through Chincha-suyu, crosses the Apurimac,
+    and advances toward the city.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: summoned provincial reinforcements
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: These provincial groups are described in relation to Huascar's summons and
+    their ability or inability to provide troops.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Cuzco
+  literal_form: city of Cuzco
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: Apurimac river crossing
+  literal_form: river Apurimac
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: displayed military signs
+  literal_form: banners and military insignia
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Villacunca pass
+  literal_form: pass of Villacunca; the footnote says the printed name is a misprint
+    and should be Uilca-cuuca
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: dense forests of Anti-suyu
+  literal_form: dense forests
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Hostile army approaches Cuzco
+  summary: Atahuallpa's forces occupy Chincha-suyu, gain confidence, and send an advanced
+    guard to within forty leagues of Cuzco.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Apurimac crossing and martial display
+  summary: More than twenty thousand warriors cross the Apurimac without opposition
+    and appear openly in arms with banners and military insignia.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Threefold advance to the pass
+  summary: The army advances in vanguard, main battle, and rear guard, reaches the
+    pass near the city, while Atahuallpa remains at his frontier awaiting the first
+    battle's outcome.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Huascar summons provincial troops
+  summary: Huascar summons troops to Cuzco, but Colla-suyu is too distant, Anti-suyu
+    has few people, and Cunti-suyu's large assembled force is unpractised in arms.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: royal conflict approaching the capital
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage frames Huascar as King while Atahuallpa's hostile army advances
+    toward Cuzco and Atahuallpa waits for the first battle's result.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt presents a military crisis; it does not explicitly state a
+    succession rite or doctrinal claim of legitimacy.
+- id: motif:2
+  label: summoned allies limited by distance and unreadiness
+  taxonomy_refs: []
+  basis: Huascar summons troops quickly, but the provincial responses are constrained
+    by distance, sparse population, and lack of military practice.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a narrative pattern of mobilization rather than a clearly marked
+    mythic motif.
+- id: motif:3
+  label: unopposed threshold crossing before battle
+  taxonomy_refs: []
+  basis: More than twenty thousand warriors cross the Apurimac without opposition
+    and later reach a pass six leagues from the city.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not assign symbolic meaning to the river or pass; the
+    threshold reading should remain cautious.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 22832-22839
+  quote_or_summary: He did not send messengers to Chincha-suyu because it was already
+    occupied by the hostile army marching through it.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise excerpt/summary.
+- id: ev:2
+  type: quote
+  locator: lines 22839-22847
+  quote_or_summary: Atahuallpa's people increased in confidence; their advanced guard
+    reached a point only forty leagues from Cuzco and halted for the rest to join
+    them.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise excerpt/summary.
+- id: ev:3
+  type: quote
+  locator: lines 22847-22856
+  quote_or_summary: More than twenty thousand warriors crossed the Apurimac without
+    opposition, appeared as enemies in arms, and displayed banners and military insignia;
+    they advanced in vanguard, main battle, and rear guard.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise excerpt/summary.
+- id: ev:4
+  type: quote
+  locator: lines 22856-22863
+  quote_or_summary: The army arrived at the pass of Villacunca, six leagues from the
+    city; Atahuallpa remained on the frontier of his kingdom to await the result of
+    the first battle.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise excerpt/summary.
+- id: ev:5
+  type: quote
+  locator: lines 22864-22868
+  quote_or_summary: The King Huascar Ynca, seeing that his enemies were so close,
+    sent out a summons for his troops to assemble with all possible speed.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 22868-22876
+  quote_or_summary: Colla-suyu was too far away for its vassals to arrive in time;
+    Anti-suyu was thinly populated because of dense forests; Cunti-suyu assembled
+    over thirty thousand men, but they were unpractised in arms after a long peace.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The military actions and named groups are explicit in the passage. Motif
+    candidates are cautious because the excerpt is historical-military narrative with
+    limited overt symbolic interpretation. No comparison claims are made because the
+    passage does not itself support comparison to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The chapter label mentions Huascar receiving a warning, but the supplied passage excerpt primarily contains the army's advance and Huascar's summons; no separate warning scene was extracted.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l22832-l22876
+  passage_sha256=4a8070d42e87bd3690445195844bedbb231c9a4728dc5ac87ab78aa4c344406a
+

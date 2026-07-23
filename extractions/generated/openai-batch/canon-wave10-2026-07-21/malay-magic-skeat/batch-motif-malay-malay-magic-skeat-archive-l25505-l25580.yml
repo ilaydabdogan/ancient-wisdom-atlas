@@ -1,0 +1,428 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l25505-l25580
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: THE  FIGHT / COCK-FIGHTING  ON  THE  EAST  COAST / DANCES , SPORTS , GAMES
+    / THE  FIGHT; lines 25505-25580
+  start: '25505'
+  end: '25580'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a Malay cock-fight: spectators cheer, rounds are
+    timed with a perforated coconut shell floating in water, handlers tend the birds
+    between rounds, one blinded bird continues fighting after partial treatment and
+    eventually wins, and the victorious bird is carried away for nursing while the
+    narrator comments on fighting instinct and courage.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Backers cheer the fighters with shrill yells called sorak and cry to them
+    by name.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The timing device is a small perforated section of coconut set floating on
+    a jar of water until it fills and sinks.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When time is called, each cock-fighter seizes his bird, drenches it with water,
+    cleans phlegm from its throat with a feather, and shampoos its legs and body.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After being released again, the birds fly at one another with renewed energy
+    and continue the tactics of the contest until time is called again.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After about ten rounds, the fight can end if either bird raises its back feathers
+    in the manner by which cocks declare themselves vanquished.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In the tenth round one cock has its right eyeball broken and its left eye
+    blocked, but it continues fighting to the end of the round.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The handler of the blinded bird asks for a needle and thread, sews the swollen
+    lower lid to membrane on the bird’s cheek, and partially restores its sight.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: When the contest resumes, the injured cock repays its adversary before the
+    coconut shell is half full of water, and the opponent surrenders.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The victorious bird is wet, bloody, partly blinded, and held open by thread
+    at one eyelid, yet it staggers across the cockpit, struts, and gives a weak crow.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The victorious bird is carried off by an admiring, gesticulating, vociferous
+    crowd to be tended and nursed.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The narrator states that either bird can stop fighting at any moment and is
+    not forced to continue once it has declared defeat.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The narrator states that fighting-cocks show exceptional courage and endurance
+    compared with other animals and humans.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: cock-fighters or keepers
+  description: Human handlers who seize, clean, tend, and retrieve the fighting birds.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: backers and crowd
+  description: Spectators who cheer the birds, shout names, and later follow the victor
+    admiringly.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:3
+  name_or_label: injured victorious fighting-cock
+  description: A cock whose right eye is broken and whose other eye is blocked, later
+    partly restored by sewing; it continues fighting and wins.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: opposing fighting-cock
+  description: The adversary of the injured cock; it surrenders after the contest
+    resumes and is snatched up by its keeper.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: attendant or keeper
+  assigned_to:
+  - fig:1
+  basis: Handlers care for the birds between rounds, perform the eye treatment, and
+    retrieve the surrendered bird.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:2
+  label: cheering spectators
+  assigned_to:
+  - fig:2
+  basis: Backers cheer by name, and a crowd follows the victorious bird vociferously.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:3
+  label: combatant animal
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Both birds are released to fly at one another and resume the contest.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:4
+  label: wounded victor
+  assigned_to:
+  - fig:3
+  basis: The injured cock continues after blinding, defeats its adversary, and signals
+    victory with a strut and crow.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:5
+  label: surrendered opponent
+  assigned_to:
+  - fig:4
+  basis: The opponent surrenders before the coconut shell is half full of water and
+    is snatched up by its keeper.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: coconut-shell water clock
+  literal_form: A small perforated section of coconut floating on a jar of water until
+    it fills and sinks.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: water for timing and tending
+  literal_form: Water in the jar times the rounds, and water is used to drench the
+    birds between rounds.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: raised back feathers as surrender sign
+  literal_form: A peculiar raising of back feathers by which a cock declares itself
+    vanquished.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:4
+  label: needle and thread eye treatment
+  literal_form: Needle and thread used to sew the lower eyelid to cheek membrane and
+    partially restore sight.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: victory strut and crow
+  literal_form: The victorious bird staggers across the cockpit and gives a weak crow
+    to notify victory.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Timed round and between-round tending
+  summary: Time is kept by a coconut shell in water; when time is called, handlers
+    seize, wash, clear, and massage the birds before release.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Distress and refusal to yield
+  summary: After many rounds, surrender is possible through a feather signal, but
+    one cock is badly injured and continues fighting rather than yielding.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Partial restoration of sight
+  summary: The handler examines the blinded bird and uses needle and thread to hold
+    open the eyelid, partly restoring sight.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Reversal and opponent’s surrender
+  summary: The injured cock returns to the contest and makes its adversary surrender
+    before the coconut shell is half full of water.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Public acknowledgment of victory
+  summary: The battered victor struts and crows, then is carried away by an admiring
+    crowd to receive care.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: ritualized timed animal combat
+  taxonomy_refs: []
+  basis: The cock-fight proceeds in timed rounds, with a specific water-clock device,
+    repeated release of the birds, and handling between rounds.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic sport description rather than an explicit mythic
+    narrative motif.
+- id: motif:2
+  label: wounded fighter continues and wins
+  taxonomy_refs: []
+  basis: A cock temporarily blinded in the tenth round refuses to yield, receives
+    partial treatment, resumes fighting, and defeats its opponent.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage concerns an animal contest; no supernatural or heroic-myth
+    context is supplied.
+- id: motif:3
+  label: defeat declared by visible bodily sign
+  taxonomy_refs: []
+  basis: The fight ends when a bird raises its back feathers in the recognized manner
+    of declaring itself vanquished; birds are not forced to continue once they do
+    so.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: The sign is presented as cock-fighting practice, not as a broader symbolic
+    code.
+- id: motif:4
+  label: wounded victor publicly honored and nursed
+  taxonomy_refs: []
+  basis: The battered victorious cock signals its victory, is followed by an admiring
+    crowd, and is taken away to be tended and nursed.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The honoring is described in sporting and animal-care terms, without explicit
+    ritual or mythological framing.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 25505-25510
+  quote_or_summary: Backers cheer amid a “shrill chorus of yells, called sorak,” and
+    cry to the fighters by name.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 25511-25523
+  quote_or_summary: A perforated coconut section floats in a jar of water until it
+    fills and sinks; when time is called, handlers drench the birds, clean their throats
+    with a feather, shampoo their legs and bodies, and release them again.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 25523-25528
+  quote_or_summary: After about ten rounds, with both birds distressed, the contest
+    ends if either cock raises its back feathers in the way that declares it vanquished.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 25528-25538
+  quote_or_summary: In the tenth round one cock’s right eyeball is broken and its
+    left eye blocked; although temporarily blind, it refuses to surrender and fights
+    to the end of the round.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 25538-25543
+  quote_or_summary: The handler of the blinded bird obtains needle and thread and
+    sews the swollen lower lid to cheek membrane, partly restoring sight.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 25544-25550
+  quote_or_summary: When the contest resumes, the injured cock strikes back effectively;
+    before the coconut shell is half full of water, the opponent surrenders and is
+    snatched up by its keeper.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 25550-25561
+  quote_or_summary: The victor is wet, bloody, partly blinded, and held open by thread,
+    yet it staggers across the cockpit, gives a weak crow, and is carried off by an
+    admiring crowd to be tended and nursed.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 25561-25566
+  quote_or_summary: The narrator states that either bird can stop fighting at any
+    time and is never forced to continue once it has declared defeat.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 25566-25580
+  quote_or_summary: The narrator says fighting birds follow natural instinct, praises
+    their courage and endurance, and compares fighting-cocks with quail, doves, other
+    animals, fish, and human beings.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summary of supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a clear ethnographic description of cock-fighting practices.
+    Motif candidates are limited to observable narrative patterns because the passage
+    contains no explicit mythic or supernatural framing and no supported taxonomy
+    motif-family match.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No historical-contact, common-inheritance, or archetypal comparison claims were extracted because the passage itself does not support them.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l25505-l25580
+  passage_sha256=b3364f07b72178d61d4321d3b652db84ebf81d3b83c3b161958a6f818d9a70e1
+

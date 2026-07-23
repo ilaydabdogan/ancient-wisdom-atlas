@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l10973-l11036
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: NO. XII. / NO. XIII. / NO. XIV. / NO. XVI.; lines 10973-11036
+  start: '10973'
+  end: '11036'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes identify No. XVI as a Mbaka story classed with judicial-sentence
+    tales and with stories explaining a habit, specifically the turtle-dove’s cooing.
+    The notes also explain bird names, an idiom comparing hives to drums, a baobab-fibre
+    proverb, legal vocabulary, and the title or name Mukulu.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The editor says the story belongs to the class of judicial sentences and compares
+    it with Nos. XXVI, XLII, XLIII, and XLIV.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editor says the story’s conclusion also belongs with stories that account
+    for a habit, here the turtle-dove’s cooing.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The term mu-lombe is explained as always signifying a black bird, with local
+    variation in the bird identified by the term.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The idiom translated literally as “to eat the drums” is explained as meaning
+    to empty the hives; hives are called drums because of their shape and size.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A proverb states that before hammering baobab-fibre one must peel the baobab,
+    meaning that one action depends on the previous execution of another.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The word Mukulu is described as appearing as the name of God in several South-African
+    languages and as a title meaning the great one, old one, or chief.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The verb ku-kolela is glossed as to accuse and have summoned.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The expression ku di tukidula is glossed as to manifest oneself, hence to
+    confess.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: turtle-dove
+  description: Bird whose cooing is identified as the habit accounted for by the story’s
+    conclusion.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: mu-lombe / black bird
+  description: Bird-name explained by the editor as a black bird, possibly a kind
+    of crow in the Mbaka context.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: etiological animal subject
+  assigned_to:
+  - fig:1
+  basis: The editorial note says the story accounts for the turtle-dove’s cooing.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: lexical bird referent
+  assigned_to:
+  - fig:2
+  basis: The note explains mu-lombe as a bird term and discusses its local referents.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: turtle-dove cooing
+  literal_form: animal habit or sound
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: black bird
+  literal_form: mu-lombe bird-name; black bird or crow-like bird
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: drum-shaped hive
+  literal_form: hive called a drum because it resembles a large tom-tom
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: baobab tree and fibre
+  literal_form: baobab bark and inner fibre that must be peeled and hammered
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Mukulu title
+  literal_form: title or name meaning great one, old one, or chief
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: judicial sentence tale
+  taxonomy_refs: []
+  basis: The editor explicitly classifies the story as belonging to the class of judicial
+    sentences.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only the editorial classification, not the narrative
+    judgment scene itself.
+- id: motif:2
+  label: etiology of an animal habit
+  taxonomy_refs: []
+  basis: The editor says the conclusion accounts for the turtle-dove’s cooing.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not include the tale’s conclusion, only the note describing
+    its function.
+- id: motif:3
+  label: prerequisite-action proverb
+  taxonomy_refs: []
+  basis: The baobab proverb is explained as meaning that one thing depends on the
+    prior execution of another.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an explanatory proverb in the notes rather than a narrative episode.
+comparison_claims:
+- id: claim:1
+  claim: The editor explicitly compares No. XVI with Nos. XXVI, XLII, XLIII, and XLIV
+    as belonging to the same class of judicial-sentence stories.
+  claim_level: same_motif
+  target: Nos. XXVI, XLII, XLIII, and XLIV in the same collection
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The compared passages are not included in the supplied excerpt.
+- id: claim:2
+  claim: The editor places the story’s conclusion within a broader pattern of stories
+    that explain a habit, here the turtle-dove’s cooing.
+  claim_level: same_function
+  target: habit-account or etiological stories
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage names the functional class but does not provide other examples
+    beyond the turtle-dove’s cooing.
+- id: claim:3
+  claim: The note states that Mukulu appears as the name of God in several South-African
+    languages, indicating a linguistic comparison of a title or divine name.
+  claim_level: linguistic_similarity
+  target: several South-African languages using Mukulu as a name of God
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The languages are not named, and the observation is lexical rather
+    than a narrative motif comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 10973-10979
+  quote_or_summary: "“This story belongs to the class of judicial sentences” and also
+    to stories accounting for a habit, specifically “the turtle-dove’s cooing.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 10981-10989
+  quote_or_summary: The note explains mu-lombe as a term for a black bird and discusses
+    its differing local referents, including a crow-like bird and a smaller black-plumaged
+    bird.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 10995-11002
+  quote_or_summary: The note glosses “to eat the drums” as “to empty the hives” and
+    explains that hives are called drums because they match the shape and size of
+    a large tom-tom.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt and summary used for evidence.
+- id: ev:4
+  type: summary
+  locator: 11004-11010
+  quote_or_summary: The baobab proverb says one must peel the baobab before hammering
+    baobab-fibre; the editor explains this as dependence of one action on a previous
+    action.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 11024-11026
+  quote_or_summary: Mukulu is described as a word appearing as the name of God in
+    several South-African languages and as a title derived from a verb meaning to
+    grow, hence great one, old one, or chief.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 11018-11020
+  quote_or_summary: Ku-kolela is glossed as to accuse and have summoned, from ku-kola,
+    to call.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 11032-11036
+  quote_or_summary: Ku di tukidula is glossed as to manifest oneself, hence to confess;
+    another verb for confess is said to mean literally to spit out.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly editorial and linguistic commentary, not the narrative
+    text itself. Classifications explicitly stated by the editor are high confidence;
+    narrative motif detail remains limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No narrative episodes were reconstructed beyond the editor’s explicit classifications and glosses.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l10973-l11036
+  passage_sha256=3869e9492700b83c2cd7bc00a6461b41808bada3c0a4a011e6d16d6382ac019e
+

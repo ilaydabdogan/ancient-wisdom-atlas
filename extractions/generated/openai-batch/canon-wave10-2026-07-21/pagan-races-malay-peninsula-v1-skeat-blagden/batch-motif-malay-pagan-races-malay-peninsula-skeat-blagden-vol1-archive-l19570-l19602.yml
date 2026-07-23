@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.malay-pagan-races-malay-peninsula-skeat-blagden-vol1-archive-l19570-l19602
+source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+passage_locator:
+  label: KAJ  OF  PEA / CULTIVATION / PART  II / VOL.  I  2  B; lines 19570-19602
+  start: '19570'
+  end: '19602'
+  translation: Pagan Races of the Malay Peninsula, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists agricultural practices of several Orang Laut groups.
+    The Sabimba are said to have abstained from planting and to have relied on jungle
+    wild fruits. The Orang Muka Kuning are said not to have cultivated plants or bred
+    animals except dogs. The Beduanda Kallang are said not to have cultivated plants
+    and to have reported an ancestral vow against making cultivation clearings, with
+    death believed to follow if the vow were broken.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Sabimba are described as abstaining from planting.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sabimba are described as having vegetables consisting of wild fruits of
+    the jungle.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Orang Muka Kuning are described as not cultivating plants.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Orang Muka Kuning are described as not breeding animals except dogs.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Beduanda Kallang are described as not cultivating plants.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Beduanda Kallang are said to have asserted that their ancestors made a
+    vow on behalf of the tribe never to make cultivation clearings.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Beduanda Kallang are said to have believed that breaking the vow would
+    result in death.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Orang Laut, Sabimba
+  description: An Orang Laut group described as abstaining from planting and relying
+    on wild fruits of the jungle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Orang Laut, Muka Kuning
+  description: An Orang Laut group described as not cultivating plants and not breeding
+    animals except dogs.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Orang Laut, Beduanda Kallang
+  description: An Orang Laut group described as not cultivating plants and as reporting
+    an ancestral vow against making cultivation clearings.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Ancestors of the Beduanda Kallang
+  description: Ancestors said by the Beduanda Kallang to have made a vow on behalf
+    of the tribe never to make cultivation clearings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Non-cultivating or non-planting group
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: Each named group is described as abstaining from planting or not cultivating
+    plants.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Group with dogs as the only bred animals
+  assigned_to:
+  - fig:2
+  basis: The Orang Muka Kuning are described as breeding no animals except dogs.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Tribe bound by ancestral vow against cultivation clearings
+  assigned_to:
+  - fig:3
+  basis: The Beduanda Kallang are said to have asserted an ancestral vow never to
+    make clearings for cultivation.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Ancestral vow-makers
+  assigned_to:
+  - fig:4
+  basis: The ancestors are identified as having made the vow on behalf of the tribe.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Jungle wild fruits
+  literal_form: wild fruits of the jungle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Dogs
+  literal_form: dogs as the only animals bred by the Orang Muka Kuning
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Cultivation clearings
+  literal_form: clearings made for the purpose of cultivation
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sabimba abstention from planting
+  summary: The Sabimba are described as not planting and consequently using wild jungle
+    fruits as vegetables.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Muka Kuning non-cultivation and dog exception
+  summary: The Orang Muka Kuning are described as not cultivating plants and not breeding
+    animals except dogs.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Beduanda Kallang ancestral no-clearing vow
+  summary: The Beduanda Kallang are described as not cultivating plants and as believing
+    that an ancestral vow forbids making cultivation clearings, with death as the
+    consequence of breach.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Repeated non-cultivation among named Orang Laut groups
+  taxonomy_refs: []
+  basis: The passage presents the Sabimba, Orang Muka Kuning, and Beduanda Kallang
+    as abstaining from planting or not cultivating plants.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic pattern in the passage rather than a narrated
+    mythic episode.
+- id: motif:2
+  label: Ancestral vow prohibiting cultivation clearings
+  taxonomy_refs: []
+  basis: The Beduanda Kallang are said to report that their ancestors made a vow on
+    behalf of the tribe never to make cultivation clearings.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No deity, ritual agent, or mythic origin narrative is specified in the
+    passage.
+- id: motif:3
+  label: Death consequence for breaking a tribal prohibition
+  taxonomy_refs: []
+  basis: The Beduanda Kallang are said to believe that death would result if one of
+    them broke the ancestral vow.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not state the mechanism or agent causing death.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19578-19581
+  quote_or_summary: The Sabimba are described as abstaining from planting, with their
+    vegetables consisting of wild fruits of the jungle.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 19583-19587
+  quote_or_summary: The Orang Muka Kuning are described as not cultivating plants
+    and not breeding animals except dogs.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 19589-19597
+  quote_or_summary: The Beduanda Kallang are described as not cultivating plants;
+    they state that their ancestors vowed for the tribe never to make cultivation
+    clearings and that death would follow breach of the vow.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The core statements are intelligible, but the passage contains OCR corruption
+    and footnote clutter. Motif candidates are limited because the passage is primarily
+    ethnographic and contains little narrative mythic material.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparisons were added; taxonomy references were left empty because the passage does not explicitly support a listed motif-family assignment.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-pagan-races-malay-peninsula-skeat-blagden-vol1-archive__l19570-l19602
+  passage_sha256=4720ddd98ce6d7d513bf856b0be77c397e57938202c1e43e17be13b7909a8e9d
+

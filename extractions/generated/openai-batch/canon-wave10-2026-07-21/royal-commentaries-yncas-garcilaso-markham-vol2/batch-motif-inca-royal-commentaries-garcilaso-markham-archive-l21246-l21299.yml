@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l21246-l21299
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / CHAPTER  XX. / OF  THE  SHEEP  AND  CATS.
+    / NINTH  BOOK  OF  THE  ROYAL; lines 21246-21299
+  start: '21246'
+  end: '21299'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage distinguishes Castilian sheep from Peruvian llamas, recounts
+    the arrival and falling prices of sheep in Cuzco and Peru, notes the absence of
+    wolves, and explains that cats were unknown before the Spaniards. It also explains
+    the Indian word misitu for cat as derived from Spanish calling sounds, and uses
+    this to correct mistaken arguments that indigenous names prove pre-conquest presence,
+    with a parallel case involving domestic fowls called Atahuallpa.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator says Spaniards improperly called Peruvian llamas by the name
+    of sheep, though he says llamas do not resemble sheep.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator does not know when sheep first arrived in Peru or who brought
+    them, but says the first he saw were at Cuzco in 1556.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Sheep at Cuzco are described as initially expensive, later dropping substantially
+    in price and becoming common; their wool also became plentiful and cheap.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The passage states that wolves were not taken to Peru because they were considered
+    of no use or value.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that Indians had no cats before the arrival of the Spaniards.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The word misitu for cat is explained as entering the language of the Indians
+    from hearing Spaniards say miz miz when calling cats.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The narrator says Spaniards might wrongly infer from an Indian word for cat
+    that Indians had cats before the conquest.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: 'The passage reports a similar mistaken argument about domestic fowls: because
+    Indians call them Atahuallpa or gualpa, a Spanish historian argued they existed
+    in Peru before the Spaniards arrived.'
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The narrator rejects the form gualpa as the proper derivation and says the
+    word should be Atahuallpa.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: The first-person speaker recounts observations from Cuzco, letters
+    received from Cuzco, and explanations of animal names.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Spaniards
+  description: They are described as calling llamas sheep, bringing or being associated
+    with post-conquest animals such as cats, and saying miz miz when calling cats.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Indians
+  description: They are described as lacking cats before the Spaniards, adopting the
+    word misitu for cats, and using names such as Atahuallpa for domestic fowls.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Spanish historian
+  description: An unnamed Spanish historian is described as arguing that the Indian
+    name for domestic fowl proves pre-conquest possession of such birds.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Eyewitness and explanatory narrator
+  assigned_to:
+  - fig:1
+  basis: The speaker reports what he saw in Cuzco, what letters later told him, and
+    linguistic explanations of misitu and Atahuallpa.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:2
+  label: Foreign namers of local animals
+  assigned_to:
+  - fig:2
+  basis: The Spaniards are said to have improperly called llamas by the name sheep.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Source of introduced cat-name sound
+  assigned_to:
+  - fig:2
+  basis: The Indians are said to have formed misitu after hearing Spaniards say miz
+    miz to cats.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Adopters of post-conquest animal terms
+  assigned_to:
+  - fig:3
+  basis: The Indians are described as using misitu for cat and Atahuallpa for domestic
+    fowl.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: Mistaken historical interpreter
+  assigned_to:
+  - fig:4
+  basis: The historian is described as arguing from the indigenous bird name that
+    domestic fowls existed before the Spaniards, a claim the narrator disputes.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Castilian sheep
+  literal_form: Sheep of Castille in Peru
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Peruvian llama misnamed as sheep
+  literal_form: Llamas of Peru called sheep by Spaniards
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Cat named misitu
+  literal_form: Cat and the Indian word misitu, derived from Spanish miz miz
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: Domestic fowl named Atahuallpa
+  literal_form: Domestic fowl referred to by the Indian name Atahuallpa, with disputed
+    form gualpa
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Castilian sheep distinguished from llamas and traced in Cuzco
+  summary: The narrator distinguishes European sheep from Peruvian llamas, reports
+    seeing sheep in Cuzco in 1556 at high prices, and describes their later abundance
+    and cheapness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Cats introduced and named misitu
+  summary: The narrator states that cats were not present before the Spaniards and
+    explains the Indian word misitu as borrowed from the Spaniards' calling sound
+    miz miz.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Correction of mistaken inference from animal names
+  summary: The narrator warns that an indigenous animal name can be mistaken as evidence
+    for pre-conquest presence, citing cats and the Spanish historian's argument about
+    domestic fowls called Atahuallpa or gualpa.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Post-contact animal introduction and naming
+  taxonomy_refs: []
+  basis: The passage repeatedly explains that certain animals or names became present
+    only after Spanish arrival, especially cats named misitu from Spanish miz miz
+    and sheep of Castille becoming common in Peru.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a historical-linguistic pattern rather than a mythological motif,
+    and no supplied taxonomy family directly matches it.
+- id: motif:2
+  label: Mistaken proof from inherited or adopted names
+  taxonomy_refs: []
+  basis: The narrator explicitly warns that Spaniards may infer pre-conquest presence
+    from Indian animal names, and gives domestic fowls called Atahuallpa as a similar
+    mistaken case.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage supports the interpretive pattern, but it is presented as
+    historiographical correction, not as a narrative myth motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21246-21254
+  quote_or_summary: The passage says Spaniards improperly called Peruvian llamas sheep,
+    although the narrator says they do not resemble sheep.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 21254-21265
+  quote_or_summary: The narrator does not know when sheep first arrived, but says
+    the first he saw were at Cuzco in 1556, selling at high prices; he also notes
+    mutton was still absent from butchers' shops in 1560.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 21265-21278
+  quote_or_summary: Letters from Cuzco in 1590 report much lower sheep prices; the
+    passage says sheep became common, often bore two or three lambs, and produced
+    cheap plentiful wool.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 21278-21281
+  quote_or_summary: The passage says there are no wolves in Peru because, being of
+    no use or value, they were not taken there.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 21282-21290
+  quote_or_summary: The passage says Indians had no cats before the Spaniards; now
+    they have cats and call them misitu because they heard Spaniards say miz miz when
+    calling them.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 21290-21295
+  quote_or_summary: The narrator explains that Spaniards might misunderstand the word
+    misitu and think Indians had cats before the conquest.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 21295-21299
+  quote_or_summary: 'The passage compares the cat-name issue to domestic fowls: an
+    unnamed Spanish historian argued that the name gualpa proved pre-conquest presence,
+    but the narrator says the derivation should be Atahuallpa and promises the story
+    later.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily historical, economic, and linguistic rather than
+    mythological. Literal extraction is strong; motif candidates are limited to broad
+    passage-supported patterns with no taxonomy match. No comparison claims were made
+    because the passage itself does not support comparison to another mythic corpus
+    or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned; animals and names are treated as salient literal forms rather than as established mythological symbols.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l21246-l21299
+  passage_sha256=aece2a8ecf46cd10029e3c47ea4cd9398e22e49910daf49fd643bb38cc383e9d
+

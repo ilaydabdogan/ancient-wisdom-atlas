@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l19193-l19233
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: FIGHT   BETWEEN   MARDUK   AND   TIAMAT  301 / FIGHT   BETWEEN   MARDUK   AND   TIAMAT         303
+    / SHORTER  BABYLONIAN  LEGENDS / THE  LEGEND  OF  ZU,  THE  STORM-BIRD; lines
+    19193-19233
+  start: '19193'
+  end: '19233'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The fragment introduces the Legend of Zu, the Storm-Bird, under the heading
+    of the theft of the Tablets of Destiny. Zu approaches Bel, sees Bel's divine insignia
+    and the Tablets of Destiny, desires supremacy, declares that he will take the
+    tablet and rule divine decrees, waits at the palace entrance at dawn, and seizes
+    the Tablets after Bel washes, ascends his throne, and crowns himself.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as the Legend of Zu, the Storm-Bird, with a subsection
+    titled the theft of the Tablets of Destiny.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Zu approaches Bel, and the brightness of pure waters is before him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Zu sees Bel's insignia of supremacy, crown of sovereignty, and robe of godhead.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Zu gazes at the Tablets of Destiny, which are said to belong to the god.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Zu desires supremacy after seeing the figure described as the father of the
+    gods and god of Duranki.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Zu says he will take the tablet of destiny, direct the gods' decrees, establish
+    a throne, dispense commands, and rule the spirits of Heaven.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After planning an attack, Zu waits for morning at the entrance to the palace
+    of the gods.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Bel washes in pure waters, ascends his throne, and places the crown on his
+    head.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Zu seizes the Tablets of Destiny with his hand.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Zu
+  description: A being identified in the heading as the Storm-Bird; in the passage
+    he approaches Bel, sees the Tablets of Destiny, desires supremacy, announces his
+    intention to take the tablet, waits at the palace entrance, and seizes the Tablets.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Bel
+  description: A divine figure associated with pure waters, insignia of supremacy,
+    a crown of sovereignty, a robe of godhead, a throne, and the Tablets of Destiny.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+roles:
+- id: role:1
+  label: storm-bird
+  assigned_to:
+  - fig:1
+  basis: The passage heading calls Zu the Storm-Bird.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: would-be divine ruler
+  assigned_to:
+  - fig:1
+  basis: Zu says he will take the tablet, direct divine decrees, establish a throne,
+    dispense commands, and rule the spirits of Heaven.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: seizer of the Tablets of Destiny
+  assigned_to:
+  - fig:1
+  basis: The passage states that Zu seized the Tablets of Destiny with his hand.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: divine sovereign
+  assigned_to:
+  - fig:2
+  basis: Bel is shown with insignia of supremacy, crown of sovereignty, robe of godhead,
+    and a throne.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: holder associated with the Tablets of Destiny
+  assigned_to:
+  - fig:2
+  basis: Zu gazes at the Tablets of Destiny belonging to the god after approaching
+    Bel and seeing Bel's regalia.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Tablets of Destiny
+  literal_form: tablets
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: crown of sovereignty
+  literal_form: crown or royal cap
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: robe of godhead
+  literal_form: robe
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: pure waters
+  literal_form: water
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:5
+  label: throne
+  literal_form: throne
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:6
+  label: palace of the gods
+  literal_form: palace entrance
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Zu sees Bel's divine emblems
+  summary: Zu approaches Bel and sees pure waters, Bel's insignia of supremacy, crown,
+    robe, and the Tablets of Destiny.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Zu forms and states his plan
+  summary: Zu desires supremacy and says he will take the tablet, direct divine decrees,
+    establish a throne, issue commands, and rule the spirits of Heaven.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Zu waits at the palace entrance
+  summary: After planning an attack, Zu waits for morning at the entrance to the palace
+    of the gods.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Bel enthroned and the Tablets seized
+  summary: Bel washes, ascends his throne, and crowns himself; Zu then seizes the
+    Tablets of Destiny with his hand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: theft of a divine authority object
+  taxonomy_refs:
+  - sacred_theft
+  basis: The subsection title names the theft of the Tablets of Destiny, and the narrative
+    has Zu plan to take the tablet and then seize the Tablets from the divine setting.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The fragment ends immediately after the seizure; consequences are not
+    included in this passage.
+- id: motif:2
+  label: usurpation of divine sovereignty
+  taxonomy_refs: []
+  basis: Zu's stated aim is to take the tablet, direct the gods' decrees, establish
+    a throne, issue commands, and rule the spirits of Heaven.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives Zu's intention and initial act, but not the full outcome
+    of the attempted usurpation.
+- id: motif:3
+  label: destiny tablet as source of decrees
+  taxonomy_refs: []
+  basis: Zu identifies the tablet of destiny with the ability to direct the decrees
+    or oracles of the gods.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states Zu's claim about what he will do with the tablet; it
+    does not provide a separate explanation of how the Tablets function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 19193-19200
+  quote_or_summary: 'Headings: “THE LEGEND OF ZU, THE STORM-BIRD” and “THE THEFT OF
+    THE TABLETS OF DESTINY.”'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: within 19193-19233, early narrative
+  quote_or_summary: Zu approaches Bel; pure waters are before him; his eyes behold
+    Bel's insignia of supremacy, crown of sovereignty, and robe of godhead.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: within 19193-19233, Zu views the Tablets
+  quote_or_summary: Zu gazes at the Tablets of Destiny belonging to the god and, on
+    seeing the father of the gods and god of Duranki, desires supremacy.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: within 19193-19233, Zu's speech
+  quote_or_summary: 'Zu says: “I will take the tablet of destiny,” direct the gods''
+    decrees, establish a throne, dispense commands, and rule the spirits of Heaven.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: within 19193-19233, after Zu's speech
+  quote_or_summary: After planning the attack, Zu waits for morning at the entrance
+    to the palace of the gods.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: within 19193-19233, closing lines
+  quote_or_summary: Bel washes in pure waters, ascends his throne, and places the
+    crown on his head; Zu seizes the Tablets of Destiny with his hand.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited to the supplied fragment. Some opening lines are broken,
+    and the passage stops immediately after the seizure of the Tablets, so later narrative
+    consequences are not assessed. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the provided passage and metadata were used. Fragmentary and damaged lines at the beginning were not reconstructed.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l19193-l19233
+  passage_sha256=8491c15ff186e2ab1c0225d39f87847c8912beaaf583e0f92b9b43defb99b31b
+

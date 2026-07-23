@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.korean-corea-the-hermit-nation-griffis-archive-l8284-l8301
+source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+passage_locator:
+  label: CHAPTER  xxry. / THE  KING  AND  EOYAL  PALACE. / THE  KING  AND  KOYAL  PALACE.  219
+    / THE  KING  AND  ROYAL  PALACE.  221; lines 8284-8301
+  start: '8284'
+  end: '8301'
+  translation: Corea, the Hermit Nation
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Korean king's rare public outings from the palace,
+    the public preparations and enforced gestures of deference along the route, the
+    right of appeal by petitioners at the roadside, and the large scale of the royal
+    procession with guards, attendants, and two identical sedan chairs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The king rarely leaves the palace, and when he does the occasion is announced
+    to the public in advance.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The roads are swept clean and guarded so that traffic or passage is prevented
+    while the royal cortege moves.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Doors must be shut, and each house owner must kneel before his threshold holding
+    a broom and dust-pan described as emblems of obeisance.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Windows, especially upper windows, must be sealed with slips of paper to prevent
+    anyone from looking down upon the king.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: People who believe they have received unjust punishment have a stated right
+    of appeal to the sovereign.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Petitioners stand by the roadside tapping a small flat hide drum and may present
+    a written petition held in split bamboo as the king passes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The king may hear the prayer, receive the written petition, and investigate
+    the grievance.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: If the complaint is groundless, the petitioner may be executed.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The royal procession is described as a very grand spectacle, with a body-guard
+    and train numbering many thousand persons.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Two sedan chairs made exactly alike are present in the procession.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the king
+  description: The sovereign who rarely leaves the palace, passes through the prepared
+    route, receives appeals, and travels with a large body-guard and train.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: house owners along the route
+  description: Owners of houses who must kneel at their thresholds holding a broom
+    and dust-pan while doors are shut and windows sealed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: petitioners claiming unjust punishment
+  description: Persons who stand by the roadside, tap a small flat drum, and may present
+    a written petition to the king.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: royal body-guard and train
+  description: Many thousand persons accompanying the king in the procession.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: sovereign ruler
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the king as the sovereign who travels in the royal
+    cortege and receives appeals.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: obeisant householders
+  assigned_to:
+  - fig:2
+  basis: House owners are required to kneel with broom and dust-pan as emblems of
+    obeisance.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: appellants or petitioners
+  assigned_to:
+  - fig:3
+  basis: People claiming unjust punishment appeal to the sovereign by roadside drum
+    and petition.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: royal escort
+  assigned_to:
+  - fig:4
+  basis: The king's body-guard and train accompany the procession and number many
+    thousand persons.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: broom and dust-pan as obeisance emblems
+  literal_form: broom and dust-pan held by kneeling house owners
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sealed windows as enforced deference
+  literal_form: windows sealed with slips of paper, especially upper windows
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: roadside appeal drum
+  literal_form: small flat drum of hide stretched on a hoop like a battledore
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: petition in split bamboo
+  literal_form: written petition held in split bamboo
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: identical sedan chairs
+  literal_form: two sedan chairs made exactly alike
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: announced royal departure and road preparation
+  summary: The king's rare departure from the palace is publicly announced, and roads
+    are cleaned and guarded against traffic while the cortege moves.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: public obeisance along the route
+  summary: Householders must shut doors, kneel at thresholds with broom and dust-pan,
+    and seal windows so no one looks down upon the king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: roadside appeal to the sovereign
+  summary: Persons claiming unjust punishment signal with a small drum and may present
+    a petition in split bamboo; the king may hear, receive, and investigate the grievance,
+    though a groundless complaint may be fatal.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: grand royal procession
+  summary: The procession is described as a grand spectacle with many thousands in
+    the body-guard and train and two identical sedan chairs.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: secluded ruler's rare public procession
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The king rarely leaves the palace; when he does, the outing is preannounced,
+    roads are cleared and guarded, and a large procession accompanies him.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage is descriptive historical ethnography rather than a mythic
+    narrative; the taxonomy link is functional and should be reviewed.
+- id: motif:2
+  label: ritualized obeisance to the passing sovereign
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Householders kneel at thresholds with broom and dust-pan as emblems of obeisance,
+    and windows are sealed so no one looks down upon the king.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives public protocol and symbolic objects, not an explicit
+    mythic explanation.
+- id: motif:3
+  label: direct appeal to sovereign justice
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Persons claiming unjust punishment may appeal to the king by roadside drum
+    and written petition, and the king may investigate the grievance.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The motif is political-ritual rather than explicitly sacred; the severe
+    penalty for groundless complaint complicates the justice motif.
+- id: motif:4
+  label: dangerous petition before the ruler
+  taxonomy_refs: []
+  basis: A petitioner may seek royal review, but a groundless complaint may result
+    in losing his head.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No broader comparative claim is made; this is a candidate local narrative-pattern
+    element.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8284-8287
+  quote_or_summary: The king rarely leaves the palace; when he does, the occasion
+    is announced, and roads are swept and guarded to stop traffic while the royal
+    cortege moves.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 8288-8292
+  quote_or_summary: Doors must be shut; each house owner kneels at the threshold with
+    broom and dust-pan as emblems of obeisance; windows are sealed with slips of paper
+    so no one looks down upon the king.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 8292-8298
+  quote_or_summary: Those claiming unjust punishment may appeal to the sovereign by
+    standing roadside, tapping a small flat drum, and presenting a written petition
+    in split bamboo; the king may investigate, but a groundless complaint may cost
+    the petitioner his head.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 8298-8301
+  quote_or_summary: The procession is described as a grand spectacle with a body-guard
+    and train of many thousand persons and two sedan chairs made exactly alike.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are cautious because the passage is historical description, not mythic narrative.
+    No comparison claims were made because the passage itself does not support external
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. No external comparisons or unsupported taxonomy references added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-corea-the-hermit-nation-griffis-archive__l8284-l8301
+  passage_sha256=924f3621b1baced877a2d18b500ffb94921ce03b6867011fbadb66dd0349f668
+

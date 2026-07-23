@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.korean-corea-the-hermit-nation-griffis-archive-l853-l873
+source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+passage_locator:
+  label: THE  OLD  KINGDOM  OF  CHO-SEN.  17 / CHAPTER  III. / THE  PUYU  RACE  AND  THEIR  MIGRATIONS.
+    / COBEA.; lines 853-873
+  start: '853'
+  end: '873'
+  translation: Corea, the Hermit Nation
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: '"Alas ! shall I, who am the child of the Sun, and the grandson of the Yellow
+    River, be stopped here powerless by this stream."'
+  summary: A young archer, fearing death if he remains in royal service, flees southeast
+    and reaches a vast impassable river with pursuers near behind. He declares himself
+    child of the Sun and grandson of the Yellow River, shoots arrows at the water,
+    and the river fish gather into a dense floating bridge.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A young archer flees the kingdom because he knows he would be killed if he
+    remained in royal service.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: He travels southeast to the border of a vast and impassable river, identified
+    by the narrator as probably the Sungari.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: His pursuers are described as not far behind him.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The youth cries out that he is the child of the Sun and the grandson of the
+    Yellow River.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: He shoots his arrows at the water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: All the fishes of the river assemble into a thick shoal whose bodies become
+    a floating bridge.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The image caption identifies the scene as the Founder of Fuyu crossing the
+    Sungari River.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: young archer / young prince / founder of Fuyu
+  description: A youth in royal service who flees the kingdom, claims descent from
+    the Sun and Yellow River, shoots arrows at the water, and is associated by the
+    caption with the founding of Fuyu.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: pursuers
+  description: Unspecified pursuers who are not far behind the fleeing youth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: fishes of the river
+  description: All the fishes of the river assemble into a dense shoal forming a floating
+    bridge.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: fugitive youth
+  assigned_to:
+  - fig:1
+  basis: He flees the kingdom to avoid being killed in royal service.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine-lineage claimant
+  assigned_to:
+  - fig:1
+  basis: In speech he calls himself the child of the Sun and grandson of the Yellow
+    River.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: founder-associated prince
+  assigned_to:
+  - fig:1
+  basis: The passage calls him a young prince, and the caption identifies the crossing
+    figure as the Founder of Fuyu.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: threatening pursuers
+  assigned_to:
+  - fig:2
+  basis: They are near behind him while he is in danger.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: animal helpers forming bridge
+  assigned_to:
+  - fig:3
+  basis: The fishes assemble and their bodies become a floating bridge.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: impassable river
+  literal_form: vast and impassable river, probably the Sungari
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: arrows shot at water
+  literal_form: arrows
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: floating fish bridge
+  literal_form: dense shoal of fishes whose bodies form a floating bridge
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Sun ancestry
+  literal_form: child of the Sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Yellow River ancestry
+  literal_form: grandson of the Yellow River
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Flight from royal service
+  summary: The young archer leaves the kingdom because remaining in royal service
+    would lead to his death, and pursuers follow him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Appeal at the impassable river
+  summary: At the river, the youth speaks of his descent from the Sun and Yellow River
+    and laments being stopped by the stream.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fish bridge across the water
+  summary: The youth shoots arrows at the water, and the river fish gather into a
+    floating bridge.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: fugitive founder’s departure
+  taxonomy_refs:
+  - departure
+  - culture_hero
+  basis: The figure associated with the Founder of Fuyu flees the kingdom under threat
+    and moves toward a decisive river crossing.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage identifies him as founder only in the caption and the excerpt
+    ends before the completed crossing is fully narrated.
+- id: motif:2
+  label: royal or sacred legitimacy through cosmic descent
+  taxonomy_refs:
+  - royal_legitimacy
+  - divine_parent_child
+  basis: The youth calls himself child of the Sun and grandson of the Yellow River
+    while facing the river barrier.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives this as the youth’s speech and does not provide a full
+    birth account in the excerpt.
+- id: motif:3
+  label: miraculous water crossing by animal bridge
+  taxonomy_refs: []
+  basis: After the youth shoots arrows at the water, the river fish assemble into
+    a dense floating bridge.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No exact matching taxonomy reference is supplied for this specific crossing
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 853-859
+  quote_or_summary: The young archer, threatened with death in royal service, flees
+    southeast to a vast impassable river while pursuers are close behind.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 864-866
+  quote_or_summary: '"Alas ! shall I, who am the child of the Sun, and the grandson
+    of the Yellow River, be stopped here powerless by this stream."'
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 868-873
+  quote_or_summary: He shoots arrows at the water; immediately all the river fish
+    assemble in a thick shoal, making a dense floating bridge with their bodies.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: citation
+  locator: caption between lines 859 and 864
+  quote_or_summary: 'Caption: The Founder of Fuyu Crossing the Sungari River.'
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; citation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied excerpt. Motif labels involving
+    founding and divine descent require review because the passage is partial and
+    some information appears in a caption or in direct speech.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparisons were added; the passage itself supports a miraculous river-crossing pattern but no exact supplied taxonomy family covers it.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-corea-the-hermit-nation-griffis-archive__l853-l873
+  passage_sha256=d53fc42e40d23b6a449506c298c39374216d4b9f06752ad1d4a8de9ab0f63857
+

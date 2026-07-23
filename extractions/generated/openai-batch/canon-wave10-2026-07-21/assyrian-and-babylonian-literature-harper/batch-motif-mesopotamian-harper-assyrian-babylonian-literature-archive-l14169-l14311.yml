@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l14169-l14311
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: THE  ASSYRIAN    EPONYM-LIST / THE   ASSYRIAN  EPONYM-LIST / ASSYRIAN   EPONYM-LIST,  WITH   NOTES
+    / ASSYRIAN    EPONYM-LIST,  WITH   NOTES; lines 14169-14311
+  start: '14169'
+  end: '14311'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Fragmentary English translation of Assyrian eponym-list entries numbered
+    860 through the beginning of 816. The passage records Shulmanu-asharidu's accession,
+    eponym-year officials, repeated notices of movement or expedition to named lands,
+    an entry in which the great god goes out from Der, and a sequence of revolt notices.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The entry numbered 860 names Shulmanu-asharidu, also given as Shalmaneser,
+    as son of Ashurnagirpal.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The entry numbered 860 says Shulmanu-asharidu took his seat on the throne,
+    with the wording partly restored in brackets.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The entry numbered 858 calls Shulmanu-asharidu King of Assyria in an eponym-year
+    notice.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Entries numbered 859 through 849 list eponym-years associated with named persons
+    or officials, with many portions fragmentary.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After a noted break after entry 848, entries numbered 841 through 830 repeatedly
+    use notices of movement to named lands.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: obs:6
+  text: The entry numbered 834 includes movement to the land of Que and states that
+    the great god went out from Der.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Entries numbered 829 through 824 each state a revolt.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The entry numbered 817 names Ashur-bania-ugur in brackets and mentions movement
+    to the land of Tillie; the entry numbered 816 begins with Sharpati-Bel but is
+    incomplete in the supplied passage.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Shulmanu-asharidu / Shalmaneser
+  description: Named as son of Ashurnagirpal; said to have taken his seat on the throne;
+    also called King of Assyria.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Ashurnagirpal
+  description: Named as the father of Shulmanu-asharidu.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the great god
+  description: Unnamed deity stated to have gone out from Der.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: enthroned king / King of Assyria
+  assigned_to:
+  - fig:1
+  basis: The passage says Shulmanu-asharidu took his seat on the throne and later
+    calls him King of Assyria.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: royal father
+  assigned_to:
+  - fig:2
+  basis: Ashurnagirpal is named as the father of Shulmanu-asharidu.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: unnamed divine actor
+  assigned_to:
+  - fig:3
+  basis: The passage refers to 'The great god' as the actor who went out from Der.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: throne
+  literal_form: throne
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Accession notice
+  summary: The year entry records Shulmanu-asharidu, son of Ashurnagirpal, taking
+    his seat on the throne.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Eponym-year notices
+  summary: A series of fragmentary entries lists eponym-years under named persons
+    or officials.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Movements or expeditions to named lands
+  summary: Several entries after a break record movement to named lands, with a note
+    explaining the formula as an expedition.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: scene:4
+  label: Great god goes out from Der
+  summary: One entry says that the great god went out from Der, in the context of
+    notices involving the land of Que.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Repeated revolt notices
+  summary: A sequence of entries states that there was a revolt.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: royal accession by taking the throne
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage records a named ruler taking his seat on the throne and identifies
+    him as King of Assyria.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is an administrative chronicle/list entry and does not describe
+    divine sanction, ritual legitimation, or a conflict over kingship.
+- id: motif:2
+  label: divine departure from a city
+  taxonomy_refs:
+  - departure
+  basis: The passage states that the great god went out from Der.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The deity is unnamed, and the passage gives no destination, reason, ritual
+    setting, or narrative development.
+- id: motif:3
+  label: repeated campaign or expedition itinerary
+  taxonomy_refs: []
+  basis: Multiple entries use a repeated 'to the land of' formula, and the note explains
+    the formula as an expedition.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  confidence: medium
+  cautions: This is a chronicle/list pattern rather than a clearly mythological motif.
+- id: motif:4
+  label: sequence of revolts
+  taxonomy_refs: []
+  basis: Entries numbered 829 through 824 each state 'A revolt.'
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage records revolts without narrative detail, actors, causes,
+    or mythic framing.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14169-14174; entry 860
+  quote_or_summary: '"when Shulmanu-asharidu (Shalmaneser), son of Ashurnagirpal,
+    [took his seat on the throne]."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: entry 858
+  quote_or_summary: '"In the eponym-year of Shulmanu-asharidu, King of Assyria"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: entries 859-849
+  quote_or_summary: The passage lists eponym-years for named persons or officials
+    including Sharru-kalab-nishe, Ashur-bel-ukin, Ashur-bana-ugur, Ashur-ina-ekalli-lilbur,
+    Dain-Ashur, Shamash-abua, Shamash-bel-ucur, Bel-bana, Hadil-ebushu, Nergal-alik-mahri,
+    and Bir(ilu)Ramana; many entries are fragmentary.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: entries 841-830
+  quote_or_summary: After a break after 848, entries repeatedly record movement 'to
+    the land of' places such as Tilli, Ragappa/Razeph, Danabi, Tabala, Melidi, Namri,
+    Que, Urartu, Unqi, Ulluba, and Manna.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: entry 834
+  quote_or_summary: '"To the land of Que ... to the land of Que. The great god went
+    out from Der."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: entries 829-824
+  quote_or_summary: 'Entries 829, 828, 827, 826, 825, and 824 each state: ''A revolt.'''
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized evidence with brief quoted formula.
+- id: ev:7
+  type: summary
+  locator: entries 817-816
+  quote_or_summary: Entry 817 gives bracketed Ashur-bania-ugur and movement to the
+    land of Tillie; entry 816 begins with bracketed Sharpati-Bel but is cut off in
+    the supplied passage.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: quote
+  locator: note to expedition formula
+  quote_or_summary: '"That is, an expedition to N. N."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The text is fragmentary and primarily administrative/chronological, so literal
+    extraction is more secure than motif interpretation. No passage-internal comparative
+    claim is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external identifications, dates beyond the entry numbers, or deity names were added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l14169-l14311
+  passage_sha256=d4f3a680b3e31f26834807d3c7c6e412d4ef6ae7a1e56be7f5bea384db852735
+

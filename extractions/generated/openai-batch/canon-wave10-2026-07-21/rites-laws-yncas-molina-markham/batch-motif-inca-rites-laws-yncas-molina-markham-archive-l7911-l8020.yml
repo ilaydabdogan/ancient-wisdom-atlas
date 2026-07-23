@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.inca-rites-laws-yncas-molina-markham-archive-l7911-l8020
+source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+passage_locator:
+  label: THE   END. / INDEX / INDEX.  175 / INDEX.  177; lines 7911-8020
+  start: '7911'
+  end: '8020'
+  translation: Narratives of the Rites and Laws of the Yncas
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Index entries list topics including wives, witches, wizards, worship, and
+    youths as candidates for knighthood, followed by a place-name index naming plains,
+    valleys, hills, rivers, lake districts, provinces, villages, a fortress, and a
+    hill associated with sacrifice near Cuzco.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The index entry for youths identifies them as candidates for knighthood and
+    lists discipline, races, receiving breeches, dress and ornaments, bathing, sham
+    fights, ear-boring, celibacy, and maize cultivation.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index lists witches and wizards, and notes that wizards are associated
+    with sorcerers and persecution.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The place-name index includes multiple hills, peaks, and mounts, including
+    Achpiran, Anahuarqui, Asancata peak, Carapnicu mount, and Ccapac-uilca.
+  category: setting
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:4
+  text: The place-name index includes water places and rivers, including lake Titicaca,
+    Anchi-cocha, Anco-yacu river, Apurimac river, Capi-mayu river, and places on or
+    near lake Titicaca.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Ccapac-uilca entry states that sacrifice occurred on a hill near Cuzco.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Antamarca entry states that Huascar Ynca was slain there.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Allcayriesas entry identifies them as aborigines of Cuzco, and the Achacache
+    entry identifies inhabitants called Urcos-suyus on the shores of lake Titicaca.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Youths
+  description: Candidates for knighthood named in the index entry on youths.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Witches
+  description: A category listed in the index.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Wizards
+  description: A category listed in the index, cross-referenced to sorcerers and described
+    as persecuted.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Huascar Ynca
+  description: Named as slain at Antamarca.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Allcayriesas
+  description: Identified as aborigines of Cuzco.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Urcos-suyus
+  description: Inhabitants named in connection with Achacache on the shores of lake
+    Titicaca.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: knighthood candidates
+  assigned_to:
+  - fig:1
+  basis: The youths entry calls them candidates for knighthood and lists associated
+    disciplines and rites.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: persecuted ritual specialists
+  assigned_to:
+  - fig:3
+  basis: The wizards entry cross-references sorcerers and notes persecution.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: slain ruler
+  assigned_to:
+  - fig:4
+  basis: The Antamarca entry says Huascar Ynca was slain there.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: aborigines of Cuzco
+  assigned_to:
+  - fig:5
+  basis: The Allcayriesas entry identifies them as aborigines of Cuzco.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: lake-shore inhabitants
+  assigned_to:
+  - fig:6
+  basis: The Achacache entry locates the place on lake Titicaca and names its inhabitants
+    as Urcos-suyus.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: hill or mountain setting
+  literal_form: hills, peak, and mount named in the place-name index
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: water places
+  literal_form: lake, river, and cocha/yacu place names in the index
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: sacrificial hill near Cuzco
+  literal_form: Ccapac-uilca, a hill near Cuzco where sacrifice is indexed
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Indexed knighthood-candidate rites
+  summary: The youths entry summarizes a sequence of practices associated with candidates
+    for knighthood, including discipline, races, clothing, bathing, sham fights, ear-boring,
+    celibacy, and maize cultivation.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Indexed sacrifice on Ccapac-uilca
+  summary: The place-name entry for Ccapac-uilca identifies a sacrifice associated
+    with a hill near Cuzco.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: initiation of youths into knighthood
+  taxonomy_refs:
+  - initiation
+  basis: The entry explicitly calls youths candidates for knighthood and lists bodily,
+    disciplinary, martial, and clothing-related practices associated with that candidacy.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is an index entry, not the full ritual narrative; details
+    are summarized as page references.
+- id: motif:2
+  label: sacrifice on a hill near Cuzco
+  taxonomy_refs:
+  - sacrifice
+  basis: The Ccapac-uilca entry explicitly notes sacrifice on a hill near Cuzco.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The index does not specify the sacrificial participants, occasion, offering,
+    or ritual sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 'lines 7917-7923; Index entry: Youths'
+  quote_or_summary: "“Youths. Candidates for knighthood ... discipline ... races ...
+    breeches ... dress and ornaments ... bathe ... sham fights ... ears bored ...
+    celibacy ... cultivate maize.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 'lines 7913-7916; Index entries: Witches, Wizards'
+  quote_or_summary: "“Witches, 63” and “Wizards, 13, 63 (see Sorcerers); persecuted,
+    83.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7935-7953 and 7975-7997; Place-name entries
+  quote_or_summary: The place-name index identifies Achpiran as a hill visible from
+    the Cuzco temple, Anahuarqui as a hill two leagues from Cuzco, Asancata as a peak,
+    and Carapnicu as a mount.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7937-8006; Place-name entries for lake and river locations
+  quote_or_summary: The index names water-related places including Achacache on lake
+    Titicaca, Anchi-cocha, Anco-yacu river, Apurimac river, Arapa north of lake Titicaca,
+    Cac-yaviri south of lake Titicaca, and Capi-mayu river through Cuzco.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: 'lines 7999-8000; Place-name entry: Ccapac-uilca'
+  quote_or_summary: "“Ccapac-uilca. Sacrifice on hill of, near Cuzco, 17.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: 'lines 7968-7969; Place-name entry: Antamarca'
+  quote_or_summary: "“Antamarca. Huascar Ynca slain at ... 119.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: summary
+  locator: 'lines 7937-7945; Place-name entries: Achacache and Allcayriesas'
+  quote_or_summary: Achacache is located on the shores of lake Titicaca, with inhabitants
+    called Urcos-suyus; Allcayriesas are identified as aborigines of Cuzco.
+  source_text_path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is an index, so it supplies reliable keywords and cross-references
+    but little narrative context. Motif candidates are limited to entries that explicitly
+    name ritual or initiatory content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage does not itself support a mythological comparison beyond index cross-references and source spelling notes.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-rites-laws-yncas-molina-markham-archive__l7911-l8020
+  passage_sha256=4c4425c9307fc865da92d8f84b5b1b04d59d01e0a99040f037ceb9db0ffbeca5
+

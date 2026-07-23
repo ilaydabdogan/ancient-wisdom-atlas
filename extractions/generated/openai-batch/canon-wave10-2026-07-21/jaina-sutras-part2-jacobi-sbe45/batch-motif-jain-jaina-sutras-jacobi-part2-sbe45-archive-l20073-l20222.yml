@@ -1,0 +1,541 @@
+---
+record_id: batch.motif.jain-jaina-sutras-jacobi-part2-sbe45-archive-l20073-l20222
+source_text_path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+passage_locator:
+  label: SECOND LECTURE, / CALLED / ON ACTIVITY 2. / BOOK 2, LECTURE 2. 357; lines
+    20073-20222
+  start: '20073'
+  end: '20222'
+  translation: 'Jaina Sutras, Part II: The Uttaradhyayana Sutra and the Sutrakritanga
+    (Sacred Books of the East, Vol. 45)'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage classifies five kinds of committing sins: injury prompted
+    by motive, injury not prompted by personal interest, slaying, accidental killing
+    or cutting, and killing by error of sight. It repeatedly states that bad Karman
+    accrues when a person injures, kills, causes another to do so, or consents to
+    another doing so.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first kind of committing sins is injury to movable or immovable beings
+    for one’s own sake or for the sake of relations, household, family, friends, Nagas,
+    Bhitas, or Yakshas; the passage includes doing it oneself, having it done by another,
+    or consenting to it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The second kind is killing movable living beings without seeking body parts,
+    protection, support, maintenance, or bodily benefit; the passage calls the agent
+    a fool who acquires the habit of cruelty and becomes a wanton killer.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same second kind is applied to killing or damaging immovable living beings
+    such as reeds, grasses, trees, and straw.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A person may pile up grass and light a fire, cause it to be lighted, or consent
+    to its lighting in places such as marshes, lakes, sheets of water, pasture-grounds,
+    ditches, moats, thickets, forests, and mountain settings; bad Karman accrues.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The third kind, called slaying, occurs when a person thinks that someone has
+    hurt, is hurting, or will hurt him or others, and kills movable or immovable beings,
+    causes them to be killed, or consents to their killing.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: In the accidental hunting example, a man goes hunting deer, aims an arrow
+    at what he thinks is a deer, and instead kills another animal such as a partridge,
+    duck, quail, pigeon, monkey, or francoline partridge.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: In the accidental weeding example, a man intends to cut weed-grasses with
+    a knife but instead cuts cultivated plants such as rice, Kodrava, panic seed,
+    Paraka, or Ralaka; bad Karman accrues.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: In the error-of-sight examples, a man kills a friend after mistaking him for
+    an enemy, or kills a person who is not a robber after mistaking him for one during
+    a riot.
+  category: action
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:9
+  text: Across several categories the passage treats direct action, having another
+    person act, and consenting to another’s act as karmically consequential.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: generic human agent
+  description: A man who injures, kills, lights fire, hunts, weeds, or kills by mistake
+    in the examples of sin.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: movable and immovable living beings
+  description: Living beings that are injured or killed in the classifications of
+    sin.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: relations and dependents
+  description: Relations, household, family, friends, children, cattle, and similar
+    beneficiaries or dependents mentioned as possible motives or exclusions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Nagas, Bhitas, and Yakshas
+  description: Named non-human beings for whose sake injury may be committed in the
+    first category.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: animals in hunting example
+  description: Deer as the intended target, and partridge, duck, quail, pigeon, monkey,
+    or francoline partridge as possible actual victims.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: plants in weeding example
+  description: Weed-grasses as intended targets and rice, Kodrava, panic seed, Paraka,
+    or Ralaka as plants accidentally cut.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: misidentified human victims
+  description: A friend mistaken for an enemy, and a non-robber mistaken for a robber.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: agent of harmful action
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly introduces cases where a man injures, kills, lights
+    fire, hunts, weeds, or kills by mistake.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:2
+  label: injured or killed beings
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Movable beings, immovable beings, animals, plants, friends, and non-robbers
+    are described as harmed or killed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:3
+  label: motive-recipient or named beneficiary
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The first category lists persons and named beings for whose sake injury may
+    be done.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: mistaken or substituted target participant
+  assigned_to:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The accidental and error-of-sight examples turn on confusing the intended
+    target with another being or plant.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:5
+  label: wanton killer or fool
+  assigned_to:
+  - fig:1
+  basis: The second category describes the person who sets aside reason as a fool
+    who acquires the habit of cruelty and is a wanton killer.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: bad Karman
+  literal_form: The repeated statement that bad Karman accrues to the agent.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:9
+- id: sym:2
+  label: fire
+  literal_form: A fire lighted after grass is piled up in marsh, water, pasture, thicket,
+    forest, and related settings.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: water places
+  literal_form: Marsh, lake, and sheet of water listed among places where fire may
+    be lighted.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: mountain setting
+  literal_form: Mountain and stronghold on a mountain in the bracketed place enumeration.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: arrow and knife
+  literal_form: The hunter’s arrow and the weeder’s knife used in accidental harm
+    examples.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: Nagas, Bhitas, and Yakshas
+  literal_form: Named beings listed among those for whose sake injury may be committed.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: motivated injury
+  summary: A man injures movable or immovable beings for his own sake or for the sake
+    of relations, household, family, friends, Nagas, Bhitas, or Yakshas, and bad Karman
+    accrues.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: unmotivated or wanton killing
+  summary: A man kills movable or immovable living beings without practical motive
+    or personal interest and is described as a fool and wanton killer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: grass piled and fire lighted
+  summary: A man piles grass and lights, causes, or consents to a fire in watery,
+    enclosed, thicket, forest, or mountain settings, and bad Karman accrues.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: slaying from anticipated or remembered harm
+  summary: A man thinks that harm has occurred, is occurring, or will occur to himself
+    or others, and kills movable or immovable beings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: accidental hunting substitution
+  summary: A hunter aims at a deer but kills a different animal; the passage calls
+    this accidental killing.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: accidental cutting while weeding
+  summary: A man uses a knife intending to cut weeds but cuts cultivated plants instead,
+    and bad Karman accrues.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: error of sight in household or riot
+  summary: A man kills a friend mistaken for an enemy, or a non-robber mistaken for
+    a robber during a riot, and bad Karman accrues.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: karmic consequence of injury, instigation, and consent
+  taxonomy_refs: []
+  basis: The passage repeatedly states that bad Karman accrues when a man injures
+    or kills living beings, causes another to act, or consents to another’s act.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: This is a doctrinal ethical pattern rather than a narrative myth motif.
+- id: motif:2
+  label: classification of harmful action by motive and perception
+  taxonomy_refs:
+  - wisdom
+  basis: The lecture distinguishes sins prompted by motive, not prompted by personal
+    interest, slaying, accident, and error of sight, forming a didactic taxonomy of
+    action.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage is legal-ethical
+    instruction, not a wisdom tale.
+- id: motif:3
+  label: accidental or mistaken-target killing
+  taxonomy_refs: []
+  basis: The hunting, weeding, friend-enemy, and robber examples all describe harm
+    caused when one target is mistaken for another.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The examples are didactic cases used to define sin, not an extended story.
+- id: motif:4
+  label: fire in a living landscape as karmic danger
+  taxonomy_refs: []
+  basis: The passage treats piling grass and lighting fire in marsh, lake, pasture,
+    thicket, forest, and related places as an action by which bad Karman accrues.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The fire is not described as cosmic or world-destroying; it is an ethical
+    example of harmful activity.
+comparison_claims:
+- id: claim:1
+  claim: A translator’s note states that a nearly identical enumeration of places
+    occurs in Akaranga Sutra II, 3, 3, 2.
+  claim_level: linguistic_similarity
+  target: Akaranga Sutra II, 3, 3, 2 place enumeration
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The note supports similarity of an enumeration, not a broader historical
+    or mythological claim.
+- id: claim:2
+  claim: A translator’s note explicitly compares the plant-name material with Akaranga
+    Sutra II, 2, 3, 18, while also noting variant readings.
+  claim_level: linguistic_similarity
+  target: Akaranga Sutra II, 2, 3, 18 plant-name material
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a comparison note and variants, but does not establish
+    a complete shared motif or historical dependency.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20075-20084; section 1
+  quote_or_summary: 'First kind of sin: a man injures movable or immovable beings
+    for his own sake or for relations, house, family, friends, Nagas, Bhitas, or Yakshas;
+    doing, causing, or consenting leads to bad Karman.'
+  source_text_path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 20086-20118; sections 2, 6-7
+  quote_or_summary: 'Second kind: a man kills movable beings without using their parts
+    or for defense, support, maintenance, or bodily benefit; the passage calls him
+    a fool and wanton killer. The pattern is also applied to immovable beings including
+    reeds, grasses, trees, and straw.'
+  source_text_path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 20127-20136; section 8
+  quote_or_summary: A man piles grass and lights, causes, or consents to a fire in
+    places including marsh, lake, sheet of water, pasture-ground, ditch, moat, thicket,
+    forest, and bracketed mountain settings; bad Karman accrues.
+  source_text_path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: note
+  locator: lines 20140-20144; translator note to section 8
+  quote_or_summary: The translator notes that a nearly identical enumeration of places
+    occurs in Akaranga Sutra II, 3, 3, 2, and comments that bracketed words may be
+    later additions.
+  source_text_path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+  rights_note: Public domain translation and note; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 20151-20158; section 9
+  quote_or_summary: 'Third kind called slaying: when a man thinks someone has hurt,
+    hurts, or will hurt him or others, he kills movable and immovable beings, causes
+    them to be killed, or consents; bad Karman accrues.'
+  source_text_path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 20164-20175; section 10
+  quote_or_summary: 'Accidental killing example: a deer-hunter aims an arrow at what
+    he thinks is a deer but kills another animal such as a partridge, duck, quail,
+    pigeon, monkey, or francoline partridge.'
+  source_text_path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 20177-20183; section 11
+  quote_or_summary: 'Accidental cutting example: a man weeding with a knife intends
+    to cut weed-grasses but cuts cultivated plants such as rice, Kodrava, panic seed,
+    Paraka, or Ralaka; bad Karman accrues.'
+  source_text_path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 20191-20203; section 12
+  quote_or_summary: 'Error of sight: a man living with relatives and family members
+    mistakes a friend for an enemy and kills the friend by mistake.'
+  source_text_path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 20204-20213; section 13
+  quote_or_summary: During a riot in a settlement or town, a man mistakes someone
+    who is not a robber for a robber, kills him by mistake, and bad Karman accrues.
+  source_text_path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+  rights_note: Public domain translation; summarized.
+- id: ev:10
+  type: note
+  locator: lines 20114-20125; translator notes to plant list
+  quote_or_summary: The translator compares and comments on plant-name readings with
+    Akaranga Sutra II, 2, 3, 18 and related manuscript variants.
+  source_text_path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+  rights_note: Public domain translation and notes; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The ethical classifications and examples are explicit. Motif labels are cautious
+    because the passage is doctrinal/legal instruction rather than mythic narrative.
+    Comparison claims rely only on translator notes in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external sources were used. Names and spellings follow the supplied passage where possible.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:jain-jaina-sutras-jacobi-part2-sbe45-archive__l20073-l20222
+  passage_sha256=1ecbc74a399f34e6821a07cd0bd04024c9742fe517f00a85741c7aeff02b4a39
+

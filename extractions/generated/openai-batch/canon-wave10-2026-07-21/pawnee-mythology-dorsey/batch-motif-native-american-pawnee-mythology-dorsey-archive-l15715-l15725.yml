@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l15715-l15725
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE  MEDICINE-MAN  WHO  KILLED  HIS  SON.  309 / THE  MEDICINE-MAN  WHO  KILLED  HIS  SON.  31I
+    / THE  CHIEF  S  SON  WHO  RECEIVED  THE  ANIMAL  POWER.  313 / THE  THUNDER-BIRD  CEREMONY.  315;
+    lines 15715-15725
+  start: '15715'
+  end: '15725'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A boy returns home carrying things given by a mysterious man. He travels
+    without tiring and runs faster each day. Near camp he hears his father crying
+    on a high hill, reveals himself, and tells his father not to touch him for a while.
+    They go toward camp, where his mother is also crying, and the father goes to tell
+    her that her son has returned.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The boy starts for home carrying things that were given to him by a mysterious
+    man.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boy does not seem to get tired and runs faster every day.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At night the boy sees the camp and continues slowly.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The boy hears a man crying on a high hill and sees that the man is his father.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The boy tells his father to stop crying and says that he is there.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The father sees his son and tries to put his arms around him, but the boy
+    tells him not to touch him for a while.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The boy and his father go down toward the camp, where the boy's mother is
+    close to the village crying.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The father tells the boy to wait while he goes to tell his wife that her son
+    has come back.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the boy / son
+  description: A boy who returns home, carries things given by a mysterious man, travels
+    without tiring, and tells his father not to touch him for a while.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: the mysterious man
+  description: A mysterious man who had given things to the boy before the boy started
+    home.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the father
+  description: The boy's father, found crying on a high hill; he sees his son, tries
+    to embrace him, and goes to tell his wife that her son has returned.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: the mother / wife
+  description: The boy's mother, also called the father's wife, is close to the village
+    crying and is to be told that her son has come back.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: returning son
+  assigned_to:
+  - fig:1
+  basis: The boy starts for home, reveals himself to his father, and is described
+    as having come back.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+- id: role:2
+  label: bearer of given things
+  assigned_to:
+  - fig:1
+  basis: He carries things that were given to him by the mysterious man.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: giver of things
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the mysterious man as the one who gave the boy the
+    things he carries.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: grieving father
+  assigned_to:
+  - fig:3
+  basis: The father is found crying on a high hill before the boy reveals himself.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: grieving mother
+  assigned_to:
+  - fig:4
+  basis: The mother is close to the village crying.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: announcer of return
+  assigned_to:
+  - fig:3
+  basis: The father goes to tell his wife that her son has come back.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: given things
+  literal_form: things given to the boy by the mysterious man
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: high hill
+  literal_form: a high hill where the father is crying
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: withheld embrace
+  literal_form: the father tries to put his arms around the boy, but the boy says
+    not to touch him for a while
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: camp and village
+  literal_form: the camp seen at night and the village near which the mother is crying
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+scenes:
+- id: scene:1
+  label: Boy starts home with given things
+  summary: The boy begins the journey home carrying things from the mysterious man
+    and travels with unusual endurance and increasing speed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Reunion on the high hill
+  summary: After seeing the camp, the boy hears crying on a high hill, finds his father
+    there, identifies himself, and prevents his father from touching him for a while.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Return toward mother and village
+  summary: The boy and father go down toward the camp, where the mother is crying
+    near the village; the father tells the boy to wait while he announces the son's
+    return.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Return of the son to family and camp
+  taxonomy_refs:
+  - return
+  basis: The boy starts for home, reaches the camp area, and the father says the son
+    has come back.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: The broader narrative context before and after the excerpt is not included.
+- id: motif:2
+  label: Unusual endurance on a return journey
+  taxonomy_refs: []
+  basis: The boy does not seem tired and runs faster every day while returning home.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The cause of the endurance is not explained within this excerpt.
+- id: motif:3
+  label: Returned child found by grieving parents
+  taxonomy_refs: []
+  basis: The father and mother are both crying, and the father is told or says that
+    the son has returned.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage does not state why the parents are crying or whether they
+    believed the boy dead.
+- id: motif:4
+  label: Temporary prohibition on touch after return
+  taxonomy_refs: []
+  basis: When the father tries to embrace him, the boy tells him not to touch him
+    for a while.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The reason for the temporary no-touch instruction is not given in the
+    excerpt.
+- id: motif:5
+  label: Gift from mysterious benefactor carried home
+  taxonomy_refs: []
+  basis: The boy carries things that were given to him by a mysterious man.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not identify the objects or explain the mysterious man's
+    nature.
+comparison_claims:
+- id: claim:1
+  claim: The excerpt can be compared cautiously with a broad return motif because
+    it centers on a son coming back to his home camp and being announced to his mother.
+  claim_level: same_motif
+  target: return
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a broad motif-family comparison only; the excerpt does not
+    provide the full narrative structure or external parallels.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15715-15716
+  quote_or_summary: The boy starts for home carrying things that were given to him
+    by the mysterious man.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 15716-15718
+  quote_or_summary: The boy does not seem to get tired and runs faster every day.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 15717-15718
+  quote_or_summary: One night he sees the camp and continues on slowly.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 15718-15720
+  quote_or_summary: He hears a man crying on a high hill, goes to the hill, and sees
+    that the man is his father.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 15720-15721
+  quote_or_summary: '"Father, stop crying; I am here."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; short quote from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 15721-15723
+  quote_or_summary: The father sees his son and tries to put his arms around him,
+    but the boy says not to touch him for a while.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 15723-15724
+  quote_or_summary: They go down to the camp, and the boy's mother is close to the
+    village crying.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 15724-15725
+  quote_or_summary: The father tells the boy to wait while he tells his wife that
+    her son has come back.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is based on a short supplied excerpt. Motif labels are
+    cautious because the larger narrative context and the identities of the mysterious
+    man and the given things are not included.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy symbol refs were assigned; available refs such as mountain were not used for the high hill because the passage names a hill, not a mountain.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l15715-l15725
+  passage_sha256=3b44c7885551fab733975361d1b4aa2d5b60d26438a02c4f793476c2882a24a1
+

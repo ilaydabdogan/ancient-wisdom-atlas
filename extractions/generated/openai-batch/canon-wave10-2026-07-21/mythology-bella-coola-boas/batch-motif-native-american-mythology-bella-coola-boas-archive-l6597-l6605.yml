@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l6597-l6605
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: THE HAU MAU. / THE WOMAN WHO MARRIED THE STUMP. / BOAS, THE MYTHOLOGY OF
+    THE BELLA COOLA INDIANS. 103 / BOAS, THE MYTHOLOGY OF THE BELLA COOLA INDIANS.
+    105; lines 6597-6605
+  start: '6597'
+  end: '6605'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: he heard somebody speaking. He turned round, and saw his former wife.
+  summary: A woman and her husband settle in an old man's house. She asks him to fetch
+    water; at the brook he sees his former wife, who rebukes him. He answers that
+    she abandoned him and denied him dried salmon, while his present wife saved him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: They settle in the house of an old man.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman asks her husband to fetch water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The husband takes a bucket and goes down to the brook.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: While stooping to fill the bucket, the husband hears someone speaking, turns,
+    and sees his former wife.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The former wife rails at him and says he seems to be his wife's slave because
+    he does not dare speak to his own wife.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The husband says that when his tribe left him, the former wife would not stay
+    with him and would not give him dried salmon.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The husband says that his present wife saved him.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the husband
+  description: A man who goes to fetch water, encounters his former wife, and contrasts
+    her past conduct with that of his present wife.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the woman / present wife
+  description: The woman who asks her husband to fetch water and is later described
+    by him as the wife who saved him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: former wife
+  description: The husband's former wife, seen at the brook, who rebukes him and is
+    accused by him of not staying with him when his tribe left.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: old man
+  description: The old man whose house is where they settle.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: husband
+  assigned_to:
+  - fig:1
+  basis: The woman asks her husband to fetch water.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: water-fetcher and respondent
+  assigned_to:
+  - fig:1
+  basis: He takes the bucket to the brook and answers the former wife's rebuke.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: present wife and rescuer
+  assigned_to:
+  - fig:2
+  basis: The husband refers to the wife he now has as the one who saved him.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: former wife
+  assigned_to:
+  - fig:3
+  basis: The husband sees his former wife at the brook.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: accuser and past abandoner
+  assigned_to:
+  - fig:3
+  basis: She rails at him, and he says she would not stay with him when his tribe
+    left.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: householder
+  assigned_to:
+  - fig:4
+  basis: They settle in the old man's house.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: water at the brook
+  literal_form: Water in a brook, approached with a bucket
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: bucket
+  literal_form: A bucket used to fetch water
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: old man's house
+  literal_form: The house of the old man where they settle
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: dried salmon
+  literal_form: A piece of dried salmon mentioned as something the former wife would
+    not give
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: settling in the old man's house
+  summary: The couple settles in the house of an old man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: water-fetching errand
+  summary: The woman asks her husband to fetch water; he takes a bucket and goes to
+    the brook.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: encounter with the former wife
+  summary: At the brook, while filling the bucket, the husband hears someone, turns,
+    and sees his former wife for the first time since his return.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: rebuke and reply
+  summary: The former wife rebukes the husband as submissive to his present wife;
+    he replies that she abandoned him and gave him no dried salmon, while his present
+    wife saved him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: encounter with former spouse at a water source
+  taxonomy_refs: []
+  basis: A water-fetching errand brings the husband to the brook, where he sees his
+    former wife and speaks with her.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage supports the local pattern, but no broader taxonomy reference
+    is explicit.
+- id: motif:2
+  label: contrast between abandoning former wife and saving present wife
+  taxonomy_refs: []
+  basis: The husband states that his former wife would not stay with him or feed him
+    after his tribe left, whereas his present wife saved him.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage is fragmentary at the end, so the full consequence of this
+    contrast is not included.
+- id: motif:3
+  label: rebuke for dependence on spouse
+  taxonomy_refs: []
+  basis: The former wife accuses the husband of being his wife's slave because he
+    will not speak to his own wife.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The meaning of the accusation depends on surrounding narrative not included
+    in the line range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: '6597'
+  quote_or_summary: They settle in the house of the old man.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: 6597-6599
+  quote_or_summary: The woman asks her husband to fetch water; he takes a bucket and
+    goes down to the brook.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: quote
+  locator: 6599-6602
+  quote_or_summary: When he was stooping to fill the bucket, he heard someone speaking,
+    turned around, and saw his former wife.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; brief excerpt summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 6602-6604
+  quote_or_summary: The former wife rails at him, saying he appears to be his wife's
+    slave because he does not dare speak to his own wife.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: 6604-6605
+  quote_or_summary: He replies that when his tribe left him, she would not stay with
+    him or give him dried salmon, but the wife he now has saved him.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based on a short, incomplete passage ending mid-sentence;
+    literal figures and actions are clear, but broader motif interpretation is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims added because the passage itself does not explicitly support a broader comparative claim beyond local motif candidates.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l6597-l6605
+  passage_sha256=53143d40105a3d5ccff0ec042809d2543006dd1d114da0fc058e17a295418afa
+

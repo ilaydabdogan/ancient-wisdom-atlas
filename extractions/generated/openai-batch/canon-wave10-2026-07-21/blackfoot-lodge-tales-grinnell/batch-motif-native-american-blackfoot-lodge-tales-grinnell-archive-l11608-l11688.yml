@@ -1,0 +1,509 @@
+---
+record_id: batch.motif.native-american-blackfoot-lodge-tales-grinnell-archive-l11608-l11688
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+passage_locator:
+  label: RELIGION  275 / MEDICINE   PIPES   AND   HEALING / MEDICINE   PIPES   AND    HEALING  28I
+    / MEDICINE    PIPES    AND    HEALING  283; lines 11608-11688
+  start: '11608'
+  end: '11688'
+  translation: Blackfoot Lodge Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Blackfoot interpretations and uses of the sweat lodge,
+    post-sweat bathing, reported treatments for mad wolf bites, payment customs for
+    doctors, and doctoring practices involving song, women helpers, prayers, methods
+    against evil spirits, and occasional herbal or fungal medicines.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The ground inside the lodge is said to stand for the flat, round surface of
+    the world, while the lodge framework represents the sky touching the world at
+    the horizon.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the sweat, men rush out and plunge into a stream to cool off, even in
+    winter when ice must be broken for bathing.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: During a small-pox outbreak, sick people reportedly used the sweat lodge daily,
+    and some drowned after the following river bath.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Mad wolves are said to have bitten animals and people; bitten persons could
+    tremble, jerk, foam at the mouth, and try to bite others.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Relations tied an afflicted person hand and foot, wrapped him in a green buffalo
+    hide, and built fire on and around him until the hide began to dry and burn.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The treatment was said to cure the patient because heat caused profuse sweating,
+    and the disease left the body with the water.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A doctor was customarily paid before rendering services, often with a horse
+    or other goods, and the payment covered one visit.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Doctors usually sang while attempting cures, with a number of women present
+    as helpers.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Disease is described as caused by evil spirits, requiring prayers, exhortations,
+    and special methods to remove their influence.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Doctors differed in methods and songs, and generally restricted the lodge
+    during rites to the immediate family of the sick man.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: One medicine was a yellow fungus from pine trees, dried and powdered, then
+    administered dry or in infusion as a purgative.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: men using the sweat lodge
+  description: Men who complete the sweat and then bathe in the stream.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: small-pox sufferers
+  description: Sick people who reportedly used the sweat lodge daily during a small-pox
+    outbreak.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: mad wolves
+  description: Wolves described as going crazy and biting animals and people.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: person bitten by a mad wolf
+  description: A bitten person who may show trembling, jerking limbs, jaw movements,
+    foaming, and biting behavior.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: relations of the afflicted person
+  description: Kin who tie the afflicted person, wrap him in buffalo hide, and place
+    fire on and around him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: doctor / I-so-kin'-uh-kin
+  description: A healing specialist glossed as a heavy singer for the sick, paid before
+    treatment and using songs or other methods.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: sick patient
+  description: A sick person for whom a doctor is summoned and treated through doctoring
+    rites.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:8
+  name_or_label: women helpers
+  description: Women who are present as helpers during doctors' curing efforts.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: evil spirits
+  description: Beings or influences named as the cause of disease.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: messenger
+  description: Person who calls the doctor and states the payment offered by the patient.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: sweat-lodge participant
+  assigned_to:
+  - fig:1
+  basis: The men undergo the sweat and then bathe in the stream.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: afflicted or sick person
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:7
+  basis: These figures are described as suffering from small-pox, a mad wolf bite,
+    or sickness requiring doctoring.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: disease or madness vector
+  assigned_to:
+  - fig:3
+  basis: Mad wolves bite animals and people, and bitten persons may also go mad.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: kin caretakers in treatment
+  assigned_to:
+  - fig:5
+  basis: The relations restrain and wrap the afflicted person and place fire around
+    him.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: healing specialist
+  assigned_to:
+  - fig:6
+  basis: The doctor is summoned for sickness, paid for services, and works cures through
+    songs and methods.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: ritual helpers
+  assigned_to:
+  - fig:8
+  basis: Women are said to be present as helpers while doctors work cures.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: cause of disease
+  assigned_to:
+  - fig:9
+  basis: The passage states that disease is caused by evil spirits.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: summoning intermediary
+  assigned_to:
+  - fig:10
+  basis: The messenger calls the doctor and announces the offered fee.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sweat lodge as world-and-sky model
+  literal_form: The lodge floor stands for the world surface; the framework stands
+    for the sky touching the horizon.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cooling stream bath
+  literal_form: A plunge into the stream after sweating, including winter bathing
+    through broken ice.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: curing fire
+  literal_form: Fire built on and around the buffalo-hide-wrapped patient.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: green buffalo hide wrapping
+  literal_form: Fresh buffalo hide rolled around the tied afflicted person.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: sweat or body water carrying disease
+  literal_form: Water leaving the body through profuse sweating, with the disease
+    said to go out with it.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: doctoring fee gifts
+  literal_form: Horse, horses, gun, saddle, apparel, and other goods paid before a
+    doctor's visit.
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: curing song and prayer
+  literal_form: Doctors' songs, prayers, exhortations, and special methods used in
+    curing rites.
+  associated_figures:
+  - fig:6
+  - fig:8
+  - fig:9
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: yellow pine fungus medicine
+  literal_form: Yellow fungus growing on pine trees, dried, powdered, and administered
+    dry or as an infusion.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Sweat lodge cosmos and post-sweat bathing
+  summary: The sweat lodge is described as a model of the world and sky; after sweating,
+    men enter a stream to cool off, even in winter.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Small-pox sweat-lodge use and river danger
+  summary: During a small-pox outbreak, sick people reportedly used the sweat lodge
+    daily, and many were unable to leave the river after the cooling bath and drowned.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Mad wolf bite treatment
+  summary: A person affected by a mad wolf bite is restrained, wrapped in a fresh
+    buffalo hide, heated by fire, made to sweat profusely, and said to be cured when
+    the disease leaves with the water.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Summoning and paying the doctor
+  summary: A messenger summons the doctor and announces a fee, often a horse or other
+    goods, which must be paid before treatment and covers one visit.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:10
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Doctoring rites against spirit-caused disease
+  summary: The doctor works through singing, with women helpers present; disease is
+    attributed to evil spirits, and prayers, exhortations, special methods, restricted
+    attendance, and sometimes medicines are used.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Ritual structure as model of the cosmos
+  taxonomy_refs: []
+  basis: The passage explicitly maps the sweat lodge floor to the world surface and
+    the framework to the sky touching the world at the horizon.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy reference exactly matches this cosmological lodge
+    model.
+- id: motif:2
+  label: Healing through heat, sweating, and water release
+  taxonomy_refs: []
+  basis: Post-sweat bathing and the mad-wolf-bite cure both center on heat, sweating,
+    water, and bodily cooling or disease removal.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage presents these as healing practices; it does not explicitly
+    label them as purification or initiation.
+- id: motif:3
+  label: Spirit-caused illness treated by specialist song and prayer
+  taxonomy_refs: []
+  basis: Disease is attributed to evil spirits, and doctors sing, pray, exhort, and
+    use special methods to remove the spirits' influence.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage describes varied doctoring methods and does not present one
+    fixed ritual sequence for all doctors.
+- id: motif:4
+  label: Ritual healing payment as sacred exchange
+  taxonomy_refs:
+  - sacred_exchange
+  basis: A doctor must be paid before treatment, and the exchange of horses or goods
+    is tied to the provision of healing rites.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage states a customary fee for doctoring; the classification as
+    sacred exchange is based on the ritual-healing context and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11608-11688; opening paragraph on lodge cosmology
+  quote_or_summary: The lodge floor represents the flat, round world surface, and
+    the framework represents the sky reaching down to the horizon.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11608-11688; paragraph beginning 'As soon as the sweat is over'
+  quote_or_summary: After the sweat, men rush into a stream to cool, even in winter
+    when ice is broken for bathing.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11608-11688; small-pox sentence within post-sweat bathing paragraph
+  quote_or_summary: During small-pox, sick people reportedly used the sweat lodge
+    daily; many could not get out of the river after bathing and drowned.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 11608-11688; paragraph beginning 'It is said that wolves'
+  quote_or_summary: Mad wolves bit animals and people; bitten persons might go mad,
+    tremble, jerk, foam, move their jaws, and try to bite others.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 11608-11688; mad wolf bite treatment paragraph
+  quote_or_summary: Relations tied the afflicted person, wrapped him in green buffalo
+    hide, built fire on and around him, then removed the hide; heat caused sweating
+    and the disease was said to leave with the water.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 11608-11688; paragraph beginning 'Whenever a person is really sick'
+  quote_or_summary: A doctor is sent for and must be paid before services; fees include
+    horses or other goods and cover one visit, sometimes lasting twelve to forty-eight
+    hours or more.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 11608-11688; paragraph beginning 'The doctor is named'
+  quote_or_summary: The doctor, glossed as a heavy singer for the sick, generally
+    sings while curing; women helpers are present; disease is caused by evil spirits
+    and countered by prayers, exhortations, and special methods.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 11608-11688; latter part of doctoring paragraph
+  quote_or_summary: Doctors have different songs and methods, sometimes use herbs,
+    restrict the lodge to immediate family, and use a dried yellow pine fungus as
+    a purgative medicine.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the passage. Motif labels are cautious;
+    only sacred_exchange uses a supplied motif-family taxonomy reference. No comparison
+    claims are made because the passage itself does not support cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata; long quotations avoided in favor of summaries.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-blackfoot-lodge-tales-grinnell-archive__l11608-l11688
+  passage_sha256=5bf9dce70cc60b952bc25f0fba8caf181347006cf9e43d4d285f706c946faf98
+

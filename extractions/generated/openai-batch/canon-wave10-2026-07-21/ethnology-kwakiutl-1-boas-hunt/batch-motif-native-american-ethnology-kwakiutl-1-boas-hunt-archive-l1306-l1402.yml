@@ -1,0 +1,400 @@
+---
+record_id: batch.motif.native-american-ethnology-kwakiutl-1-boas-hunt-archive-l1306-l1402
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+passage_locator:
+  label: Ethnology of the Kwakiutl, Part 1 / I. INDUSTRIES / INDUSTRIES / INDUSTRIES;
+    lines 1306-1402
+  start: '1306'
+  end: '1402'
+  translation: Ethnology of the Kwakiutl, Part 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A procedural account describes how mountain-goat horns are obtained by
+    a hunter and then worked by a spoon-maker into horn spoons through heating, boiling
+    with red-hot stones, hollowing, measuring, adzing, molding with split pine and
+    spruce-root, greasing with tallow, quenching in cold water, and polishing with
+    dogfish-skin.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hunter kills mountain-goats, removes tallow, kidney-fat, meat, and horns,
+    and carries the horns down from the mountain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hunter gives the horns to the spoon-maker.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The spoon-maker gathers stones, builds up a fire, places stones on it, sets
+    a steaming-box beside the fire, and half-fills it with water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Red-hot stones are put into the water in the steaming-box until the water
+    boils.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The horns are put into the boiling water, then handled with tongs and cedar-bark,
+    struck against firewood, and the inner core is removed so that the horn becomes
+    hollow.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The hollow horn is measured by finger-widths, notched, and adzed into a rounded,
+    hollow spoon shape.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Red-pine sticks are split, cut to one span in length, and prepared with soaked
+    split spruce-root as spoon-moulds.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The adzed horns are reheated in boiling water and placed between the legs
+    of the spoon-moulds while pliable.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The molded spoons are boiled, rubbed with mountain-goat tallow, and thrown
+    into cold water because the maker wants them to become brittle.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The roots are untied from the moulds, and dogfish-skin is used to polish the
+    spoons inside and outside until finished.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: hunter
+  description: The person who hunts mountain-goats, removes horn material, and brings
+    the horns home for the spoon-maker.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: spoon-maker
+  description: The craft specialist who receives the horns and performs the heating,
+    hollowing, shaping, molding, hardening, and polishing steps.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: mountain-goat
+  description: The hunted animal whose horns and tallow are used in making the spoons.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:7
+roles:
+- id: role:1
+  label: hunter and supplier of horn material
+  assigned_to:
+  - fig:1
+  basis: The hunter kills mountain-goats, removes the horns, carries them down, and
+    gives them to the spoon-maker.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: spoon-maker and craft worker
+  assigned_to:
+  - fig:2
+  basis: The spoon-maker receives the horns and carries out the full manufacturing
+    process.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:3
+  label: animal source of horn and tallow
+  assigned_to:
+  - fig:3
+  basis: The passage identifies mountain-goat horns as the spoon material and mountain-goat
+    tallow as part of the finishing process.
+  evidence_refs:
+  - ev:1
+  - ev:7
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: Mountain where the hunter kills mountain-goats and from which he carries
+    the horns down.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mountain-goat horns
+  literal_form: Horns removed from killed mountain-goats and made into spoons.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: fire and red-hot stones
+  literal_form: Fire used to heat stones red-hot; stones are transferred into water
+    to make it boil.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: water
+  literal_form: Water in the steaming-box for boiling horns and water in a dish for
+    cold quenching.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: spoon-mould
+  literal_form: Split red-pine sticks tied with spruce-root to hold and spread the
+    pliable horn.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: mountain-goat tallow
+  literal_form: Tallow rubbed over the heated spoons before they are thrown into cold
+    water.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: dogfish-skin
+  literal_form: Dogfish-skin from the back of the dogfish used to polish the outside
+    and inside of the spoons.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Hunting and horn transfer
+  summary: A hunter kills mountain-goats, removes useful parts including horns, brings
+    the horns from the mountain, and gives them to the spoon-maker.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Preparation of fire, stones, water, and tools
+  summary: The spoon-maker gathers stones, builds the fire, prepares a water-filled
+    steaming-box, and sets tools ready.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Boiling and hollowing horns
+  summary: Red-hot stones boil water in the steaming-box; horns are heated, held safely,
+    struck against firewood, and hollowed by removing the core.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Measuring, notching, and adzing
+  summary: The maker measures the horn by finger-widths, cuts notches, and adzes it
+    into a rounded, hollow spoon form.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Making the spoon-moulds
+  summary: Red-pine sticks are split and cut, spruce-root is soaked and split, and
+    the sticks are tied to form moulds.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Molding pliable horn
+  summary: The adzed horns are reheated in boiling water, placed between the legs
+    of the moulds while pliable, spread, and tied in place.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Greasing, quenching, polishing, and finishing
+  summary: The molded spoons are boiled, rubbed with mountain-goat tallow, quenched
+    in cold water to become brittle, removed from their bindings, polished with dogfish-skin,
+    and finished.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: technical transformation of animal horn into utensil
+  taxonomy_refs: []
+  basis: The entire passage presents a sequential craft process in which mountain-goat
+    horn is heated, hollowed, shaped, molded, hardened, polished, and finished as
+    a spoon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: This is a procedural ethnographic passage about industry and craft, not
+    a narrative myth; no available mythological motif-family reference is directly
+    supported.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1306-1324
+  quote_or_summary: A hunter kills mountain-goats, removes tallow, kidney-fat, meat,
+    and horns, brings the horns down from the mountain, and gives them to the spoon-maker.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:2
+  type: summary
+  locator: lines 1324-1336
+  quote_or_summary: The spoon-maker gathers stones, takes them inside, builds up the
+    fire, places stones on it, sets a steaming-box beside the fire, half-fills it
+    with water, and lays out tools and firewood.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:3
+  type: summary
+  locator: lines 1336-1350
+  quote_or_summary: The maker heats stones red-hot, puts them into water until it
+    boils, puts horns into the water, handles them with tongs and shredded cedar-bark,
+    strikes them against firewood, and removes the core so the horn becomes hollow.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:4
+  type: summary
+  locator: lines 1350-1364
+  quote_or_summary: The maker measures finger-widths on the horn, cuts notches, and
+    adzes the horn between the notches into a rounded, hollow form with a rounded
+    thick end.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:5
+  type: summary
+  locator: lines 1364-1375
+  quote_or_summary: Red-pine wood is split into sticks, spruce-root is split and soaked,
+    and one end of each pine-stick is split and tied with root to make spoon-moulds.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:6
+  type: summary
+  locator: lines 1375-1388
+  quote_or_summary: The maker reheats stones, boils water in the steaming-box, warms
+    the adzed horns, places each pliable horn between the legs of a spoon-mould, spreads
+    it as desired, and ties the mould.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:7
+  type: summary
+  locator: lines 1388-1402
+  quote_or_summary: The maker boils the spoon and mould, rubs the spoon with mountain-goat
+    tallow, throws it into cold water so it becomes brittle, unties the mould, polishes
+    with dogfish-skin, and finishes all the horn spoons.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source metadata; summary allowed.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal craft sequence is explicit. Motif status is low because the passage
+    is technical/procedural rather than mythic or ritual, and it supports no comparison
+    claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparative mythology claim.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-ethnology-kwakiutl-1-boas-hunt-archive__l1306-l1402
+  passage_sha256=5996f807d1acecf9917448bf9166dddbbe822c03eecfe904266a720fc7305555
+

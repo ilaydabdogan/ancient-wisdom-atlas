@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.native-american-ethnology-kwakiutl-1-boas-hunt-archive-l14188-l14208
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+passage_locator:
+  label: INDUSTRIES / II. HUNTING, FISHING, AND FOOD-GATHERING / III. PRESERVATION
+    OF FOOD / IV. RECIPES; lines 14188-14208
+  start: '14188'
+  end: '14208'
+  translation: Ethnology of the Kwakiutl, Part 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes rain-calling procedures using castorium dipped into
+    a river with a spoken formula addressed to weather beings and winds. It also gives
+    blue hellebore as a substitute substance placed in the river, though the associated
+    speech is incomplete. A food rule says blue sea-eggs are kept four days before
+    eating because immediate eating is said to cause bad weather and southeast wind;
+    blue sea-eggs are called the grandfather of the southeast wind.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A virgin is instructed what to say every time she dips castorium into the
+    river.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The spoken formula addresses Weather-Owner, Southwest-Wind, Southeast-Wind,
+    Rain-Wind, and Hail-Wind, and calls for rain and flood.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After castorium is used, rain may come at night at once, or may not come for
+    four days; the substance is described as a strong rain-caller.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When castorium is unavailable, dried blue hellebore is put into the river
+    and the man who throws it speaks; the manuscript breaks off before the speech
+    is preserved.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Blue sea-eggs are not eaten until they have been four days in the house.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The ancient people said immediate eating of blue sea-eggs would bring bad
+    weather and southeast wind.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Blue sea-eggs are said to be the grandfather of the southeast wind.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the virgin
+  description: The person instructed to speak whenever she dips castorium into the
+    river.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Weather-Owner
+  description: A named weather being addressed in the rain-calling formula.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Southwest-Wind
+  description: A named wind called in the rain-calling formula.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Southeast-Wind
+  description: A named wind called in the formula and also associated with bad weather
+    if blue sea-eggs are eaten too soon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:5
+  name_or_label: Rain-Wind
+  description: A named wind addressed in the rain-calling formula.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Hail-Wind
+  description: A named wind addressed in the rain-calling formula.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: the man who throws blue hellebore
+  description: The man who throws dried blue hellebore into the river and speaks when
+    castorium is unavailable.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: the ancient people
+  description: People cited as saying that eating blue sea-eggs at once would bring
+    bad weather and southeast wind.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: blue sea-eggs
+  description: Blue sea-eggs, which are said to be the grandfather of the southeast
+    wind.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: instructed ritual speaker
+  assigned_to:
+  - fig:1
+  basis: She is instructed what to say each time she dips the castorium into the river.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed weather owner
+  assigned_to:
+  - fig:2
+  basis: Weather-Owner is directly addressed in the formula asking weather to come.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: named wind invoked or implicated
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage names these winds in weather-related speech or explanation.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: substitute-substance thrower and speaker
+  assigned_to:
+  - fig:7
+  basis: When blue hellebore is used, the man throws it into the river and speaks.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: source of traditional explanation
+  assigned_to:
+  - fig:8
+  basis: The passage attributes the blue sea-egg food rule to what the ancient people
+    said.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: kin relation to southeast wind
+  assigned_to:
+  - fig:9
+  basis: Blue sea-eggs are said to be the grandfather of the southeast wind.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: castorium
+  literal_form: Castorium dipped into the river in the rain-calling procedure.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: river water
+  literal_form: The river receives castorium and, in the substitute procedure, dried
+    blue hellebore.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: blue hellebore
+  literal_form: Dried blue hellebore put into the river when castorium is absent.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: blue sea-eggs
+  literal_form: Blue sea-eggs kept four days before eating and said to be the grandfather
+    of the southeast wind.
+  associated_figures:
+  - fig:4
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: four-day interval
+  literal_form: Four days may pass before rain comes, and blue sea-eggs are kept four
+    days before eating.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: castorium rain-calling at the river
+  summary: A virgin dips castorium into the river and speaks a formula calling Weather-Owner
+    and named winds to bring rain, hail, and flood; rain may follow at once or after
+    a delay.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: blue hellebore substitute
+  summary: When castorium is unavailable, dried blue hellebore is placed in the river
+    by a man who speaks, though the manuscript does not preserve the speech.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: blue sea-egg food rule and wind relation
+  summary: Blue sea-eggs are kept four days before being eaten because ancient people
+    said immediate eating would bring bad weather and southeast wind; the sea-eggs
+    are said to be the grandfather of the southeast wind.
+  figure_refs:
+  - fig:4
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: rain-calling by dipping a substance in river water with spoken invocation
+  taxonomy_refs: []
+  basis: The passage describes castorium being dipped into a river while a formula
+    calls weather beings and winds to bring rain and flood.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic ritual description rather than a narrative myth
+    episode.
+- id: motif:2
+  label: substitute substance for weather-calling rite
+  taxonomy_refs: []
+  basis: Blue hellebore is identified as an alternative when castorium is not available
+    and is also placed in the river with speech.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The manuscript is incomplete at the point where the spoken words for the
+    blue hellebore procedure would appear.
+- id: motif:3
+  label: food delay taboo tied to weather consequences
+  taxonomy_refs: []
+  basis: Blue sea-eggs must remain four days in the house before eating; eating them
+    at once is said to cause bad weather and southeast wind.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states the rule and consequence but does not describe a narrative
+    instance of someone violating it.
+- id: motif:4
+  label: kinship explanation linking sea creature and wind
+  taxonomy_refs: []
+  basis: The passage says blue sea-eggs are the grandfather of the southeast wind.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The exact meaning of the kinship statement is not elaborated in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, dried blue hellebore is presented as having the same
+    practical function as castorium when used in the river for rain-calling.
+  claim_level: same_function
+  target: castorium rain-calling rite and blue hellebore substitute
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The blue hellebore speech is not preserved because the manuscript is
+    incomplete.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14188-14193
+  quote_or_summary: A virgin is instructed to speak each time she dips castorium into
+    the river, addressing Weather-Owner and named winds to bring rain, hail, and flood.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 14194-14199
+  quote_or_summary: After castorium is dipped, rain may come that night or may not
+    come for four days; castorium is described as a strong rain-caller.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 14200-14204
+  quote_or_summary: Blue hellebore is named as another rain-calling substance; when
+    no castorium is available, dried blue hellebore is put into the river by a man
+    who speaks, but the manuscript is incomplete.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 14205-14208
+  quote_or_summary: Blue sea-eggs are kept four days before eating because ancient
+    people said immediate eating would bring bad weather and southeast wind; they
+    are said to be the grandfather of the southeast wind.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear for ritual actions, named entities, and food rules.
+    Motif labeling is cautious because the excerpt is practical ethnographic material
+    and one formula is incomplete.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No historical contact or broad cross-cultural comparison is inferred. Taxonomy use is limited to the explicitly present water symbol.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-ethnology-kwakiutl-1-boas-hunt-archive__l14188-l14208
+  passage_sha256=29be6692a565db588fa6b93949c4d024bf1caeab5c348e2081f14aaec07764c7
+

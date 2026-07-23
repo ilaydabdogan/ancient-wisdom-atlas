@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.korean-korean-folk-tales-gale-archive-l4432-l4460
+source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+passage_locator:
+  label: AN  ENCOUNTER  WITH  A  HOBGOBLIN / AN  ENCOUNTER  WITH  A  HOBGOBLIN  143
+    / AN  ENCOUNTER  WITH  A  HOBGOBLIN  145 / THE  SNAKE'S  REVENGE; lines 4432-4460
+  start: '4432'
+  end: '4460'
+  translation: Korean Folk Tales - Imps, Ghosts and Fairies
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“a great snake was seen making its way by means of the Water Gate.”"
+  summary: The passage introduces an archer living near Seoul's Water Gate. A large
+    snake becomes trapped while trying to pass through the Water Gate bars. The archer
+    shoots it in the head, removes it, pounds it into pulp, and leaves it. Soon afterward
+    his wife bears a son who is afraid of his father and begins to hate him as he
+    grows; the excerpt ends mid-sentence.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The tale is headed “The Snake's Revenge.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An archer lived near the Water Gate of Seoul and is described as strong and
+    famous for valor.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Water Gate is described as a hole under the city wall where Grand Canal
+    water exits, with iron pickets to prevent people passing through.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A great snake tried to pass by means of the Water Gate; its head passed between
+    the bars, but its larger body was held fast.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The soldier shot the snake in the head with an arrow, fatally injuring it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After the snake died, the archer drew it out, pounded it into a pulp, and
+    left it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A little later the man's wife conceived and bore a son.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: From the first, the child was afraid of his father, cried when he saw him,
+    seemed greatly frightened, and as he grew he hated him; the passage breaks off
+    at this point.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: archer / military officer / soldier
+  description: A strong and valorous archer living near Seoul's Water Gate; he kills
+    the trapped snake and is later the father feared by the child.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: great snake
+  description: A large snake attempting to pass through the Water Gate bars; it becomes
+    stuck, is shot in the head, dies, and is pounded into pulp.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the man's wife
+  description: The wife of the archer; a little later she conceives and bears a son.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: the son / child
+  description: The child born to the archer's wife; from the first he fears his father
+    and, as he grows, hates him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: snake-slaying archer
+  assigned_to:
+  - fig:1
+  basis: The archer draws an arrow, shoots the snake in the head, and later removes
+    and pounds its body.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: trapped serpent victim
+  assigned_to:
+  - fig:2
+  basis: The snake is held fast in the Water Gate bars and is killed by the archer.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: wife and mother
+  assigned_to:
+  - fig:3
+  basis: She is named as the man's wife and bears a son after conceiving.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: fearful son
+  assigned_to:
+  - fig:4
+  basis: The child is afraid of his father from the first and cries when he sees him.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: feared father
+  assigned_to:
+  - fig:1
+  basis: The child is afraid of and later hates his father.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Water Gate
+  literal_form: A hole under Seoul's city wall where the Grand Canal waters exit,
+    fitted with iron pickets.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: iron pickets / bars
+  literal_form: Bars at the Water Gate that block passage and hold the snake fast.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: serpent
+  literal_form: A great snake attempting to pass through the Water Gate.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: arrow
+  literal_form: The arrow fitted to the string and shot into the snake's head.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Introduction near the Water Gate
+  summary: The tale introduces the archer's home near Seoul's Water Gate and explains
+    the gate as a water passage under the city wall with iron pickets.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Snake trapped and killed
+  summary: A great snake becomes stuck while trying to pass through the Water Gate
+    bars, and the archer kills it with an arrow, removes it, and pounds it into pulp.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Birth of a fearful son
+  summary: After the snake's death, the archer's wife bears a son who is afraid of
+    his father and later hates him; the excerpt ends before the sentence is completed.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: serpent at a barred threshold
+  taxonomy_refs:
+  - serpent
+  basis: A great snake tries to pass through the Water Gate bars but becomes trapped
+    there.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The threshold reading is based on the Water Gate's literal function as
+    a passage; no broader meaning is stated in the excerpt.
+- id: motif:2
+  label: human slays serpent
+  taxonomy_refs:
+  - serpent
+  basis: The archer shoots the trapped snake in the head, causing its death, and destroys
+    the body further.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage provides the killing episode but not the later consequences
+    beyond the son's early fear.
+- id: motif:3
+  label: revenge of a slain snake
+  taxonomy_refs:
+  - serpent
+  basis: The title names the tale as the snake's revenge, and the killing of the snake
+    is followed by the birth of a son who fears and hates the father.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The supplied lines do not yet show the revenge itself or explicitly connect
+    the son to the snake.
+- id: motif:4
+  label: ominous birth after killing
+  taxonomy_refs: []
+  basis: A little time after the snake is killed, the man's wife bears a son whose
+    immediate reaction to his father is fear.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: Temporal sequence is explicit, but causal or supernatural connection is
+    not stated in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The excerpt can be cautiously compared to a serpent-revenge pattern in which
+    killing a snake is followed by consequences within the killer's household.
+  claim_level: same_motif
+  target: serpent revenge motif family
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage fragment does not yet narrate an actual revenge act, a
+    transformation, or an explicit causal link between the dead snake and the son.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4432-4460
+  quote_or_summary: "“THE SNAKE'S REVENGE”"
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain; full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 4432-4460
+  quote_or_summary: An archer lives near Seoul's Water Gate and is described as very
+    strong and famous for valor.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain; full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 4432-4460
+  quote_or_summary: The Water Gate is a hole under the city wall where Grand Canal
+    waters exit; iron pickets prevent people from entering or leaving that way.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain; full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 4432-4460
+  quote_or_summary: A great snake attempts to pass through the Water Gate; its head
+    passes the bars, but its larger body is stuck.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain; full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 4432-4460
+  quote_or_summary: The soldier shoots the snake in the head with an arrow; it dies,
+    and he draws it out, pounds it into pulp, and leaves it.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain; full text allowed.
+- id: ev:6
+  type: summary
+  locator: lines 4432-4460
+  quote_or_summary: A little later the man's wife conceives and bears a son; from
+    the first the child fears his father, cries on seeing him, seems frightened, and
+    as he grows hates him. The excerpt ends mid-sentence.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain; full text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The concrete actions and figures are clear, but the supplied passage ends
+    mid-sentence, limiting interpretation of the revenge motif.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No causal connection between the snake's death and the son's fear has been asserted beyond what the title and sequence support.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-folk-tales-gale-archive__l4432-l4460
+  passage_sha256=3715abc18a369b932adc1be195d39bdfbbd1521d647961e75ce4bf84d4f3f872
+

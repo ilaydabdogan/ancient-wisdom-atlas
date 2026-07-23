@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l18699-l18721
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: END  OF  THE  EIGHTH  BOOK. / NINTH  BOOK / OP  THE / ROYAL  COMMENTARIES  OF  THE  YNCAS.;
+    lines 18699-18721
+  start: '18699'
+  end: '18721'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a book heading and contents notice for the Ninth Book of
+    the Royal Commentaries. It announces topics including the deeds of Hüayna Ccapac,
+    his conquests, punishments and pardons, the making of Atahuallpa king of Quitu,
+    tidings and prognostications concerning the Spaniards, Spanish introductions into
+    Peru, and the war between the brothers Huascar and Atahuallpa.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage marks the end of the Eighth Book and the beginning of the Ninth
+    Book of the Royal Commentaries of the Yncas.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Ninth Book is announced as containing the history of the great deeds and
+    magnanimity of Hüayna Ccapac.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The contents list includes conquests made by Hüayna Ccapac and his punishment
+    of unnamed rebels.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The contents list includes Hüayna Ccapac's pardon of the Chachapuyas.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The contents list includes the making of Hüayna Ccapac's son Atahuallpa king
+    of Quitu.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The contents list includes tidings received about the Spaniards and prognostications
+    concerning them.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The contents list includes things introduced into Peru by the Spaniards that
+    were not there before.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The contents list includes war between the two brothers Huascar and Atahuallpa,
+    and mentions the misfortunes of one and the cruelties of the other.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hüayna Ccapac
+  description: Named as the royal subject whose great deeds, magnanimity, conquests,
+    punishments, pardons, and son Atahuallpa are listed in the Ninth Book contents.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Atahuallpa
+  description: Named as Hüayna Ccapac's son, made king of Quitu, and named as one
+    of the two brothers in the later war.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Huascar
+  description: Named as one of the two brothers in the war with Atahuallpa.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Chachapuyas
+  description: Named group pardoned by Hüayna Ccapac.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Spaniards
+  description: Named group about whom tidings and prognostications are received, and
+    who are said to have introduced things into Peru.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: divers rebels
+  description: Unnamed rebels whose punishment by Hüayna Ccapac is listed among the
+    contents.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: principal royal subject
+  assigned_to:
+  - fig:1
+  basis: The Ninth Book is said to contain the history of Hüayna Ccapac's deeds and
+    magnanimity.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: conqueror and punisher
+  assigned_to:
+  - fig:1
+  basis: The contents list his conquests and punishment of rebels.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: pardoner
+  assigned_to:
+  - fig:1
+  basis: The contents list his pardon of the Chachapuyas.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: father of royal appointee
+  assigned_to:
+  - fig:1
+  basis: Atahuallpa is identified as his son and is made king of Quitu.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: royal son and king of Quitu
+  assigned_to:
+  - fig:2
+  basis: The passage lists the making of Hüayna Ccapac's son Atahuallpa king of Quitu.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: brother in war
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage names Huascar and Atahuallpa as the two brothers in a war.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: pardoned group
+  assigned_to:
+  - fig:4
+  basis: The Chachapuyas are named as the recipients of Hüayna Ccapac's pardon.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: foreign group associated with tidings, prognostications, and introductions
+    into Peru
+  assigned_to:
+  - fig:5
+  basis: The passage lists tidings and prognostications concerning the Spaniards and
+    things they introduced into Peru.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:9
+  label: punished rebels
+  assigned_to:
+  - fig:6
+  basis: The passage lists Hüayna Ccapac's punishment of divers rebels.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Ninth Book contents announced for Hüayna Ccapac
+  summary: The heading says the Ninth Book contains the history of Hüayna Ccapac's
+    deeds, magnanimity, conquests, punishment of rebels, and pardon of the Chachapuyas.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Atahuallpa's kingship and the Spaniards announced
+  summary: The contents list includes Atahuallpa being made king of Quitu, tidings
+    and prognostications concerning the Spaniards, and things the Spaniards introduced
+    into Peru.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: War between Huascar and Atahuallpa announced
+  summary: The contents list closes with the war between the brothers Huascar and
+    Atahuallpa, followed by a notice of the misfortunes of one and the cruelties of
+    the other.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal appointment or succession
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage announces the making of Hüayna Ccapac's son Atahuallpa king of
+    Quitu.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is a contents notice, not a full narrative of legitimating
+    ritual or succession.
+- id: motif:2
+  label: war between royal brothers
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage explicitly lists a war between the two brothers Huascar and Atahuallpa.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Only the fraternal conflict is announced; the passage gives no narrative
+    details.
+- id: motif:3
+  label: royal punishment and pardon
+  taxonomy_refs: []
+  basis: The contents list includes Hüayna Ccapac's punishment of rebels and pardon
+    of the Chachapuyas.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a historical contents summary rather than a developed mythic episode.
+- id: motif:4
+  label: foretold arrival of foreigners
+  taxonomy_refs: []
+  basis: The passage lists tidings received of the Spaniards and prognostications
+    concerning them.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage does not state the content of the prognostications or narrate
+    the arrival itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18699-18706
+  quote_or_summary: '"END  OF  THE  EIGHTH  BOOK.\n\nNINTH  BOOK\n\nOP  THE\n\nROYAL  COMMENTARIES  OF  THE  YNCAS."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; excerpt supplied in the request.
+- id: ev:2
+  type: quote
+  locator: lines 18707-18713
+  quote_or_summary: '"THE  HISTORY  OP  THE  GREAT  DEEDS  AND  THE  MAGNANIMITY  OF  HÜAYNA
+    CCAPAC.  THE  CONQUESTS  HE  MADE.  HIS  PUNISHMENT  OF  DIVERS REBELS.  HIS  PARDON  OF  THE  CHACHAPUYAS."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; excerpt supplied in the request.
+- id: ev:3
+  type: quote
+  locator: lines 18713-18716
+  quote_or_summary: '"THE  MAKING  OF  HIS  SON ATAHUALLPA  KING  OF  QUITU.  THE  TIDINGS  RECEIVED  OF  THE
+    SPANIARDS,  AND  THE  DECLARATION  OF  PROGNOSTICATIONS  CONCERNING THEM."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; excerpt supplied in the request.
+- id: ev:4
+  type: quote
+  locator: lines 18716-18718
+  quote_or_summary: '"AN  ACCOUNT  OF  THE  THINGS  THE SPANIARDS  HAVE  INTRODUCED  INTO  PERU,  WHICH
+    WERE  NOT  THERE  BEFORE."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; excerpt supplied in the request.
+- id: ev:5
+  type: quote
+  locator: lines 18718-18721
+  quote_or_summary: '"THE  WAR  BETWEEN THE  TWO  BROTHERS,  HUASCAR  AND ATAHUALLPA.  THE  MISFORTUNES
+    OF  ONE  AND  THE  CRUELTIES OF  THE  OTHER."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; excerpt supplied in the request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on a contents heading rather than a narrative passage.
+    Motif candidates are therefore limited to announced themes. No cross-text comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No symbols from the supplied symbol taxonomy are explicitly present in this passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l18699-l18721
+  passage_sha256=5a9e15581794714b2db07fc6d1d431003eae8e2dcb970310ec16e4c6c19e8cd7
+

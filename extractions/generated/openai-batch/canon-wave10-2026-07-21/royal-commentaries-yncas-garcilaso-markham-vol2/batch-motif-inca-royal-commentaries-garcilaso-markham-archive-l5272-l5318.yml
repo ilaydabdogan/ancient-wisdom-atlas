@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l5272-l5318
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / CHAPTER  VI. / SIXTH  BOOK  OP  THE  ROYAL
+    / COMMENTARIES  OE  THE  YNCAS.; lines 5272-5318
+  start: '5272'
+  end: '5318'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Inca hunting administration: huanacus and vicuñas
+    are shorn or killed, game is recorded on quipus, wool and meat are distributed
+    by social rank, fine vicuña wool is restricted to the Ynca and his household unless
+    permission is granted, and hunts are scheduled in three-year rotations so fleeces
+    and game can renew.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Huanacus and vicuñas were released after being shorn.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Quipus were used to account for wild game by number, species, male and female
+    animals, animals killed, and animals remaining alive.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Coarse huanacu wool was divided among the common people, while fine vicuña
+    wool was reserved for the Ynca and distributed among members of his family.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Unauthorized use of vicuña wool was punished by death, though Curacas could
+    sometimes be granted permission to wear it.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The flesh of killed vicuñas and huanacus was divided among the people, and
+    Curacas also received shares of this meat and venison for merriment in honour
+    of the hunt.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Hunts in each district took place at intervals of three years, allowing vicuña
+    fleeces to regrow and game to multiply.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Provinces were divided into three or four parts so that one part could be
+    hunted each year after a three-year rest.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ynca
+  description: The ruler for whom fine vicuña wool was reserved and who distributed
+    it to his family.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: members of the Ynca's family
+  description: Recipients of the fine vicuña wool distributed by the Ynca.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Curacas
+  description: Local authorities who could receive meat shares and, with permission,
+    could wear vicuña wool.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: common people / people
+  description: Recipients of coarse huanacu wool and shares of meat from the hunt.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: huanacus
+  description: Animals whose coarse wool was distributed to common people; some were
+    shorn and released, and some killed for meat.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: vicuñas
+  description: Animals valued for fine wool reserved for the Ynca; some were shorn
+    and released, and some killed for meat.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: royal allocator and regulator
+  assigned_to:
+  - fig:1
+  basis: The fine vicuña wool was reserved for the Ynca, who distributed it within
+    his family, and permission was needed for others to wear it.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: royal household recipients
+  assigned_to:
+  - fig:2
+  basis: Members of the Ynca's family received the reserved vicuña wool.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: privileged local authorities
+  assigned_to:
+  - fig:3
+  basis: Curacas could receive meat shares and could sometimes be granted permission
+    to wear vicuña wool.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: common recipients
+  assigned_to:
+  - fig:4
+  basis: The common people received huanacu wool and the people received divided meat
+    from the hunt.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: managed game animals
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The animals were shorn, released or killed, counted on quipus, and managed
+    through timed hunts.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: quipu accounting
+  literal_form: quipus used to record wild game numbers, species, sex, killed animals,
+    and animals remaining alive
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fine vicuña wool
+  literal_form: fine fleece reserved for the Ynca and his family, with restricted
+    permission for Curacas
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: three-year hunt interval
+  literal_form: a three-year interval between hunts in each district
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: distributed hunt meat
+  literal_form: flesh of killed vicuñas and huanacus and venison divided among people
+    and Curacas
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Accounting and management of game
+  summary: After shearing, huanacus and vicuñas are released, and quipus record the
+    quantities and categories of game, including killed and surviving animals.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ranked distribution of wool and meat
+  summary: Huanacu wool and meat are distributed broadly, while fine vicuña wool is
+    restricted to the Ynca's household and to Curacas only by permission.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Rotational three-year hunt cycle
+  summary: District hunts recur after three-year intervals to allow fleece regrowth
+    and game multiplication, while provinces are partitioned so a hunt can occur every
+    year somewhere without overhunting a district.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: royal control of elite material
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Fine vicuña wool is reserved for the Ynca and his family, and others may
+    wear it only by permission, with death as the stated penalty for unauthorized
+    use.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is administrative and historical rather than a mythic episode;
+    the motif identification is based on social-symbolic restriction of a prestige
+    material.
+- id: motif:2
+  label: redistributive royal hunt
+  taxonomy_refs: []
+  basis: Wool and meat from the hunt are divided among social groups, including common
+    people and Curacas, so that all may enjoy something from the hunt.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly describe a ritual sacrifice or divine
+    exchange; redistribution is described in practical and celebratory terms.
+- id: motif:3
+  label: cyclical renewal through regulated hunting
+  taxonomy_refs: []
+  basis: The hunt is organized in a three-year rotation to allow fleeces to regrow
+    and game to multiply, while province divisions permit annual hunting without disturbing
+    the same area too often.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a resource-management cycle, not explicitly a seasonal or cosmological
+    cycle.
+- id: motif:4
+  label: accounting of living and dead game
+  taxonomy_refs: []
+  basis: Quipus record categories and numbers of game, animals killed, and animals
+    left alive to determine whether game increases by the next hunt.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an administrative pattern; its symbolic or mythic significance
+    is not stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5272-5283
+  quote_or_summary: Huanacus and vicuñas are shorn and released; quipus record numbers,
+    species, sexes, killed animals, and animals remaining alive to assess later increase.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5284-5294
+  quote_or_summary: Huanacu wool is divided among common people; fine vicuña wool
+    is reserved for the Ynca, distributed to his family, and otherwise prohibited
+    on pain of death except by permission to Curacas.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5295-5299
+  quote_or_summary: Meat from killed vicuñas and huanacus is divided among the people;
+    Curacas receive shares of that meat and venison to make merry in honour of the
+    hunt.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5300-5318
+  quote_or_summary: Hunts occur in each district every three years to allow fleece
+    regrowth and game multiplication; provinces are divided so one rested part can
+    be hunted each year.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is primarily historical-administrative and contains no explicit mythic
+    narrative or divine comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l5272-l5318
+  passage_sha256=248443cf8dea6d002f19241da5003c3c69e872c4d0d8d63c9787df68d8d19581
+

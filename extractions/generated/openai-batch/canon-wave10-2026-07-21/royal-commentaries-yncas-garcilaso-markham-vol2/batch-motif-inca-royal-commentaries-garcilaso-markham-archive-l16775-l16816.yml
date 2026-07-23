@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l16775-l16816
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: B B 2 / EIGHTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. / EIGHTH  BOOK  OE  THE  KOYAL;
+    lines 16775-16816
+  start: '16775'
+  end: '16816'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“Among other virtues of the cuca, it is said to be good for the teeth.”"
+  summary: The passage describes cuca cultivation, frequent harvesting, and a later
+    anecdote about cuca’s reputed benefits. The narrator says cuca is good for the
+    teeth and gives strength to those who keep it in their mouths, then introduces
+    a story in which Rodrigo Pantoja meets a poor Spaniard walking from Cuzco to Rimac
+    while carrying his two-year-old daughter and chewing cuca.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Cuca leaves are described as being gathered every four months, making three
+    harvests per year.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Thorough weeding of cuca plantations is said to allow harvests to be anticipated
+    by more than a fortnight, approaching four harvests in a year.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator reports that cuca is said to be good for the teeth.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator reports hearing a story that cuca gives strength to those who
+    put it in their mouths.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Rodrigo Pantoja, while travelling from Cuzco to Rimac, overtook a poor Spaniard
+    who was travelling on foot and carrying his two-year-old daughter on his back.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The poor Spaniard says he carries the child himself because he cannot hire
+    an Indian to carry her.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Pantoja sees that the poor Spaniard’s mouth is full of cuca.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Rodrigo Pantoja
+  description: A cavalier of birth and breeding who travels from Cuzco to Rimac and
+    questions the poor Spaniard.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: poor Spaniard on foot
+  description: A poor Spaniard travelling on foot, carrying his little girl on his
+    back, and later seen with his mouth full of cuca.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: little girl
+  description: A two-year-old girl carried on the poor Spaniard’s back.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: narrator
+  description: The first-person narrator recalls the lawsuit from childhood and says
+    he heard the Rodrigo Pantoja story in youth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+roles:
+- id: role:1
+  label: named travelling cavalier
+  assigned_to:
+  - fig:1
+  basis: Rodrigo Pantoja is named as a cavalier travelling from Cuzco to Rimac.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: burdened foot-traveller
+  assigned_to:
+  - fig:2
+  basis: The man is described as travelling on foot while carrying his little girl
+    on his back.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: carried child
+  assigned_to:
+  - fig:3
+  basis: The girl is described as two years old and carried on the man’s back.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: cuca chewer
+  assigned_to:
+  - fig:2
+  basis: Pantoja looks at the man’s mouth and sees that it is full of cuca.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: retrospective narrator
+  assigned_to:
+  - fig:4
+  basis: The narrator states that he remembers or heard the reported events in youth.
+  evidence_refs:
+  - ev:2
+  - ev:6
+symbols:
+- id: sym:1
+  label: cuca as beneficial leaf
+  literal_form: cuca leaves gathered, cultivated, and placed in the mouth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: mouth full of cuca
+  literal_form: cuca kept in the mouth while travelling and carrying a child
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Cuca cultivation and harvest
+  summary: The passage describes the conditions and labor involved in producing cuca
+    and states that its leaves are normally gathered three times per year, with more
+    frequent harvests possible through careful weeding.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Reputed virtues of cuca
+  summary: The narrator introduces cuca’s reported benefits, including usefulness
+    for the teeth and strength for those who put it in their mouths.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pantoja meets the burdened traveller
+  summary: While travelling from Cuzco to Rimac, Rodrigo Pantoja overtakes a poor
+    Spaniard carrying his two-year-old daughter and asks why he travels with that
+    load; the man answers that he cannot hire an Indian to carry her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Pantoja observes cuca in the traveller’s mouth
+  summary: After the man speaks, Pantoja looks at his mouth and sees that it is full
+    of cuca.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: strength-giving plant kept in the mouth
+  taxonomy_refs: []
+  basis: The narrator explicitly frames the anecdote as showing the strength cuca
+    gives to those who put it in their mouths, and the poor traveller carrying a child
+    is observed with cuca in his mouth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage excerpt introduces the anecdote but does not include its full
+    conclusion within the supplied range.
+- id: motif:2
+  label: reputed medicinal plant virtue
+  taxonomy_refs: []
+  basis: Cuca is said to be good for the teeth and is associated with bodily strength.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a practical or ethnographic motif rather than a clearly mythic
+    narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16775-16790
+  quote_or_summary: Cuca leaves are gathered every four months for three harvests
+    a year; thorough weeding can make harvests earlier and nearly produce four harvests
+    annually.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: quote
+  locator: lines 16796-16800
+  quote_or_summary: "“Among other virtues of the cuca, it is said to be good for the
+    teeth. I remember a story showing the strength it gives to those who put it in
+    their mouths...”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 16800-16806
+  quote_or_summary: Rodrigo Pantoja, travelling from Cuzco to Rimac, overtakes a poor
+    Spaniard walking and carrying his two-year-old daughter on his back.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: quote
+  locator: lines 16806-16812
+  quote_or_summary: The poor man says he carries the child because he cannot hire
+    an Indian to carry her.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; brief reported speech summarized.
+- id: ev:5
+  type: quote
+  locator: lines 16812-16816
+  quote_or_summary: "“Pantoja looked at his mouth, and saw that it was full of cuca.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: lines 16790-16800
+  quote_or_summary: The narrator notes that, being a boy at the time, he does not
+    know how a lawsuit ended, and separately says he heard the Pantoja story in his
+    youth.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is clear. Motif candidates are cautious because the
+    supplied excerpt mainly gives ethnographic claims about cuca and only the beginning
+    of the illustrative anecdote. No passage-supported comparison claims were identified.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy symbol ref was assigned because the available symbol list does not include cuca/coca, leaf, mouth, or journey-load imagery. No comparative claims were added because the supplied passage does not itself support a comparison to another tradition or motif family.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l16775-l16816
+  passage_sha256=95399852c41307d55dcdee5eaed9e6feecba5493feeef307ae24585e0cf61af5
+

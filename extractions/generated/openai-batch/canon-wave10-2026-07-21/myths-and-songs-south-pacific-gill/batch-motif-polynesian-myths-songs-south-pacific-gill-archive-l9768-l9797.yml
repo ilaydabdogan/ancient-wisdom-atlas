@@ -1,0 +1,190 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l9768-l9797
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: AKAREINGA.  FINALE. / CIRCA    1795. / TUMU.  INTRODUCTION. / PAPA.; lines
+    9768-9797
+  start: '9768'
+  end: '9797'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: A favouring breeze sweeps the entrance of the ghost-cave; 'Tis for Puvai,
+    about to depart.
+  summary: The passage introduces a song dated circa 1795. A solo voice describes
+    a favouring breeze at the entrance of Anakura's ghost-cave for Puvai, who is about
+    to depart. The chorus says he skims over the crest of the billows. A following
+    section headed “PAPA” presents Mangaian lines without an English translation in
+    the excerpt.
+  language: English and Mangaian
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is introduced with the date marker “CIRCA 1795” and the heading
+    “TUMU. INTRODUCTION.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A solo voice says a favouring breeze sweeps the entrance of the ghost-cave
+    at Anakura.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The solo voice identifies the breeze as being for Puvai, who is about to depart.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The chorus says Puvai lightly skims over the crest of the billows.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A later section is headed “PAPA” and contains Mangaian verse without a supplied
+    English translation in the excerpt.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Puvai
+  description: Named figure for whom the favouring breeze is present and who is about
+    to depart, then skims over the billows.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: departing figure
+  assigned_to:
+  - fig:1
+  basis: The passage says Puvai is “about to depart” and depicts him moving over the
+    billows.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: ghost-cave
+  literal_form: the entrance of the ghost-cave at Anakura
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: billows
+  literal_form: the crest of the billows
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: favouring breeze
+  literal_form: a favouring breeze sweeping the entrance of the ghost-cave
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Puvai's departure from the ghost-cave setting
+  summary: A favouring breeze moves at the entrance of Anakura's ghost-cave for Puvai
+    as he is about to depart.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Skimming over the billows
+  summary: The chorus depicts Puvai lightly moving over the crest of the billows.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: departure over waters
+  taxonomy_refs:
+  - departure
+  basis: Puvai is explicitly described as about to depart, followed by a chorus image
+    of him skimming over billows.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The destination and larger narrative context are not given in this excerpt.
+- id: motif:2
+  label: journey from a ghost-cave setting
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The departure is framed at the entrance of a “ghost-cave,” and the figure
+    then moves over billows.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The excerpt does not explicitly describe an afterlife journey; the motif
+    assignment rests only on the ghost-cave setting and departure imagery.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 9768-9771
+  quote_or_summary: The passage opens with “CIRCA 1795” and “TUMU. INTRODUCTION.”
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used for identification.
+- id: ev:2
+  type: quote
+  locator: lines 9772-9775
+  quote_or_summary: "“A favouring breeze sweeps the entrance of the ghost-cave; /
+    'Tis for Puvai, about to depart.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: quote
+  locator: lines 9776-9778
+  quote_or_summary: "“Lightly he skims o'er the crest of the billows.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source.
+- id: ev:4
+  type: summary
+  locator: lines 9784-9797
+  quote_or_summary: A section headed “PAPA” follows with Mangaian lines, including
+    references in the text to Taamatangi and Iva, but no English translation is supplied
+    in the excerpt.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized rather than fully quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The translated Tumu portion supports extraction of Puvai, the ghost-cave,
+    breeze, billows, and departure imagery. The Papa section is minimally extracted
+    because the excerpt supplies no English translation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparative claim beyond motif-relevant imagery.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l9768-l9797
+  passage_sha256=ac5bb4530558e2d021f777041f6e005e18387649f04f62a370871e438b445cbd
+

@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l6659-l6699
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SIXTH  BOOK  OB  THE  ROYAL / CHAPTER  XVII. / COMMENTARIES  OP  THE  YNCAS.
+    / SIXTH  BOOK  OF  THE  ROYAL; lines 6659-6699
+  start: '6659'
+  end: '6699'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: mamaccocha, which means “Mother sea”
+  summary: The passage describes Inca irrigation works that redirected scarce water,
+    enlarged cultivated land, and brought abundance, thereby winning affection for
+    Inca government. It then describes coastal peoples worshipping the sea in the
+    form of fish, calling it Mother Sea because it provided food, using fish for food
+    and manure, worshipping the whale, and venerating locally useful fish before Inca
+    dominion. The passage ends by noting that the Yncas, after acquiring Yea and Pisco,
+    sent messengers to Chincha.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An aqueduct redirected scarce water for irrigation, reduced drought-related
+    crop loss, doubled cultivated land, and led to abundance and prosperity.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The construction of beneficial works is said to have caused Indians, whether
+    conquered or not, to love the government of the Yncas.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Coastal Indians from Truxillo to Tarapaca worshipped the sea in the shape
+    of fish, alongside provincial idols, out of gratitude for benefits derived from
+    the sea.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Fish served practical agricultural and dietary functions, including food and
+    manure; sardine heads were used as field manure in some places.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The sea was called mamaccocha, translated as “Mother sea,” because it was
+    understood as acting like a mother by providing food.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The whale was generally worshipped for its great size and monstrosity, and
+    different provinces adored different fish according to usefulness and abundance.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: After acquiring the valleys of Yea and Pisco, the Yncas sent messengers to
+    the valley called Chincha.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Yncas
+  description: Ruling people credited with constructing beneficial irrigation works,
+    acquiring valleys, and sending messengers to Chincha.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:2
+  name_or_label: Indians or Yuncas of the coast
+  description: Coastal peoples described as beneficiaries of sea resources and as
+    worshippers of the sea, fish, whale, and provincial idols before Inca dominion.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Sea / mamaccocha
+  description: The sea is worshipped in the shape of fish and called “Mother sea”
+    because it provides food.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Whale
+  description: A whale is described as generally worshipped because of its great size
+    and monstrosity.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: beneficial imperial builder and ruler
+  assigned_to:
+  - fig:1
+  basis: The Yncas are associated with irrigation works that produce prosperity and
+    political affection, and with later acquisition of valleys.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: role:2
+  label: resource-dependent coastal people
+  assigned_to:
+  - fig:2
+  basis: The coastal peoples receive food and agricultural benefit from fish and the
+    sea.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: worshippers of sea and marine beings
+  assigned_to:
+  - fig:2
+  basis: They worship the sea in fish form, the whale, and various useful fish.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: maternal food provider and object of worship
+  assigned_to:
+  - fig:3
+  basis: The sea is called Mother Sea and is said to act like a mother by providing
+    food.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: worshipped large marine being
+  assigned_to:
+  - fig:4
+  basis: The whale is worshipped for great size and monstrosity.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Mother Sea
+  literal_form: sea / water called mamaccocha
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: fish as sea-form and resource
+  literal_form: fish used in worship, food, and manure
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: whale
+  literal_form: whale worshipped for great size and monstrosity
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: irrigation water and aqueduct
+  literal_form: redirected water carried by an aqueduct for crops
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Irrigation brings abundance and loyalty
+  summary: Water is redirected through an aqueduct, cultivated land expands, prosperity
+    follows, and the people are said to love Inca government because of such beneficial
+    works.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Coastal worship of Mother Sea and marine beings
+  summary: Coastal peoples worship the sea in fish form, call it Mother Sea as food
+    provider, use fish as food and manure, and worship the whale and locally useful
+    fish.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Yncas send messengers toward Chincha
+  summary: After acquiring Yea and Pisco, the Yncas send messengers to the powerful
+    valley of Chincha.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Beneficial water works legitimize rule
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage links Inca irrigation works with abundance and with Indians loving
+    the government of the Yncas.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is framed as historical-political commentary rather than a
+    mythic narrative.
+- id: motif:2
+  label: Mother Sea as provider
+  taxonomy_refs:
+  - mother_goddess
+  basis: The sea is called “Mother sea” and is worshipped because it provides food
+    like a mother.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The text gives a maternal title and worship context, but does not describe
+    a developed goddess personality or mythic genealogy.
+- id: motif:3
+  label: Worship grounded in material benefit from nature
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The coastal peoples worship the sea out of gratitude for benefits, especially
+    food and agricultural fertility supplied through fish.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: Gratitude and benefit are explicit, but no detailed ritual exchange or
+    offering cycle is described.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious functional comparison between mamaccocha,
+    Mother Sea, and a maternal-provider motif family.
+  claim_level: same_function
+  target: mother_goddess
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The text calls the sea mother and worshipped provider, but does not
+    present an anthropomorphic goddess narrative.
+- id: claim:2
+  claim: The irrigation episode supports a cautious functional comparison to royal-legitimacy
+    patterns where public works and abundance secure acceptance of rule.
+  claim_level: same_function
+  target: royal_legitimacy
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The evidence is political and infrastructural rather than a formal
+    royal myth or ritual.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6659-6669
+  quote_or_summary: An aqueduct redirects scarce summer water, addresses drought and
+    crop loss, doubles cultivated land, and brings abundance and prosperity.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 6670-6674
+  quote_or_summary: Such works “caused the Indians, whether conquered or not, to love
+    the government of the Yncas.”
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 6675-6681
+  quote_or_summary: Coastal Indians over a long stretch of Peru worshipped the sea
+    in the shape of fish, in addition to provincial idols, out of gratitude for sea-derived
+    benefits.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 6681-6685
+  quote_or_summary: Fish were used as food and manure; in some coastal areas fields
+    were manured with sardine heads.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 6685-6688
+  quote_or_summary: They called the sea “mamaccocha,” meaning “Mother sea,” because
+    it acted like a mother by providing food.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: 6688-6694
+  quote_or_summary: The whale was generally worshipped for great size and monstrosity;
+    different provinces adored different fish according to usefulness and abundance,
+    before Inca dominion.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 6696-6699
+  quote_or_summary: After acquiring Yea and Pisco, the Yncas sent messengers to the
+    powerful valley called Chincha.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif and comparison labels are cautious
+    because the passage is a chronicle-style description of public works and coastal
+    worship rather than an extended mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to supplied motif families and symbols.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l6659-l6699
+  passage_sha256=f2030d1e948c38f88b68a4f9df609220318f804f1c5206b95fdcb150cf35bacb
+

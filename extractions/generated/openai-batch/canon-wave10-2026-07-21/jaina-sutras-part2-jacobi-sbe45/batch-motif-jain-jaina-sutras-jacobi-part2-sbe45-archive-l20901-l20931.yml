@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.jain-jaina-sutras-jacobi-part2-sbe45-archive-l20901-l20931
+source_text_path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+passage_locator:
+  label: BOOK 2, LECTURE 2. 363 / BOOK 2, LECTURE 2. 365 / BOOK 2, LECTURE 2, 267
+    / BOOK 2, LECTURE 2, 371; lines 20901-20931
+  start: '20901'
+  end: '20931'
+  translation: 'Jaina Sutras, Part II: The Uttaradhyayana Sutra and the Sutrakritanga
+    (Sacred Books of the East, Vol. 45)'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage compares idle, cruel people who injure named plants or crops
+    with an idle, cruel man who hurts various birds, mammals, reptiles, and snakes.
+    It then describes a man who severely punishes even small offences by domestic
+    dependents, listing forms of corporal punishment, restraint, and imprisonment.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Idle, cruel men are said to wantonly injure a list of named plants or crops,
+    including sesamum and several terms explained in notes as grains, pulses, or beans.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:2
+  text: An idle, cruel man is said to wantonly hurt listed animals, including birds,
+    deer, buffaloes, boars, iguanas, tortoises, and snakes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A man is described as severely punishing even the smallest offence committed
+    by his domestics.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: The domestics named in the passage include a slave, messenger, hired servant,
+    vassal, and parasite.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The listed punishments include pulling out hair, beating, putting in irons,
+    fetters, stocks, prison, and shackles on hands and feet.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A note explains one term for a dependent worker as one who receives a sixth
+    part of the products of the hired work.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: idle, cruel man or men
+  description: Persons described as idle and cruel who wantonly injure plants or hurt
+    animals.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: man who punishes domestics
+  description: A man who severely punishes even small offences by his domestics.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: domestics
+  description: Dependents listed as a slave, messenger, hired servant, vassal, and
+    parasite.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: listed animals
+  description: Birds, mammals, reptiles, tortoises, and snakes hurt by the idle, cruel
+    man.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: wanton injurer
+  assigned_to:
+  - fig:1
+  basis: The passage says idle, cruel men wantonly injure plants and that an idle,
+    cruel man wantonly hurts animals.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: severe punisher of domestics
+  assigned_to:
+  - fig:2
+  basis: The passage describes a man severely punishing even small offences by his
+    domestics.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: domestic dependent subject to punishment
+  assigned_to:
+  - fig:3
+  basis: The domestics are listed as persons whose smallest offences may be punished.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: harmed animal victims
+  assigned_to:
+  - fig:4
+  basis: The animals are listed as beings hurt by the idle, cruel man.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: cultivated plants and pulses
+  literal_form: Kalama, Mastira, sesamum, Mudga, beans, Nishpava, Kulattha, Alisanda,
+    Elamikkha
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: snakes
+  literal_form: snakes
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: restraints and imprisonment
+  literal_form: irons, fetters, stocks, prison, shackles
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: wanton injury to plants and animals
+  summary: The passage sets a comparison between idle, cruel men injuring named plants
+    or crops and an idle, cruel man hurting a list of birds, mammals, reptiles, tortoises,
+    and snakes.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: harsh punishment of domestics
+  summary: A man punishes even small offences of his domestics through corporal punishment,
+    restraint, imprisonment, and shackling.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: wanton harm to living beings
+  taxonomy_refs: []
+  basis: The passage explicitly describes wanton injury to plants or crops and wanton
+    harm to multiple animals by idle, cruel persons.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is ethical and illustrative rather than a narrative myth;
+    no supplied motif-family taxonomy ref is directly supported.
+- id: motif:2
+  label: disproportionate punishment of subordinates
+  taxonomy_refs: []
+  basis: The passage describes a man severely punishing even the smallest offence
+    of domestic dependents with corporal punishment, restraints, prison, and shackles.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage gives an example of conduct rather than a developed mythic
+    episode; no broader comparative claim is made.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20901-20903
+  quote_or_summary: Idle, cruel men wantonly injure named plants or crops, including
+    Kalama, Mastira, sesamum, Mudga, beans, Nishpava, Kulattha, Alisanda, and Elamikkha.
+  source_text_path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 20903-20906
+  quote_or_summary: An idle, cruel man wantonly hurts partridges, ducks, quails, pigeons,
+    francoline partridges, deer, buffaloes, boars, iguanas, tortoises, and snakes.
+  source_text_path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: note
+  locator: lines 20916-20929
+  quote_or_summary: Notes identify some plant terms as rice, pulse or lentil, kidney-bean,
+    Dolichos Sinensis, Dolichos Uniflorus, and cardamoms, while marking some identifications
+    uncertain.
+  source_text_path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 20908-20911
+  quote_or_summary: A man may severely punish even the smallest offence of his domestics,
+    listed as a slave, messenger, hired servant, vassal, or parasite.
+  source_text_path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 20911-20914
+  quote_or_summary: The punishments listed include pulling out hair, beating, putting
+    in irons, fetters, stocks, prison, and shackles for hands and feet.
+  source_text_path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: note
+  locator: lines 20930-20931
+  quote_or_summary: A note glosses Bhagilla as one who receives the sixth part of
+    the products of the work for which he is hired.
+  source_text_path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidates for ethical-pattern
+    indexing only; the passage itself does not support historical or cross-cultural
+    comparison claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage does not itself support a cautious comparison beyond its internal analogy between plant injury, animal harm, and harsh punishment.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:jain-jaina-sutras-jacobi-part2-sbe45-archive__l20901-l20931
+  passage_sha256=bad02aa35e60702d978387687d7142a9b68c689b48759d5526f0f11ba6642293
+

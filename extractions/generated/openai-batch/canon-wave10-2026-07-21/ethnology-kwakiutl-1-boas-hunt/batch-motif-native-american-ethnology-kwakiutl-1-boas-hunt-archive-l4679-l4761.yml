@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.native-american-ethnology-kwakiutl-1-boas-hunt-archive-l4679-l4761
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+passage_locator:
+  label: INDUSTKIES / INDUSTRIES / II. HUNTING, FISHING, AND FOOD-GATHERING / III.
+    PRESERVATION OF FOOD; lines 4679-4761
+  start: '4679'
+  end: '4761'
+  translation: Ethnology of the Kwakiutl, Part 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a woman processing a halibut: cutting off skin and
+    meat, separating parts, tying and hanging ribs, preparing fins, making a driftwood
+    fire, heating stones, steaming fish parts with grasses, water, and mats, disposing
+    of guts and slime in the sea, spreading and covering fresh pieces for later splitting,
+    and inviting people to eat while collecting leftover bones on a mat.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A woman cuts the halibut skin and flesh from both sides, following the edge,
+    tail, head, backbone, ribs, and rough edge.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman removes halibut meat, spawn or apron-side, head, ribs, backbone,
+    tail, stomachs, fins, rough-edge parts, and guts as distinct parts.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:3
+  text: She uses cedar-bark to tie tail-ends of ribs and roasting-tongs, and she uses
+    thin split cedar-wood with the tongs.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: She gathers driftwood on the beach, makes a fire, and heats stones until they
+    are red-hot.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: She places old eel-grass and broad-leaved grass around or over the hot stones,
+    puts fish parts on the stones, pours water over them, and covers them with mats
+    to hold in steam.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: She collects the guts, liver, and slime in a fish-basket, carries them to
+    the beach, throws them into the sea, and washes the basket.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: She scrapes blood from cut pieces, spreads them close together on the beach,
+    covers them with a mat, and the passage states that fresh pieces are not split
+    until the following day.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: She calls people on the beach to sit down, uncovers the steamed food, spreads
+    a mat for leftover bones, and watches that guests put bones on the mat while eating.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: woman preparing halibut
+  description: The woman who cuts, separates, ties, roasts, steams, cleans, covers,
+    and serves the halibut.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: guests or people called from the beach
+  description: People walking about who are called to sit down, eat, and place leftover
+    bones on a mat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: food preparer
+  assigned_to:
+  - fig:1
+  basis: The woman performs the cutting, separating, tying, roasting, steaming, washing,
+    and covering actions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: meal host or server
+  assigned_to:
+  - fig:1
+  basis: She calls people to sit, uncovers the steamed food, and monitors the placement
+    of bones during eating.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: guests or eaters
+  assigned_to:
+  - fig:2
+  basis: The people arrive, sit on the beach, eat, and put leftover bones on a mat.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: driftwood fire and red-hot stones used for roasting and steaming
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: water
+  literal_form: bucketful of water poured over steaming food; sea receiving guts,
+    liver, and slime
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: mat
+  literal_form: mats used to cover steaming food, cover fresh halibut pieces, and
+    collect leftover bones
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Cutting and separating the halibut
+  summary: The woman cuts along the skin, edge, tail, head, backbone, and ribs of
+    the halibut, removes meat from both sides, and separates spawn, head, ribs, and
+    backbone.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Binding ribs and preparing fins
+  summary: The woman ties the tail-ends of the ribs with cedar-bark, hangs them over
+    the fireplace, places fins in roasting-tongs, and secures the tongs with cedar-bark
+    and split cedar-wood.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hot-stone steaming of halibut parts
+  summary: The woman builds a driftwood fire, heats stones, arranges grasses and fish
+    parts on the stones, pours water over them, and covers them with mats to keep
+    in steam.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Disposal and preparation of fresh pieces
+  summary: The woman throws guts, liver, and slime into the sea, washes the fish-basket,
+    scrapes blood from cut pieces, spreads them on the beach, and covers them because
+    they are not split while fresh.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Guests eat and bones are collected
+  summary: The woman calls people to sit on the beach, uncovers the steamed food,
+    spreads a mat for leftover bones, and watches that guests place the bones on the
+    mat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: hot-stone cooking with fire and water
+  taxonomy_refs: []
+  basis: The passage gives a repeated sequence in which fire heats stones and water
+    is poured over covered food to steam it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a practical food-preparation pattern; the passage gives no explicit
+    mythic or ritual interpretation.
+- id: motif:2
+  label: return of fish remains to the sea
+  taxonomy_refs: []
+  basis: The woman collects guts, liver, and slime and throws them into the sea before
+    washing the basket.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The action is explicit, but the passage does not state whether it is practical
+    disposal, ritual return, or another meaning.
+- id: motif:3
+  label: communal eating with controlled bone placement
+  taxonomy_refs: []
+  basis: Guests eat after being called, and the woman ensures leftover bones are placed
+    on a mat.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage describes the practice but does not explain its purpose; the
+    excerpt ends mid-sentence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4679-4723
+  quote_or_summary: The woman cuts the halibut on both sides, removes skin and meat,
+    separates the spawn or apron-side, cuts off the head, lifts the backbone by the
+    tail, and cuts off ribs close to the backbone.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4724-4731
+  quote_or_summary: She ties the tail-ends of both sides of the ribs with cedar-bark,
+    hangs them just over the fireplace, places fins in roasting-tongs, ties the tongs
+    with cedar-bark, and adds thin split cedar-wood.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4732-4744
+  quote_or_summary: She gathers driftwood on the beach, makes a fire, heats stones,
+    places fins near the stones, gathers backbones with tails attached, and sets stomachs,
+    mats, tongs, and a bucket of water nearby.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4745-4758
+  quote_or_summary: After the stones are red-hot, she removes remaining wood, places
+    eel-grass and broad-leaved grass around or over the stones, adds stomach, head,
+    fins, rough-edge, backbone, tail, and apron-part, pours water over the food, and
+    covers it with mats to hold in steam.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4758-4760 and continuation within supplied passage
+  quote_or_summary: She gathers the halibut guts, liver, and slime into a fish-basket,
+    carries them to the beach, throws them into the sea, washes the basket, scrapes
+    blood from cut pieces, spreads them on the beach, and covers them with a mat.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: continuation within supplied passage after line 4760
+  quote_or_summary: The passage says the fresh pieces are split only the following
+    day; after covering them, the woman calls people on the beach to sit, uncovers
+    the steamed food, spreads a mat for leftover bones, and watches that guests put
+    bones on the mat while eating.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The procedural actions are explicit, but the excerpt begins and ends within
+    a larger section and does not provide explanatory or symbolic interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another tradition or motif family.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-ethnology-kwakiutl-1-boas-hunt-archive__l4679-l4761
+  passage_sha256=f22de08b227f0ad1508f41646194abc396aea3a3110ed627512e315dafbe232c
+

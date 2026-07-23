@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l5298-l5379
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: UNUUNU  TAI. / FIRST  OFFSHOOT. / UNUUNU  RUA. / SECOND  OFFSHOOT.; lines
+    5298-5379
+  start: '5298'
+  end: '5379'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A song section titled the second offshoot includes an instruction to entwine
+    sweet-scented fern leaves. The translated lyric asks what is happening at the
+    margin of the sea, announces that a god reveals himself, says Tautiti has come
+    up from the nether-world, names Tane, and ends with the speaker’s bodily pleasure
+    and wish to be a dragon-fly in a sunbeam.
+  language: Mangaian with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is labelled as the second offshoot and includes solo and chorus
+    performance markers.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The translated lyric gives an instruction to entwine sweet-scented fern leaves.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The lyric asks what is happening at the margin of the sea.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lyric states that a god reveals himself.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Tautiti is said to have come up from the nether-world.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Tane is named in the statement that someone stands revealed.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A first-person speaker says pleasure thrills through the speaker's body.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The first-person speaker wishes to be a dragon-fly exulting in a sunbeam.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Tautiti
+  description: Named as the one who has come up out of the nether-world after the
+    statement that the god reveals himself.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Tane
+  description: Named or addressed in the line translated as 'O Tane, he stands revealed.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: first-person speaker
+  description: The voice that reports bodily pleasure and wishes to be a dragon-fly
+    in a sunbeam.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: revealed figure ascending from the nether-world
+  assigned_to:
+  - fig:1
+  basis: The lyric says the god reveals himself and then says Tautiti has come up
+    out of the nether-world.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: named addressee or invoked figure
+  assigned_to:
+  - fig:2
+  basis: Tane is named in the vocative line associated with the revelation.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: expressive first-person voice
+  assigned_to:
+  - fig:3
+  basis: The speaker reports pleasure and expresses a wish to be a dragon-fly in a
+    sunbeam.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: margin of the sea
+  literal_form: the margin of the sea
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: nether-world
+  literal_form: nether-world
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sweet-scented fern leaves
+  literal_form: sweet-scented fern-leaves
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: dragon-fly in a sunbeam
+  literal_form: a dragon-fly exulting in the sunbeam
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: second offshoot performance opening
+  summary: The section is marked as a solo-and-chorus song and includes the instruction
+    to entwine sweet-scented fern leaves.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: revelation at the sea margin
+  summary: The lyric asks what is happening at the sea margin, announces that the
+    god reveals himself, says Tautiti has come up from the nether-world, and names
+    Tane as the revealed figure is addressed or identified.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: speaker's exultant wish
+  summary: The first-person speaker says pleasure thrills through the body and wishes
+    to be a dragon-fly exulting in a sunbeam.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ascent from the nether-world
+  taxonomy_refs:
+  - ascent
+  basis: Tautiti is explicitly said to have come up out of the nether-world.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives only the emergence statement, not a detailed journey
+    narrative.
+- id: motif:2
+  label: divine self-revelation
+  taxonomy_refs: []
+  basis: The translated lyric states that the god reveals himself and that he stands
+    revealed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not provide a fuller account of the circumstances or
+    identity relationships beyond the adjacent names.
+- id: motif:3
+  label: epiphany at a sea boundary
+  taxonomy_refs: []
+  basis: The revelation is framed by a question about what is happening at the margin
+    of the sea.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The sea margin is present as the stated setting, but the passage does
+    not explain its ritual or mythic function.
+- id: motif:4
+  label: wish to become a sunlit dragon-fly
+  taxonomy_refs:
+  - shapeshifter
+  basis: The speaker wishes to be a dragon-fly exulting in a sunbeam.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: This is an expressed wish or image, not an actual transformation event.
+comparison_claims:
+- id: claim:1
+  claim: The statement that Tautiti has come up out of the nether-world supports a
+    cautious comparison to an ascent-from-below motif family.
+  claim_level: same_motif
+  target: ascent
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a brief song lyric and lacks extended narrative details
+    such as stages of travel, obstacles, or return consequences.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5298-5379, second offshoot opening and translation
+  quote_or_summary: '"SECOND OFFSHOOT." / "Entwine sweet-scented fern-leaves."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 5298-5379, English translation
+  quote_or_summary: '"What is going on yonder / At the margin of the sea ?"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 5298-5379, English translation
+  quote_or_summary: '"The god reveals himself !" / "Tautiti himself has come up (out
+    / of nether-world)"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 5298-5379, English translation
+  quote_or_summary: '"O Tane, he stands revealed !"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 5298-5379, English translation
+  quote_or_summary: '"Pleasure thrills through my body."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 5298-5379, English translation
+  quote_or_summary: '"I would I were / A dragon-fly exulting in the sun / beam."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is brief and translated, making the literal extraction straightforward.
+    Motif interpretation is more limited because the song gives compressed images
+    rather than a full narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to the provided motif families and symbols.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l5298-l5379
+  passage_sha256=0cfa0d98e874a25e7be3684a4b6dded63e8514634b525f61e851f6244a3438e1
+

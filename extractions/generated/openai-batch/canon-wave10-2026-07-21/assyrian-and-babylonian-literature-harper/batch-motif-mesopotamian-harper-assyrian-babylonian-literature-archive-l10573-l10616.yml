@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l10573-l10616
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: EAST   INDIA   HOUSE   INSCRIPTION  137 / EAST   INDIA   HOUSE   INSCRIPTION
+    / I40        ASSYRIAN   AND   BABYLONIAN   LITERATURE / EAST   INDIA   HOUSE   INSCRIPTION  141;
+    lines 10573-10616
+  start: '10573'
+  end: '10616'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: with bitumen and burned brick I raised it mountain-high
+  summary: 'A first-person royal speaker describes rebuilding and enlarging a palace
+    and protective works in Babylon: laying foundations at water and earth-depth,
+    raising walls and turrets, installing cedar and metal fittings, storing royal
+    treasure and insignia, respecting Marduk''s sacred urban features, and completing
+    construction on an auspicious date.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The palace gates had become too low because of the terracing of a Babylon
+    street.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker tore down a brick wall, sought the platform foundation, and reached
+    the bottom of the water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker laid the foundation at the water's edge and raised the structure
+    with bitumen and burned brick.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Cedar roof timbers, cedar doors with copper sheathing, and bronze thresholds
+    and hinges were set in place.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Silver, gold, precious stones, valuable goods, property, royal insignia, and
+    a royal treasure were gathered inside the structure.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker states that he did not build a royal residence or establish royal
+    insignia in any other human habitation or city.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker says that because fear of Marduk was in his heart, he did not
+    change Marduk's street, impair his shrine, dam his canal, or neglect his chamber.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A wall was built for the protection of Imgur-Bel and Nimitti-Bel, the two
+    large walls of Babylon.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A large chamber for the speaker's royal dwelling-place was built in a high
+    tower and joined to the palace of the speaker's father.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: On a favorable date, the speaker laid the foundation in the bowels of the
+    earth, raised the turrets like a mountain, and completed the construction on the
+    fifteenth day.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Mighty cedar trees, ashuhu trees, cypress trees, costly stones, and snow-capped
+    mountains are mentioned among construction resources or sources.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: first-person royal speaker
+  description: The unnamed first-person speaker presents himself as a ruler rebuilding
+    and enlarging royal structures in Babylon, gathering royal treasure and insignia,
+    and acting with concern for Marduk's sacred features.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Marduk
+  description: Marduk is named as the speaker's lord; Babylon is called his treasure
+    city, and his street, shrine, canal, and chamber are referenced.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: unnamed father of the speaker
+  description: The speaker refers to 'my father's palace' as the structure to which
+    the new royal dwelling is joined.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: royal builder
+  assigned_to:
+  - fig:1
+  basis: The speaker tears down, lays foundations, raises walls and turrets, builds
+    chambers, and completes construction.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:2
+  label: royal possessor of insignia and treasure
+  assigned_to:
+  - fig:1
+  basis: The speaker gathers royal treasure and insignia and speaks of a dwelling-place
+    befitting royalty.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: divine lord
+  assigned_to:
+  - fig:2
+  basis: Marduk is explicitly called 'my lord' by the speaker.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: owner of sacred urban features
+  assigned_to:
+  - fig:2
+  basis: The passage refers to Marduk's treasure city, street, shrine, canal, and
+    chamber.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: royal father or predecessor
+  assigned_to:
+  - fig:3
+  basis: The speaker mentions joining the new construction to his father's palace.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water-edge foundation
+  literal_form: bottom of the water; water's edge
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mountain-like construction
+  literal_form: structure raised mountain-high; turrets raised like a mountain; snow-capped
+    mountains
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: construction trees
+  literal_form: mighty cedar trees, ashuhu trees, and cypress trees
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: royal insignia and treasure
+  literal_form: silver, gold, precious stones, possessions, property, insignia of
+    exalted position, royal treasure
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Marduk's sacred urban features
+  literal_form: Marduk's treasure city, street, shrine, canal, and chamber
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Rebuilding foundations, gates, and fittings
+  summary: The speaker responds to the lowered palace gates by tearing down a wall,
+    reaching water, laying a foundation at the water's edge, raising the structure,
+    and installing cedar, copper, and bronze fittings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Gathering royal wealth in Babylon
+  summary: The speaker gathers precious materials, property, royal insignia, and treasure
+    in the structure and states that he did not establish his royal residence or insignia
+    elsewhere.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Restraint before Marduk's city and shrine
+  summary: The speaker links his conduct to fear of Marduk and says he did not alter
+    Marduk's street, shrine, canal, or chamber while enlarging the royal residence
+    in Babylon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Protective wall and royal dwelling tower
+  summary: The speaker builds protective works for the walls of Babylon, constructs
+    a royal chamber in a high tower, joins it to his father's palace, lays foundations
+    on an auspicious date, and raises turrets like a mountain.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Royal building as legitimate kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage presents palace and wall construction together with royal residence,
+    royal insignia, treasure, an ancestral palace connection, and pious attention
+    to Marduk's sacred urban features.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is a royal construction inscription rather than a narrative
+    myth; the motif is inferred from the inscriptional emphasis on kingship, building,
+    treasure, ancestry, and divine reverence.
+- id: motif:2
+  label: Mountain-like monumental architecture
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: The construction is explicitly described as 'mountain-high,' the turrets
+    are raised 'like a mountain,' and building materials are associated with snow-capped
+    mountains.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: Mountain imagery is explicit, but the passage does not explicitly state
+    a cosmological mountain doctrine.
+- id: motif:3
+  label: Foundation at watery and earth-depth boundaries
+  taxonomy_refs: []
+  basis: The speaker reaches the bottom of the water, lays a foundation at the water's
+    edge, and later lays a foundation in the bowels of the earth.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage frames these details as construction acts; any broader symbolic
+    reading requires review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10573-10580
+  quote_or_summary: The palace gates had become too low; the speaker tore down a brick
+    wall, sought the platform foundation, reached the bottom of the water, and laid
+    the foundation at the water's edge.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 10580-10585
+  quote_or_summary: The speaker raises the structure 'mountain-high' with bitumen
+    and burned brick, lays cedar trees for the roof, and sets cedar doors with copper
+    sheathing plus bronze thresholds and hinges.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; includes short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 10585-10593
+  quote_or_summary: The speaker gathers silver, gold, precious stones, valuable things,
+    property, royal insignia, and a royal treasure, and says he did not build a residence
+    or establish royal insignia elsewhere.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 10593-10600
+  quote_or_summary: Because fear of Marduk is in his heart, the speaker says he did
+    not change Marduk's street, impair his shrine, dam his canal, or neglect his chamber
+    in Babylon, Marduk's treasure city.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 10600-10609
+  quote_or_summary: To keep battle from reaching Imgur-Bel and to protect the two
+    large walls of Babylon, the speaker builds a mountain-high wall, a burned-brick
+    structure, and a high-tower chamber for his royal dwelling, joined to his father's
+    palace.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 10609-10616
+  quote_or_summary: On a favorable day, the speaker lays the foundation in the bowels
+    of the earth, raises the turrets like a mountain, completes construction on the
+    fifteenth day, beautifies the dwelling, and mentions cedar, ashuhu, cypress, costly
+    stones, and snow-capped mountains.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal construction details and named figures are clear. Motif assignments
+    require review because the passage is an inscriptional building account and some
+    symbolic readings, especially cosmic mountain language, are cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage does not itself compare this episode to another named tradition or corpus.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l10573-l10616
+  passage_sha256=e48fb4b8ec06c82e3e289846117498cd085d606877b4840a46fd81b5f330d517
+

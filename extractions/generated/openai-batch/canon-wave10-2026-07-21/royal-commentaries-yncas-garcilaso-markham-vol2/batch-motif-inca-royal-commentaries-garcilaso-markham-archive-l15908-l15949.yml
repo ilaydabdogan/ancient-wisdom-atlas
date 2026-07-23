@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l15908-l15949
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: EIGHTH  BOOK  OP  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. / CHAPTER  IX.
+    / OF  MAIZE,  AND  OF  WHAT  THEY  CALL  RICE,  AND  OF  OTHER  GRAINS.; lines
+    15908-15949
+  start: '15908'
+  end: '15949'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes foods produced in Peru before the Spaniards, especially
+    maize. It gives regional names for maize, distinguishes hard and tender varieties,
+    describes maize as bread eaten toasted or boiled in water, notes ritual and festive
+    breads made from the same maize preparation, and describes women grinding corn
+    with stone or tile implements.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage distinguishes foods that supported Peru before the arrival of
+    the Spaniards from products introduced by Spaniards.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fruits of Peru are classified as growing underground or aboveground.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Maize is identified as the most important aboveground food and as the source
+    of bread for the Peruvians.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'The passage gives different names for maize: maíz among Mexicans and people
+    of the Antilles, sara among Peruvians, and tonco in the Collao dialect.'
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: obs:5
+  text: 'Two maize kinds are named: hard muruchu and tender capia.'
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Maize is eaten toasted or boiled in pure water instead of bread.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Hard maize seed has been brought to Spain, while the tender sort has not yet
+    been introduced there.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: In sacrifices, maize bread is called gancu; on festive eating occasions the
+    same bread is called huminta.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The difference between gancu and huminta is stated to be a difference of use,
+    not a difference in the bread itself.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Women grind corn on broad slabs or tiles using another half-moon-shaped tile.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Peruvians
+  description: The people who call maize sara, use it as bread, and make ritual and
+    festive maize breads.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Mexicans and people of the Antilles
+  description: Groups said to call the grain maíz.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Spaniards
+  description: Their arrival marks the boundary between native Peruvian products and
+    products later introduced by them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Women
+  description: Women grind corn with broad slabs or tiles and a half-moon-shaped upper
+    tile.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: maize users and namers
+  assigned_to:
+  - fig:1
+  basis: Peruvians call maize sara and use it as bread.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: alternate regional namers of maize
+  assigned_to:
+  - fig:2
+  basis: Mexicans and people of the Antilles are said to call the grain maíz.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: post-arrival introducers
+  assigned_to:
+  - fig:3
+  basis: The passage says products not yielded by the land were introduced by the
+    Spaniards.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: ritual and festive bread makers or users
+  assigned_to:
+  - fig:1
+  basis: The passage describes their custom of making maize bread for sacrifices and
+    for festival eating.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: corn grinders
+  assigned_to:
+  - fig:4
+  basis: Women are described grinding corn on broad slabs or tiles.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: maize / sara
+  literal_form: Maize grain, called sara by Peruvians and maíz by Mexicans and Antilleans.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:2
+  label: hard maize / muruchu
+  literal_form: A hard kind of maize named muruchu.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: tender maize / capia
+  literal_form: A tender and highly esteemed kind of maize named capia.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: maize bread as offering and food
+  literal_form: The same maize bread called gancu for sacrifice and huminta for festive
+    eating.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: pure water
+  literal_form: Pure water used for boiling maize.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: grinding slabs and half-moon tile
+  literal_form: Broad slabs or tiles with an upper tile shaped like a half moon for
+    grinding corn.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Pre-Spanish Peruvian foods introduced
+  summary: The passage frames the discussion as concerning foods produced in Peru
+    before Spaniards arrived, separating them from later Spanish introductions.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Maize named and classified
+  summary: Maize is presented as the chief aboveground food, with regional names and
+    two named varieties, hard and tender.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: scene:3
+  label: Maize prepared as daily substitute for bread
+  summary: The passage says maize is eaten instead of bread, either toasted or boiled
+    in pure water.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Maize bread used for sacrifice and festivals
+  summary: The same maize bread receives different names according to whether it is
+    used as a sacrificial offering or eaten on festal occasions.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Corn grinding by women
+  summary: Women grind corn on broad slabs or tiles using an upper half-moon-shaped
+    tile.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: maize bread as sacrificial offering
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly says maize bread called gancu was made in sacrifices
+    and differentiated from the same bread eaten at festivals.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not describe the recipient, ritual procedure, or theology
+    of the sacrifice in this excerpt.
+- id: motif:2
+  label: ritual name distinguished from ordinary festive use
+  taxonomy_refs: []
+  basis: The same bread is said to receive different names because one use is sacrificial
+    offering and the other is the people's own festive eating.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a material and ritual pattern rather than a narrative mythic episode.
+- id: motif:3
+  label: staple grain as life-supporting food
+  taxonomy_refs: []
+  basis: Maize is presented as the most important aboveground product and as yielding
+    bread for the Peruvians before the Spaniards arrived.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is ethnographic and agricultural; no mythic origin of maize
+    is given.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports a cautious linguistic comparison among regional names
+    for maize: maíz, sara, and tonco.'
+  claim_level: linguistic_similarity
+  target: Maize terminology among Mexicans, people of the Antilles, Peruvians/Yngas,
+    and the Collao dialect
+  evidence_refs:
+  - ev:3
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to names reported in the passage and does
+    not establish historical contact or etymology.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15908-15917
+  quote_or_summary: The author says products not yielded by the land but introduced
+    by Spaniards will be treated separately from native products.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 15918-15921
+  quote_or_summary: Peru's pre-Spanish foods are said to include several kinds, some
+    growing underground and others aboveground.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 15921-15925
+  quote_or_summary: The chief aboveground fruit is maize, called maíz by Mexicans
+    and Antilleans and sara by Peruvians; it yields the Peruvians' bread.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 15925-15930
+  quote_or_summary: Two maize kinds are named, hard muruchu and tender capia, and
+    maize is eaten toasted or boiled in pure water.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 15930-15934
+  quote_or_summary: The hard maize seed has been brought to Spain, while the tender
+    sort has not yet been introduced; some provinces produce a more delicate kind.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 15934-15944
+  quote_or_summary: Maize bread called gancu is made for sacrifices, while the same
+    bread called huminta is made for festal eating; women grind corn on broad slabs
+    or tiles with a half-moon-shaped upper tile.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 15945-15949
+  quote_or_summary: A note states that tonco is the Collao dialect word for maize
+    and sara is the word in the language of the Yncas; another note identifies Encana
+    as Lucanas.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear for agricultural, ritual-offering, and linguistic observations.
+    Motif identification is limited because the excerpt is descriptive rather than
+    mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparisons or unprovided taxonomy identifiers were added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l15908-l15949
+  passage_sha256=c50c6fa324592e1552966febe76cd116ce953329aa88e0ab61a1f7329a68a06a
+

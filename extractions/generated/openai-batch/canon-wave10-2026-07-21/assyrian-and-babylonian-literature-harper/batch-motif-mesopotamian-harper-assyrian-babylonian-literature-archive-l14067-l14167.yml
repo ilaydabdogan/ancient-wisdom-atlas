@@ -1,0 +1,172 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l14067-l14167
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: THE   BABYLONIAN   CHRONICLE  205 / THE  ASSYRIAN    EPONYM-LIST / THE   ASSYRIAN  EPONYM-LIST
+    / ASSYRIAN   EPONYM-LIST,  WITH   NOTES; lines 14067-14167
+  start: '14067'
+  end: '14167'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A portion of an Assyrian eponym-list with notes gives numbered year entries
+    paired with personal names, includes uncertain readings and a marked break, and
+    contains a note that Esarjhaddon took his seat on the throne.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as an Assyrian eponym-list with notes.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage presents numbered entries paired with personal names, including
+    entries such as 702 Nabu-li'u, 701 Hananu, and 680 Dana(a)nu.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Several entries include variant or uncertain readings marked by parentheses,
+    brackets, question marks, or asterisks.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: A textual break is explicitly marked, followed by fragmentary or uncertain
+    entries.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A bracketed note states that Esarjhaddon took his seat on the throne.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Named eponym-list entries
+  description: A sequence of named persons or entries attached to numbered years in
+    the eponym-list; many names are partially uncertain or supplied with variant readings.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Esarjhaddon
+  description: Named in a bracketed note as the person who took his seat on the throne.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: eponym-list named entry
+  assigned_to:
+  - fig:1
+  basis: The heading identifies the passage as an eponym-list, and the body consists
+    of numbered entries paired with names.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: enthroned ruler
+  assigned_to:
+  - fig:2
+  basis: The passage states that Esarjhaddon took his seat on the throne.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: throne
+  literal_form: throne
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Numbered eponym-list entries
+  summary: The passage lists numbered entries associated with names, with many uncertain
+    readings and orthographic variants.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Esarjhaddon takes the throne
+  summary: A bracketed note records that Esarjhaddon took his seat on the throne.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: royal enthronement notice
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage explicitly records Esarjhaddon taking his seat on the throne.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage is an annalistic or chronological list note, not a mythic
+    narrative; it does not state divine sanction, contest, ritual detail, or a legitimacy
+    argument beyond the throne-taking notice.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 14067-14069
+  quote_or_summary: '"ASSYRIAN EPONYM-LIST, WITH NOTES"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: 14071-14123
+  quote_or_summary: Numbered entries pair years or entry numbers with names, including
+    examples such as Nabu-li'u, Hananu, Dana(a)nu, Ishtu-Ramman-aninu, Nergal-shar-UQur,
+    and others; some entries provide alternative readings.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 14125-14167
+  quote_or_summary: The passage marks a break and includes fragmentary or uncertain
+    entries such as Belu-na'id, Tabu, Arba-[ila], Girza-[btina], and Silim-[Ashur?].
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 14155-14161
+  quote_or_summary: '"[Esarjhaddon took his seat on the throne."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: Literal extraction is straightforward, but the passage is primarily a chronological
+    eponym-list. The only motif candidate is based on the explicit throne-taking note
+    and should be reviewed cautiously.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were generated because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l14067-l14167
+  passage_sha256=b56ec875f51c808cb8db9cca9a3e4aa1ad3be57862e5ec71b9be0e5cb1a0c6f1
+

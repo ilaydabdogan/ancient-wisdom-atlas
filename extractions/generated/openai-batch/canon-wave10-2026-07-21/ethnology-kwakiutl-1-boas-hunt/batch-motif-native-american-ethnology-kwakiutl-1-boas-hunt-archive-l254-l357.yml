@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.native-american-ethnology-kwakiutl-1-boas-hunt-archive-l254-l357
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+passage_locator:
+  label: Ethnology of the Kwakiutl, Part 1 / I. INDUSTRIES; lines 254-357
+  start: '254'
+  end: '357'
+  translation: Ethnology of the Kwakiutl, Part 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a step-by-step woodworking procedure for using cedar-stick
+    measures, a straight-edge, and a straight knife to mark, measure, and cut a board
+    for a box, including long-side and short-side measurements and later end-thickness
+    cuts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The worker uses a cedar-stick measure at the middle of the board, bevels the
+    measure, and marks positions on the board edges.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The worker uses a straight-edge and straight knife to mark and cut off the
+    rough end so that it is smooth and not slanted.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The worker splits cedar sticks into thin square pieces and cuts measuring
+    pieces of specified span lengths.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A two-span cedar-stick measure is assigned to the long side of the box, while
+    a measure of one short span and one long span is assigned to the short side.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The worker repeatedly places the shorter and longer measures on both board
+    edges, marks their ends, aligns a straight-edge with the marks, and cuts along
+    it.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The worker measures the end thickness with a split cedar-stick, transfers
+    the thickness to the board edges, makes end cuts, cuts halfway through the board
+    at numbered positions, and marks an offset of half a little finger.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed worker
+  description: An unnamed male worker, referred to as 'he,' who measures, marks, and
+    cuts the board during box construction.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: box-making craftsperson
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly describes the figure using measuring sticks, a straight-edge,
+    and a straight knife to prepare and cut a board for a box.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: cedar-stick measure
+  literal_form: Cedar-stick measuring pieces, including a beveled measure, a two-span
+    measure, and a measure of one long span plus one short span.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: straight-edge
+  literal_form: Straight-edge used to align marks across the board before cutting.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: straight knife
+  literal_form: Straight knife used for marking and cutting along measured lines.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: board or box workpiece
+  literal_form: A board being measured and cut as part of making a box.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: body-based measurements
+  literal_form: Measurements expressed as spans and as half the width of a little
+    finger.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: initial marking and squaring of the board end
+  summary: The worker marks the board using a beveled cedar-stick measure, lays down
+    a straight-edge, and cuts off the rough end so that the end is smooth and straight.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: preparation of long-side and short-side measures
+  summary: The worker splits cedar sticks and makes two measuring pieces, one for
+    the long side of the box and one for the short side.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: repeated measuring, marking, and cutting of side lengths
+  summary: The worker alternates the short and long measures along both edges of the
+    board, marks their endpoints, aligns the straight-edge, and cuts along the marked
+    lines.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: end-thickness transfer and half-depth cuts
+  summary: The worker measures the thickness at the end with a split cedar-stick,
+    marks and cuts the end, cuts halfway through the board at several marked positions,
+    and marks a half-little-finger offset.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: measured cedar-box construction sequence
+  taxonomy_refs: []
+  basis: 'The passage is organized as a detailed craft sequence: making cedar-stick
+    measures, assigning them to long and short box sides, marking both edges of a
+    board, aligning a straight-edge, and cutting the board according to the marks.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a practical ethnographic craft pattern rather than a mythological
+    motif; no supplied motif-family taxonomy reference is directly supported.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 254-357, opening middle-marking segment
+  quote_or_summary: At the middle of the board, after the drill enters slightly, the
+    worker bevels a cedar-stick measure and marks edge positions with it.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 254-357, rough-end cutting segment
+  quote_or_summary: The worker cuts along the mark with a straight knife "so that
+    the end is smooth" and "does not slant."
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 254-357, cedar-stick side-measure segment
+  quote_or_summary: '"The cedar-stick two spans in length is to be the measure for
+    the long side of the box, and the measure for the short side is one short span
+    and one long span."'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 254-357, repeated side-marking and cutting segment
+  quote_or_summary: The shorter and longer measures are placed from marks on both
+    edges; the worker marks their ends, lays a straight-edge along the marks, and
+    cuts along it with the straight knife.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 254-357, final thickness and half-depth cut segment
+  quote_or_summary: The worker measures the end thickness with a split cedar-stick,
+    transfers it to the two edges, marks with knife and straight-edge, cuts the end,
+    then cuts halfway through the board at numbered positions and marks a half-little-finger
+    offset.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal craft actions and objects are clear. The only candidate motif is
+    treated cautiously as a practical procedural pattern; the passage does not support
+    mythological taxonomy assignments or comparison claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Passage is a technical woodworking description from the industries section; no comparative mythology claim is asserted.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-ethnology-kwakiutl-1-boas-hunt-archive__l254-l357
+  passage_sha256=24158ce3e87fd35bece97364fb31badb55df8d9843dba8d8425e48d2b764d588
+

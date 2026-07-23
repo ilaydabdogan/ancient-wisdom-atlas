@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l8049-l8092
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: SELECTION  OF  BUILDING  SITES / I.  BUILDING  CEREMONIES  AND  CHARMS /
+    EARTH / ERECTING  THE  CENTRE-POST; lines 8049-8092
+  start: '8049'
+  end: '8092'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes selecting an auspicious date and time for erecting
+    a central house-post, digging the post-hole with a charm, avoiding the workers’
+    shadows falling on the post or hole, and making an offering or sacrifice before
+    the post is erected by depositing specified materials and possibly using a fowl,
+    goat, buffalo, or egg substitute.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After the building site is selected, a day for erecting the central house-post
+    is chosen by consulting schedules of lucky and unlucky months and weekdays.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that seven o’clock in the morning is considered the best
+    time of day for the operation, though some magicians may still consult a schedule.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Once the propitious moment is determined, the post-hole is dug with a charm
+    recited, and the centre-post is erected.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Precautions are taken to prevent any worker’s shadow from falling on the post
+    or the hole; otherwise sickness and trouble are said to follow.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Before the centre-post is erected, a sacrifice or offering is made.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: The offering includes depositing small amounts of brazilwood, ebony-wood,
+    assafoetida, and scrap-iron in the post-hole.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage names a fowl, goat, or buffalo as possible sacrificial animals;
+    a footnote says an egg may suffice as the symbol of a fowl when no trouble is
+    expected from the earth-spirit.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: workers
+  description: People working at the erection whose shadows must not fall on the post
+    or post-hole.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: magicians
+  description: Ritual specialists mentioned as consulting schedules or supplying instructions
+    for the rite.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: earth-spirit
+  description: A spirit mentioned in a footnote as a possible source of trouble.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: ritual workers subject to shadow taboo
+  assigned_to:
+  - fig:1
+  basis: The passage says precautions are taken so workers’ shadows do not fall on
+    the post or hole.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: ritual specialists or informants
+  assigned_to:
+  - fig:2
+  basis: Some magicians may consult schedules, and other magicians’ instructions are
+    cited for the omitted sacrifice.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: possible supernatural source of trouble
+  assigned_to:
+  - fig:3
+  basis: The footnote refers to trouble expected on the part of the earth-spirit.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: centre-post
+  literal_form: central house-post / centre-post
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: post-hole
+  literal_form: hole dug to receive the centre-post
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: worker’s shadow
+  literal_form: shadow of any worker falling on the post or hole
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: deposited offering materials
+  literal_form: brazilwood, ebony-wood, assafoetida, and scrap-iron placed in the
+    hole
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: sacrificial animal
+  literal_form: fowl, goat, or buffalo
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: egg as substitute for fowl
+  literal_form: egg described as the symbol of a fowl
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: choosing the auspicious time
+  summary: After the site is chosen, schedules of lucky and unlucky months and days
+    are consulted, and seven o’clock in the morning is identified as the best time.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: digging and erecting the centre-post
+  summary: The post-hole is dug with a charm recited, the centre-post is erected,
+    and workers avoid casting shadows on the post or hole.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: foundation offering before erection
+  summary: Before the centre-post is erected, specified materials are deposited in
+    the hole and an animal sacrifice, or in one case an egg substitute, is mentioned.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: auspicious timing for ritual construction
+  taxonomy_refs: []
+  basis: The rite requires consulting schedules of lucky and unlucky months and days
+    before erecting the central house-post.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage describes a local building practice and does not itself connect
+    the timing procedure to a wider mythic system.
+- id: motif:2
+  label: foundation sacrifice or offering before centre-post erection
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly states that a sacrifice or offering is made before
+    the centre-post is erected, with offerings placed in the post-hole and possible
+    animal victims named.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The line range ends while the sacrificial instructions continue, so the
+    full procedure is incomplete here.
+- id: motif:3
+  label: shadow taboo in building rite
+  taxonomy_refs: []
+  basis: Workers’ shadows must not fall on the post or hole, because sickness and
+    trouble are said to follow otherwise.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader comparative taxonomy reference is assigned because the passage
+    only gives the local rule and consequence.
+- id: motif:4
+  label: ritually charged central house-post
+  taxonomy_refs: []
+  basis: The central post is erected only after auspicious timing, charm recital,
+    shadow precautions, and offerings in the post-hole.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: Although the post is central and ritually treated, the passage does not
+    explicitly identify it as a cosmic axis or world center.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8049-8057
+  quote_or_summary: The site having been selected, the day for erecting the central
+    house-post is chosen by consulting schedules of lucky and unlucky months and weekdays.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8058-8063
+  quote_or_summary: The best time of day is said to be seven o’clock in the morning,
+    though some magicians may consult a schedule.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8064-8074
+  quote_or_summary: At the propitious moment the post-hole is dug with a charm recited,
+    the post is erected, and workers’ shadows must not fall on the post or hole to
+    avoid sickness and trouble.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8075-8081
+  quote_or_summary: An editorial note says the appendix account omits the sacrifice
+    required before the centre-post is erected, so details are drawn from other magicians’
+    instructions.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8082-8089
+  quote_or_summary: Before the centre-post is erected, a sacrifice or offering is
+    made by placing a little brazilwood, ebony-wood, assafoetida, and scrap-iron in
+    the hole.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8089-8092 and footnote 3 in the supplied passage
+  quote_or_summary: The passage says to take a fowl, goat, or buffalo; the footnote
+    adds that where no trouble is expected from the earth-spirit, an egg as the symbol
+    of a fowl may suffice as a sacrifice.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based only on the supplied line range. Motif candidates
+    are cautious because the passage describes ritual procedure rather than narrating
+    an explicit mythic episode, and the final sacrificial instruction is truncated
+    at the end of the range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage does not itself establish a specific comparison beyond the local rite and the available sacrifice motif family.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l8049-l8092
+  passage_sha256=035164b307e6e65061a4463d974be7d5e5bb0cfc4f95f67eb3a6c00d4caf6518
+

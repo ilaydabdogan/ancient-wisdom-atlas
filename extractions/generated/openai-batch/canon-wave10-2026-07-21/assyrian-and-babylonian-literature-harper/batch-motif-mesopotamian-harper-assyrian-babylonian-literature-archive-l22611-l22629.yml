@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l22611-l22629
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: THE   GILGAMESH   NARRATIVE  357 / THE   GILGAMESH   NARRATIVE  359 / THE   GILGAMESH   NARRATIVE  361
+    / THE   GILGAMESH   NARRATIVE  363; lines 22611-22629
+  start: '22611'
+  end: '22629'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Gilgamesh addresses Arad-Ea the ferryman and tells him to go up and walk
+    on the wall of Erech, inspecting its corner-stone, brick-work, burned brick wall,
+    and pitch-covered foundation. The passage then notes that the closing lines cannot
+    be correctly translated, followed by the first line of Tablet XII and a colophon
+    identifying the tablet as the eleventh of the Gilgamesh epic, copied faithfully
+    from the original and owned by Ashurbanipal.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Gilgamesh speaks to Arad-Ea, who is identified as the ferryman.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gilgamesh tells Arad-Ea to ascend and walk about on the wall of Erech.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speech instructs Arad-Ea to inspect the corner-stone and examine the brick-work.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wall is described or queried as made of burned brick, with a foundation
+    possibly overlaid with pitch.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A phrase translated uncertainly as “Sevenfold is thy name” appears in the
+    passage.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The translator notes that the closing lines cannot be correctly translated.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A following colophon identifies the tablet as the eleventh of the Gilgamesh
+    epic, copied faithfully from the original, and the property of Ashurbanipal.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Gilgamesh
+  description: Named speaker who addresses Arad-Ea.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Arad-Ea
+  description: Named as the ferryman addressed by Gilgamesh.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Ashurbanipal
+  description: Named in the colophon as the property owner of the tablet.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: speaker giving instruction
+  assigned_to:
+  - fig:1
+  basis: Gilgamesh speaks to Arad-Ea and gives directions concerning the wall of Erech.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ferryman and addressee
+  assigned_to:
+  - fig:2
+  basis: Arad-Ea is identified as the ferryman and is directly addressed by Gilgamesh.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: tablet property owner
+  assigned_to:
+  - fig:3
+  basis: The colophon identifies the tablet as the property of Ashurbanipal.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: wall of Erech
+  literal_form: the wall of Erech
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: architectural inspection objects
+  literal_form: corner-stone, brick-work, burned brick wall, and pitch-covered foundation
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: tablet colophon
+  literal_form: colophon identifying the tablet number, faithful copying from the
+    original, and Ashurbanipal’s ownership
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Instruction to inspect Erech’s wall
+  summary: Gilgamesh addresses Arad-Ea the ferryman and tells him to go up onto the
+    wall of Erech and examine its construction.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Tablet closure and colophon
+  summary: After an untranslated closing, the text is followed by the first line of
+    Tablet XII and a colophon identifying Tablet XI, its faithful copying, and Ashurbanipal’s
+    ownership.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: inspection of monumental city wall
+  taxonomy_refs: []
+  basis: The passage centers on an instruction to ascend and examine the wall of Erech,
+    including its corner-stone, brick-work, burned bricks, and foundation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a literal instruction; its broader mythic significance
+    is not explained within this excerpt.
+- id: motif:2
+  label: scribal colophon declaring faithful copy and ownership
+  taxonomy_refs: []
+  basis: The passage explicitly describes a usual colophon identifying the tablet
+    as the eleventh of the epic, copied faithfully from the original, and owned by
+    Ashurbanipal.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a textual transmission pattern rather than a narrative myth motif.
+comparison_claims:
+- id: claim:1
+  claim: The closing notice can be compared at the level of function to a recurring
+    scribal colophon pattern because the passage itself calls it the usual colophon
+    and describes its identifying, copying, and ownership information.
+  claim_level: same_function
+  target: usual scribal colophon pattern
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt gives no additional colophon examples and does not support
+    claims about historical contact, common inheritance, or a mythic motif family.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 22613-22615
+  quote_or_summary: "“Gilgamesh then spoke to Arad-Ea, the ferryman”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 22616-22617
+  quote_or_summary: "“Arad-Ea, ascend and walk about on the wall of Erech, / Inspect
+    the corner-stone, and examine its brick-work”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 22619-22622
+  quote_or_summary: The passage refers to the wall as made of burned brick, the foundation
+    as possibly overlaid with pitch, and includes the uncertain phrase “Sevenfold
+    is thy name.”
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized with brief quoted phrase.
+- id: ev:4
+  type: quote
+  locator: line 22624
+  quote_or_summary: "“[The closing lines can not be correctly translated.]”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 22626-22629
+  quote_or_summary: The text states that the first line of Tablet XII follows, along
+    with the usual colophon indicating that this is the eleventh tablet of the Gilgamesh
+    epic, copied faithfully from the original, and the property of Ashurbanipal.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward, but one translated phrase and
+    the closing lines are explicitly uncertain or untranslatable. Motif status is
+    cautious because the excerpt mostly presents an instruction and a scribal colophon.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned because the available taxonomy does not include a direct match for the wall of Erech, brickwork, pitch foundation, or scribal colophon.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l22611-l22629
+  passage_sha256=58c2e743ec54641c0865ec44ad17212be461c969d68e4fd7871fed432ba253d1
+

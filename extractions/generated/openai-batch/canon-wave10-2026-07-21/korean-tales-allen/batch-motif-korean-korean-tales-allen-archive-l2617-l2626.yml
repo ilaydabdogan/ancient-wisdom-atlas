@@ -1,0 +1,247 @@
+---
+record_id: batch.motif.korean-korean-tales-allen-archive-l2617-l2626
+source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+passage_locator:
+  label: CHING  YUH  AND  NY  A IN  00.  69 / CHING  YUH  AND  NY  A IN  00. / K ORE  A
+    N TALES / VIII.; lines 2617-2626
+  start: '2617'
+  end: '2626'
+  translation: Korean Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Because Cho Uhn Hall has no parents, the King grants her royal patronage
+    and decrees that her wedding take place in the royal-family marriage hall. The
+    wedding is conducted with royal pomp. You is highly esteemed by the King, and
+    his spouse is praised in songs and ballads as a model for women.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cho Uhn Hall is described as having no parents.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The King determines that Cho Uhn Hall should have royal patronage.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The King decrees that the wedding should take place in the great hall used
+    for marriages of the royal family.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wedding is carried out with the pomp and circumstance of a royal wedding.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: You is described as valiant and true-hearted, and no official stands higher
+    in the King's estimation.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The virtues of You's spouse become the subject of songs and ballads, and she
+    is extolled as a model for the women of the country.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Cho Uhn Hall
+  description: A woman said to have no parents; she receives royal patronage for her
+    wedding and is later identified as You's spouse whose virtues are praised.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: His Majesty / the King
+  description: The royal figure who grants patronage to Cho Uhn Hall and decrees the
+    setting of the wedding.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: You
+  description: A valiant, true-hearted official who is highly esteemed by the King
+    and whose spouse's virtues are publicly praised.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: orphaned bride under royal patronage
+  assigned_to:
+  - fig:1
+  basis: The passage states that Cho Uhn Hall had no parents and that the King determined
+    she should have royal patronage for the wedding.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: royal patron and marriage decreer
+  assigned_to:
+  - fig:2
+  basis: The King grants patronage and decrees the wedding's royal-family setting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: esteemed official and groom
+  assigned_to:
+  - fig:3
+  basis: You is described as a valiant, true-hearted official highly esteemed by the
+    King; the passage refers to the virtues of his spouse.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: exemplary virtuous spouse
+  assigned_to:
+  - fig:1
+  basis: The spouse's virtues are celebrated in songs and ballads, and she is extolled
+    as a model for women.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: royal marriage hall
+  literal_form: the great hall where members of the royal family are united in marriage
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Royal patronage for Cho Uhn Hall
+  summary: Because Cho Uhn Hall has no parents, the King decides she should receive
+    royal patronage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wedding in the royal-family marriage hall
+  summary: The King decrees that the wedding occur in the great hall used for royal-family
+    marriages, and the ceremony is performed with royal pomp.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Court esteem and public praise
+  summary: You is highly esteemed by the King, while his spouse's virtues are celebrated
+    in songs and ballads and she is presented as a model for women.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Royal authority sponsors and elevates a marriage
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The King grants patronage and orders a wedding in the royal-family marriage
+    hall, and the ceremony receives royal pomp.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage supports royal authorization and elevation of social status,
+    but it does not present a succession claim or full royal-legitimacy narrative.
+- id: motif:2
+  label: Orphaned woman receives elite patronage
+  taxonomy_refs: []
+  basis: Cho Uhn Hall has no parents, and the King decides she should receive royal
+    patronage.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only a brief rationale for patronage and does not elaborate
+    a wider orphan-heroine episode.
+- id: motif:3
+  label: Virtuous spouse publicly celebrated as exemplary
+  taxonomy_refs: []
+  basis: The spouse's virtues become the subject of songs and ballads, and she is
+    extolled as a model for women.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a social praise pattern in the passage; no specific comparative
+    taxonomy reference is supplied by the text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2617-2618
+  quote_or_summary: Cho Uhn Hall is said to have no parents, and His Majesty determines
+    that she should have royal patronage.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 2618-2620
+  quote_or_summary: The King decrees that the wedding should occur in the great hall
+    where members of the royal family are married.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 2620-2623
+  quote_or_summary: The wedding is performed with royal pomp, and You is described
+    as valiant, true-hearted, and highly esteemed by the King.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 2623-2626
+  quote_or_summary: The virtues of You's spouse are celebrated in songs and ballads,
+    and she is praised as a model for the women of the country.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is straightforward for figures, actions, and setting. Motif labels
+    are cautious because the excerpt is brief and primarily concerns royal patronage,
+    marriage ceremony, and praise rather than a fully developed mythic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims are asserted; available taxonomy was used only where the passage supports a limited royal-legitimacy function.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-tales-allen-archive__l2617-l2626
+  passage_sha256=ac95de055fa4cf2f86376badaa3997e0f79cd3f06d425599591383957676d6a9
+

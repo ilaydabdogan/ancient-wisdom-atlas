@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l19937-l19986
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: ADOLESCENCE / EAR- BORING / ADOLESCENCE / PROTECTIVE  CHARMS; lines 19937-19986
+  start: '19937'
+  end: '19986'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a ceremony associated with purification and evil-dispelling
+    water, kept lights, feasting, music, dancing, and a subject dressed like a bridegroom
+    and sometimes carried in procession. It then introduces personal ceremonies and
+    charms for protection, attractiveness, or formidability, and gives a protective
+    charm whose formula contrasts impossible events involving a speaking corpse and
+    a crowing chicken in an egg with the speaker’s desired protection from beasts,
+    foes, perils, and humans.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The ceremony is associated with the purificatory rite called tepong tawar
+    and with ayer tolak bala, glossed as evil-dispelling water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Lights are kept burning in the house for several days, described as lasting
+    until the wound has healed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The ceremony is made an occasion for a banquet with music and dancing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The subject of the rejoicings is dressed like a bridegroom and is sometimes
+    carried in procession.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The text identifies personal ceremonies and charms as intended to protect
+    a person or make the person more attractive or formidable.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The protective charm specimen was given by ’Che ‘Abas of Klanang in Selangor,
+    described as a Kelantan Malay.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The charm states that if a corpse in the grave should speak and address people
+    on earth, the speaker may be destroyed by living beasts; if the corpse does not
+    speak, the speaker asks not to be destroyed by beasts, foes, perils, or any human
+    being.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: 'The charm repeats the same pattern with a chicken in the egg: if it should
+    crow and call to chickens on earth, destruction may follow; if it does not, the
+    prior protective formula is implied.'
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: subject of the rejoicings
+  description: The person for whom the ceremony is held, dressed like a bridegroom
+    and sometimes carried in procession.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: "’Che ‘Abas of Klanang"
+  description: A Kelantan Malay in Selangor who supplied the charm specimen to the
+    author.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: first-person speaker of the charm
+  description: The speaker represented by “I” in the charm, who seeks not to be destroyed
+    by beasts, foes, perils, or humans.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: corpse in the grave
+  description: A hypothetical corpse whose speaking to people on earth is made a condition
+    in the charm.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: people on earth
+  description: The people whom the corpse in the grave would hypothetically address.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: chicken in the egg
+  description: A hypothetical chicken whose crowing and calling from within the egg
+    is made a condition in the charm.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: chickens on earth
+  description: The chickens whom the chicken in the egg would hypothetically call
+    to.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: honored ceremony subject
+  assigned_to:
+  - fig:1
+  basis: The person is the cause of the rejoicings, dressed like a bridegroom, and
+    sometimes carried in procession.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: informant for charm text
+  assigned_to:
+  - fig:2
+  basis: The passage says the charm specimen was given by ’Che ‘Abas.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: protected charm speaker
+  assigned_to:
+  - fig:3
+  basis: The charm’s first-person speaker asks not to be destroyed by beasts, foes,
+    perils, or humans.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: hypothetical condition figure
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The charm uses the corpse speaking and the chicken in the egg crowing as
+    conditional events in its formula.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: evil-dispelling water
+  literal_form: ayer tolak bala, glossed as evil-dispelling water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: burning house lights
+  literal_form: lights kept burning in the house for several days
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: bridegroom dress
+  literal_form: the ceremony subject dressed like a bridegroom
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: corpse in the grave
+  literal_form: corpse in the grave that might speak to people on earth
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: chicken in the egg
+  literal_form: chicken in the egg that might crow and call to chickens on earth
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: purificatory ceremony with rejoicing
+  summary: A ceremony is associated with tepong tawar and evil-dispelling water; lights
+    are kept burning until the wound heals, and the event includes banquet, music,
+    dancing, bridegroom-like dress, and sometimes a procession.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: classification of personal ceremonies and charms
+  summary: The passage presents personal ceremonies and charms as a large part of
+    the medicine-man’s repertory, used for protection or for making a person attractive
+    or formidable.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: protective charm with speaking corpse condition
+  summary: The charm says that if a corpse in the grave speaks to people on earth
+    the speaker may be destroyed, but if it does not speak the speaker seeks safety
+    from beasts, foes, perils, and humans.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: protective charm with chicken-in-egg condition
+  summary: The charm repeats the conditional formula with a chicken in the egg that
+    might crow and call to chickens on earth, followed by the same protective pattern.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: purificatory rite with protection and celebration
+  taxonomy_refs: []
+  basis: The ceremony combines tepong tawar, evil-dispelling water, house lights,
+    wound-healing duration, banquet, music, dancing, and procession-like honors.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The immediate excerpt does not fully identify the ceremony beyond the
+    supplied locator context and the reference to a wound.
+- id: motif:2
+  label: rite of passage or initiation-like adornment
+  taxonomy_refs:
+  - initiation
+  basis: The locator places the passage under adolescence/ear-boring, and the ceremony
+    subject is specially dressed, celebrated, and sometimes carried in procession
+    after a wound-associated rite.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage excerpt itself does not explicitly state the participant’s
+    age or name the rite as initiation; the taxonomy link relies partly on the supplied
+    passage label.
+- id: motif:3
+  label: protective charm based on impossible conditions
+  taxonomy_refs: []
+  basis: 'The charm bases protection on impossible or extraordinary conditions: a
+    corpse in a grave speaking to people on earth and a chicken in an egg crowing
+    to chickens on earth.'
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No broader comparative source is provided in the passage; the motif is
+    identified only at the passage-pattern level.
+- id: motif:4
+  label: personal ritual protection against beasts, foes, perils, and humans
+  taxonomy_refs: []
+  basis: The charm asks that the speaker not be destroyed by living beasts, any foe
+    or peril, or any human being.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives a specimen of one charm but does not describe its performance
+    context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19937-19946
+  quote_or_summary: The ceremony is associated with tepong tawar and evil-dispelling
+    water; lights are kept burning in the house for several days until the wound heals,
+    and the ceremony occasions a banquet with music and dancing.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 19946-19950
+  quote_or_summary: The subject of the rejoicings is dressed like a bridegroom and
+    is sometimes carried in procession.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 19952-19958
+  quote_or_summary: Personal ceremonies and charms are described as protecting a person
+    or making the person attractive or formidable, and as forming a large part of
+    the medicine-man’s repertory.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 19960-19964
+  quote_or_summary: A protective charm specimen was given by ’Che ‘Abas of Klanang
+    in Selangor, described as a Kelantan Malay.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 19966-19977
+  quote_or_summary: The charm contrasts the hypothetical event of a corpse in a grave
+    speaking to people on earth with the speaker’s request not to be destroyed by
+    beasts, foes, perils, or humans if the corpse does not speak.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 19978-19985
+  quote_or_summary: The charm repeats the pattern with a chicken in an egg that might
+    crow and call to chickens on earth, followed by the same formula as before.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. The initiation taxonomy
+    candidate is less certain because the excerpt relies partly on the passage locator
+    for adolescence/ear-boring context. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparisons or unsupported taxonomy IDs were added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l19937-l19986
+  passage_sha256=048e7cc845cce01beda7cf2b81644ffa821cf795c970beb673d16cbb1dfe7ac2
+

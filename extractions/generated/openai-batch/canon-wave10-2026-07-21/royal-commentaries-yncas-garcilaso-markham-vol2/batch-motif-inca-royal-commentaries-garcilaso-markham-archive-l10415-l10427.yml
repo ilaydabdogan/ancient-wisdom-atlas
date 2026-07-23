@@ -1,0 +1,233 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l10415-l10427
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  VII. / THE  NOCTURNAL  FESTIVAL  TO  DRIVE  EVILS  OUT  OP  THE  CITY.
+    / COMMENTARIES  OF  THE  YNCAS. / SEVENTH  BOOK  OP  THE  ROYAL; lines 10415-10427
+  start: '10415'
+  end: '10427'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage distinguishes ordinary priestly feasts held inside the Temple
+    of the Sun from four principal public festivals. The ordinary feasts involved
+    monthly sacrifices to the Sun, while the principal festivals are compared to great
+    church festivals. It also notes that, at one point, only the previously mentioned
+    prayers were offered.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At the referenced time, no prayers were offered other than the prayers already
+    mentioned in the surrounding text.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Priests celebrated other feasts during the year.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: These other feasts were celebrated within the Temple of the Sun.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: During these ceremonies, the priests did not come forth into the square.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage contrasts the ordinary ceremonies with four principal festivals
+    described earlier.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The four principal festivals are compared to great church festivals.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The ordinary feasts were kept when monthly sacrifices were offered to the
+    Sun.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: priests
+  description: The priests celebrate feasts during the year within the Temple of the
+    Sun and do not come forth into the square for these ceremonies.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the Sun
+  description: The Sun is named in connection with the temple and as the recipient
+    of monthly sacrifices.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: ritual officiants
+  assigned_to:
+  - fig:1
+  basis: The priests are described as celebrating feasts during the year within the
+    Temple of the Sun.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: recipient of sacrifice
+  assigned_to:
+  - fig:2
+  basis: Monthly sacrifices are described as being offered to the Sun.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Sun
+  literal_form: the Sun
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: Temple of the Sun
+  literal_form: the temple of the Sun
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Ordinary temple feasts and monthly sacrifices
+  summary: Priests hold ordinary feasts inside the Temple of the Sun during the year;
+    these rites do not involve coming out into the square and are associated with
+    monthly sacrifices to the Sun.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Contrast between ordinary and principal festivals
+  summary: The ordinary ceremonies are distinguished from four principal festivals,
+    which the passage compares to great church festivals.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Monthly sacrifice to the Sun
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage states that ordinary feasts were kept when monthly sacrifices
+    were offered to the Sun.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not specify the sacrificial victims, offerings, procedures,
+    or participants beyond the reference to priests in the preceding sentence.
+- id: motif:2
+  label: Recurring ritual calendar of feasts
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage describes priests celebrating feasts during the year and ordinary
+    feasts connected with monthly sacrifices.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage supports a calendrical recurrence, but it does not explicitly
+    describe seasons or seasonal symbolism.
+- id: motif:3
+  label: Hierarchy of public principal festivals and ordinary temple rites
+  taxonomy_refs: []
+  basis: The passage says the ordinary ceremonies were not comparable with four principal
+    festivals and notes that the priests did not come forth into the square for the
+    ordinary feasts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a ritual-structural pattern rather than a fully developed mythic
+    motif in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself analogizes the four principal Inca festivals to great
+    church festivals, suggesting a comparison in public importance or festival rank.
+  claim_level: same_function
+  target: Christian great church festivals
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is broad and comes from the narrator's framing; the
+    excerpt gives no detailed correspondence in ritual content, theology, or calendar
+    placement.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10415-10417
+  quote_or_summary: '"At that time they offered up no other prayers than these."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 10419-10422
+  quote_or_summary: Priests celebrated other feasts during the year within the Temple
+    of the Sun; for these ceremonies they did not come forth into the square.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10422-10425
+  quote_or_summary: The passage says these ceremonies were not comparable with the
+    four principal festivals previously described, which were likened to great church
+    festivals.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 10426-10427
+  quote_or_summary: '"The ordinary feasts were kept when they offered up monthly sacrifices
+    to the Sun."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The excerpt is short and clear, but it begins after an incomplete sentence
+    and refers back to prayers and festivals described outside the supplied passage.
+    Motif identifications are limited to the recurring feasts and sacrifices explicitly
+    mentioned.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. No external historical or ethnographic details were added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l10415-l10427
+  passage_sha256=362cf7dce12bbdd48f66c3b1708b725174771853400656001a34e1ce6eb6bd30
+

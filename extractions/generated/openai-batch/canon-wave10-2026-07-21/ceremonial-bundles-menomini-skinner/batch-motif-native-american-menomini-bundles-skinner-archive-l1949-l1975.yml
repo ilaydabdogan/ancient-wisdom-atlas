@@ -1,0 +1,397 @@
+---
+record_id: batch.motif.native-american-menomini-bundles-skinner-archive-l1949-l1975
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+passage_locator:
+  label: INTRODUCTION. / HOME  LIFE  OF  THE  MENOMINI. / SOCIAL  ORGANIZATION. /
+    MARRIAGE  CUSTOMS.; lines 1949-1975
+  start: '1949'
+  end: '1975'
+  translation: Social Life and Ceremonial Bundles of the Menomini Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The fragment includes comparative notes and a robe-related custom. One
+    note says an unspecified matter was not so among the Ojibway and Cree. Another
+    says the Sauk and Fox cut off a woman's ears and cut or bite off her nose. The
+    main passage describes a request made with a tobacco present, another present
+    paid when the robe is returned, and indemnity demanded if users soil the robe.
+    It adds that the same practice was reported among neighboring Ojibway and among
+    the Shawnee.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note says an unspecified matter was “not so” among the Ojibway and Cree.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note attributes cutting off the ears and cutting or biting off the nose
+    of a woman to the Sauk and Fox.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A request is prefaced with a present of tobacco.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: On return of the item, another present is made as payment.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: If users soil the robe, the owner demands indemnity.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Dr. William Jones is said to have discovered the same practice among neighboring
+    Ojibway.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: M. R. Harrington reports the practice among the Shawnee.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: requesting user or users
+  description: Person or persons involved in making the request, returning the item,
+    and possibly soiling the robe.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: robe owner
+  description: The owner who demands indemnity if the robe is soiled.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Ojibway
+  description: Named in an ambiguous comparative note and later as the neighboring
+    group among whom Dr. William Jones found the same practice.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: Cree
+  description: Named in an ambiguous comparative note as a group for whom an unspecified
+    matter was not so.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Sauk and Fox
+  description: Group to whom the mutilation of a woman is attributed in a note.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: woman
+  description: The woman described as having ears and nose cut or bitten in the Sauk
+    and Fox note.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Dr. William Jones
+  description: Reported source who discovered the same practice among neighboring
+    Ojibway.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: M. R. Harrington
+  description: Reporter of the practice among the Shawnee.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Shawnee
+  description: Group among whom Harrington reports the practice.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: requesting user
+  assigned_to:
+  - fig:1
+  basis: The passage describes a request, return, and users who may soil the robe.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: owner and indemnity claimant
+  assigned_to:
+  - fig:2
+  basis: The owner demands indemnity if the robe is soiled.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: ethnographic reporter of parallel practice
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Jones and Harrington are named as sources reporting the same practice among
+    other groups.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: group reported to share the same practice
+  assigned_to:
+  - fig:3
+  - fig:9
+  basis: The passage says the same practice was found among neighboring Ojibway and
+    reported among the Shawnee.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: group attributed with mutilation action
+  assigned_to:
+  - fig:5
+  basis: The note attributes cutting of ears and nose to the Sauk and Fox.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: woman affected by mutilation
+  assigned_to:
+  - fig:6
+  basis: The note identifies a woman as the person whose ears and nose are cut or
+    bitten.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: group in ambiguous comparative note
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The note says an unspecified matter was not so among Ojibway and Cree.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: tobacco present
+  literal_form: tobacco given as a present before the request
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: robe
+  literal_form: robe used, returned, and potentially soiled
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: return present or payment
+  literal_form: another present made on return as payment
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: mutilated body parts
+  literal_form: ears and nose cut or bitten
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: ambiguous comparative footnote
+  summary: A note contrasts an unspecified matter with the Ojibway and Cree.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sauk and Fox mutilation note
+  summary: A note says the Sauk and Fox cut off a woman's ears and cut or bite off
+    her nose.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: tobacco-prefaced request and robe return
+  summary: A request is preceded by a tobacco present; when the robe is returned,
+    another present is made as payment; if the robe is soiled, the owner demands indemnity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: reported intertribal parallels
+  summary: The same practice is reported among neighboring Ojibway by Dr. William
+    Jones and among the Shawnee by M. R. Harrington.
+  figure_refs:
+  - fig:3
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: reciprocal exchange surrounding a request
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage describes a tobacco present before the request and another present
+    on return as payment.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The exchange is explicit, but the excerpt does not itself explain the
+    sacred or ritual status of the exchange; taxonomy linkage needs review.
+- id: motif:2
+  label: indemnity for soiling a robe in use
+  taxonomy_refs: []
+  basis: If users soil the robe, the owner demands indemnity.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a social-practice pattern rather than a narrative mythic motif
+    in the excerpt.
+- id: motif:3
+  label: mutilation of a woman's ears and nose
+  taxonomy_refs: []
+  basis: The note states that the Sauk and Fox cut off the ears and cut or bite off
+    the nose of a woman.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The statement is a fragmentary comparative note with little context and
+    no narrative development in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The robe-related exchange practice described in the passage is reported as
+    the same practice among neighboring Ojibway.
+  claim_level: same_function
+  target: neighboring Ojibway practice reported by Dr. William Jones
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief report and does not provide details
+    of the Ojibway version or establish transmission.
+- id: claim:2
+  claim: The robe-related exchange practice described in the passage is reported among
+    the Shawnee as well.
+  claim_level: same_function
+  target: Shawnee practice reported by M. R. Harrington
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief report and does not provide details
+    of the Shawnee version or establish historical contact.
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 1949
+  quote_or_summary: "“This was not so among the Ojibway ... and Cree ...”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 1951-1953
+  quote_or_summary: "“The Sauk and Fox cut off the ears and cut or bite off the nose
+    of the woman ...”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 1961-1962
+  quote_or_summary: "“with a present of tobacco as a preface to his request and on
+    its return another present had to be made in payment.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 1962-1964
+  quote_or_summary: "“If the users soiled the robe, an indemnity was demanded by the
+    owner.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 1964-1965
+  quote_or_summary: "“the late Dr. William Jones discovered the same practice among
+    the neighboring Ojibway.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:6
+  type: quote
+  locator: line 1965
+  quote_or_summary: "“Mr. M. R. Harrington reports it among the Shawnee.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+  rights_note: Public domain; short excerpt from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is fragmentary and includes OCR/page-header material and footnote
+    fragments. The robe-exchange practice is explicit, but antecedents and broader
+    ritual context are incomplete.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Some observations preserve ambiguity where the excerpt lacks antecedent context.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-menomini-bundles-skinner-archive__l1949-l1975
+  passage_sha256=29b7a384c97c9d8072fc095d8d8aa009999b89ce140312f3c1a41982eaa90fee
+

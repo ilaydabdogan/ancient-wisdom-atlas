@@ -1,0 +1,209 @@
+---
+record_id: batch.motif.native-american-blackfoot-lodge-tales-grinnell-archive-l8363-l8489
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+passage_locator:
+  label: HOW   THE    BLACKFOOT   LIVED  201 / HOW   THE    BLACKFOOT   LIVED  203
+    / SOCIAL   ORGANIZATION / SOCIAL    ORGANIZATION; lines 8363-8489
+  start: '8363'
+  end: '8489'
+  translation: Blackfoot Lodge Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an ethnographic table under the heading “Social Organization.”
+    It gives Blackfoot-language or transliterated social group names with English
+    glosses. It includes an initial short list, then sections headed Bloods and Piegans,
+    each followed by multiple translated group names.
+  language: English with Blackfoot/transliterated names
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The excerpt is headed “Social Organization” and is arranged as paired Indigenous-language
+    names with English glosses.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Before the Bloods heading, three entries are glossed as Biters, Early Finished
+    Eating, and Skunks.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Bloods section is labeled with the name Kai'-iiah and includes translated
+    group names such as Black Elks, Many Lodge Poles, North Bloods, Woods Bloods,
+    Lone Fighters, Skunks, and Many Horses.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Piegans section is labeled with the name Pi-ki/n'-'i and includes translated
+    group names such as Blood People, White Breasts, Dried Meat, Black Patched Moccasins,
+    They Don’t Laugh, Lone Eaters, Skunks, Worm People, Buffalo Dung, and No Parfleche.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Initial listed social entries
+  description: A short list of three social entries appears before the Bloods heading;
+    the visible excerpt does not show their parent section.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Bloods (Kai'-iiah)
+  description: A named social-organization section followed by multiple translated
+    group names.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Piegans (Pi-ki/n'-'i)
+  description: A named social-organization section followed by multiple translated
+    group names.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: named social-organization section
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage uses Bloods and Piegans as headings for lists of named groups.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: listed social entries with parent section not visible in excerpt
+  assigned_to:
+  - fig:1
+  basis: Three translated entries are listed before the Bloods heading, but the excerpt
+    does not show a visible parent heading for them.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: animal terms in translated group names
+  literal_form: Black Elks; Skunks; Worm People
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: food and eating terms in translated group names
+  literal_form: Early Finished Eating; Dried Meat; Black fat Roasters; Fat Roasters;
+    Lone Eaters; Small Brittle Fat; Buffalo Dung
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: lodge, clothing, and household-object terms in translated group names
+  literal_form: Many Lodge Poles; Long Tail Lodge Poles; Hair Shirts; Black Doors;
+    Small Robes; No Parfleche
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Social-organization name table
+  summary: 'The passage presents a sequence of social group labels and glosses: an
+    initial short list, a Bloods section, and a Piegans section.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: catalogue of named social divisions
+  taxonomy_refs: []
+  basis: The excerpt is explicitly headed as social organization and lists named divisions
+    or groups under Bloods and Piegans, with English descriptive glosses.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic organizational pattern rather than a mythic narrative
+    motif; no available taxonomy motif family is directly supported by the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8363-8489; heading and table format
+  quote_or_summary: The excerpt is under the heading “SOCIAL ORGANIZATION” and presents
+    names paired with English glosses.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 8363-8489; entries before Bloods section
+  quote_or_summary: Three entries before the Bloods heading are glossed as Biters,
+    Early Finished Eating, and Skunks.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 8363-8489; Bloods section
+  quote_or_summary: The Bloods section, labeled Kai'-iiah, lists names including Black
+    Elks, Many Lodge Poles, North Bloods, Woods Bloods, Long Tail Lodge Poles, Lone
+    Fighters, Blackblood, Hair Shirts, Many Children, Short Bows, Skunks, and Many
+    Horses.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 8363-8489; Piegans section
+  quote_or_summary: The Piegans section, labeled Pi-ki/n'-'i, lists names including
+    Blood People, White Breasts, Dried Meat, Black Patched Moccasins, Black fat Roasters,
+    Early Finished Eating, They Don’t Laugh, Fat Roasters, Black Doors, Lone Eaters,
+    Skunks, Seldom Lonesome, Obstinate, Lone Fighters, Small Robes, Big Topknots,
+    Worm People, Small Brittle Fat, Buffalo Dung, and No Parfleche.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The English glosses are clear enough for extraction, but the table formatting
+    and OCR/transliteration make exact parent-group structure uncertain for the initial
+    entries. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Symbols are recorded only as literal translated label clusters; the passage does not explain them as ritual or mythic symbols.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-blackfoot-lodge-tales-grinnell-archive__l8363-l8489
+  passage_sha256=d4fc1c2827f8c750b10ad414fde6aa4dab0b20358ff4977e6165cb6f93fd6f1d
+

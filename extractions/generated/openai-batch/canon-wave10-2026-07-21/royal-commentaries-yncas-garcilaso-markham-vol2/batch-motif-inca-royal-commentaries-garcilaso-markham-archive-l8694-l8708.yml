@@ -1,0 +1,188 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l8694-l8708
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / SIXTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS.
+    / CHAPTER  XXXII.; lines 8694-8708
+  start: '8694'
+  end: '8708'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: The Ynca Pachacutec passed the next six years in these employments.
+  summary: The chapter heading announces a campaign against King Chimü. The passage
+    says that after six years, Pachacutec judged his provinces rested and prosperous
+    and ordered an army of thirty thousand warriors to assemble for conquest of the
+    coast valleys as far as Caxamarca’s boundaries.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The chapter heading states that they go to conquer King Chimü and wage a cruel
+    war.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pachacutec spent six years in the previously described employments.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Pachacutec saw that his provinces were rested and prosperous.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pachacutec ordered an army of thirty thousand men of war to be assembled.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The stated aim of the assembled army was conquest of the coast valleys up
+    to the boundaries of Caxamarca.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The boundaries of Caxamarca are described as the limits of Pachacutec’s empire
+    on the road of the Sierra.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ynca Pachacutec
+  description: Ruler who judges his provinces prosperous and orders the assembly of
+    an army.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: King Chimü
+  description: Named in the chapter heading as the king to be conquered.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: army of thirty thousand men of war
+  description: Military force ordered to assemble for conquest of the coast valleys.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Ynca ruler
+  assigned_to:
+  - fig:1
+  basis: The passage names Pachacutec as the Ynca and depicts him governing provinces
+    and commanding an army.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: commander initiating conquest
+  assigned_to:
+  - fig:1
+  basis: Pachacutec orders the assembly of a large army for conquest.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: targeted king
+  assigned_to:
+  - fig:2
+  basis: The chapter heading says they go to conquer King Chimü.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: assembled military force
+  assigned_to:
+  - fig:3
+  basis: The army is ordered to assemble for the conquest of the coast valleys.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Preparation for campaign against Chimü and the coast valleys
+  summary: After a six-year interval, Pachacutec sees his provinces as rested and
+    prosperous and orders thirty thousand warriors to assemble for a campaign toward
+    the coast valleys and Caxamarca’s boundaries.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Royal command initiating imperial conquest
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage presents Pachacutec as a ruler whose prosperous provinces enable
+    him to command a major military expansion.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The passage is primarily historical narrative; it does not explicitly
+    frame the conquest as sacred, mythic, or legitimating beyond royal command.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8694-8698
+  quote_or_summary: "“THEY GO TO CONQUER THE KING CHIMÜ, AND WAGE A CRUEL WAR.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: summary
+  locator: lines 8700-8703
+  quote_or_summary: Pachacutec passes the next six years in these employments and
+    then sees his provinces as rested and prosperous.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8703-8707
+  quote_or_summary: Pachacutec orders an army of thirty thousand men of war to assemble
+    for conquest of the coast valleys as far as Caxamarca’s boundaries.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8706-8708
+  quote_or_summary: Caxamarca’s boundaries are described as the limits of Pachacutec’s
+    empire on the road of the Sierra.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because the passage is a brief historical campaign introduction with little symbolic
+    or mythic content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available symbol taxonomy items are directly present in this passage. Comparison claims are omitted because the passage itself does not support a specific comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l8694-l8708
+  passage_sha256=f0d564272f7cbd03e66a868b59bcd493131a6a790a55e18a01a97ba73ac3cbc7
+

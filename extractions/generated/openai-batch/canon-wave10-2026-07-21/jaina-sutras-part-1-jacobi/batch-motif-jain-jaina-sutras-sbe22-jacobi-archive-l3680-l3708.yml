@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.jain-jaina-sutras-sbe22-jacobi-archive-l3680-l3708
+source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+passage_locator:
+  label: FIRST LESSON. / THIRD LESSON. / FOURTH LESSON. / BOOK I, LECTURE 4, LESSON
+    4. 4!; lines 3680-3708
+  start: '3680'
+  end: '3708'
+  translation: 'Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred
+    Books of the East, Vol. 22)'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“the discerning one is awakened, and ceases to act”"
+  summary: The passage describes an awakened discerning one who ceases action, cuts
+    off the source of bondage, death, pain, and desire for external objects, recognizes
+    that acts bear fruit, and parts from karman. It then describes truth-established
+    heroes endowed with knowledge and equanimity, and declares that the Seer has no
+    worldly weakness.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A discerning one is described as awakened and as ceasing to act.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes cutting off the source from which bondage, cruel death,
+    dreadful pain, and desire for external objects flow.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A mortal who knows freedom from acts sees that acts bear fruit and parts from
+    karman.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A group is described as established in truth, heroic, endowed with knowledge,
+    always exerting themselves, full of equanimity, and valuing the world in the four
+    cardinal directions.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage asks whether there is worldly weakness in the Seer and answers
+    that none exists.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: discerning mortal knower
+  description: An awakened discerning one among mortals who ceases to act, knows freedom
+    from acts, sees that acts bear fruit, and parts from karman.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: truth-established heroes
+  description: Those established in truth, described as heroes endowed with knowledge,
+    exertion, and equanimity.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: the Seer
+  description: A figure about whom the passage states that no worldly weakness exists.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: awakened renunciatory knower
+  assigned_to:
+  - fig:1
+  basis: The figure is awakened, ceases to act, knows freedom from acts, and parts
+    from karman.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: truth-established hero group
+  assigned_to:
+  - fig:2
+  basis: The group is called heroes established in truth, endowed with knowledge and
+    equanimity.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: seer without worldly weakness
+  assigned_to:
+  - fig:3
+  basis: The passage explicitly denies worldly weakness in the Seer.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fruit of acts
+  literal_form: acts will bear fruit
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: four cardinal directions
+  literal_form: east, west, south, north
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: bondage
+  literal_form: bondage
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Awakening and separation from karman
+  summary: The discerning one becomes awakened, ceases to act, cuts off the source
+    of bondage and desire, recognizes the fruit of acts, and parts from karman.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Truth-established heroes in the directions
+  summary: The passage describes heroes established in truth, endowed with knowledge
+    and equanimity, and associated with valuing the world in the east, west, south,
+    and north.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Denial of worldly weakness in the Seer
+  summary: A question about worldly weakness in the Seer is answered with the statement
+    that no such weakness exists.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom as awakening and release from action
+  taxonomy_refs:
+  - wisdom
+  basis: The passage links discernment, awakening, sacred knowledge, and knowledge
+    of the fruit of acts with ceasing to act and parting from karman.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is doctrinal and ascetic rather than narrative myth; the motif
+    label identifies a thematic pattern, not a full story cycle.
+- id: motif:2
+  label: renunciatory cutting off of bondage and desire
+  taxonomy_refs: []
+  basis: The passage describes cutting off the source of bondage, pain, and desire
+    for external objects, followed by separation from karman.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family precisely matches this Jain ascetic pattern.
+- id: motif:3
+  label: equanimous heroes established in truth
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents heroes endowed with knowledge, exertion, and equanimity
+    who are established in truth.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The term “heroes” is literal in the passage, but no specific heroic episode
+    is narrated.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared cautiously to a wisdom motif pattern because
+    awakening, discernment, and sacred knowledge function as the means by which the
+    figure ceases action and separates from karman.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not narrate a mythic quest or teacher episode; the
+    comparison is functional and thematic only.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3680-3682
+  quote_or_summary: "“the discerning one is awakened, and ceases to act”"
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 3682-3687
+  quote_or_summary: The passage describes cutting off what produces bondage, cruel
+    death, dreadful pain, and desire for external objects; the knower sees that acts
+    bear fruit and parts from karman.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3689-3696
+  quote_or_summary: Those established in truth are described as heroes endowed with
+    knowledge, always exerting themselves, full of equanimity, and valuing the world
+    in the east, west, south, and north.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 3698-3700
+  quote_or_summary: "“Is there any worldly weakness in the Seer? There exists none,
+    there is none.”"
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied English passage. Motif assignments
+    are thematic because the passage is doctrinal and minimally narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No figures or comparisons beyond those supported by the supplied passage were added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:jain-jaina-sutras-sbe22-jacobi-archive__l3680-l3708
+  passage_sha256=4785562c83361233e146834831cfb82852aa47a079f8289d338196da9880fb9c
+

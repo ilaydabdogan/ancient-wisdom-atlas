@@ -1,0 +1,211 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l21756-l21769
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: NINTH  BOOK  OP  THE  EOYAL / CHAPTER  XXIV. / OP  WHEAT. / COMMENTARIES  OP  THE  YNCAS.;
+    lines 21756-21769
+  start: '21756'
+  end: '21769'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports Spaniards, faint with hunger, eating raw maize grains
+    that had been given to horses while supper was being prepared. The narrator then
+    says he does not know who introduced barley, but believes a barley grain may have
+    come mixed with wheat because the two seeds cannot be fully separated by sifting.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Maize bread is mentioned in the immediate food context.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Spaniards are described as faint with hunger.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A supper was being prepared when the Spaniards acted.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Spaniards took raw maize grains that had been given to their horses.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The Spaniards ate the raw maize grains as eagerly as if they were candied
+    almonds.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: The first-person narrator states that he does not know who introduced barley.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The narrator believes a grain of barley may have been among the wheat.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The narrator says wheat and barley seeds are never completely separated by
+    sifting.
+  category: attribute
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Spaniards
+  description: People described as faint with hunger who ate raw maize grains given
+    to horses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Horses
+  description: Animals to whom the raw maize grains had been given before the Spaniards
+    ate them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: First-person narrator
+  description: Commentator who states uncertainty about who introduced barley and
+    offers a belief about barley mixed with wheat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: hungry eaters
+  assigned_to:
+  - fig:1
+  basis: They are described as faint with hunger and as eating raw maize grains before
+    supper was ready.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: animals supplied with maize feed
+  assigned_to:
+  - fig:2
+  basis: The raw maize grains eaten by the Spaniards had been given to the horses.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: agricultural commentator
+  assigned_to:
+  - fig:3
+  basis: The narrator comments on the introduction of barley and the separation of
+    barley from wheat.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: maize as emergency food
+  literal_form: Maize bread and raw maize grains
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mixed wheat and barley seeds
+  literal_form: A barley grain among wheat; wheat and barley seeds not fully separated
+    by sifting
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Hungry Spaniards eat horse maize
+  summary: While supper is being prepared, the hungry Spaniards take raw maize grains
+    that had been given to their horses and eat them eagerly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Comment on barley mixed with wheat
+  summary: The narrator says he does not know who introduced barley, but suggests
+    barley may have arrived mixed with wheat because the two seeds cannot be fully
+    separated by sifting.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Emergency consumption of animal feed during hunger
+  taxonomy_refs: []
+  basis: The Spaniards are so hungry that they eat raw maize grains that had been
+    given to horses.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a historical narrative pattern rather than a clearly mythological
+    motif in the passage.
+- id: motif:2
+  label: Accidental crop introduction through mixed seed
+  taxonomy_refs: []
+  basis: The narrator proposes that barley may have been introduced because a barley
+    grain was mixed with wheat, noting that the two seeds cannot be fully separated.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The narrator presents this as belief and uncertainty, not as established
+    fact.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 21756-21762
+  quote_or_summary: The passage mentions maize bread and says the Spaniards, faint
+    with hunger while supper was being prepared, took raw maize grains given to their
+    horses and ate them as if they were candied almonds.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 21763-21769
+  quote_or_summary: The narrator says he does not know who introduced barley, but
+    believes a grain may have been among the wheat because the two seeds are never
+    completely separated by sifting.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is agricultural and historical rather than overtly mythological. No
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family or symbol reference was directly supported by this passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l21756-l21769
+  passage_sha256=176022807f8132d5ac513a766ca1f7367d6c496dc654248480b2914c4f4b0f71
+

@@ -1,0 +1,269 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l18362-l18386
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: EIGHTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. / CHAPTER  XXIV.
+    / OF  GOLD  AND  SILVER.; lines 18362-18386
+  start: '18362'
+  end: '18386'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The chapter states that Spain can attest to the wealth obtained from Peru
+    in gold and silver, gives recent annual quantities, and describes Peruvian gold
+    as found on the surface and in waterways, recovered by washing earth and sand,
+    and sometimes found as nuggets.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Spain is described as a witness to the wealth obtained from Peru in gold and
+    silver.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: For the last twenty-five years, the passage says twelve to thirteen millions
+    in silver and gold have been brought annually, besides other items.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Gold is said to be collected throughout Peru, though more abundantly in some
+    provinces than others.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Gold is described as occurring on the surface and in rivers and streams, where
+    freshes bring it down.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Gold is obtained by washing earth and sand.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The washing process is compared to silversmiths washing shop receptacles that
+    contain sweepings.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Spaniards call the gold obtained by washing “gold-dust” because it comes out
+    like filings.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Occasionally, nuggets weighing two or three pesos or more are found.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Spain
+  description: Named as a witness of the gold and silver wealth obtained from Peru.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Spaniards
+  description: Named as the group that calls washed gold “gold-dust.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Silversmiths
+  description: Used as an analogy for the washing process, by reference to washing
+    shop receptacles containing sweepings.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: witness to extracted wealth
+  assigned_to:
+  - fig:1
+  basis: The passage says Spain is a good witness of the wealth obtained from Peru
+    in gold and silver.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: namer of washed gold
+  assigned_to:
+  - fig:2
+  basis: The passage says the Spaniards call the washed material “gold-dust.”
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: analogue for washing process
+  assigned_to:
+  - fig:3
+  basis: The passage compares washing earth and sand for gold to silversmiths washing
+    receptacles in their shops.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: gold and silver wealth
+  literal_form: Gold and silver obtained from Peru and brought annually in large amounts.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: waterways and washing water
+  literal_form: Rivers, streams, freshes, and washing of earth and sand in gold recovery.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: gold-dust and nuggets
+  literal_form: Gold obtained by washing as filings-like dust, and occasional nuggets
+    weighing two or three pesos or more.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Wealth from Peru attested in Spain
+  summary: The passage frames Spain as witness to large quantities of gold and silver
+    obtained from Peru and brought annually over recent years.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Gold recovered from land and waterways
+  summary: The passage describes gold as present on surfaces and in waterways, obtained
+    by washing earth and sand, named as gold-dust by Spaniards, and sometimes found
+    as nuggets.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Precious metals as regional wealth
+  taxonomy_refs: []
+  basis: The passage emphasizes gold and silver obtained from Peru in large annual
+    quantities and witnessed by Spain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an economic-historical report rather than a developed mythic narrative
+    motif.
+- id: motif:2
+  label: Gold gathered from earth and running water
+  taxonomy_refs: []
+  basis: Gold is described as collected throughout Peru, found on surfaces and in
+    rivers and streams, and recovered by washing earth and sand.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents a literal extraction practice; symbolic or ritual
+    meaning is not stated.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the washing of earth and sand for gold to
+    silversmiths washing shop receptacles that contain sweepings.
+  claim_level: same_function
+  target: silversmiths’ washing of receptacles containing sweepings
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a practical analogy inside the passage, not evidence of a broader
+    mythological comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18362-18367
+  quote_or_summary: Chapter title on gold and silver; Spain is said to be a good witness
+    of wealth obtained from Peru in gold and silver.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 18367-18372
+  quote_or_summary: The passage states that for the last twenty-five years twelve
+    to thirteen millions of silver and gold have been brought annually, excluding
+    other items; it also defines the value of each million.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 18372-18377
+  quote_or_summary: Gold is collected throughout Peru, with uneven abundance by province;
+    it is found on the surface and in rivers and streams where freshes bring it down.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 18377-18381
+  quote_or_summary: Gold is obtained by washing earth and sand, compared to silversmiths
+    washing shop receptacles that contain sweepings.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 18381-18384
+  quote_or_summary: "“The Spaniards call that which is obtained by washing, gold-dust,
+    because it comes out like filings.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 18384-18386
+  quote_or_summary: Occasionally nuggets are found, weighing two or three pesos or
+    more.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong; motif labels are cautious because the passage
+    is descriptive and economic rather than mythic or ritual.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No mythological taxonomy motif family was assigned; only the available water symbol was used for the literal river and washing imagery.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l18362-l18386
+  passage_sha256=4a551f0e22f510cb47afc9fe6162c07cb14a294e93ef65759a41bc172e3b3e65
+

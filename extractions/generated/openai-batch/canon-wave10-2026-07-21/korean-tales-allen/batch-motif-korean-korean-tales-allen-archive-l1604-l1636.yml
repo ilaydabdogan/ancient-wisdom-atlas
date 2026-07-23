@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.korean-korean-tales-allen-archive-l1604-l1636
+source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+passage_locator:
+  label: THE  ENCHANTED  WINE-JUG. / THE  ENCHANTED  WINE-JUG.  5 1 / THE  ENCHANTED  WINE-JUG.
+    / THE  ENCHANTED  WINE-JUG . 55; lines 1604-1636
+  start: '1604'
+  end: '1636'
+  translation: Korean Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The old man buys wine with his last money, expecting that placing the gem
+    back in the jug will make the wine supply unceasing. He feasts with the dog, then
+    discovers that his trunk contains replacements for the clothes and cash he had
+    taken out. He realizes he had underused the talisman by running only a wine-shop,
+    and later becomes wealthy because the amber charm can duplicate anything. He cares
+    for the faithful dog, whose later behavior toward rats and cats is described.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The old man leaves fish baking, puts on fine clothes, spends his last money
+    on wine, and expects the gem in the jug to make the wine supply continue without
+    ceasing.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old man and the good dog share a feast of fish, and the old man drinks
+    deeply of the wine.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The trunk contains another suit of clothes like the one removed and a broken
+    string of cash equal to the amount previously taken out.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The old man realizes that he had abused his privilege by using the talisman
+    only to run a wine-shop, instead of allowing the charm to produce wider abundance.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The old man later becomes immensely wealthy because he can duplicate anything
+    with his piece of amber.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The old man carefully tends the faithful dog, which thereafter never molests
+    a rat and attacks every cat it sees.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the old man
+  description: A man who buys wine, uses or possesses the gem/amber charm, discovers
+    duplicated goods, realizes how the charm works, becomes wealthy, and cares for
+    the dog.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the good faithful dog
+  description: The dog shares the feast with the old man and is later carefully tended;
+    the passage says it never again molests a rat and attacks cats.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: possessor and user of talisman
+  assigned_to:
+  - fig:1
+  basis: The old man knows the gem in the jug can supply wine, reflects on using the
+    talisman/charm, and later duplicates things with the amber.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: learner of the charm's fuller power
+  assigned_to:
+  - fig:1
+  basis: The old man thinks through the discovery and realizes he had underused the
+    talisman before.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: animal companion cared for by the old man
+  assigned_to:
+  - fig:2
+  basis: The dog shares the feast and is later carefully tended by the old man.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: enchanted wine-jug
+  literal_form: A jug into which the gem is placed, causing the wine supply not to
+    cease.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: gem or amber charm
+  literal_form: The passage refers to the working object as a gem, talisman, charm,
+    and piece of amber; it enables unceasing wine and duplication of things.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: duplicated clothes and cash
+  literal_form: A replacement suit of clothes and a broken string of cash matching
+    what the old man had removed from the trunk.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Feast after restoring access to wine
+  summary: The old man prepares for a feast, buys wine with his last money, expects
+    the gem in the jug to provide continuing wine, and eats fish with the dog.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Discovery of duplicated goods
+  summary: After the feast, the old man looks in his trunk and finds replacement clothes
+    and cash matching what he had taken out.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Realization about the talisman
+  summary: The old man reflects and understands that he had previously limited the
+    talisman to operating a wine-shop, though it could have produced broader abundance.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Wealth and care for the dog
+  summary: The old man becomes wealthy by duplicating things with the amber and carefully
+    tends the faithful dog, whose later behavior toward rats and cats is described.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: inexhaustible drink from an enchanted vessel
+  taxonomy_refs: []
+  basis: The passage states that placing the gem back in the jug would make the supply
+    of wine not cease.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not describe the origin of the jug or gem within this
+    excerpt.
+- id: motif:2
+  label: magical duplication of goods
+  taxonomy_refs: []
+  basis: The old man finds duplicated clothes and cash and later becomes wealthy because
+    the amber can duplicate anything.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The mechanism is described only through results, not through a detailed
+    ritual or command.
+- id: motif:3
+  label: recognition of the proper use of a charm
+  taxonomy_refs:
+  - wisdom
+  basis: The old man reflects, realizes he had abused or underused his privilege,
+    and changes his conduct so that the charm produces abundance.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents practical realization
+    rather than explicit moral instruction.
+- id: motif:4
+  label: faithful animal companion retained and cared for
+  taxonomy_refs: []
+  basis: The dog is called good and faithful, shares the feast, and is later carefully
+    tended by the old man.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: Within this excerpt the dog's earlier service or reason for faithfulness
+    is not provided.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1606-1615
+  quote_or_summary: The old man leaves fish baking, puts on fine clothes, buys wine
+    with his last money, expects the gem in the jug to make the wine supply unceasing,
+    and feasts with the dog.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1615-1620
+  quote_or_summary: The old man checks his trunk and finds a replacement suit of clothes
+    and a string of cash equal to what he had taken out.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1622-1628
+  quote_or_summary: The old man thinks and realizes he had misused the talisman by
+    limiting it to running a wine-shop, when the charm could produce money and other
+    abundance.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1630-1636
+  quote_or_summary: The old man becomes wealthy by duplicating anything with the amber,
+    tends the faithful dog, and the dog thereafter avoids molesting rats and attacks
+    cats.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the enchanted vessel, duplication, and dog-care
+    elements. Motif labels are candidate-level and need human review, especially the
+    broad wisdom taxonomy reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a specific cross-text or historical comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-tales-allen-archive__l1604-l1636
+  passage_sha256=60a079946251c862f9725e5f59158d2d9aa7b5b2ae179a5dee369c1b171275fe
+

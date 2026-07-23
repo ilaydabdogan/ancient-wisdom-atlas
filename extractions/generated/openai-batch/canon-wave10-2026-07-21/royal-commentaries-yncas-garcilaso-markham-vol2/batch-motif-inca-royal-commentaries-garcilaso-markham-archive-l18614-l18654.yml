@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l18614-l18654
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OP  THE  YNCAS. / CHAPTER  XXV. / EIGHTH  BOOK  OB  THE  ROYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 18614-18654
+  start: '18614'
+  end: '18654'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a method for smelting silver in Potocsi before quicksilver:
+    a lead-like metal called surachec was found and used as a flux with silver; proportions
+    were adjusted by experience; first melting used portable clay ovens placed on
+    hillsides to catch suitable natural wind; later meltings in houses with copper
+    pipes purified the silver and consumed the lead.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A base metal, nearly all lead, was found in a small hill and, when mixed with
+    silver, made a flux.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The flux was called surachec, glossed in the passage as meaning what makes
+    anything slip.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The two metals were mixed according to a rule that varied with experience
+    and with the richness of each silver ore.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The metal was first fused in small portable ovens described as like tubes
+    of clay.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Bellows and copper blowing tubes did not make the metal run, so the workers
+    applied natural wind.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'Wind strength had to be moderated: very strong wind wasted charcoal and cooled
+    the metal, while gentle wind lacked enough force to flux the metal.'
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Workers went up the hills at night and placed the ovens on higher or lower
+    declivities according to wind strength and exposure.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage describes ten to fifteen thousand little furnaces burning on the
+    hillsides.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Second and third meltings were done in houses with copper pipes to purify
+    silver and expend the lead.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Repeated melting substituted for strong water and other ingredients used to
+    separate precious metals from copper and lead.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the Indians
+  description: Collective workers who mixed metals, tried methods for fusing metal,
+    used natural wind, adjusted furnace placement, and performed repeated meltings.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: metallurgical workers
+  assigned_to:
+  - fig:1
+  basis: They mixed silver with surachec, fused metal in ovens, and carried out second
+    and third meltings to purify silver.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:2
+  label: experimenters adapting technique by experience
+  assigned_to:
+  - fig:1
+  basis: The mixture was adjusted according to experience and ore richness; failed
+    methods with bellows or tubes led to use of natural wind and careful placement
+    on hillsides.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: surachec flux
+  literal_form: A base metal, nearly all lead, mixed with silver to make a flux.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: portable clay ovens
+  literal_form: Small portable ovens, like tubes of clay, used for fusing the metal.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: natural wind
+  literal_form: Natural wind applied and tempered to flux the metal.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: hill and hillsides
+  literal_form: The small hill where the lead-like metal was found and the hillsides
+    or declivities where furnaces were placed at night.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: burning furnaces
+  literal_form: Ten to fifteen thousand little furnaces burning on the hillsides.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: copper pipes
+  literal_form: Pipes of copper used in houses for the second and third meltings.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: silver ore and metal
+  literal_form: Silver ores of varying richness and silver purified through repeated
+    melting.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+scenes:
+- id: scene:1
+  label: Discovery and use of surachec
+  summary: A lead-like metal found in a small hill is identified as a flux for silver
+    and mixed with silver in proportions adjusted by experience and ore quality.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Wind-driven first melting on hillsides
+  summary: The workers use small portable clay ovens and natural wind, placing furnaces
+    on hillsides at night according to wind strength; many furnaces are described
+    as burning on the hillsides.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Further purification in houses
+  summary: Second and third meltings are carried out in houses with copper pipes to
+    purify the silver and expend lead, replacing unavailable separating ingredients
+    with repeated melting.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: technical discovery through empirical experiment
+  taxonomy_refs: []
+  basis: The passage says a contrivance was found after diligent seeking, and that
+    metal proportions were governed by experience and by daily variation in ore richness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a practical historical description rather than an explicit mythic
+    narrative; no available motif-family taxonomy reference is assigned.
+- id: motif:2
+  label: wind and fire metallurgy on hillsides
+  taxonomy_refs: []
+  basis: The first melting depends on natural wind, moderated by placement on hill
+    declivities at night, with many furnaces burning on the hillsides.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents a technological scene; any symbolic or mythological
+    reading would require external evidence not supplied here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18614-18654; passage segment on discovery of surachec
+  quote_or_summary: A nearly lead base metal was found in a small hill; mixed with
+    silver it made a flux called surachec, glossed as making anything slip.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 18614-18654; passage segment on mixing rule
+  quote_or_summary: Silver and lead-like surachec were mixed by a rule, with amounts
+    varied according to experience and the richness of each ore.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 18614-18654; passage segment on first fusion method
+  quote_or_summary: The metal was fused in small portable clay ovens; bellows and
+    copper blowing tubes failed, so natural wind was used.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 18614-18654; passage segment on tempering wind
+  quote_or_summary: Wind had to be tempered, and the workers placed ovens on high
+    or low hill declivities at night according to wind strength and exposure.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 18614-18654; passage segment on furnaces burning
+  quote_or_summary: "“ten to fifteen thousand little furnaces burning ... on the hill
+    sides”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 18614-18654; passage segment on second and third meltings
+  quote_or_summary: Second and third meltings were done in houses with copper pipes
+    to purify the silver and expend the lead; repeated melting replaced strong water
+    and other separating ingredients.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The technical process and objects are clearly described. Motif candidates
+    are limited because the passage is historical and metallurgical, not explicitly
+    mythological. No passage-supported comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy mapping is limited to the literal fire-related image of burning furnaces.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l18614-l18654
+  passage_sha256=55b74477db8c9acb03117c5560f40c32ea8002ca952156027de5d9de79e7a294
+

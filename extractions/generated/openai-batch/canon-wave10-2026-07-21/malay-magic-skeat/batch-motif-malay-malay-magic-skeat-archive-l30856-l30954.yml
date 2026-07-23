@@ -1,0 +1,470 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l30856-l30954
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: BINTANG  DUA-B'LAS / MAGIC  SQUARES / ORDER  OF  THE  COLOURS / A SPECT-  CO  MPA  SSES;
+    lines 30856-30954
+  start: '30856'
+  end: '30954'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“the places usually occupied by the points of the compass are occupied by
+    the names of certain things”"
+  summary: 'The passage describes Malay charm-book diagrams called aspect-compasses,
+    with opposed names placed at compass directions, and explains several divinatory
+    uses: choosing a day to begin a journey, judging conflict with an enemy, predicting
+    the return or capture of an absconder, and counting marked points on a human figure
+    associated with Unggas Telang.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The common form of the aspect-compass is described as a compass-like drawing
+    in which compass-point positions are occupied by names of things, usually animals
+    or birds, that are supposed to be naturally opposed.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Examples of opposed placements include bird or kite opposed to fowl, crocodile
+    opposed to fish, rat opposed to cat, tiger opposed to stag, new moon opposed to
+    kite, and an alternate cape-and-bay arrangement.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A figure copied from a Selangor charm-book had the days of the month, from
+    the 1st to the 30th, written around it in blue ink.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: For journey divination, the user starts from the north aspect and counts leftward,
+    one day per aspect, until reaching the aspect corresponding to the day of the
+    month on which the journey might begin.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: If the counted aspect belongs to a weaker influence, the passage says starting
+    the journey would be imprudent; if it belongs to a stronger influence, starting
+    is favorable.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: For divining whether a man will get the better of his enemy, a double circle
+    of human figures is used, with inner-circle figures representing the seeker and
+    outer-circle figures representing the enemy.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: In the enemy-divination diagram, the counting is done as in the journey procedure,
+    and the headless figure represents the man who will lose; in a drawn battle neither
+    party loses his head.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: 'For an absconder, a single circle of figures is used: figures pointing toward
+    the center signify that the absconding party will return or be caught, while figures
+    pointing away signify the opposite.'
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: One absconder-related diagram has fourteen human figures in two opposing rows
+    of seven, with every alternate figure headless; counting begins at the right-hand
+    figure of the bottom row and proceeds leftward.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Another divinatory form uses a human figure with small red circles at salient
+    points, counted downward to the left beginning at the head.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The human figure with red circles is said to represent one Unggas Telang.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Inner-circle human figures
+  description: Human figures in the inner circle of the enemy-divination diagram,
+    representing the person seeking information.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Outer-circle human figures
+  description: Human figures in the outer circle of the enemy-divination diagram,
+    representing the seeker’s enemy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Headless figure
+  description: A human figure without a head, used in the enemy-divination diagram
+    to represent the man who will lose.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Absconder-indicating figures
+  description: Human figures in an absconder-divination diagram whose inward or outward
+    orientation indicates whether the absconding party will return or be caught.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Unggas Telang
+  description: A villainous-looking individual portrayed in a human-figure diagram
+    and said to represent one Unggas Telang.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: information-seeker representation
+  assigned_to:
+  - fig:1
+  basis: The inner circle figures represent the person who seeks the information.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: enemy representation
+  assigned_to:
+  - fig:2
+  basis: The outer circle figures represent the enemy of the person seeking information.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: losing-party marker
+  assigned_to:
+  - fig:3
+  basis: The headless figure represents the man who will lose.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: absconder-outcome marker
+  assigned_to:
+  - fig:4
+  basis: Figures pointing toward or away from the center signify whether the absconding
+    party will return or be caught, or the opposite.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: named portrayed figure
+  assigned_to:
+  - fig:5
+  basis: The portrayed individual is said to represent Unggas Telang.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: aspect-compass
+  literal_form: Compass-like drawing with aspect or compass positions occupied by
+    opposed names.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: opposed animal and bird names
+  literal_form: Bird or kite/fowl, crocodile/fish, rat/cat, tiger/stag, and related
+    opposed placements.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: directional positions
+  literal_form: North, south, northeast, southwest, east, west, southeast, and northwest
+    positions used for the placements.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: new moon and landscape opposition
+  literal_form: New Moon opposed to Kite, and a fourth arrangement alternating cape
+    and bay.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: days of the month around a diagram
+  literal_form: Days from the 1st to the 30th written around the charm-book figure
+    in blue ink.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: weaker and stronger influences
+  literal_form: Aspects assigned to weaker or stronger influences for judging whether
+    to start a journey.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: headlessness
+  literal_form: Human figure shown without a head.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:8
+  label: inward and outward orientation
+  literal_form: Human figures pointing toward or away from the center of a circle.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: red counted body-points
+  literal_form: Small red circles drawn at salient points of a human figure and counted
+    beginning at the head.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Opposed names arranged on aspect-compasses
+  summary: Compass-like diagrams place opposed animal, bird, lunar, or landscape names
+    at directional positions.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Journey-day divination
+  summary: A user counts leftward from the north aspect through days of the month
+    to determine whether the proposed journey day falls under a weaker or stronger
+    influence.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Enemy-divination double circle
+  summary: A double circle of human figures represents a seeker and an enemy; counting
+    identifies which headless figure marks the losing party.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Absconder-divination figures
+  summary: A circle or rows of human figures are used to judge whether an absconder
+    will return or be caught, with inward or outward orientation and headlessness
+    as diagram features.
+  figure_refs:
+  - fig:4
+  - fig:3
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Unggas Telang human-figure diagram
+  summary: A human figure identified as Unggas Telang bears red circles at salient
+    points, which are counted from the head downward to the left.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: directional opposition of beings and things
+  taxonomy_refs:
+  - duality
+  basis: The aspect-compasses arrange named animals, birds, and other things as opposed
+    pairs across compass directions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The taxonomy fit is limited to explicit opposition; the passage does not
+    narrate a broader mythic dualism.
+- id: motif:2
+  label: auspicious-day divination for journey departure
+  taxonomy_refs:
+  - departure
+  basis: The passage describes counting from the north aspect to the intended day
+    of the month to decide whether it is prudent to start a journey.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage concerns practical divination for travel, not a narrative
+    departure episode.
+- id: motif:3
+  label: counting around a ritual diagram to obtain an omen
+  taxonomy_refs: []
+  basis: Counting procedures are used on aspect-compasses, double circles, rows of
+    figures, and a marked human figure to reach a divinatory result.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No external comparison is made in the passage.
+- id: motif:4
+  label: headless image as sign of defeat or loss
+  taxonomy_refs: []
+  basis: In the enemy-divination diagram, the headless figure represents the man who
+    will lose, and a drawn battle is described as one in which neither party loses
+    his head.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives this as a divinatory sign, not as an enacted beheading
+    narrative.
+- id: motif:5
+  label: orientation toward the center as sign of return
+  taxonomy_refs:
+  - return
+  basis: In absconder divination, figures pointing toward the center signify that
+    the absconding party will return or be caught, while outward-pointing figures
+    signify the opposite.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy fit is literal and practical; the passage is not a mythic
+    return story.
+- id: motif:6
+  label: human body as divinatory counting diagram
+  taxonomy_refs: []
+  basis: A human figure with red circles at salient points is counted from the head
+    downward to the left and is associated with Unggas Telang.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage does not explain the outcome meanings of this counting procedure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 30856-30954, opening description of aspect-compasses
+  quote_or_summary: "“the places usually occupied by the points of the compass are
+    occupied by the names of certain things” that are supposed to be naturally opposed."
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 30856-30954, lists of opposed compass placements
+  quote_or_summary: The passage lists opposed placements including bird or kite/fowl,
+    crocodile/fish, rat/cat, tiger/stag, new moon/kite, and a fourth form alternating
+    cape and bay.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 30856-30954, journey divination procedure
+  quote_or_summary: A figure from a Selangor charm-book has days 1 through 30 written
+    around it in blue ink; counting starts at the north aspect and proceeds leftward,
+    one day per aspect, to the day chosen for beginning a journey.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 30856-30954, weak and strong influences
+  quote_or_summary: If the journey day coincides with an aspect assigned to weaker
+    influences, starting is imprudent; if assigned to stronger influences, starting
+    is favorable, and further aspect-compasses may be consulted if needed.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 30856-30954, enemy-divination diagram
+  quote_or_summary: 'A double circle of human figures is used to divine whether a
+    man will defeat his enemy: inner figures represent the seeker, outer figures the
+    enemy, and the headless figure represents the man who will lose.'
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 30856-30954, absconder-divination circle
+  quote_or_summary: For an absconder, a single circle of figures is used; figures
+    pointing toward the center signify that the absconding party will return or be
+    caught, while those pointing away signify the opposite.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 30856-30954, fourteen-figure arrangement
+  quote_or_summary: One diagram has fourteen human figures in two opposing rows of
+    seven, every alternate figure headless; counting starts at the right-hand figure
+    of the bottom row and goes leftward.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 30856-30954, human figure with red circles and Unggas Telang
+  quote_or_summary: Another form shows a human figure with small red circles at salient
+    points, counted downward to the left beginning at the head; the portrayed individual
+    is said to represent Unggas Telang.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main procedures and diagram elements are clear, but the OCR passage is
+    fragmentary near the description of Unggas Telang and gives no external comparative
+    claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were extracted because the passage does not itself make a cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l30856-l30954
+  passage_sha256=5ca571de1af8f3a7e5f8f5d61f9d02163d3c7c2e5ab973fe7ab81987079bc6a4
+

@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l20997-l21010
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 351 / TEIT, THE THOMPSON
+    INDIANS OF BRITISH COLUMBIA. 353 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA.
+    355 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 359; lines 20997-21010
+  start: '20997'
+  end: '21010'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes beliefs about shamanic bewitchment: a person is
+    especially vulnerable while eating, drinking, or smoking; people avoid those acts
+    near an unknown shaman; nail clippings and loose hair are disposed of to prevent
+    enemies from using them; possession of a person''s weapons can give an enemy power
+    over the owner; stronger magic can reverse the effect onto the taker; and some
+    shamans are said to cause sickness by drawing souls, though the supplied passage
+    ends fragmentarily.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A shaman is said to be able to bewitch a person most easily when that person
+    is eating, drinking, or smoking.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Indians who feared bewitchment avoided eating, drinking, or smoking in the
+    presence of an unknown shaman.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Finger- and toe-nail clippings were burned, and loose hair from combing was
+    buried, hidden, or thrown into water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: If an enemy got possession of a person's hair or nails, the enemy might bewitch
+    the person to whom they belonged.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: If an enemy gained possession of a man's weapons, the enemy obtained power
+    over the weapons' owner.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: An enemy possessing a man's weapons could bewitch him, take away his luck,
+    hurt him, or kill him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: If the weapons' owner was stronger in magic than the person who took the weapons,
+    the effect was reversed and the taker often became sick or died.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Some shamans were said to throw sickness on persons by drawing their souls;
+    the supplied sentence breaks off immediately after this phrase.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: shaman
+  description: A shaman, including an unknown shaman, is described as able to bewitch
+    people and as able to throw sickness on persons by drawing their souls.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:2
+  name_or_label: person vulnerable to bewitchment
+  description: A person may be vulnerable while eating, drinking, or smoking and may
+    be the owner of hair, nails, or weapons used in bewitchment.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Indians afraid of bewitchment
+  description: People who feared being bewitched avoided eating, drinking, or smoking
+    near an unknown shaman.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: enemy or taker of personal materials
+  description: An enemy may obtain hair, nails, or weapons and use that possession
+    to gain power or cause harm; a taker may suffer reversal if the owner is stronger
+    in magic.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: bewitching shaman
+  assigned_to:
+  - fig:1
+  basis: The passage says a shaman could bewitch people and that some shamans threw
+    sickness on persons by drawing their souls.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: person at risk of bewitchment
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: People are described as vulnerable while eating, drinking, or smoking, and
+    some avoid those acts near an unknown shaman.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: hostile possessor
+  assigned_to:
+  - fig:4
+  basis: An enemy or taker gains possession of hair, nails, or weapons and may thereby
+    bewitch, harm, or lose against the owner.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: magically stronger owner
+  assigned_to:
+  - fig:2
+  basis: If the owner of the weapons is stronger in magic, the hostile effect reverses
+    onto the taker.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: hair and nails as personal remnants
+  literal_form: loose hair; finger- and toe-nail clippings
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: weapons as personal possessions
+  literal_form: weapons of a man
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: fire used for disposal
+  literal_form: burning nail clippings
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: water used for disposal
+  literal_form: hair thrown into the water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: soul as object of shamanic action
+  literal_form: souls
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Avoidance near an unknown shaman
+  summary: Because a shaman was thought to be able to bewitch someone most easily
+    while that person was eating, drinking, or smoking, fearful people avoided doing
+    those things near an unknown shaman.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Protective disposal of hair and nails
+  summary: Nail clippings were burned, and loose hair was buried, hidden, or put into
+    water so that an enemy would not get them and use them for bewitchment.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Power gained through weapons
+  summary: An enemy who obtained a man's weapons was said to gain power over the owner
+    and could bewitch him, remove his luck, hurt him, or kill him.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Reversal against the taker
+  summary: If the owner of the weapons was stronger in magic than the person who took
+    them, the effect reversed and the taker often became sick or died.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Shamanic soul-drawing sickness
+  summary: The passage fragment says that some shamans threw sickness on persons by
+    drawing their souls.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: bewitchment during ordinary consumption
+  taxonomy_refs: []
+  basis: The passage states that eating, drinking, or smoking made a person especially
+    susceptible to shamanic bewitchment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level motif label, not a supplied taxonomy match.
+- id: motif:2
+  label: contagious bewitchment through hair and nails
+  taxonomy_refs: []
+  basis: Hair and nail clippings are treated as dangerous if obtained by an enemy,
+    who may then bewitch their owner.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives a direct rationale, but no named external motif family
+    is supplied.
+- id: motif:3
+  label: power over owner through possession of personal weapons
+  taxonomy_refs: []
+  basis: An enemy who gains a man's weapons is said to obtain power over the owner
+    and may harm or kill him.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not say the weapons were stolen or sacred; no taxonomy
+    reference is assigned.
+- id: motif:4
+  label: reversal of hostile magic against weaker aggressor
+  taxonomy_refs: []
+  basis: If the weapon owner is stronger in magic, the harmful effect reverses and
+    the taker becomes sick or dies.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The reversal is limited to the weapons scenario in this passage.
+- id: motif:5
+  label: sickness caused by drawing souls
+  taxonomy_refs: []
+  basis: Some shamans are said to throw sickness on persons by drawing their souls.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The sentence is fragmentary in the supplied passage, ending after the
+    reference to souls.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 20997-20999
+  quote_or_summary: '"a shaman could most easily bewitch a person who was eating,
+    drinking, or smoking"'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; brief excerpt.
+- id: ev:2
+  type: quote
+  locator: 20998-21000
+  quote_or_summary: '"avoided doing so in the presence of an unknown shaman"'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; brief excerpt.
+- id: ev:3
+  type: summary
+  locator: 21000-21002
+  quote_or_summary: Finger- and toe-nail clippings were burned; loose hair from combing
+    was buried, hidden, or thrown into water.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 21002-21004
+  quote_or_summary: If an enemy got possession of hair or nails, the enemy might bewitch
+    the one to whom they belonged.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 21004-21007
+  quote_or_summary: If an enemy gained a man's weapons, the enemy obtained power over
+    the owner and could bewitch him, take away his luck, hurt him, or kill him.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 21007-21009
+  quote_or_summary: If the weapon owner was stronger in magic than the taker, the
+    effect was reversed and the taker often became sick or died.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: 21009-21010
+  quote_or_summary: '"Some shamans threw sickness on persons by drawing their souls"'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; brief excerpt; supplied passage is fragmentary
+    at this point.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Most literal extraction is direct from the passage. Candidate motif labels
+    are descriptive and passage-level. No comparison claims are made because the passage
+    does not itself support comparison to another tradition or named motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were assigned only to literal fire and water symbols from the provided symbol list.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l20997-l21010
+  passage_sha256=adf66bfcccf30a10b17b84f1fcb4c6d7c41f09df0c29b7c9270889dee9a919c0
+

@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l20047-l20074
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: ADAPA   AND   THE    SOUTH-WIND / ADAPA   AND   THE   SOUTH-WIND  315 / ADAPA  AND   THE   SOUTH-WIND  317
+    / THE   STORY   OF   ETANA; lines 20047-20074
+  start: '20047'
+  end: '20074'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A fragment from the Story of Etana describes an eagle considering eating
+    the serpent's young. The eagle tells its young that it will ascend, watch from
+    the height of heaven, swoop to the tree-top, and eat the brood. A wise young bird
+    warns the eagle not to do this and invokes the net, snare, and ban of Shamash
+    as a danger.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The eagle considers eating the young of its companion, identified conjecturally
+    in brackets as the serpent.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The eagle speaks to its young and states that it will eat the young of the
+    serpent.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The eagle says it will ascend and spy from the height of heaven.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The eagle says it will swoop down upon the top of the tree and eat the brood.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One young bird is described as endowed with much wisdom and addresses the
+    eagle as its father.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The wise young bird tells the eagle not to eat and asks whether the net, snare,
+    and ban of Shamash will catch it.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the eagle
+  description: A speaking eagle whose heart prompts it to eat the serpent's young
+    and who plans to ascend, spy, swoop down, and eat the brood.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the serpent
+  description: The serpent is named as the figure whose young or brood the eagle intends
+    to eat; the earlier identification of the companion as serpent is bracketed as
+    uncertain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: the eagle's young
+  description: The young birds are addressed by the eagle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: wise young bird
+  description: One of the young birds is described as endowed with much wisdom and
+    warns its father, the eagle, not to eat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Shamash, the Sun-god
+  description: Shamash is named in the warning as associated with a net, snare, and
+    ban that may catch the eagle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: intending predator and speaker
+  assigned_to:
+  - fig:1
+  basis: The eagle declares that it will eat the serpent's young and describes how
+    it will ascend, spy, and swoop down.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: figure whose brood is targeted
+  assigned_to:
+  - fig:2
+  basis: The eagle says it will eat the young of the serpent and the brood associated
+    with that statement.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: young audience
+  assigned_to:
+  - fig:3
+  basis: The eagle opens its mouth and speaks to its young.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: wise admonisher
+  assigned_to:
+  - fig:4
+  basis: One young bird, described as endowed with much wisdom, tells its father not
+    to eat.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: divine power invoked as catcher
+  assigned_to:
+  - fig:5
+  basis: The warning asks whether the net, snare, and ban of Shamash will catch the
+    eagle.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: the serpent
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: tree-top
+  literal_form: the top of the tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: height of heaven
+  literal_form: the height of the heaven
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: net, snare, and ban of Shamash
+  literal_form: the net of Shamash; the snare and the ban of Shamash
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: The eagle considers eating the serpent's young
+  summary: The eagle's heart prompts it to consider eating the young of its companion,
+    conjecturally the serpent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The eagle announces an ascent and attack
+  summary: The eagle tells its young that it will eat the serpent's young, ascend
+    to the height of heaven, spy, swoop to the top of the tree, and eat the brood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The wise young bird warns of Shamash's snare
+  summary: A wise young bird tells its father not to eat and frames Shamash's net,
+    snare, and ban as a danger that may catch the eagle.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: planned predation against a companion's offspring
+  taxonomy_refs: []
+  basis: The eagle is prompted to eat the young of its companion, identified conjecturally
+    as the serpent, and then says it will eat the serpent's young.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The word 'serpent' in the companion phrase is bracketed as uncertain,
+    though the eagle's speech explicitly names the serpent's young.
+- id: motif:2
+  label: ascent to survey from heaven followed by descent
+  taxonomy_refs:
+  - ascent
+  basis: The eagle says it will ascend, spy from the height of heaven, and then swoop
+    down upon the tree-top.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents the action as the eagle's stated plan, not as an
+    accomplished event within this excerpt.
+- id: motif:3
+  label: wise child warns elder against transgression
+  taxonomy_refs:
+  - wisdom
+  basis: A young bird described as endowed with much wisdom tells its father, the
+    eagle, not to eat.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The moral status of the intended act is implied through the warning, not
+    explicitly explained in the excerpt.
+- id: motif:4
+  label: divine snare threatened as consequence
+  taxonomy_refs:
+  - divine_judgment
+  basis: The warning asks whether Shamash's net, snare, and ban will catch the eagle
+    if it eats.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage contains a warning about divine catching rather than a narrated
+    judgment in this excerpt.
+- id: motif:5
+  label: bird-serpent conflict around a tree
+  taxonomy_refs: []
+  basis: The eagle plans to swoop to the top of the tree and eat the serpent's brood.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The conflict is planned and threatened in this excerpt; the serpent does
+    not act within the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20047-20051
+  quote_or_summary: The fragment says the eagle's heart prompts it to consider eating
+    the young of its companion, with the companion identified in brackets as possibly
+    the serpent.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 20052-20060
+  quote_or_summary: The eagle says it will eat the young of the serpent, ascend and
+    spy from the height of heaven, swoop down upon the top of the tree, and eat the
+    brood.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation/summary allowed.
+- id: ev:3
+  type: summary
+  locator: lines 20061-20074
+  quote_or_summary: One young bird, endowed with much wisdom, tells its father the
+    eagle not to eat and warns that the net, snare, and ban of Shamash may catch it.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The supplied excerpt is fragmentary and includes bracketed restorations;
+    motifs are limited to the actions and warnings present in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l20047-l20074
+  passage_sha256=fcc41a8d066090b9fed50c7c08d7a0c34b3f2c73cc754406d464274f70cda6c0
+

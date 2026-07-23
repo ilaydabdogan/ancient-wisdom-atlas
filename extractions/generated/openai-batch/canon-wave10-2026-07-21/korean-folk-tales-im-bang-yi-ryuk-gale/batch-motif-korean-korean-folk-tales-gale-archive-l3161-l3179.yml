@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.korean-korean-folk-tales-gale-archive-l3161-l3179
+source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+passage_locator:
+  label: THE  BOXED-UP  GOVERNOR  99 / THE  MAN  WHO  LOST  HIS  LEGS / THE  MAN  WHO  LOST  HIS  LEGS  101
+    / THE  MAN  WHO  LOST  HIS  LEGS  103; lines 3161-3179
+  start: '3161'
+  end: '3179'
+  translation: Korean Folk Tales - Imps, Ghosts and Fairies
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A first-person speaker recounts escaping by striking at grasping hands
+    with axes, then being driven by wind onto rocks at sea. Everyone else drowns,
+    while he survives by holding boat-timber. A horrible fish bites off his legs before
+    he drifts home. He recalls the terror and attributes the disaster to his bad Eight
+    Lucky Stars.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker and companions used axes to strike at hands that held an unspecified
+    thing, and they got free into the open sea.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A great wind arose, and the group ran onto rocks.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Everyone except the speaker was engulfed in the sea and drowned.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker held a piece of boat-timber and survived.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A horrible fish from the sea swam after the speaker and bit off his legs.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker drifted back home after losing his legs.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker says the memory still makes his teeth cold and his bones shiver.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker says his Eight Lucky Stars are very bad and gives that as the
+    reason the events happened to him.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: first-person speaker / man who lost his legs
+  description: The narrator of the episode; he alone survives the sea disaster, loses
+    his legs to a fish, and returns home.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: companions at sea
+  description: The unnamed people included in the speaker's 'we'; they are destroyed
+    and drowned when the vessel runs onto rocks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: horrible fish from the sea
+  description: A sea creature that swims after the speaker and bites off his legs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: unidentified grasping hands
+  description: Hands that hold an unspecified thing fast and are struck with axes
+    by the speaker's group.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: lone survivor and returnee
+  assigned_to:
+  - fig:1
+  basis: The speaker says everyone else drowned, while he held boat-timber, lived,
+    lost his legs, and drifted home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: drowned companions
+  assigned_to:
+  - fig:2
+  basis: The group is described as destroyed, engulfed in the sea, and drowned.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: attacking sea creature
+  assigned_to:
+  - fig:3
+  basis: The fish swims after the speaker and bites off his legs.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: grasping obstacle
+  assigned_to:
+  - fig:4
+  basis: The hands hold something fast and must be struck with axes for the group
+    to get free.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: sea water
+  literal_form: open sea / sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: axes
+  literal_form: axes used to strike the grasping hands
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: boat-timber
+  literal_form: piece of boat-timber held by the speaker
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: rocks
+  literal_form: rocks onto which the group runs during the wind
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: horrible fish
+  literal_form: horrible fish from the sea
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Eight Lucky Stars
+  literal_form: the speaker's Eight Lucky Stars, described as very bad
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Escape from grasping hands
+  summary: The speaker's group uses axes to strike at hands holding an unspecified
+    thing and gets free into the open sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wind, rocks, and drowning
+  summary: A great wind arises; the group runs onto rocks, and everyone except the
+    speaker is engulfed in the sea and drowned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Mutilation by sea fish and return home
+  summary: The speaker survives by holding boat-timber, but a horrible fish from the
+    sea pursues him, bites off his legs, and he drifts home.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:4
+  label: Recollection and astrological explanation
+  summary: The speaker says the memory still terrifies him and attributes the events
+    to his bad Eight Lucky Stars.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: lone survivor of sea disaster
+  taxonomy_refs: []
+  basis: After wind drives the group onto rocks and all others drown, the speaker
+    alone survives by clinging to boat-timber.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The larger tale context is not included, so the broader narrative function
+    of the survival is not determined here.
+- id: motif:2
+  label: mutilation by a sea creature
+  taxonomy_refs: []
+  basis: A horrible fish from the sea swims after the speaker and bites off his legs.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The fish is not identified beyond the passage's description.
+- id: motif:3
+  label: return from perilous sea ordeal
+  taxonomy_refs:
+  - return
+  basis: After shipwreck, drowning, and attack by the fish, the speaker drifts back
+    home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage supports a literal return home, but does not by itself establish
+    a full quest-return structure.
+- id: motif:4
+  label: misfortune attributed to unlucky stars
+  taxonomy_refs: []
+  basis: The speaker explains the disaster by saying his Eight Lucky Stars are very
+    bad.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives no additional explanation of the Eight Lucky Stars.
+- id: motif:5
+  label: escape by cutting or striking grasping hands
+  taxonomy_refs: []
+  basis: The speaker's group uses axes against hands that hold something fast, allowing
+    them to get free.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The opening is fragmentary; the identity of the hands and the thing held
+    are not supplied in this passage range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3161-3165
+  quote_or_summary: The group takes axes, strikes at hands holding something fast,
+    and gets free into the open sea.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 3167-3170
+  quote_or_summary: A great wind arises; the group runs onto rocks and is destroyed.
+    Everyone is engulfed and drowned except the speaker, who holds boat-timber and
+    lives.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 3171-3173
+  quote_or_summary: A horrible fish from the sea swims after the speaker, bites off
+    his legs, and the speaker drifts back home.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 3175-3178
+  quote_or_summary: '"my teeth are cold and my bones shiver"; the speaker says his
+    Eight Lucky Stars are very bad and that this is why it happened.'
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main events are clear, but the passage begins mid-sentence, leaving the
+    identity of the grasping hands and the held object unclear. No explicit comparative
+    claim is made by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage text and metadata.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-folk-tales-gale-archive__l3161-l3179
+  passage_sha256=37211a623c9e82c9d28ba59e11909a60e1ae6e4b3f04279e129bdc7fb62c18b6
+

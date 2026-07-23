@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l5382-l5409
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / CHAPTER  VII. / OF  THE  POSTS  AND  RUNNERS  AND  OF  THE  MESSAGES  THEY
+    / CARRIED.; lines 5382-5409
+  start: '5382'
+  end: '5409'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Chasqui runners stationed along roads to carry
+    the king’s orders and provincial news by relay. Swift youths were placed at quarter-league
+    intervals with paired huts, watched the roads in both directions, exchanged dispatches
+    without delay, and used high, intervisible stations. The term Chasqui is explained
+    as meaning to exchange, give, or take.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Runners posted along the roads were called Chasqui.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Their stated duty was to carry the king’s orders rapidly and to bring important
+    news from provinces near and far.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Four or six swift Indian lads were stationed at every quarter of a league.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Two huts were built at each station to protect the runners from weather.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The runners took alternate turns carrying dispatches from one hut group to
+    the next.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: One runner watched the road in one direction while another watched in the
+    opposite direction, so an incoming messenger could be seen before arrival.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The relay arrangement was intended to let the next runner take the dispatch
+    without losing time.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The huts were placed on high ground and positioned so that each station could
+    be seen from neighboring stations on both sides.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The quarter-league interval is explained as the distance an Indian runner
+    was said to be able to run at full speed without tiring.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The word Chasqui is glossed as meaning to exchange, give, or take, because
+    the runners exchanged, gave, and took dispatches from one to another.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Chasqui runners
+  description: Runners posted along roads, described as swift Indian lads who carried
+    orders, news, and dispatches by relay.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the king
+  description: The source of orders carried rapidly by the Chasqui.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: relay dispatch carrier
+  assigned_to:
+  - fig:1
+  basis: The runners carried the king’s orders, provincial news, and dispatches from
+    one to another.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: road watcher
+  assigned_to:
+  - fig:1
+  basis: One runner watched the road in one direction and another in the opposite
+    direction to anticipate an incoming messenger.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: royal order-giver
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the king’s orders as messages carried rapidly by the
+    Chasqui.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: road network
+  literal_form: roads along which Chasqui were posted
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: dispatches and royal orders
+  literal_form: orders, news, and dispatches carried by runners
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: paired relay huts
+  literal_form: two huts built at each station
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: high intervisible stations
+  literal_form: huts on high ground visible from stations on either side
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: quarter-league interval
+  literal_form: fixed spacing of stations at every quarter of a league
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Chasqui stationing along the roads
+  summary: The passage introduces Chasqui runners as road-posted carriers of royal
+    orders and provincial news, stationed in groups at quarter-league intervals with
+    huts for shelter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Relay watching and exchange of dispatches
+  summary: Runners in paired huts take alternate turns, watch opposite directions,
+    see an incoming messenger before arrival, and take the dispatch without delay.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Placement of visible high-ground stations
+  summary: The huts are located on high ground so each station is visible from neighboring
+    stations, with intervals set according to the distance a runner could cover at
+    full speed without tiring.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Name explained through exchange
+  summary: The term Chasqui is explained by the acts of exchanging, giving, and taking
+    dispatches from one runner to another.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: relay transmission of royal orders and provincial news
+  taxonomy_refs: []
+  basis: The passage describes royal orders and important news carried rapidly by
+    Chasqui stationed at fixed intervals along roads.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an administrative communication pattern in the passage, not explicitly
+    a sacred or mythic motif.
+- id: motif:2
+  label: message exchange through alternating runners
+  taxonomy_refs: []
+  basis: The runners alternate turns and pass dispatches from one to another, and
+    their name is explained through exchange, giving, and taking.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference is applied because the passage does not
+    characterize the exchange as sacred.
+- id: motif:3
+  label: high-visibility relay posts
+  taxonomy_refs: []
+  basis: The huts are set on high ground so neighboring stations can see one another,
+    supporting rapid transfer of messages.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a practical spatial arrangement rather than an explicitly symbolic
+    image.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5382-5388
+  quote_or_summary: "“The runners who were posted along the roads were called Chasqui”;
+    they carried the king’s orders rapidly and brought important news from the provinces."
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 5388-5392
+  quote_or_summary: Four or six swift Indian lads were stationed every quarter league,
+    and two huts were built at each station for weather protection.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 5392-5398
+  quote_or_summary: Runners took alternate turns carrying dispatches; one watched
+    each road direction to see an incoming messenger early and take the dispatch without
+    delay.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 5398-5403
+  quote_or_summary: Huts were placed on high ground so that stations were visible
+    from either side; quarter-league spacing is explained as the distance a runner
+    could run at full speed without tiring.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: quote
+  locator: lines 5404-5409
+  quote_or_summary: "“Chasqui” is glossed as meaning “to exchange, give, or take,”
+    because the runners exchanged, gave, and took dispatches from one to another."
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is concrete and administrative. Motif candidates are limited
+    to observed communication and exchange patterns; no comparative claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned because the passage does not support the available sacred or mythic categories directly.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l5382-l5409
+  passage_sha256=510245d80cc560282acc12f0d53e912dd8c3defe743260193924736851d8c56f
+

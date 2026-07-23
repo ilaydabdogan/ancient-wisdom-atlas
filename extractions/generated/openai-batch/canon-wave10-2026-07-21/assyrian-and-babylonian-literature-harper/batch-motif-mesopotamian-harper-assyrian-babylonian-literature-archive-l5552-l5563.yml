@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l5552-l5563
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: INSCRIPTION   OF   TIGLATH-PILESER  I  23 / INSCRIPTION   OF   TIGLATH-PILESER   I  25
+    / INSCRIPTION   OF   TIGLATH-PILESER   I / INSCRIPTION    OF   NABUPALIDDIN; lines
+    5552-5563
+  start: '5552'
+  end: '5563'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces an inscription of Nabupaliddin. It describes Shamash
+    as the great lord dwelling in Ebabbara in Sippar. During uprisings in Akkad, the
+    Sutu, identified as a hostile foe, overturned the sanctuary and destroyed its
+    reliefs. Shamash’s law was forgotten, his image and insignia disappeared, and
+    their location was unknown. Simmasshihu, king of Babylon, searched for the statue,
+    but Shamash did not reveal himself and the king did not find it in the surviving
+    excerpt.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Shamash is called the great lord and is said to dwell in Ebabbara in Sippar.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage situates the damage during uprisings and disturbances in the land
+    of Akkad.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Sutu are described as a hostile foe who overturned Ebabbara and destroyed
+    its reliefs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Shamash’s law was forgotten.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Shamash’s image and insignia had disappeared, and no one knew where they were.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Simmasshihu, king of Babylon, made inquiry for Shamash’s statue.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Shamash did not reveal himself, and the king did not find the statue in the
+    surviving excerpt.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Shamash
+  description: The great lord who dwells in Ebabbara in Sippar; associated with a
+    law, image, insignia, and statue.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Sutu
+  description: A hostile foe active during uprisings and disturbances in Akkad; said
+    to have overturned Ebabbara and destroyed its reliefs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Simmasshihu
+  description: King of Babylon who made inquiry for Shamash’s statue but did not find
+    it in the surviving excerpt.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: great lord dwelling in Ebabbara
+  assigned_to:
+  - fig:1
+  basis: The passage calls Shamash the great lord and says he dwells in Ebabbara in
+    Sippar.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hostile foe and destroyer
+  assigned_to:
+  - fig:2
+  basis: The Sutu are explicitly called a hostile foe and are said to have overturned
+    Ebabbara and destroyed its reliefs.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: king searching for the divine statue
+  assigned_to:
+  - fig:3
+  basis: Simmasshihu is named as king of Babylon and is said to have made inquiry
+    for Shamash’s statue.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: withholding or unrevealed deity
+  assigned_to:
+  - fig:1
+  basis: The passage says Shamash did not reveal himself when the king sought the
+    statue.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Ebabbara in Sippar
+  literal_form: Temple or dwelling-place of Shamash named Ebabbara, located in Sippar.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: divine image and insignia
+  literal_form: Shamash’s image and insignia, described as disappeared and of unknown
+    location.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: statue of Shamash
+  literal_form: A statue sought by Simmasshihu, king of Babylon.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: reliefs of Ebabbara
+  literal_form: Reliefs of the sanctuary, described as destroyed by the Sutu.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Destruction and loss at Ebabbara
+  summary: During unrest in Akkad, the Sutu overturn Ebabbara and destroy its reliefs;
+    Shamash’s law is forgotten and his image and insignia disappear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Royal inquiry for the missing statue
+  summary: Simmasshihu, king of Babylon, searches for Shamash’s statue, but Shamash
+    does not reveal himself and the statue is not found in the surviving excerpt.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: temple destruction and disappearance of divine emblems
+  taxonomy_refs: []
+  basis: The passage links the overturning of Ebabbara and destruction of its reliefs
+    with the disappearance of Shamash’s image and insignia.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The excerpt is fragmentary and does not provide the restoration or resolution.
+- id: motif:2
+  label: royal search for a missing divine statue
+  taxonomy_refs: []
+  basis: The king of Babylon makes inquiry for Shamash’s statue but does not find
+    it in the surviving passage.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage ends mid-sentence, so the outcome and larger narrative function
+    are not available here.
+- id: motif:3
+  label: deity not revealing himself during inquiry
+  taxonomy_refs: []
+  basis: The passage states that Shamash did not reveal himself when the king sought
+    the statue.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The reason for the non-revelation is not explained in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5552-5555
+  quote_or_summary: Shamash is described as the great lord who dwells in Ebabbara
+    in Sippar.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 5555-5558
+  quote_or_summary: During uprisings and disturbances in Akkad, the Sutu, called a
+    hostile foe, overturned Ebabbara and destroyed its reliefs.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 5558-5560
+  quote_or_summary: Shamash’s law was forgotten, and his image and insignia disappeared
+    with their location unknown.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 5560-5563
+  quote_or_summary: Simmasshihu, king of Babylon, made inquiry for Shamash’s statue;
+    Shamash did not reveal himself, and the king did not find it in the surviving
+    excerpt.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a short and apparently truncated passage. Motif candidates
+    are limited to directly stated narrative elements; no comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy references were assigned because the excerpt does not clearly support the available motif-family or symbol taxonomy entries.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l5552-l5563
+  passage_sha256=cf858d03062bafef30363f363c6b358810a4c700da3a65d8c3dfdf8c7de6b86d
+

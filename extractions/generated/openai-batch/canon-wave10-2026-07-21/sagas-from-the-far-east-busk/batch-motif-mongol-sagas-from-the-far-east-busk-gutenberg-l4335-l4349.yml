@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.mongol-sagas-from-the-far-east-busk-gutenberg-l4335-l4349
+source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+passage_locator:
+  label: THE FORTUNES OF SHRIKANTHA. / TALE XIV. / THE AVARICIOUS BROTHER. / TALE
+    XV.; lines 4335-4349
+  start: '4335'
+  end: '4349'
+  translation: Sagas from the Far East
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The Well-and-wise-walking Khan, having failed again in his mission, returns
+    to the shady grove, captures the Siddhî-kür in a sack, and carries him through
+    a desert. The Siddhî-kür asks for a tale to pass the journey and instructs the
+    silent Khan to nod backward if he wants one told. The Khan nods, and the Siddhî-kür
+    begins a tale.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Khan has once more failed in the end and object of his mission.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Khan again goes to the shady grove.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Khan captures the Siddhî-kür in his sack in the same manner as before.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Khan bears the Siddhî-kür through a desert country and is weary with the
+    journey.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Siddhî-kür asks whether the Khan will tell a tale to enliven the journey.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When the Khan remains silent, the Siddhî-kür tells him to nod his head backward,
+    without opening his lips, if he wants the Siddhî-kür to tell a tale.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Khan nods his head backward, and the Siddhî-kür begins telling a tale.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Well-and-wise-walking Khan
+  description: A khan who has failed again in his mission, returns to the grove, captures
+    the Siddhî-kür, carries him through the desert, and remains verbally silent until
+    giving a backward nod.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Siddhî-kür
+  description: A being captured in the Khan's sack who speaks during the journey and
+    begins to tell a tale after receiving the Khan's nod.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: failed mission-seeker
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Khan again failed in the end and object of his
+    mission.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: captor and carrier
+  assigned_to:
+  - fig:1
+  basis: The Khan captures the Siddhî-kür in a sack and bears him along through the
+    desert.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: captive
+  assigned_to:
+  - fig:2
+  basis: The Siddhî-kür is taken captive in the Khan's sack.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: journey tale-teller
+  assigned_to:
+  - fig:2
+  basis: The Siddhî-kür asks for a tale and then begins one after the Khan nods.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: shady grove
+  literal_form: shady grove
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sack used for captivity
+  literal_form: sack
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: desert journey landscape
+  literal_form: desert country
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: backward nod as silent token
+  literal_form: nodding his head backwards without opening his lips
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Renewed capture after failed mission
+  summary: After failing again, the Khan returns to the shady grove and captures the
+    Siddhî-kür in a sack as before.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Desert journey with silent consent to a tale
+  summary: While the Khan carries the Siddhî-kür through the desert, the Siddhî-kür
+    prompts him for a tale; the silent Khan gives a backward nod, and the Siddhî-kür
+    begins speaking a tale.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: renewed departure after failed mission
+  taxonomy_refs:
+  - departure
+  basis: The Khan has failed again and again takes the way to the shady grove to continue
+    the mission sequence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a frame transition and does not state the full goal or
+    outcome of the mission.
+- id: motif:2
+  label: captured being as journey tale-teller
+  taxonomy_refs: []
+  basis: The captive Siddhî-kür asks for or offers a tale to enliven the journey and
+    begins narrating after receiving a nonverbal token.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is identified as a recurring narrative situation within the passage,
+    not assigned to a supplied taxonomy family.
+- id: motif:3
+  label: speech-boundary signaled by nonverbal gesture
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Siddhî-kür instructs the Khan to give a backward nod without opening
+    his lips if he wants a tale told, and the Khan complies.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The passage supports a boundary around speech and gesture, but does not
+    explicitly identify trickery or explain the rule's consequences in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4335-4338
+  quote_or_summary: The Khan, having again failed in his mission, again takes the
+    way to the shady grove.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4338-4340
+  quote_or_summary: The Khan again takes the Siddhî-kür captive in his sack in the
+    same fashion as before.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4340-4341
+  quote_or_summary: The Khan carries the Siddhî-kür along, weary with the journey
+    through the desert country.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4341-4343
+  quote_or_summary: The Siddhî-kür asks whether the Khan will tell a tale to enliven
+    the way.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4343-4347
+  quote_or_summary: When the Khan keeps silent, the Siddhî-kür says that if the Khan
+    wants him to tell one, he should nod backward without opening his lips.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4348-4349
+  quote_or_summary: The Khan nods backward, and the Siddhî-kür begins the tale.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif identification is cautious because
+    this short passage is mainly a frame transition and does not include the tale's
+    main action.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the excerpt itself does not support a specific cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mongol-sagas-from-the-far-east-busk-gutenberg__l4335-l4349
+  passage_sha256=3d509f49aa9463786021181a95b65951e045dc4fa8df101fa07743b6bd37ca91
+

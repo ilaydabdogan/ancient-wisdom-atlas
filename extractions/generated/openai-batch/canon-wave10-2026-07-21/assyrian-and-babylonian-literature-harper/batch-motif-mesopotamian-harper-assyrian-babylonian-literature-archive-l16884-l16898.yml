@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l16884-l16898
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: CONTRACTS / I.    SALES  AND   PURCHASES / SALES   AND   PURCHASES  257 /
+    RENTALS  259; lines 16884-16898
+  start: '16884'
+  end: '16898'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A contract records that Itti-Marduk-balatu, son of Egibi, purchased the
+    crop of a field for the seventh year of Cyrus from Tashmitum-damqat and Nadin-aplu,
+    paid the money into their hands, and had the tablet witnessed, written, and dated
+    at Babylon on Ululu thirteenth. An editorial note classifies the document as intermediate
+    between rental and land sale because the standing crop, rather than the land,
+    is sold.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Itti-Marduk-balatu, son of Egibi, is named as the purchaser.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tashmitum-damqat and Nadin-aplu are named as parties from whom the purchase
+    was made.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The purchased item is the crop of a field for the seventh year of Cyrus.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The purchaser counted out money as the price of the crop into the hands of
+    the sellers.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The tablet includes names of two witnesses and a scribe.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The contract is dated at Babylon, Ululu thirteenth, in the seventh year of
+    Cyrus.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The editorial note states that the contract is intermediate between rental
+    and sale of land because the standing crop is sold.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Itti-Marduk-balatu
+  description: Son of Egibi; the person who made the purchase and paid the money.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Tashmitum-damqat
+  description: Daughter of Shuzubu, son of Shigua; one of the parties receiving payment
+    for the crop.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Nadin-aplu
+  description: Son of Rimut, son of Epish-Ilu; one of the parties receiving payment
+    for the crop.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Cyrus
+  description: Named as King of Babylon and king of countries; his seventh regnal
+    year dates the transaction.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Two witnesses and a scribe
+  description: Unnamed witnesses and scribe whose names are said to follow on the
+    tablet.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: purchaser
+  assigned_to:
+  - fig:1
+  basis: The passage says Itti-Marduk-balatu made a purchase and paid the price.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: sellers or payment recipients
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The purchase is made from Tashmitum-damqat and Nadin-aplu, and the money
+    is counted into their hands.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: regnal dating authority
+  assigned_to:
+  - fig:4
+  basis: The crop and tablet date are specified by the seventh year of Cyrus, King
+    of Babylon.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: contract attestation personnel
+  assigned_to:
+  - fig:5
+  basis: The tablet is said to include two witnesses and a scribe.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: money as purchase price
+  literal_form: money counted into the hands of the sellers
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: standing crop of a field
+  literal_form: crop of that field for the seventh year of Cyrus
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: contract tablet
+  literal_form: tablet dated at Babylon with witnesses and a scribe
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Babylon date formula
+  literal_form: Babylon, Ululu thirteenth, the seventh year of Cyrus
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Purchase and payment for a field crop
+  summary: Itti-Marduk-balatu purchases the crop of a field for the seventh year of
+    Cyrus from Tashmitum-damqat and Nadin-aplu and pays the price in money.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Contract attestation and dating
+  summary: The document is said to include two witnesses and a scribe and is dated
+    at Babylon on Ululu thirteenth in the seventh year of Cyrus.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Editorial classification of contract type
+  summary: An editorial note explains that this contract stands between rental and
+    land sale because the standing crop itself is sold.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16884-16888
+  quote_or_summary: Itti-Marduk-balatu, son of Egibi, is described as making a purchase
+    from Tashmitum-damqat and Nadin-aplu, whose family relationships are also given.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 16888-16893
+  quote_or_summary: Itti-Marduk-balatu counts the money, identified as the price of
+    the crop of a field for the seventh year of Cyrus, into the hands of Tashmitum-damqat
+    and Nadin-aplu.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 16893-16896
+  quote_or_summary: The names of two witnesses and a scribe follow, and the tablet
+    is dated at Babylon, Ululu thirteenth, in the seventh year of Cyrus.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 16897-16898
+  quote_or_summary: An editorial note says the contract is intermediate between rental
+    and land sale because the standing crop is sold.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a legal contract rather than a mythological narrative. Extraction
+    of names, transaction roles, objects, and date is straightforward; no supported
+    mythological motif or comparison claim is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif or symbol is directly supported by this passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l16884-l16898
+  passage_sha256=cdfa00593d49eef9c8853eda82b7175bed4d4e2a27a51f5abcdfea8911df22a9
+

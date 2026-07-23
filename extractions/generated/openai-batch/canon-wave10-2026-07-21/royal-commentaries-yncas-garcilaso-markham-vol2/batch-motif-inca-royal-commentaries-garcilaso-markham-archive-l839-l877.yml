@@ -1,0 +1,399 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l839-l877
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: FIFTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. / FIFTH  BOOK  OF  THE  ROYAL
+    / CHAPTER  IV.; lines 839-877
+  start: '839'
+  end: '877'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: In districts with scarce irrigation water, water was distributed by fixed
+    rule and measured time. In dry years the State supplied measured water; each cultivator
+    received the hours needed for his land, in turn, without preference for wealth,
+    rank, kinship, Curacas, ministers, or governors. A person who failed to irrigate
+    within the allotted time was punished by blows with a stone or flogging with osier
+    wands, and idle men were called Mizqui-tullu, meaning “sweet bones.” A footnote
+    compares this with timed irrigation rules in Spanish valleys.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Where irrigation water was limited, it was distributed by fixed rule and measurement.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In years of little rain, the State supplied measured water, using experience
+    of how much time was needed to irrigate a fanegada of land.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Each Indian received a flow of water for the number of hours needed to irrigate
+    his land.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Water was received by turns, one after another, with no preference for the
+    rich, noble, kin of a Curaca, Curaca, minister, or Governor.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that Indians had no disputes about the measured distribution
+    of water.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: A person who failed to irrigate his land within the allotted time was severely
+    punished.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Punishment could consist of three or four blows across the shoulders with
+    a stone or flogging over the arms and legs with osier wands.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Idle men were called Mizqui-tullu, translated as “sweet bones.”
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A footnote says Spanish Moorish irrigation rules varied by valley; Elche sold
+    timed water rights daily, while Novelda used water turns compared to Peru.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: State
+  description: The authority said to supply water in years of little rain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Each Indian / cultivator
+  description: Recipient of measured irrigation water for the number of hours needed
+    to irrigate his land.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Rich, noble, or relation of a Curaca
+  description: High-status recipients named among those who received no preference
+    in water distribution.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Curaca
+  description: Named status-holder included among those who received no preference
+    in the water turns.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Minister or Governor
+  description: Officials named among those who received no preference in the water
+    turns.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Negligent irrigator / idle man
+  description: A person who failed to irrigate within the allotted time and could
+    be punished; idle men were called Mizqui-tullu.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Proprietor at Novelda
+  description: In the footnote, each proprietor at Novelda is said to have a turn
+    of water that he may use or sell.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: water-supplying authority
+  assigned_to:
+  - fig:1
+  basis: The State supplied water in years when there was little rain.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: measured-turn water recipient
+  assigned_to:
+  - fig:2
+  - fig:7
+  basis: The main passage says each Indian received measured hours of water; the footnote
+    says each proprietor at Novelda had a turn of water.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:3
+  label: status figure without allocation preference
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage lists rich, noble, Curaca-related, Curaca, ministerial, and gubernatorial
+    persons as receiving no preference.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: punished negligent or idle cultivator
+  assigned_to:
+  - fig:6
+  basis: Failure to irrigate within the allotted time brought corporal punishment,
+    and idle men were stigmatized by name.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: irrigation water
+  literal_form: Limited water for irrigation, supplied and distributed by measured
+    turns.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: measured time and turn
+  literal_form: Number of hours, allotted time, and sequence of turns used to distribute
+    water.
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: punishment stone
+  literal_form: A stone used for three or four blows across the shoulders.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: osier wands
+  literal_form: Ozier wands used for flogging over the arms and legs.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Mizqui-tullu / sweet bones
+  literal_form: A name for idle men, explained as composed of words meaning “sweet”
+    and “bone.”
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Measured allocation of scarce irrigation water
+  summary: In districts with limited irrigation supplies, water is distributed by
+    fixed rule and measurement, especially in years of little rain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Turn-taking without status preference
+  summary: Recipients take water one after another by turn, and persons of wealth,
+    rank, kinship, or office receive no preference.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Punishment and naming of idle cultivators
+  summary: A cultivator who fails to irrigate in the allotted time is punished by
+    blows or flogging; idle men are called Mizqui-tullu, “sweet bones.”
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Footnote comparison with Spanish irrigation valleys
+  summary: The footnote compares Peruvian turn-based irrigation with practices in
+    Spanish valleys, distinguishing Elche’s daily sale of timed water rights from
+    Novelda’s turn system.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: measured turn-taking for scarce irrigation water
+  taxonomy_refs: []
+  basis: Water is distributed by fixed rule, measured time, and turns according to
+    the irrigation needs of each plot.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an administrative pattern in the passage, not an explicitly mythic
+    or sacred motif.
+- id: motif:2
+  label: impartial resource allocation across social rank
+  taxonomy_refs: []
+  basis: The passage emphasizes that rich, noble, Curaca-related, Curaca, ministerial,
+    and gubernatorial persons received no preference in water turns.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supernatural or ritual rationale is stated; the passage presents a
+    social rule.
+- id: motif:3
+  label: punishment of idleness through corporal discipline
+  taxonomy_refs: []
+  basis: A person who neglected irrigation within the allotted time was punished with
+    stone blows or osier-wand flogging, and idleness was despised.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage describes punishment policy and stigma, not a mythic ordeal.
+- id: motif:4
+  label: stigmatizing epithet for idleness
+  taxonomy_refs: []
+  basis: Idle men are given the named epithet Mizqui-tullu, glossed as “sweet bones.”
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The symbolic force of the phrase is not explained beyond its literal translation.
+comparison_claims:
+- id: claim:1
+  claim: The footnote supports a functional comparison between Peruvian turn-based
+    irrigation and Novelda’s turn-of-water system, while noting that Spanish Moorish
+    irrigation rules varied by valley and that Elche used daily sales of timed water
+    rights.
+  claim_level: same_function
+  target: Spanish Moorish irrigation rules, especially Novelda and Elche
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:6
+  confidence: high
+  limitations: The comparison is limited to irrigation administration; it does not
+    establish historical contact, common inheritance, or a shared mythological motif.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 849-854
+  quote_or_summary: "“limited supplies of water for irrigation” were “distributed
+    by fixed rule and measurement”; there were “no disputes.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 854-859
+  quote_or_summary: In years of little rain, the State supplied measured water; experience
+    determined the time needed to irrigate one fanegada, and each Indian received
+    enough hours for his land.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 859-863
+  quote_or_summary: Water was received by turns, one after another; rich people, nobles,
+    relations of Curacas, Curacas, ministers, and governors received no preference.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 863-867
+  quote_or_summary: Anyone who neglected irrigation within the allotted time was punished
+    with blows across the shoulders using a stone or flogged on arms and legs with
+    osier wands.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 867-870
+  quote_or_summary: "“They called these idle men Mizqui-tullu,” meaning “sweet bones.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 872-877
+  quote_or_summary: 'The footnote says Moorish irrigation rules in Spain differed
+    by valley: Elche sold daily timed water rights, while Novelda, “as in Peru,” gave
+    each proprietor a turn of water that he could use or sell.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal administrative details are explicit. Motif candidates are marked
+    with caution because the passage is socio-historical and does not state mythic,
+    sacred, or supernatural meanings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available motif-family taxonomy reference was assigned, because the passage does not explicitly support one. The available symbol taxonomy reference “water” was assigned to the literal irrigation water.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l839-l877
+  passage_sha256=bd32affb166496540a476999a67028e881cb53722cbc8d74c69851af89e8cee8
+

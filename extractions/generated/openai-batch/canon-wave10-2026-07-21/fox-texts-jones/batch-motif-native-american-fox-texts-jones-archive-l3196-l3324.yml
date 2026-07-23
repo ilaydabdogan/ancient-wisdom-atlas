@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.native-american-fox-texts-jones-archive-l3196-l3324
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+passage_locator:
+  label: CONSONANTS. / VOWELS. / DIPHTHONGS. / AND FOR THAT REASON DROWNS HER DAUGHTER.1;
+    lines 3196-3324
+  start: '3196'
+  end: '3324'
+  translation: Fox Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A male figure continues walking, repeatedly bumping into trees and asking
+    each tree, addressed as grandfather, what kind it is and how far it is to the
+    river. The trees identify themselves as elm, hard maple, cottonwood, sycamore,
+    and willow, and their answers place the traveler progressively nearer to the river.
+    After the willow says that another step will put him into the water, he repeatedly
+    asks how deep he is, calling himself Wolf, while replies mark the water rising
+    from his ankles to his mouth. A mink then goes down into the water with him, and
+    the story ends.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A walking figure repeatedly bumps against trees, stops, and asks what kind
+    of tree each is, addressing the tree as grandfather.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: The elm identifies itself and tells the questioner that he has almost reached
+    the river.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The hard maple identifies itself and says it stays on top of the hill, with
+    the river not far away.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The cottonwood, sycamore, and willow each answer the questioner and describe
+    his increasing nearness to the river or water.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: After the willow says another step will lead into the water, the figure asks
+    repeatedly how deep he is, using the phrase “Wolf that I am.”
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: The replies to the depth questions mark the water rising by body levels from
+    ankles through knees, hips, navel, nipples, throat, chin, and mouth.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A mink goes down into the water with the figure, after which the story ends.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: walking figure who calls himself Wolf
+  description: A male figure who walks toward the river, questions the trees, enters
+    the water, and repeatedly asks how deep he is while saying “Wolf that I am.”
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: elm
+  description: A speaking tree addressed as grandfather; it identifies itself as an
+    elm and says the river is almost reached.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: hard maple
+  description: A speaking tree addressed as grandfather; it identifies itself as a
+    hard maple and says it stays on top of the hill near the river.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: cottonwood
+  description: A speaking tree addressed as grandfather; it identifies itself as a
+    cottonwood and says it lives halfway down the hill, not far from the river.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: sycamore
+  description: A speaking tree that identifies itself as a sycamore and tells the
+    questioner that only a few more steps remain before the river.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: willow
+  description: A speaking tree that identifies itself as a willow and tells the questioner
+    that one more step will put him into the water.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: mink
+  description: A mink that goes down into the water with the walking figure near the
+    end of the passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: walking questioner
+  assigned_to:
+  - fig:1
+  basis: The figure walks, bumps against trees, and asks their kind and the distance
+    to the river.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: speaking tree respondent
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Each tree answers questions about its identity and the distance or relation
+    to the river.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: submerging questioner
+  assigned_to:
+  - fig:1
+  basis: After entering the water, the figure repeatedly asks how deep he is while
+    the stated depth rises to his mouth.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: last tree before water
+  assigned_to:
+  - fig:6
+  basis: The willow states that one more step will bring the questioner into the water.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: mink entering water with him
+  assigned_to:
+  - fig:7
+  basis: The mink goes down into the water with the other figure.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: speaking trees
+  literal_form: elm, hard maple, cottonwood, sycamore, and willow encountered on the
+    way to the river
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: river water
+  literal_form: the river and the water into which the figure steps and descends
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: questioning trees on the way to the river
+  summary: The walking figure bumps into successive trees, asks each one its kind
+    and the distance to the river, and receives answers that place him progressively
+    nearer to the water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: progressive immersion
+  summary: After being told that another step leads into the water, the figure asks
+    how deep he is, and the replies describe the water level rising from ankles to
+    mouth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: mink goes down with him
+  summary: A mink goes down into the water with the figure, and the story ends.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: speaking trees as waymarkers to water
+  taxonomy_refs: []
+  basis: The tree figures speak, identify themselves, and provide staged information
+    about the questioner’s distance from the river.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives no explicit symbolic explanation for the trees; the
+    motif label describes the repeated narrative function only.
+- id: motif:2
+  label: progressive submersion measured by body parts
+  taxonomy_refs: []
+  basis: The water depth is described through a repeated question-and-answer sequence
+    that moves from ankles to mouth.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The larger narrative context and outcome beyond the phrase “went down
+    into the water” are not supplied in this excerpt.
+- id: motif:3
+  label: animal going down into water with another figure
+  taxonomy_refs: []
+  basis: At the end of the passage, a mink goes down into the water with the figure
+    who has been progressively submerged.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The mink’s motive and relationship to the other figure are not explained
+    in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3196-3324, elm exchange
+  quote_or_summary: The walker bumps against a tree, asks what kind it is and how
+    far the river is, and the tree answers that it is an elm and that he has almost
+    arrived at the river.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 3196-3324, hard maple exchange
+  quote_or_summary: The next speaking tree identifies itself as a hard maple and says
+    it stays on top of the hill, with the river not far away.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 3196-3324, cottonwood and sycamore exchanges
+  quote_or_summary: The cottonwood says it lives halfway down the hill and the river
+    is not far; the sycamore says only a few more steps remain.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 3196-3324, willow exchange
+  quote_or_summary: "“I am a willow.” The answer continues that if he starts and takes
+    another step, he will walk into the water."
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; short quotation and summary used.
+- id: ev:5
+  type: summary
+  locator: lines 3196-3324, water-depth refrain
+  quote_or_summary: 'The figure repeatedly asks, “How deep in the water am I, Wolf
+    that I am?” and the responses give rising depths: ankles, knees, hips, fork/opening,
+    navel, nipples, throat, chin, and mouth.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; concise summary with brief repeated phrase used.
+- id: ev:6
+  type: quote
+  locator: lines 3196-3324, closing action
+  quote_or_summary: "“A mink then went down into the water with him. That is the end
+    (of the story).”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main repeated sequence is clear, but the passage is typographically fragmented
+    and the antecedent of the walking figure lies outside the excerpt. No comparison
+    claims were generated because the passage itself does not explicitly support a
+    cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Intrusive footnotes and the following raccoon story heading occur in the supplied range but were not treated as part of the extracted scene sequence.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-fox-texts-jones-archive__l3196-l3324
+  passage_sha256=5d56f7a3e380ed40a01296fd2d117c79db247a3df891192eed099530752e8e4d
+

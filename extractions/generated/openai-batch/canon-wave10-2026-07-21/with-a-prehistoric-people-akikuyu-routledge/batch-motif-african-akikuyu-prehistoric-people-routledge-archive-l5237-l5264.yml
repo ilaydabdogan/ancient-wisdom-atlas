@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.african-akikuyu-prehistoric-people-routledge-archive-l5237-l5264
+source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+passage_locator:
+  label: FOOD  AND  COOKERY / ANIMAL  FOOD / COOKING  FLESH  51 / VEGETABLE  FOODS;
+    lines 5237-5264
+  start: '5237'
+  end: '5264'
+  translation: 'With a Prehistoric People: The Akikuyu of British East Africa'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage lists vegetable foods and preparation methods: arum lily is
+    steamed or boiled and valued as a reserve crop; sweet potato tubers are boiled
+    or roasted on embers and the foliage feeds livestock; sugar cane preparation begins
+    with removal of the outer coat.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage introduces a list of vegetable produce on which the people subsist
+    and the ways it is prepared for food.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Arum lily is gathered, packed into a tall jar, boiled and steamed, with green
+    leaves placed over the pot mouth to retain steam; its tubers are boiled.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Arum lily is largely grown but not especially appreciated; its stated value
+    is as a stand-by when other crops fail.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Sweet potato tubers are boiled or roasted on embers, and the crop is described
+    as much liked and universally grown.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Sweet potato foliage is described as important fodder for fattening stalled
+    rams and for milch goats.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Sugar cane preparation begins by shaving off the hard outer coat of the stem
+    with a sword or tearing it off with the teeth.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the people described
+  description: The people are described as subsisting on forms of vegetable produce
+    prepared for food.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: stalled rams
+  description: Stalled rams are mentioned as livestock fattened with sweet potato
+    foliage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: milch goats
+  description: Milch goats are mentioned as livestock for which sweet potato foliage
+    is important fodder.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: vegetable-food consumers and preparers
+  assigned_to:
+  - fig:1
+  basis: The passage states that the people subsist on vegetable produce and describes
+    preparation methods.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: livestock fed with sweet potato foliage
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Sweet potato foliage is said to serve as fodder for stalled rams and milch
+    goats.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: arum lily
+  literal_form: Arum lily plant, tubers, and green leaves used in cooking preparation.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: covered steaming pot
+  literal_form: Tall jar or pot whose mouth is closed with green leaves to keep in
+    steam.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sweet potato
+  literal_form: Sweet potato tubers boiled or roasted, with foliage used as fodder.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: embers
+  literal_form: Embers used for roasting sweet potato tubers.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sugar cane stem
+  literal_form: Sugar cane stem with a hard outer coat removed by sword or teeth.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: sword
+  literal_form: Sword used to shave the hard outer coat from sugar cane.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Vegetable-food list introduced
+  summary: The passage frames the section as a list of vegetable produce and preparation
+    methods.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arum lily preparation and reserve use
+  summary: Arum lily is steamed or boiled in a covered vessel, and its importance
+    is connected to crop-failure reserve use.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Sweet potato food and fodder use
+  summary: Sweet potato tubers are boiled or roasted on embers, and the foliage is
+    used to feed rams and goats.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Sugar cane outer coat removed
+  summary: Sugar cane preparation begins with removing the hard outer coat of the
+    stem by sword or teeth.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: reserve crop for crop failure
+  taxonomy_refs: []
+  basis: Arum lily is valued chiefly as a stand-by in the event that other crops fail.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic subsistence pattern in the passage, not a mythological
+    motif from the supplied taxonomy.
+- id: motif:2
+  label: vegetable food prepared by steaming, boiling, and roasting on embers
+  taxonomy_refs: []
+  basis: The passage describes arum lily as boiled or steamed in a covered pot and
+    sweet potato tubers as boiled or roasted on embers.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a practical food-preparation pattern rather than a symbolic or
+    narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5237-5241
+  quote_or_summary: The section introduces a fairly exhaustive list of vegetable produce
+    on which the people subsist and how it is prepared for food.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5242-5250, Arum Lily subsection
+  quote_or_summary: Arum lily is gathered and prepared like celery, packed into a
+    tall jar, boiled and steamed, with green leaves over the pot mouth to keep in
+    steam; the tubers are boiled.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5250-5254, Arum Lily subsection
+  quote_or_summary: Arum lily is largely grown, not especially appreciated, and valued
+    as a stand-by if other crops fail.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5255-5259, Sweet Potato subsection
+  quote_or_summary: Sweet potato tubers are boiled or roasted on embers; the food
+    is much liked and universally grown.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5259-5261, Sweet Potato subsection
+  quote_or_summary: Sweet potato foliage is important fodder for fattening stalled
+    rams and for milch goats.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5262-5264, Sugar Cane subsection
+  quote_or_summary: The hard outer coat of a sugar cane stem is removed with a sword
+    or by tearing it off with the teeth; the excerpt ends mid-description.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal ethnographic extraction is straightforward. Motif candidates are
+    treated as practical patterns rather than mythological motifs; no comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The supplied passage is ethnographic and practical, with no explicit mythological narrative or supported cross-tradition comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-akikuyu-prehistoric-people-routledge-archive__l5237-l5264
+  passage_sha256=888c116cfc302c897bd1ec62c09a41f31b9d519e2be8c4f768cef300b34f9a2d
+

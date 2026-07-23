@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l27542-l27590
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: CEREMONIAL / THEATRICAL  EXHIBITIONS / TUNES / THEATRICAL  EXHIBITIONS; lines
+    27542-27590
+  start: '27542'
+  end: '27590'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“Wayang Kulit, or leather puppets.”"
+  summary: The passage describes Malay theatrical exhibitions, especially Mayong and
+    Wayang Kulit shadow-play. It notes masks and a forest demon accessory, explains
+    the shadow-play shed, screen, audience arrangement, leather puppet construction,
+    possible Hindu and Javanese connection, and a Kuda Sembrani magic horse used in
+    shadow-play.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Costumes of performers vary according to the subject matter of the dramatic
+    exhibition.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Clown masks and the forest demon called hantu hutan are presented as examples
+    of theatrical accessories.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Mayong is described as a typical Malay theatrical representation, while Shadow-Play
+    or Wayang is described as another characteristic performance.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Wayang Kulit is performed in a rough shed with a raised floor, three enclosed
+    sides, an open front, and a white sheet stretched across the opening.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The shadows of the puppets are thrown onto the white sheet and viewed by the
+    audience, who sit or stand in the open air.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The puppet figures are made of buffalo hide, have movable arms, and are moved
+    by attached slips of wood.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage states that the shadow-play appears to be of Hindu origin because
+    the figures resemble representations of Hindu gods and goddesses, and that it
+    was probably obtained from Java.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A plate caption identifies Kuda Sembrani as a magic flying horse used in the
+    shadow-play by ’Che ‘Abas, able to swim through water as well as fly through air.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: performers
+  description: Performers in Malay dramatic exhibitions whose costumes vary with the
+    represented subject matter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: audience
+  description: Viewers who sit or stand in the open air and see the puppet shadows
+    on the white sheet.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Wayang Kulit puppet figures
+  description: Buffalo-hide figures with movable arms, manipulated by slips of wood
+    so that their shadows appear on the screen.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: forest demon / hantu hutan
+  description: A forest demon mentioned as an illustrated specimen of theatrical accessory
+    along with clown masks.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Kuda Sembrani
+  description: A magic flying horse used in the shadow-play by ’Che ‘Abas, said to
+    swim through water and fly through air.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: theatrical performer
+  assigned_to:
+  - fig:1
+  basis: The passage refers to performers and their costumes in dramatic exhibitions.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: spectator
+  assigned_to:
+  - fig:2
+  basis: The audience watches the puppet shadows from the open air.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: shadow-play puppet figure
+  assigned_to:
+  - fig:3
+  basis: The figures are leather puppets whose shadows are cast on the sheet.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: demonic theatrical accessory or figure
+  assigned_to:
+  - fig:4
+  basis: The forest demon hantu hutan is named as an illustrated accessory in use.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: magic horse figure
+  assigned_to:
+  - fig:5
+  basis: The caption calls Kuda Sembrani a magic flying horse used in the shadow-play.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: white shadow screen
+  literal_form: white sheet stretched across the shed opening
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: leather puppet
+  literal_form: buffalo-hide puppet figure with movable arms
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: mask and demon accessory
+  literal_form: clown masks and forest demon hantu hutan accessory
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: magic flying horse
+  literal_form: Kuda Sembrani shadow-play horse
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: water traversed by magic horse
+  literal_form: water
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Theatrical accessories and costumes
+  summary: The passage introduces Malay theatrical exhibitions by noting that performers’
+    costumes vary and that clown masks and a forest demon accessory illustrate some
+    objects in use.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wayang Kulit performance setting
+  summary: The shadow-play is performed in a rough raised shed with an open front,
+    where a white sheet receives the puppet shadows seen by the outdoor audience.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Manipulation of leather puppets
+  summary: The puppet figures are made of buffalo hide, have movable arms, and are
+    moved by wooden slips; domestic scenes are exhibited in play form.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Kuda Sembrani in shadow-play
+  summary: The plate caption identifies a magic horse used in shadow-play, said to
+    move through both water and air.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: shadow-play with leather figures projected on a screen
+  taxonomy_refs: []
+  basis: The passage describes Wayang Kulit as leather puppets whose shadows are thrown
+    onto a white sheet for an audience.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a performance pattern rather than a full narrative myth motif
+    in the passage.
+- id: motif:2
+  label: demonic or masked theatrical accessory
+  taxonomy_refs: []
+  basis: The passage names clown masks and a forest demon, hantu hutan, as specimens
+    of theatrical accessories.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: No narrative action involving the demon or masks is given in this passage.
+- id: motif:3
+  label: magic horse crossing air and water
+  taxonomy_refs: []
+  basis: Kuda Sembrani is called a magic flying horse and is said to swim through
+    water as well as fly through air.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives only a plate caption and does not describe a story episode
+    involving the horse.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously links Wayang Kulit to Hindu and Javanese traditions,
+    saying the figures resemble representations of Hindu gods and goddesses and that
+    the show was probably obtained from Java.
+  claim_level: historical_contact
+  target: Hindu iconographic tradition of India and Java-associated shadow-play tradition
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports an authorial inference and gives no specific named
+    puppet figures, texts, or transmission history.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 27542-27553
+  quote_or_summary: The passage states that performers’ costumes vary by subject matter
+    and mentions clown masks and the forest demon hantu hutan as accessory specimens.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 27554-27560
+  quote_or_summary: Mayong is described as a typical Malay theatrical representation,
+    and Shadow-Play or Wayang as another characteristic performance whose name is
+    also used broadly for theatrical exhibitions.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 27561-27572
+  quote_or_summary: Wayang Kulit is described as leather puppets performed in a raised
+    rough shed with three enclosed sides, an open front, and a white sheet on which
+    shadows are thrown for an outdoor audience.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 27573-27579
+  quote_or_summary: The passage says the show seems to be of Hindu origin because
+    the figures resemble Hindu gods and goddesses, and that it was probably obtained
+    from Java.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 27580-27589
+  quote_or_summary: The figures are made of buffalo hide; only their arms are movable;
+    slips of wood move them; various domestic scenes are exhibited in play form.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: quote
+  locator: Plate 22 within 27542-27590
+  quote_or_summary: "“Magic flying horse {kuda sembrani) used in the shadow-play by
+    ’Che ‘Abas. It is said to be able to swim through the water as well as to fly
+    through the air.”"
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; brief quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is descriptive and concrete, but most motif candidates are performance
+    patterns rather than narrated myth episodes. The historical-contact claim is explicitly
+    stated but remains an authorial inference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No additional taxonomy motif refs were assigned because the available motif-family list does not include a direct shadow-play or magic-horse category.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l27542-l27590
+  passage_sha256=22f254749d2ff0fb90879fea0bd7f263cb1a5cde7e8d79f2a02021671ab677c9
+

@@ -1,0 +1,431 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l18211-l18249
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: OF  THE  EMERALDS,  TORQUOISES,  AND  PEARLS. / EIGHTH  BOOK  OF  THE  ROYAL
+    / COMMENTARIES  OF  THE  YNCAS. / EIGHTH  BOOK  OF  THE  EOYAL; lines 18211-18249
+  start: '18211'
+  end: '18249'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: put out in a heap, as if they were so many seeds
+  summary: 'The narrator offers two anecdotes to support the claim that very large
+    quantities of pearls reached Spain: a large royal pearl auction in Seville, and
+    the rise of a poor young gold worker who became wealthy by trading pearls between
+    Spain and the Indies and gave his wife a pearl-embroidered gown at their marriage.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The narrator says he will add two stories concerning whether the reported
+    quantity of pearls was fabulous.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Around 1564, many pearls arrived for His Majesty and were sold by auction
+    at Seville in a heap compared to seeds.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Seville auction involved high bids, including an outbidding connected
+    with six thousand ducats, and the purchaser expected further profit.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The narrator knew a young man in Spain of humble origin who was skilled in
+    gold work but had no means and worked by the day.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The young man lodged at the same Madrid inn as the narrator, loved chess,
+    and lost his earnings at the game.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The narrator warned the young man that his love of play would bring him into
+    misery.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The young man said his misery could never exceed the time when he entered
+    Madrid on foot with only fourteen maravedís.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: To escape poverty, the young man began traveling to and from the Indies to
+    trade in pearls and acquired more than thirty thousand ducats.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: On his wedding day, the young man gave his wife a black velvet gown embroidered
+    with pearls, with a broad pearl-bordered foreskirt.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: narrator
+  description: First-person speaker who adds the stories, knew the young gold worker
+    and his wife, and warned the young man about gambling.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: His Majesty
+  description: Royal recipient for whom many pearls arrived before they were sold
+    at Seville.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: royal minister
+  description: A royal minister involved in the Seville pearl auction and the six-thousand-ducat
+    outbidding.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: thriving merchant
+  description: A merchant experienced in the pearl trade who made a bid during the
+    Seville auction episode.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: purchaser at the pearl auction
+  description: The person who made the purchase at the pearl auction and expected
+    greater profits from it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: young gold worker and pearl trader
+  description: A young man of humble origin, skilled in gold work, fond of chess,
+    formerly poor, who became wealthy through pearl trade voyages to the Indies.
+  role_refs:
+  - role:5
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: wife of the young pearl trader
+  description: The wife whom the narrator also knew and who received a pearl-embroidered
+    gown on her wedding day.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: first-person anecdote teller
+  assigned_to:
+  - fig:1
+  basis: The speaker introduces the stories and reports personal knowledge of the
+    young man and his wife.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+- id: role:2
+  label: royal recipient of pearls
+  assigned_to:
+  - fig:2
+  basis: Pearls are said to have arrived for His Majesty before their sale at Seville.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: auction participant
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: Both the royal minister and purchaser are described in the Seville pearl
+    auction episode.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: pearl-trade merchant
+  assigned_to:
+  - fig:4
+  basis: The merchant is described as thriving and knowledgeable because he dealt
+    in pearls.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: poor artisan
+  assigned_to:
+  - fig:6
+  basis: The young man is described as of humble origin, skilled in gold work, without
+    means, and working by the day.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: chess player and gambler
+  assigned_to:
+  - fig:6
+  basis: He was passionately fond of chess and lost his trade earnings at the game.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: successful pearl trader
+  assigned_to:
+  - fig:6
+  basis: He traveled to and from the Indies to trade pearls and acquired more than
+    thirty thousand ducats.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: bride and recipient of pearl gift
+  assigned_to:
+  - fig:7
+  basis: On the day of the young man's nuptials, he presented his wife with a pearl-embroidered
+    gown.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: pearls
+  literal_form: Pearls sold in bulk at Seville and traded between Spain and the Indies.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: ducats and maravedís
+  literal_form: Money amounts including six thousand ducats, fourteen maravedís, and
+    more than thirty thousand ducats.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: chess
+  literal_form: The game at which the young gold worker lost his earnings.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: pearl-embroidered gown
+  literal_form: A black velvet gown embroidered with pearls and a broad pearl border
+    on the foreskirt.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: introduction of pearl anecdotes
+  summary: The narrator frames the following material as two stories about the large
+    quantity of pearls.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Seville pearl auction
+  summary: A large heap of pearls that arrived for His Majesty is auctioned at Seville,
+    with high bidding and expected profits.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Madrid inn and chess losses
+  summary: The narrator knows a poor young gold worker in Madrid who loves chess,
+    loses his earnings, and is warned against play.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: pearl trade voyages to the Indies
+  summary: The young man begins voyages to and from the Indies to trade pearls and
+    accumulates substantial wealth.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: wedding gift of pearl-embroidered gown
+  summary: At his nuptials, the successful trader gives his wife a black velvet gown
+    embroidered with pearls.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: extraordinary abundance of precious pearls
+  taxonomy_refs: []
+  basis: The passage emphasizes that pearls arrived in such quantity that they were
+    heaped like seeds and sold by auction.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a historical-economic anecdote rather than an explicitly mythic
+    motif.
+- id: motif:2
+  label: poverty to wealth through long-distance pearl trade
+  taxonomy_refs: []
+  basis: The young gold worker begins poor, travels to and from the Indies to trade
+    pearls, and gains more than thirty thousand ducats.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage presents this as remembered social history, not as a sacred
+    or heroic transformation.
+- id: motif:3
+  label: marital display of wealth through pearl adornment
+  taxonomy_refs: []
+  basis: The successful trader gives his wife a black velvet gown embroidered with
+    pearls on their wedding day.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage does not mark the gift as sacred; it is a literal nuptial
+    gift and wealth display.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18211-18215
+  quote_or_summary: The narrator says he will add two stories about the quantity of
+    pearls being called fabulous.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: quote
+  locator: 18215-18220
+  quote_or_summary: In about 1564, many pearls arrived for His Majesty and were sold
+    at Seville, “put out in a heap, as if they were so many seeds.”
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 18220-18232
+  quote_or_summary: The pearl auction involved high bidding, a royal minister, a merchant
+    experienced in pearls, an outbidding connected with six thousand ducats, and a
+    purchaser expecting greater profits.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 18233-18237
+  quote_or_summary: The narrator knew a young man in Spain of humble origin who was
+    a good worker in gold, had no means, and worked by the day.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: 18237-18242
+  quote_or_summary: In Madrid in 1562-3, the young man lodged at the same inn as the
+    narrator, loved chess, lost his earnings at it, and was warned by the narrator
+    that play would bring misery.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: 18242-18245
+  quote_or_summary: The young man said his misery could never be greater than when
+    he entered the city on foot with only fourteen maravedís.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: 18245-18248
+  quote_or_summary: To escape poverty, the young man began going to the Indies and
+    back to trade in pearls, and acquired more than thirty thousand ducats.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:8
+  type: summary
+  locator: 18248-18249
+  quote_or_summary: On his wedding day, the young man presented his wife with a black
+    velvet gown embroidered with pearls and a broad pearl border.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear as a historical anecdote about pearl abundance, trade,
+    and wealth display. Motif labels are descriptive and non-taxonomic because no
+    explicit mythic or sacred pattern is stated. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy symbol refs apply directly to pearls, money, chess, or clothing; no comparative claims were supported by the passage itself.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l18211-l18249
+  passage_sha256=82386816e644d912a9d3bc9a8eac54d7b407a0800677bafd5f96676df909a706
+

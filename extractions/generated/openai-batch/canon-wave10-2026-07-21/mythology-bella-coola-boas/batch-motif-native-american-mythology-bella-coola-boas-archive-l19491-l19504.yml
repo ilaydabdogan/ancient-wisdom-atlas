@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l19491-l19504
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 325 / TEIT, THE THOMPSON
+    INDIANS OF BRITISH COLUMBIA. 327 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA,
+    329 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA, 331; lines 19491-19504
+  start: '19491'
+  end: '19504'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes mourning practices for widows and widowers after
+    a spouse's death, including repeated passage through rosebushes, four days of
+    wandering at evening or daybreak, eye-related rites with fir-twigs and a stone
+    from running water, food and water restrictions involving sharp sticks and fire,
+    a mourning head-band, and the beginning of a year-long sleeping restriction on
+    fir-branches.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: On the death of a husband or wife, the surviving spouse went out at once and
+    passed through a patch of rosebushes four times.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: For four days after the death, the surviving spouse wandered during the evening
+    hours or at daybreak.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The mourner wiped their eyes with fir-twigs, hung the twigs in tree branches,
+    and prayed to the Dawn.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mourner rubbed a small smooth stone taken from beneath running water four
+    times across their eyes, threw it away, and prayed not to become blind.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: During the first four days, the mourner was not to touch food, ate with sharp-pointed
+    sticks, and spat the first four mouthfuls of each meal and the first four of water
+    into the fire.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Immediately after the death of the spouse, the mourner put on a narrow head-band
+    made from the bark of Zleagnus argentea Pursh; the passage notes that a narrow
+    white handkerchief is now used instead.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: For a year the mourner had to sleep on a bed made of fir-branches; the provided
+    passage cuts off after this statement begins.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Widows or widowers
+  description: Surviving spouses who perform the mourning practices after the death
+    of their husbands or wives.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Deceased husbands or wives
+  description: The dead spouses whose deaths occasion the described practices.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Dawn
+  description: Named as the addressee of prayer while the mourner wipes their eyes
+    with fir-twigs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: mourning surviving spouse
+  assigned_to:
+  - fig:1
+  basis: The passage states that widows or widowers perform the described acts after
+    the death of a husband or wife.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: deceased spouse
+  assigned_to:
+  - fig:2
+  basis: The death of a husband or wife is the event that initiates the mourning practices.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: recipient of prayer
+  assigned_to:
+  - fig:3
+  basis: The passage states that mourners prayed to the Dawn while performing the
+    eye-wiping rite.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: rosebush patch
+  literal_form: A patch of rosebushes through which the mourner passes four times.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fourfold repetition
+  literal_form: Four passages through rosebushes, four days of rites, four rubbings
+    across the eyes, and four initial portions of food and water.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: fir-twigs and fir-branches
+  literal_form: Fir-twigs used to wipe the eyes and fir-branches used for a bed.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: tree branches
+  literal_form: Branches of trees in which the mourner hangs the fir-twigs.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Dawn
+  literal_form: The Dawn, addressed in prayer during the eye-wiping rite.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: smooth stone from running water
+  literal_form: A small smooth stone taken from beneath running water, rubbed across
+    the eyes and thrown away.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: fire
+  literal_form: Fire into which the mourner spits the first four mouthfuls of each
+    meal and the first four of water.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: mourning head-band
+  literal_form: A narrow head-band made of bark of Zleagnus argentea Pursh, later
+    replaced by a narrow white handkerchief.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Immediate passage through rosebushes
+  summary: After the death of a spouse, the widow or widower goes out immediately
+    and passes through a rosebush patch four times.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Four-day eye and dawn rites
+  summary: For four days the mourner wanders at evening or daybreak, wipes the eyes
+    with fir-twigs, hangs the twigs in tree branches, prays to the Dawn, and performs
+    a second eye rite with a stone from running water.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Food and water restrictions
+  summary: During the first four days, the mourner avoids touching food, eats with
+    sharp-pointed sticks, and spits specified first portions of food and water into
+    fire.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Mourning dress and sleeping restriction
+  summary: The mourner dons a narrow bark head-band immediately after the spouse's
+    death, with a white handkerchief noted as a later substitute, and is said to sleep
+    for a year on a bed of fir-branches.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: spousal mourning rite after death
+  taxonomy_refs: []
+  basis: The passage presents a sequence of prescribed acts for widows or widowers
+    following the death of a husband or wife.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is descriptive and ritual-focused; it does not narrate a mythic
+    plot.
+- id: motif:2
+  label: fourfold ritual repetition
+  taxonomy_refs: []
+  basis: The number four recurs in passing through rosebushes, the duration of the
+    initial mourning period, rubbing the stone across the eyes, and the first portions
+    of food and water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain the meaning of the number four.
+- id: motif:3
+  label: ritual protection of sight in mourning
+  taxonomy_refs: []
+  basis: The mourner performs eye-related acts with fir-twigs and a stone from running
+    water and prays not to become blind.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The exact addressee of the prayer not to become blind is not specified
+    in the provided passage.
+- id: motif:4
+  label: mourning food-contact taboo and disposal into fire
+  taxonomy_refs: []
+  basis: The passage states that during the first four days mourners must not touch
+    food, must eat with sharp-pointed sticks, and must spit the first portions of
+    food and water into fire.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not state whether the spitting into fire is an offering,
+    purification, or another ritual function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19491-19492
+  quote_or_summary: Widows or widowers, after the death of a spouse, go out at once
+    and pass through a patch of rosebushes four times.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 19492-19495
+  quote_or_summary: For four days after the death, mourners wander at evening or daybreak,
+    wipe their eyes with fir-twigs, hang the twigs in tree branches, and pray to the
+    Dawn.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 19495-19497
+  quote_or_summary: Mourners rub a small smooth stone taken from beneath running water
+    across their eyes four times, throw it away, and pray not to become blind.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 19497-19500
+  quote_or_summary: For the first four days, mourners do not touch food, eat with
+    sharp-pointed sticks, and spit the first four mouthfuls of food and water into
+    the fire.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 19500-19503
+  quote_or_summary: Immediately after the death of a spouse, mourners wear a narrow
+    head-band made of bark of Zleagnus argentea Pursh; the passage notes that a narrow
+    white handkerchief is now used instead.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: line 19504
+  quote_or_summary: The passage begins a statement that for a year mourners had to
+    sleep on a bed made of fir-branches; the provided excerpt is truncated at this
+    point.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the provided English passage. Motif labels
+    are descriptive rather than mapped to major taxonomy families because the passage
+    provides ritual description without broader mythic interpretation. No comparison
+    claims are made because the passage itself does not compare these rites with other
+    traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The provided passage is a ritual description and ends mid-sentence after introducing a one-year sleeping restriction.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l19491-l19504
+  passage_sha256=c8257a4529faa72050a622fa4127015c1ce24ace568e3e5b48c4b70a73ad57fb
+

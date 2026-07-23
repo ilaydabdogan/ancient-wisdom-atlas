@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l6211-l6222
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: INSCRIPTION   OF   SHALMANESER   II / INSCRIPTION   OF   SHALMANESER   II  41
+    / INSCRIPTION   OF   SHALMANESER   II  43 / INSCRIPTION   OF   SHAMSHI-RAMMAN  45;
+    lines 6211-6222
+  start: '6211'
+  end: '6222'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: In a royal inscription, the first-person speaker reports taking an opponent's
+    camp baggage, pursuing him to Damascus, destroying parks and cities, burning cities
+    with fire, carrying away spoil, reaching mountains by the sea, setting up a royal
+    image, and receiving tribute from Tyrians, Sidonians, and Jehu son of Omri.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first-person speaker says he took camp baggage away from an unnamed opponent.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The opponent retreated to save his life; the speaker followed and shut him
+    up in Damascus, described as the opponent's royal city.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The speaker cut down the opponent's parks and went as far as the mountains
+    of the Hauran.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says he destroyed, devastated, and burned numberless cities with
+    fire, and carried away their spoil.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker went to the mountains of Bali-rasi by the sea and set up his royal
+    image there.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker received tribute from the Tyrians, the Sidonians, and Jehu, son
+    of Omri.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Shamshi-Ramman / first-person royal speaker
+  description: The inscriptional speaker who reports pursuing the opponent, destroying
+    cities, setting up a royal image, and receiving tribute.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Unnamed opponent
+  description: The figure from whom camp baggage is taken; he retreats to save his
+    life and is shut up in Damascus, his royal city.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Tyrians
+  description: Named among those whose tribute the speaker receives.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Sidonians
+  description: Named among those whose tribute the speaker receives.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Jehu, son of Omri
+  description: Named among those whose tribute the speaker receives.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: pursuing conqueror
+  assigned_to:
+  - fig:1
+  basis: The speaker takes baggage, follows the retreating opponent, shuts him in
+    Damascus, destroys cities, and carries away spoil.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: royal image setter and tribute receiver
+  assigned_to:
+  - fig:1
+  basis: The speaker sets up his royal image at Bali-rasi and receives tribute from
+    named groups and a named ruler.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: defeated retreating opponent
+  assigned_to:
+  - fig:2
+  basis: The opponent retreats to save his life and is shut up in Damascus, his royal
+    city.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: tribute givers
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage names the Tyrians, Sidonians, and Jehu son of Omri as sources
+    of tribute received by the speaker.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire used in burning cities
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: mountains of the Hauran
+  literal_form: mountains of the Hauran
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: mountains of Bali-rasi by the sea
+  literal_form: mountains of Bali-rasi by the sea
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: royal image
+  literal_form: the speaker's royal image set up on the mountains of Bali-rasi
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Damascus, royal city
+  literal_form: Damascus, described as the opponent's royal city
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Pursuit and confinement in Damascus
+  summary: After taking camp baggage, the speaker pursues the opponent, who retreats
+    to save his life, and confines him in Damascus, his royal city.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Devastation of parks and cities
+  summary: The speaker cuts down parks, reaches the Hauran mountains, destroys and
+    burns many cities, and carries away spoil.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Royal image at Bali-rasi and tribute reception
+  summary: The speaker reaches the mountains of Bali-rasi by the sea, sets up his
+    royal image there, and receives tribute from the Tyrians, Sidonians, and Jehu
+    son of Omri.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: victorious pursuit and confinement of a retreating enemy
+  taxonomy_refs: []
+  basis: The speaker takes the opponent's baggage, follows him after he retreats,
+    and shuts him in Damascus.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a military-inscription pattern rather than a mythic episode in
+    the excerpt.
+- id: motif:2
+  label: destruction by fire and seizure of spoil
+  taxonomy_refs: []
+  basis: The speaker reports destroying, devastating, and burning cities with fire,
+    then carrying away spoil.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The fire is literal military burning; the passage does not support a cosmic
+    or world-destruction reading.
+- id: motif:3
+  label: royal image set up at a distant mountain location
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The speaker reaches the mountains of Bali-rasi by the sea and sets up his
+    royal image there.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The association with royal legitimacy is inferred from the royal image
+    and inscriptional context; the passage itself does not explain the image's ritual
+    or political meaning.
+- id: motif:4
+  label: tribute received after campaign
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The speaker receives tribute from named peoples and Jehu son of Omri after
+    reporting campaign actions and setting up the royal image.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage states tribute reception but does not explicitly interpret
+    it as legitimating rule.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6212-6213
+  quote_or_summary: The speaker says he took camp baggage from the opponent; the opponent
+    retreated to save his life, and the speaker followed him.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6213-6215
+  quote_or_summary: The speaker shuts the opponent in Damascus, his royal city, cuts
+    down his parks, and goes as far as the mountains of the Hauran.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 6215-6217
+  quote_or_summary: '"Cities without number I destroyed, devastated (and) burned with
+    fire. Their spoil beyond reckoning I carried away."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 6217-6219
+  quote_or_summary: The speaker goes to the mountains of Bali-rasi by the sea and
+    sets up his royal image there.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6219-6221
+  quote_or_summary: The speaker receives tribute from the Tyrians, the Sidonians,
+    and Jehu, son of Omri.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is a royal military inscription excerpt rather than an explicit mythological
+    narrative. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available refs and only applied where directly supported or cautiously inferred.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l6211-l6222
+  passage_sha256=cf624379c3e0cd60156cdd7f5b562322a6ff6aff4da7a62390a7566c1dd241b5
+

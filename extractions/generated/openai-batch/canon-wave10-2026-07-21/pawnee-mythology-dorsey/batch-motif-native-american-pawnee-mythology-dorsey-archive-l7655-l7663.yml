@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l7655-l7663
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: ISO  TALES  OF  READY-TO-GIVE. / HANDSOME-BOY  AND  AFTER-BIRTH  BOY.  151
+    / HANDSOME-BOY  AND  AFTER-BIRTH  BOY.  153 / HANDSOME-BOY  AND  AFTER-BIRTH  BOY.  155;
+    lines 7655-7663
+  start: '7655'
+  end: '7663'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: He saw a fine-looking young man standing on the water.
+  summary: At evening, while a wonderful man is speaking to a boy, the boy leaves
+    the lodge, goes to a stream, sleeps on the bank, and dreams of a finely dressed
+    young man standing on the water with hunting or warrior equipment. A note identifies
+    the teller and states a lesson about not mocking poor boys, who may become warriors
+    or chiefs.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A wonderful man is speaking to the boy in the evening.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boy leaves the lodge and goes to a stream of water.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The boy lies down on the stream bank, sleeps, and has a dream.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the dream, the boy sees a fine-looking young man standing on the water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The young man wears fine buckskin leggings, moccasins, a shirt, a robe, and
+    an otter-skin quiver with arrows and a bow.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The attached note says the tale was told by Little-Chief, Chaui, and says
+    it teaches refraining from making fun of poor boys because they may become warriors
+    or chiefs.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: wonderful man
+  description: A man described as wonderful who is talking to the boy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: boy
+  description: The boy who leaves the lodge, goes to the stream, sleeps, and dreams.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: fine-looking young man
+  description: A young man seen in the boy's dream standing on the water, finely dressed,
+    with a quiver, arrows, and a bow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: poor boys
+  description: Poor boys mentioned in the explanatory note as persons who should not
+    be mocked because they may become great warriors or chiefs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: speaker to the boy
+  assigned_to:
+  - fig:1
+  basis: The passage says the wonderful man was talking to the boy.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dreamer
+  assigned_to:
+  - fig:2
+  basis: The boy sleeps on the bank and has a dream.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: dream apparition
+  assigned_to:
+  - fig:3
+  basis: The young man is seen by the boy in the dream, standing on the water.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: potential future warriors or chiefs
+  assigned_to:
+  - fig:4
+  basis: The note says poor boys may become great warriors or even chiefs.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water
+  literal_form: stream of water; water on which the young man stands
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: lodge
+  literal_form: lodge from which the boy goes out
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: otter-skin quiver with arrows and bow
+  literal_form: quiver of otter skin with arrows and a bow
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: fine clothing
+  literal_form: fine buckskin leggings, fine moccasins, fine shirt, and fine robe
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Evening speech in the lodge
+  summary: In the evening, the wonderful man speaks to the boy, and the boy goes out
+    from the lodge toward the stream.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dream at the stream bank
+  summary: The boy lies down on the stream bank, sleeps, and dreams.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Young man standing on water
+  summary: In the dream, a fine-looking young man appears standing on the water, wearing
+    fine clothing and carrying an otter-skin quiver with arrows and a bow.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Explanatory teaching note
+  summary: The note attributes the tale to Little-Chief, Chaui, and states that it
+    teaches people not to make fun of poor boys because they may become warriors or
+    chiefs.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: dream vision beside water
+  taxonomy_refs: []
+  basis: The boy sleeps beside a stream and dreams of a young man standing on the
+    water.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly names dream visions; the label is
+    descriptive.
+- id: motif:2
+  label: wisdom lesson against mocking the lowly
+  taxonomy_refs:
+  - wisdom
+  basis: The attached note explicitly says the tale teaches refraining from making
+    fun of poor boys because they may later become warriors or chiefs.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This motif is drawn from the explanatory note rather than the narrative
+    action alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7655-7656
+  quote_or_summary: One evening, the wonderful man is talking to the boy, and the
+    boy goes out from the lodge.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 7656-7658
+  quote_or_summary: The boy goes to the stream of water, lies down on the bank, sleeps,
+    and has a dream.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:3
+  type: quote
+  locator: 7658-7660
+  quote_or_summary: He saw a fine-looking young man standing on the water.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:4
+  type: summary
+  locator: 7660-7661
+  quote_or_summary: The young man wears fine buckskin leggings, moccasins, a shirt,
+    a robe, and an otter-skin quiver with arrows and a bow.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:5
+  type: summary
+  locator: note within 7655-7663
+  quote_or_summary: The note says the tale was told by Little-Chief, Chaui, and teaches
+    the wisdom of not making fun of poor boys because they may become great warriors
+    or chiefs.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source metadata; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but the narrative passage is fragmentary
+    and ends mid-description. Motif labels are limited to the provided excerpt and
+    note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No cross-tradition comparison claims were added because the passage does not itself support a specific comparative claim beyond descriptive motif identification.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l7655-l7663
+  passage_sha256=110e2cbd39475efa2c3911258fd1f2c9199a80baedf104a2e95be4acd169fc72
+

@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l1068-l1110
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: THEY  MADE  CLOTHING,  ARMS,  AND  SHOES  FOR  THE  SOLDIERS. / VOL.  II.
+    / FIFTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS.; lines 1068-1110
+  start: '1068'
+  end: '1110'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes an Ynca tribute system in which each province supplied
+    goods native to its own district, including provisions, cloth, arms, and shoes.
+    It emphasizes that demands were distributed according to local capacity, that
+    subjects were not required to seek tribute goods outside their homes, and that
+    this arrangement produced orderly service. The narrator cites Father José de Acosta
+    as a corroborating Spanish historian.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Several kinds of weapons are listed as provincial products, including darts,
+    clubs, axes, slings, lashings, and shields.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says each province furnished its own produce and did not have
+    to seek goods in a strange land.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The rule stated that no Indian should be obliged to go beyond his own home
+    to obtain tribute goods.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Four tribute categories are named for the Ynca: provisions from his lands,
+    cloth from royal flock wool, arms, and shoes.'
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The demands were divided so that provinces assigned to cloth supply were relieved
+    of arms and shoes, with similar divisions for other provinces.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The narrator states that this arrangement prevented provincial grievance and
+    led vassals to serve the Ynca with pleasure and satisfaction.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A quoted Spanish historian says the kings used the labor of their vassals,
+    yet were served with order and regularity and the vassals' lives were happy and
+    not lives of slavery.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The narrator identifies the cited authority as Father José de Acosta of the
+    Company of Jesus.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the Ynca
+  description: The ruler to whom provisions, cloth, arms, and shoes were supplied.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: provinces
+  description: Districts that furnished their own produce and were assigned tribute
+    according to local products and capacities.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Indians or vassals
+  description: Subjects who supplied tribute and labor under the described system.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Father José de Acosta
+  description: A Spanish Jesuit historian cited by the narrator as an external authority
+    on the Ynca system.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: narrator
+  description: The first-person commentator who inserts Acosta's words and says he
+    will appeal to Spanish historians.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: ruler and tribute recipient
+  assigned_to:
+  - fig:1
+  basis: The four named categories are supplied to the Ynca.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: tributary districts
+  assigned_to:
+  - fig:2
+  basis: Each province furnishes its own produce and receives assigned demands according
+    to what it can supply.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: vassals and laboring subjects
+  assigned_to:
+  - fig:3
+  basis: The passage describes Indians obligated to furnish tribute and vassals whose
+    labor is used by the kings.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: quoted historical authority
+  assigned_to:
+  - fig:4
+  basis: The narrator identifies the quoted writer as Father José de Acosta.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: commentator and compiler
+  assigned_to:
+  - fig:5
+  basis: The narrator says he inserts the quotation and will cite Spanish historians
+    elsewhere.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: local produce
+  literal_form: the produce of each province or district
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: four tribute categories
+  literal_form: provisions, cloth, arms, and shoes
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: weapons and shields
+  literal_form: darts, clubs, axes, slings, lashings, and shields
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: cloth from royal flock wool
+  literal_form: cloth made from the wool of the royal flocks
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: home boundary for tribute supply
+  literal_form: the subject's own home and district as the limit for obtaining tribute
+    goods
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Provincial weapon supply
+  summary: The passage lists weapons and shields supplied by different provinces,
+    with shields described as the only defensive weapons.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tribute limited to local produce
+  summary: Each province supplies only what belongs to its district, and subjects
+    are not required to travel beyond their homes to obtain tribute goods.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ordered division of tribute obligations
+  summary: The Ynca receives provisions, cloth, arms, and shoes, while demands are
+    divided so that provinces assigned one burden are relieved of others.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Acosta cited on ordered labor
+  summary: The narrator quotes and identifies Father José de Acosta as a Spanish authority
+    who describes the kings' use of vassal labor as orderly and not experienced as
+    slavery.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: tribute apportioned according to local capacity
+  taxonomy_refs: []
+  basis: The passage repeatedly states that provinces supply only their own produce
+    and that demands are divided according to what each district can provide.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an administrative pattern in a historical chronicle, not an explicitly
+    mythic or ritual motif in the passage.
+- id: motif:2
+  label: beneficent royal order legitimates rule
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The narrator frames Ynca requirements as just, carefully distributed, free
+    of grievance, and productive of willing service by vassals.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage supports political and ethical legitimation, but it does not
+    present divine descent, sacred kingship rites, or supernatural sanction.
+- id: motif:3
+  label: ordered service contrasted with slavery
+  taxonomy_refs: []
+  basis: The quoted authority says the kings used vassal labor as they pleased, but
+    that the service was so orderly and regular that the vassals' lives were happy
+    and not lives of slavery.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This motif depends on a cited historian's evaluative language and may
+    reflect colonial-era interpretation rather than a native narrative pattern.
+comparison_claims:
+- id: claim:1
+  claim: The narrator explicitly aligns his description of orderly Ynca tribute and
+    labor with Father José de Acosta's account of vassal labor conducted with order
+    and regularity.
+  claim_level: same_function
+  target: Father José de Acosta's Spanish historical account of Ynca vassal labor
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage provides only a short quoted excerpt and the narrator's
+    identification of Acosta; it does not supply broader context from Acosta's work.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1068-1072
+  quote_or_summary: The passage lists darts, clubs, axes, slings, lashings, and shields,
+    and notes that shields were the only defensive weapons.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1072-1084
+  quote_or_summary: Each province furnishes its own produce; no province must supply
+    what does not belong to it, and no Indian should be obliged to go beyond his own
+    home to obtain tribute.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1084-1093
+  quote_or_summary: The four supplies to the Ynca are provisions, cloth from royal
+    flocks, arms, and shoes; demands are divided carefully, with provinces assigned
+    cloth relieved of arms and shoes.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1093-1098
+  quote_or_summary: '"no province could feel any grievance" and vassals served the
+    Ynca with "pleasure and satisfaction."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 1098-1105
+  quote_or_summary: A quoted Spanish historian says the kings used the labor of their
+    vassals, yet were served with order and regularity, so that the vassals' lives
+    were happy and not lives of slavery.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1105-1110
+  quote_or_summary: The narrator says the words are from Father José de Acosta of
+    the Company of Jesus and that he will appeal to Acosta and other Spanish historians
+    elsewhere.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a historical-administrative description rather than a myth
+    narrative. Literal extraction is strong; motif classification is cautious and
+    limited to political-order patterns directly supported by the text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No supernatural figures, ritual acts, or available symbol taxonomy items are present in the passage. Taxonomy use is limited to the supported political motif of royal legitimacy.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l1068-l1110
+  passage_sha256=a2f55bbcf4fd1f4783cab575840c0ded844cab9b430c2217a05577baa16ea5ae
+

@@ -1,0 +1,172 @@
+---
+record_id: batch.motif.korean-corea-the-hermit-nation-griffis-archive-l17692-l17701
+source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+passage_locator:
+  label: COREA  IN  1888. / COEBA  IN  1888.  445 / CORBA  IN  1888.  ,449 / COBEA  IN  1888.  451;
+    lines 17692-17701
+  start: '17692'
+  end: '17701'
+  translation: Corea, the Hermit Nation
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: '"fifty per cent, of the deaths in Korea are from small-pox."'
+  summary: A medical report on Korea lists causes of death and common diseases, comments
+    on patients' responses to medicine and surgery, and gives numerical counts for
+    treated cases and dispensary operations.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The report states that fifty percent of deaths in Korea are from smallpox.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage identifies syphilis as almost omnipresent and reports 760 cases
+    treated in one year.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists several common ailments or injuries, including pediculi,
+    tapeworm, wounds from arrows and stones, abscesses, skin diseases, scrofula, dropsy,
+    and indigestion.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Malaria is described as the most general cause of disease, and beriberi, melanosis,
+    distoma, and filaria are said to exist.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says patients respond readily to medicine but do less well after
+    surgical operations than Chinese and Japanese patients, attributed in the passage
+    to meat diet and strong drink.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage gives numerical categories for treated cases and reports 10,460
+    total cases with 394 dispensary operations.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: patients treated in Korea
+  description: Patients discussed in the medical report as responding to medicine
+    and undergoing surgical operations.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Chinese and Japanese patients
+  description: Groups used as a comparison for surgical outcomes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: reported medical patients
+  assigned_to:
+  - fig:1
+  basis: The passage discusses patients responding to medicine, surgical outcomes,
+    and treated case totals.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:2
+  label: comparison groups for surgical outcomes
+  assigned_to:
+  - fig:2
+  basis: The passage compares post-surgical outcomes with those of Chinese and Japanese
+    patients.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Medical report on disease and treatment in Korea
+  summary: A report enumerates common diseases, injuries, patient response to treatment,
+    comparative surgical outcomes, and totals for treated cases and operations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 17692-17693
+  quote_or_summary: '"fifty per cent, of the deaths in Korea are from small-pox."'
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: summary
+  locator: lines 17693-17694
+  quote_or_summary: Syphilis is called almost omnipresent, with 760 cases treated
+    in one year.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 17694-17696
+  quote_or_summary: The passage lists pediculi, tapeworm, wounds from arrows and stones,
+    abscesses, skin diseases, scrofula, dropsy, and indigestion as very common.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 17696-17697
+  quote_or_summary: Malaria is described as the most general cause of disease; beriberi,
+    melanosis, distoma, and filaria are also reported to exist.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 17697-17699
+  quote_or_summary: Patients are said to respond readily to medicine, but the passage
+    says they do less well after surgical operations than Chinese and Japanese patients,
+    owing to meat diet and strong drink.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 17699-17701
+  quote_or_summary: The passage lists treated-case counts by category and gives a
+    total of 10,460 cases with 394 dispensary operations.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a medical-statistical report rather than a mythic or folkloric
+    narrative; no candidate motifs, symbols, or comparison claims are supported by
+    the provided text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No mythology-specific motifs or taxonomy symbol references were extracted from this passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-corea-the-hermit-nation-griffis-archive__l17692-l17701
+  passage_sha256=cf6d07c61d6fb3146c33424fbbf3bd1ff188a3407c975c7d62612116d3868208
+

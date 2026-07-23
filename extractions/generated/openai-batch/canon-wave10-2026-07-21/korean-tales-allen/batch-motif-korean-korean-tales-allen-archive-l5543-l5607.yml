@@ -1,0 +1,479 @@
+---
+record_id: batch.motif.korean-korean-tales-allen-archive-l5543-l5607
+source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+passage_locator:
+  label: HONG  NIL  TONG. / HONG  KIL  TONG . / HONG  KIL  TONG . / HONG  NIL  TONG.;
+    lines 5543-5607
+  start: '5543'
+  end: '5607'
+  translation: Korean Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“The wicked Governor that robs the people is relieved of his ill-gotten
+    gains by Kil Tong—the people’s avenger.”"
+  summary: Kil Tong plans and carries out a raid against a hated, wealthy governor
+    by using a fire as a diversion, taking valuables from the governor’s yamen, and
+    leaving a written claim that he has avenged the people. After his escape, rewards
+    are offered for his capture. The prison officer Pochang searches for him in disguise
+    and unknowingly meets Kil Tong, also disguised, at an inn.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Kil Tong is treated as the chief of his group and plans a new raid.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The neighboring governor is described as overbearing, burdensome to his subjects,
+    rich, and widely hated.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Kil Tong decides to avenge the people and humiliate the governor.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Kil Tong instructs his band to enter the governor’s city singly during a fair
+    so their arrival will not draw notice.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Part of the band is assigned to set fire to straw-thatched huts outside the
+    city gates while the others go to the governor’s yamen.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The governor is carried to watch the conflagration, and many inhabitants are
+    also drawn away by it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The robbers bind the remaining servants and take money, jewels, and weapons.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Kil Tong writes on the walls that the wicked governor has been relieved of
+    ill-gotten gains by Kil Tong, called the people’s avenger.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The thieves escape again, and Kil Tong’s name becomes known everywhere.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The governor and then the king offer rewards for Kil Tong’s capture; the Pochang
+    volunteers to capture him alone.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The Pochang searches disguised as a traveler with a donkey and servant, and
+    Kil Tong meets him at an inn while also disguised as another donkey-rider.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Kil Tong tells the Pochang that he has been chased by the robber Kil Tong;
+    the Pochang replies that he wants to see the much-discussed man.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Kil Tong
+  description: Leader of the band, planner of the raid, writer of the wall message,
+    and disguised interlocutor at the inn.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Governor of a neighboring province
+  description: A rich and hated provincial governor described as overbearing and oppressive
+    toward his subjects.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Kil Tong’s band / robbers / thieves
+  description: The group that follows Kil Tong’s instructions, sets the fire, enters
+    the yamen, binds servants, takes valuables, and escapes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Pochang
+  description: An officer in charge of prisons who volunteers to capture Kil Tong
+    and searches for him disguised as a traveler.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: King
+  description: The ruler who consults his officers and offers a reward for Kil Tong’s
+    capture.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Remaining servants at the yamen
+  description: Servants left at the governor’s yamen who are bound by the robbers.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: The people / subjects / inhabitants
+  description: The governor’s burdened subjects and the inhabitants drawn away by
+    the fire; Kil Tong’s wall message names them as the people he avenges.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: raid leader and chief
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Kil Tong as chief and says he planned the new raid.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: people’s avenger
+  assigned_to:
+  - fig:1
+  basis: The wall writing calls Kil Tong the people’s avenger and says he relieves
+    the governor of ill-gotten gains.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: disguised deceiver
+  assigned_to:
+  - fig:1
+  basis: Kil Tong appears at the inn in disguise and speaks to the Pochang as though
+    he were someone chased by Kil Tong.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: oppressive provincial authority
+  assigned_to:
+  - fig:2
+  basis: The governor is said to impose heavy burdens, to be rich, and to be universally
+    hated.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: raiding accomplices
+  assigned_to:
+  - fig:3
+  basis: The band follows the plan by creating the fire diversion, entering the yamen,
+    binding servants, and taking valuables.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: authorized pursuer and prison officer
+  assigned_to:
+  - fig:4
+  basis: The Pochang is described as in charge of prisons and volunteers to capture
+    Kil Tong alone.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: royal reward-giver
+  assigned_to:
+  - fig:5
+  basis: The king offers a reward for Kil Tong’s capture after consulting his officers.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: oppressed populace and public audience
+  assigned_to:
+  - fig:7
+  basis: The governor burdens his subjects, and Kil Tong’s written message frames
+    the raid as vengeance for the people.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:9
+  label: bound yamen servants
+  assigned_to:
+  - fig:6
+  basis: The robbers bind the remaining servants during the raid.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: diversionary fire
+  literal_form: Fire set to straw-thatched huts outside the city gates, producing
+    a conflagration that draws people away.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: wall inscription of avenging justice
+  literal_form: Writing on the walls of the governor’s yamen naming the governor wicked
+    and Kil Tong the people’s avenger.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: traveler disguise
+  literal_form: Disguise as ordinary travelers or donkey-riders used by both the Pochang
+    and Kil Tong.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Planning the raid against the governor
+  summary: Kil Tong selects the hated governor as a target, decides to avenge the
+    people, and instructs his band to enter the city separately during a fair.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Fire diversion and yamen robbery
+  summary: A fire outside the gates draws the governor and many inhabitants away,
+    while the robbers bind servants, take valuables, and Kil Tong writes an avenging
+    message on the walls.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Escape and fame
+  summary: The thieves escape after the raid, and Kil Tong’s name becomes known everywhere.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Reward and official pursuit
+  summary: Rewards are offered for Kil Tong’s capture, and the Pochang, a courageous
+    prison officer, volunteers to capture him alone.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Disguised meeting at the inn
+  summary: The Pochang travels in disguise and meets Kil Tong, also disguised, at
+    an inn; Kil Tong falsely speaks of being chased by Kil Tong, while the Pochang
+    says he wants to see the robber.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Outlaw avenger robs an oppressive official
+  taxonomy_refs: []
+  basis: Kil Tong targets a rich, hated governor who burdens his subjects and leaves
+    a message identifying the act as relief of ill-gotten gains by the people’s avenger.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage frames the action as vengeance for the people, but broader
+    social or historical interpretation is not supplied in the excerpt.
+- id: motif:2
+  label: Diversionary fire enables a raid
+  taxonomy_refs: []
+  basis: Kil Tong’s band sets fire to huts outside the city gates, drawing the governor
+    and inhabitants away while other robbers enter the yamen and take valuables.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The fire functions tactically in the passage; no cosmic or ritual fire
+    meaning is stated.
+- id: motif:3
+  label: Disguised outlaw meets his pursuer
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Kil Tong appears in disguise before the Pochang, whose mission is known to
+    him, and speaks as though Kil Tong were someone else.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy reference is approximate; the passage supports
+    disguise and deception, but does not state a broader trickster cosmology.
+- id: motif:4
+  label: Royal reward for capture of a famous robber
+  taxonomy_refs: []
+  basis: After Kil Tong’s successful escape and growing fame, the governor and the
+    king offer rewards for his capture.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a narrative pursuit setup rather than a specifically mythological
+    motif in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The disguised inn encounter has the same narrative function as a clever outlaw
+    or trickster encounter pattern in which the wanted figure conceals identity and
+    verbally misleads the pursuer.
+  claim_level: same_function
+  target: clever outlaw / trickster encounter pattern
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself supports concealment and verbal deception, but no
+    external parallel text or historical connection is provided.
+- id: claim:2
+  claim: 'The raid against the governor fits a people’s-avenger pattern at the level
+    of function: an unjust authority is publicly shamed and deprived of wealth on
+    behalf of the oppressed populace.'
+  claim_level: same_function
+  target: people’s-avenger or social-bandit pattern
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to the functional pattern visible in this excerpt;
+    the passage does not provide comparative tradition evidence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5543-5553
+  quote_or_summary: Kil Tong is chief of the group, plans a new raid, and chooses
+    a rich, hated governor who burdens his subjects, deciding to avenge the people
+    and humiliate him.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 5554-5561
+  quote_or_summary: Kil Tong tells his band to enter the local capital singly during
+    a fair; one group is to set fire to straw-thatched huts outside the gates while
+    the others go to the governor’s yamen.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 5561-5569
+  quote_or_summary: 'The conflagration draws away the governor and most inhabitants;
+    the robbers bind remaining servants, take money, jewels, and weapons, and Kil
+    Tong writes: “The wicked Governor that robs the people is relieved of his ill-gotten
+    gains by Kil Tong—the people’s avenger.”'
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 5570-5572
+  quote_or_summary: The thieves escape again, and Kil Tong’s name becomes known everywhere.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 5573-5583
+  quote_or_summary: The governor offers a reward for Kil Tong’s capture; later the
+    king offers a reward, and the Pochang, an officer in charge of prisons, volunteers
+    to capture the thief alone.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 5584-5593
+  quote_or_summary: The Pochang searches disguised as a traveler with a donkey and
+    servant; at an inn he meets another donkey-rider, who is Kil Tong in disguise
+    and knows the Pochang’s mission.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 5594-5607
+  quote_or_summary: Kil Tong tells the Pochang that he has just been chased by the
+    robber Kil Tong; the Pochang says he wishes Kil Tong would chase him and asks
+    whether Kil Tong is frightening to see.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif and comparison labels are limited
+    to functions evident in this excerpt and should be reviewed by a human editor.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were applied only where the passage directly supports the literal element or an approximate motif function.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-tales-allen-archive__l5543-l5607
+  passage_sha256=de72f7bfd5d30d2c71ba63f22d6fdc3a225e256c01bbe190f2969de6a50207bb
+

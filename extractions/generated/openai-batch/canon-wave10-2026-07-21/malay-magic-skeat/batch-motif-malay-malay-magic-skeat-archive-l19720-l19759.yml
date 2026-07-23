@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l19720-l19759
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: ADOLESCENCE / CEREMONIAL  TOOTH-FILING / ADOLESCENCE / OMENS  FROM  TOOTH-FILING;
+    lines 19720-19759
+  start: '19720'
+  end: '19759'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes part of a ceremonial tooth-filing procedure, including
+    smoothing and polishing the teeth, the patient holding a mirror, the use of objects
+    to protect or position the mouth, omens taken from the first tooth crown when
+    it falls, and a charmed ginger poultice and hand-pressing by the Pawang after
+    the operation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The teeth are smoothed with a whetstone and polished during the operation.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sufferer holds a small mirror in front of his mouth during the procedure
+    to check the progress.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After the filing, the areca-nut is removed and a piece of coconut husk or
+    a small block of pulai wood is inserted to assist polishing of the teeth.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A file and a folded piece of white cloth are used in the polishing stage,
+    with the cloth protecting the lips from injury.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Omens are taken from the position of the crown of the first tooth when it
+    falls.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: If the crown adheres to the file, it is interpreted as a sign that the patient
+    will die at home.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: If the crown flies off and lies with its edge turned upward, it is interpreted
+    as meaning that the patient will die abroad.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A charmed poultice mainly consisting of cooked ginger is applied to the gums
+    to deaden their feeling.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The Pawang lays one hand on the patient’s head and the other on the upper
+    teeth, then presses them together with force.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: sufferer or patient
+  description: The person undergoing the tooth-filing operation, holding the mirror,
+    receiving gum treatment, and being the subject of the omens.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Pawang
+  description: The ritual practitioner named in the passage who places his hands on
+    the patient’s head and upper teeth after the operation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: ritual patient
+  assigned_to:
+  - fig:1
+  basis: The figure undergoes the tooth-filing procedure, holds the mirror during
+    the operation, and receives treatment to the gums.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:2
+  label: ritual practitioner
+  assigned_to:
+  - fig:2
+  basis: The Pawang is named as acting on the patient’s head and teeth after the tooth-filing
+    operation.
+  evidence_refs:
+  - ev:9
+- id: role:3
+  label: subject of death omen
+  assigned_to:
+  - fig:1
+  basis: The interpreted signs from the tooth crown predict whether the patient will
+    die at home or abroad.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: omen-bearing tooth crown
+  literal_form: the crown of the first tooth after it is filed through and falls
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: file as omen surface
+  literal_form: the tooth-filing file to which the crown may adhere
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: upturned tooth edge
+  literal_form: the fallen crown lying with its edge turned upward
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: small mirror
+  literal_form: a small mirror held in front of the patient’s mouth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: charmed ginger poultice
+  literal_form: ubat tasak, mainly cooked ginger, charmed and applied to the gums
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: tooth smoothing and polishing
+  summary: The tooth-filing procedure continues with smoothing, polishing, patient
+    self-monitoring with a mirror, and the use of mouth implements and protective
+    cloth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: omens from the first tooth crown
+  summary: The fall or position of the first tooth crown is read as an omen predicting
+    whether the patient will die at home or abroad.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: charmed gum treatment and Pawang’s pressing gesture
+  summary: After the operation, a charmed ginger poultice is applied to the gums,
+    and the Pawang presses the patient’s head and upper teeth together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: ceremonial tooth-filing as initiation ordeal
+  taxonomy_refs:
+  - initiation
+  basis: The supplied locator identifies the section as adolescence and ceremonial
+    tooth-filing, and the passage describes the tooth-filing as a trying ordeal borne
+    with fortitude.
+  evidence_refs:
+  - ev:2
+  - ev:10
+  confidence: medium
+  cautions: The excerpt gives only part of the ceremony; the broader initiation context
+    is supported by the supplied passage label rather than fully developed in the
+    excerpt itself.
+- id: motif:2
+  label: death omen from a detached tooth crown
+  taxonomy_refs: []
+  basis: The passage states that omens are taken from the first tooth crown and that
+    different positions predict death at home or abroad.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The interpretation is limited to the two outcomes stated in the passage.
+- id: motif:3
+  label: charmed treatment after bodily modification
+  taxonomy_refs: []
+  basis: A charmed poultice is applied to the gums after the filing, followed by the
+    Pawang’s hand placement and pressing gesture.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage does not fully explain the intended meaning of the Pawang’s
+    pressing gesture because the excerpt ends mid-sentence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19720-19724
+  quote_or_summary: The files’ effects are followed by smoothing the tooth edges with
+    a whetstone and polishing them.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 19724-19731
+  quote_or_summary: "“the latter holds a small mirror in front of his mouth” during
+    a “trying ordeal” borne with fortitude."
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 19731-19737
+  quote_or_summary: After the actual filing, the areca-nut is extracted and coconut
+    husk or pulai wood is inserted to help polish the mutilated teeth.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 19737-19741
+  quote_or_summary: The polishing is done with a file while folded white cloth protects
+    the lips from injury.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 19742-19746
+  quote_or_summary: "“omens” are taken from “the position in which the crown happens
+    to lie when it falls.”"
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 19746-19749
+  quote_or_summary: If the crown adheres to the file after the tooth is filed through,
+    this signifies that the patient will die at home.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 19749-19752
+  quote_or_summary: If the crown flies off and lies with its edge upward, this means
+    the patient will die abroad.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 19753-19757
+  quote_or_summary: A poultice called ubat tasak, mainly cooked ginger, is charmed
+    and applied to the gums to deaden their feeling.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 19757-19759
+  quote_or_summary: The Pawang places his left hand on the patient’s head and the
+    other hand on the teeth of the upper jaw, then presses them together forcefully.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: citation
+  locator: supplied passage label
+  quote_or_summary: The supplied passage label identifies the section as “ADOLESCENCE
+    / CEREMONIAL TOOTH-FILING / ADOLESCENCE / OMENS FROM TOOTH-FILING.”
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Source metadata supplied in extraction request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the visible excerpt. Motif candidates
+    involving initiation rely partly on the supplied section label. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The passage ends mid-sentence, so interpretation of the final Pawang gesture is limited to the visible wording.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l19720-l19759
+  passage_sha256=b834b8c20be8b4f22a01d244669d19c602383c2c5a1739382236ec581d9d58ad
+

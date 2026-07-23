@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.native-american-yana-texts-sapir-archive-l4455-l4474
+source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+passage_locator:
+  label: I. THE CREATION OF MEN.330 / II. THE CONTEST OF FOX AND COYOTE.334 / III.
+    THE LOST BROTHER.339 / VI. FIXING THE SUN.; lines 4455-4474
+  start: '4455'
+  end: '4474'
+  translation: Yana Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: '"the sun was in the center of the world"'
+  summary: The Sun initially lives near the people, causing short days and difficulty
+    hunting. The people decide the Sun should be moved far to the east. Cottontail
+    Rabbit and Blue Squirrel agree to carry it, alternating when tired, and place
+    it beyond the eastern mountains where it now rises.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Sun is said to live at Hi'tsiriha, near P'a'wi, where there is a small hill
+    of red earth.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people go out to hunt but cannot stay long because sunset comes quickly
+    and the day is short.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The people identify Sun's central position in the world as the cause of their
+    trouble and say it would be better if Sun came up far to the east.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The people gather, discuss the problem, and ask Cottontail Rabbit and Blue
+    Squirrel to move the Sun.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Rabbit says they will carry the Sun on their backs, alternating with Squirrel
+    when tired, and place it over the mountains far to the east.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Rabbit and Squirrel carry the Sun far east to the place where it now comes
+    up.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Sun
+  description: A celestial figure said to live at Hi'tsiriha, to be in the center
+    of the world, and later to be carried far east to its present rising place.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the people
+  description: The community affected by the short day; they gather to discuss the
+    problem and ask Rabbit and Squirrel to move the Sun.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Cottontail Rabbit
+  description: One of the beings asked to move the Sun; he agrees, proposes the carrying
+    method, and helps carry it east.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Blue Squirrel
+  description: One of the beings asked to move the Sun; he alternates with Rabbit
+    in carrying it when Rabbit is tired.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: relocated celestial figure
+  assigned_to:
+  - fig:1
+  basis: Sun's location is described as causing the short-day problem, and Sun is
+    carried to a new eastern rising place.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: troubled community seeking a remedy
+  assigned_to:
+  - fig:2
+  basis: The people experience the short day as trouble, discuss it, and ask others
+    to move the Sun.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: planner and carrier of the Sun
+  assigned_to:
+  - fig:3
+  basis: Rabbit agrees to move the Sun, explains the plan to carry it on backs, and
+    participates in carrying it east.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: alternating carrier of the Sun
+  assigned_to:
+  - fig:4
+  basis: Squirrel is named as the one who can take the Sun when Rabbit is tired, and
+    the two change off while carrying it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Sun
+  literal_form: The Sun, treated as a being or body that lives at a place and can
+    be carried.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: red-earth hill
+  literal_form: A small hill of red earth at Hi'tsiriha.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: center of the world
+  literal_form: The Sun's initial position in the center of the world.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: eastern mountains
+  literal_form: Mountains far off to the east, beyond which the Sun is to be placed.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Short days caused by the nearby Sun
+  summary: Sun lives near the people and is in the center of the world; sunset comes
+    quickly, making the day short and troubling the people who hunt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Community decision to move the Sun
+  summary: The people gather to discuss the trouble and ask Cottontail Rabbit and
+    Blue Squirrel to move the Sun; Rabbit agrees.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Carrying the Sun east
+  summary: Rabbit and Squirrel carry the Sun on their backs in alternating turns and
+    take it far to the east, over the mountains, to the place where it now rises.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Relocation of the Sun to fix day length
+  taxonomy_refs: []
+  basis: The short day is presented as a problem caused by Sun's central location,
+    and Rabbit and Squirrel solve it by carrying the Sun east to its present rising
+    place.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: Descriptive motif label; no external taxonomy reference is directly supplied
+    for solar relocation.
+- id: motif:2
+  label: Animal agents establish cosmic order
+  taxonomy_refs:
+  - culture_hero
+  basis: Cottontail Rabbit and Blue Squirrel perform a world-ordering action by moving
+    the Sun to where it now rises.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not call them heroes; the taxonomy link rests on their
+    cosmological organizing act.
+- id: motif:3
+  label: Problematic world center
+  taxonomy_refs:
+  - world_center
+  basis: The Sun's position in the center of the world is explicitly named as the
+    cause of the trouble.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The center of the world is described as a problematic location, not as
+    a sacred axis or shrine.
+- id: motif:4
+  label: Carrying a celestial body
+  taxonomy_refs: []
+  basis: Rabbit proposes that he and Squirrel carry the Sun on their backs and change
+    off when tired; they then carry it far east.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No broader taxonomy reference is assigned.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4455-4458
+  quote_or_summary: Sun lived at Hi'tsiriha, three miles up from P'a'wi, where there
+    was a small hill of red earth.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4458-4462
+  quote_or_summary: The people hunted but could not stay long; sunset came quickly,
+    the day was short, and everyone was troubled.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 4462-4467
+  quote_or_summary: The people say it would be better if the Sun came up far to the
+    east, but "the sun was in the center of the world," causing the trouble.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 4467-4470
+  quote_or_summary: The people gather, talk, ask Cottontail Rabbit and Blue Squirrel,
+    and say they must move the Sun; Rabbit agrees.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4470-4474
+  quote_or_summary: Rabbit says they will carry the Sun on their backs, alternate
+    with Squirrel, and place it over the mountains far east; they carry it to where
+    it now comes up.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif taxonomy assignments beyond
+    the descriptive solar-relocation motif require human review. No comparison claims
+    were made because the passage itself does not compare this episode to another
+    corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Empty comparison_claims indicates no passage-supported cross-text comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-yana-texts-sapir-archive__l4455-l4474
+  passage_sha256=a7255a6947addd75aec4dbc8f99cb20d69652f9407782a073f62dbfe899801c6
+

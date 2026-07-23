@@ -1,0 +1,409 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l13926-l14006
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 227 / TEIT, THE THOMPSON
+    INDIANS OF BRITISH COLUMBIA. / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA.
+    231 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 233; lines 13926-14006
+  start: '13926'
+  end: '14006'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Thompson Indian plant foods, preparation of cambium,
+    drinks made from boiled liquids and dried plants, and methods for preserving meat,
+    fat, and marrow. It includes several named divisions or bands and a brief tool
+    comparison with Athapascan tribes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The lower division of the tribe used additional kinds of fruit and salal-berry.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several plant stalks, stems, sprouts, and Alectoria jubata were eaten; one
+    peeled stem was soaked in water overnight before eating.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Cambium from several trees was sought in spring; yellow-pine cambium was often
+    dried for winter use, and alder cambium was sometimes eaten.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Bark was separated with a short piece of horn or wood, and cambium was scraped
+    with an edged bone or horn implement; knives are said to be used at the present
+    day.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Cactus hearts, mushrooms, pine nutlets, hazelnuts, and Balsamorrhiza seeds
+    were prepared or eaten by named bands or divisions.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Pure water was seldom drunk while eating; water in which meat or fish had
+    been boiled was substituted, and dried plant materials were used to prepare drinks.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Meat preservation included removing and storing fat, slicing flesh, piercing
+    slices with slits, and drying the meat by sun, wind, smoke, fire, or artificial
+    heat.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Indians of Nicola Valley and the Spences Bridge band are described with
+    different emergency or preferred meat-drying methods.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Fat was rendered by heating stick-spread pieces near a small hot fire, catching
+    drippings in trough-shaped dishes, and storing the fat in a deer paunch; marrow
+    was melted and stored in animal bladders.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Thompson Indians
+  description: The collective group whose food and preservation practices are described
+    in the passage.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Lower division of the tribe
+  description: A division described as using additional fruits and eating certain
+    sprouts and Alectoria jubata.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Upper divisions of the tribe
+  description: Divisions for whom Pinus albicaulis nutlets are described as a favorite
+    food.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Spences Bridge band
+  description: A band described as using cactus hearts and preferring to roast meat
+    on sticks before a hot fire.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:5
+  name_or_label: Indians of Nicola Valley
+  description: A group described as drying meat in a sweat-house in case of necessity.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Lower Thompson band
+  description: A band described as using hazel-nuts and selling them to the upper
+    bands.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Athapascan tribes of the northern interior
+  description: Tribes mentioned as using implements similar in shape and size to the
+    cambium-scraping implements described in the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: plant-food users and preparers
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  basis: The passage assigns plant foods, drinks, nutlets, and other plant preparations
+    to the tribe, its divisions, or named bands.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: meat, fat, and marrow preservers
+  assigned_to:
+  - fig:1
+  - fig:4
+  - fig:5
+  basis: The passage describes meat drying, fat rendering, and regional band practices
+    for preservation.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:3
+  label: artifact comparator
+  assigned_to:
+  - fig:7
+  basis: The passage compares the described cambium-scraping implements to those used
+    by Athapascan tribes of the northern interior.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: tree and cambium
+  literal_form: Cambium layer and bark of pine, spruce, fir, cottonwood, Douglas spruce,
+    and alder trees.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: water
+  literal_form: Water used for soaking stems overnight and boiled meat or fish water
+    used as a drink substitute.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: fire and heat
+  literal_form: Fire or heat used for roasting, drying meat, smoking meat, roasting
+    on sticks, and rendering fat.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: sap-scraper
+  literal_form: A short horn or wood piece and an edged bone or horn implement used
+    in separating bark and scraping cambium; the passage includes a sap-scraper figure
+    caption.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: storage containers
+  literal_form: Deerskin sacks, sacks for winter food, a deer paunch, and deer or
+    elk bladders used for stored foods, fat, or marrow.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: Plant foods and drinks
+  summary: The passage lists fruits, stalks, stems, sprouts, lichens, nutlets, seeds,
+    and prepared drinks used by Thompson divisions and bands.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Cambium scraping
+  summary: Cambium is sought from several kinds of trees, and the passage describes
+    tools for separating bark and scraping cambium.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Meat drying and regional variation
+  summary: Meat is prepared for preservation by slicing, piercing, and drying; Nicola
+    Valley and Spences Bridge practices are distinguished.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Rendering and storing fat and marrow
+  summary: Large pieces of fat are spread on sticks, heated by fire, collected in
+    dishes, and stored; marrow is melted and stored in animal bladders.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: preservation of staple foods for future or winter use
+  taxonomy_refs: []
+  basis: The passage explicitly describes preservation of staple foods, including
+    drying meat, storing fat and marrow, drying yellow-pine cambium for winter, and
+    putting prepared nutlets with dried berries into sacks for winter use.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: This is an ethnographic subsistence pattern rather than an explicit mythological
+    narrative motif; no available motif-family taxonomy is assigned.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports that the described cambium-scraping implements were similar
+    in shape and size to implements used by Athapascan tribes of the northern interior.
+  claim_level: visual_similarity
+  target: Athapascan tribes of the northern interior sap- or cambium-scraping implements
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports only a tool-shape similarity; it does not make
+    a mythic, symbolic, historical-contact, or common-inheritance claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13926-14006; paragraph on lower-division fruits
+  quote_or_summary: The lower division is described as using additional undetermined
+    fruits and salal-berry.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13926-14006; paragraph on stalks, stems, sprouts, and Alectoria
+  quote_or_summary: Stalks of Heracleum, La'qo, and peeled Balsamorrhiza stems were
+    eaten raw; one was soaked in water overnight, and the lower division ate sprouts
+    and Alectoria jubata.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13926-14006; paragraph on cambium and sap-scraper
+  quote_or_summary: Cambium from several trees was eaten or dried; bark was separated
+    with horn or wood and scraped with bone or horn implements, described as similar
+    in shape and size to those used by Athapascan tribes of the northern interior;
+    Fig. 214 captions a sap-scraper.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13926-14006; paragraph on cactus, mushrooms, nutlets, hazel-nuts,
+    and seeds
+  quote_or_summary: Cactus hearts were used by the Spences Bridge band; mushrooms
+    were peeled and eaten raw or roasted; Pinus albicaulis nutlets were favored by
+    upper divisions and sometimes stored for winter; the Lower Thompson band used
+    hazel-nuts.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13926-14006; paragraph on drinking water and plant drinks
+  quote_or_summary: The Indians seldom drank pure water while eating, substituting
+    meat or fish boiling water and preparing drinks from dried wild celery, Labrador
+    tea, fir twigs, rose-bush materials, and bearberry stalks and leaves.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 13926-14006; section 'Preservation of Staple Foods,' opening paragraph
+  quote_or_summary: Meat preservation included cutting off and storing fat, slicing
+    flesh, cutting slits in the slices, and drying them on raised pole frameworks
+    by sun and wind, or by artificial heat, fire, or smoke inside the lodge.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 13926-14006; section 'Preservation of Staple Foods,' regional methods
+  quote_or_summary: In necessity, the Nicola Valley Indians dried meat in the sweat-house,
+    while the Spences Bridge band preferred roasting it on sticks before a hot fire.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 13926-14006; section 'Preservation of Staple Foods,' fat and marrow
+    paragraph
+  quote_or_summary: Fat of deer, elk, or bear was spread on sticks near a small hot
+    fire, drippings were caught in trough-shaped dishes, rendered fat was stored in
+    a deer paunch, and marrow from broken bones was melted and stored in deer or elk
+    bladders.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal ethnographic content is clear, but the passage is not a mythic
+    narrative. The motif candidate is therefore treated as a non-narrative subsistence
+    pattern and needs review for atlas suitability.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No explicit mythic beings, sacred narrative events, or available mythological motif-family assignments are stated in the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l13926-l14006
+  passage_sha256=919b1be7e5105ffa12b3f381109d206ce343eaf6fa4b8f5fb8bbdcb95f757530
+

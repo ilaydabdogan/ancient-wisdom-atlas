@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l10697-l10742
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: FOUNDATION. / UNUUNU   TAI. / UNUUNU    RUA. / FIRST    OFFSHOOT.; lines
+    10697-10742
+  start: '10697'
+  end: '10742'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A song passage names Imogo as a spirit-dwelling where Kavoro was buried.
+    The speakers recall parting there forever, digging a shallow grave, and throwing
+    up red soil. Another section describes a mournfully changed, wasted male form
+    with exposed teeth, and the translated passage ends with the bitterness of the
+    widow's grief.
+  language: Mangaian with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Imogo is described as a spirit-dwelling, and Kavoro is said to have been buried
+    there.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speakers say they parted at that place and that the parting was forever.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The grave is described as shallow, and the speakers say they dug it.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Red soil is described as thrown up at the burial place.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A male form is described as having exposed teeth, being wasted, and being
+    mournfully changed as people looked on.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that the widow's grief is bitter.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The original-language section names Turuare.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Kavoro
+  description: A figure referred to as 'our Kavoro' who was buried at Imogo.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Collective speakers or mourners
+  description: A collective 'we' says they parted, buried him, dug the grave, and
+    looked on the changed form.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Widow
+  description: A widow whose grief is described as bitter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Turuare
+  description: A named figure in the original-language second offshoot; the provided
+    English lines in this excerpt do not explicitly identify this figure.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: buried deceased figure
+  assigned_to:
+  - fig:1
+  basis: Kavoro is said to have been buried at Imogo.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: burial participants and mourners
+  assigned_to:
+  - fig:2
+  basis: The collective voice says 'we' parted, buried him, dug the grave, and gazed
+    on his changed form.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: grieving widow
+  assigned_to:
+  - fig:3
+  basis: The passage refers to the bitterness of the widow's grief.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: spirit-dwelling
+  literal_form: A spirit-dwelling at Imogo
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: grave
+  literal_form: A shallow grave dug for the buried figure
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: red soil
+  literal_form: Red soil thrown up from the grave
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: exposed teeth and wasted form
+  literal_form: A male form with exposed teeth, described as wasted and mournfully
+    changed
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Burial at Imogo
+  summary: Imogo is identified as a spirit-dwelling because Kavoro was buried there;
+    the collective speakers recall digging a shallow grave and throwing up red soil.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Final parting and grief
+  summary: The speakers recall parting forever, looking on a wasted and mournfully
+    changed male form, and the passage closes with the widow's bitter grief.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: burial place as spirit-dwelling
+  taxonomy_refs: []
+  basis: The passage directly links a spirit-dwelling at Imogo with Kavoro's burial
+    there.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not elaborate the nature of the spirit-dwelling beyond
+    its association with the burial.
+- id: motif:2
+  label: death as permanent parting
+  taxonomy_refs:
+  - departure
+  basis: The speakers say they parted at the burial place and parted forever.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy link to 'departure' is broad; the passage frames the departure
+    specifically as death and burial.
+- id: motif:3
+  label: widow's grief after burial
+  taxonomy_refs: []
+  basis: The passage closes by emphasizing the bitterness of the widow's grief in
+    the context of burial and final parting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The excerpt does not give further narrative action for the widow.
+- id: motif:4
+  label: mourners viewing a changed corpse-like form
+  taxonomy_refs: []
+  basis: The passage describes exposed teeth, a wasted form, and mournful change as
+    people gaze on him.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt does not explicitly state in the English lines whether this
+    described form is Kavoro, though the surrounding passage concerns a buried male
+    figure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: FIRST OFFSHOOT; lines 10697-10742
+  quote_or_summary: '"There is a spirit-dwelling at Imogo, / For there our Kavoro
+    was buried."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for passage-level evidence.
+- id: ev:2
+  type: quote
+  locator: FIRST OFFSHOOT; lines 10697-10742
+  quote_or_summary: '"There we parted; / Aye, parted for ever! / Shallow was the grave"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for passage-level evidence.
+- id: ev:3
+  type: quote
+  locator: FIRST OFFSHOOT; lines 10697-10742
+  quote_or_summary: '"There we dug his grave; / There the red soil was thrown up."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for passage-level evidence.
+- id: ev:4
+  type: quote
+  locator: UNUUNU RUA; lines 10697-10742
+  quote_or_summary: '"The teeth all exposed — / His form, oh, how wasted, / As we
+    gazed on him / Now so mournfully changed!"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for passage-level evidence.
+- id: ev:5
+  type: quote
+  locator: FIRST OFFSHOOT; final translated line; lines 10697-10742
+  quote_or_summary: '"How bitter the widow''s grief!"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for passage-level evidence.
+- id: ev:6
+  type: quote
+  locator: UNUUNU RUA; original-language lines; lines 10697-10742
+  quote_or_summary: '"1  to  vaine  ia  Turuare,"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for passage-level evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The English translation clearly supports the burial, grave, final parting,
+    and widow-grief observations. The original-language line naming Turuare is recorded
+    without merging it with the widow because the provided English excerpt does not
+    explicitly make that identification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not make a comparative claim. Available taxonomy refs were used only where the wording cautiously supported a broad family.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l10697-l10742
+  passage_sha256=51ac220f955ee83e540a986146d0f1b6b489faadc32dd5eb687201aa0242dbfa
+

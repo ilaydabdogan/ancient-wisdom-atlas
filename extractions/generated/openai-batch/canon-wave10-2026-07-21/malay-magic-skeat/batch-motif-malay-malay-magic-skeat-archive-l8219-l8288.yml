@@ -1,0 +1,541 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l8219-l8288
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: ERECTING  THE  CENTRE-POST / BUILDING  CEREMONIES / MA  GIC  ME  A S U REM  ENTS
+    / BUILDING  CEREMONIES; lines 8219-8288
+  start: '8219'
+  end: '8288'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a Malay building-measurement augury in which a final
+    measurement may coincide with one of eight beasts. Unlucky results can be avoided
+    by shortening the threshold. Rhyming stanzas give examples for the dragon, dairy-cow,
+    lion, and dog, with associated predictions of safety, death, prosperity, obstacles,
+    or violence. Notes mention an alternative measurement from threshold to the end
+    of the house and connect the dragon with a mystic Dragon used as an aspect compass
+    in Malay charm-books.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A final building measurement may coincide with an unlucky beast; the crow
+    is given as an example that signifies the death of the master of the house.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the measurement falls on an unlucky beast, the threshold is cut shorter
+    so that the result fits a more auspicious sign.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The names of the eight beasts and the events they are supposed to foreshadow
+    are commemorated in rhyming stanzas.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dragon stanza describes a large dragon that turns month by month and predicts
+    safety from stumbling-blocks and friendliness from all who meet the addressee.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The dairy-cow stanza includes smoke from a forest fire, Inche 'Ali burning
+    lime, and a young dairy-cow that falls dead while being milked.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The lion stanza describes a courageous, valorous lion and predicts lasting
+    luck and yearly prosperity for the house.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The dog stanza describes a wild dog or jackal barking at a deer night after
+    night and predicts stumbling-blocks and men stabbing one another in the house.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A note mentions another measurement from the threshold of the front door to
+    the end of the house, but says the augury method is unclear.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A note says the dragon probably refers to the mystic Dragon that functions
+    as an aspect compass in Malay charm-books.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Master of the house
+  description: The person whose death is said to be signified by the crow measurement.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Eight beasts
+  description: A named category of beasts whose names and associated events are used
+    in building augury.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Dragon (naga)
+  description: A large or monster dragon that turns round month by month in the stanza.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:4
+  name_or_label: Dairy-cow (sapi)
+  description: A young dairy-cow being milked, which sprawls and falls dead in the
+    stanza.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Inche 'Ali
+  description: A named person burning lime in the forest in the dairy-cow stanza.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Lion (singa)
+  description: A courageous and valorous lion gambolling at the end of the Point.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Wild dog or jackal (anjing)
+  description: A wild dog or jackal that barks at the deer from night to night.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Deer
+  description: The animal barked at by the wild dog or jackal in the dog stanza.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Men in the house
+  description: Men predicted to stab one another in the house under the dog sign.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Crow
+  description: An unlucky beast named as signifying the death of the master of the
+    house.
+  role_refs:
+  - role:1
+  - role:9
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: omen-bearing beast sign
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:10
+  basis: The passage treats beast names as measurement categories whose associated
+    events foreshadow outcomes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: auspicious sign
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: The dragon predicts safety and friendship, while the lion predicts lasting
+    luck and prosperity.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: householder at risk
+  assigned_to:
+  - fig:1
+  basis: The crow sign is said to signify the death of the master of the house.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: death image within stanza
+  assigned_to:
+  - fig:4
+  basis: The dairy-cow falls down dead during milking in its stanza.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: lime-burner
+  assigned_to:
+  - fig:5
+  basis: The stanza names Inche 'Ali as burning lime in the forest.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: barking animal
+  assigned_to:
+  - fig:7
+  basis: The wild dog or jackal barks at the deer from night to night.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: animal barked at
+  assigned_to:
+  - fig:8
+  basis: The deer is the object of the dog or jackal's barking.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: predicted household combatants
+  assigned_to:
+  - fig:9
+  basis: The dog stanza predicts that men in the house will stab one another.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: death-associated unlucky sign
+  assigned_to:
+  - fig:10
+  basis: The crow is named as an unlucky beast signifying the death of the master
+    of the house.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Threshold measurement
+  literal_form: The threshold is cut shorter when the measurement falls on an unlucky
+    beast; another noted measurement runs from the front-door threshold to the end
+    of the house.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:2
+  label: Eight beasts
+  literal_form: A category of eight beasts used with foreshadowed events in building
+    augury.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Crow
+  literal_form: The crow as an unlucky beast signifying the master's death.
+  associated_figures:
+  - fig:10
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Dragon or naga
+  literal_form: A dragon of bulk or monster dragon that turns round month by month.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:5
+  label: Fire and smoke in the forest
+  literal_form: Smoke of a fire in the forest where Inche 'Ali burns lime.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Milking of the dairy-cow
+  literal_form: A young dairy-cow is being milked and falls dead during the milking.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Lion
+  literal_form: A courageous, valorous lion gambolling at the end of the Point.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: Dog or jackal barking at deer
+  literal_form: A wild dog or jackal barks at a deer from night to night.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: House as locus of fate
+  literal_form: The house is associated with lasting luck and prosperity in one stanza,
+    and with men stabbing one another in another.
+  associated_figures:
+  - fig:1
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Unlucky measurement corrected by shortening the threshold
+  summary: A building measurement that falls on an unlucky beast, such as the crow,
+    is corrected by cutting the threshold shorter to obtain a more auspicious result.
+  figure_refs:
+  - fig:1
+  - fig:10
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Eight-beast augury introduced
+  summary: The passage explains that the eight beasts and the events they foreshadow
+    are remembered in rhyming stanzas.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dragon stanza
+  summary: The dragon is described as turning month by month and is associated with
+    safety from obstacles and friendship.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Dairy-cow stanza
+  summary: The stanza presents a forest fire image, Inche 'Ali burning lime, and a
+    young dairy-cow that dies during milking.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Lion stanza
+  summary: The lion is praised for courage and valor, and the house is promised lasting
+    luck and yearly prosperity.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:7
+  - sym:9
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Dog stanza
+  summary: A wild dog or jackal barks at a deer night after night, and the stanza
+    predicts obstacles and violent conflict inside the house.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Explanatory notes on measurement and dragon compass
+  summary: The notes mention an unclear alternative measurement and connect the dragon
+    with a mystic Dragon used as an aspect compass in Malay charm-books.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Measurement-based building augury
+  taxonomy_refs: []
+  basis: The passage describes a building measurement whose final result is matched
+    with animal signs that foreshadow household outcomes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: The passage begins mid-discussion, so the full measurement procedure is
+    not visible in the supplied excerpt.
+- id: motif:2
+  label: Animal signs foreshadow household fate
+  taxonomy_refs: []
+  basis: The eight beasts are explicitly said to foreshadow events, and the sample
+    stanzas attach safety, death, prosperity, obstacles, and violence to named beasts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: Only the first four sample animal stanzas and the crow example are visible
+    in this excerpt.
+- id: motif:3
+  label: Altering a building element to avert an unlucky omen
+  taxonomy_refs: []
+  basis: If the measurement coincides with an unlucky beast, the threshold is shortened
+    so that the result fits a more auspicious sign.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not describe who performs the alteration or any accompanying
+    rite.
+- id: motif:4
+  label: Monthly turning dragon as directional or aspect guide
+  taxonomy_refs: []
+  basis: The dragon stanza says the dragon turns month by month, and a note says this
+    probably refers to a mystic Dragon used as an aspect compass in Malay charm-books.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: medium
+  cautions: The note itself is cautious, using 'probably,' and details of the aspect
+    compass are outside the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage's dragon sign is cautiously linked by the source note to a mystic
+    Dragon in Malay charm-books that functions as an aspect compass.
+  claim_level: same_function
+  target: Mystic Dragon as an aspect compass in Malay charm-books
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supplied only in a brief footnote and is marked as
+    probable; the related charm-book material is not included in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8219-8225
+  quote_or_summary: If the last measurement coincides with an unlucky beast such as
+    the crow, which signifies the master's death, the threshold is shortened to fit
+    a more auspicious sign.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 8226-8230
+  quote_or_summary: The names of the eight beasts and the events they are supposed
+    to foreshadow are often preserved in rhyming stanzas.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8234-8241
+  quote_or_summary: The Dragon (naga) stanza describes a bulky monster dragon that
+    turns month by month and predicts safety from stumbling-blocks and friendship.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8243-8251
+  quote_or_summary: The Dairy-Cow (sapi) stanza mentions smoke from a forest fire,
+    Inche 'Ali burning lime, and a young dairy-cow falling dead during milking.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 8253-8260
+  quote_or_summary: The Lion (singa) stanza describes a courageous, valorous lion
+    and says the house's luck will last, bringing prosperity year to year.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 8262-8269
+  quote_or_summary: The Dog (anjing) stanza has a wild dog or jackal barking at a
+    deer night after night and predicts stumbling-blocks and stabbing among men in
+    the house.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 8271-8276
+  quote_or_summary: A note states that another measurement ran from the front-door
+    threshold to the end of the house, but that the augury method in this case is
+    unclear.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 8278-8286
+  quote_or_summary: A note says the dragon probably refers to the mystic Dragon that
+    serves in Malay charm-books as an 'aspect compass.'
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized from supplied passage with short quoted
+    term.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The supplied passage is partially truncated at the beginning and end and
+    includes only some of the eight-beast stanzas. Literal details are clear, but
+    the full ritual procedure and complete omen set are not visible.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparisons were added beyond the source note's own comparison to Malay charm-books.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l8219-l8288
+  passage_sha256=c2b853eef5ef69348674552bce90c275bb1c944faff04a0e6a4ed34c0c8695ee
+

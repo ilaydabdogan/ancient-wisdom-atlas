@@ -1,0 +1,405 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l4715-l4746
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: THE FOUR UOUAS. / NGANA KAMUAMBATA NI NGANA KAMUAMBELA. / MR. CARRY-ME-NOT
+    AND MR. TELL-ME-NOT. / MUTELEMBE NI NGUNGA.; lines 4715-4746
+  start: '4715'
+  end: '4746'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“Mr. Tell-me-not died, Mr. Carry-me-not died.”"
+  summary: Mr. Tell-me-not and Mr. Carry-me-not do not eat or drink, set out on a
+    road, collapse or are carried home in a hammock, die after eight days, and are
+    buried separately. The passage then states a moral that one should listen to a
+    companion’s warning, because refusal to listen leads to harm or death.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Mr. Tell-me-not eats nothing and drinks no water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mr. Carry-me-not drinks no water and eats no food.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The two start out, halt on the road, and Mr. Tell-me-not falls on the ground.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Their fathers send a hammock, and the two are placed in it and carried home.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The two are said to have made eight days before both die.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Mr. Carry-me-not dies on the back of the other.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Each man is buried in his own grave.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage teaches that one should listen when another person or companion
+    warns against an action that will bring trouble.
+  category: speech
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:9
+  text: The passage says that a person who listens to no one will find only what will
+    kill him.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The narrator closes by saying that he has told the story of Mr. Carry-me-not
+    and has finished.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Mr. Tell-me-not
+  description: A named figure who eats nothing, drinks no water, falls on the road,
+    is carried home in a hammock, dies, and is buried.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Mr. Carry-me-not
+  description: A named figure who drinks no water, eats no food, is carried home in
+    a hammock, dies on the back of the other, and is buried.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: their fathers
+  description: The fathers of the two named figures, who send a hammock.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: narrator
+  description: The speaker who addresses ladies and gentlemen and says the story has
+    been told and finished.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: paired travelers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both named figures start out together and are later carried home together.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: fatal non-listeners in moral example
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Their deaths are followed by an explicit lesson about listening to another
+    person’s warning and the danger of not listening.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:3
+  label: senders of hammock
+  assigned_to:
+  - fig:3
+  basis: Their fathers send a hammock after the figures halt on the road.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: storyteller
+  assigned_to:
+  - fig:4
+  basis: The speaker states that he has told the story and has finished.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: hammock
+  literal_form: hammock sent by the fathers and used to carry the two figures home
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: road
+  literal_form: road where the travelers halt and Mr. Tell-me-not falls
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: eight days
+  literal_form: the period the two figures are said to have made before dying
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: separate graves
+  literal_form: one man in his grave and the other man in his grave
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: food and water withheld
+  literal_form: nothing eaten and no water drunk by the two named figures
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: abstinence before departure
+  summary: Mr. Tell-me-not and Mr. Carry-me-not do not eat or drink before setting
+    out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: collapse on the road
+  summary: The two start, halt on the road, and Mr. Tell-me-not falls on the ground.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: hammock sent and return home
+  summary: Their fathers send a hammock, and the two are placed in it and taken home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: death and burial
+  summary: After eight days, both named figures die; Mr. Carry-me-not dies on the
+    back of the other, and they are buried in separate graves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: explicit moral and closing
+  summary: The passage states that one should heed another person’s warning, that
+    refusal to listen leads to death, and the narrator closes the tale.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: refusal to heed counsel leads to death
+  taxonomy_refs:
+  - wisdom
+  basis: The deaths of the two named figures are followed by an explicit lesson that
+    a person should listen when another warns against an action that will bring trouble,
+    and that one who does not listen will find what kills him.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage excerpt does not preserve the earlier warning or refusal itself;
+    the moral supplies the interpretation.
+- id: motif:2
+  label: fatal journey without food or water
+  taxonomy_refs:
+  - departure
+  basis: The two named figures do not eat or drink, start out, halt on the road, are
+    carried home, and die.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The causal link between fasting, travel, and death is suggested by sequence
+    but not explicitly explained.
+- id: motif:3
+  label: paired companions share a fatal fate
+  taxonomy_refs: []
+  basis: The two named figures travel together, are carried home together, die after
+    the same stated period, and are buried separately.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage does not identify them as siblings or twins, so no kinship
+    motif is assigned.
+comparison_claims:
+- id: claim:1
+  claim: The passage functions as a didactic wisdom tale in which the narrated deaths
+    exemplify the danger of refusing counsel.
+  claim_level: same_function
+  target: 'wisdom motif family: heed counsel or suffer harm'
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is functional only; the passage provides no evidence for
+    historical contact, common inheritance, or a specific external analogue.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4715-4746
+  quote_or_summary: "“Mr. Tell-me-not eats nothing, drinks no water. Mr. Carry-me-not
+    drinks no water, eats no food.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 4715-4746
+  quote_or_summary: "“They start. They halt on the road; Mr. Tell-me-not falls on
+    the ground.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4715-4746
+  quote_or_summary: Their fathers send a hammock, and the two figures are put in it
+    and taken home.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 4715-4746
+  quote_or_summary: "“Mr. Tell-me-not, Mr. Carry-me-not, they made eight days. Mr.
+    Tell-me-not died, Mr. Carry-me-not died.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 4715-4746
+  quote_or_summary: "“The one, Mr. Carry-me-not, died on the back of the other.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 4715-4746
+  quote_or_summary: They are buried separately, one man in his grave and the other
+    man in his grave.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: lines 4715-4746
+  quote_or_summary: "“Thou, friend, do not do this; it will bring thee trouble”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:8
+  type: summary
+  locator: lines 4715-4746
+  quote_or_summary: The moral says that on earth one listens to another, and that
+    a person should listen to a companion when he speaks.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: quote
+  locator: lines 4715-4746
+  quote_or_summary: "“Thou, who dost not listen to any one, art a beast of the forest;
+    thou shalt find only what will kill thee”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:10
+  type: summary
+  locator: lines 4715-4746
+  quote_or_summary: The narrator addresses ladies and gentlemen, says he has told
+    the story of Mr. Carry-me-not, and closes the tale.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about the deaths and the closing moral. Motif labels
+    beyond the moral are more tentative because the excerpt does not include earlier
+    context for the warning or refusal.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. No historical-contact or inheritance claims are made.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l4715-l4746
+  passage_sha256=b3b581869c4e3dbd3a2871e4a07af7f68ef45280d2e073346e589f33d1dd6177
+

@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.native-american-blackfoot-lodge-tales-grinnell-archive-l9896-l9919
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+passage_locator:
+  label: HUNTING  235 / HUNTING  237 / HUNTING  239 / HUNTING    .,  241; lines 9896-9919
+  start: '9896'
+  end: '9919'
+  translation: Blackfoot Lodge Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a wolf and coyote trap made from inward-angled stakes
+    and an outside dirt pile, reports Hugh Monroe's later use of such a trap, notes
+    early beaver hunting with bows and arrows, and characterizes Blackfeet hunting
+    skill on prairie and mountain terrain in contrast with northern Crees mountain
+    hunting.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A trap enclosure is described with stakes placed in a circle at an inward
+    angle, a few inches apart, all pointing toward the center.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At one point dirt was piled against the stakes from outside, allowing wolves
+    to climb up, jump into the enclosure, and then be unable to jump out.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hugh Monroe reports that he and his sons made a similar trap about thirty
+    years earlier and caught eighty-three wolves and coyotes in one night.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In early times beaver are described as very abundant and tame, and they were
+    shot with bows and arrows.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Blackfeet are described as skilled prairie hunters with notable ability
+    in stalking and killing antelope.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Some Blackfeet wore hats made from the skin and horns of an antelope head
+    when approaching game.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Blackfeet are also described as skillful in climbing mountains and killing
+    sheep and goats, while the northern Crees are described as poor mountain hunters.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: wolves and coyotes
+  description: Canids that enter or are caught in the described trap.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Hugh Monroe and his sons
+  description: People said to have made a trap like the one described and caught wolves
+    and coyotes in it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: beaver
+  description: Animals described as formerly abundant and tame, hunted with bows and
+    arrows.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Blackfeet
+  description: People described as skilled prairie hunters and also skillful in mountain
+    hunting.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: antelope
+  description: Wary prairie game animals stalked and killed by Blackfeet hunters.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: sheep and goats
+  description: Mountain game animals killed by Blackfeet hunters.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: northern Crees
+  description: A prairie people described in the passage as poor mountain hunters.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: trap makers and reported practitioners
+  assigned_to:
+  - fig:2
+  basis: Hugh Monroe says he and his sons made a similar trap and caught wolves and
+    coyotes.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: trapped animals
+  assigned_to:
+  - fig:1
+  basis: Wolves enter the enclosure and cannot jump out; wolves and coyotes are reported
+    caught in a similar trap.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: hunted game animals
+  assigned_to:
+  - fig:3
+  - fig:5
+  - fig:6
+  basis: Beaver, antelope, sheep, and goats are each described as animals hunted or
+    killed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: skilled hunters
+  assigned_to:
+  - fig:4
+  basis: The passage calls the Blackfeet splendid prairie hunters and also skillful
+    at mountain hunting.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: contrasted poor mountain hunters
+  assigned_to:
+  - fig:7
+  basis: The passage states that the northern Crees are prairie people but poor mountain
+    hunters.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: one-way stake trap enclosure
+  literal_form: A circular enclosure of stakes angled inward, with an outside dirt
+    pile used as an entry point.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: antelope-head hunting hat
+  literal_form: A hat made of the skin and horns of an antelope head.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: bows and arrows
+  literal_form: Bows and arrows used to shoot beaver.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: mountain hunting terrain
+  literal_form: Mountains as terrain for hunting sheep and goats.
+  associated_figures:
+  - fig:4
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Wolf and coyote trap enclosure
+  summary: A stake enclosure with an outside dirt pile allows wolves to jump inside
+    but prevents them from leaving; a later example by Hugh Monroe and his sons caught
+    many wolves and coyotes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Early beaver hunting
+  summary: Beaver are described as formerly abundant and tame and as hunted with bows
+    and arrows.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Antelope stalking with antelope-head hats
+  summary: Blackfeet hunters stalk antelope, sometimes wearing hats made from antelope
+    head skin and horns to approach the game.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Mountain hunting and Cree contrast
+  summary: The passage says the Blackfeet also hunt sheep and goats in mountains and
+    contrasts them with northern Crees, described as poor mountain hunters.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: one-way animal trap enclosure
+  taxonomy_refs: []
+  basis: The passage describes a stake enclosure and dirt approach that lets wolves
+    enter but not escape, with a reported catch of wolves and coyotes in a similar
+    trap.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is presented as practical hunting technology, not as a mythic or
+    sacred motif.
+- id: motif:2
+  label: animal-head disguise for approaching prey
+  taxonomy_refs: []
+  basis: Hunters sometimes wore hats made from antelope head skin and horns when approaching
+    game.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage describes a utilitarian hunting disguise; it does not state
+    transformation or shapeshifting.
+- id: motif:3
+  label: terrain-specific hunting prowess contrast
+  taxonomy_refs: []
+  basis: The passage contrasts Blackfeet skill in both prairie and mountain hunting
+    with northern Crees described as poor mountain hunters.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is an ethnographic comparison of hunting skill rather than a mythological
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage internally compares Blackfeet and northern Crees as prairie
+    peoples, while contrasting their mountain-hunting skill: the Blackfeet are described
+    as skillful mountain hunters and the northern Crees as poor mountain hunters.'
+  claim_level: same_function
+  target: northern Crees
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is ethnographic and functional, not a claim of shared
+    myth, historical contact, or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9898-9903
+  quote_or_summary: A trap is described with inward-angled stakes in a circle and
+    an outside dirt pile; wolves jump in but cannot jump out.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 9904-9906
+  quote_or_summary: Hugh Monroe says he and his sons made a similar trap about thirty
+    years earlier and caught eighty-three wolves and coyotes in one night.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 9908-9909
+  quote_or_summary: In early times, beaver were abundant and tame and were shot with
+    bows and arrows.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 9911-9915
+  quote_or_summary: The Blackfeet are described as excellent prairie hunters, skilled
+    at stalking antelope and sometimes using antelope-skin-and-horn hats to approach
+    game.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 9916-9919
+  quote_or_summary: The passage says the Blackfeet were also skillful in climbing
+    mountains and killing sheep and goats, while northern Crees are described as poor
+    mountain hunters.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif candidates are practical hunting-pattern
+    candidates rather than mythic motif-family matches; no motif-family taxonomy refs
+    were assigned.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The passage is ethnographic hunting material rather than a narrative myth episode. The opening line appears to continue a sentence from preceding text, so the role of the mentioned dead buffalo is not inferred.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-blackfoot-lodge-tales-grinnell-archive__l9896-l9919
+  passage_sha256=72f7bf5c4bd576ec1bd36ff2ff6c8d4e549132690e2ee25c429a5b6b2160959a
+

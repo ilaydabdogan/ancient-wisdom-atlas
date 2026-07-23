@@ -1,0 +1,309 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l16262-l16303
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: MAN- EATING  CROCODILES / REPTILES  AND  REPTILE  CHARMS / THE  CROCODILE
+    - WIZARD / REPTILES  AND  REPTILE  CHARMS; lines 16262-16303
+  start: '16262'
+  end: '16303'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes equipment and procedure for catching a crocodile:
+    a sharpened wooden piece is hidden inside a fowl bait, attached to twine, a long
+    rattan line, and a visible float; the bait is placed on a small floating platform
+    near the riverbank and secured to a branch or stake. If the gear disappears by
+    morning, the crocodile is presumed to have swallowed the bait and gone off towing
+    the rattan. The passage adds practical advice for pursuing an aggressive crocodile
+    by boat rather than sampan, with a footnote explaining the sampan as a tree-trunk
+    canoe.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A sharpened piece of hard wood is attached at its middle to twine, which has
+    multiple strands held together by knots so that a crocodile will not easily bite
+    it through.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The twine is connected to a long uncut rattan line, and a small stick at the
+    end of the line serves as a visible float.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that crocodiles are partial to chicken, and that chicken
+    bait is successful in the Sepang River.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A killed fowl is cut lengthwise through the breast, the pointed hard-wood
+    piece is inserted, and the bird is bound up again with string.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Two pieces of light wood are nailed together to form a small floating platform,
+    and the fowl bait is placed on it raised on miniature trestles.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The furnished platform is placed near the bank, and the rattan line is hitched
+    over a branch or stake so the bait platform will not be carried away by the tide.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: If the rattan line, bait, and platform are gone by the next morning, the passage
+    interprets this as the crocodile having swallowed the fowl and gone away towing
+    the rattan, while the released platform drifts away.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says a crocodile may sometimes act aggressively during pursuit,
+    and recommends using a boat rather than a sampan.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A footnote explains that the sampan referred to is likely a native-built canoe
+    hollowed from a tree trunk.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: crocodile
+  description: A crocodile targeted by the baited apparatus; it may swallow the fowl
+    bait, tow the rattan line, and sometimes act aggressively during pursuit.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: bait-taking reptile
+  assigned_to:
+  - fig:1
+  basis: The passage describes the crocodile as swallowing the fowl bait and going
+    off with the rattan line in tow.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: dangerous pursued animal
+  assigned_to:
+  - fig:1
+  basis: The passage warns that a crocodile may become aggressive during pursuit and
+    recommends a boat.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: concealed pointed wood
+  literal_form: Sharpened hard-wood piece inserted into the fowl bait
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: stranded twine and rattan line
+  literal_form: Twine with multiple strands attached to a long uncut rattan line
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: fowl bait
+  literal_form: Killed chicken or other fowl cut open, fitted with the pointed wood,
+    and bound with string
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: floating bait platform
+  literal_form: Small light-wood platform with miniature trestles placed near the
+    bank
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: visible float
+  literal_form: Small stick affixed to the line as a visible float
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: riverbank setting
+  literal_form: Likely spot near the bank, with tide, branch or stake, and the Sepang
+    River named in connection with bait success
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Making the crocodile-catching gear
+  summary: The apparatus is prepared from a sharpened hard-wood piece, multi-strand
+    twine, a long rattan line, and a small visible float.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Preparing and setting the bait platform
+  summary: A fowl is killed, cut, fitted with the pointed wood, bound again, placed
+    on a small floating platform, and set near the bank with the rattan line secured
+    to a branch or stake.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Aftermath and pursuit
+  summary: By morning the line, bait, and platform may be gone; this is taken to mean
+    that the crocodile swallowed the bait and left towing the rattan. The passage
+    then gives practical advice for pursuing an aggressive crocodile by boat.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: baited capture of crocodile with concealed point and trailing line
+  taxonomy_refs: []
+  basis: The passage gives a sequence in which a pointed wooden piece is hidden in
+    fowl bait and connected to twine and a rattan line, so that a crocodile swallowing
+    the bait goes off towing the line.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a practical trapping procedure in the supplied passage, not an
+    explicit mythic narrative.
+- id: motif:2
+  label: floating bait platform placed at riverbank
+  taxonomy_refs: []
+  basis: The baited fowl is raised on miniature trestles on a small floating platform
+    placed near the bank and secured against the tide.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents the platform as trapping equipment; no symbolic or
+    ritual interpretation is stated.
+- id: motif:3
+  label: dangerous pursuit of aggressive crocodile
+  taxonomy_refs: []
+  basis: The passage warns that the crocodile may become aggressive during pursuit
+    and advises using a boat rather than a sampan.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: Only brief practical advice is given; no extended pursuit narrative is
+    present.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16262-16276
+  quote_or_summary: The passage describes a sharpened hard-wood piece attached to
+    multi-strand twine, a long rattan line, and a small visible float.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 16276-16284
+  quote_or_summary: The passage says crocodiles are partial to chicken in the Sepang
+    River; a fowl is killed, cut lengthwise, fitted with the pointed wood, and bound
+    up again.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 16284-16292
+  quote_or_summary: Two light pieces of wood are made into a small floating platform;
+    the bait is set on miniature trestles, placed near the bank, and secured with
+    the rattan line over a branch or stake.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 16292-16299
+  quote_or_summary: If the rattan line, bait, and platform disappear by morning, the
+    explanation given is that the crocodile swallowed the fowl and went off towing
+    the rattan while the platform drifted away.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 16299-16303
+  quote_or_summary: The passage warns that a crocodile may act aggressively during
+    pursuit, recommends a boat rather than a sampan, and notes Malay paddles as convenient.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: footnote within 16299-16303
+  quote_or_summary: A footnote explains that the sampan is likely a native-built canoe
+    hollowed from a tree trunk.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The practical sequence and objects are explicit in the supplied passage.
+    Motif labeling is descriptive rather than tied to a supplied taxonomy family.
+    No comparison claims were made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy reference was assigned; the passage concerns crocodiles and trapping apparatus rather than an explicit serpent motif or comparative mythic pattern.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l16262-l16303
+  passage_sha256=949f67dcdb066063b217b179d6551beda34f3ff83120e37f041e491cfccc328a
+

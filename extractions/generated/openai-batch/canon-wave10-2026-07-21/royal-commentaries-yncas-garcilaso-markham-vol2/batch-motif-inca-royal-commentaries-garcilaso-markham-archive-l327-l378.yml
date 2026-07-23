@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l327-l378
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: VOL.  II / THE  FIFTH  BOOK. / CHAPTER  I. / HOW  THEY  DIVIDED  THE  LAND  AMONGST  THE  VASSALS.;
+    lines 327-378
+  start: '327'
+  end: '378'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: The Yncas supplied the water with great ingenuity, and no maize crop was
+    sown without being also supplied with water.
+  summary: The passage describes how, after conquering and establishing government
+    in a province, the Ynca ordered cultivation expanded, irrigation channels built
+    for maize lands and pastures, and water supplied to otherwise barren land; it
+    also notes that pasture channels were destroyed after the Spaniards arrived, though
+    ruins remained visible.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: After conquering a kingdom or province, the Ynca established government among
+    the inhabitants according to his laws and customs described by the narrator as
+    idolatrous.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Ynca ordered cultivated land capable of yielding maize to be extended.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Irrigation channels were constructed to supply cultivated lands with water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Engineers directed irrigation channels according to the lands that needed
+    watering.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The land is described as largely barren for corn-yielding soil and as requiring
+    irrigation because it lies under the torrid zone.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Yncas supplied water ingeniously, and maize was not sown without being
+    supplied with water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Channels were also built to irrigate pasture land when autumn rains were lacking,
+    because the people maintained large flocks.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The pasture channels were destroyed after the Spaniards came into the country,
+    but their ruins were still visible to the narrator.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the Ynca
+  description: The ruler who conquers provinces, establishes government, orders cultivation
+    extended, and causes irrigation channels to be built.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the inhabitants
+  description: People of the conquered kingdom or province among whom the Ynca establishes
+    government.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the engineers
+  description: Workers or specialists who direct irrigation channels toward lands
+    requiring water.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: the Yncas
+  description: The people or ruling administration credited with supplying water and
+    constructing irrigation systems for crops and pastures.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: the Spaniards
+  description: The group whose arrival is temporally associated with the destruction
+    of pasture channels.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: conquering ruler
+  assigned_to:
+  - fig:1
+  basis: The passage says the Ynca had conquered kingdoms or provinces before establishing
+    government.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: royal organizer of cultivation and irrigation
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The ruler orders maize land extended and has irrigation channels constructed;
+    the Yncas supply water to crops.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: governed inhabitants
+  assigned_to:
+  - fig:2
+  basis: Government is established among the inhabitants of conquered provinces.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: irrigation planners
+  assigned_to:
+  - fig:3
+  basis: The engineers lead channels in directions required by the lands to be watered.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: pasture and flock managers
+  assigned_to:
+  - fig:4
+  basis: The Yncas irrigate pasture lands and care for pastures because they possess
+    immense flocks.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: later arrivals associated with channel destruction
+  assigned_to:
+  - fig:5
+  basis: The passage says pasture channels were destroyed as soon as the Spaniards
+    came into the country.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water supplied through irrigation channels to maize crops and pasture
+    land
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: irrigation channels
+  literal_form: constructed channels leading water to cultivated land and pastures
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: maize-yielding land
+  literal_form: cultivated land capable of yielding maize or corn
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: pasture land
+  literal_form: pastures irrigated when autumn rains failed, connected with large
+    flocks
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: ruins of destroyed channels
+  literal_form: visible ruins of channels destroyed after the arrival of the Spaniards
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Conquest followed by government and agricultural order
+  summary: After conquest, the Ynca establishes government among the inhabitants and
+    orders maize-capable land to be expanded.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Construction and direction of irrigation channels
+  summary: The Ynca causes irrigation channels to be built, and engineers lead them
+    toward lands needing water because the region requires irrigation.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Watering crops and pastures
+  summary: The Yncas supply water to every maize crop and also irrigate pastures when
+    autumn rains fail, in connection with their large flocks.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Destruction and survival of channel ruins
+  summary: The pasture channels are said to have been destroyed after the Spaniards
+    arrived, while their ruins remained visible.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Conquering ruler orders cultivation and waterworks
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage links conquest and government with the ruler's command to expand
+    maize land and construct irrigation channels, presenting royal authority through
+    land organization and agricultural provision.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage is an administrative-historical description rather than an
+    explicit mythic legitimation narrative; the taxonomy link is therefore tentative.
+- id: motif:2
+  label: Managed water creates agricultural fertility
+  taxonomy_refs: []
+  basis: The land is described as barren without irrigation, while water supplied
+    through channels enables maize crops and pastures.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a literal agrarian pattern in the passage; no explicit sacred
+    or mythic symbolism is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 327-378, chapter opening
+  quote_or_summary: After conquering a kingdom or province, the Ynca establishes government
+    among the inhabitants and orders maize-capable cultivated land to be extended.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 327-378, irrigation-channel construction
+  quote_or_summary: The Ynca causes irrigation channels to be constructed for the
+    extension and watering of cultivated land.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 327-378, engineers and terrain
+  quote_or_summary: Engineers direct channels to lands needing water; the passage
+    describes much of the land as barren for corn-yielding soil and requiring irrigation
+    under the torrid zone.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 327-378, water for maize
+  quote_or_summary: "“The Yncas supplied the water with great ingenuity, and no maize
+    crop was sown without being also supplied with water.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 327-378, pasture channels and later ruin
+  quote_or_summary: Channels also irrigate pasture land when autumn rains fail; the
+    passage links this to immense flocks and says those pasture channels were destroyed
+    after the Spaniards came, though their ruins remained visible.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the passage is primarily administrative and agrarian, not explicitly mythic. No
+    comparison claims are made because the supplied passage does not itself support
+    cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The supplied passage ends mid-sentence after 'Having made the irrigation channels, they levelled the'; no extraction was made from the incomplete sentence.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l327-l378
+  passage_sha256=29db514d6d86c09ebd2c28e77887d0b045fd302b5d18cf006b391b354fe4df49
+

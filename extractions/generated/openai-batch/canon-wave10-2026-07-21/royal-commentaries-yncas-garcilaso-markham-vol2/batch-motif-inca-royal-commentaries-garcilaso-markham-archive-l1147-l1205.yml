@@ -1,0 +1,391 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l1147-l1205
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: FIRST  BOOK  OF  THK / CHAPTER  III. / HOW  THE  NEW  WORLD  WAS  DISCOVERED.
+    / KOVAL  COMMENTARIES.; lines 1147-1205
+  start: '1147'
+  end: '1205'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“At the end of this long time the wind went down, and they found themselves
+    near an island.”"
+  summary: The passage recounts Alonzo Sanchez de Huelva’s trading voyage, a violent
+    squall that drives his ship for twenty-eight or twenty-nine days without reliable
+    navigation, a landfall near an uncertain island supposed to be St. Domingo, and
+    the narrator’s Christian interpretation of the event as divine mercy shown through
+    paradoxical means and as the sending of evangelizing light to the New World.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Alonzo Sanchez de Huelva is described as a native pilot from Huelva who owned
+    a small ship and traded between Spain, the Canaries, Madeira, and Spain again.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: During the passage from the Canaries to Madeira, a heavy squall forced the
+    ship to run before it for twenty-eight or twenty-nine days.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: During the long storm-driven passage, the pilot could not take an altitude
+    for latitude or course.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The ship’s crew suffered severe hardship in the storm and could neither eat
+    nor sleep.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the wind ceased, the ship was near an island whose identity is uncertain,
+    though the narrator says it was supposed to be the island now called St. Domingo.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator identifies the driving wind as the Solano, or east wind, and
+    notes that such a wind in that quarter usually appeases rather than raises a storm.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The narrator says the Almighty Lord uses mysterious opposites to show mercy,
+    giving examples of water from a rock and sight for the blind from mud placed in
+    the eyes.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The narrator says God displayed piety by sending his Evangelist and true light
+    over the New World, which was in need of it.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Alonzo Sanchez de Huelva
+  description: A native pilot of Huelva with a small trading ship.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: crew of the ship
+  description: The ship’s crew, who suffered hardship during the storm.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Almighty Lord
+  description: The divine figure whom the narrator describes as showing mercy through
+    mysterious opposites and sending an Evangelist and true light.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: unnamed Evangelist and true light
+  description: An unnamed agent or figure described as being sent by God over the
+    New World.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: people of the New World
+  description: The people of the New World are described as needing the Evangelist
+    and true light.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: pilot-merchant voyager
+  assigned_to:
+  - fig:1
+  basis: He owns a small ship and conducts a trading route between Spain, the Canaries,
+    and Madeira.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: storm-suffering crew
+  assigned_to:
+  - fig:2
+  basis: The crew suffers hardship in the storm and cannot eat or sleep.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: merciful divine actor
+  assigned_to:
+  - fig:3
+  basis: The narrator says the Almighty Lord shows mercy through mysterious opposites
+    and sends evangelizing light.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: sent evangelizing agent
+  assigned_to:
+  - fig:4
+  basis: The passage says God sent his Evangelist and true light over the New World.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: recipients in need of evangelizing light
+  assigned_to:
+  - fig:5
+  basis: The New World’s people are described as being in need of the Evangelist and
+    true light.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: small ship
+  literal_form: A small trading ship owned by Alonzo Sanchez de Huelva.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: storm wind
+  literal_form: A heavy squall and the Solano, or east wind, that drives the ship
+    for many days.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: uncertain island
+  literal_form: An island reached after the wind goes down, supposed but not certainly
+    known to be St. Domingo.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: water from a rock
+  literal_form: Water taken from a rock, cited as an example of divine mercy through
+    an unlikely means.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: mud giving sight
+  literal_form: Mud placed in blind eyes, cited as producing sight.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: true light
+  literal_form: The phrase “true light” used for what God sends over the New World.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: commercial sea route
+  summary: Alonzo Sanchez de Huelva travels by small ship on a trade route involving
+    Spain, the Canaries, and Madeira.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: storm-driven loss of navigation
+  summary: A heavy squall drives the ship for twenty-eight or twenty-nine days, preventing
+    normal navigation and causing hardship to the crew.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: landfall near an uncertain island
+  summary: After the wind ceases, the ship finds itself near an island, perhaps St.
+    Domingo, though the passage says this is not certain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: providential interpretation
+  summary: The narrator interprets the unusual wind and discovery in Christian terms,
+    saying God shows mercy through paradoxical means and sends an Evangelist and true
+    light over the New World.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: storm-driven unintended landfall
+  taxonomy_refs:
+  - departure
+  basis: A trading voyage is forced by a violent squall into a long, uncontrolled
+    passage that ends at an unexpected island.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: 'The taxonomy reference is broad: the voyage is commercial and involuntary
+    rather than a formal heroic departure.'
+- id: motif:2
+  label: divine mercy through paradoxical means
+  taxonomy_refs: []
+  basis: The narrator explains the unusual wind and discovery by saying God uses mysterious
+    opposites to show mercy, comparing it to water from rock and sight from mud.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is the narrator’s Christian theological interpretation of the event,
+    not a separate narrated miracle within the voyage itself.
+- id: motif:3
+  label: evangelizing light sent to a needy world
+  taxonomy_refs: []
+  basis: The passage says God sent his Evangelist and true light over the New World,
+    which was in need of it.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The excerpt does not identify the Evangelist by name, and the description
+    reflects the narrator’s religious framing.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the storm-driven discovery to a biblical-style
+    miracle pattern in which divine mercy works through unlikely or opposite means,
+    naming water from a rock and sight from mud as examples.
+  claim_level: same_function
+  target: biblical miracle pattern of divine mercy through unlikely means
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the author’s explicit analogy and does not
+    establish a broader historical relationship beyond the Christian interpretive
+    frame in this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1147-1164
+  quote_or_summary: Alonzo Sanchez de Huelva, a native pilot of Huelva, owns a small
+    ship and trades merchandise between Spain, the Canaries, Madeira, and Spain again.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; full text use allowed per metadata.
+- id: ev:2
+  type: summary
+  locator: lines 1165-1175
+  quote_or_summary: On the passage from the Canaries to Madeira, a heavy squall forces
+    the ship to run before it for twenty-eight or twenty-nine days, during which the
+    pilot cannot take altitude for latitude or course.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; full text use allowed per metadata.
+- id: ev:3
+  type: quote
+  locator: lines 1175-1179
+  quote_or_summary: "“The crew of the ship suffered the greatest hardships in the
+    storm; for they could neither eat nor sleep.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; full text use allowed per metadata.
+- id: ev:4
+  type: summary
+  locator: lines 1180-1186
+  quote_or_summary: After the wind goes down, the ship is near an island; the island
+    is not known for certain, though it is supposed to have been what is now called
+    St. Domingo.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; full text use allowed per metadata.
+- id: ev:5
+  type: summary
+  locator: lines 1186-1193
+  quote_or_summary: The narrator argues that the driving wind must have been the Solano,
+    or east wind, because St. Domingo lies west of the Canaries, while noting that
+    this wind usually calms rather than raises a storm in that quarter.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; full text use allowed per metadata.
+- id: ev:6
+  type: summary
+  locator: lines 1193-1201
+  quote_or_summary: The narrator says the Almighty Lord uses mysterious things for
+    their opposites to show mercy, citing water from a rock and sight for the blind
+    from mud placed in the eyes.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; full text use allowed per metadata.
+- id: ev:7
+  type: summary
+  locator: lines 1201-1205
+  quote_or_summary: The narrator says God displayed piety by sending his Evangelist
+    and true light over the New World, which was in great need of it.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; full text use allowed per metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The narrative events and theological framing are clear, but line subdivisions
+    are approximate within the supplied range and the excerpt ends mid-sentence after
+    describing the people of the New World.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references are limited to supplied available refs and are used cautiously.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l1147-l1205
+  passage_sha256=281461d4e2aa9bbb77dbc857714208fdfef05e04c2772c2599476e6af9ca95ae
+

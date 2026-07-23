@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l2401-l2408
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: HOW    EVENING-STAR  S    DAUGHTER    WAS    OVERCOME.  4I / CONTEST  BETWEEN  THE  MORNING-STAR  AND  THE  MOON.  43
+    / TRUE   STORIES   OF  THE   HEAVENLY   BEINGS. / ORIGIN  OF  THE  BASKET  DICE  GAME.  45;
+    lines 2401-2408
+  start: '2401'
+  end: '2408'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: One night the poor boy asked the two boys if they had learned all that was
+    to be known of the sacred bundles and the mysteries...
+  summary: A poor boy asks two boys whether they have learned all knowledge concerning
+    sacred bundles and mysteries. A note identifies the tale as told by Mouth-Waving-in-Water,
+    an old Kitkehahki medicine-man, and says the tale is treated as history and meant
+    to encourage young men toward war-path deeds and the hope of founding a new band.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The setting of the immediate narrative action is one night.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A poor boy asks two boys whether they have learned all that is to be known
+    about sacred bundles and mysteries.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note names Mouth-Waving-in-Water as the teller of the tale.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note describes Mouth-Waving-in-Water as a very old Kitkehahki medicine-man
+    and one of the oldest living Pawnee.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The note says the tale apparently recounts a historical event and is told
+    as history.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note says the tale is supposed to stimulate young men to greater deeds
+    on the war-path and encourage belief that they may become founders of a new band.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: poor boy
+  description: A boy described as poor who questions two boys.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: two boys
+  description: Two boys asked whether they have learned the knowledge of sacred bundles
+    and mysteries.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Mouth-Waving-in-Water
+  description: The named teller, described in the note as a very old Kitkehahki medicine-man
+    and old living Pawnee.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: young men
+  description: Young men whom the tale is said to encourage toward war-path deeds
+    and possible founding of a new band.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: The poor boy asks the two boys a question.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: questioned learners
+  assigned_to:
+  - fig:2
+  basis: The two boys are asked whether they have learned all relevant sacred knowledge.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: tale teller
+  assigned_to:
+  - fig:3
+  basis: The note states the tale was told by Mouth-Waving-in-Water.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: medicine-man
+  assigned_to:
+  - fig:3
+  basis: The note identifies Mouth-Waving-in-Water as a Kitkehahki medicine-man.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: intended exemplary audience
+  assigned_to:
+  - fig:4
+  basis: The note says the tale is supposed to stimulate young men to greater deeds.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sacred bundles
+  literal_form: sacred bundles
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mysteries
+  literal_form: mysteries connected with the sacred knowledge named in the question
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: war-path
+  literal_form: war-path
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: new band
+  literal_form: new band
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Night question about sacred knowledge
+  summary: At night, the poor boy asks the two boys whether they have learned all
+    that is known about the sacred bundles and mysteries.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Editorial note on teller and purpose
+  summary: The note identifies the teller and explains that the story is treated as
+    history and functions to encourage young men toward war-path achievements and
+    possible founding of a new band.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: learning complete sacred knowledge
+  taxonomy_refs:
+  - wisdom
+  - initiation
+  basis: The passage centers on whether the two boys have learned all that is known
+    about sacred bundles and mysteries.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt is fragmentary and does not show an initiation rite or the
+    content of the knowledge.
+- id: motif:2
+  label: exemplary historical tale encouraging war deeds and band founding
+  taxonomy_refs:
+  - culture_hero
+  basis: The note says the tale is told as history and is meant to encourage young
+    men to greater war-path deeds and possible founding of a new band.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage gives only the editorial purpose of the tale, not the full
+    narrative of a founder or culture hero.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2401-2402
+  quote_or_summary: A poor boy asks two boys at night whether they have learned all
+    that is known of the sacred bundles and mysteries.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2404-2405
+  quote_or_summary: The tale is attributed to Mouth-Waving-in-Water, described as
+    a very old Kitkehahki medicine-man and one of the oldest living Pawnee.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2406-2408
+  quote_or_summary: The note says the tale apparently recounts a historical event,
+    is told as history, and is meant to encourage young men toward war-path deeds
+    and possible founding of a new band.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is short and fragmentary. Literal figures and editorial framing
+    are clear, but motif identification is tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific comparative claim beyond tentative motif-family alignment.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l2401-l2408
+  passage_sha256=47d2adcb5ed005b9c8ea8c728f96f9a1ac5f166de18e48d124eefb48f6fc2944
+

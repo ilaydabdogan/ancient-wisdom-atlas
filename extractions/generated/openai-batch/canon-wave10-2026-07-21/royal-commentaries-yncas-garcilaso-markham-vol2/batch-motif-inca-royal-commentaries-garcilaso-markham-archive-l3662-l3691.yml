@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l3662-l3691
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XXIV. / FIFTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OP  THE  YNCAS.
+    / FIFTH  BOOK  OF  THE  ROYAL; lines 3662-3691
+  start: '3662'
+  end: '3691'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes large Inca irrigation channels cut through mountain
+    rock and reinforced with hewn stone and earthwork. The narrator reports inspecting
+    a channel in Cunti-suyu through the Quechua province and praises the works as
+    grand. He says the Spaniards neglected, failed to understand, and allowed many
+    of these public irrigation works to fall into ruin, though remains are still visible.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The channels are described as ten to twelve feet wide.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On mountain sides, rock was broken through to make a passage for water, with
+    hewn stone flags and earthwork strengthening the channel.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The channel construction included measures so that flocks moving from place
+    to place would not injure the channel.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator says he saw and carefully examined the irrigating channel passing
+    through Cunti-suyu in the Quechua province.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The works are described as grand and admirable, surpassing any picture or
+    description.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Spaniards are said not to have repaired, valued, or recorded the public
+    works, and to have allowed them to be ruined and destroyed.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The channels built by the Yncas to irrigate arable lands are said to have
+    gone partly out of repair, with ruins and vestiges still remaining.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Yncas
+  description: Named as the constructors of channels made to irrigate arable lands.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: Spaniards
+  description: Described as strangers who neglected the public works and allowed them
+    to be ruined and destroyed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Narrator
+  description: The first-person speaker who saw and carefully examined the irrigating
+    channel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: constructors of irrigation channels
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Yncas constructed channels to irrigate arable
+    lands.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: first-person observer of public works
+  assigned_to:
+  - fig:3
+  basis: The narrator says he saw and examined the channel with care.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: neglectful later custodians
+  assigned_to:
+  - fig:2
+  basis: The Spaniards are said not to maintain or value the works and to have allowed
+    ruin and destruction.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water passage
+  literal_form: water carried through channels cut in rock
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: mountain side
+  literal_form: sides of the mountains through which rock was broken for the channel
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hewn stone channel reinforcement
+  literal_form: great flags of hewn stone strengthened with clods and earthwork
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: ruins and vestiges
+  literal_form: remaining ruined works and vestiges of channels
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Engineering of mountain irrigation channels
+  summary: A channel is described as wide, cut through mountain rock, reinforced with
+    hewn stone and earthwork, and protected from damage by passing flocks.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Narrator’s inspection of the Cunti-suyu channel
+  summary: The narrator reports seeing and carefully examining the irrigating channel
+    in the Quechua province of Cunti-suyu and praises the works as grand.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Neglect and ruin of Inca public works
+  summary: The Spaniards are said to have failed to maintain or value the public works,
+    allowing many irrigation channels to fall into ruin while remains still survive.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Ancestral irrigation works ordering the landscape
+  taxonomy_refs: []
+  basis: The passage emphasizes channels constructed through mountains and across
+    regions to conduct water and irrigate lands.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: This is a practical and historical public-works pattern rather than an
+    explicitly mythic motif in the passage.
+- id: motif:2
+  label: Ruin of earlier public works under later neglect
+  taxonomy_refs: []
+  basis: The passage contrasts admired Inca irrigation works with later Spanish failure
+    to repair them, resulting in ruin and surviving vestiges.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage supports a historical decline pattern, but it does not itself
+    frame the decline as supernatural or ritual.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3662-3665
+  quote_or_summary: "“The channels were from ten to twelve feet wide.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 3665-3674
+  quote_or_summary: On mountain sides, builders broke through rock for the water passage,
+    placed great hewn stone flags on the outer side, and strengthened them with clods
+    and earthwork so passing flocks would not injure the channel.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 3676-3679
+  quote_or_summary: The narrator says he saw and carefully examined the irrigating
+    channel passing through Cunti-suyu in the Quechua province.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 3679-3682
+  quote_or_summary: "“these works are so grand and admirable that they surpass any
+    picture or description”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: 3682-3688
+  quote_or_summary: The Spaniards, called strangers, are said not to have noticed,
+    repaired, understood, valued, or recorded the public works, and to have allowed
+    them to be ruined and destroyed.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 3688-3691
+  quote_or_summary: The same neglect is said to have affected channels constructed
+    by the Yncas to irrigate arable lands; many went out of repair, though ruins and
+    vestiges remained.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports observations about irrigation works, water,
+    mountains, inspection, and later ruin. Motif labeling is cautious because the
+    passage is historical-descriptive rather than explicitly mythological.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l3662-l3691
+  passage_sha256=3a017b4f1f29ca54d270e9652833395e62e0db47ea5507db8e309913ac5d5133
+

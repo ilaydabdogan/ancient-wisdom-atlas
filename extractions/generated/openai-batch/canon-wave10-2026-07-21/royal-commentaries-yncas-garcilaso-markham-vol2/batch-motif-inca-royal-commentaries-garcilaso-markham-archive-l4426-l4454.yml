@@ -1,0 +1,226 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l4426-l4454
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: OF  THE / ROYAL  COMMENTARIES  OF  TIIE  YNCAS. / OF  THE  ROYAL  OBSEQUIES,
+    / DESCRIBES  THE  PRINCIPAL  FESTIVAL  THEY  CELEBRATED.; lines 4426-4454
+  start: '4426'
+  end: '4454'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a Sixth Book heading and contents notice. It says the book
+    includes accounts of royal palace ornaments and furniture, royal obsequies, hunting
+    expeditions, posts, knot-based accounting, the conquests, laws, and government
+    of Ynca Pachacutec, a principal festival, coastal conquests, schools in Cuzco,
+    and Pachacutec's sayings.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage marks the end of the Fifth Book and begins the Sixth Book of the
+    Royal Commentaries of the Yncas.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sixth Book is said to contain accounts of ornaments and furniture of the
+    royal palace of the Yncas.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Sixth Book is said to contain an account of royal obsequies.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Sixth Book is said to contain accounts of hunting expeditions, posts,
+    and keeping accounts by means of knots.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Sixth Book is said to narrate the conquests, laws, and government of the
+    Ynca Pachacutec, identified as ninth king.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Sixth Book is said to describe the principal festival celebrated by the
+    Yncas.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Sixth Book is said to give an account of the conquest of many valleys
+    on the coast, the increase of schools in Cuzco, and sayings of the Ynca Pachacutec.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Yncas
+  description: The collective royal or cultural group named in the title and book
+    contents.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Ynca Pachacutec
+  description: A named Ynca ruler identified as the ninth king, associated with conquests,
+    laws, government, and sayings.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: royal group
+  assigned_to:
+  - fig:1
+  basis: The passage refers to the Royal Commentaries of the Yncas and to their royal
+    palace and festival.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: ninth king
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly identifies Ynca Pachacutec as ninth king.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: lawgiver and ruler
+  assigned_to:
+  - fig:2
+  basis: The passage associates Pachacutec with conquests, laws, government, and sayings.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: royal palace
+  literal_form: royal palace of the Yncas
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: knots for accounts
+  literal_form: knots used for keeping accounts
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: principal festival
+  literal_form: the principal festival they celebrated
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Cuzco schools
+  literal_form: schools in Cuzco
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Sixth Book contents announced
+  summary: A contents heading announces topics including royal palace objects, royal
+    obsequies, hunting, posts, knot-based accounting, Pachacutec's rule, a principal
+    festival, coastal conquests, schools in Cuzco, and Pachacutec's sayings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: royal authority organized through palace, funerary rites, law, conquest,
+    and festival
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: 'The passage foregrounds royal institutions and acts: royal palace contents,
+    royal obsequies, conquests, laws, government of a named king, and a principal
+    festival.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a book heading and contents notice, not a full narrative episode;
+    the royal-legitimacy motif is inferred from listed themes rather than described
+    ritual action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4426-4433
+  quote_or_summary: '"END OF THE FIFTH BOOK" followed by "SIXTH BOOK" and "ROYAL COMMENTARIES
+    OF THE YNCAS."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4435-4443
+  quote_or_summary: The contents notice says the book includes ornaments and furniture
+    of the royal palace, royal obsequies, hunting expeditions, posts, and keeping
+    accounts by means of knots.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4445-4447
+  quote_or_summary: The contents notice says the book narrates conquests, laws, and
+    government of the Ynca Pachacutec, ninth king.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4449-4454
+  quote_or_summary: The contents notice says the book describes the principal festival,
+    coastal valley conquests, the increase of schools in Cuzco, and sayings of Ynca
+    Pachacutec.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a contents heading, so literal extraction is straightforward,
+    while motif identification is limited and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not compare these contents to another motif family, text, or tradition.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l4426-l4454
+  passage_sha256=28a6ebb4cd29c042b6a820fe1f827a518a9ac9f648b197a3a8797ba3f089a6f2
+

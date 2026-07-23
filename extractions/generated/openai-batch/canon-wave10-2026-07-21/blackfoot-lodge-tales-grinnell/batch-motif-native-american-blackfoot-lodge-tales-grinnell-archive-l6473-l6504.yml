@@ -1,0 +1,332 @@
+---
+record_id: batch.motif.native-american-blackfoot-lodge-tales-grinnell-archive-l6473-l6504
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+passage_locator:
+  label: THE   BEARS / THE   WONDERFUL  BIRD / THE   RACE / THE   BAD   WEAPONS; lines
+    6473-6504
+  start: '6473'
+  end: '6504'
+  translation: Blackfoot Lodge Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Old Man loses his weapons while fording a river, makes replacement weapons
+    from available wood, then taunts a bear on a mountain. His rotten bow, spear,
+    and knife fail against the bear. Pursued and unable to find help or another weapon,
+    he picks up a bull's horn, places it on his head, bellows, and frightens the bear
+    away.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Old Man is carried downstream by a river current and loses his weapons.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Because he is hungry, Old Man makes a bow, arrows, a knife handle, and a spear
+    from the first wood he can find.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Old Man goes up a mountain and sees a bear digging roots.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Old Man hides and verbally taunts the bear twice.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The bear sees Old Man and runs after him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Old Man's arrows, spear, and knife fail because the wooden parts are rotten
+    and break.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Old Man runs from the bear and calls to the animals for help, but none come.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Old Man finds a bull's horn, places it on his head, bellows, and scares the
+    bear away.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Old Man
+  description: A figure who loses his weapons, makes replacement weapons, taunts a
+    bear, flees when his weapons fail, and finally scares the bear by using a bull's
+    horn.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Bear
+  description: A bear digging roots on the mountain; it pursues Old Man after being
+    taunted and later runs away when Old Man bellows with a horn on his head.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+- id: fig:3
+  name_or_label: Animals
+  description: Unnamed animals whom Old Man calls to for help; none come.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: weapon-maker with poor materials
+  assigned_to:
+  - fig:1
+  basis: Old Man makes replacement weapons from available wood, and the weapons later
+    break because they are rotten.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: taunter and improvised escape figure
+  assigned_to:
+  - fig:1
+  basis: Old Man taunts the bear and later escapes by using a bull's horn and bellowing.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:3
+  label: pursuing dangerous animal
+  assigned_to:
+  - fig:2
+  basis: The bear runs after Old Man and comes close to him during the pursuit.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:4
+  label: non-responding helpers
+  assigned_to:
+  - fig:3
+  basis: Old Man calls to the animals for help, but none come.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: river current
+  literal_form: river/current
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mountain
+  literal_form: mountain
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: bad weapons
+  literal_form: rotten bow, arrows, spear, and knife handle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: bull's horn
+  literal_form: bull's horn lying on the ground, placed on Old Man's head
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Loss of weapons in the river
+  summary: Old Man is fording a river when the current carries him downstream and
+    he loses his weapons.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Making replacement weapons
+  summary: Hungry after losing his weapons, Old Man makes new weapons from the first
+    wood he finds.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Taunting the bear on the mountain
+  summary: Old Man climbs a mountain, sees a bear digging roots, hides, and taunts
+    it until it sees him and gives chase.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Failed weapons and pursuit
+  summary: Old Man's rotten arrows, spear, and knife fail against the bear, so he
+    runs and unsuccessfully calls to animals for help.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Escape through horn and bellowing
+  summary: With the bear close behind, Old Man finds a bull's horn, places it on his
+    head, bellows loudly, and frightens the bear away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: weapon failure during animal pursuit
+  taxonomy_refs: []
+  basis: Old Man's newly made weapons fail one after another against the pursuing
+    bear because their wooden parts are rotten.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a local passage-level motif label, not matched to an available
+    taxonomy family.
+- id: motif:2
+  label: escape from predator by improvised animal impersonation
+  taxonomy_refs: []
+  basis: Old Man places a bull's horn on his head and bellows so loudly that the bear
+    is scared away.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage describes use of a horn and vocal mimicry, but it does not
+    state a full transformation.
+- id: motif:3
+  label: taunting a dangerous animal brings pursuit
+  taxonomy_refs: []
+  basis: Old Man insults the bear from hiding; when the bear sees him, it runs after
+    him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a descriptive motif candidate without a supplied taxonomy reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6473-6476
+  quote_or_summary: Old Man is fording a river; the current carries him downstream
+    and he loses his weapons.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6476-6479
+  quote_or_summary: Hungry, Old Man uses the first wood he finds to make a bow, arrows,
+    and handles for his knife and spear.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6479-6482
+  quote_or_summary: Old Man starts up a mountain and sees a bear digging roots.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 6482-6489
+  quote_or_summary: Old Man hides and calls the bear "No-tail animal" and then "you
+    dirt-eater."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 6489-6491
+  quote_or_summary: The bear sees Old Man and runs after him.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6492-6498
+  quote_or_summary: Old Man shoots arrows, throws his spear, and tries his knife,
+    but the rotten shafts or handles break.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6498-6501
+  quote_or_summary: Old Man runs from the bear, finds no weapon, calls to the animals
+    for help, and receives no help.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 6501-6504
+  quote_or_summary: When the bear is close, Old Man picks up a bull's horn, places
+    it on his head, bellows loudly, and scares the bear away.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are descriptive and
+    passage-level; no comparison claims are made because the passage does not itself
+    supply comparative links.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Line locators are inferred from the supplied range and passage sequence; page marker "157" is not treated as narrative content.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-blackfoot-lodge-tales-grinnell-archive__l6473-l6504
+  passage_sha256=0c8664e4faca9798b0cc6d2c9e3dd93565f3a523237429a4d54361eade0b83db
+

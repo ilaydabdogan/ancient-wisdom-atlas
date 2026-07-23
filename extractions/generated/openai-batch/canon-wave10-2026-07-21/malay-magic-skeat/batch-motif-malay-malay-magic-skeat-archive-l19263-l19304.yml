@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l19263-l19304
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: BIRTH  CEREMONIES / BIRTH  TABOOS / BIRTH  CEREMONIES / SPECIAL  MEDICINES;
+    lines 19263-19304
+  start: '19263'
+  end: '19304'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes postpartum medicines and procedures: a forehead
+    poultice during a forty-four-day retirement, a multi-herb potion and hot sealed
+    pot beverage, reuse of lees as a waist poultice, and a forty-fourth-day removal
+    of the roasting-place followed by house-wide floor washing and cleaning.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A poultice is applied to the patient's forehead after early bathing during
+    the forty-four days of her retirement.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The forehead poultice consists of leaves of tahi babi, jintan hitam, and garlic,
+    pounded and mixed with vinegar.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After three days, a mixture called “Hundred Herbs” in Selangor and “Pot-herbs”
+    in Malacca is made from many herbs, roots, and spices.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The ingredients are soaked in a large vessel of water, and strained liquor
+    is given to the patient every morning for about ten days.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Similar ingredients are boiled in a sealed large pot kept hot with live embers
+    and supply the patient's regular beverage until purification.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the first fortnight, lees from the vessel are made into a poultice applied
+    to the patient's waist, and fresh ingredients replace the old ones.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: On the forty-fourth day, the raised platform or roasting-place is taken down.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: On the forty-fourth day, the Floor-washing ceremony takes place, and the whole
+    house is washed and cleaned.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A footnote lists numerous bark, herb, root, and spice ingredients used in
+    the medicinal mixture.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the patient
+  description: A female patient in forty-four days of retirement who receives poultices,
+    potions, and beverages until purification.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: postpartum medicine recipient
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly describes medicines applied to or given to the patient
+    during her forty-four-day retirement and up to purification.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: forty-four-day retirement
+  literal_form: a forty-four-day period of the patient's retirement ending with purification-related
+    actions
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: medicinal poultice
+  literal_form: pounded leaves and garlic mixed with vinegar, applied to the forehead;
+    later lees made into a waist poultice
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: Hundred Herbs / Pot-herbs
+  literal_form: a mixture of herbs, roots, and spices soaked or boiled for the patient’s
+    drink and later poultice material
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: water vessel
+  literal_form: a large vessel of water in which ingredients are left to soak
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: live embers
+  literal_form: live embers placed under a sealed pot to keep the beverage hot
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: raised platform or roasting-place
+  literal_form: the saleian taken down on the forty-fourth day
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Floor-washing
+  literal_form: basoh lantei, a ceremony in which the whole house is washed and cleaned
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Forehead poultice during retirement
+  summary: During the forty-four-day retirement, after early bathing, a prepared poultice
+    of leaves, garlic, and vinegar is applied to the patient’s forehead.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Preparation and use of Hundred Herbs
+  summary: After three days, a large mixture of herbs, roots, and spices is prepared;
+    some is soaked in water and strained for a morning potion, while similar ingredients
+    are boiled in a sealed pot kept hot with embers for the patient's regular beverage.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Lees made into waist poultice
+  summary: After the first fortnight, the lees from the vessel are removed and made
+    into a poultice for the patient’s waist, with fresh ingredients replacing the
+    old.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Forty-fourth-day cleaning and closure
+  summary: On the forty-fourth day, the raised platform or roasting-place is dismantled,
+    Floor-washing is performed, and the whole house is washed and cleaned.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: postpartum seclusion with timed purification
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage describes a forty-four-day retirement for the patient, medicines
+    given until purification, and a concluding day on which the roasting-place is
+    removed and the house is ritually washed and cleaned.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage concerns postpartum care and purification rather than a narrated
+    miraculous or sacred birth; the taxonomy link is broad and should be reviewed.
+- id: motif:2
+  label: healing through compounded herbs and repeated applications
+  taxonomy_refs: []
+  basis: The passage emphasizes poultices, a large multi-herb preparation, daily potions,
+    a heated beverage, and reuse of lees as a poultice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a ritual-medical pattern rather than a named mythic motif in the
+    supplied taxonomy.
+- id: motif:3
+  label: ritual house washing at the end of confinement
+  taxonomy_refs: []
+  basis: At the close of the forty-four-day period, the passage states that Floor-washing
+    occurs and the whole house is thoroughly washed and cleaned.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives the action and timing but does not explain its symbolic
+    meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19266-19272
+  quote_or_summary: A poultice is applied to the patient's forehead after early bathing
+    during the forty-four days of retirement; it is made of tahi babi, jintan hitam,
+    garlic, and vinegar.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 19274-19282
+  quote_or_summary: After three days, a mixture called Hundred Herbs in Selangor and
+    Pot-herbs in Malacca is made from herbs, roots, and spices, soaked in a large
+    vessel of water, strained, and given every morning for about ten days.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 19282-19288
+  quote_or_summary: Similar ingredients are boiled in a large sealed pot kept hot
+    with live embers, furnishing the patient's regular beverage until purification.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 19288-19294
+  quote_or_summary: After the first fortnight, the lees are taken from the vessel
+    and made into a poultice for the patient's waist; fresh ingredients replace the
+    old ones.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 19296-19300
+  quote_or_summary: On the forty-fourth day, the raised platform or roasting-place
+    is taken down and the Floor-washing ceremony occurs; the whole house is washed
+    and cleaned.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 19302-19304 and footnote continuation
+  quote_or_summary: A footnote gives a list of actual ingredients, including barks,
+    herbs, roots, and spices such as turmeric, peppers, onions, coriander, cumin,
+    mustard seed, and others.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labeling is more tentative because
+    the passage is ethnographic ritual-medical description, not a narrative myth,
+    and the supplied motif taxonomy has only broad birth-related categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparison to another text, tradition, or motif family beyond its placement in birth ceremonies.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l19263-l19304
+  passage_sha256=57e26ffe6b69a5cf11f1ee89d9707c4ea26f6edab664ab25f990c2ae5da0467b
+

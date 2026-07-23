@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l20275-l20314
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XIII. / TWO  FAMOUS  ROADS  THAT  THERE  WERE  IN  PERU. / COMMENTARIES  OF  THE  YNCAS.
+    / NINTH  BOOK  OK  THE  BOYAL; lines 20275-20314
+  start: '20275'
+  end: '20314'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Guaynacava returning to Quito by the coast valleys
+    and the Indians making a second great road along the coast. The road is described
+    as wide, walled through valleys, marked by poles and stakes through deserts, and
+    five hundred leagues long like the mountain road. It notes later damage to the
+    poles by Spaniards, the survival of the valley walls, the strewing of branches
+    and flowers along the ruler's route, and source attribution to Agustin de Zarate
+    and Pedro de Cieza de Leon.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Guaynacava returned to visit Quito, a province he liked because he had conquered
+    it, and travelled by the coast valleys.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Indians made another road on the coast and faced difficulties there comparable
+    to those in the mountains.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In valleys with trees and rivers, the road was nearly forty feet wide and
+    had strong high mud walls on both sides.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Across deserts, poles and stakes were fixed in a line so travellers would
+    not lose the way or turn aside.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The coast road, like the mountain road, is stated to have been five hundred
+    leagues long.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Many poles were later broken because Spaniards used them for firewood, while
+    the walls in the valleys remained nearly intact.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The part of the coast region over which Guaynacava travelled was strewn with
+    branches and sweet-smelling flowers.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The narrator says the preceding material is from Agustin de Zarate and then
+    refers to Pedro de Cieza de Leon on the mountain road.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Guaynacava
+  description: Ruler who returned to visit Quito, a province he had conquered, and
+    travelled along the coast region.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: The Indians
+  description: The people said to have made the coast road through valleys and deserts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Travellers
+  description: People for whom the desert line of poles and stakes was intended as
+    guidance.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: The Spaniards
+  description: People said to have broken many poles for firewood in times of peace
+    and war.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Agustin de Zarate and Pedro de Cieza de Leon
+  description: Chroniclers cited in the passage as sources or parallels for material
+    on the roads.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: royal traveller and conqueror
+  assigned_to:
+  - fig:1
+  basis: Guaynacava visits Quito because he had conquered it and passes along the
+    coast region.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: road builders
+  assigned_to:
+  - fig:2
+  basis: The Indians are said to have made the coastal road and its desert markers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: guided road users
+  assigned_to:
+  - fig:3
+  basis: The poles and stakes were placed so travellers would not lose the way or
+    turn aside.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: later removers of road markers
+  assigned_to:
+  - fig:4
+  basis: Spaniards are said to have broken poles for firewood.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: cited chroniclers
+  assigned_to:
+  - fig:5
+  basis: The passage attributes prior material to Zarate and cites Cieza de Leon on
+    the mountain road.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: mountain road
+  literal_form: Road over the mountains, used as the comparison for the coastal road
+    and said to be five hundred leagues long.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: coast road
+  literal_form: A second road made along the coast through valleys and deserts.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: mud walls
+  literal_form: Strong, high mud walls on either side of the road in the valleys.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: poles and stakes
+  literal_form: Markers fixed in a line across the deserts to keep travellers on the
+    road.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: branches and sweet-smelling flowers
+  literal_form: Branches and fragrant flowers strewn over the route where Guaynacava
+    travelled.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: valleys with trees and rivers
+  literal_form: Valleys described as containing trees and rivers, generally about
+    a league in breadth.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  - water
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Guaynacava returns toward Quito by the coast
+  summary: Guaynacava, connected with the conquest of Quito, returns to visit the
+    province and travels by way of the coast valleys.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Construction and marking of the coast road
+  summary: The Indians make a broad walled road through valleys and continue it across
+    deserts using poles and stakes to mark the way for travellers.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Later condition of the road and royal passage
+  summary: The passage notes damage to the poles by Spaniards, the near survival of
+    the valley walls, and the strewing of branches and flowers along Guaynacava's
+    route.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Source attribution for the road descriptions
+  summary: The narrator attributes the preceding account to Zarate and introduces
+    Cieza de Leon as another writer on the mountain road.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Royal progress through conquered territory
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Guaynacava travels to Quito, identified as a province he conquered, and the
+    route over which he travels is ceremonially strewn with branches and fragrant
+    flowers.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: low
+  cautions: The passage is primarily historical and infrastructural; it does not explicitly
+    state a mythic or ritual theory of royal legitimacy.
+- id: motif:2
+  label: Marked road through desert to prevent losing the way
+  taxonomy_refs: []
+  basis: The road continues across deserts with poles and stakes fixed in a line to
+    keep travellers from losing the way or turning aside.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a practical wayfinding pattern in the passage, not an explicit
+    mythological motif.
+- id: motif:3
+  label: Monumental road across difficult landscapes
+  taxonomy_refs: []
+  basis: The coast road is described as overcoming difficulties in valleys and deserts,
+    with walls, markers, and a stated length of five hundred leagues, comparable to
+    the mountain road.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage frames the road as an impressive public work rather than as
+    a sacred or mythic route.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 20275-20284
+  quote_or_summary: The passage contrasts road-building difficulty in Spain with Guaynacava's
+    later return to Quito, a province he had conquered, travelling by the coast valleys.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 20284-20291
+  quote_or_summary: The Indians made another coast road; in valleys with trees and
+    rivers, about a league wide, it was nearly forty feet wide with strong high mud
+    walls on both sides.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 20291-20296
+  quote_or_summary: Across deserts the road was marked by poles and stakes in a line
+    so travellers would not lose the way; the road is said to have been five hundred
+    leagues long like the mountain road.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 20296-20301
+  quote_or_summary: Many poles were broken because Spaniards used them for firewood,
+    but the valley walls remained nearly intact and showed the grandeur of the work.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 20301-20305
+  quote_or_summary: Guaynacava passed from one end of the coast region to the other,
+    and the part he travelled was strewn with branches and sweet-smelling flowers.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 20306-20314
+  quote_or_summary: The narrator states that the preceding account is from Agustin
+    de Zarate, then cites Pedro de Cieza de Leon's remarks on the mountain road and
+    says Cieza says no more on it.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are cautious because
+    the passage is a historical chronicle of roads and royal travel, not an explicit
+    myth narrative. No external comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were made because the passage itself does not establish a mythological comparison beyond its historical discussion of road works.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l20275-l20314
+  passage_sha256=20c8dfa749b6f2d2aa256368800c1d9eb4f82ea87402826a69c751ec0cf244b6
+

@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.melanesian-history-of-melanesian-society-rivers-vol1-archive-l13438-l13515
+source_text_path: texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v1-rivers.md
+passage_locator:
+  label: THE    SANTA   CRUZ    ISLANDS / CHAPTER  X / THE   SOLOMON    ISLANDS /
+    CHAPTER    XI; lines 13438-13515
+  start: '13438'
+  end: '13515'
+  translation: The History of Melanesian Society, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage reports a case in which illness among children is attributed
+    to indirect contact with snakes that were tambu to their mother: their food was
+    cooked in pots formerly used to cook snakes. The father leaves his wife and takes
+    another woman to escape continual trouble. The passage then turns to the investigation
+    of the Nandrau kinship system through pedigrees and relationship terms, with a
+    note on possessive pronouns.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator was told of harmful effects believed to follow failure to observe
+    restrictions.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man whose people had always eaten snakes married a woman for whom snakes
+    were tambu.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man did not give snakes to his children, but their food was cooked in
+    pots that had previously been used to cook snakes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The children's constant illness was attributed to the use of those pots.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: To escape continual trouble, the man left his wife and took another woman.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Nandrau system was investigated by means of four fairly large pedigrees
+    obtained from independent witnesses.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that some Nandrau relationship terms use possessive pronouns
+    in a way associated with other inland systems.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: man whose people ate snakes
+  description: A man from a group described as having always eaten snakes; he marries
+    a woman for whom snakes are tambu, later leaves her, and takes another woman.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: woman for whom snakes were tambu
+  description: The man's wife; snakes are tambu to her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: children
+  description: Children of the man and woman whose food was cooked in pots formerly
+    used for snakes and whose constant illness was attributed to that cause.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: another woman
+  description: The woman taken by the man after he left his wife.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: independent witnesses
+  description: Witnesses from whom pedigrees were obtained for investigating the Nandrau
+    system.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: husband and father associated with snake-eating group
+  assigned_to:
+  - fig:1
+  basis: He is described as a man whose people ate snakes, who married the woman,
+    had children, and later left his wife.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: wife with snake tambu
+  assigned_to:
+  - fig:2
+  basis: The passage says snakes were tambu to this woman.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: children affected by attributed illness
+  assigned_to:
+  - fig:3
+  basis: Their constant illness is said to have been attributed to food cooked in
+    pots previously used for snakes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: second woman
+  assigned_to:
+  - fig:4
+  basis: The man took another woman after leaving his wife.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: genealogical informants
+  assigned_to:
+  - fig:5
+  basis: Four pedigrees for the Nandrau system were obtained from independent witnesses.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: snakes
+  literal_form: Snakes eaten by the man's people but tambu to his wife.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: cooking pots
+  literal_form: Pots previously used to cook snakes and then used to cook the children's
+    food.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: tambu restriction
+  literal_form: A restriction applying to snakes for the woman and, by implication
+    in the reported case, affecting the children through indirect contact.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: four pedigrees
+  literal_form: Four fairly large pedigrees used to investigate the Nandrau kinship
+    system.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Snake tambu and illness attributed to indirect contact
+  summary: A man from a snake-eating group marries a woman for whom snakes are tambu.
+    Although the children are not fed snakes, their food is cooked in pots once used
+    for snakes, and their illness is attributed to this cause.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Marital separation after continual trouble
+  summary: Because of the continual trouble associated with the children's illness,
+    the man leaves his wife and takes another woman.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Investigation of the Nandrau kinship system
+  summary: The Nandrau system is investigated using four pedigrees from independent
+    witnesses, and relationship terms are worked out, including possessive-pronoun
+    usage with some terms.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: harmful consequence of failing to observe a tambu restriction
+  taxonomy_refs: []
+  basis: The passage explicitly introduces the case as an instance of evil effects
+    believed to follow non-observance of restrictions, and the children's illness
+    is attributed to indirect contact with snakes that were tambu to their mother.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic report of belief and social consequence rather
+    than a mythic narrative episode.
+- id: motif:2
+  label: snake as restricted animal linked to illness through contact
+  taxonomy_refs:
+  - serpent
+  basis: Snakes are the animal under restriction; the children's illness is attributed
+    to food cooked in pots formerly used to cook snakes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage concerns snakes as food and
+    tambu animals, not a personified or mythic serpent.
+- id: motif:3
+  label: marriage disrupted by incompatible food restrictions
+  taxonomy_refs: []
+  basis: A marriage between a man from a snake-eating group and a woman for whom snakes
+    were tambu ends when illness attributed to the restriction leads the man to leave
+    his wife and take another woman.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a social case report, so the motif should be reviewed
+    before being generalized.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13438-13439
+  quote_or_summary: The narrator reports being told of harmful effects believed to
+    follow non-observance of restrictions.
+  source_text_path: texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v1-rivers.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 13440-13443
+  quote_or_summary: A man from people who ate snakes married a woman for whom snakes
+    were tambu; the children were not given snakes, but their food was cooked in pots
+    formerly used to cook snakes.
+  source_text_path: texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v1-rivers.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 13443-13445
+  quote_or_summary: The children's constant illness was attributed to this cause,
+    and the man left his wife and took another woman to escape continual trouble.
+  source_text_path: texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v1-rivers.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 13447-13452
+  quote_or_summary: The Nandrau system was investigated through four fairly large
+    pedigrees from independent witnesses, and relationship terms were worked out from
+    them.
+  source_text_path: texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v1-rivers.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 13453-13455
+  quote_or_summary: An important feature of the inland systems is stated to be the
+    use of possessive pronouns with some terms.
+  source_text_path: texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v1-rivers.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Readable prose supports the snake-tambu case and the kinship-system observations.
+    No comparison claims were entered because the comparative reference to other inland
+    systems is incomplete in the supplied passage and is linguistic/kinship-focused
+    rather than a clear mythological motif comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The supplied passage includes readable prose followed by page/diagram artifacts; extraction is limited to information supported by the readable passage text.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:melanesian-history-of-melanesian-society-rivers-vol1-archive__l13438-l13515
+  passage_sha256=91e1cb5990c28692e6643008b23da0dafaae00ab7ec08236924b7ad8c32e8cf2
+

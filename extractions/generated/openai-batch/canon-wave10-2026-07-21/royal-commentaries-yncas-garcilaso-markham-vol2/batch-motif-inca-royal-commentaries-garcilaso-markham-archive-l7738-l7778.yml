@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l7738-l7778
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SIXTH  BOOK  OF  THE  ROYAL / CHAPTER  XXV. / COMMENTARIES  OF  THE  YNCAS.
+    / SIXTH  BOOK  OF  THE  ROYAL; lines 7738-7778
+  start: '7738'
+  end: '7778'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes how wool cords for sandals were spun, corrects an
+    unnamed historian's incomplete account of Ynca spinning, praises the Yncas as
+    manly and magnanimous, states that they valued themselves as children of the Sun
+    and sought heroic actions, and explains gendered Quechua terms for men's and women's
+    spinning practices.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sandal-fastening cords were made of wool twisted with a small spindle, with
+    the wool held in one hand and the spindle in the other.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cord for one sandal was described as about half a cubit long and as thick
+    as a little finger, with thicker cord said to chafe the foot less.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An unnamed historian of the Indians is said to have reported only that the
+    Yncas knew how to spin, without explaining the method or purpose.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The author says the historian wrote from a distance and from several interested
+    narratives, and therefore excuses but rejects the incomplete account.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Yncas are described as manly, as despising effeminate habits, and as magnanimous
+    with lofty aims.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Yncas are said to have valued themselves as children of the Sun, and this
+    claim is said to have led them to seek heroic actions.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The term milluy is explained as twisting wool with a small stick to make cords
+    for sandals or for fastening burdens.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says milluy belonged to a men's occupation and that women did
+    not use the word in their language.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The women's art of spinning for weaving is called buhea in the passage; the
+    word is also said to signify the spindle itself, and men did not use it.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage states that this gendered mode of speaking is common in the language,
+    and footnotes identify related Quechua vocabulary and a possible misprint.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Yncas
+  description: Collective people discussed as makers or users of sandal cords, praised
+    by the author, and described as valuing themselves as children of the Sun.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Unnamed historian of the Indians
+  description: A distant writer whose account of Ynca spinning is described as incomplete
+    and influenced by narratives sent to him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Men
+  description: The group associated with the occupation and vocabulary of milluy,
+    the twisting of wool for sandal cords or burden fastenings.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Women
+  description: The group associated with buhea, spinning with a spindle for weaving,
+    and said not to use the term milluy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Sun
+  description: The entity named in the claim that the Yncas valued themselves as its
+    children.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: men's sandal-cord spinning role
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Milluy is defined as twisting wool with a small stick for sandal or burden
+    cords, and the passage calls it a men's occupation.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: women's weaving-spinning role
+  assigned_to:
+  - fig:4
+  basis: Buhea is defined as women's spinning with a spindle for weaving and as a
+    women's occupation.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: self-claimed children of the Sun
+  assigned_to:
+  - fig:1
+  basis: The Yncas are said to have valued themselves as children of the Sun.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: incomplete distant reporter
+  assigned_to:
+  - fig:2
+  basis: The historian is said to have written from a distance and to have omitted
+    how and why the Yncas spun.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: claimed solar parent or source
+  assigned_to:
+  - fig:5
+  basis: The Sun is named as the source of the Yncas' claimed child identity.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Sun as lineage source
+  literal_form: Sun
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: wool cord for sandals and burdens
+  literal_form: twisted wool cord made with a small spindle or stick
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: spindle for weaving
+  literal_form: spindle used in women's spinning for weaving
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Making sandal cords
+  summary: The passage describes wool being twisted with a spindle or small stick
+    to make cords for sandals and burdens, including the cord's length and thickness.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Correction of the historian's report
+  summary: The author says an unnamed historian reported only that the Yncas knew
+    how to spin, but omitted method and purpose; the author attributes the error to
+    distant and interested sources.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Solar descent claim and heroic conduct
+  summary: The Yncas are praised as magnanimous and lofty in aim, and their claim
+    to be children of the Sun is said to have led them toward heroic actions.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Gendered spinning vocabulary
+  summary: The passage distinguishes milluy as men's wool twisting for cords from
+    buhea as women's spindle-spinning for weaving, and notes that each term was restricted
+    by gendered usage.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: solar descent as royal or heroic legitimacy
+  taxonomy_refs:
+  - royal_legitimacy
+  - divine_parent_child
+  basis: The Yncas are said to have valued themselves as children of the Sun, and
+    this claim is said to lead them to heroic actions.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives an authorial cultural explanation rather than a full
+    mythic narrative or ritual episode.
+- id: motif:2
+  label: gendered craft vocabulary and labor division
+  taxonomy_refs: []
+  basis: The passage contrasts milluy as a men's term and occupation with buhea as
+    a women's term and occupation, and states that men and women did not use the other's
+    term.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a linguistic and social pattern, not a named mythology motif in
+    the supplied taxonomy.
+comparison_claims:
+- id: claim:1
+  claim: The Yncas' self-description as children of the Sun functions like a solar
+    divine-parentage claim supporting heroic or royal self-understanding.
+  claim_level: same_function
+  target: royal_legitimacy and divine_parent_child motif families
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not narrate a birth myth, genealogy, enthronement,
+    or direct divine speech; it only reports a collective claim and its behavioral
+    effect.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7740-7745
+  quote_or_summary: Wool cords for fastening sandals are made by twisting wool with
+    a small spindle; a half-cubit length is enough for one foot, and the cord is about
+    the thickness of a little finger.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 7745-7753
+  quote_or_summary: An unnamed historian said the Yncas knew how to spin but omitted
+    how and for what purpose; the author calls this a false or incomplete account
+    and says the historian wrote from a distance and from interested reports.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 7753-7760
+  quote_or_summary: The Yncas are praised as manly and magnanimous, and the passage
+    says they "valued themselves as chihlren of the Sun" and sought realization of
+    this claim in heroic actions.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 7762-7766
+  quote_or_summary: Milluy is defined as twisting wool with a small stick to make
+    cord for sandals or burden-fastening; the occupation is said to be for men, and
+    women did not use the word.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 7766-7770
+  quote_or_summary: Buhea is defined as women's spinning with a spindle for weaving
+    and also as the spindle itself; since it was a woman's occupation, men did not
+    use the word.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: note
+  locator: lines 7770-7777
+  quote_or_summary: The author says this mode of gendered speaking is common in the
+    language; footnotes identify related words for wool/spinning and suggest buhea
+    may be a misprint for puchca.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The craft and linguistic observations are explicit. Mythic motif extraction
+    is limited to the reported solar child claim and its stated link to heroic conduct.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The passage is primarily ethnographic and linguistic rather than narrative myth; candidate motifs are therefore limited and cautiously framed.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l7738-l7778
+  passage_sha256=5142bac0443cd86a039e90ef01a705fce4f6e4c500ac8ffbf44d3cc3ae52f500
+

@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l3261-l3307
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / FIFTH  BOOK  OF  THE  EOYAL / COMMENTARIES  OK  THE  YNG'AS.
+    / CHAPTER  XXII.; lines 3261-3307
+  start: '3261'
+  end: '3307'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Ynca Uira-ccocha ordering a temple at Cacha in honor
+    of the phantom or apparition that had appeared to him. The temple is designed
+    to imitate the apparition site, with an open roofless plan like a plain, a stone-covered
+    chapel like an overhanging rock, an unusual upper storey, four directional doors
+    with the eastern one used as the entrance, and stone supports forming lanes covered
+    by slabs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ynca Uira-ccocha orders a temple to be built at Cacha in honor of the phantom
+    or apparition that had appeared to him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stated purpose of the temple is to honor the vision and perpetuate its
+    memory among the people.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Uira-ccocha directs that the building imitate, as far as practicable, the
+    place where the apparition appeared.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The temple is built open and without a roof to resemble an open plain.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A small chapel covered with stones is built to imitate the overhanging rock
+    under which the Ynca had been reclining.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The temple has an upper storey raised above the ground floor, described as
+    different from other Indian buildings because they did not ordinarily build upper-storey
+    houses.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The temple is described as one hundred and twenty feet long, eighty feet broad,
+    and made of smooth masonry with well-cut stones.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The temple has four doors facing the four quarters of the heavens; three are
+    closed false doorways, and the eastern door serves as the entrance.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Stone blocks from the quarry are used as supports for the upper storey, forming
+    twelve lanes closed above by long slabs.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ynca Uira-ccocha
+  description: The Ynca who had the apparition, orders the temple at Cacha, and had
+    been reclining under the overhanging rock at the apparition site.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: phantom or apparition
+  description: The being or vision that appeared to Uira-ccocha and is honored by
+    the temple.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: royal temple patron
+  assigned_to:
+  - fig:1
+  basis: Uira-ccocha orders the temple to be built in Cacha.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of apparition
+  assigned_to:
+  - fig:1
+  basis: The phantom had appeared to him, and the building imitates the place where
+    the apparition appeared to him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: honored apparition
+  assigned_to:
+  - fig:2
+  basis: The temple is built to the phantom that had appeared to Uira-ccocha and to
+    honor the vision.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: temple at Cacha
+  literal_form: A temple built in Cacha to honor and memorialize the apparition.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: roofless open temple
+  literal_form: An open, roofless building made to resemble the open plain of the
+    apparition site.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: stone-covered chapel resembling overhanging rock
+  literal_form: A small chapel covered with stones, built in imitation of the overhanging
+    rock under which the Ynca reclined.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: four directional doors
+  literal_form: Four doors facing the four quarters of the heavens, with three false
+    doorways and the eastern door used as the entrance.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: unusual upper storey
+  literal_form: An upper storey raised above the ground floor, noted as unlike other
+    Indian buildings described in the passage.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Temple ordered for the apparition
+  summary: Uira-ccocha orders a temple to be built in Cacha to honor the phantom that
+    appeared to him and preserve the memory of the vision.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Apparition site reproduced in architecture
+  summary: The temple is designed to imitate the apparition setting through a roofless
+    open plan and a stone-covered chapel resembling the overhanging rock.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Directional and structural temple features
+  summary: The passage describes the temple’s unusual upper storey, masonry, four
+    directional doors, eastern entrance, and stone supports forming twelve lanes.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Royal dedication of a temple to an apparition
+  taxonomy_refs: []
+  basis: A ruler orders a temple built in honor of a phantom or apparition that appeared
+    to him.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents the dedication and memorial purpose but does not
+    explicitly state a wider cultic system or doctrine.
+- id: motif:2
+  label: Sacred architecture imitating a visionary landscape
+  taxonomy_refs: []
+  basis: The temple is explicitly planned to imitate the place where the apparition
+    appeared, including the open plain and overhanging rock.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an architectural pattern in the passage; no external parallel
+    is asserted here.
+- id: motif:3
+  label: Cardinally oriented shrine with eastern entrance
+  taxonomy_refs: []
+  basis: The temple has four doors facing the four quarters of the heavens, while
+    only the eastern door functions as the entrance.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives the orientation and entrance arrangement but does not
+    explain their symbolic meaning.
+- id: motif:4
+  label: Exceptional elevated temple structure
+  taxonomy_refs: []
+  basis: The temple has an upper storey raised above the ground floor and is described
+    as unlike ordinary Indian buildings known to the narrator.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This may be primarily an architectural observation rather than a narrative
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3261-3307, chapter heading and opening description
+  quote_or_summary: The chapter heading and opening describe Uira-ccocha ordering
+    a temple at Cacha in honor of the apparition or phantom that had appeared to him,
+    to preserve the memory of the vision among the people.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 3261-3307, design imitation passage
+  quote_or_summary: 'The building is directed to imitate the apparition site: it is
+    open and roofless like the plain, and a small stone-covered chapel imitates the
+    overhanging rock under which the Ynca reclined.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 3261-3307, upper-storey description
+  quote_or_summary: The temple has an upper storey raised above the ground floor,
+    described as on a plan different from other Indian buildings, since they did not
+    build houses with upper storeys.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 3261-3307, dimensions and masonry
+  quote_or_summary: The temple is described as 120 feet long and 80 feet broad, made
+    of smooth masonry with beautifully cut stones.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 3261-3307, door arrangement
+  quote_or_summary: The temple has four doors facing the four quarters of the heavens;
+    three are closed false doorways for symmetry, while the eastern door in the center
+    of the facade is used as the entrance.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 3261-3307, support and slab construction
+  quote_or_summary: Because vaulting was not used, stone blocks from the quarry are
+    placed as supports at intervals, forming twelve lanes closed above by slabs.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and supports architectural and dedication motifs
+    directly. No external comparison claims were extracted because the passage does
+    not itself support a specific intertextual or cross-cultural comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Taxonomy references were left empty because the passage does not explicitly support the available motif-family or symbol taxonomy IDs beyond general architectural and memorial patterns.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l3261-l3307
+  passage_sha256=78ee40982e49064f1b29865c3abaa1bb4eb7af527ce2cea868b97bfb66aabf46
+

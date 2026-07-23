@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.african-akikuyu-prehistoric-people-routledge-archive-l12706-l12745
+source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+passage_locator:
+  label: BURIAL  171 / DEATH  173 / THE   DRINKING   OF  WARM   BLOOD / DRINKING  OF  WARM  BLOOD         175;
+    lines 12706-12745
+  start: '12706'
+  end: '12745'
+  translation: 'With a Prehistoric People: The Akikuyu of British East Africa'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a procedure in which blood is drawn from a living
+    beast by piercing a vein with an arrow, collected in a half calabash, and drunk
+    hot by warriors. Dust is rubbed on the wound and the animal is released. The narrator
+    states that the arrow method is considered essential and that a knife is rejected,
+    interpreting the practice as a surviving custom rather than practical utility.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A compressed vein of a living beast is pierced with an arrow, causing dark
+    blood to spurt in a low jet.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: About a quart of blood is collected in a half calabash while the animal struggles.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A handful of dust is rubbed over the wound, the cord is removed, and the beast
+    gallops away.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Warriors try to drink the hot blood from the shared vessel; the bowl circulates
+    until empty or is disrupted by another group.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Participants are described as getting blood smeared on them, and some who
+    swallow much of it vomit.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The men are described as nude, greased, groomed, ornamented, armed, shouting,
+    moving, and smeared with blood.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The cattle are said not to be harmed permanently, even when the same animal
+    is treated many times.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The wound is said to have to be made with an arrow, and the suggested use
+    of a knife is rejected.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: living beast / cattle
+  description: The animal from whose vein blood is drawn; it is wounded, treated with
+    dust, released, and said not to be any the worse.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: warriors / drinking party
+  description: Men who compete to drink hot blood from the half calabash and become
+    smeared with blood.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: living blood source
+  assigned_to:
+  - fig:1
+  basis: Blood is drawn from the animal’s vein by arrow, after which the animal is
+    released and later said not to suffer lasting harm.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: communal blood drinkers
+  assigned_to:
+  - fig:2
+  basis: The warriors collectively attempt to drink the hot blood from the shared
+    vessel, with the bowl circulating among them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: warm blood
+  literal_form: Dark blood drawn from a living beast and drunk hot by warriors.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: arrow
+  literal_form: The required implement used to pierce the vein; a knife is explicitly
+    rejected.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: half calabash
+  literal_form: The vessel in which about a quart of blood is collected and from which
+    the warriors drink.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: dust on wound
+  literal_form: A handful of dust rubbed over the wound before the beast is released.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: blood-smeared bodies
+  literal_form: Bodies and faces of the men smeared with blood during the drinking.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: drawing blood from a living beast
+  summary: A vein is pierced with an arrow, blood spurts out and is collected in a
+    half calabash; dust is rubbed on the wound and the animal is released.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: communal drinking of hot blood
+  summary: Warriors crowd around the vessel, each trying to drink the hot blood before
+    it is taken by another; participants become smeared with blood and some vomit
+    after swallowing much.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: explanation of required method
+  summary: The narrator reports that cattle are said not to be harmed and that the
+    arrow method is essential, while using a knife is not acceptable.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: communal drinking of warm blood from a living animal
+  taxonomy_refs: []
+  basis: The passage centers on blood drawn from a living beast, collected in a shared
+    vessel, and drunk hot by warriors.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic custom rather than a mythic narrative; no deity,
+    offering, or cosmological explanation is given in the passage.
+- id: motif:2
+  label: prescribed ritual instrument over practical alternative
+  taxonomy_refs: []
+  basis: The passage states that the wound must be made with an arrow and that use
+    of a knife could not be contemplated, even though a knife is suggested as more
+    effective.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The narrator interprets the procedure as a surviving custom, but the passage
+    does not provide an indigenous explanation for the prescription.
+- id: motif:3
+  label: blood-smeared warrior display
+  taxonomy_refs: []
+  basis: The warriors are described as ornamented, armed, shouting, moving, and smeared
+    with blood in a memorable tableau.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The description is from the observer’s viewpoint and does not state a
+    symbolic meaning for the display.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12706-12714
+  quote_or_summary: A struggling beast’s compressed vein is pierced with an arrow;
+    dark blood spurts out and about a quart is collected in a half calabash.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 12714-12718
+  quote_or_summary: Dust is rubbed over the wound, the cord is removed, and the beast
+    runs off to rejoin the cattle.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 12718-12729
+  quote_or_summary: Warriors compete to drink the hot blood from the vessel; it circulates
+    among them, participants are smeared with blood, and some who drink much vomit.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 12729-12734
+  quote_or_summary: The observer describes nude, greased, groomed, ornamented men,
+    smeared with blood and accompanied by weapons, shouts, and movement, as a memorable
+    tableau.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 12735-12744
+  quote_or_summary: The cattle are said not to suffer lasting harm; the same animal
+    may undergo the practice many times; the arrow method is said to be essential
+    and a knife is rejected; the narrator calls it a surviving custom rather than
+    practical utility.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage is concrete and descriptive.
+    Motif labeling is cautious because the passage supplies no indigenous symbolic
+    explanation and no comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy references or comparison claims were assigned because the passage does not explicitly support them.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-akikuyu-prehistoric-people-routledge-archive__l12706-l12745
+  passage_sha256=bcb44794e3f924b9a6a37adc45f3bed6e8cdf5e3d14efbae293718b0ec843f26
+

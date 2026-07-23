@@ -1,0 +1,372 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l11100-l11121
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: NO. XVI. / NO. XVII. / NO. XVIII. / NO. XIX.; lines 11100-11121
+  start: '11100'
+  end: '11121'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage identifies No. XIX as a Mbaka dialect text and gives comparative
+    editorial notes classing Nos. XVIII, XIX, XX, and XXXIX as hunter-stories, while
+    noting that No. XXXIX is elsewhere classed as tnaka by the informant. The notes
+    explain a pregnancy and newborn practice involving consultation of spirits, first
+    solid foods called ji-haku, and the formal bringing of a child from the dark hut
+    into the world. Additional notes identify Mudia-mbambi as the coffee-tree and
+    define Ki-sumbula/nzambi as a hunter’s stick placed in a tree fork for watching
+    game.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: No. XIX is labeled as being in the Mbaka dialect.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editorial note groups Nos. XVIII, XIX, XX, and XXXIX as hunter-stories.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note says No. XXXIX is classed with anecdotes of actual facts, the tnaka,
+    because of the informant’s assertion.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: During pregnancy, spirits are consulted to learn which spirit the family is
+    indebted to for the expected child.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After birth, the child is kept in the house until the proper ji-haku, the
+    child’s first solid food in addition to mother’s milk, are known and obtained.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The family joyfully and formally takes the baby out of the dark hut and introduces
+    it to God’s great world.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Mudia-mbambi is identified as the coffee-tree, Coffea Arabica, according to
+    Count de Ficalho.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Ki-sumbula and nzambi are synonyms for a stick that a hunter places in a tree
+    fork to sit on while watching for game.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: spirits
+  description: Beings consulted during pregnancy concerning the expected child.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: family or parents
+  description: The family or parents consult spirits, keep the child in the house,
+    procure ji-haku, and introduce the baby to the world.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: expected child or baby
+  description: The expected addition, later born and kept in the house until the first
+    solid foods are ready, then formally taken out of the dark hut.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: hunter
+  description: A hunter who places a stick in the fork of a tree to sit while watching
+    for game.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: informant
+  description: The informant whose assertion determines that No. XXXIX is classed
+    with the tnaka.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: consulted spirits
+  assigned_to:
+  - fig:1
+  basis: The passage says spirits are consulted during pregnancy.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: ritual family caregivers
+  assigned_to:
+  - fig:2
+  basis: The family or parents consult spirits, keep the baby in the house, obtain
+    ji-haku, and formally take the baby out.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: newborn recipient of household rite
+  assigned_to:
+  - fig:3
+  basis: The child is kept indoors until first foods are procured and is then formally
+    introduced to the world.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: hunter watching game
+  assigned_to:
+  - fig:4
+  basis: The hunter uses a stick in a tree fork to sit while watching for game.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: classifier of tale category
+  assigned_to:
+  - fig:5
+  basis: The informant’s assertion is cited for classing No. XXXIX with the tnaka.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: spirits consulted in pregnancy
+  literal_form: spirits
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: ji-haku first solid food
+  literal_form: first solid food of a child in addition to mother’s milk
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: mother’s milk
+  literal_form: mother’s milk
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: dark hut
+  literal_form: dark hut from which the baby is taken out
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: God’s great world
+  literal_form: God’s great world into which the baby is introduced
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: coffee-tree
+  literal_form: Mudia-mbambi, identified as Coffea Arabica
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: tree fork hunter seat
+  literal_form: fork of a tree with a stick placed in it
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: hunter’s stick
+  literal_form: Ki-sumbula or nzambi, a stick placed in a tree fork
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Comparative classification of hunter-stories
+  summary: The editor states that Nos. XVIII, XIX, XX, and XXXIX are hunter-stories,
+    while noting that No. XXXIX is assigned elsewhere to the tnaka category because
+    of the informant.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Pregnancy consultation and newborn emergence
+  summary: Spirits are consulted during pregnancy; after birth, the child remains
+    in the house until the proper first solid foods are known and obtained, after
+    which the family formally brings the baby out of the dark hut into the world.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hunter’s tree-seat implement
+  summary: A hunter places a stick in the fork of a tree so he can sit more comfortably
+    while watching for game.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: hunter-story grouping
+  taxonomy_refs: []
+  basis: The passage explicitly identifies Nos. XVIII, XIX, XX, and XXXIX as hunter-stories.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an editorial genre or comparative classification, not a plot episode
+    within the passage.
+- id: motif:2
+  label: spirit consultation for an expected child
+  taxonomy_refs: []
+  basis: The note states that spirits are consulted during pregnancy to identify which
+    spirit is connected to the expected addition to the family.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents this as explanatory cultural practice rather than
+    as a narrative event in No. XIX.
+- id: motif:3
+  label: newborn seclusion followed by formal introduction to the world
+  taxonomy_refs:
+  - initiation
+  basis: The child is kept indoors until the first solid food is known and procured,
+    then formally taken from the dark hut into God’s great world.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The initiation taxonomy is only a broad fit; the passage describes an
+    infant rite and does not call it initiation.
+- id: motif:4
+  label: hunter watching game from a tree-mounted stick seat
+  taxonomy_refs: []
+  basis: The note defines a stick placed in a tree fork so the hunter can sit while
+    watching for game.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is an implement note rather than a full narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: No. XIX is explicitly grouped with Nos. XVIII, XX, and XXXIX as a hunter-story
+    in the collection.
+  claim_level: same_motif
+  target: Nos. XVIII, XX, and XXXIX in Folk-Tales of Angola
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:2
+  confidence: high
+  limitations: The grouping is an editorial comparative note. The same passage also
+    says No. XXXIX is classed with tnaka anecdotes of actual facts because of the
+    informant’s assertion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11100-11105
+  quote_or_summary: "“Nos. XVIII., XIX., and XX. are hunter-stories, as also No. XXXIX.”
+    The passage also labels No. XIX as Mbaka dialect."
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 11105-11107
+  quote_or_summary: The editor says No. XXXIX would, from his standpoint, belong with
+    the hunter-stories, but the informant’s assertion places it with anecdotes of
+    actual facts, the tnaka.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 11109-11116
+  quote_or_summary: During pregnancy, spirits are consulted about the expected child;
+    after birth, the baby remains in the house until the first solid food, ji-haku,
+    is known and procured, then is formally taken from the dark hut into God’s great
+    world.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 11118-11119
+  quote_or_summary: Mudia-mbambi is identified, according to Count de Ficalho, as
+    the coffee-tree, Coffea Arabica.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: summary
+  locator: line 11121
+  quote_or_summary: Ki-sumbula and nzambi are synonyms for a stick a hunter places
+    in a tree fork to sit less uncomfortably while watching game.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward, but several motif candidates derive
+    from notes rather than from a narrated tale episode. Taxonomy mapping is therefore
+    limited and cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the provided passage and metadata. No external comparison or unsupported taxonomy identifiers added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l11100-l11121
+  passage_sha256=0a262c37ff3b7322175ab00dfc807cab782221a5455c3013aed42643436fb020
+

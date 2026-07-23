@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l4346-l4368
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: PAPA  RUA. / INTRODUCTION. / FOUNDATION. / FIRST  OFFSHOOT.; lines 4346-4368
+  start: '4346'
+  end: '4368'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: Ono tossed about by a tempest. Eventually reached this isle.
+  summary: Ono is driven by a tempest to an island, laments the loss of Iva, and the
+    dangerous sea is described as punishment for his sins against the gods. On the
+    island, which is described as a home of birds, Ono must satisfy hunger with wild
+    fruits and berries.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Ono is tossed about by a tempest and eventually reaches an island.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage laments the haunts of loved Iva and repeats that Iva will not
+    be seen again.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: obs:3
+  text: The ocean is described as terrific, and the waves are covered with foam.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ono's situation is described as punishment for his sins and as sins against
+    the gods.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: The island is described as only the home of birds.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: Ono is driven to satisfy hunger with wild fruits and berries growing on the
+    island.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ono
+  description: A named figure tossed by a tempest, said to have sinned, and compelled
+    to find food on the island.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the gods
+  description: Divine beings against whom Ono's sins are said to be committed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: storm-driven arrival figure
+  assigned_to:
+  - fig:1
+  basis: Ono is tossed about by a tempest and reaches the island.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: punished sinner
+  assigned_to:
+  - fig:1
+  basis: The passage calls the oceanic ordeal a punishment for Ono's sins and says
+    his sins are against the gods.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: offended divine powers
+  assigned_to:
+  - fig:2
+  basis: The passage states that Ono's sins are against the gods.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: tempest and foaming ocean
+  literal_form: tempest, ocean, waves covered with foam
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: this isle
+  literal_form: island reached by Ono; home of birds and source of wild fruits and
+    berries
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:3
+  label: loved Iva
+  literal_form: named absent place or haunt called loved Iva
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:4
+  label: wild fruits and berries
+  literal_form: wild fruits and berries growing on the island
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: birds
+  literal_form: birds inhabiting the island
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Tempest-driven arrival
+  summary: Ono is tossed by a tempest and eventually reaches the island, while the
+    passage laments loved Iva.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Oceanic punishment
+  summary: The ocean and foaming waves are described as terrifying, and the ordeal
+    is called punishment for Ono's sins against the gods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: scene:3
+  label: Island subsistence
+  summary: On an island described as the home of birds, Ono is driven by hunger to
+    eat wild fruits and berries growing there.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Storm-driven arrival on an island
+  taxonomy_refs: []
+  basis: Ono is tossed by a tempest and eventually reaches an island.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not describe the origin point or the wider journey beyond
+    this storm-driven arrival.
+- id: motif:2
+  label: Divine punishment for sins
+  taxonomy_refs:
+  - divine_judgment
+  basis: The sea ordeal is explicitly called punishment for Ono's sins, and the sins
+    are said to be against the gods.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not directly narrate an action taken by the gods; it
+    states the punishment and the offense.
+- id: motif:3
+  label: Irrecoverable separation from Iva
+  taxonomy_refs:
+  - departure
+  basis: The passage laments loved Iva and repeats that Iva will never be seen again.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: medium
+  cautions: The passage does not clarify whether Iva is a place, homeland, or other
+    named referent.
+- id: motif:4
+  label: Survival through wild island food
+  taxonomy_refs: []
+  basis: Ono is driven to satisfy hunger with wild fruits and berries growing on the
+    island.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a local passage pattern rather than a taxonomy-linked motif in
+    the supplied list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4348-4349
+  quote_or_summary: "“Ono tossed about by a tempest. Eventually reached this isle.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: line 4350
+  quote_or_summary: "“Alas for the haunts of loved Iva!”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 4354-4355
+  quote_or_summary: "“How terrific the ocean! The waves covered with foam!”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: line 4356
+  quote_or_summary: "“A punishment for the sins of Ono.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 4361-4363
+  quote_or_summary: "“How great must be thy sins / Against the gods!”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 4364-4367
+  quote_or_summary: The island is called the home of birds, and Ono must satisfy hunger
+    with wild fruits and berries growing there.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: line 4368
+  quote_or_summary: "“Ne'er more will Iva be seen!”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the passage is short and does not explain the broader narrative context or the
+    identity of Iva.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. No external Mangaian narrative context was added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l4346-l4368
+  passage_sha256=a4f16f4df30bc45d320c8ae60695fa7f8ea8afaef8ea107ab66b2ef54e9e4de3
+

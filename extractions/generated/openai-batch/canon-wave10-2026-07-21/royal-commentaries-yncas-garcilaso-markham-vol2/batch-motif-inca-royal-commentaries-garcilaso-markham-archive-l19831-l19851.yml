@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l19831-l19851
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / NINTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OP  THE  VNCAS.  443
+    / NINTH  BOOK  OF  THE  ROYAL; lines 19831-19851
+  start: '19831'
+  end: '19851'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“Let us return, for these people do not deserve that we should be their
+    lord.”"
+  summary: The passage describes people who exchange fish for meat and biscuit rather
+    than money, wear bark or leaf cloth, and are characterized by the narrator as
+    extremely savage. Huayna Ccapac Ynca observes their land and inhabitants, judges
+    the place unfit for introducing civilized ways, says his forces should return
+    because the people do not deserve him as lord, and orders his army to retire,
+    leaving the natives of Passau as before.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The people exchanged fish for meat and biscuit and did not want money.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: They wore cloth made from the bark or leaves of trees, described as being
+    for decency and especially out of respect for Spaniards.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator characterizes the people as extremely wild or savage.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Huayna Ccapac Ynca saw the people and judged both their forested land and
+    the inhabitants negatively.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Huayna Ccapac Ynca said the army should return because the people did not
+    deserve him as their lord.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After speaking, Huayna Ccapac Ynca ordered his army to retire, leaving the
+    natives of Passau in their previous condition.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Huayna Ccapac Ynca
+  description: The Ynca ruler who observes the land and inhabitants, speaks, and orders
+    the army to retire.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: natives of Passau
+  description: The people described as exchanging fish, wearing bark or leaf cloth,
+    and being left as before after the army retires.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Huayna Ccapac Ynca’s army
+  description: The army ordered by Huayna Ccapac Ynca to retire.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Spaniards
+  description: Mentioned as the people for whose respect the bark or leaf cloth was
+    reportedly worn.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: ruler and commander
+  assigned_to:
+  - fig:1
+  basis: Huayna Ccapac Ynca evaluates the people and land, speaks of being their lord,
+    and orders the army to retire.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: observed inhabitants
+  assigned_to:
+  - fig:2
+  basis: The natives of Passau are the people whose customs and condition are described
+    and whom Huayna Ccapac observes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:3
+  label: retiring army
+  assigned_to:
+  - fig:3
+  basis: The army is ordered to retire after Huayna Ccapac’s statement.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: external observers respected by clothing practice
+  assigned_to:
+  - fig:4
+  basis: The passage says the bark or leaf cloth was worn more out of respect for
+    Spaniards than shame.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: bark or leaf cloth
+  literal_form: cloth made of the bark or leaves of trees
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: exchange goods
+  literal_form: fish exchanged for meat and biscuit, with money refused
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sombre forest land
+  literal_form: land densely covered with sombre forest
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Exchange and dress of the inhabitants
+  summary: The inhabitants exchange fish for meat and biscuit rather than money and
+    wear bark or leaf cloth, which the passage connects to respect for Spaniards.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Huayna Ccapac’s refusal to rule Passau
+  summary: Huayna Ccapac judges the land and inhabitants unsuitable for introducing
+    civilized ways, says the people do not deserve him as lord, and orders his army
+    to return, leaving the natives as they were.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ruler declines dominion after judging a people unfit
+  taxonomy_refs: []
+  basis: Huayna Ccapac observes the land and inhabitants, decides it would waste time
+    to introduce civilized ways, states that the people do not deserve him as lord,
+    and orders withdrawal.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a narrative pattern in a historical chronicle passage rather than
+    an explicitly mythic motif; no direct taxonomy match is asserted.
+- id: motif:2
+  label: non-monetary exchange with outsiders
+  taxonomy_refs: []
+  basis: The inhabitants exchange fish for meat and biscuit and refuse money.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage presents this as ethnographic description; it does not frame
+    the exchange as sacred or ritual.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19831-19834
+  quote_or_summary: "“In exchange for the fish they asked for meat and biscuit, and
+    did not want money.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 19834-19837
+  quote_or_summary: The passage says they wore cloth made from bark or leaves of trees
+    for decency, more out of respect for the Spaniards than shame.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 19837-19839
+  quote_or_summary: "“these savages were the wildest people that it is possible to
+    imagine.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 19840-19846
+  quote_or_summary: Huayna Ccapac Ynca sees the people, judges their land worthless
+    and densely forested, and concludes it would waste time to introduce civilized
+    ways.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 19846-19849
+  quote_or_summary: "“Let us return, for these people do not deserve that we should
+    be their lord.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 19849-19851
+  quote_or_summary: After saying this, Huayna Ccapac orders his army to retire, leaving
+    the natives of Passau in their previous brutal and savage state as described by
+    the narrator.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence and figures are clear. Motif identification is cautious
+    because the passage is mainly historical-ethnographic narration with colonial-era
+    evaluative language, not an explicit mythic episode. No comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Terms such as savage, brutal, and bestial are recorded only as the passage’s characterization, not as neutral factual description.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l19831-l19851
+  passage_sha256=98fe5bcbfd721d36f6866a4b4c2064d801dd3b5fb9a46962a81a41574d10149b
+

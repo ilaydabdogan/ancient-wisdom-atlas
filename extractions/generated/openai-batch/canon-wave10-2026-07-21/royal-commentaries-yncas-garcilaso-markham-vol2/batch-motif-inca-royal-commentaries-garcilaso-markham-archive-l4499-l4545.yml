@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l4499-l4545
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  I. / THE  BUILDING  AND  DECORATION  OF  THE  ROYAL  PALACES. /
+    II  2 / SIXTH  BOOK  OF  THE  ROYAL; lines 4499-4545
+  start: '4499'
+  end: '4545'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: They plated the temples of the Sun and the royal palaces with gold
+  summary: The passage describes gold and silver decoration of Inca temples and royal
+    palaces, including naturalistic figures, wall ornaments, the royal gold stool
+    called tiana, and gold and silver service vessels. It also says the presence of
+    precious metals contributed to the destruction of the buildings by people seeking
+    gold and silver.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The author says precious metals in some walls led people to pull down the
+    buildings while seeking gold and silver.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Temples of the Sun and royal palaces were plated with gold.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Gold and silver figures of men, women, birds, wild animals, and domestic llamas
+    were worked in imitation of nature.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Silver wall-plants and metal lizards, rats, butterflies, and large and small
+    serpents were arranged to look like natural growth or motion on the walls.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Yuca usually sat on a solid gold stool called a tiana, placed on a square
+    board of gold.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Gold and silver cups for table and kitchen service were kept in the house
+    and in depots for the king’s use when travelling.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pedro de Cieza
+  description: A Spanish historian cited by the author as support for remarks about
+    the buildings and palace decoration.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: the Yuca / the king
+  description: The royal ruler associated with the solid gold tiana and with gold
+    and silver vessels kept for use while travelling.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: cited historical authority
+  assigned_to:
+  - fig:1
+  basis: The passage names Pedro de Cieza as a Spanish historian supporting the author’s
+    statement and as one who relates comparable palace details.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: royal occupant and traveller
+  assigned_to:
+  - fig:2
+  basis: The ruler sits on a gold tiana and has gold and silver service vessels arranged
+    for use during travel.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: gold and silver
+  literal_form: Precious metals in walls, gold plating, gold and silver figures, a
+    gold stool, a gold board, and gold and silver cups.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: tiana
+  literal_form: A solid gold stool without arms or back, with a concave seat, placed
+    on a square board of gold.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: naturalistic metal figures
+  literal_form: Gold and silver figures of humans, birds, wild animals, and domestic
+    llamas worked in imitation of nature.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: wall serpents
+  literal_form: Large and small serpents placed on the walls as if running up and
+    down.
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: silver wall-plants
+  literal_form: Plants that grow on walls imitated in silver and fastened to resemble
+    natural growth.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Destruction after discovery of precious metals
+  summary: The passage states that precious metals in some walls caused people to
+    demolish otherwise durable buildings while searching for gold and silver.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gold and silver decoration of sacred and royal buildings
+  summary: Temples of the Sun and royal palaces are described as plated with gold
+    and furnished with naturalistic gold and silver figures of humans, birds, animals,
+    plants, insects, reptiles, and serpents.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Royal seat and travelling service
+  summary: The Yuca sits on a gold tiana set on a gold board, and gold and silver
+    cups are kept for royal household use and for the king’s travel lodgings.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: precious-metal royal and temple majesty
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage says buildings were given greater majesty through precious metals
+    and describes gold-plated temples, royal palaces, a gold royal seat, and gold
+    and silver royal service vessels.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage explicitly states majesty and royal use, but it does not directly
+    state a doctrine of political legitimacy.
+- id: motif:2
+  label: natural world reproduced as palace ornament
+  taxonomy_refs: []
+  basis: The passage describes humans, birds, animals, plants, lizards, rats, butterflies,
+    and serpents made in gold or silver and arranged to imitate nature, growth, or
+    motion.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a material and decorative pattern in the passage, not a narrative
+    mythic episode.
+- id: motif:3
+  label: decorative serpents on palace walls
+  taxonomy_refs:
+  - serpent
+  basis: Large and small serpents are listed among wall ornaments arranged as if moving
+    up and down the walls.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The serpents are literal decorative figures; the passage gives no mythic
+    serpent narrative or explicit symbolic meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4499-4512
+  quote_or_summary: The author says a Spanish historian supports his statement; precious
+    metals in some walls caused people to pull buildings down while seeking gold and
+    silver, though the masonry was otherwise durable.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; neutral summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 4512-4522
+  quote_or_summary: Temples of the Sun and royal palaces were plated with gold and
+    contained gold and silver figures of men, women, birds, wild animals, and domestic
+    llamas, worked in imitation of nature; recesses were left for these figures.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; neutral summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 4523-4529
+  quote_or_summary: Plants growing on walls were imitated in silver; lizards, rats,
+    butterflies, and large and small serpents were placed over the walls so they looked
+    as if moving up and down.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; neutral summary from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 4529-4533
+  quote_or_summary: "“The Yuca usually sat on a stool of solid gold called tiana.”
+    The passage adds that it had no arms or back, had a concave seat, and stood on
+    a square gold board."
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 4533-4540
+  quote_or_summary: All cups for table and kitchen service were gold and silver, and
+    some were kept in each depot for the king’s use when travelling so they did not
+    need to be carried with him.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; neutral summary from supplied passage.
+- id: ev:6
+  type: note
+  locator: footnotes within lines 4541-4545
+  quote_or_summary: The notes identify Cieza de Leon’s chapters as describing ruins,
+    the Ynca road, Ollantay-tambo, and the palace of Tumebamba near Quito.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; neutral note from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, though the passage has OCR irregularities
+    such as “Yuca.” Motif assignments are cautious because the passage is primarily
+    architectural and historical, not a myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. The figure label retains the passage’s wording “Yuca” while also noting the passage’s later reference to the king.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l4499-l4545
+  passage_sha256=3771b0f099a4c481d2a31f69cb38859e8a5b5248f689e401ac35f6ee960d99b4
+

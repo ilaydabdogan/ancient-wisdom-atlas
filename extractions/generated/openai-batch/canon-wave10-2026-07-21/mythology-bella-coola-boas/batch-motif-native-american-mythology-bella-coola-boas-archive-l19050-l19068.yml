@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l19050-l19068
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 313 / TEIT, THE THOMPSON
+    INDIANS OF BRITISH COLUMBIA. 319 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA.
+    321 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 323; lines 19050-19068
+  start: '19050'
+  end: '19068'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes marriage-related customs in which young men or women
+    touch desired partners during religious dances or after washing. Touching a girl
+    could lead to marriage; women could also touch men, though men were not strictly
+    compelled to accept. Rejection could cause shame. Parents who prevented suitors
+    from touching a daughter could find that she eloped, and custom could then treat
+    her as already married to the young man.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Common opportunities for young men to touch girls occurred during religious
+    dances or when girls returned from washing themselves.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A young man who wanted a certain girl as wife could run forward and touch
+    her breasts or heel, or embrace her or touch her naked breast after washing if
+    possible.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Young women also had the privilege of touching young men, generally on the
+    head or arm.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A man was not compelled to marry a girl who touched him, although he usually
+    did so.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Some girls who touched a man and were not accepted felt ashamed and committed
+    suicide.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Parents who refused marriage offers and closely watched a daughter could find
+    that she had eloped.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: If the eloped girl was brought back by her father, he could only deliver her
+    to the young man because custom declared them already married.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: young man or suitor
+  description: A young man who wished a certain girl to be his wife and attempted
+    to touch or embrace her.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: girl or young woman
+  description: A girl or young woman who could be touched by a suitor, could touch
+    a man, could be rejected, or could elope.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: parents or father
+  description: Parents who might refuse offers of marriage and watch a daughter; the
+    father might bring back an eloped daughter but was bound by custom to deliver
+    her to the young man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: prospective husband or suitor
+  assigned_to:
+  - fig:1
+  basis: The young man is described as wishing a girl to be his wife and touching
+    or embracing her.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: prospective wife or marriage partner
+  assigned_to:
+  - fig:2
+  basis: The girl or young woman is the person sought as wife, may initiate touching,
+    and may be treated as already married after elopement.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: parental guardian of marriage choice
+  assigned_to:
+  - fig:3
+  basis: Parents are described as refusing offers, watching the daughter, and the
+    father is described as bringing her back after elopement.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: bodily touch as marriage gesture
+  literal_form: Touching the breast, heel, head, or arm; embracing
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: religious dance as courtship setting
+  literal_form: Religious dances where touching opportunities occurred
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: return from washing as courtship setting
+  literal_form: Girls returning from washing themselves
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Touching during dances or after washing
+  summary: Young men could approach desired girls during religious dances or after
+    the girls returned from washing and touch or embrace them as part of a marriage-seeking
+    custom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Women touching men and possible rejection
+  summary: Young women could touch young men, usually on the head or arm. A man usually
+    married the girl who touched him but was not compelled to do so, and some rejected
+    girls responded with shame and suicide.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Elopement despite parental refusal
+  summary: Parents who prevented suitors from touching their daughter could find that
+    she had eloped; if recovered, custom still treated her as married to the young
+    man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: marriage effected or signaled by bodily touch
+  taxonomy_refs: []
+  basis: The passage repeatedly presents bodily touching or embracing as the decisive
+    customary action in obtaining or recognizing a marriage partner.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an ethnographic social custom in the passage, not explicitly a
+    myth narrative or a named mythological motif.
+- id: motif:2
+  label: elopement overriding parental refusal
+  taxonomy_refs: []
+  basis: When parents refuse marriage offers and prevent suitors from touching the
+    daughter, elopement can lead custom to declare the couple already married.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage reports a customary rule; no supernatural or mythic framing
+    is present.
+- id: motif:3
+  label: shame after rejected courtship gesture
+  taxonomy_refs: []
+  basis: Some girls who touched a man but were not accepted are described as feeling
+    great shame and committing suicide.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a social consequence described in the passage; it is not linked
+    to a broader comparative motif by the text itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19050-19056
+  quote_or_summary: The passage says the most common chances to touch girls were at
+    religious dances or when girls returned from washing; a young man who wanted a
+    girl as wife touched her breast or heel, or embraced her or touched her breast
+    if possible.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:2
+  type: summary
+  locator: lines 19056-19061
+  quote_or_summary: Young women could touch young men on the head or arm; a man was
+    not compelled to marry the girl who touched him, though he usually did, and some
+    rejected girls felt ashamed and committed suicide.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:3
+  type: summary
+  locator: lines 19062-19068
+  quote_or_summary: Parents who refused all marriage offers and closely watched a
+    daughter could discover that she had eloped; even if the father brought her back,
+    custom declared her already married to the young man.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The social customs are plainly described, but the passage is ethnographic
+    rather than mythic and ends with a truncated sentence; no comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned because the available taxonomy terms are not directly supported by the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l19050-l19068
+  passage_sha256=bf16a5c29b2cc0a1a0acbc4090f0de6d7d75c60f6dea439ccd744978d610b54f
+

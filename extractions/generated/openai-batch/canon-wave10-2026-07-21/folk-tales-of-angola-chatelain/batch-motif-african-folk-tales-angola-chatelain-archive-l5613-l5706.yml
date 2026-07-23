@@ -1,0 +1,363 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l5613-l5706
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: XVII. / MUTU NI MBAXI. / XVII. / MAN AND TURTLE.; lines 5613-5706
+  start: '5613'
+  end: '5706'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A man catches a turtle and brings it to a village, where the people discuss
+    ways to kill it. The turtle says that hatchets, stones, fire, and knives will
+    not kill it, but pretends that being thrown into deep water will kill it. The
+    people throw it into the river; it dives, emerges, swims, and sings that water
+    is its home. The people realize they have been fooled, and the narrator explains
+    this as the reason the turtle lives in water.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man of Lubi la Suku catches a Turtle in the bush and brings it to the village.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The village people say they should kill the Turtle.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The proposed killing methods include hatchets, stones, fire, and knives.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Turtle says that hatchet, stone, fire, and knife will not kill it; regarding
+    fire, it says its back is like stone and cannot catch fire.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When throwing the Turtle into deep water is proposed, the Turtle says it will
+    die there.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The people carry the Turtle to the river and cast it into the depth.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Turtle dives, emerges after a while, swims, and sings that it is in its
+    home in the water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The people say the Turtle fooled them and that, by casting it into water,
+    they saved it.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The narrator states that this event caused the Turtle to live in the water
+    and adds that the Turtle was shrewd.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Turtle of Koka
+  description: A turtle caught in the bush, threatened with death, and ultimately
+    released into the river, where it swims and sings that water is its home.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Man of Lubi la Suku
+  description: The man who catches the Turtle in the bush and brings it to the village.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Village people
+  description: The people who discuss how to kill the Turtle, carry it to the river,
+    throw it into the depth, and later acknowledge that they were fooled.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: captive threatened with death
+  assigned_to:
+  - fig:1
+  basis: The Turtle is caught, brought to the village, and discussed as someone to
+    be killed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: shrewd deceiver
+  assigned_to:
+  - fig:1
+  basis: The Turtle claims water will kill it, then swims in the river and sings that
+    water is its home; the people and narrator state that it fooled them and was shrewd.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: captor
+  assigned_to:
+  - fig:2
+  basis: The man catches the Turtle in the bush and brings it to the village.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: would-be killers
+  assigned_to:
+  - fig:3
+  basis: The people repeatedly propose means of killing the Turtle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:5
+  label: deceived rescuers
+  assigned_to:
+  - fig:3
+  basis: After throwing the Turtle into water, the people say that they saved it and
+    that it fooled them.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: water as home and escape medium
+  literal_form: depth of water; river
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: fire as proposed killing method
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hatchet as proposed killing method
+  literal_form: hatchet
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: stone as proposed killing method and comparison for Turtle's back
+  literal_form: stone
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: knife as proposed killing method
+  literal_form: knife
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Capture and village threat
+  summary: A man catches the Turtle in the bush, brings it to the village, and the
+    people say they should kill it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rejected killing methods
+  summary: The people suggest hatchets, stones, fire, and knives; the Turtle says
+    each will not kill it, including fire because its back is like stone.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Water chosen as supposed death
+  summary: The people propose throwing the Turtle into deep water; the Turtle says
+    it will die there, causing the people to think they have found a way to kill it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: River escape
+  summary: The people throw the Turtle into the river; it dives, emerges, swims, and
+    sings that water is its home.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Recognition and etiology
+  summary: The people state that the Turtle fooled them and that they saved it by
+    throwing it into water; the narrator says this is why the Turtle lives in water.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Trickster escapes by feigning danger in its true home element
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Turtle claims that deep water will kill it, but after being thrown into
+    the river it swims and sings that water is its home; the people state that it
+    fooled them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage supports deception and a
+    land-water boundary, but no external comparison is made.
+- id: motif:2
+  label: Origin explanation for an animal's aquatic dwelling
+  taxonomy_refs: []
+  basis: The narrator explicitly states that this event caused the Turtle to live
+    in the water.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy reference directly names etiological animal-habitat
+    tales.
+- id: motif:3
+  label: Claimed invulnerability to ordinary weapons and fire
+  taxonomy_refs: []
+  basis: The Turtle says hatchet, stone, fire, and knife will not kill it, and describes
+    its back as stone-like against fire.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The proposed methods are not actually tested in the passage, so the invulnerability
+    is presented as the Turtle's claim rather than demonstrated action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5617-5621
+  quote_or_summary: "“Man of Lubi la Suku caught a Turtle in the bush; he came with
+    it to the village. They said: ‘Let us kill it!’”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 5622-5655
+  quote_or_summary: The people propose killing the Turtle with hatchets, stones, fire,
+    and knives; the Turtle says each will not kill it and says fire cannot catch on
+    its stone-like back.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 5656-5666
+  quote_or_summary: When people suggest casting the Turtle into the depth of water,
+    the Turtle says, “Woe! I shall die there!” and the people think they have found
+    the way to kill it.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 5667-5674
+  quote_or_summary: 'They cast the Turtle into the river; it dives, emerges, swims,
+    and sings: “In water, in my home!”'
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 5676-5688
+  quote_or_summary: 'The people say the Turtle fooled them: they tried several killing
+    methods, believed water would kill it, but by throwing it into water they saved
+    it.'
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 5689-5692
+  quote_or_summary: "“This is what caused the Turtle to live in the water: the people
+    were going to kill him; but he was shrewd.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence is clear. Motif classification is cautious because only
+    the supplied broad taxonomy is available and no external comparisons are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata; line subranges are approximate within the provided stable range.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l5613-l5706
+  passage_sha256=edc5d0345e32eb9aedbd6be476903e9d86f2ffbfc1f717ddb9bf9f0279697687
+

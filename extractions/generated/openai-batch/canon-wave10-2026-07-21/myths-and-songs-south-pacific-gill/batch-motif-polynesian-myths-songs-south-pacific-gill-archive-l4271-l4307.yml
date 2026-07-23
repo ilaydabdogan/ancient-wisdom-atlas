@@ -1,0 +1,168 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l4271-l4307
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: TAHITIAN  MYTH  OF  THE  COCOA-NUT  TREE. / THE  IRON-WOOD  TREE. / TUMU.  INTRODUCTION.
+    / FOUNDATION,; lines 4271-4307
+  start: '4271'
+  end: '4307'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“Once it stood erect; now it is prostrate.”"
+  summary: A song passage describes the iron-wood tree of Vaotere as felled, lying
+    low on the earth, and formerly standing erect as the glory of the valley. A foundation
+    section instructs that the log be turned over and over.
+  language: Mangaian with English translation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The iron-wood tree of Vaotere is described as felled.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The felled tree lies low on the earth.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The tree once stood erect and is now prostrate.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The log is to be turned over and over.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The tree was formerly called the glory of the valley.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: iron-wood tree of Vaotere
+  description: A tree that has been felled, lies low on the earth, and is described
+    as having once stood erect.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: felled tree/log
+  assigned_to:
+  - fig:1
+  basis: The passage says the iron-wood tree is felled and later refers to the log
+    being turned.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: former glory of the valley
+  assigned_to:
+  - fig:1
+  basis: The passage says the tree was formerly the glory of the valley.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: iron-wood tree / log
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Felled iron-wood tree of Vaotere
+  summary: The iron-wood tree of Vaotere is described as cut down, lying low, and
+    changed from an erect standing tree into a prostrate log.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Foundation log
+  summary: In the foundation section, the log is addressed as something to be turned
+    over and over, while its former status as the glory of the valley is recalled.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: notable tree felled and laid low
+  taxonomy_refs: []
+  basis: The passage repeatedly contrasts the tree’s former erect standing and valley
+    glory with its present felled, prostrate state.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage presents a notable tree and its felling, but does not itself
+    explain a broader mythic function or identify the tree as a cosmic or sacred axis.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4271-4280
+  quote_or_summary: "“The iron-wood tree of Vaotere is felled ... It lies low on the
+    earth.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 4281-4284
+  quote_or_summary: "“Once it stood erect; now it is prostrate.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 4297-4299
+  quote_or_summary: "“Turn the log over and over”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 4301-4307
+  quote_or_summary: "“Formerly it was the glory of the valley, Once it stood erect;
+    now it is prostrate.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif identification is limited because
+    the passage is brief and gives little explicit narrative or interpretive context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage does not itself support a cautious comparison to another corpus or motif family.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l4271-l4307
+  passage_sha256=ef2aa7a100b5f72848a4f4a3bac6316969c9acd85e0ec99107703d6175685e30
+

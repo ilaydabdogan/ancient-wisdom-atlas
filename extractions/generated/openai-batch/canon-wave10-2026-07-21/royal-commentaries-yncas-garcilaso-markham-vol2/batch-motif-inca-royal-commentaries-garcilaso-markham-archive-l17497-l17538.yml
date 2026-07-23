@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l17497-l17538
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XIX. / OE  THE  TAME  AND  WILD  BIRDS  ON  LAND  AND  WATER. /
+    COMMENTARIES  OF  THE  YNCAS. / EIGHTH  BOOK  OP  THE  ROYAL; lines 17497-17538
+  start: '17497'
+  end: '17538'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives natural-historical descriptions of Peruvian birds: the
+    condor or cuntur as very large and strong; the ccenti or hummingbird as very small,
+    golden-blue, and nectar-feeding; and the suyuntu or gallinazo as a large black
+    carrion bird that overeats, vomits to regain flight, and is useful chiefly for
+    cleaning streets.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage cites Father Acosta on the condor, described as immense and strong
+    enough to tear open and eat a lamb or calf.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage contrasts the condor with very small Peruvian birds called tominejos
+    by Spaniards and ccenti by natives.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The ccenti are described as golden-blue, with a color compared to the rich
+    tint on a peacock's neck.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The ccenti feed by sucking honey from flowers with long slender beaks, like
+    bees.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Father Acosta reports that he sometimes doubted whether flying hummingbirds
+    were bees or small butterflies, though they were birds.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage presents the condor and hummingbird as opposite extremes of size
+    among birds found in Peru, with many intermediate sizes between them.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Large black birds called suyuntu by natives and gallinazo by Spaniards are
+    described as devourers of flesh.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: When the gallinazo overeat a dead beast, they may become too heavy to rise
+    on the wing.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: When people approach, the gallinazo flee using feet and wings while vomiting
+    food to lighten themselves and fly away.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The gallinazo are said not to be good to eat and to be useful only for cleaning
+    the streets.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Father Acosta
+  description: An cited authority whose words are used for descriptions of New World
+    birds, especially the condor and hummingbird.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: cuntur / condor
+  description: A bird of immense size and strength, able to tear open and eat a lamb
+    or calf.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: ccenti / tominejo / hummingbird
+  description: A very small golden-blue bird that sucks honey from flowers with a
+    long slender beak.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: suyuntu / gallinazo / Turkey buzzard
+  description: A large black carrion bird, greedy in feeding on flesh and useful for
+    cleaning streets.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: people approaching the gallinazo
+  description: People whose approach prompts overfed gallinazo to flee and vomit food
+    to regain flight.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: cited natural-history authority
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly refers readers to Father Acosta and quotes his descriptions
+    of Peruvian birds.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: large powerful predatory bird
+  assigned_to:
+  - fig:2
+  basis: The condor is described as immense and strong enough to tear open and eat
+    lambs and calves.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: tiny nectar-feeding bird
+  assigned_to:
+  - fig:3
+  basis: The ccenti is described as very small and as feeding from flowers like bees.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: carrion-eating scavenger and street cleaner
+  assigned_to:
+  - fig:4
+  basis: The gallinazo devours flesh, feeds on dead beasts, and is said to be useful
+    for cleaning streets.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: approaching human threat
+  assigned_to:
+  - fig:5
+  basis: The birds begin to flee and vomit when they see people approaching.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Description of condor strength
+  summary: Father Acosta is cited describing condors as very large birds strong enough
+    to tear open and eat a lamb or calf.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Description of the tiny ccenti
+  summary: The passage contrasts the condor with ccenti hummingbirds, describing their
+    color, smallness, and flower-feeding behavior.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Overfed gallinazo escape
+  summary: Gallinazo feeding on a dead beast become too heavy to fly, then flee from
+    approaching people while vomiting food so they can rise and escape.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Utility of gallinazo
+  summary: The passage says the gallinazo are not good for food and are useful only
+    for cleaning streets.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Opposite extremes of animal size in a local natural world
+  taxonomy_refs: []
+  basis: The passage explicitly frames condors and hummingbirds as two Peruvian birds
+    at opposite extremes of size, with many intermediate birds between them.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a descriptive natural-history pattern, not a mythological motif
+    in the supplied passage; no available taxonomy reference is directly supported.
+- id: motif:2
+  label: Overeating scavenger rendered flightless until purging
+  taxonomy_refs: []
+  basis: The gallinazo are described as eating so much carrion that they cannot rise,
+    then vomiting to lighten themselves and fly away when people approach.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage treats this as animal behavior and entertainment, not as symbolic
+    narrative or myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 17497-17508
+  quote_or_summary: 'Father Acosta is quoted: condors are of immense size and strong
+    enough to tear open and eat a lamb or calf.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation or summary permitted.
+- id: ev:2
+  type: summary
+  locator: 17509-17518
+  quote_or_summary: Peruvian birds called tominejos by Spaniards and ccenti by natives
+    are described as golden-blue and as feeding like bees by sucking honey from flowers
+    with long slender beaks.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 17519-17527
+  quote_or_summary: Acosta reports that the hummingbirds are so small in flight that
+    he doubted whether they were bees or butterflies; he says the condor and hummingbird
+    are opposite extremes of size among Peruvian birds.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 17528-17534
+  quote_or_summary: Large black birds called suyuntu or gallinazo are described as
+    flesh-devourers; after feeding on a dead beast they can become too heavy to rise
+    on the wing.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 17534-17537
+  quote_or_summary: When people approach, the gallinazo flee on feet and wings, vomiting
+    food to lighten themselves and fly away; people may catch and kill them if they
+    hurry.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 17537-17538
+  quote_or_summary: The gallinazo are said not to be good to eat or otherwise useful,
+    except for cleaning the streets.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The literal extraction is straightforward, but the passage is natural-historical
+    rather than mythological. Motif candidates are retained only as descriptive patterns
+    and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif family or listed symbol is directly supported by the passage. No comparison claims were added because the passage itself does not support cross-tradition or motif-family comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l17497-l17538
+  passage_sha256=f0e3442403140049e03bb7b6a996a806665459a32ae8dc1ef29674c7e86556d5
+

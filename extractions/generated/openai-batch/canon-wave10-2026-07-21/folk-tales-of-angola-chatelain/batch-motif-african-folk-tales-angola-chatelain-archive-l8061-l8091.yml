@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l8061-l8091
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: KING KITAMBA KIA XIBA. / THE YOUNG MAN AND THE RIVER. / XLII. / KINGUNGU
+    A NJILA NI NGUNDU A NDALA.; lines 8061-8091
+  start: '8061'
+  end: '8091'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“Wealth came from medicine.”"
+  summary: A formerly bonded man negotiates self-redemption by paying additional cows,
+    leaves for another country, builds a household, marries, practices medicine, accumulates
+    cattle, and becomes rich and celebrated. The passage attributes his medicine to
+    River and concludes with a proverb and tale-closing formula.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The man has spent three years in bondship and has six cattle.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: He asks his master what payment will redeem him, and the master demands three
+    more cows.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: He gives the cows, leaves, goes to another country, builds, marries, and practices
+    medicine.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After six years, he has many cattle and is described as rich.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says River gave medicine to the friend who had been in bondship
+    and misery.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that he earned cattle, redeemed himself, and became a great
+    and celebrated man.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says the saying about hoeing, speaking, and a youth stretching
+    to his reach had become a proverb.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator ends with a formulaic statement that the storytelling is finished.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: formerly bonded man / “our friend”
+  description: He spent years in bondship, redeemed himself with cows, moved to another
+    country, married, practiced medicine, gained cattle, and became rich and celebrated.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: master of bondship
+  description: The master is asked the redemption price and demands three more cows.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: River
+  description: River is stated to have given medicine to the formerly bonded man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: storyteller / narrator
+  description: The speaker closes by saying that stories have been told and that the
+    tale is finished.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: redeemed bondsman
+  assigned_to:
+  - fig:1
+  basis: He had been in bondship, asks to redeem himself, pays cows, and leaves.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: bondship master
+  assigned_to:
+  - fig:2
+  basis: He sets the payment required for the man’s redemption.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: medicine giver
+  assigned_to:
+  - fig:3
+  basis: The passage states that River gave medicine to the formerly bonded man.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: medicine practitioner and prosperous man
+  assigned_to:
+  - fig:1
+  basis: He practices medicine, gains cattle, and becomes rich and celebrated.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: closing narrator
+  assigned_to:
+  - fig:4
+  basis: The first-person speaker marks the end of storytelling.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: cattle as redemption and wealth
+  literal_form: six cattle; three additional cows; herd of many cattle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: medicine
+  literal_form: medicine
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: river / water
+  literal_form: River
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: tree in proverb
+  literal_form: tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: youth stretching to his reach
+  literal_form: "“A youth must stretch as high as he can reach.”"
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Self-redemption negotiated by cattle payment
+  summary: The bonded man asks his master for the price of redemption; the master
+    demands three additional cows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Departure and prosperity through medicine
+  summary: After giving the cows, the man leaves, settles elsewhere, marries, practices
+    medicine, acquires many cattle, and becomes rich and celebrated; River is named
+    as the giver of the medicine.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Proverbial and narrative closing
+  summary: The passage explains that the outcome became a proverb and then ends with
+    a first-person storytelling closure.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Self-redemption through cattle payment
+  taxonomy_refs: []
+  basis: The bonded man asks the redemption price, is told to bring three more cows,
+    gives them, and leaves.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The excerpt does not give the earlier circumstances of the bondship.
+- id: motif:2
+  label: Medicine-bestowed prosperity
+  taxonomy_refs: []
+  basis: River gives medicine; the man practices medicine, earns cattle, redeems himself,
+    and becomes rich and celebrated.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain River’s nature or narrate the initial medicine-giving
+    episode.
+- id: motif:3
+  label: Proverbial wisdom ending
+  taxonomy_refs:
+  - wisdom
+  basis: The episode is explicitly said to have become a proverb, and the quoted proverb
+    advises persistence up to one’s reach.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a functional classification; no external proverb parallel is asserted.
+- id: motif:4
+  label: Departure after release
+  taxonomy_refs:
+  - departure
+  basis: After paying the required cows, the man leaves and goes to another country.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a late-episode departure in the supplied excerpt, not necessarily
+    the beginning of a larger heroic journey.
+comparison_claims:
+- id: claim:1
+  claim: Because the passage says the episode became a proverb and quotes the saying,
+    it can be compared functionally to a wisdom or proverbial-instruction pattern.
+  claim_level: same_function
+  target: wisdom motif family / proverb ending
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports only functional classification; it does not establish
+    historical contact, common inheritance, or a specific external parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8067-8070
+  quote_or_summary: The man has six cattle after three years, asks his master how
+    much to pay for redemption, and is told to bring three more cows.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8070-8074
+  quote_or_summary: He gives the cows, leaves, goes to another country, builds, marries,
+    practices medicine, and after six years has many cattle and is rich.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 8075-8080
+  quote_or_summary: "“River gave to him medicine. He earned the cattle; he redeemed
+    himself; he soon became a great man, celebrated. ‘Wealth came from medicine.’”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 8080-8086
+  quote_or_summary: 'The passage says it became a proverb: “Hoe on! even to the tree;
+    / Speak on! even to the end; / A youth must stretch as high as he can reach.”'
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 8088-8091
+  quote_or_summary: The first-person narrator says stories have been told, gives closing
+    sayings about tongue, teeth, work, and going, and marks the tale as finished.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The sequence of redemption, departure, medicine practice, prosperity, and
+    proverb is clear. The broader identities of the titled figures and the precise
+    nature of River are not established within this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The title names Kingungu a Njila and Ngundu a Ndala, but this excerpt identifies the acting protagonist chiefly by pronoun and by “our friend”; names are therefore not assigned to the protagonist.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l8061-l8091
+  passage_sha256=55657936656fdff799815e7bae5da14d610afb0d63044559d6ef44b0848175b6
+

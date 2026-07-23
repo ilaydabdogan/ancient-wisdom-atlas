@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l6226-l6238
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: PURSUIT  BY  A  RATTLING  SKULL;  THE  PLEIADES.  121 / J22  TRUE  STORIES  OF  THE  HEAVENLY  BEINGS.
+    / THE   POOR  BOY   AND  THE   MUD  PONIES.  I23 / ORIGIN  OF  THE  BUFFALO  BUNDLE.  I  25;
+    lines 6226-6238
+  start: '6226'
+  end: '6238'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A girl misses a young man who has gone on the war-path without her knowing.
+    Her sadness turns to sickness, and she dies as the people prepare for a buffalo
+    hunt. The people carry her to a high mound near the graveyard and construct a
+    shallow burial platform with east and west forks and poles. A note says the tale
+    illustrates Pitahauirat belief in a future land and the results of disobedience
+    to supernatural powers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The young man has gone upon the war-path, and the girl does not know this.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The girl looks for the young man every day and becomes sad when she does not
+    see him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The girl keeps thinking of the young man until she becomes sick.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The girl dies while the people are preparing to go on a buffalo hunt.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The people take the girl to a high mound close to the graveyard.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The people dig a hole about two feet deep and set up two forks, one on the
+    east side and one on the west side.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The people place a pole across the forks, put poles against it, and place
+    the girl upon the platform.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A note states that the tale illustrates Pitahauirat belief in a future land
+    and the dire results of disobedience to supernatural powers.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the girl
+  description: A girl who misses the young man, becomes sick, dies, and is placed
+    on a platform after death.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the young man
+  description: A young man who has gone upon the war-path and is missed by the girl.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the people
+  description: The community preparing for a buffalo hunt and arranging the girl's
+    burial platform.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: mourning or longing figure
+  assigned_to:
+  - fig:1
+  basis: The girl searches for the absent young man, is sad, and keeps thinking of
+    him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceased figure placed on platform
+  assigned_to:
+  - fig:1
+  basis: The passage says the girl dies and is placed upon the constructed platform.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: absent war-path traveler
+  assigned_to:
+  - fig:2
+  basis: The young man has gone upon the war-path without the girl knowing.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: buffalo-hunt community
+  assigned_to:
+  - fig:3
+  basis: The people are getting ready to go on a buffalo hunt.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: funerary preparers
+  assigned_to:
+  - fig:3
+  basis: The people carry the girl to the mound and construct the platform.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: high mound near graveyard
+  literal_form: high mound close to the graveyard
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: east and west forks
+  literal_form: two forks set on the east and west sides
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: burial platform
+  literal_form: poles forming a platform on which the girl is placed
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: buffalo hunt
+  literal_form: the people's preparation to go on a buffalo hunt
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: future land
+  literal_form: future land mentioned in the note
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Girl misses absent young man
+  summary: The girl does not know the young man has gone on the war-path, looks for
+    him every day, and becomes increasingly sad and sick.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Death before buffalo hunt
+  summary: As the people prepare for a buffalo hunt, the girl dies.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Placement on mound platform
+  summary: The people carry the girl to a high mound near the graveyard, construct
+    a shallow platform with east and west supports and poles, and place her on it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: death from longing for an absent beloved
+  taxonomy_refs: []
+  basis: The girl searches for the absent young man, is sad, keeps thinking of him,
+    becomes sick, and dies.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not state a supernatural cause for the sickness or death.
+- id: motif:2
+  label: elevated funerary platform on a mound
+  taxonomy_refs: []
+  basis: The people take the dead girl to a high mound near the graveyard and place
+    her on a constructed platform of forks and poles.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives the burial construction literally but does not explain
+    its ritual meaning.
+- id: motif:3
+  label: future land or afterlife belief
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: A note states that the tale illustrates Pitahauirat belief in the future
+    land.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The supplied excerpt does not narrate an afterlife journey or map; the
+    basis is the note, not the visible action in the excerpt.
+- id: motif:4
+  label: disobedience to supernatural powers brings dire results
+  taxonomy_refs: []
+  basis: A note states that the tale shows dire results of disobedience to supernatural
+    powers.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The supplied excerpt does not include the specific act of disobedience
+    or the supernatural powers involved.
+comparison_claims:
+- id: claim:1
+  claim: The note compares this tale with other tales already noted in the same collection
+    as showing the dire results of disobedience to supernatural powers.
+  claim_level: same_function
+  target: other tales already noted in the same collection
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is editorial and general; the supplied excerpt does
+    not provide the other tales or the disobedience episode.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6226-6230
+  quote_or_summary: The girl does not know the young man has gone on the war-path;
+    she looks for him daily, is sad, keeps thinking of him, and becomes sick.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 6230-6231
+  quote_or_summary: As the people are preparing to go on a buffalo hunt, the girl
+    dies.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 6231-6238
+  quote_or_summary: The people take the girl to a high mound near the graveyard, dig
+    a shallow hole, set up east and west forks, lay poles, and place her on the platform.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: note within supplied passage
+  quote_or_summary: The note says the tale illustrates Pitahauirat belief in the future
+    land and, like other tales, the dire results of disobedience to supernatural powers.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal actions and figures are clear. Motif labels based on the girl’s death
+    and burial are stronger than those based on the note, because the excerpt does
+    not include the later future-land or disobedience narrative details.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference to afterlife_journey_map is tentative because the supplied excerpt mentions future land only in the note.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l6226-l6238
+  passage_sha256=dbe81925dc5f42f9cdd032eba9392c60a3262e443d5b33117c247dbb2dc44747
+

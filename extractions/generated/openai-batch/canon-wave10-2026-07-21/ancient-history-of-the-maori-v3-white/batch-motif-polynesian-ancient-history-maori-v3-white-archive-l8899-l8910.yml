@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.polynesian-ancient-history-maori-v3-white-archive-l8899-l8910
+source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+passage_locator:
+  label: TUAHU-EIEI AND HIS ENEMIES. 181 / KORAKO AND HIS FIKST VICTIM. 183 / TE-KAPU-WAI
+    AND HIS WAKS. 185 / TAEA-I-TU AND HIS GOD. 187; lines 8899-8910
+  start: '8899'
+  end: '8910'
+  translation: The Ancient History of the Maori, His Mythology and Traditions, Volume
+    3
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A god or sacred war-weapon has been taken to Mua and left there. The god
+    and its priest feel sorrow for one another. In a dream the god tells the priest
+    Tara-i-tu to rise because the war-weapon has returned to its keeping-place. At
+    daylight the priest finds it in its old place, and the people gather while he
+    performs ceremonies and chants incantations welcoming the god’s return.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The god or object had been taken to Mua and left there.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The god felt sorrow for its priest Tara-i-tu and for the people of Wai-koua-iti;
+    the priest also felt sorrow for the god and wept.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In a dream, Tara-i-tu heard the god tell him to stop sleeping and rise because
+    the war-weapon had come back to its kept place.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: At daylight Tara-i-tu went to the place where the god was kept and found it
+    in its old place.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The people came, and Tara-i-tu performed ceremonies and chanted incantations
+    to welcome the god’s return.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Tara-i-tu
+  description: A priest associated with the god; the episode heading names Taea-i-tu,
+    while the narrative spelling in the supplied passage is Tara-i-tu.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the god / war-weapon
+  description: A god associated in the passage with a war-weapon that returns to the
+    place where it is kept; the god feels sorrow and speaks to the priest in a dream.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: people of Wai-koua-iti / all the people
+  description: The people for whom the god feels sorrow, and who gather when the god’s
+    return is welcomed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: priest
+  assigned_to:
+  - fig:1
+  basis: The passage calls Tara-i-tu the priest and shows him performing ceremonies
+    and chanting incantations.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: returning god or sacred object
+  assigned_to:
+  - fig:2
+  basis: The god is linked with the war-weapon that has come back and is found again
+    in its old keeping-place.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: community witnesses or beneficiaries
+  assigned_to:
+  - fig:3
+  basis: The god feels sorrow for the people of Wai-koua-iti, and all the people come
+    for the return ceremony.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: war-weapon as god-object
+  literal_form: war-weapon identified with or closely associated with the god and
+    kept in a designated place
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: old keeping-place
+  literal_form: the place in which the god or war-weapon is kept, described as its
+    old place
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Separation and mutual sorrow
+  summary: The god or object has been taken to Mua and left there; the god feels sorrow
+    for the priest and people, and the priest weeps for the god.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Dream announcement of return
+  summary: In a dream, the god tells Tara-i-tu to wake and rise because the war-weapon
+    has returned to the place where it is kept.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Verification and ritual welcome
+  summary: At daylight Tara-i-tu finds the god in its old place, and the gathered
+    people witness his ceremonies and incantations welcoming the return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: return of a sacred god-object
+  taxonomy_refs:
+  - return
+  basis: A god or war-weapon is absent after being taken to Mua, announces its return
+    in a dream, and is found again in its old keeping-place.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain the mechanism of the return; the relation
+    between the god and the war-weapon should be checked against surrounding context.
+- id: motif:2
+  label: dream message from a god to a priest
+  taxonomy_refs: []
+  basis: The priest hears the god speak in a dream, instructing him to rise and announcing
+    the return of the war-weapon.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the available list has
+    no precise dream-revelation category.
+- id: motif:3
+  label: ritual welcome of a returning deity
+  taxonomy_refs: []
+  basis: After the god is found in its old place, the priest performs ceremonies and
+    chants incantations while the people gather to welcome its return.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage names ceremonies and incantations but does not describe their
+    form or ritual content.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 8899
+  quote_or_summary: "“TAEA-I-TU AND HIS GOD. 187”"
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 8901-8904
+  quote_or_summary: On arrival at Te-tau-mutu the god or object is taken to Mua and
+    left there; the god feels sorrow for priest Tara-i-tu and the people of Wai-koua-iti,
+    and the priest feels sorrow and weeps.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; neutral summary used.
+- id: ev:3
+  type: quote
+  locator: lines 8904-8907
+  quote_or_summary: "“Tara-i-tu, cease to sleep : rise up. The war-weapon has come
+    back, and here it is in the place in which it is kept.”"
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 8907-8910
+  quote_or_summary: At daylight Tara-i-tu goes to where the god is kept, finds it
+    in its old place, and performs ceremonies and chants incantations as the people
+    gather to welcome the god’s return.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; neutral summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied line range. Name spelling differs
+    between the heading and narrative, and the exact relation between the god and
+    the war-weapon may require surrounding context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims are made beyond candidate motif classification because the passage itself gives no explicit cross-traditional comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-ancient-history-maori-v3-white-archive__l8899-l8910
+  passage_sha256=e615661944837a57c3bbeccb88f40a47646bf6b2004e3556a9317507d76a9187
+

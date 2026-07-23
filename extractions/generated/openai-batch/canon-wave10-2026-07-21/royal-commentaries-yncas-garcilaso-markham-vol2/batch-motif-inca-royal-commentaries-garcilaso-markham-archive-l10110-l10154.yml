@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l10110-l10154
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SEVENTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. / CHAPTER  Y.
+    / THE  THIRD  SOLEMN  FEAST  IN  HONOUR  OF  THE  SUN.; lines 10110-10154
+  start: '10110'
+  end: '10154'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: The third solemn festival was called Cusqui-raymi.
+  summary: The passage introduces the third of four annual solemn feasts celebrated
+    by the Ynca court. Cusqui-raymi is held when maize begins to sprout. Lambs and
+    ewes are offered to the Sun, with a prayer that frost not damage the maize. The
+    passage also notes earlier and lesser festivals, including the feast of the Sun,
+    a knighting feast for royal novices, and ceremonies held in the temple of the
+    Sun.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Ynca is described as celebrating four solemn feasts at court during the
+    year.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The principal feast is identified as the feast of the Sun called Raijmi.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The second major feast is described as the occasion when novices of the blood
+    royal were made knights.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Some monthly and special ceremonies are described as taking place within the
+    temple of the Sun with less grandeur and without coming out into public squares.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:5
+  text: The third solemn festival is named Cusqui-raymi.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Cusqui-raymi is celebrated when maize seeds begin to sprout and appear.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Many lambs and ewes are offered to the Sun during this festival.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The prayer asks the Sun to order the frost not to injure the maize.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The valleys of Cuzco and Sacsahuana, and others of similar temperature, are
+    described as exposed to frosts that injure maize more than beans.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Ynca
+  description: The ruler or royal institution described as celebrating four solemn
+    feasts at court during the year.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: The Sun
+  description: The divine recipient of the feast and of offerings; the celebrants
+    pray that he will order frost not to injure maize.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Festival celebrants
+  description: The collective subject described as offering lambs and ewes and praying
+    to the Sun.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Novices of the blood royal
+  description: Royal novices mentioned in connection with the second solemn feast,
+    when they were made knights.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: annual court festival celebrant or sponsor
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Ynca celebrated four solemn feasts at court during
+    the year.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: solar recipient of offerings and prayer
+  assigned_to:
+  - fig:2
+  basis: Lambs and ewes are offered to the Sun, and the prayer asks him to restrain
+    frost from harming maize.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: ritual offerers and petitioners
+  assigned_to:
+  - fig:3
+  basis: The passage describes an unnamed collective as offering animals and praying
+    to the Sun.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: royal initiands made knights
+  assigned_to:
+  - fig:4
+  basis: The second feast is described as the occasion when novices of the blood royal
+    were made knights.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Sun
+  literal_form: the Sun
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: sprouting maize
+  literal_form: maize seeds beginning to sprout and show themselves
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: animal offerings
+  literal_form: many lambs and ewes offered up to the Sun
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: frost
+  literal_form: frost that may injure the maize
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: temple of the Sun
+  literal_form: the temple of the Sun
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Annual solemn feasts at the Ynca court
+  summary: The passage frames the account within four yearly solemn feasts of the
+    Ynca court, naming the feast of the Sun and mentioning the knighting feast for
+    royal novices before turning to the third feast.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lesser temple ceremonies
+  summary: Monthly and special ceremonies, such as those for victory or provincial
+    submission, are described as being performed inside the temple of the Sun with
+    less grandeur and without public-square processions.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:3
+  label: Cusqui-raymi and protection of sprouting maize
+  summary: Cusqui-raymi is held when maize sprouts. The celebrants offer many lambs
+    and ewes to the Sun and pray that frost not harm the maize in frost-prone valleys
+    such as Cuzco and Sacsahuana.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: seasonal agricultural festival at crop sprouting
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Cusqui-raymi is tied to the moment when maize seeds begin to sprout, and
+    the ritual concern is protection from frost during crop growth.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage describes only the opening purpose of the feast and does not
+    give a full ritual sequence.
+- id: motif:2
+  label: animal sacrifice or offering to a solar deity
+  taxonomy_refs:
+  - sacrifice
+  basis: The celebrants offer many lambs and ewes to the Sun.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage uses the language of offering; it does not provide details
+    of killing, preparation, or distribution.
+- id: motif:3
+  label: offering and petition for crop protection
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Animal offerings to the Sun accompany a prayer that the Sun order frost not
+    to injure the maize.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage implies a ritual petition associated with offerings, but it
+    does not explicitly state a contractual exchange.
+- id: motif:4
+  label: royal novice knighting
+  taxonomy_refs:
+  - initiation
+  basis: The second solemn feast is described as the occasion when novices of the
+    blood royal were made knights.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This feast is only mentioned in summary as already described elsewhere;
+    no initiation details are provided in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10110-10154; opening festival overview
+  quote_or_summary: "“The Ynca celebrated four solemn feasts at his court, during
+    the year. The principal and most solemn one was the feast of the Sun called Raijmi”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 10110-10154; second feast reference
+  quote_or_summary: "“The second ... was that which they celebrated when they made
+    knights of the novices of the blood royal”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 10110-10154; Cusqui-raymi naming
+  quote_or_summary: "“The third solemn festival was called Cusqui-raymi.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 10110-10154; maize sprouting timing
+  quote_or_summary: "“It was celebrated when the maize seeds began to sprout and show
+    themselves.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 10110-10154; offering and prayer
+  quote_or_summary: "“They then offered up many lambs and ewes to the Sun, praying
+    that he would order the frost not to injure the maize”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: lines 10110-10154; frost-prone valleys
+  quote_or_summary: "“the valleys of Cuzco and Sacsahuana ... are exposed to frosts,
+    which injure the maize more than the crops of beans”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: quote
+  locator: lines 10110-10154; lesser temple ceremonies
+  quote_or_summary: "“the ceremonies were performed within the temple of the Sun ...
+    with less grandeur and solemnity, and without coming forth into the public squares”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is clear for the visible passage. Motif candidates
+    for seasonal cycle and sacrifice are strong; sacred exchange and initiation are
+    more interpretive or briefly mentioned. No cross-tradition comparison claims were
+    extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. The passage ends at a page transition with an incomplete final sentence, so no claims are made beyond the visible text.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l10110-l10154
+  passage_sha256=39230627a029fe0f8d5d0eaf447ce46311b15af5287ebbdaf2eb328be68e6a9d
+

@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l2091-l2100
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: BODY.  SPIRIT. / TIAIO,  KING  AND  GOD. / TANE-NGAKIAU. / TEKURAAKI.; lines
+    2091-2100
+  start: '2091'
+  end: '2100'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“This god was introduced by Tui from Rarotonga.”"
+  summary: The passage identifies Tekuraaki as a god introduced by Tui from Rarotonga.
+    It says the divinity was popular while the royal Tama-tapu and his tribe held
+    supremacy, but that the tribe was nearly extinct and Tekuraaki’s separate worship
+    almost unknown before Christianity. A carved iron-wood idol remained in the Pantheon
+    until its surrender in 1824 to Williams and Piatt.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Tekuraaki is named as a god in the passage heading and opening description.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: Tui introduced this god from Rarotonga.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The divinity was popular while the royal Tama-tapu and the named tribe maintained
+    supremacy.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: For some generations before Christianity, the tribe was almost extinct and
+    Tekuraaki’s separate worship was almost unknown.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A carved iron-wood idol remained in the Pantheon until 1824.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The idol was surrendered to Messrs. Williams and Piatt.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Tekuraaki
+  description: A god or divinity whose separate worship later became almost unknown.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Tui
+  description: The person said to have introduced Tekuraaki from Rarotonga.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the royal Tama-tapu
+  description: A royal chief associated with the period when the divinity was popular.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Messrs. Williams and Piatt
+  description: The recipients of the surrendered carved iron-wood idol in 1824.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: introduced divinity
+  assigned_to:
+  - fig:1
+  basis: The passage calls Tekuraaki a god introduced by Tui and later refers to the
+    divinity and its separate worship.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: introducer of the god
+  assigned_to:
+  - fig:2
+  basis: Tui is named as the one who introduced the god from Rarotonga.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: royal chief linked to cult popularity
+  assigned_to:
+  - fig:3
+  basis: The passage says the divinity was popular while the royal Tama-tapu and the
+    named tribe maintained supremacy.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipients of surrendered idol
+  assigned_to:
+  - fig:4
+  basis: The carved iron-wood idol was surrendered to Williams and Piatt in 1824.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: carved iron-wood idol
+  literal_form: carved iron-wood idol
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: Rarotonga
+  literal_form: Rarotonga
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Pantheon
+  literal_form: Pantheon
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Introduction of Tekuraaki from Rarotonga
+  summary: Tui introduces the god Tekuraaki from Rarotonga.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Popularity during political supremacy
+  summary: Tekuraaki is popular while the royal Tama-tapu and the named tribe maintain
+    supremacy.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Decline of separate worship and surrender of idol
+  summary: Before Christianity, the tribe is nearly extinct and Tekuraaki’s separate
+    worship is almost unknown; the carved iron-wood idol remains in the Pantheon until
+    it is surrendered to Williams and Piatt in 1824.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: God introduced from another island
+  taxonomy_refs: []
+  basis: The passage states that Tui introduced Tekuraaki from Rarotonga.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives no mythic narrative beyond the notice of introduction.
+- id: motif:2
+  label: Cult popularity tied to royal or tribal supremacy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The divinity is said to have been popular while the royal Tama-tapu and the
+    named tribe maintained supremacy.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage links worship popularity with political supremacy but does
+    not explicitly say the god legitimized rule.
+- id: motif:3
+  label: Sacred image retained after worship declines
+  taxonomy_refs: []
+  basis: Tekuraaki’s separate worship became almost unknown, yet the carved iron-wood
+    idol remained in the Pantheon until 1824.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is historical and descriptive, not a developed mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: '2091'
+  quote_or_summary: Heading identifies the section as “TEKURAAKI.”
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt or summary used.
+- id: ev:2
+  type: quote
+  locator: '2093'
+  quote_or_summary: "“This god was introduced by Tui from Rarotonga.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 2093-2095
+  quote_or_summary: The text says the divinity was popular while the royal Tama-tapu,
+    chief of the named tribe, maintained supremacy.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 2095-2098
+  quote_or_summary: For some generations before Christianity, the tribe was almost
+    extinct and Tekuraaki’s separate worship almost unknown.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: 2098-2100
+  quote_or_summary: The carved iron-wood idol remained in the Pantheon until 1824,
+    when it was surrendered to Messrs. Williams and Piatt.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by the passage’s brief historical notice and a visibly
+    corrupted or unclear tribe name in the provided text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. The unclear tribe name was not normalized or separately extracted.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l2091-l2100
+  passage_sha256=7e08a3e9458d1def7d831b81af79b495845ad9e1b0bec82e38ed3a57e2ce1e8a
+

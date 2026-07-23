@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l21883-l21926
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: FUNERALS / THE  COFFIN / FUNERALS / WASHING  THE  BODY; lines 21883-21926
+  start: '21883'
+  end: '21926'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Malay funerary preparation after washing the body:
+    a ninefold water-pouring rite, stopping the bodily orifices with cotton, shrouding
+    in white cotton cloth, the relatives’ last kiss without tears falling on the face,
+    variations in shroud thickness, optional white powder for a child’s body, tying
+    the shroud with five knots and triply wrapped strips, positioning the corpse toward
+    Mecca, and prayers by several praying-men.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The washing rite named ayer sambilan uses fresh water scooped and poured three
+    times to the right, three times to the left, and three times over the front of
+    the corpse from head to foot; the completed ceremony is called bedara.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After washing, bodily orifices such as ears, nostrils, and eyes are generally
+    stopped with cotton.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The body is carried back to its mattress and laid in a white cotton shroud
+    about seven feet by four feet, with the edges meeting over the breast.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The nearest relatives give a last kiss, but they are instructed not to disturb
+    the corpse by letting tears fall on its features.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The shroud is usually three layers for poor people, while wealthier families
+    use five or seven layers; in Selangor each shroud is usually a separate cloth.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A dead child may additionally be covered with a fine white powder sprinkled
+    over the face and arms.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Five knots fasten the shroud, using torn selvage strips bound three times
+    around the body at the breast, knees, and hips, and also above the head and below
+    the feet.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The corpse is laid on the mattress or mat with its head to the north and on
+    its right side facing west toward Mecca, the position it will occupy in the grave.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Prayers are then offered by four or five praying-men.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: corpse
+  description: The dead body being washed, shrouded, tied, positioned, and prayed
+    over.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: nearest relatives
+  description: Relatives who give the last kiss and are cautioned not to let tears
+    fall on the corpse’s features.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: praying-men
+  description: Four or five men who offer prayers after the corpse is positioned.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: dead body of a child
+  description: A child’s corpse, sometimes additionally covered with fine white powder
+    on the face and arms.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: deceased body prepared for burial
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The body or child’s body receives washing, cotton stopping, shrouding, tying,
+    powdering in one case, positioning, and prayers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: farewell relatives
+  assigned_to:
+  - fig:2
+  basis: The nearest relatives give the last kiss and must avoid letting tears fall
+    on the corpse.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: funerary prayer officiants
+  assigned_to:
+  - fig:3
+  basis: Four or five praying-men offer prayers after the body is placed in burial
+    position.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: funerary washing water
+  literal_form: Fresh water poured in a threefold-right, threefold-left, and threefold-front
+    sequence over the corpse.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: white cotton shroud
+  literal_form: White cotton cloth shroud, with three, five, or seven layers depending
+    on household means, and separate cloths in Selangor.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: five shroud knots
+  literal_form: Five knots made with torn selvage strips, tied at points above, below,
+    and around the corpse.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: westward Mecca orientation
+  literal_form: The corpse is placed on its right side looking west toward Mecca,
+    with the head to the north.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: white powder for a child’s body
+  literal_form: Fine white powder sprinkled over the face and arms of a child’s corpse.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: ninefold washing rite
+  summary: The corpse is washed with fresh water in a sequence of three pourings to
+    the right, three to the left, and three over the front from head to foot; the
+    completed ceremony is named bedara.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: cotton stopping, shrouding, and last kiss
+  summary: After washing, the corpse’s orifices are stopped with cotton, the body
+    is placed in a white cotton shroud on a mattress, and nearest relatives give a
+    final kiss without letting tears fall on its face.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: shroud variation and child powder
+  summary: The passage notes variations in shroud layering by wealth and region, and
+    adds that a child’s body may be sprinkled with fine white powder on face and arms.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: binding and burial orientation
+  summary: The shroud is fastened with five knots and triply wrapped strips, then
+    the corpse is laid with head north, on its right side, facing west toward Mecca,
+    followed by prayers from four or five praying-men.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual washing of the dead
+  taxonomy_refs: []
+  basis: The passage describes a named washing rite using repeated water pourings
+    over the corpse.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents a funerary procedure, not an explicit mythic narrative.
+- id: motif:2
+  label: funerary shrouding and sealing of the body
+  taxonomy_refs: []
+  basis: The body is stopped with cotton, wrapped in white shroud layers, and fastened
+    with five knots and repeated bindings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: Layer counts and bindings are recorded as ritual practice; symbolic meaning
+    is not explained in the passage.
+- id: motif:3
+  label: directional orientation of the corpse toward a sacred place
+  taxonomy_refs: []
+  basis: The corpse is placed with head north and on the right side facing west toward
+    Mecca, matching its grave position.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage identifies Mecca as the direction but does not elaborate theological
+    interpretation.
+- id: motif:4
+  label: regulated final farewell by relatives
+  taxonomy_refs: []
+  basis: Nearest relatives give a last kiss but must not let tears fall upon the corpse’s
+    features.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage records a rule for mourning behavior but does not provide
+    a broader narrative pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21883-21889
+  quote_or_summary: The washing called ayer sambilan uses fresh water poured three
+    times to the right, three to the left, and three over the front of the corpse
+    from head to foot; the completed ceremony is called bedara.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 21889-21896
+  quote_or_summary: After washing, ears, nostrils, eyes, and other orifices are stopped
+    with cotton; the body is returned to its mattress, laid in a white cotton shroud,
+    and given a last kiss by nearest relatives, who must not let tears fall on its
+    features.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 21896-21904
+  quote_or_summary: 'Shroud thickness varies: poor people usually use three layers,
+    wealthier families five or seven, and in Selangor each shroud is usually a separate
+    cloth; a child’s corpse may be sprinkled with fine white powder on face and arms.'
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 21904-21913
+  quote_or_summary: Five knots fasten the shroud, using torn hem or selvage strips
+    bound three times around the breast, knees, and hips, and also tied above the
+    head and below the feet.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 21913-21920
+  quote_or_summary: The corpse is laid on the mattress or mat with head to the north,
+    on its right side facing west toward Mecca, as in the grave; four or five praying-men
+    then offer prayers.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is procedural and explicit, supporting high-confidence extraction
+    of actions, roles, objects, and ritual sequence. Motif labels are descriptive
+    rather than tied to a named taxonomy family. No comparison claims were extracted
+    because the passage itself does not make a comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used; taxonomy references were limited to the available symbol ref water.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l21883-l21926
+  passage_sha256=39ff153374f750980e2e7aaea3c28c67bd381dde7637fabefa2a33bb7b7ef8fd
+

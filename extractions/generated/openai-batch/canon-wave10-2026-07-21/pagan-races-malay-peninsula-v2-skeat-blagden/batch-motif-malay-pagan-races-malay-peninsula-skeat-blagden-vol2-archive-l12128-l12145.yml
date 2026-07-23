@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.malay-pagan-races-malay-peninsula-skeat-blagden-vol2-archive-l12128-l12145
+source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+passage_locator:
+  label: CHAP.  VI  NEGRITOS  OF  PERAK  AND  KEDAH  207 / CHAP.  VI  NEGRITOS  OF  KEDAH  209
+    / VOL.   II  P / NEGRITOS  OF  KEDAH; lines 12128-12145
+  start: '12128'
+  end: '12145'
+  translation: Pagan Races of the Malay Peninsula, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports Semang opinions about a wind associated with Pie, explains
+    that Pie's apportionment of Diseases exhausted available plant resting-places
+    so deadlier epidemics remain restless and move rapidly between victims, and begins
+    a legend in which Kari selects Belet in the Sunset region as the abode of the
+    damned and gives Kamoj a firebrand that burns in two before Belet is fully arranged.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pie no longer dwells on earth, and Semang opinion is not unanimous about whether
+    the wind goes to Kari or directly to Pie.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pie apportioned the Diseases, after which the vegetable kingdom was exhausted.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Some very deadly Diseases had been sleeping while Pie breathed upon others
+    and later tried to find resting-places on epiphytic plants.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Because the plants had already been given away, epidemics such as smallpox
+    and cholera have no rest and move from one killed person to another before the
+    first person's soul has left the body.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Kari selected Belet, located in the Sunset region, as the abode of the damned.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Kari gave Kamoj a firebrand, and the brand burned in two before Kamoj had
+    nearly had time to arrange Belet.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Pie
+  description: Figure who no longer dwells on earth and who apportioned the Diseases
+    by breathing upon others.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Kari
+  description: Figure named as a possible destination of the wind; selects Belet as
+    the abode of the damned and gives Kamoj a firebrand.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Kamoj
+  description: Recipient of the firebrand from Kari; associated with arranging Belet
+    before the brand burns in two.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Diseases / deadly Diseases
+  description: Personified Diseases that are apportioned, sleep, seek plant resting-places,
+    and in epidemic form pass from victim to victim.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: apportioner of Diseases
+  assigned_to:
+  - fig:1
+  basis: Pie apportions the Diseases, exhausting the vegetable kingdom.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: restless epidemic agents
+  assigned_to:
+  - fig:4
+  basis: The deadly Diseases fail to obtain plant resting-places and therefore move
+    from one victim to another.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: selector of afterlife abode and giver of firebrand
+  assigned_to:
+  - fig:2
+  basis: Kari selects Belet as the abode of the damned and gives Kamoj a firebrand.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: firebrand recipient and arranger of Belet
+  assigned_to:
+  - fig:3
+  basis: Kamoj receives the firebrand and is linked to arranging Belet before the
+    brand burns in two.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: possible destination of the wind
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage reports non-unanimous Semang opinion that the wind goes either
+    to Kari or directly to Pie.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: wind going to Kari or Pie
+  literal_form: wind
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: plants as resting-places for Diseases
+  literal_form: vegetable kingdom and epiphytic plants
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Belet in the Sunset region
+  literal_form: Belet, located in the Sunset region, as the abode of the damned
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: firebrand
+  literal_form: firebrand / brand burnt in two
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Uncertain destination of the wind after Pie's departure
+  summary: After Pie no longer dwells on earth, the wind is said, in non-unanimous
+    Semang opinion, to go either to Kari or directly to Pie.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pie apportions Diseases and the plant resting-places are exhausted
+  summary: Pie apportions the Diseases, leaving the vegetable kingdom exhausted; some
+    deadly Diseases that had slept during this process later try to find resting-places
+    on epiphytic plants.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Restless epidemics move between victims
+  summary: Because no plant resting-place remains, epidemics have no rest and move
+    from one killed person to another before the first person's soul has left the
+    body.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Kari gives Kamoj the firebrand for Belet
+  summary: Kari selects Belet in the Sunset region as the abode of the damned and
+    gives Kamoj a firebrand, which burns in two before Kamoj has nearly had time to
+    arrange Belet.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Etiology of contagious epidemics as restless Diseases
+  taxonomy_refs: []
+  basis: The passage explains epidemic movement from victim to victim as the result
+    of deadly Diseases having no resting-place after all plants were assigned elsewhere.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage notes that the named epidemics are difficult to identify from
+    Semang descriptions.
+- id: motif:2
+  label: Divine apportionment of Diseases to plant hosts
+  taxonomy_refs: []
+  basis: Pie apportions Diseases, and deadly Diseases seek resting-places on epiphytic
+    plants after the vegetable kingdom has been exhausted.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The excerpt does not provide the full preceding account of all disease
+    allocations.
+- id: motif:3
+  label: Abode of the damned in the Sunset region
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Kari selects Belet, in the Sunset region, as the abode of the damned.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage names an afterlife locale but does not describe an afterlife
+    journey or a full map.
+- id: motif:4
+  label: Firebrand used in arranging an otherworld abode
+  taxonomy_refs: []
+  basis: Kari gives Kamoj a firebrand, and the brand burns in two before Kamoj has
+    nearly had time to arrange Belet.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: The excerpt ends mid-sentence, so the firebrand's full function and outcome
+    are not available in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12128-12130
+  quote_or_summary: Semang opinion is not unanimous; now that Pie no longer dwells
+    on earth, the wind goes either to Kari or perhaps directly to Pie.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 12130-12132
+  quote_or_summary: Pie apportions the Diseases, after which the vegetable kingdom
+    is exhausted.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 12132-12135
+  quote_or_summary: Some very deadly Diseases had been sleeping while Pie breathed
+    upon others; afterward they try to obtain resting-places on epiphytic plants,
+    but the plants have already been given away.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 12135-12139
+  quote_or_summary: Smallpox, cholera, and other epidemics have no rest; after killing
+    one man they fall upon another before the first person's soul has left the body.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 12141-12143
+  quote_or_summary: According to Semang views, Kari selects Belet in the Sunset region
+    as the abode of the damned.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 12143-12145
+  quote_or_summary: Kari gives Kamoj a firebrand, which burns in two before Kamoj
+    has nearly had time to arrange Belet.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: note
+  locator: line 12145
+  quote_or_summary: The provided excerpt ends mid-sentence after the statement that
+    Kamoj had not nearly had time to arrange Belet.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source; extraction note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The disease-etiology material is clear within the excerpt. The firebrand
+    legend is incomplete because the supplied passage ends mid-sentence; no comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references are limited to supplied options.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-pagan-races-malay-peninsula-skeat-blagden-vol2-archive__l12128-l12145
+  passage_sha256=62fcd6f7ca555959245125f542e5cce90adf4cbc7a215c4ea9ea71779bef590d
+

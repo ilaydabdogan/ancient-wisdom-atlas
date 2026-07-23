@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.jain-jaina-sutras-sbe22-jacobi-archive-l6311-l6364
+source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+passage_locator:
+  label: IO4 AJTARANGA STRA. / BOOK II, LECTURE I, LESSON 7. 1 05 / SEVENTH LESSON.
+    / BOOK II, LECTURE I, LESSON 7. 1 07; lines 6311-6364
+  start: '6311'
+  end: '6364'
+  translation: 'Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred
+    Books of the East, Vol. 22)'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives rules for Jain monks and nuns on begging-tours: they
+    should reject hot food cooled by blowing or fanning, reject food placed on vegetable
+    or animal matter, distinguish unacceptable from acceptable used water by its condition
+    and straining, ask properly for certain waters, and reject water taken from bare
+    ground or brought in an unsuitable vessel.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A monk or nun should tell a householder or his wife not to blow or fan hot
+    food before giving it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If hot food is nevertheless blown or fanned before being given, the monk or
+    nun should not accept it, because it is called impure and unacceptable.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Food placed on vegetable or animal matter should not be accepted by a monk
+    or nun on a begging-tour.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Recently used washing water that has not acquired a new taste, has not changed
+    its nature, and has not been strained is called impure and unacceptable.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Water used long ago for washing that has acquired a new taste, changed its
+    taste or nature, and been strained may be accepted as pure and acceptable.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When a monk or nun finds specified kinds of water, they may ask the householder
+    or his wife whether some of the water will be given.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: If the donor tells the mendicant to take water by drawing it with, or pouring
+    it in, the bowl, such water may be accepted whether self-taken or given by the
+    other.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Water taken from bare ground or fetched in a wet, moist, or dirty vessel and
+    mixed with cold water should not be accepted.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: monk or nun on a begging-tour
+  description: A Jain mendicant receiving instructions about what food and water may
+    or may not be accepted while begging.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: householder or his wife
+  description: The lay giver addressed by the monk or nun in the rules concerning
+    food and water.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: long-lived Sramana
+  description: The mendicant addressed by the donor when told to take water with or
+    in the bowl.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: mendicant recipient of alms
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage repeatedly describes a monk or nun on a begging-tour deciding
+    whether to accept food or water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:2
+  label: lay donor or household provider
+  assigned_to:
+  - fig:2
+  basis: The householder or wife is addressed as the person who may give food or water
+    to the mendicant.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Water, including washing water, rainwater, sour gruel, pure water,
+    and water handled in various ways.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: hot food cooled by blowing or fanning
+  literal_form: Hot food fanned or blown with a winnowing basket, fan, palm leaf,
+    branch, bird's tail, peacock's tail, cloth, hand, or mouth.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: begging bowl
+  literal_form: The bowl used for drawing or receiving water.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Instruction not to cool hot food by blowing or fanning
+  summary: A monk or nun should ask the donor not to blow or fan hot food; if the
+    donor does so anyway, the food is not to be accepted.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rejection of food placed on organic matter
+  summary: A monk or nun on a begging-tour should not accept food placed on vegetable
+    or animal matter.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Assessment of used washing water
+  summary: Used washing water is unacceptable if recent, unchanged, and unstrained,
+    but acceptable if old, altered in taste or nature, and strained.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Asking for and taking specified water
+  summary: The mendicant may ask the donor for certain waters; if told to take it
+    with or in the bowl, the mendicant may accept it whether self-taken or given.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Rejection of improperly obtained or carried water
+  summary: A monk or nun should not accept water taken from bare ground or fetched
+    in a wet, moist, or dirty vessel and mixed with cold water.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: rules for pure and acceptable alms
+  taxonomy_refs: []
+  basis: The passage repeatedly classifies food and water offered during begging as
+    acceptable or unacceptable according to how they have been handled, placed, strained,
+    or carried.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: This is a ritual-ethical rule pattern rather than a narrative mythic motif.
+- id: motif:2
+  label: verbal refusal or conditional acceptance of offerings
+  taxonomy_refs: []
+  basis: The mendicant is instructed to speak to the donor before receiving food or
+    water, including refusing food cooled by blowing and asking whether water will
+    be given.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is prescriptive monastic instruction, not a story of exchange
+    or bargaining.
+- id: motif:3
+  label: water purity determined by handling and transformation
+  taxonomy_refs: []
+  basis: The passage distinguishes impure from pure water by prior use, age, change
+    of taste or nature, straining, source, and vessel condition.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The water is treated in a practical disciplinary context; no broader cosmological
+    symbolism is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6311-6324
+  quote_or_summary: The mendicant should tell the householder or wife not to blow
+    or fan hot food with listed implements; if it is then blown or fanned, the food
+    should not be accepted as impure and unacceptable.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6325-6329
+  quote_or_summary: A monk or nun on a begging-tour should not accept food placed
+    on vegetable or animal matter, because it is impure and unacceptable.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6330-6337
+  quote_or_summary: Recently used washing water for flour, sesamum, rice, or the like,
+    if not altered and not strained, is impure and unacceptable.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6337-6341
+  quote_or_summary: Water long ago used for washing, with changed taste or nature
+    and strained, may be accepted as pure and acceptable.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6342-6349
+  quote_or_summary: When finding water used for washing sesamum, chaff, or barley,
+    rainwater, sour gruel, or pure water, the mendicant should ask the householder
+    or wife whether some will be given.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6350-6356
+  quote_or_summary: The donor may tell the Sramana to take the water by drawing it
+    with, or pouring it in, the bowl; such water may be accepted whether self-taken
+    or given by the other.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6357-6363
+  quote_or_summary: The mendicant should not accept water taken from the bare ground
+    or water fetched in a wet, moist, or dirty vessel and mixed with cold water.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a prescriptive monastic rule text with clear literal instructions.
+    Motif candidates are framed as disciplinary patterns rather than mythic narrative
+    motifs. No comparison claims are made because the passage itself does not support
+    comparison to another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata; no external taxonomy IDs beyond the provided water symbol reference are added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:jain-jaina-sutras-sbe22-jacobi-archive__l6311-l6364
+  passage_sha256=dbc059c2b9c7573163b5d491a438d277dce21fb0b61b8202853fc38169db9612
+

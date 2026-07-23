@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l10123-l10149
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: PAPA.  FOUNDATION. / INUINU  TAI.  FIRST  OFFSHOOT. / INUINU  RUA.  SECOND  OFFSHOOT.
+    / INUINU  TORU.  THIRD  OFFSHOOT.; lines 10123-10149
+  start: '10123'
+  end: '10149'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A solo and chorus address someone at the entrance to a sad home, beat the
+    breast in despair, say that the father Koroa is seeking the addressee, and state
+    that the addressee must now eat black beetles, the food of disembodied spirits.
+    The song also refers to a feast borne for Ura in his grave, described as dry like
+    Tiki's.
+  language: Mangaian with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A solo and chorus voice address someone at the entrance to a sad home and
+    describe shouting and beating the breast despairingly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Koroa is identified as the father of the addressed person and is described
+    as sadly seeking that person.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The addressed person is said to be compelled to feed on black beetles.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Black beetles are identified as the food of disembodied spirits.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A feast was borne for Ura in his grave.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The feast for Ura is described as all dry and is compared to Tiki's.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: addressed person
+  description: The person addressed as 'thee,' linked to a sad home, to Koroa as father,
+    and to the food of disembodied spirits.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Koroa
+  description: The father of the addressed person, described as sadly seeking that
+    person.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Ura
+  description: A named figure associated with a grave and a feast borne there.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Tiki
+  description: A named figure whose feast is used as a comparison for the dry feast
+    borne for Ura.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: solo and chorus voices
+  description: Performing voices that speak the lament, including shouting at the
+    entrance and beating the breast.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: addressed dead or spirit-associated person
+  assigned_to:
+  - fig:1
+  basis: The addressee is connected with the food of disembodied spirits; the passage
+    does not explicitly name the person.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: seeking father
+  assigned_to:
+  - fig:2
+  basis: Koroa is called the addressee's father and is said to be sadly seeking the
+    addressee.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: person in a grave
+  assigned_to:
+  - fig:3
+  basis: Ura is explicitly mentioned as being in his grave when the feast is borne.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: comparison figure for a dry feast
+  assigned_to:
+  - fig:4
+  basis: The feast for Ura is described as dry like Tiki's.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: mourning voice or voices
+  assigned_to:
+  - fig:5
+  basis: The solo and chorus voice shout at the sad home and beat the breast despairingly.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: entrance to the sad home
+  literal_form: entrance / sad home
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: black beetles as spirit food
+  literal_form: black beetles
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: grave
+  literal_form: Ura's grave
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: dry feast
+  literal_form: a feast, all dry, like Tiki's
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: lament at the entrance
+  summary: The solo and chorus voices address someone at the entrance to a sad home,
+    shout, beat the breast, and state that Koroa is sadly seeking the addressee.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: spirit food and grave feast
+  summary: The addressee is said to feed on black beetles, the food of disembodied
+    spirits, and the song refers to a dry feast borne for Ura in his grave, compared
+    to Tiki's.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: mourning at the threshold of a sad home
+  taxonomy_refs: []
+  basis: The passage describes shouting at the entrance to a sad home and despairingly
+    beating the breast.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a short lyric fragment and does not define the sad home
+    or its location.
+- id: motif:2
+  label: food of disembodied spirits
+  taxonomy_refs: []
+  basis: The addressee is said to be compelled to eat black beetles, identified as
+    the food of disembodied spirits.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives the food image but does not provide a fuller afterlife
+    itinerary or cosmology.
+- id: motif:3
+  label: feast borne to the grave
+  taxonomy_refs: []
+  basis: The song says that a feast was borne for Ura in his grave.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain whether the feast is an offering, a memorial
+    meal, or another ritual action.
+- id: motif:4
+  label: dry feast compared with Tiki's feast
+  taxonomy_refs: []
+  basis: The feast for Ura is described as all dry and explicitly compared to Tiki's.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No details about Tiki's feast are provided in this passage beyond the
+    comparison.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the feast borne for Ura in his grave to Tiki's
+    feast, specifying that it was dry like Tiki's.
+  claim_level: same_motif
+  target: Tiki's feast
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only the comparison and the shared dry quality;
+    it does not narrate the Tiki episode or explain the broader motif context.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10123-10130
+  quote_or_summary: The Third Offshoot opens with solo and chorus lines addressing
+    someone at the entrance to a sad home, shouting, and despairingly beating the
+    breast.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 10131-10134
+  quote_or_summary: The song states that the addressee's father Koroa is sadly seeking
+    the addressee.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 10135-10139
+  quote_or_summary: The addressee is said to be compelled to feed on black beetles,
+    described as the food of disembodied spirits.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 10140-10145
+  quote_or_summary: The song says that a feast was borne for Ura in his grave and
+    that it was all dry, like Tiki's.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: citation
+  locator: '10149'
+  quote_or_summary: The page line identifies the surrounding item as 'Veetini; or,
+    The Immortality of the Soul.'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short citation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is based directly on the supplied bilingual lyric and
+    English translation. Motif labels are cautious because the passage is fragmentary
+    and does not include surrounding explanatory prose.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy symbol refs were applied; none of the supplied symbol taxonomy items are directly present in the passage. Motif taxonomy refs were left empty because the passage indicates disembodied spirits and grave imagery but does not provide an afterlife journey map or other listed motif family with sufficient specificity.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l10123-l10149
+  passage_sha256=210c8827180f02f3998776ef27ed80d6d554dcd51bfdf8095531cc86d7d6088c
+

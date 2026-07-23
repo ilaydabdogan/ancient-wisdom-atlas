@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l7378-l7399
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: VOL.  II. / SIXTH  BOOK  OP  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. /
+    SIXTH  BOOK  OF  THE  ROYAL; lines 7378-7399
+  start: '7378'
+  end: '7399'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a grand and solemn banquet in which participants
+    ate a large quantity of food without drinking, a custom attributed to Indians
+    of Peru. It then reports that some Spaniards compared the custom to Christian
+    communion, while the narrator leaves the similarity for readers to judge. After
+    the eating, liquor was brought in quantity, followed by a moralizing comment about
+    drunkenness, social disapproval, and Spanish example.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Unnamed banquet participants received a great quantity of eatables during
+    or after a grand and solemn banquet.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The eatables were consumed without drinking, and the passage states this was
+    the universal custom of the Indians of Peru while eating.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator reports that some Spaniards asserted that the Yncas and their
+    vassals communicated like Christians.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator says he has described the Indian custom and lets each reader
+    decide the similitude.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the eating was over, liquor was brought in great quantity.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The narrator characterizes liquor-related drunkenness as a prevalent vice
+    among Indians and says that, at the present day, an Indian who gets drunk is despised
+    and reviled by his fellows.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The narrator attributes this change regarding drunkenness to the mercy of
+    God and the good example set by Spaniards, and adds that similar example regarding
+    other vices would have made them apostolic preachers of the gospel.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed banquet participants
+  description: The unnamed group described as receiving eatables, eating without drinking,
+    and later receiving liquor.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Indians of Peru / Indians
+  description: The collective group to whom the eating-without-drinking custom is
+    attributed and about whom the narrator comments regarding drunkenness.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Yncas and their vassals
+  description: The group named in the reported Spanish assertion that they communicated
+    like Christians.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: some Spaniards
+  description: The group reported as making the comparison between the Yncā custom
+    and Christian communion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Spaniards
+  description: The group credited by the narrator with setting a good example regarding
+    drunkenness.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: banquet participants
+  assigned_to:
+  - fig:1
+  basis: They receive eatables, eat without drinking, and later have liquor brought
+    after the eating.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: bearers of eating custom
+  assigned_to:
+  - fig:2
+  basis: The custom of not drinking while eating is attributed to the Indians of Peru.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: subjects of Christian-communion comparison
+  assigned_to:
+  - fig:3
+  basis: They are named as those whom some Spaniards said communicated like Christians.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: comparative assertors
+  assigned_to:
+  - fig:4
+  basis: They are reported as making the assertion that the Yncas and their vassals
+    communicated like Christians.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: subjects of moral commentary on drunkenness
+  assigned_to:
+  - fig:2
+  basis: The narrator discusses drunkenness among Indians and social contempt for
+    an Indian who gets drunk.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: moral exemplars in narrator commentary
+  assigned_to:
+  - fig:5
+  basis: The narrator says Spaniards set a good example regarding drunkenness.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: banquet eatables
+  literal_form: a great quantity of eatables
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: post-meal liquor
+  literal_form: liquor in great quantity
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Grand banquet with eating but no drinking
+  summary: At a grand and solemn banquet, the participants receive a large quantity
+    of eatables and consume them without drinking, in accordance with a custom attributed
+    to the Indians of Peru.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Reported Christian comparison
+  summary: The narrator reports that some Spaniards compared the Yncas and their vassals
+    to Christians communicating, then states that the described custom may be judged
+    by each reader.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Liquor after eating and moral commentary
+  summary: After the eating, liquor is brought in quantity; the narrator comments
+    on drunkenness, social contempt for it, and the example set by Spaniards.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Ceremonial feast with separated eating and drinking
+  taxonomy_refs: []
+  basis: The passage presents a solemn banquet in which food is eaten without drinking,
+    followed only afterward by liquor.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a ritual or social custom pattern in the passage, not necessarily
+    a mythic motif.
+- id: motif:2
+  label: Communion-like ritual meal comparison
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage reports a Spanish assertion that the Yncas and their vassals
+    communicated like Christians, apparently based on the described eating custom.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The narrator frames the comparison cautiously and leaves the similitude
+    to the reader; the passage does not establish doctrinal or functional equivalence
+    with Christian communion.
+- id: motif:3
+  label: Moral reform through exemplary conduct
+  taxonomy_refs: []
+  basis: The narrator says Indians now despise drunkenness because of divine mercy
+    and the good example set by Spaniards in this particular.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is authorial moral commentary rather than a mythic narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports that some Spaniards perceived a resemblance between the
+    Yncā custom and Christian communion, but the narrator does not fully endorse the
+    comparison and leaves the similarity for readers to judge.
+  claim_level: visual_similarity
+  target: Christian communion / Christians communicating
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The evidence is a reported outsider assertion and a narrator's cautious
+    comment; the passage gives no native theological explanation and no claim of shared
+    origin or historical borrowing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7378-7383
+  quote_or_summary: A grand and solemn banquet is followed by receipt of much food,
+    eaten without drinking; the narrator says Indians of Peru universally did not
+    drink while eating.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 7385-7389
+  quote_or_summary: The narrator says some Spaniards may have asserted from the described
+    practice that the Yncas and vassals communicated like Christians; he says the
+    Indian custom has been described and readers may judge the similitude.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 7391-7399
+  quote_or_summary: After the eating, liquor is brought in quantity; the narrator
+    calls this a prevalent vice among Indians, says drunkenness is now despised due
+    to divine mercy and Spanish example, and adds a moral comment about other vices.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence and figures are clear within the excerpt. Motif tagging
+    is cautious because the passage is chiefly ethnographic and moral commentary;
+    the strongest comparison is the narrator's reported Spanish analogy to Christian
+    communion.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. No historical-contact, common-inheritance, or native theological equivalence claim is made.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l7378-l7399
+  passage_sha256=52ab803fad518cbff377c053af1515e65ddc259da341ba560e255c191872e693
+

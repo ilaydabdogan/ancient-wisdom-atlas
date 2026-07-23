@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l16584-l16628
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: CEREMONIAL  PREPARATIONS / REPTILES  AND  REPTILE  CHARMS / CROCODILE  CHARM
+    / REPTILES  AND  REPTILE  CHARMS; lines 16584-16628
+  start: '16584'
+  end: '16628'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives ritual instructions connected with crocodile capture:
+    temporary eating taboos and analogical precautions are followed by procedures
+    for locating the hooked crocodile, pressing down the mooring pole, reciting a
+    formula to stop the crocodile from fleeing, holding the breath, and searching
+    for the floating rattan line after the tide turns.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The practitioner is told not to pass beneath a low overhanging bough because
+    it resembles the bent rod of the floating platform.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The practitioner is told to begin eating curry by swallowing three lumps of
+    rice successively.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that swallowing the three rice lumps will help the bait
+    slide more easily down the crocodile’s throat.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Until the crocodile is safely landed, the practitioner must not remove bones
+    from curry meat; the passage links this to the wooden cross-piece coming loose
+    and working out of the fowl bait.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the crocodile has taken the bait, the practitioner goes out near the
+    last of the ebb to look for the floating end of the line among mangrove roots.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At the floating platform, the practitioner takes hold of the mooring pole,
+    presses it down into the river-bottom, and speaks to the hooked crocodile.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The spoken formula tells the crocodile not to run away and refers to an agreement
+    bounded by a cape upstream and a cape downstream.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The practitioner is instructed to hold the breath and press on the pole, then
+    wait for the tide to turn and search for the floating rattan line.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the crocodile
+  description: A crocodile that has taken the bait and is addressed as hooked during
+    the capture procedure.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the practitioner or crocodile-catcher
+  description: The instructed person who observes taboos, goes out in a boat, handles
+    the mooring pole, recites the formula, and searches for the line.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: hooked quarry
+  assigned_to:
+  - fig:1
+  basis: The crocodile has taken bait and is called the hooked crocodile during the
+    charm procedure.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: ritual practitioner and captor
+  assigned_to:
+  - fig:2
+  basis: The instructed person performs the prohibitions, manipulates the pole, speaks
+    the formula, and searches for the rattan line.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: low overhanging bough
+  literal_form: A low overhanging bough resembling the bent rod of the floating platform.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: three lumps of rice
+  literal_form: Three lumps of rice swallowed successively before eating curry.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: bones and wooden cross-piece
+  literal_form: Bones in curry meat and the wooden cross-piece inside the fowl bait.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: floating platform and mooring pole
+  literal_form: The floating platform and the pole pressed downward into the river-bottom.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: river, tide, and rattan line
+  literal_form: The ebbing and turning tide, river-bottom, and floating rattan line
+    used to locate the hooked crocodile.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Eating taboos before landing the crocodile
+  summary: The practitioner is instructed to avoid a low bough, swallow three rice
+    lumps before curry, and refrain from removing bones from curry meat until the
+    crocodile is landed.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Searching for the line after the crocodile takes the bait
+  summary: After the crocodile has taken the bait, the practitioner goes out by boat
+    at the ebb and looks for the floating line among mangrove roots.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Charm spoken at the floating platform
+  summary: At the floating platform, the practitioner presses the mooring pole into
+    the river-bottom, recites a formula telling the hooked crocodile not to flee,
+    holds the breath, waits for the tide to turn, and searches for the rattan line.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Analogical eating taboo linked to capture apparatus
+  taxonomy_refs: []
+  basis: The passage explicitly links the practitioner’s eating actions with the bait’s
+    movement in the crocodile and the wooden cross-piece remaining inside the fowl
+    bait.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the linkage as part of a crocodile-capture charm,
+    but no broader named taxonomy motif is supplied by the text.
+- id: motif:2
+  label: Binding or restraining charm addressed to captured animal
+  taxonomy_refs: []
+  basis: The practitioner presses the pole and speaks directly to the hooked crocodile,
+    telling it not to run away and invoking a bounded agreement upstream and downstream.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives a single charm formula and does not itself compare it
+    with other restraining charms.
+- id: motif:3
+  label: Ritualized capture of a dangerous reptile
+  taxonomy_refs: []
+  basis: The procedure combines bait, a floating platform, a rattan line, river-tide
+    timing, bodily restraint, and spoken formula in the final capture of a crocodile.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy includes a serpent family, but the passage concerns
+    a crocodile rather than a serpent; no serpent taxonomy reference is assigned.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 16584-16591
+  quote_or_summary: Instructions include “never to pass underneath a low overhanging
+    bough” and to begin by “swallowing three lumps of rice successively.”
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 16591-16602
+  quote_or_summary: The passage says the rice helps the bait slide down the crocodile’s
+    throat, and that removing bones from curry meat may cause the wooden cross-piece
+    to come loose from the fowl bait.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 16604-16612
+  quote_or_summary: After the crocodile has taken the bait, the practitioner goes
+    out near the last of the ebb in a boat to look for the tell-tale floating end
+    of the line among mangrove roots.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 16612-16623
+  quote_or_summary: 'At the platform, the practitioner presses the mooring pole into
+    the river-bottom and says to the hooked crocodile: “Do not run away,” with lines
+    about an agreement upstream and downstream.'
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 16624-16628
+  quote_or_summary: The instruction adds to hold the breath while pressing on the
+    pole, then wait for the tide to turn and search for the rattan line, which floats.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif labels describe
+    local patterns in the passage and avoid unsupported broader comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not make or support a specific cross-textual comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l16584-l16628
+  passage_sha256=ea64bcbc99d4b7801f32c8b1b5931e2375850ad37252aed12fb75bf83a968cb9
+

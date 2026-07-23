@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l20677-l20687
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 347 / TEIT, THE THOMPSON
+    INDIANS OF BRITISH COLUMBIA. 349 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA.
+    351 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 353; lines 20677-20687
+  start: '20677'
+  end: '20687'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes lengthy ceremonial training for shamans, including
+    a Lower Thompson rite in which a shaman seeking a dead person as guardian spirit
+    uses a skull at a private sweat-house and prays to the deceased soul for knowledge.
+    It also lists favorite guardian spirits of warriors: sun, thunder or thunder-bird,
+    water, and mountain tops.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ceremonial training for becoming a shaman is said to take much longer, sometimes
+    years, than training for becoming a warrior, hunter, fisherman, or gambler.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Among the Lower Thompsons, a shaman who wanted a dead person as guardian spirit
+    placed a skull in front of his private sweat-house.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The shaman danced and sang around the skull.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The shaman took the skull into the sweat-house and kept it there all night.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The shaman sang and prayed to the soul of the deceased person to impart desired
+    knowledge.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Warriors' favorite guardian spirits are listed as the sun, thunder or thunder-bird,
+    water, and tops of mountains.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Lower Thompson shaman
+  description: A shaman undergoing or using ceremonial practice to obtain a dead person
+    for his guardian spirit.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Deceased person or soul associated with the skull
+  description: The dead person whose skull is used and whose soul is addressed for
+    knowledge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Warriors
+  description: A social or ritual category whose favorite guardian spirits are listed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: ceremonial trainee or shamanic practitioner
+  assigned_to:
+  - fig:1
+  basis: The passage discusses ceremonial training necessary for becoming a shaman.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: seeker of a dead-person guardian spirit
+  assigned_to:
+  - fig:1
+  basis: The shaman desires to obtain a dead person for his guardian spirit and performs
+    actions with a skull.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: deceased soul addressed for knowledge
+  assigned_to:
+  - fig:2
+  basis: The soul of the deceased person to whom the skull belonged is prayed to for
+    desired knowledge.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: warrior category with preferred guardian spirits
+  assigned_to:
+  - fig:3
+  basis: The passage lists the favorite guardian spirits of warriors.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: skull
+  literal_form: a skull placed before and then taken into a private sweat-house
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: private sweat-house
+  literal_form: private sweat-house used as the place where the skull is kept overnight
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sun
+  literal_form: 'heavenly body: sun'
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: thunder or thunder-bird
+  literal_form: 'natural phenomenon: thunder or thunder-bird'
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: water
+  literal_form: 'natural phenomenon: water'
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: tops of mountains
+  literal_form: 'natural phenomenon or place: tops of mountains'
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Shamanic skull and sweat-house rite
+  summary: A Lower Thompson shaman seeking a dead person as guardian spirit places
+    a skull at his private sweat-house, dances and sings around it, keeps it in the
+    sweat-house overnight, and prays to the deceased soul for knowledge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Warrior guardian spirit list
+  summary: The passage lists the favorite guardian spirits of warriors as sun, thunder
+    or thunder-bird, water, and tops of mountains.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: extended shamanic training
+  taxonomy_refs:
+  - initiation
+  basis: The passage states that ceremonial training for becoming a shaman lasted
+    much longer, sometimes years, than other forms of training.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not provide a full initiation narrative, only a brief
+    statement about duration and practice.
+- id: motif:2
+  label: dead person as guardian spirit
+  taxonomy_refs: []
+  basis: A shaman seeks to obtain a dead person for his guardian spirit through ritual
+    handling of a skull and prayer to the deceased soul.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe whether the guardian spirit is successfully
+    obtained.
+- id: motif:3
+  label: knowledge requested from a deceased soul
+  taxonomy_refs:
+  - wisdom
+  basis: The shaman prays to the soul of the deceased person to impart desired knowledge.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage specifically concerns requested
+    knowledge in a shamanic rite.
+- id: motif:4
+  label: warrior guardian spirits as natural powers
+  taxonomy_refs: []
+  basis: Warriors' favorite guardian spirits are identified with the sun, thunder
+    or thunder-bird, water, and tops of mountains.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage provides a list rather than a narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20677-20680
+  quote_or_summary: Ceremonial training for becoming a shaman lasted much longer,
+    sometimes years, than training for becoming a warrior, hunter, fisherman, or gambler.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 20680-20684
+  quote_or_summary: A Lower Thompson shaman seeking a dead person as guardian spirit
+    placed a skull before his private sweat-house, danced and sang around it, then
+    kept it in the sweat-house all night.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 20684-20685
+  quote_or_summary: The shaman sang and prayed to the soul of the deceased person
+    whose skull it was, asking that soul to impart the desired knowledge.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 20686-20687
+  quote_or_summary: The favorite guardian spirits of warriors are listed as sun, thunder
+    or thunder-bird, water, and tops of mountains.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is direct from the passage. Motif labels are cautious
+    and passage-level. No comparison claims were made because the passage itself does
+    not compare this material to another corpus or motif family beyond the supplied
+    taxonomy references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to the provided lists.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l20677-l20687
+  passage_sha256=c63f38d4f51786f0d2779ba702ca6c0a2565c8dd61195c7a792aafe12045d8ef
+

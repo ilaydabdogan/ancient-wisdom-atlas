@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.african-reynard-the-fox-hottentot-bleek-archive-l2399-l2424
+source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+passage_locator:
+  label: THE  ZEBRA. / THE  ZEBRA. / TEE  ZEBEA   STALLION.  41 / TEH  LOST  CHILD.  43;
+    lines 2399-2424
+  start: '2399'
+  end: '2424'
+  translation: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A Lioness warns her Lion son to beware of a man with pinching weapons,
+    white dogs, and a tiger-tail tuft. The Lion rejects the warning, goes in the dark
+    to ^aroxaams, and lies in ambush. iGurikhoisip arrives with his dogs; after the
+    dogs and the man drink, the Lion comes out of the bush. The dogs surround and
+    pull down the Lion while iGurikhoisip spears him. iGurikhoisip orders the dogs
+    to release the Lion so he may be taught by his mother. The Lion tries to go home
+    at night, but his strength fails and he laments.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Mother/Lioness warns the Lion to beware of a man described as having a
+    head in line with shoulders and breast, pinching weapons, white dogs, and a tiger-tail
+    tuft.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Lion says he does not need to be on guard against those he knows and does
+    not follow his Mother's advice.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same morning, while it is still pitch dark, the Lion goes to ^aroxaams
+    and lies in ambush.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: iGurikhoisip goes to the same place that morning, lets his dogs drink and
+    bathe, and then drinks himself.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the man drinks, the Lion comes out of the bush.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The dogs surround the Lion; iGurikhoisip spears him; the dogs draw him down
+    again until he grows faint.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: iGurikhoisip tells the dogs to leave the Lion alone so that he may go and
+    be taught by his Mother.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The dogs let the Lion go and go home; the Lion walks home that night, but
+    his strength fails and he laments.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mother / Lioness
+  description: The Lion's mother, called the Lioness, who warns her son to beware
+    of the man with weapons and dogs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Lion
+  description: The Lioness's son; he rejects her warning, lies in ambush, is surrounded
+    by dogs, speared, released, and later loses strength while going home.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: iGurikhoisip / Igurikhoisip
+  description: The man who comes to ^aroxaams with dogs, drinks there, spears the
+    Lion, and orders the dogs to release him.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Dogs
+  description: The man's dogs, described in the warning as white dogs; they drink,
+    bathe, wallow, surround the Lion, draw him down, and release him when commanded.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: maternal warner
+  assigned_to:
+  - fig:1
+  basis: She warns her son repeatedly to beware of the man with weapons and dogs.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: warned son and failed ambusher
+  assigned_to:
+  - fig:2
+  basis: He rejects his Mother's warning, lies in ambush, then is surrounded and wounded.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: armed human adversary
+  assigned_to:
+  - fig:3
+  basis: The warned-about man has weapons and dogs; iGurikhoisip comes to the same
+    place and spears the Lion.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:4
+  label: hunting dogs / attackers
+  assigned_to:
+  - fig:4
+  basis: The dogs surround the Lion, draw him down, and release him only after iGurikhoisip
+    commands them.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: commander who releases the defeated Lion
+  assigned_to:
+  - fig:3
+  basis: He tells the dogs to let the Lion alone so that the Lion may go and be taught
+    by his Mother.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: pinching weapons
+  literal_form: Pinching weapons attributed to the man in the Mother's warning.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: white dogs
+  literal_form: White dogs kept by the warned-about man; later the dogs surround and
+    pull down the Lion.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: tiger-tail tuft
+  literal_form: A tuft of a tiger's tail worn by the man.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: drinking and bathing place at ^aroxaams
+  literal_form: A place where the dogs drink, bathe, and wallow, and where the man
+    also drinks.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: spear
+  literal_form: The weapon by which iGurikhoisip spears the Lion.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Mother's warning and Lion's refusal
+  summary: The Mother/Lioness warns her Lion son about the man with weapons and dogs,
+    but the Lion says he need not be on guard and ignores her advice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dark-morning ambush at ^aroxaams
+  summary: In the early darkness, the Lion goes to ^aroxaams and lies in ambush.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Arrival and drinking at ^aroxaams
+  summary: iGurikhoisip arrives with his dogs; the dogs drink, bathe, and wallow,
+    and the man drinks before the Lion emerges from the bush.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Lion surrounded and speared
+  summary: The dogs surround and pull down the Lion, and iGurikhoisip spears him,
+    leaving him faint.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Release and failed return
+  summary: iGurikhoisip orders the dogs to let the Lion go so he can be taught by
+    his Mother; the dogs leave, and the Lion tries to go home but loses strength and
+    laments.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: unheeded maternal warning
+  taxonomy_refs:
+  - wisdom
+  basis: The Mother warns the Lion to beware of the armed man with dogs; the Lion
+    refuses her advice, and the later attack happens as she warned.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage presents advice and its fulfillment, but it does not explicitly
+    name wisdom as an abstract theme.
+- id: motif:2
+  label: ambush reversed against the ambusher
+  taxonomy_refs: []
+  basis: The Lion lies in ambush for the man, but when he emerges he is instead surrounded
+    by the dogs and speared by iGurikhoisip.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level pattern rather than a mapped taxonomy motif.
+- id: motif:3
+  label: defeated adversary released to learn a lesson
+  taxonomy_refs:
+  - wisdom
+  basis: After the Lion is wounded and faint, iGurikhoisip commands the dogs to release
+    him so that he may go and be taught by his Mother.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage states the intended instruction but ends before any actual
+    teaching by the Mother is shown.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2399-2407
+  quote_or_summary: The Mother says to beware of the man with “pinching weapons,”
+    “white dogs,” and “the tuft of a tiger's tail.”
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: 2403-2410
+  quote_or_summary: The Lion asks why he should guard against those he knows, does
+    not follow his Mother's advice, and goes before dawn to ^aroxaams to lie in ambush.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: 2410-2416
+  quote_or_summary: iGurikhoisip comes to the same place, lets the dogs drink, bathe,
+    and wallow, then drinks himself; after this the Lion comes out of the bush.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: 2416-2420
+  quote_or_summary: The dogs surround the Lion as his mother foretold; iGurikhoisip
+    spears him, and the dogs draw him down until he grows faint.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:5
+  type: quote
+  locator: 2420-2424
+  quote_or_summary: iGurikhoisip tells the dogs, “Let him alone now, that he may go
+    and be taught by his Mother”; the dogs leave, and the Lion later loses strength
+    on the way home and laments.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage actions and figures are clear, though the supplied text includes
+    OCR-like spelling irregularities and name variation. Motif labels are cautious
+    passage-level candidates; no external comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy use is limited to available refs and marked cautiously where interpretive.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-reynard-the-fox-hottentot-bleek-archive__l2399-l2424
+  passage_sha256=cebea4423f49abc452e35d4dddd8f06f674761687cf0d61129444c7b80bae8cb
+

@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l15130-l15168
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CONCERNING  SOME  LAWS  INSTITUTED  BY  THE  KING  YNCA / ROYAL  COMMENTARIES.
+    / EIGHTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OP  THE  YNCAS.; lines 15130-15168
+  start: '15130'
+  end: '15168'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: the Indians looked upon stones or any other things that came from the imperial
+    city as sacred
+  summary: The passage explains that Yunca kings ordered stones brought from Cuzco
+    to Tumipampa because objects from the imperial city were regarded as sacred. A
+    provincial temple of the Sun and buildings made with Cuzco materials signified
+    royal favor, incorporation into Cuzco citizenship, and the grandeur of the palaces
+    and temples at Tumipampa.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The kings Yncas are said to have ordered stones to be brought from Cuzco to
+    show favor to a province.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Indians regarded stones or other things from the imperial
+    city as sacred.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The erection of a temple of the Sun in a province is described as a great
+    favor that made the inhabitants citizens of Cuzco.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Buildings made from Cuzco stones are described as not merely resembling Cuzco
+    buildings but being the same by sharing the same materials.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The stones were said to be carried from Cuzco to Tumipampa over a long, rugged
+    road of nearly four hundred leagues.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Indians' account to Pedro de Cieza is interpreted as a statement of royal
+    favor rather than as a complaint about labor.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage uses the stone transport account to indicate the grandeur and
+    riches of the palaces and temples of the Sun at Tumipampa and elsewhere in Peru.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Kings Yncas
+  description: Royal rulers who ordered stones brought from Cuzco and whose favor
+    is emphasized.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Indians / inhabitants of the province
+  description: People who regarded things from Cuzco as sacred, received the honor
+    of a temple and Cuzco materials, and were said to have carried the stones.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Pedro de Cieza
+  description: Historian to whom the Indians gave the account about stones for the
+    palaces.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Narrator-commentator
+  description: Speaker who affirms the Indian account and explains its political and
+    sacred meaning.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: royal benefactors and builders
+  assigned_to:
+  - fig:1
+  basis: The kings ordered Cuzco stones brought to show favor and are credited with
+    the favor received by the province.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: recipients of honor and transport laborers
+  assigned_to:
+  - fig:2
+  basis: The inhabitants received the honor of a temple and Cuzco materials and are
+    said to have brought stones over a long road.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: historical recorder of the reported account
+  assigned_to:
+  - fig:3
+  basis: The passage identifies Pedro de Cieza as the author who received the Indians'
+    account about stones brought from Cuzco.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: affirming interpreter
+  assigned_to:
+  - fig:4
+  basis: The speaker affirms the account and explains that it signified favor rather
+    than complaint.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: sacred stones from Cuzco
+  literal_form: Stones brought from the imperial city of Cuzco
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: imperial city as source of sacred material
+  literal_form: Cuzco, described as the imperial city from which sacred things came
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: temple of the Sun
+  literal_form: A temple of the Sun erected in a province
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: long road from Cuzco to Tumipampa
+  literal_form: A rugged road of nearly four hundred leagues between Cuzco and Tumipampa
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Royal transfer of sacred Cuzco stones
+  summary: The kings Yncas order stones brought from Cuzco to Tumipampa so provincial
+    buildings can share the sacred material and status of the imperial city.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Labor framed as honor rather than complaint
+  summary: The transport of stones over the long road from Cuzco to Tumipampa is presented
+    as an honor the Indians accepted in order to enjoy royal favor, not as a grievance.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Grandeur of Tumipampa palaces and Sun temples
+  summary: The account is used to illustrate the wealth and grandeur of palaces and
+    temples of the Sun in Tumipampa and throughout Peru.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal legitimacy through sacred imperial materials
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Royal order, sacred Cuzco stones, provincial temple-building, and citizenship
+    of Cuzco are linked as signs of favor and authority.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage is historical-commentarial rather than a myth narrative; the
+    motif is inferred from political-sacred symbolism explicitly described in the
+    passage.
+- id: motif:2
+  label: sacred center extending status to province
+  taxonomy_refs:
+  - world_center
+  basis: Cuzco is described as the imperial city whose objects are sacred; buildings
+    made from its stones convey Cuzco-like identity and status to Tumipampa.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage identifies Cuzco as imperial and sacred in effect, but does
+    not explicitly describe it as a cosmological world center.
+- id: motif:3
+  label: honor gained through costly transport labor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The inhabitants are said to accept arduous transport of sacred stones in
+    order to enjoy royal honors, and the account is framed as favor rather than complaint.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The exchange is political and honorific; the passage does not describe
+    a formal ritual exchange or offering.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 15135-15143
+  quote_or_summary: Kings Yncas ordered stones brought from Cuzco to show favor; things
+    from the imperial city were regarded as sacred.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation or summary used for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 15143-15149
+  quote_or_summary: A temple of the Sun in a province is described as a great favor
+    making inhabitants citizens of Cuzco; Cuzco stones made the buildings materially
+    the same as those of Cuzco.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 15149-15157
+  quote_or_summary: The Indians are said to have accepted the burden of bringing stones
+    from Cuzco to Tumipampa across a rugged route of nearly four hundred leagues in
+    order to enjoy such honors.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 15157-15165
+  quote_or_summary: The account given by the Indians to Pedro de Cieza is said to
+    show the great favor received from the kings, not to complain about the labor
+    of transport.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 15165-15168
+  quote_or_summary: The passage says this account is sufficient to show the grandeur
+    and riches of the palaces and temples of the Sun in Tumipampa and throughout Peru.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignments are interpretive
+    because the passage is a historical commentary about Inca policy and sacred status
+    rather than a mythic episode. No cross-text comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references limited to available motif families where cautiously supported.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l15130-l15168
+  passage_sha256=e6f1097f7602a63714b38e136aa1150f47603f8cdc4de2649274dd29f3b195b7
+

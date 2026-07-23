@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l10636-l10681
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SEVENTH  BOOIC  OE  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS.  237 / SEVENTH  BOOK  OP  THE  ROYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 10636-10681
+  start: '10636'
+  end: '10681'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes several wards or places around Cuzco, explains their
+    Quechua-derived names, and links some names to civic functions, boundaries, roads,
+    streams, animals, and later urban expansion.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator says the ward-name Munay-senca means “love the nose” and states
+    that such a name must refer to an incident or superstition because names were
+    not given by chance.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rimac-pampa is explained as the “square that speaks” because ordinances for
+    administration were proclaimed there so that the people could know and obey them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A royal road leading to Colla-suyu passes by Rimac-pampa.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pumap-chupan is explained as “the tail of the lion,” a name connected with
+    a pointed end of the city where two streams unite and with the idea that it was
+    the last part of the city.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Lions and other wild beasts were kept in Pumap-chupan.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Cayau-cachi is described as a village west of Cuzco that had been outside
+    the city in 1560 but was reportedly enclosed by the expanded city by 1602.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Chaquill-chaca is described as a ward west of the city; the royal road from
+    there leads to Cunti-suyu, and a note suggests the name may mean “dry bridge.”
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: The speaker explains place names, admits uncertainty about some compounds,
+    and reports information about Cuzco’s wards and later expansion.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: The people
+  description: The people are described as the audience for public ordinances proclaimed
+    at Rimac-pampa.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Unnamed name-givers referred to as “they”
+  description: The passage says they did not give names by chance and that they gave
+    Pumap-chupan its name to mark it as the city’s tail or end.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: toponymic explainer
+  assigned_to:
+  - fig:1
+  basis: The narrator explains meanings of ward names and notes uncertainty about
+    some of them.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: civic audience for proclaimed orders
+  assigned_to:
+  - fig:2
+  basis: The ordinances were proclaimed so that the people might know and comply with
+    the orders.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: urban name-givers
+  assigned_to:
+  - fig:3
+  basis: The passage says names were not given by chance and describes the giving
+    of names to wards.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: speaking square
+  literal_form: Rimac-pampa, the “square that speaks” where ordinances were proclaimed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: lion tail as city-end
+  literal_form: Pumap-chupan, “the tail of the lion,” used for the pointed last part
+    of the city
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: uniting streams
+  literal_form: two streams uniting at the point of Pumap-chupan
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: royal road
+  literal_form: royal road passing by Rimac-pampa to Colla-suyu and from Chaquill-chaca
+    to Cunti-suyu
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: dry bridge
+  literal_form: Chaquill-chaca, glossed in a note as probably “the dry bridge”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Explanation of Munay-senca
+  summary: The narrator gives the literal meaning of Munay-senca and says the odd
+    name must refer to an incident or superstition because names were not assigned
+    casually.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Public ordinances at Rimac-pampa
+  summary: Rimac-pampa is identified as a speaking square where administrative ordinances
+    were proclaimed for the people, with a royal road passing nearby.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pumap-chupan as the lion-tail boundary
+  summary: The southern ward Pumap-chupan is explained as the pointed last part of
+    the city, where two streams unite and where lions and wild beasts were kept.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Western outskirts and roads
+  summary: The passage describes Cayau-cachi’s incorporation into the expanded city
+    and identifies Chaquill-chaca as a western ward connected with a royal road to
+    Cunti-suyu.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: public proclamation of law in a named civic square
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Rimac-pampa receives its name from the proclamation of administrative ordinances
+    so that the people might know and comply with orders.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is administrative and toponymic rather than a mythic royal-legitimation
+    narrative.
+- id: motif:2
+  label: city boundary represented as an animal body-part
+  taxonomy_refs: []
+  basis: Pumap-chupan is named “the tail of the lion” because it is the pointed last
+    or end part of the city.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives an etymological explanation, not a developed animal-city
+    myth.
+- id: motif:3
+  label: confluence marking an urban endpoint
+  taxonomy_refs: []
+  basis: The end of the city at Pumap-chupan is described as a point where two streams
+    unite.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The confluence is literal geography; symbolic significance beyond boundary-marking
+    is not stated.
+- id: motif:4
+  label: place-name preserving an incident or superstition
+  taxonomy_refs: []
+  basis: For Munay-senca, the narrator says the name must refer to some incident or
+    superstition because names were not given by chance.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The underlying incident or superstition is not identified in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10636-10644
+  quote_or_summary: Munay-senca means “love the nose”; the narrator says the name
+    “must refer to some incident or superstition” because “they never give a name
+    by chance.”
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; short excerpt and summary used.
+- id: ev:2
+  type: quote
+  locator: lines 10644-10653
+  quote_or_summary: Rimac-pampa means the “square that speaks,” because administrative
+    ordinances were promulgated there so the people might know and comply; the royal
+    road to Colla-suyu passes by it.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; short excerpt and summary used.
+- id: ev:3
+  type: summary
+  locator: lines 10653-10662
+  quote_or_summary: Pumap-chupan means “the tail of the lion”; it ends in a point
+    where two streams unite, marks the last part of the city, and contained lions
+    and other wild beasts.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; neutral summary used.
+- id: ev:4
+  type: summary
+  locator: lines 10662-10671
+  quote_or_summary: Cayau-cachi was a village west of the ward, formerly more than
+    a thousand paces from Cuzco’s nearest houses in 1560, but reportedly included
+    within Cuzco by the expansion of houses by 1602.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; neutral summary used.
+- id: ev:5
+  type: summary
+  locator: lines 10672-10681
+  quote_or_summary: Chaquill-chaca is described as a western ward; the royal road
+    from there leads to Cunti-suyu, and a footnote suggests the name may mean “the
+    dry bridge.”
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; neutral summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Toponymic and civic details are explicit. Motif labels are cautious because
+    the passage is primarily descriptive geography and etymology, not narrative mythology.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata; comparison_claims left empty because the passage does not itself support cross-tradition comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l10636-l10681
+  passage_sha256=3db860e32539b03043b77f2e14e4ccb8abdcbdddd9c92e16584386890c2d7eb4
+

@@ -1,0 +1,244 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l1249-l1272
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: HOW  THE  NEW  WORLD  WAS  DISCOVERED. / KOVAL  COMMENTARIES. / FIFTH  BOOK  OF  THE  BOYAL
+    / COMMENTARIES  OP  THE  YNCAS.; lines 1249-1272
+  start: '1249'
+  end: '1272'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Curacas present a wide range of wild animals, serpents, reptiles, coastal
+    creatures, and gold and silver to the Yncas. The narrator says this showed that
+    the Ynca was lord of all those things and was served with devotion.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Curacas presented many wild animals to the Yncas.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The listed animals include tigers, lions, bears, monkeys, cats, macaws, vultures,
+    and condors, with condors described as the largest birds.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Large and small serpents from the country of the Antis are mentioned; the
+    largest is called Amaru and is described as twenty-five or thirty feet and more
+    in length.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Great toads and lizards are also brought.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Curacas from the sea-coast presented seals and alligators, with the alligators
+    described as twenty-five to thirty feet long.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The presentation included things remarkable for ferocity, size, or beauty,
+    together with gold and silver.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The narrator states that these presentations signified that the Ynca was lord
+    of all those things and showed the devotion with which he was served.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Curacas
+  description: Local leaders who presented animals and other valuable things to the
+    Yncas.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Yncas / the Ynca
+  description: Recipients of the presentations; the Ynca is described as lord of all
+    the things presented.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+roles:
+- id: role:1
+  label: presenters of tribute or gifts
+  assigned_to:
+  - fig:1
+  basis: The Curacas presented animals and coastal creatures to the Yncas, along with
+    gold and silver.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: royal recipient and lord
+  assigned_to:
+  - fig:2
+  basis: The Yncas receive the presentations, and the passage says the Ynca was thereby
+    shown as lord of all those things.
+  evidence_refs:
+  - ev:1
+  - ev:6
+symbols:
+- id: sym:1
+  label: serpent / Amaru
+  literal_form: Large and small serpents from the Antis; the largest, called Amaru,
+    is twenty-five or thirty feet and more in length.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: gold and silver
+  literal_form: Gold and silver presented together with the animals and remarkable
+    things.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Curacas present animals and precious metals to the Yncas
+  summary: Curacas from different regions bring wild animals, serpents, reptiles,
+    coastal creatures, gold, and silver to the Yncas. The passage frames the display
+    as a sign of the Ynca's lordship and the devotion of those serving him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: tribute affirming royal lordship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage says the wide-ranging presentations were made as much as to say
+    that the Ynca was lord of all those things and to show devoted service.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage frames lordship and devotion directly, but it does not explicitly
+    describe divine sanction or a coronation ritual.
+- id: motif:2
+  label: presentation of rare and powerful beings to a ruler
+  taxonomy_refs: []
+  basis: Animals noted for size, ferocity, or beauty, including large serpents and
+    coastal creatures, are presented to the Yncas with gold and silver.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes tribute or display; no reciprocal exchange or explicit
+    ritual setting is stated.
+- id: motif:3
+  label: giant serpent as remarkable being
+  taxonomy_refs:
+  - serpent
+  basis: The Amaru is named as the largest serpent and described as twenty-five or
+    thirty feet and more in length.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The serpent is presented as part of a list of animals; the passage does
+    not give it a mythic action or supernatural role.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1249-1272
+  quote_or_summary: Besides skilled artisans, Curacas presented many wild animals
+    to the Yncas.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1249-1272
+  quote_or_summary: The passage lists tigers, lions, bears, monkeys, cats, macaws,
+    vultures, and condors, and describes condors as the largest birds.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1249-1272
+  quote_or_summary: The passage mentions large and small serpents from the Antis,
+    including the Amaru, said to reach twenty-five or thirty feet and more, and also
+    great toads and lizards.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1249-1272
+  quote_or_summary: Curacas from the sea-coast presented seals and alligators, the
+    latter described as twenty-five to thirty feet long.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1249-1272
+  quote_or_summary: The narrator says nothing remarkable for ferocity, size, or beauty
+    was left unpresented, and that these things were brought together with gold and
+    silver.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1249-1272
+  quote_or_summary: The passage explains the presentations as signifying that the
+    Ynca was lord of all those things and as showing the devotion with which he was
+    served.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is direct. Motif candidates are cautious because the
+    passage presents political tribute and lordship rather than a fully developed
+    mythic narrative. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Source terminology such as Curacas, Yncas, Antis, and Amaru is retained.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l1249-l1272
+  passage_sha256=f0b3f382e81d7a0338c7b863fe5057985a63f9e19d1d170ae5f68185bcd2ca3e
+

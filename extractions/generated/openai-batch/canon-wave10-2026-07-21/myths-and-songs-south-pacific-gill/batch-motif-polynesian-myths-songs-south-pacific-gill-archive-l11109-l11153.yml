@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l11109-l11153
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: UNUUNU    RUA. / INTRODUCTION. / FOUNDATION. / FIRST   OFFSHOOT.; lines 11109-11153
+  start: '11109'
+  end: '11153'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A lament describes Pukukare suffering a wasting sickness, sleepless nights,
+    coughing, pain, and breathlessness. Pukukare tells his mother that he is leaving
+    her and will rest in the spirit-world. The speaker condemns the god Turanga as
+    bad and as devouring the child, expresses disgust with the mother's god, and wishes
+    for another divine helper to hear the story of the disease.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The addressed child is described as having an attenuated body and a wasting
+    sickness that must end his days.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pukukare's nights are described as sleepless and spent in coughing and pain.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Pukukare pants for breath and gasps out speech to his mother.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Pukukare says he is going to leave his mother and that his rest will be in
+    spirit-world.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The god Turanga is called bad and is said to be devouring the child.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker wishes for some other Helper or new divinity to listen to the
+    sad story of the wasting disease.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pukukare
+  description: A suffering person whose nights are sleepless and who speaks to his
+    mother about leaving for spirit-world.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Mother of Pukukare
+  description: The mother whom Pukukare addresses when he says he is going to leave
+    her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Turanga
+  description: A god called bad and described as devouring the child; also referred
+    to as the god of the child's mother.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Unspecified Helper or new divinity
+  description: A desired alternative divine helper who might listen to the story of
+    the wasting disease.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Lamenting speaker
+  description: The speaking voice that addresses the child, condemns Turanga, and
+    wishes for another divine helper.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: afflicted speaker facing departure
+  assigned_to:
+  - fig:1
+  basis: Pukukare is ill, gasps to his mother, and says he is going to leave and rest
+    in spirit-world.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: mother addressed by dying child
+  assigned_to:
+  - fig:2
+  basis: Pukukare directly addresses his mother while announcing his departure.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: harmful devouring god
+  assigned_to:
+  - fig:3
+  basis: Turanga is called bad and is said to be devouring the child.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: hoped-for divine helper
+  assigned_to:
+  - fig:4
+  basis: The speaker asks for some other Helper or new divinity to listen to the wasting
+    disease story.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: lamenting accuser of the god
+  assigned_to:
+  - fig:5
+  basis: The speaker laments the child's changed form, condemns the bad god, and expresses
+    disgust with the mother's god.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: spirit-world
+  literal_form: spirit-world
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: wasting sickness
+  literal_form: wasting disease or sickness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: divine devouring
+  literal_form: the god Turanga devouring the child
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: 'Introduction: wasting sickness named'
+  summary: The addressed child is told that his god is bad, his body is attenuated,
+    and the wasting sickness will end his days.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: 'Foundation: Pukukare''s suffering and farewell'
+  summary: Pukukare suffers sleepless nights, coughing, pain, and breathlessness,
+    then tells his mother he is leaving and will rest in spirit-world.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: 'First Offshoot: condemnation of Turanga and wish for a helper'
+  summary: The speaker condemns Turanga as a bad god devouring the child, rejects
+    the mother's god, and wishes for another divine helper to hear the story of the
+    wasting disease.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wasting sickness as approach to spirit-world
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage links a fatal wasting sickness with Pukukare's statement that
+    he will leave his mother and rest in spirit-world.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage names spirit-world but gives no route, stages, guide, or detailed
+    map of the afterlife.
+- id: motif:2
+  label: illness attributed to a devouring god
+  taxonomy_refs: []
+  basis: The god Turanga is blamed as bad and as devouring the child during the wasting
+    disease.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The wording may be figurative within the lament; the passage does not
+    describe a separate visible act of physical devouring.
+- id: motif:3
+  label: appeal for an alternative divine helper
+  taxonomy_refs: []
+  basis: The speaker asks for some other Helper or new divinity to listen to the story
+    of the child's wasting disease.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The desired helper is not named and no response or ritual exchange is
+    described in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11109-11124
+  quote_or_summary: The introduction addresses a child, calls the child's god bad,
+    describes the child's body as attenuated, and says a wasting sickness must end
+    the child's days.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 11128-11134
+  quote_or_summary: The foundation says Pukukare's nights are sleepless and spent
+    in coughing and pain; he pants for breath and gasps out speech.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 11135-11137
+  quote_or_summary: Pukukare tells his mother that he is going to leave her and that
+    his rest will be in spirit-world.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 11141-11149
+  quote_or_summary: The first offshoot calls the god bad, names Turanga, says Turanga
+    is devouring the child, says the child is only partially his own, and calls him
+    the god of the child's mother.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 11150-11153
+  quote_or_summary: The speaker wishes for another Helper or new divinity to listen
+    to the sad story of the wasting disease and again notes the child's changed form.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source text; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the passage. Motif classification is cautious
+    because the passage is a lament with limited narrative action and no extended
+    afterlife itinerary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No cross-text comparison claims were added because the passage itself does not identify another text or tradition for comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l11109-l11153
+  passage_sha256=d073d039832a6c1f93d381f3f890b89793129b72f18d6af194f530a02fa32f1e
+

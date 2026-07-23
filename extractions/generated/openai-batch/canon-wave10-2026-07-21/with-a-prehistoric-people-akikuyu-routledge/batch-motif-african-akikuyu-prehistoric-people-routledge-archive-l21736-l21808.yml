@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.african-akikuyu-prehistoric-people-routledge-archive-l21736-l21808
+source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+passage_locator:
+  label: I-GAN-GA / I-LI-MA / I-LI-MA / I-LI-MA  YA  N'GA-RA; lines 21736-21808
+  start: '21736'
+  end: '21808'
+  translation: 'With a Prehistoric People: The Akikuyu of British East Africa'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: A religious cult. Snake worship.
+  summary: The passage is a glossary-like list of Kikuyu terms and definitions, including
+    entries for snake worship, ornaments, medicines, a sacrificial plant, dances,
+    ear ornaments, metalworking materials, a granary, shield holes, a spear blade,
+    and a lower fire stick.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: One entry defines a religious cult as snake worship.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists metal ornaments, a cattle bell, ankle bells, a lead ear
+    tab, ear-lobe and ear-cartilage ornaments, and a collarette worn by women.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: obs:3
+  text: The passage lists compounded medicine and medicine entries.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage identifies a plant used in sacrifice.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A dance performed by women is listed.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: An ornamental band is described as worn diagonally across the body at a circumcision
+    dance.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: 'The passage lists ironworking-related items: slag in iron smelting, a stone
+    or anvil, and a ground-lined crucible for smelting iron.'
+  category: object
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: obs:8
+  text: The passage lists a large thatched basket on legs forming a granary.
+  category: object
+  evidence_refs:
+  - ev:11
+- id: obs:9
+  text: The passage lists a central hole and an arm hole in a dancing shield, and
+    the blade of a spear.
+  category: object
+  evidence_refs:
+  - ev:12
+  - ev:13
+- id: obs:10
+  text: The passage lists a lower fire stick.
+  category: object
+  evidence_refs:
+  - ev:14
+- id: obs:11
+  text: The passage describes a small burrowing animal, about the size of a rat, that
+    feeds on sweet potatoes.
+  category: attribute
+  evidence_refs:
+  - ev:15
+figures:
+- id: fig:1
+  name_or_label: women
+  description: Women are identified as performers of a dance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: small burrowing animal
+  description: A small burrowing animal, about the size of a rat, that feeds on sweet
+    potatoes.
+  role_refs: []
+  evidence_refs:
+  - ev:15
+roles:
+- id: role:1
+  label: dance performers
+  assigned_to:
+  - fig:1
+  basis: The passage states that a dance is performed by women.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: snake worship
+  literal_form: Snake worship as a religious cult.
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sacrificial plant
+  literal_form: Plant used in sacrifice.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: circumcision-dance ornament
+  literal_form: Ornamental band worn diagonally across the body at a circumcision
+    dance.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: fire stick
+  literal_form: Lower fire stick.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:14
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: snake worship cult
+  taxonomy_refs:
+  - serpent
+  basis: The glossary entry explicitly gives a religious cult identified as snake
+    worship.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is lexical, not narrative; it gives no mythic episode, deity,
+    origin story, or ritual procedure.
+- id: motif:2
+  label: plant used in sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly lists a plant used in sacrifice.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only the object's sacrificial use is stated; the sacrifice itself is not
+    described.
+- id: motif:3
+  label: circumcision dance as initiation context
+  taxonomy_refs:
+  - initiation
+  basis: An ornamental band is said to be worn at a circumcision dance.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The passage mentions a circumcision dance but does not describe initiation
+    rites or symbolic meaning.
+comparison_claims:
+- id: claim:1
+  claim: The phrase 'Snake worship' supports a cautious alignment with the serpent
+    motif family at the level of a named cultic practice.
+  claim_level: same_motif
+  target: serpent motif family
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The entry is a glossary definition and does not provide narrative,
+    iconographic, or historical-comparative detail.
+- id: claim:2
+  claim: The phrase 'Plant used in sacrifice' supports a cautious functional alignment
+    with sacrificial ritual motifs.
+  claim_level: same_function
+  target: sacrifice motif family
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage names a sacrificial object but gives no account of the
+    rite, offering, recipient, or mythic context.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 21736-21808
+  quote_or_summary: A religious cult. Snake worship.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 21736-21808
+  quote_or_summary: Ornament in metal. Cattle bell.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 21736-21808
+  quote_or_summary: The passage lists a compounded medicine and additional medicine
+    entries.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 21736-21808
+  quote_or_summary: Plant used in sacrifice.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:5
+  type: summary
+  locator: lines 21736-21808
+  quote_or_summary: The passage lists ear-related ornaments, including a stick-like
+    ornament in ear cartilage, a lead tab in the ear lobe, and a spiral of wire in
+    ear cartilage.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:6
+  type: quote
+  locator: lines 21736-21808
+  quote_or_summary: Dance performed by women.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:7
+  type: quote
+  locator: lines 21736-21808
+  quote_or_summary: Ornamental band worn diagonally across body at circumcision dance.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:8
+  type: summary
+  locator: lines 21736-21808
+  quote_or_summary: The passage lists small reniform ankle bells, loose chain links,
+    and a collarette worn by women.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:9
+  type: quote
+  locator: lines 21736-21808
+  quote_or_summary: Slag in iron smelting.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:10
+  type: summary
+  locator: lines 21736-21808
+  quote_or_summary: The passage lists a stone or anvil and a ground-lined earthenware
+    crucible for smelting iron.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:11
+  type: quote
+  locator: lines 21736-21808
+  quote_or_summary: A large thatched basket on legs forming a granary.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:12
+  type: summary
+  locator: lines 21736-21808
+  quote_or_summary: The passage lists a hole, the central hole in a dancing shield,
+    and the arm hole of a dancing shield.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:13
+  type: quote
+  locator: lines 21736-21808
+  quote_or_summary: The blade of a spear.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:14
+  type: quote
+  locator: lines 21736-21808
+  quote_or_summary: Je'-ka Lower fire stick.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:15
+  type: quote
+  locator: lines 21736-21808
+  quote_or_summary: A small burrowy animal, size of rat, that feeds on sweet potatoes.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Extraction is limited by the passage's glossary format and OCR-like typography.
+    Motif candidates are based on explicit lexical definitions rather than narrative
+    scenes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No narrative scene is present; entries have been treated as a lexical inventory of ritual, material, and bodily ornament terms.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-akikuyu-prehistoric-people-routledge-archive__l21736-l21808
+  passage_sha256=7de612cf3c190014769fe5db4c6e52aa71e664bd0c92f6f6f91fd856fdcf746e
+

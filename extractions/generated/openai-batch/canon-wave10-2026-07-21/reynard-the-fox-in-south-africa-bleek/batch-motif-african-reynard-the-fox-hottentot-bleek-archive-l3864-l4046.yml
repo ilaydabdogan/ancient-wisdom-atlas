@@ -1,0 +1,163 @@
+---
+record_id: batch.motif.african-reynard-the-fox-hottentot-bleek-archive-l3864-l4046
+source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+passage_locator:
+  label: KAFIR    ESSAYS, / FIRST  LESSONS  IN  THE  MAORI  LANGUAGE, / A    CATALOGUE
+    / PUBLISHED   BT; lines 3864-4046
+  start: '3864'
+  end: '4046'
+  translation: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a publisher's catalogue and advertising section listing
+    works, prices, reviews, and publication details. It includes entries for language
+    lessons, literary criticism, humorous books, and a catalog entry for a comic work
+    titled The Venerable Gooroo Simple and his Five Disciples, described as based
+    on a Tamil tale and as satire or humorous narrative.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is formatted as a catalogue of works published by Trübner & Co.,
+    rather than as a narrative tale from the main collection.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The catalogue includes an entry for First Lessons in the Maori Language by
+    W. L. Williams.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One catalogue entry describes The Venerable Gooroo Simple and his Five Disciples
+    as a companion volume to Munchausen and Owlglass and as based on a Tamil tale.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'The same entry names five disciples: Noodle, Doodle, Wiseacre, Zany, and
+    Foozle.'
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Review excerpts characterize the Gooroo Simple book as humorous, ridiculous,
+    and satirical, including a description of it as a popular satire on Brahmins.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Gooroo Simple
+  description: Title figure in a catalogued comic work, called the Venerable Gooroo
+    Simple.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Five disciples
+  description: The named disciples Noodle, Doodle, Wiseacre, Zany, and Foozle, listed
+    in the title and description of the catalogued work.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: catalogued comic title figure
+  assigned_to:
+  - fig:1
+  basis: The passage presents Gooroo Simple as the central named figure in the title
+    of a humorous advertised work.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: disciples of the title figure
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly calls the five named figures disciples associated
+    with Gooroo Simple.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: comic adventures of a foolish or satirical teacher and disciples
+  taxonomy_refs: []
+  basis: The catalogue describes a work about Gooroo Simple and five disciples as
+    a consecutive narrative of Eastern wit and humour, with reviews calling the adventures
+    ridiculous and satirical.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: This passage is a publisher's catalogue entry, not a primary narrative
+    episode; the motif is inferred only from promotional description, not from an
+    actual tale scene.
+comparison_claims:
+- id: claim:1
+  claim: The catalogue itself presents Gooroo Simple as comparable in publication
+    context to Munchausen and Owlglass by calling it a companion volume to those works.
+  claim_level: same_function
+  target: Munchausen and Owlglass comic adventure books
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is bibliographic and promotional, not a demonstrated
+    narrative or historical motif relationship within the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3872-3880
+  quote_or_summary: The passage announces a catalogue of important works in literature
+    and science published by Trübner & Co., 60 Paternoster Row.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:2
+  type: summary
+  locator: lines 3864-3871
+  quote_or_summary: The passage lists First Lessons in the Maori Language with a short
+    vocabulary, by W. L. Williams, with format, place, year, and price details.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:3
+  type: quote
+  locator: lines 3921-3939
+  quote_or_summary: The catalogue describes The Venerable Gooroo Simple and his five
+    disciples as “a Companion Volume to ‘Munchausen’ and ‘Owlglass,’ based upon the
+    famous Tamul tale.”
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 3940-4046
+  quote_or_summary: Review excerpts describe the Gooroo Simple volume as humorous,
+    containing funny or ridiculous adventures, and as a popular satire on Brahmins.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The line range is an appended publisher catalogue rather than a Khoekhoe
+    narrative passage. Literal catalogue details are clear, but motif extraction is
+    weak and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No supported Khoekhoe mythic symbols from the supplied taxonomy appear in this passage. The only motif-like material comes from an advertised Tamil comic tale within the catalogue.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-reynard-the-fox-hottentot-bleek-archive__l3864-l4046
+  passage_sha256=bb72ac6bb490bf576364c746960b64dcb96de8daaf95c2f0e4f655d164c32208
+

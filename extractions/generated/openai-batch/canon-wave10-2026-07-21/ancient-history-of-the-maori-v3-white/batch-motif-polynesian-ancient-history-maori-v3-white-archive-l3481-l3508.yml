@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.polynesian-ancient-history-maori-v3-white-archive-l3481-l3508
+source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+passage_locator:
+  label: KUA-WHAKO AND TU-PAI. 59 / ACTS OF EUA-WHAKO AND TU-PAI. 61 / TAKI-TUMU AND
+    HER CKEW. 63 / CHAPTER III.; lines 3481-3508
+  start: '3481'
+  end: '3508'
+  translation: The Ancient History of the Maori, His Mythology and Traditions, Volume
+    3
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: The lament of Ka-hoki for Tai-timu.
+  summary: A first-person lament addresses a mother, describes overwhelming dread
+    and grief, imagines tears and the sea drowning the speaker’s cares, and calls
+    on a gale to carry the speaker up to the heavens while human rage continues below.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker addresses a mother and says dread has robbed the speaker of power
+    of soul and will.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says that if only one dread evil loomed, life could be sustained
+    and the heart could ponder the past in loneliness and gloom.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker imagines tears, the ebbing tide of life, and resting as a sacred
+    solitary one on O-rua-anga-ra.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker asks the ocean-mist to hide the speaker or drive the speaker far
+    out on the sea, drowning longings, cares, griefs, and the soul of life.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker says war in life is maintained, but asks who notices the speaker’s
+    deeds and says the speaker is drowned in tears.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker calls on a gale in furious gusts to take the speaker up to the
+    heavens while man rages below and vainly attempts to strike an enemy.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The closing note identifies the passage as the lament of Ka-hoki for Tai-timu.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ka-hoki
+  description: Named in the closing note as the person associated with the lament.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Tai-timu
+  description: Named in the closing note as the person for whom the lament is made.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: mother
+  description: The addressed figure in the opening line of the lament.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: lamenting speaker
+  assigned_to:
+  - fig:1
+  basis: The closing note names the piece as Ka-hoki’s lament, and the passage is
+    voiced in first person.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: person lamented
+  assigned_to:
+  - fig:2
+  basis: The closing note states that the lament is for Tai-timu.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: addressed mother
+  assigned_to:
+  - fig:3
+  basis: The lament begins by addressing a mother.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: water grief imagery
+  literal_form: tears, tide of life, ocean-mist, sea, drowning
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: gale
+  literal_form: a gale in furious gusts asked to carry the speaker upward
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: heavens
+  literal_form: the heavens as the place to which the speaker asks to be taken
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: O-rua-anga-ra
+  literal_form: a named place on which the speaker imagines resting
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Ka-hoki’s lament
+  summary: A first-person speaker laments overwhelming dread and grief, addresses
+    a mother, invokes water and sea imagery, and asks a gale to carry the speaker
+    to the heavens.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: named lament for another person
+  taxonomy_refs: []
+  basis: The passage is explicitly identified as a lament of Ka-hoki for Tai-timu.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not state the circumstances of Tai-timu or the cause
+    of lament.
+- id: motif:2
+  label: grief expressed as drowning in tears and sea imagery
+  taxonomy_refs: []
+  basis: The speaker links tears, the tide of life, ocean-mist, the sea, drowning
+    cares and griefs, and being drowned in tears.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is poetic imagery within a lament rather than a narrated mythic event.
+- id: motif:3
+  label: desired removal across or into the sea
+  taxonomy_refs:
+  - departure
+  basis: The speaker asks ocean-mist to hide the speaker or drive the speaker far
+    out on the sea.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The departure is wished or imagined, not described as completed.
+- id: motif:4
+  label: wishful ascent to the heavens
+  taxonomy_refs:
+  - ascent
+  basis: The speaker calls on a gale to take the speaker far up to the heavens.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The ascent is a poetic request within a lament, not a completed journey.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3481-3488
+  quote_or_summary: The speaker addresses a mother, says dread robs the speaker of
+    soul and will, and imagines sustaining life if only one dread evil loomed.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 3489-3497
+  quote_or_summary: The speaker speaks of tears, the ebbing tide of life, being a
+    sacred solitary one, resting on O-rua-anga-ra, and asking ocean-mist to hide or
+    drive the speaker out to sea.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 3498-3506
+  quote_or_summary: The speaker describes maintaining war in life, being drowned in
+    tears, and calls on a gale to take the speaker up to the heavens while man rages
+    below against an enemy.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: quote
+  locator: line 3508
+  quote_or_summary: The lament of Ka-hoki for Tai-timu.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; short quote supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the lament’s imagery and named
+    figures. Motif labels involving departure and ascent are cautious because they
+    are expressed as wishes within a lament, not narrated actions. No comparison claims
+    are made from this passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. No external identifications or cross-tradition comparisons were added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-ancient-history-maori-v3-white-archive__l3481-l3508
+  passage_sha256=ef87909f074820337d304a036969a85cad23492695904f676a4847156ad3fe19
+

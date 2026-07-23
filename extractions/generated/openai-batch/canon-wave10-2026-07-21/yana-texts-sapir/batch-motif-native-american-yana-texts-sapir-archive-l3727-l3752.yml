@@ -1,0 +1,235 @@
+---
+record_id: batch.motif.native-american-yana-texts-sapir-archive-l3727-l3752
+source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+passage_locator:
+  label: XXI. CURSE ON PEOPLE THAT WISH ONE ILL. / XXII. PRAYER ON SNEEZING. / THE
+    ROLLING SKULL. / XXIV. GRIZZLY BEAR AND DEER.319; lines 3727-3752
+  start: '3727'
+  end: '3752'
+  translation: Yana Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The excerpt gives the heading “Grizzly Bear and Deer” and editorial notes.
+    It mentions Maidu and Takelma parallels, several obscure or uncertain linguistic
+    forms, and a local explanation of two notched rocks east of Montgomery Creek said
+    to have been bitten by a grizzly bear while pursuing a deer standing on them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed “Grizzly Bear and Deer.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The notes direct comparison to Dixon’s Maidu materials and state that the
+    Takelma of Oregon have a similar myth.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Several editorial notes mark forms or sentences as obscure, unexplained, misheard,
+    or difficult.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Two rocks with circular notches are reported as having been bitten by a grizzly
+    bear during pursuit of a deer standing on top.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The notched rocks are located a short distance east of Montgomery Creek and
+    are named djanu'nak iaina, translated as “notched rocks.”
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The editor states that Round Mountain Jack likely thought of these rocks as
+    the scene of the mythical incident.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Grizzly Bear
+  description: Animal named in the title and described in a note as pursuing the deer
+    and biting notches into rocks.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Deer
+  description: Animal named in the title and described in a note as standing on top
+    of rocks while pursued by the grizzly bear.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: title figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both animals are named in the passage heading.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: pursuer and biter of rocks
+  assigned_to:
+  - fig:1
+  basis: The note says a grizzly bear pursued the deer and bit notches into the rocks.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: pursued animal standing on rocks
+  assigned_to:
+  - fig:2
+  basis: The note says the deer stood on top of the rocks while being pursued.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: notched rocks
+  literal_form: Two rocks with a circular notch, named djanu'nak iaina, “notched rocks.”
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: bite-made circular notch
+  literal_form: Circular notch in rock said to have been bitten in by a grizzly bear.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Grizzly bear pursues deer at notched rocks
+  summary: A grizzly bear is said to have pursued a deer that stood on top of two
+    rocks, biting circular notches into the rocks; the rocks are identified locally
+    as notched rocks east of Montgomery Creek.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal pursuit explains marked landscape feature
+  taxonomy_refs: []
+  basis: The note connects circular notches in rocks with a grizzly bear biting the
+    rocks while pursuing a deer, and identifies the place as the scene of the mythical
+    incident.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt is an editorial note rather than the full narrative; the exact
+    sequence and meaning of the myth are not present.
+- id: motif:2
+  label: grizzly bear and deer pursuit
+  taxonomy_refs: []
+  basis: The title names Grizzly Bear and Deer, and the note describes the bear pursuing
+    the deer.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: Only the pursuit detail is available in the supplied excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The editor indicates that the Grizzly Bear and Deer material has parallels
+    in Dixon’s Maidu collections.
+  claim_level: same_motif
+  target: Dixon, Maidu Myths, p. 79, and Dixon’s Northern Maidu, p. 341
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a bibliographic comparison and does not summarize
+    the Maidu parallel.
+- id: claim:2
+  claim: The editor states that the Takelma of Oregon have a similar myth.
+  claim_level: same_motif
+  target: Takelma of Oregon similar myth
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not provide the Takelma text or details of the similarity.
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 3727
+  quote_or_summary: "“XXIV. GRIZZLY BEAR AND DEER.”"
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 3729-3731
+  quote_or_summary: The note says to compare Dixon’s Maidu Myths, where further parallels
+    are given, also Dixon’s Northern Maidu, and adds that the Takelma of Oregon have
+    a similar myth.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3733-3746
+  quote_or_summary: Editorial notes describe several forms as obscure, possibly misheard,
+    unexplained, or difficult, including uncertainty about verb derivation and sentence
+    form.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3748-3750
+  quote_or_summary: Information from Betty Brown reports two rocks with circular notches
+    said to have been bitten by a grizzly bear in pursuit of a deer that stood on
+    top.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3750-3752
+  quote_or_summary: The rocks are a short distance east of Montgomery Creek, called
+    djanu'nak iaina, “notched rocks,” and were likely regarded by Round Mountain Jack
+    as the scene of the mythical incident.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The local landscape explanation is explicit, but the supplied excerpt consists
+    mainly of title and editorial notes, not the full myth narrative. Several textual
+    notes also flag uncertain forms.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned because the supplied taxonomy list does not include a clear category for landscape features marked by mythic animal action.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-yana-texts-sapir-archive__l3727-l3752
+  passage_sha256=5415ecddb30cd7657b253f46c7ba8f280d5b8fa8d9e93cf044b6d6241c73311e
+

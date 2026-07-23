@@ -1,0 +1,393 @@
+---
+record_id: batch.motif.native-american-blackfoot-lodge-tales-grinnell-archive-l11772-l11846
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+passage_locator:
+  label: MEDICINE   PIPES   AND    HEALING  28I / MEDICINE    PIPES    AND    HEALING  283
+    / MEDICINE    PIPES    AND    HEALING  285 / THE   BLACKFOOT   OF   TO-DAY; lines
+    11772-11846
+  start: '11772'
+  end: '11846'
+  translation: Blackfoot Lodge Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Blackfeet as formerly numerous and generally
+    healthy, then attributes later population loss to diseases and alcohol introduced
+    after the arrival of whites. It recounts severe smallpox epidemics, including
+    an 1845 outbreak said to have moved up the Missouri River through several tribes
+    before reaching the Blackfeet, with mass deaths and improvised burials at Fort
+    Union. It also describes later epidemics and the whiskey trade, including violence
+    in trading stores and traders' use of a specially shaped tin scoop to reduce immediate
+    danger while serving liquor.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says that in older times the Blackfeet were numerous, hardy, and
+    rarely sick, with many male deaths occurring in battle or old age.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the arrival of whites brought new conditions, including
+    introduced diseases and alcohol as destructive factors.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The 1845 smallpox outbreak is described as appearing to travel up the Missouri
+    River, affecting Mandans, Rees, Sioux, Crows, and other tribes before reaching
+    the Blackfeet.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: At Fort Union, large numbers of dead Indians were buried in trenches; when
+    winter froze the ground, bodies were stacked in piles until spring.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'Later outbreaks are listed: smallpox in 1857-58, measles in 1864, and smallpox
+    again in 1869.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Between 1860 and 1875, whiskey was traded to the Blackfeet, and traders found
+    robes and furs could be acquired advantageously for whiskey.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says intoxicated Indians fought among themselves or with traders,
+    creating personal danger for whiskey traders.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: Traders served liquor from a tin scoop designed not to stand on a flat surface,
+    so the drinker had to keep holding it until the liquor was consumed.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Drunken fights in trading stores are described as common, and the passage
+    gives the image of a dead Indian falling inward when a store door was opened in
+    the morning.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Blackfeet
+  description: The Blackfeet are described as formerly numerous and hardy, later affected
+    by introduced diseases, epidemics, and whiskey trade.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: whites and whiskey traders
+  description: Whites are associated with new conditions, and traders are described
+    as selling whiskey, using a special scoop, and facing danger in trading stores.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Mandans, Rees, Sioux, Crows, and other tribes along the Missouri
+    River
+  description: These groups are named as tribes affected by smallpox before the disease
+    reached the Blackfeet.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: men of Fort Union
+  description: Men at Fort Union are described as constantly digging trenches to bury
+    the dead during the smallpox mortality.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: formerly hardy population
+  assigned_to:
+  - fig:1
+  basis: The passage describes the Blackfeet in older times as strong, hardy, numerous,
+    and seldom sick.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: epidemic-afflicted peoples
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage describes smallpox and measles outbreaks carrying off large numbers
+    among the Blackfeet and other Plains tribes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: external traders and agents of new conditions
+  assigned_to:
+  - fig:2
+  basis: Whites are linked to new conditions, and traders are described exchanging
+    whiskey for robes and furs.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: participants in whiskey exchange
+  assigned_to:
+  - fig:1
+  basis: The Blackfeet are described as receiving whiskey in trade and becoming eager
+    for liquor after experiencing intoxication.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: burial laborers at Fort Union
+  assigned_to:
+  - fig:4
+  basis: The men of the fort are described as digging trenches to bury the dead during
+    the epidemic.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: whiskey
+  literal_form: Alcoholic liquor traded to the Blackfeet for robes and furs.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: non-standing tin scoop
+  literal_form: A tin scoop or vessel made so it would not stand on a flat surface
+    while holding liquor.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Missouri River
+  literal_form: The river route along which the 1845 smallpox outbreak is said to
+    have traveled.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: burial trenches and stacked bodies
+  literal_form: Trenches dug for epidemic dead and bodies stacked when frozen ground
+    prevented burial.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Old-time Blackfeet health
+  summary: The passage presents an earlier period when the Blackfeet were numerous,
+    strong, and rarely sick.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arrival of new destructive conditions
+  summary: The coming of whites is followed in the account by introduced diseases
+    and alcohol, both described as destructive to the people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: 1845 smallpox epidemic along the Missouri
+  summary: Smallpox is described as moving along the Missouri River, killing many
+    members of multiple tribes, reaching the Blackfeet, and producing mass burials
+    at Fort Union.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Later epidemics among Blackfoot camps
+  summary: 'The passage lists additional epidemics among Blackfoot camps: smallpox
+    in 1857-58, measles in 1864, and smallpox again in 1869.'
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Whiskey trade and trading-store danger
+  summary: Traders exchange whiskey for robes and furs; intoxicated fighting becomes
+    common, and traders use a non-standing tin scoop to reduce the danger while serving
+    liquor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Former vitality contrasted with post-contact catastrophe
+  taxonomy_refs: []
+  basis: The passage contrasts an earlier state of Blackfoot strength and health with
+    later disease, alcohol, and mass mortality after the arrival of whites.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an ethnographic-historical pattern in the passage, not a mythic
+    episode.
+- id: motif:2
+  label: Epidemic moving from people to people along a river route
+  taxonomy_refs: []
+  basis: Smallpox is said to travel up the Missouri River, affecting multiple named
+    tribes and then reaching the Blackfeet.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage reports the disease's spread historically; it does not frame
+    the river as a sacred or mythic route.
+- id: motif:3
+  label: Destructive exchange through intoxicating substance
+  taxonomy_refs: []
+  basis: Whiskey is presented as a trade good used to acquire robes and furs, while
+    intoxication is linked to fighting and danger.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No sacred-exchange taxonomy is applied because the passage describes a
+    commercial and destructive trade, not a ritual exchange.
+- id: motif:4
+  label: Control of violence through a specially designed vessel
+  taxonomy_refs: []
+  basis: Traders use a tin scoop that cannot stand on a flat surface so the drinker
+    must keep holding it, reducing the chance of shooting or stabbing while drinking.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a practical device described in the passage; its symbolic status
+    is uncertain.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the 1845 smallpox outbreak as a shared destructive pattern
+    affecting the Blackfeet and several neighboring Plains tribes along the Missouri
+    River.
+  claim_level: same_function
+  target: Mandans, Rees, Sioux, Crows, other Missouri River tribes, and the Blackfeet
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to the historical account within this passage
+    and does not establish a shared mythic motif or broader cultural interpretation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11772-11784
+  quote_or_summary: The passage says the Blackfeet were formerly numerous, strong,
+    hardy, and seldom sick; most men who died were said to be killed in battle or
+    to die of old age.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summary supplied for extraction.
+- id: ev:2
+  type: summary
+  locator: 11785-11789
+  quote_or_summary: 'With the arrival of whites came new conditions: special diseases
+    were introduced and killed many people, and alcohol was an important agent of
+    destruction.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summary supplied for extraction.
+- id: ev:3
+  type: summary
+  locator: 11790-11812
+  quote_or_summary: In 1845 smallpox is described as traveling up the Missouri River,
+    killing many Mandans, Rees, Sioux, Crows, and others, creating mass burials at
+    Fort Union, and finally reaching the Blackfeet.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summary supplied for extraction.
+- id: ev:4
+  type: summary
+  locator: 11813-11818
+  quote_or_summary: 'The passage lists later outbreaks: smallpox in the winter of
+    1857-58, measles in 1864, and smallpox again in 1869.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summary supplied for extraction.
+- id: ev:5
+  type: summary
+  locator: 11819-11832
+  quote_or_summary: Between 1860 and 1875 much whiskey was traded to the Blackfeet;
+    traders acquired robes and furs for liquor, and intoxicated Indians fought among
+    themselves or with traders.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summary supplied for extraction.
+- id: ev:6
+  type: summary
+  locator: 11833-11846
+  quote_or_summary: Traders served liquor from a tin scoop that could not stand flat,
+    forcing the drinker to hold it; drunken fights in trading stores were common,
+    and whiskey trading is described as perilous.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; summary supplied for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward. Motif labels are treated as passage-level
+    historical patterns rather than mythological motifs because the passage is ethnographic
+    and historical, not a narrative myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family was applied; the passage does not support sacred or mythic taxonomy assignments.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-blackfoot-lodge-tales-grinnell-archive__l11772-l11846
+  passage_sha256=36076d7e82a4e0620231f64b16c80f65d62839488cec355bab46f25f03fee795
+

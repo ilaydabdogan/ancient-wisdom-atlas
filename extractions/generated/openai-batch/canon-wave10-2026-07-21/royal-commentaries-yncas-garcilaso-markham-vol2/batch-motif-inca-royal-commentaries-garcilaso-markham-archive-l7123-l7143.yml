@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l7123-l7143
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: SIXTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. / SIXTH  BOOK  OF  THE  ROYAL
+    / CHAPTER  XXI.; lines 7123-7143
+  start: '7123'
+  end: '7143'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: '"looking upon the Sun as their god and natural father."'
+  summary: At a festival, the Ynca and his royal relations proceed at dawn to the
+    great square Huacay-pata, wait barefoot while watching the east for sunrise, then
+    bow with raised hands and adore the Sun as god and natural father. The chapter
+    heading mentions going to the temple and sacrificing a lamb. The supplied passage
+    ends as Curacas are introduced as not being of royal blood.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The chapter heading states that, in worshipping the Sun, they went to the
+    temple and sacrificed a lamb.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After necessary preparations, the Ynca came forth at dawn on the festival
+    day.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Ynca was accompanied by all his relations, who marched according to age
+    and dignity.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: They proceeded to the great square called Huacay-pata.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: They waited for sunrise while barefoot and watched the east attentively.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When the sun appeared, they bent down on their elbows, with arms apart and
+    hands raised.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: They worshipped, kissed the air, and adored the Sun with fervour and devotion.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: They regarded the Sun as their god and natural father.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Curacas are mentioned as not being of royal blood; the supplied passage cuts
+    off before the sentence is completed.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Ynca
+  description: The Ynca comes forth at dawn on the day of the festival and proceeds
+    with his relations to Huacay-pata.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Relations of the Ynca
+  description: They accompany the Ynca, marching according to age and dignity, and
+    participate in the sunrise worship.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: The Sun
+  description: The Sun appears at sunrise and is worshipped as god and natural father.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Curacas
+  description: They are introduced as not being of the blood royal; the sentence is
+    incomplete in the supplied passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: festival-leading Ynca
+  assigned_to:
+  - fig:1
+  basis: The Ynca comes forth at dawn with his relations and proceeds to the festival
+    setting.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: royal relations ordered by age and dignity
+  assigned_to:
+  - fig:2
+  basis: The relations accompany the Ynca and march according to age and dignity.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: god and natural father
+  assigned_to:
+  - fig:3
+  basis: The passage states that the worshippers looked upon the Sun as their god
+    and natural father.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: non-royal group mentioned
+  assigned_to:
+  - fig:4
+  basis: The Curacas are explicitly described as not being of the blood royal, though
+    the sentence is incomplete.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Sun
+  literal_form: the sun appearing at sunrise and worshipped as god and natural father
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: Huacay-pata
+  literal_form: the great square called Huacay-pata
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Barefoot eastward vigil
+  literal_form: being barefoot while watching the east for sunrise
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Prostration with raised hands
+  literal_form: bending down on elbows with arms apart and hands raised
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Lamb
+  literal_form: a lamb sacrificed, as stated in the chapter heading
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Dawn procession to Huacay-pata
+  summary: The Ynca comes forth at dawn on the festival day with his relations, who
+    march by age and dignity, and they proceed to the great square Huacay-pata.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Waiting for sunrise
+  summary: In Huacay-pata, the participants wait barefoot for sunrise while watching
+    the east attentively.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Sunrise worship
+  summary: When the sun appears, the participants bow on their elbows with raised
+    hands, worship, kiss the air, and adore the Sun as god and natural father.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Sun as divine natural father
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The passage says the worshippers adored the Sun and looked upon it as their
+    god and natural father.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage states a divine-parent relationship but does not narrate an
+    origin story or descent episode.
+- id: motif:2
+  label: Royal hierarchy in public ritual
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Ynca leads or appears centrally with royal relations ordered by age and
+    dignity, while Curacas are distinguished as not of royal blood; the Sun is treated
+    as divine father.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly argue royal legitimacy; the motif is a
+    cautious candidate based on ritual ordering and royal/non-royal distinction.
+- id: motif:3
+  label: Lamb sacrifice in Sun worship
+  taxonomy_refs:
+  - sacrifice
+  basis: The chapter heading states that, in worshipping the Sun, they went to the
+    temple and sacrificed a lamb.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The supplied body text does not yet describe the sacrifice; it is attested
+    here only in the chapter heading.
+comparison_claims:
+- id: claim:1
+  claim: The passage equates the elbow-bent posture with going down on the knees among
+    these Indians.
+  claim_level: same_function
+  target: kneeling posture
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an explanatory analogy within the passage, not evidence for
+    a shared mythic origin.
+- id: claim:2
+  claim: The passage compares kissing the air during worship to kissing the hand or
+    dress of a prince in Spain.
+  claim_level: same_function
+  target: Spanish courtly gesture of kissing a prince's hand or dress
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is the chronicler's functional analogy; it does not establish
+    historical contact, common inheritance, or a mythological parallel.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7123-7127
+  quote_or_summary: '"IN WORSHIPPING THE SUN, THEY WENT TO THE TEMPLE, AND SACRIFICED
+    A LAMB."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 7128-7133
+  quote_or_summary: After preparations, the Ynca came forth at dawn on the festival
+    day with all his relations, ordered by age and dignity, and proceeded to Huacay-pata.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; neutral summary.
+- id: ev:3
+  type: quote
+  locator: lines 7133-7136
+  quote_or_summary: They "waited for sunrise," barefooted, "watching the east with
+    great attention."
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 7136-7139
+  quote_or_summary: As the sun appeared, they bent down on their elbows, arms apart
+    and hands raised; the narrator compares this to kneeling.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; neutral summary.
+- id: ev:5
+  type: quote
+  locator: lines 7140-7142
+  quote_or_summary: They worshipped, kissed the air, and adored with devotion, "looking
+    upon the Sun as their god and natural father."
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:6
+  type: quote
+  locator: line 7143
+  quote_or_summary: '"The Curacas, not being of the blood royal, assembled in"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; short quotation from supplied passage; sentence is incomplete
+    in supplied range.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main ritual actions and relationships are explicit. Motif candidates
+    involving royal legitimacy and sacrifice require review because royal legitimacy
+    is not directly argued and the lamb sacrifice appears only in the chapter heading
+    within this supplied range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. No claims are made about events after the cutoff.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l7123-l7143
+  passage_sha256=f514e22cc5c7fc3d9e69d79c6314f63d36734ba1aeb5db132303bd4918c5871e
+

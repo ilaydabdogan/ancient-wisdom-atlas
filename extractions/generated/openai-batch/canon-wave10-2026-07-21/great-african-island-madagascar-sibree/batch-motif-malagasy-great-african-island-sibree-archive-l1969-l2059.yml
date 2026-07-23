@@ -1,0 +1,413 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l1969-l2059
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: VIRGIN  FOREST.  27 / VOLCANIC  ACTION. / GEOLOGICAL  FORMATION.  31 / FOSSILS.  33;
+    lines 1969-2059
+  start: '1969'
+  end: '2059'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes geological observations about Madagascar: ancient
+    elevated land, rounded boulders, lower coastal plains with Tertiary and Secondary
+    fossils, extinct animal remains including hippopotamus, giant tortoise, and Aepyornis,
+    evidence that maritime plains were formerly under water, and sandstone formations
+    along the eastern coast and Betsiboka River.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The elevated region of Madagascar is described as very ancient land that has
+    probably long remained above the waters of the Indian Ocean, because marine deposits
+    are not found there.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rounded boulder-like masses of blue basalt are reported in some places, sometimes
+    on the surface and sometimes partly embedded in soil.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Near sea-level on the Betsiboka, rounded boulders are described as composed
+    of rock not occurring in situ nearby and apparently derived from far inland.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The western, southern, and eastern lower regions of Madagascar are described
+    as much less elevated above the sea than the granitic region.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The lower region is said to contain later Tertiary deposits with fossils of
+    recently extinct animals and also Secondary-age fossils.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Grandidier is cited as reporting Jurassic fossils and Secondary strata over
+    a vast extent of the island.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Richardson is reported to have discovered many fossils in the upper valley
+    of the St. Augustine River, including forms identified as Ammonites, Terebratula,
+    Nerinea or Turritella, Inoceramus, Rhynconella, and an echinoderm.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Grandidier is reported to have discovered fossil remains of a hippopotamus,
+    gigantic tortoises, and the recently extinct Aepyornis maximus, whose egg is described
+    as larger than that of any other known bird.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The maritime plains are described as having been under water during at least
+    part of the Secondary period, when only the high granitic region formed Madagascar,
+    probably about one-third of its present size.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Vinson is reported to have seen yellow sandstone and sedimentary beds rich
+    in fossil remains on the eastern coast.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Along the Betsiboka, a river bank is described as layers of yellowish sandstone
+    closely resembling a wall of masonry.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: A footnote reports basalt fragments far from the sea, many metres above sea-level,
+    with recent-looking sea-shells attached.
+  category: object
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: M. Grandidier
+  description: A cited observer and collector who reported Jurassic fossils, nummulitic
+    terrain, and fossil remains of extinct animals in Madagascar.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Rev. J. Richardson
+  description: A cited discoverer of fossils in the south-west of Madagascar, in the
+    upper part of the valley of the St. Augustine River.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Dr. Auguste Vinson
+  description: A cited observer who described yellow sandstone and sedimentary formations
+    rich in fossil remains on the eastern coast.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:4
+  name_or_label: Narrating traveller
+  description: The first-person observer who reports travel near the Betsiboka and
+    later notices sandstone layers along the river bank.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:9
+roles:
+- id: role:1
+  label: cited fossil collector and geological reporter
+  assigned_to:
+  - fig:1
+  basis: The passage cites Grandidier as collecting Jurassic fossils, identifying
+    Secondary strata, and discovering extinct animal remains.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:2
+  label: cited fossil discoverer
+  assigned_to:
+  - fig:2
+  basis: The passage states that Richardson discovered fossils in the upper valley
+    of the St. Augustine River.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: cited coastal geological observer
+  assigned_to:
+  - fig:3
+  basis: The passage states that Vinson saw yellow sandstone and described sedimentary
+    formations rich in fossil remains.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: first-person geological observer
+  assigned_to:
+  - fig:4
+  basis: The narrator reports encountering transported boulders near the Betsiboka
+    and observing sandstone layers along the river.
+  evidence_refs:
+  - ev:2
+  - ev:9
+symbols:
+- id: sym:1
+  label: marine water
+  literal_form: waters of the Indian Ocean; maritime plains under water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:2
+  label: rounded basalt boulders
+  literal_form: rounded boulder-like masses of blue basalt rock
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: fossils and fossil remains
+  literal_form: fossils of Secondary and Tertiary age, including shells and extinct
+    animal remains
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:4
+  label: Aepyornis egg
+  literal_form: large egg of the recently extinct Aepyornis maximus
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: high granitic region
+  literal_form: high granitic region forming the ancient island during part of the
+    Secondary period
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: wall-like sandstone bank
+  literal_form: layers of yellowish sandstone resembling a wall of masonry along the
+    Betsiboka
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: mountains
+  literal_form: mountains mentioned in the footnote as near basalt fragments found
+    above sea-level
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Ancient elevated land and transported boulders
+  summary: The passage describes the elevated region as ancient land above the Indian
+    Ocean and notes rounded basalt boulders and other boulders near the Betsiboka
+    that appear to have come from the interior.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lower regions with fossil strata
+  summary: The lower plains and coastal regions are described as less elevated and
+    as containing Tertiary and Secondary deposits, with Grandidier cited for Jurassic
+    fossils and Secondary strata.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: South-western fossil discoveries
+  summary: Richardson's fossil finds in the St. Augustine River valley and Grandidier's
+    discoveries of extinct animal remains are presented as evidence for Madagascar's
+    geological and paleontological history.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Former maritime plains and reduced ancient island
+  summary: The passage concludes that the maritime plains were under water during
+    part of the Secondary period and that only the high granitic region then formed
+    Madagascar.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Sandstone and sedimentary observations
+  summary: Vinson reports yellow sandstone and fossil-rich sedimentary beds on the
+    eastern coast, while the narrator observes wall-like sandstone layers along the
+    Betsiboka.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Basalt fragments with sea-shells above sea-level
+  summary: A footnote cites another geological notice reporting basalt fragments far
+    from the sea and above sea-level with recent-looking sea-shells attached.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:10
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1969-2059, paragraph beginning 'extensive elevated region'
+  quote_or_summary: The elevated region is described as ancient land probably long
+    above the Indian Ocean; rounded blue basalt boulders occur on the surface or embedded
+    in soil.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1969-2059, paragraph beginning 'But in travelling to the north-west
+    coast'
+  quote_or_summary: Near sea-level on the Betsiboka, the travellers found rounded
+    boulders made of rock not occurring nearby and apparently brought from far inland.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1969-2059, paragraph beginning 'With regard to the lower region'
+  quote_or_summary: The lower regions to the west, south, and east are lower in elevation
+    and contain later Tertiary deposits with recently extinct animal fossils as well
+    as Secondary-age fossils.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1969-2059, paragraph citing M. Grandidier
+  quote_or_summary: Grandidier is cited as collecting Jurassic fossils and as saying
+    that Secondary strata cover a vast extent of the island; he also describes nummulitic
+    terrain with foraminifera.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1969-2059, paragraph continuing on p.34 after 'These occur in vast
+    numbers'
+  quote_or_summary: Richardson's south-western fossil discoveries in the upper St.
+    Augustine River valley are identified as forms such as Ammonites, Terebratula,
+    Nerinea or Turritella, Inoceramus, Rhynconella, and an echinoderm.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1969-2059, paragraph beginning 'It is evident, also'
+  quote_or_summary: Grandidier discovered fossil remains of a hippopotamus, gigantic
+    tortoises, and Aepyornis maximus; the Aepyornis egg is described as exceeding
+    that of any other known bird.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1969-2059, paragraph beginning 'It seems highly probable'
+  quote_or_summary: The passage states that the maritime plains were under water during
+    parts of the Secondary period, when the high granitic region alone formed Madagascar,
+    probably only a third of its present extent.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1969-2059, paragraph beginning 'Dr. Auguste Vinson speaks'
+  quote_or_summary: Vinson is said to have seen yellow sandstone on the eastern coast
+    and to have described sedimentary beds between eastern forest lines as rich in
+    fossil remains.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1969-2059, paragraph beginning 'In sailing down the river Betsiboka'
+  quote_or_summary: The narrator observed yellowish sandstone layers along the Betsiboka
+    river bank, closely resembling a masonry wall, with some courses weathered and
+    others smooth-faced.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 1969-2059, footnote beginning 'This is confirmed'
+  quote_or_summary: A cited geological notice reports basalt fragments far from the
+    sea, at the foot of mountains and many metres above sea-level, with recent-looking
+    sea-shells attached.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: Literal geological observations are clear. No mythological motif family or
+    comparative claim is supported by the passage itself; symbols are recorded only
+    as literal objects, places, or natural features.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  This passage is a geological and paleontological description, not a mythic narrative. Candidate motifs and comparison claims are therefore left empty.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l1969-l2059
+  passage_sha256=1a365d42be1257d000a9a3b53ae87491d5b99097446f8dd4b979ac74c1c47a13
+

@@ -1,0 +1,237 @@
+---
+record_id: batch.motif.native-american-fox-texts-jones-archive-l3536-l3548
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+passage_locator:
+  label: VOWELS. / DIPHTHONGS. / AND FOR THAT REASON DROWNS HER DAUGHTER.1 / THUS
+    OBTAIN CRAWFISHES TO EAT.1; lines 3536-3548
+  start: '3536'
+  end: '3548'
+  translation: Fox Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Two travelers set out. One is bare-legged except for moccasins, warms himself
+    at a fire, and is said to prefer summer. They reach an unfrozen spring; one tells
+    his comrade to cool himself. After a swim, one traveler freezes to death, and
+    the other goes home.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two figures set forth on a journey; one wears nothing but moccasins and has
+    bare legs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: They kindle a fire to warm themselves, and the summer-preferring figure warms
+    himself.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: They come to a spring that is not closed with ice, and the water is not yet
+    frozen.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One figure tells his comrade to stop and cool himself.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After a swim and a short continuation of the journey, one figure is frozen
+    to death.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The other figure goes home after his friend is frozen.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: summer-preferring traveler
+  description: One of the two travelers wears only moccasins with bare legs, warms
+    himself, and is described as preferring summer.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: comrade or other traveler
+  description: The second member of the traveling pair is referred to through the
+    terms comrade, other, and friend within the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: traveling companion
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes a pair setting forth together and uses relational terms
+    such as comrade and friend.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: summer-preferring figure
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly says that this figure preferred summer.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fire for warmth
+  literal_form: a kindled fire used to warm themselves
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: unfrozen spring water
+  literal_form: a spring not closed with ice, with water not yet frozen
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: moccasins and bare legs
+  literal_form: nothing but moccasins; bare legs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: setting out and warming by fire
+  summary: The pair begins traveling; one is lightly dressed, and they kindle a fire
+    to warm themselves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: unfrozen spring and command to cool
+  summary: The travelers arrive at an unfrozen spring, and one tells his comrade to
+    stop and cool himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: swim followed by freezing death
+  summary: After a swim, the travelers continue briefly; one freezes to death, and
+    the other returns home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: fatal freezing after cooling in water
+  taxonomy_refs: []
+  basis: The sequence links an unfrozen spring, an instruction to cool oneself, a
+    swim, and a subsequent freezing death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The pronoun reference makes the exact identity of the swimmer and frozen
+    figure uncertain within this excerpt.
+- id: motif:2
+  label: summer preference opposed by freezing conditions
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: A figure is said to prefer summer, warms himself at a fire, encounters unfrozen
+    water, and the narrative ends with freezing death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The excerpt does not provide a broader seasonal explanation, so the seasonal-cycle
+    classification is tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3536-3537
+  quote_or_summary: Two figures set forth; one has only moccasins and bare legs.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 3538-3540
+  quote_or_summary: They kindle a fire to warm themselves; the one who preferred summer
+    warms himself.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 3540-3542
+  quote_or_summary: They come to a spring whose water is not frozen, and one says
+    to his comrade, “Stop and cool yourself.”
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; brief quotation from public domain text.
+- id: ev:4
+  type: quote
+  locator: lines 3544-3545
+  quote_or_summary: "“After he had had a swim, they then started on. They had walked
+    but a little way when he was frozen to death.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:5
+  type: quote
+  locator: line 3546
+  quote_or_summary: "“And the other then went home after his friend was frozen.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  rights_note: Public domain source; brief quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal sequence is clear, but pronoun reference is ambiguous and the final
+    line appears to begin the next heading rather than continue the scene.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison. The incomplete heading at the end of the supplied passage was not treated as a narrative event.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-fox-texts-jones-archive__l3536-l3548
+  passage_sha256=19bea2f17bcec75cff8aa5976730365e5733d400ba3e6bd022ea2bb31c7fd36a
+

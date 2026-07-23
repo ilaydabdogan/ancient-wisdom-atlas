@@ -1,0 +1,222 @@
+---
+record_id: batch.motif.jain-jaina-sutras-sbe22-jacobi-archive-l10577-l10604
+source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+passage_locator:
+  label: SIXTEENTH LECTURE, / THE LIBERATION. / BOOK II, LECTURE 1 6. / THE KALPA
+    SUTRA; lines 10577-10604
+  start: '10577'
+  end: '10604'
+  translation: 'Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred
+    Books of the East, Vol. 22)'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that a sage who knows bondage and deliverance according
+    to the declared doctrine is called a “Maker of the end.” It further describes
+    one for whom there is no bondage in this world or in other realms as needing no
+    support or standing place and as having left the path of births.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person who knows bondage and deliverance according to the doctrine is identified
+    as a sage called “Maker of the end.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A person is described as having no bondage in this world or in two other realms
+    glossed as heaven and hell.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The unbound person is described as a monk needing no support and no standing
+    place.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The unbound person is said to have quitted the path of births.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage closes the Sixteenth Lecture, called “the Liberation,” and the
+    Second Book of the Akaranga Sutra.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: sage called “Maker of the end”
+  description: A sage who knows bondage and deliverance according to the doctrine.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unbound monk
+  description: A person with no bondage in this world or other realms, needing no
+    support or standing place, and having quitted the path of births.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: knower of bondage and deliverance
+  assigned_to:
+  - fig:1
+  basis: The passage says he knows bondage and deliverance according to the doctrine.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Maker of the end
+  assigned_to:
+  - fig:1
+  basis: The sage is explicitly called “Maker of the end.”
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: unbound one
+  assigned_to:
+  - fig:2
+  basis: The passage says there is no bondage for him in this world or in other realms.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: one who has left the path of births
+  assigned_to:
+  - fig:2
+  basis: The passage says he has quitted the path of births.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: bondage and deliverance
+  literal_form: bondage and deliverance
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: path of births
+  literal_form: path of births
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: worlds or realms
+  literal_form: this world and the two other realms glossed as heaven and hell
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Doctrinal definition of the sage
+  summary: The passage defines the sage called “Maker of the end” as one who knows
+    bondage and deliverance according to the declared doctrine.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Description of release from bondage and birth
+  summary: The passage describes a person for whom bondage no longer exists in this
+    world or in other realms, who needs no support or standing place, and who has
+    left the path of births.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: knowledge of bondage and deliverance
+  taxonomy_refs:
+  - wisdom
+  basis: The sage’s defining attribute is knowing bondage and deliverance according
+    to doctrine.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage is doctrinal rather
+    than narrative.
+- id: motif:2
+  label: release from bondage across realms
+  taxonomy_refs: []
+  basis: The passage describes a person for whom no bondage exists in this world or
+    in other realms.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No specific comparative taxonomy reference is explicit in the supplied
+    list.
+- id: motif:3
+  label: exit from the path of births
+  taxonomy_refs: []
+  basis: The passage states that the unbound person has quitted the path of births.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is expressed as a doctrinal image of liberation; no further narrative
+    sequence is given.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10579-10581
+  quote_or_summary: "“he who ... knows bondage and deliverance: that sage is called
+    ‘Maker of the end’”"
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 10583-10587
+  quote_or_summary: "“there is no bondage ... in this world ... heaven and hell ...
+    no support and no standing place; he has quitted the path of births.”"
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 10589-10596
+  quote_or_summary: The passage marks the end of the Sixteenth Lecture, called the
+    Liberation, the end of the Second Book, and the end of the Akaranga Sutra before
+    the Kalpa Sutra heading.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The doctrinal claims are explicit, but motif-family assignments are limited
+    because the passage is brief and non-narrative. No comparison claims were made
+    because the passage itself does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata. OCR or transliteration irregularities in the surrounding title material were not treated as motif evidence.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:jain-jaina-sutras-sbe22-jacobi-archive__l10577-l10604
+  passage_sha256=cb1546f23ba660dd6cb94d31f11aa342fe2a25d14a41825f52b3a1efa8f18b41
+

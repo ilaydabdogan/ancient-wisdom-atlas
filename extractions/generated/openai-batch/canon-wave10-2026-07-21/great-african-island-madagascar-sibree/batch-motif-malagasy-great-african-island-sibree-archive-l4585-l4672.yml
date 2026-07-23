@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l4585-l4672
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: LIANAS.  79 / SPINY  AND  PRICKLY  PLANTS.  83 / RICE-CULTURE.  87 / THE  TRAVELLER'S  JREE.  91;
+    lines 4585-4672
+  start: '4585'
+  end: '4672'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes fruits and banana uses in Madagascar, then gives
+    a botanical and travel account of the traveller''s tree: its distinctive fan-shaped
+    leaves, habitats, trunk, fruit and seeds, and the potable water obtained from
+    its leaf-stalks during coastal travel.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bananas are described as plentiful, with large coastal trees and several uses,
+    including cloth fibre, cattle food from succulent stems, and fire-extinguishing
+    use because the stems contain much water.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The traveller's tree is presented as a striking and characteristic tree of
+    Madagascar, plentiful in the island and especially associated with maritime plains
+    and lower forest slopes.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The traveller's tree has broad, light-green, banana-like leaves arranged at
+    the top of the trunk in the shape of a fan.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The leaves are reported as about twenty to thirty in number, eight to ten
+    feet long, and about a foot and a half broad.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'The trunk height varies by situation: shorter on coast plains with room to
+    grow, and much taller in forest competition for light and air.'
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In the Taimoro country, fruit was observed on almost every tree in clusters
+    of sheaths resembling the horns of a short-horned ox.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The ripe seed-pods open into divided parts containing rows of bean-sized seeds,
+    each wrapped in a light-blue, silk-like covering with scalloped edges.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: During coastal travel, the travelling party tested reports that water could
+    be obtained from the traveller's tree because no good water was nearby except
+    stagnant lagoon water.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Piercing the lower part of a leaf-stalk with a spear or pointed stick made
+    a small stream of cool sweet water spurt out.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Forcibly drawing down a leaf-stalk caused water to gush out in enough quantity
+    to fill a large cup.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: A section of the stalk showed a hollow channel running down the inner side,
+    interpreted in the passage as conducting water condensed from the atmosphere by
+    the leaf surface.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: narrator and travelling party
+  description: The first-person travelling party that observes the tree and tests
+    whether water can be obtained from it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: travellers and observers
+  assigned_to:
+  - fig:1
+  basis: The passage uses first-person travel language and reports testing accounts
+    of water from the tree during coastal travel.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: traveller's tree
+  literal_form: Urania speciosa, a Madagascar tree with fan-shaped banana-like leaves
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: water held in leaf-stalks
+  literal_form: cool sweet water released from the lower leaf-stalks of the traveller's
+    tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: fire extinguished by water-rich stems
+  literal_form: fires put out using green succulent banana stems containing much water
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: blue silk-like seed covering
+  literal_form: light-blue silk-like covering around each seed, with scalloped edges
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Madagascar fruit and banana uses
+  summary: The passage lists cultivated and wild fruits, highlights abundant bananas,
+    and notes practical uses of banana fibre and water-rich stems.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Traveller's tree in the landscape
+  summary: The traveller's tree is identified as a distinctive Madagascar tree of
+    maritime plains and lower forest slopes, with a fan-like crown of broad leaves.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Fruit and seeds observed in Taimoro country
+  summary: The narrator describes fruit clusters, horn-like sheaths, woody yellow
+    seed-pods, rows of seeds, and blue silk-like seed coverings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Water obtained from the traveller's tree
+  summary: On the coast, where good water was unavailable, the travelling party pierces
+    or pulls down leaf-stalks of the traveller's tree and obtains drinkable water.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: water-bearing tree aiding travellers
+  taxonomy_refs: []
+  basis: The passage reports that travellers without nearby good water could pierce
+    or pull down leaf-stalks of the traveller's tree to obtain cool sweet water.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage is a botanical and travel narrative, not a mythic or ritual
+    account; no sacred status is stated.
+- id: motif:2
+  label: hidden water released by piercing a plant
+  taxonomy_refs: []
+  basis: The text describes water concealed in the clasped lower leaf-stalks and released
+    by piercing with a spear or pointed stick.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: This is extracted as a recurring narrative pattern only; the passage explains
+    it materially as plant structure and condensation, not as a supernatural event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4585-4601
+  quote_or_summary: Fruits are listed; bananas are plentiful, and banana fibre, stems
+    for cattle food, and water-rich stems for putting out fires are described.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4602-4608
+  quote_or_summary: The traveller's tree is described as the most striking and characteristic
+    tree of Madagascar, plentiful on maritime plains and lower forest slopes.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4609-4623
+  quote_or_summary: The tree has a crown of broad light-green banana-like leaves arranged
+    as a fan at the top of the trunk; the leaves are numerous and large.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4624-4637
+  quote_or_summary: The trunk height and form vary between coast plains and forest;
+    the trunk is soft and spongy, and the tree grows from sea-level to about 2000
+    feet but not on higher plateaux.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4638-4655
+  quote_or_summary: In the Taimoro country, fruit clusters and horn-like sheaths are
+    described, along with yellow woody seed-pods, rows of seeds, and light-blue silk-like
+    seed coverings.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 4656-4663
+  quote_or_summary: While proceeding along the coast, the narrator tests accounts
+    of water from the traveller's tree because no good water is available for several
+    miles except stagnant lagoon water.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 4663-4670
+  quote_or_summary: Piercing a lower leaf-stalk makes water spurt out; pulling a leaf-stalk
+    down makes water gush out, enough to fill a large cup.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 4670-4672
+  quote_or_summary: A hollow channel in the stalk is described as conducting water
+    condensed from the atmosphere by the large cool leaf surface.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal botanical and travel details are explicit. Motif extraction is limited
+    because the passage does not present a mythic, ritual, or comparative interpretation.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only supplied passage and metadata. Taxonomy references are limited to explicit literal symbols present in the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l4585-l4672
+  passage_sha256=20d03e107c4cf2743f4ad6141e5c89d9442c870acc8cfb3fb586cb9c81f501ae
+

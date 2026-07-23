@@ -1,0 +1,373 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l4998-l5040
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  TIIE  YNC'AS. / CHAPTER  IV. / SIXTH  BOOK  OP  THE  ROYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 4998-5040
+  start: '4998'
+  end: '5040'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Inca building practices, including adobe bricks
+    of clay and straw, and explains that fire-damaged walls were not reused because
+    they were believed to be weakened. It then describes royal mortuary customs: when
+    a reigning king died, his sleeping room, with gold and silver ornaments, was closed
+    and treated as sacred; this was done in every palace where he had slept. A new
+    chamber was prepared for the succeeding Ynca, and the deceased king’s vessels,
+    utensils, jewels, clothes, and other palace possessions were buried with him.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kings Yneas went to a building to witness principal festivals held in a large
+    quadrangle or court in front of it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Many beautiful edifices in the valley were burned during the general insurrection.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Walls were built with cut masonry and with sun-dried bricks called adobes,
+    made from clay mixed with straw and formed in moulds.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The adobes were dried in the sun, stored under a roof until fully dry, and
+    laid with clay mixed with straw instead of mortar.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When grand edifices were destroyed by fire, the builders did not rebuild on
+    the burnt walls because they said the burnt straw made the walls weak and unable
+    to support a roof.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After a reigning king died, the room where he had slept was closed with its
+    gold and silver ornaments inside.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The closed sleeping room of the deceased king was regarded as a sacred place
+    that no one was to enter again.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The same closing practice was applied in every palace where the king had spent
+    a night, even during a journey.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A new sleeping chamber was prepared for the succeeding Ynca and built carefully
+    to be equal to the closed room.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Gold and silver vases, jars, basins, kitchen service, jewels, clothes, and
+    other palace possessions used by the king were buried with him.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Kings Yneas
+  description: Kings who went to the building to witness the principal festivals.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: deceased reigning king
+  description: A reigning king whose sleeping rooms and possessions were treated in
+    prescribed ways after his death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: succeeding Ynca
+  description: The successor for whom a new sleeping chamber was prepared.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: unnamed builders and custodians
+  description: The unnamed group described as making adobes, avoiding rebuilding on
+    burnt walls, closing royal rooms, preparing a new chamber, and burying the king’s
+    possessions.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: royal festival attendee
+  assigned_to:
+  - fig:1
+  basis: The kings went to the building to witness principal festivals held in the
+    quadrangle or court.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceased sacred ruler
+  assigned_to:
+  - fig:2
+  basis: After the king died, his sleeping room was closed and treated as sacred,
+    and his possessions were buried with him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: royal successor
+  assigned_to:
+  - fig:3
+  basis: A new chamber was prepared for the succeeding Ynca.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: builders
+  assigned_to:
+  - fig:4
+  basis: The group made adobes and avoided rebuilding on burnt walls after fire damage.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: royal mortuary custodians
+  assigned_to:
+  - fig:4
+  basis: The group closed the deceased king’s sleeping rooms, prepared a chamber for
+    the successor, and buried royal possessions with the dead king.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire-damaged walls
+  literal_form: fire burning edifices and the straw within adobe walls
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: adobe brick
+  literal_form: sun-dried clay-and-straw brick used for walls
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: closed royal sleeping chamber
+  literal_form: the deceased king’s room, closed with gold and silver ornaments and
+    treated as sacred
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: royal grave goods
+  literal_form: gold and silver vases, jars, basins, kitchen service, jewels, clothes,
+    and other possessions buried with the king
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: successor’s new chamber
+  literal_form: a newly prepared sleeping chamber for the succeeding Ynca, built to
+    equal the closed room
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Royal festival court and burned edifices
+  summary: Kings attended principal festivals in a large court before a building,
+    and other edifices in the valley were burned during the insurrection.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Making and laying adobes
+  summary: Builders made clay-and-straw adobes in moulds, dried them in the sun, stored
+    them under a roof, and laid them with clay-and-straw material instead of mortar.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Avoidance of burnt walls
+  summary: After fire destroyed grand edifices, the builders did not rebuild on the
+    burnt walls because they believed the burned straw left the walls too weak to
+    bear a roof.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Sealing the deceased king’s sleeping room
+  summary: When a reigning king died, every room in which he had slept was closed
+    with its gold and silver ornaments and treated as a sacred place not to be entered
+    again.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Successor’s chamber and burial of royal possessions
+  summary: A new chamber was prepared for the succeeding Ynca, and the deceased king’s
+    vessels, kitchen service, jewels, clothes, and other used objects were buried
+    with him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Sealed royal chamber after the ruler’s death
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The deceased king’s sleeping room, including its gold and silver ornaments,
+    was closed and treated as sacred, with no one allowed to enter again.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage describes a royal mortuary custom and sacred royal space;
+    it does not explicitly discuss political legitimation, so the taxonomy link is
+    interpretive.
+- id: motif:2
+  label: Royal possessions buried with the dead king
+  taxonomy_refs: []
+  basis: Objects used by the king, including vessels, kitchen service, jewels, clothes,
+    and other palace goods, were buried with him.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain the intended meaning of the burial goods
+    or connect them to an afterlife journey.
+- id: motif:3
+  label: Successor receives a new chamber matching the closed royal room
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: After the deceased king’s room was closed, a new chamber was carefully built
+    for the succeeding Ynca so that it would be equal to the closed room.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The succession pattern is explicit, but any broader interpretation about
+    legitimating authority should be reviewed.
+- id: motif:4
+  label: Fire-damaged sacred or grand structures not reused
+  taxonomy_refs: []
+  basis: When grand edifices were destroyed by fire, builders avoided rebuilding on
+    the burnt walls because the burned straw was believed to weaken them.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is primarily a practical building rule in the passage, not necessarily
+    a mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4998-5004
+  quote_or_summary: Kings Yneas attended principal festivals in a large quadrangle
+    or court before a building; other beautiful edifices in the valley were burned
+    during the general insurrection.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 5006-5017
+  quote_or_summary: 'The passage describes adobes: sun-dried clay-and-straw bricks
+    made in moulds, dried in the sun, stored under a roof, and laid with clay-and-straw
+    material instead of mortar.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 5019-5026
+  quote_or_summary: Grand edifices destroyed by fire were not rebuilt on burnt walls
+    because the builders said the fire had burned the straw in the adobes, leaving
+    the walls weak and unable to support the roof.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 5026-5032
+  quote_or_summary: When a reigning king died, the room where he had slept was closed
+    with its gold and silver ornaments; it was regarded as sacred and not to be entered
+    again, and this was done in all palaces where he had spent a night.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 5032-5040
+  quote_or_summary: A new chamber was prepared for the succeeding Ynca, and the deceased
+    king’s used gold and silver vessels, jars, basins, kitchen service, jewels, clothes,
+    and other palace goods were buried with him.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward. Motif labels around royal legitimacy
+    and sacred royal space are plausible but require human review because the passage
+    itself gives custom rather than explicit interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage does not itself compare the customs to another tradition or motif family beyond the available taxonomy-style candidate motifs.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l4998-l5040
+  passage_sha256=9f7b5caeafef6f4e301eba1c1418006885f2c9670fd08802c6649e620853679b
+

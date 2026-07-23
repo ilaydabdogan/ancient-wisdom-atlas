@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.korean-korean-folk-tales-gale-archive-l813-l841
+source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+passage_locator:
+  label: THE  STORY  OF  CHANG  TO-RYONG  19 / THE  STORY  OF  CHANG  TO-RYONG  21
+    / THE  STORY  OF  CHANG  TO-RYONG  23 / THE  STORY  OF  CHANG  TO-RYONG  25; lines
+    813-841
+  start: '813'
+  end: '841'
+  translation: Korean Folk Tales - Imps, Ghosts and Fairies
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: After returning to the old world by a path different from the one by which
+    he entered, the master marks the entrance with a stake while the servant withdraws
+    and disappears. The following year the master cannot find the citadel of the genii,
+    encountering only mountain peaks and impassable ravines. In old age he grows younger
+    in spirit and dies peacefully at ninety. He recalls that Chang's face never aged
+    and his dirty clothing never wore out during fifteen years, signs that should
+    have marked him as a strange being.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The master came out to the old world by a path different from the way by which
+    he had entered.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The master planted a stake to mark the entrance.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the stake was planted, the servant withdrew and disappeared.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The following year the master tried to find the citadel of the genii but could
+    not discover where it was.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In the place sought by the master there were only mountain peaks and impassable
+    ravines.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: As years passed, the master seemed to grow younger in spirit and died at ninety
+    without suffering.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The master recalled that Chang's face never grew older during the fifteen
+    years he saw him on earth.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The master recalled that Chang's dirty clothing never wore out or changed
+    in appearance during the same fifteen years.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The master said that Chang's unchanging face and clothing would have marked
+    him as a strange being, though their fleshly eyes did not recognize it.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the master
+  description: A man who returns to the old world, marks an entrance with a stake,
+    later fails to find the citadel of the genii, grows younger in spirit, dies peacefully
+    at ninety, and recalls Chang's peculiarities.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the servant
+  description: A servant who withdraws and disappears after the entrance is marked.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Chang
+  description: A being whom the master saw on earth for fifteen years; his face did
+    not age and his dirty clothing did not wear out or change in appearance.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: the genii
+  description: Beings named through the phrase "citadel of the genii," which the master
+    later tries and fails to find.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: returning visitor who marks an entrance
+  assigned_to:
+  - fig:1
+  basis: The master comes out by a different path and plants a stake to mark the entrance.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: disappearing servant
+  assigned_to:
+  - fig:2
+  basis: The servant withdraws and disappears after the entrance is marked.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ageless strange being
+  assigned_to:
+  - fig:3
+  basis: The master says Chang's face never grew older and his clothing never wore
+    out, signs that would have marked him as a strange being.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: later witness and speaker
+  assigned_to:
+  - fig:1
+  basis: The master later recounts Chang's unchanging face and clothing and comments
+    on their failure to recognize him.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: beings associated with a hidden citadel
+  assigned_to:
+  - fig:4
+  basis: The passage refers to a "citadel of the genii" that the master cannot find
+    again.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: marked entrance
+  literal_form: A stake planted to mark the entrance.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: changed path of return
+  literal_form: The path by which the master came out was not the way by which he
+    had entered.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: mountain barrier
+  literal_form: Mountain peaks and impassable ravines where the citadel is sought.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: citadel of the genii
+  literal_form: The citadel of the genii, sought but not rediscovered by the master.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: unchanging face and clothing
+  literal_form: Chang's face never grows older and his dirty clothing never wears
+    out or changes in appearance.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Return and marking of the entrance
+  summary: The master returns to the old world by a different path, plants a stake
+    to mark the entrance, and the servant withdraws and disappears.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Failed search for the citadel
+  summary: The following year the master tries to find the citadel of the genii but
+    finds only mountain peaks and impassable ravines and cannot discover the place.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Old age and recognition of Chang's signs
+  summary: As years pass, the master grows younger in spirit and dies peacefully at
+    ninety; he recalls that Chang's face and clothing remained unchanged for fifteen
+    years and says this should have marked Chang as a strange being.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Unrecoverable entrance to a hidden otherworldly place
+  taxonomy_refs:
+  - return
+  - mystical_quest
+  basis: The master exits by a different path, marks the entrance with a stake, but
+    the next year cannot find the citadel of the genii and sees only mountain peaks
+    and impassable ravines.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is an ending excerpt; the nature of the citadel and the earlier
+    entry are not fully described here.
+- id: motif:2
+  label: Ageless stranger recognized too late
+  taxonomy_refs: []
+  basis: The master later recognizes Chang's unaging face and unworn clothing as signs
+    that would have marked him as a strange being.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives the signs of strangeness but does not explain Chang's
+    precise nature.
+- id: motif:3
+  label: Renewed spirit and peaceful death after extraordinary encounter
+  taxonomy_refs: []
+  basis: After the encounter sequence, the master seems to grow younger in spirit
+    and dies at ninety without suffering.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The causal connection between the prior encounter and the master's later
+    condition is implied by sequence only, not explicitly stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 813-818
+  quote_or_summary: The master returns to the old world by a different path, plants
+    a stake to mark the entrance, and the servant withdraws and disappears.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 819-823
+  quote_or_summary: The following year the master tries to find the citadel of the
+    genii but finds only mountain peaks and impassable ravines and never discovers
+    it.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 824-827
+  quote_or_summary: As years pass the master seems to grow younger in spirit and eventually
+    dies at ninety without suffering.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 827-839
+  quote_or_summary: The master says he saw Chang on earth for fifteen years and recalls
+    that Chang's face never grew older and his dirty clothing never wore out or changed;
+    he says this would have marked Chang as a strange being, though they did not recognize
+    it.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based on clear events and speech in the provided passage.
+    Motif labels are provisional because the excerpt contains only the end of the
+    tale. No comparison claims were made because the passage itself does not explicitly
+    compare this material with another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Uses only the provided public-domain passage and metadata. Taxonomy references are limited to supplied available refs where directly supportable.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-folk-tales-gale-archive__l813-l841
+  passage_sha256=478d214eff30cbb6e630b4dad554b0772a9a2aa9fd5390a3d54e5cf47e99a5de
+

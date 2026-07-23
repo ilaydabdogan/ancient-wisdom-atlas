@@ -1,0 +1,169 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l2972-l2982
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE  ORIGIN  OF  A  NEW  BAND.  49 / II.  HOW  THE  PEOPLE  GOT  THE  CROW-LANCE.'
+    / THE  ORIGIN  OF  THE  PIPE-STICK  CEREMONY.  53 / THE  GIRL  WHO  MARRIED  A  STAR.  57;
+    lines 2972-2982
+  start: '2972'
+  end: '2982'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: He dreamed that he saw a woman. The woman spoke to him...
+  summary: A man returns home, lies down at night, and dreams of a woman who speaks
+    to him. A note identifies the tale as concerning the origin of one of the bundles
+    and as emphasizing economy and reverence toward corn.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An unnamed male figure goes home, lies down at night, and has a dream.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the dream, he sees a woman.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The woman speaks to him and begins by saying that she stays where the crying
+    occurs; the speech is incomplete in the supplied passage.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The accompanying note says the tale relates to the origin of one of the bundles.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The accompanying note says the tale was told to emphasize economy in corn
+    and to instill reverential feeling toward corn.
+  category: other
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: unnamed man
+  description: A male figure who returns home, lies down at night, and dreams.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: woman in dream
+  description: A woman seen by the unnamed man in a dream; she speaks to him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: dreamer
+  assigned_to:
+  - fig:1
+  basis: The passage says he lay down at night and had a dream.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dream speaker
+  assigned_to:
+  - fig:2
+  basis: The passage says the woman appeared in the dream and spoke to him.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: corn
+  literal_form: corn
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: bundle
+  literal_form: one of the bundles
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: night dream of the speaking woman
+  summary: After returning home and lying down at night, the unnamed man dreams of
+    a woman who speaks to him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: dream encounter with a speaking woman
+  taxonomy_refs: []
+  basis: The narrative fragment reports that the man dreams of seeing a woman and
+    that she speaks to him.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The supplied passage cuts off during the woman’s speech, so the content
+    and function of the message are incomplete.
+- id: motif:2
+  label: origin of a ritual bundle
+  taxonomy_refs: []
+  basis: The note explicitly states that the tale relates to the origin of one of
+    the bundles.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not include the narrative details explaining the bundle’s
+    origin.
+- id: motif:3
+  label: reverence and economy toward corn
+  taxonomy_refs: []
+  basis: The note states that the tale was told to emphasize economy in corn and reverential
+    feeling toward corn.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is stated in the note rather than shown in the short narrative excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2972-2975
+  quote_or_summary: He went home, lay down at night, dreamed that he saw a woman,
+    and the woman spoke to him.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; full text allowed by metadata.
+- id: ev:2
+  type: summary
+  locator: lines 2976-2982
+  quote_or_summary: The note attributes the tale to Pretty-Crow and says it concerns
+    the origin of one of the bundles, emphasizing economy in corn and reverence toward
+    corn.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain; full text allowed by metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited by the fragmentary passage, which begins mid-context
+    and ends during quoted speech. Footnote information is clear but not part of the
+    narrative action.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l2972-l2982
+  passage_sha256=63b1749f2174e9c9f3924a3940ca5893649d441a9a81a30560aef351ed5f5bfe
+

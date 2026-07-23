@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l1605-l1637
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / CHAPTER  X. / FIFTH  BOOK  OF  THE  ROYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 1605-1637
+  start: '1605'
+  end: '1637'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes birds kept outside Cuzco for breeding, an estate
+    named Suri-hualla or “the plain of ostriches,” fierce animals kept for court splendour
+    and for punishing criminals, and the author’s use of Father Blas Valera’s papers
+    to corroborate statements about Inca customs, laws, and administration.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Birds were kept outside the city so they could breed more conveniently.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An estate about a league south of Cuzco was called Suri-hualla, glossed as
+    “the plain of ostriches.”
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Fierce animals, including tigers, lions, serpents, toads, and lizards, were
+    kept for court splendour and for punishing criminals.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The narrator says the preceding material concerns tribute paid to the King’s
+    Yncas and how it was used.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The narrator says he is copying from papers in Father Blas Valera’s handwriting
+    to show agreement with his own account of customs, laws, and administration.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: birds
+  description: Birds kept outside the city for breeding.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: ostriches
+  description: Birds associated with the place-name Suri-hualla, glossed as “the plain
+    of ostriches.”
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: fierce animals
+  description: Tigers, lions, serpents, toads, and lizards kept for court splendour
+    and punishment of criminals.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: criminals
+  description: Persons who could be punished by means of fierce animals.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: King’s Yncas
+  description: Recipients of tribute discussed by the narrator.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Father Blas Valera
+  description: A learned father whose papers are cited and copied by the narrator.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: narrator
+  description: The speaker who says he has taken the following material from Father
+    Blas Valera’s papers.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: kept breeding animals
+  assigned_to:
+  - fig:1
+  basis: The passage states that birds were kept outside the city so they could breed
+    conveniently.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: punitive court animals
+  assigned_to:
+  - fig:3
+  basis: The passage states that fierce animals were kept for court splendour and
+    to punish criminals.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: punished delinquents
+  assigned_to:
+  - fig:4
+  basis: The passage identifies criminals as those punished by fierce animals.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: tribute recipients
+  assigned_to:
+  - fig:5
+  basis: The passage refers to tribute paid to the King’s Yncas.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: cited written authority
+  assigned_to:
+  - fig:6
+  basis: The narrator cites papers in Father Blas Valera’s handwriting as corroborating
+    evidence.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: compiler and corroborator
+  assigned_to:
+  - fig:7
+  basis: The narrator says he has taken material from Valera’s papers to support his
+    own account.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: Serpents are listed among fierce animals kept for court splendour
+    and for punishing criminals.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: fierce animals as instruments of punishment
+  literal_form: Tigers, lions, serpents, toads, and lizards kept to punish criminals.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: plain of ostriches
+  literal_form: Suri-hualla, glossed as “the plain of ostriches,” an estate south
+    of Cuzco.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Animal keeping around Cuzco
+  summary: Birds are described as being kept outside Cuzco for breeding, and a nearby
+    estate is associated with ostriches in its name.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Fierce animals for court display and punishment
+  summary: Fierce animals are described as serving both the splendour of the court
+    and the punishment of criminals.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Citation of Valera’s papers
+  summary: The narrator transitions from a discussion of tribute to copying Father
+    Blas Valera’s papers in order to corroborate statements about customs, laws, and
+    administration.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Royal court animals used for display and punishment
+  taxonomy_refs: []
+  basis: The passage states that fierce animals were kept both for court splendour
+    and to punish criminals.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an administrative and punitive pattern in the passage, not a developed
+    mythic episode.
+- id: motif:2
+  label: Royal tribute and administration
+  taxonomy_refs: []
+  basis: The narrator frames the material as concerning tribute paid to the King’s
+    Yncas and its use, and connects it with customs, laws, and administration.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The passage does not explicitly present a mythic royal-legitimacy motif;
+    it only discusses tribute and administrative corroboration.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1609-1611
+  quote_or_summary: "“The birds, that they might breed more conveniently, were kept
+    outside the city.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 1611-1617
+  quote_or_summary: "“an estate about a league to the south of Cuzco, is called Suri-hualla,
+    or ‘the plain of ostriches.’”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 1618-1624
+  quote_or_summary: "“The fierce animals, such as tigers, lions, serpents, toads,
+    and lizards ... were kept to punish criminals” and also set apart for “the splendour
+    of the court.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 1625-1628
+  quote_or_summary: The narrator says this concludes what is to be said about tribute
+    paid to the King’s Yncas and the way it was used.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1628-1637
+  quote_or_summary: The narrator says he takes the following from papers in Father
+    Blas Valera’s handwriting to show agreement with his account of customs, laws,
+    and administration, and to corroborate its truth.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but the passage is chiefly administrative
+    and historiographical rather than mythic. Motif candidates are therefore cautious
+    and low-confidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another tradition or motif family.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l1605-l1637
+  passage_sha256=276b5cb14ea34ba5a56b528ccf61584590a7f7a37ac26de889685d28bb3aa226
+

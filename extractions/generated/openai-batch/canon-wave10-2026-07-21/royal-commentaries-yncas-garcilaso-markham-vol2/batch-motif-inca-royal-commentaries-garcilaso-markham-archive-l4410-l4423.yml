@@ -1,0 +1,175 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l4410-l4423
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: FIFTH  BOOK  OF  THE  BOYAL / COMMENTARIES  OF  THE  YNCAS. / FIFTH  BOOK  OF  THE  BOYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 4410-4423
+  start: '4410'
+  end: '4423'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“The proper way is to bring children up by a middle course”"
+  summary: The passage states that excessive fear weakens a child's spirit and discourages
+    learning. It recommends raising children by a middle course so they become courageous
+    in war and wise in peace. The narrator says Father Blas Valera concludes the life
+    of the Ynca Uira-ccoccha with this saying.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Fear is described as weakening the spirit and causing a child to lose hope
+    of learning and hate instruction.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: People made to fear everything are said to lack courage for deeds worthy of
+    men.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Children are recommended to be raised by a middle course.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The desired outcome of upbringing is strength and courage in war, and wisdom
+    and judiciousness in peace.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Father Blas Valera is said to conclude the life of the Ynca Uira-ccoccha with
+    this saying.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: children
+  description: Children discussed as recipients of instruction and upbringing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Father Blas Valera
+  description: Named as the person who concludes the life of the Ynca Uira-ccoccha
+    with the saying.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Ynca Uira-ccoccha
+  description: Named as the Ynca whose life is being concluded.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: children receiving upbringing and instruction
+  assigned_to:
+  - fig:1
+  basis: The passage discusses how children should be brought up and how fear affects
+    their learning.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: concluding authority or cited chronicler
+  assigned_to:
+  - fig:2
+  basis: Father Blas Valera is explicitly said to conclude the life of the Ynca with
+    the saying.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: subject of life account
+  assigned_to:
+  - fig:3
+  basis: The passage calls Uira-ccoccha the Ynca whose life is concluded.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Instruction on balanced upbringing
+  summary: The passage contrasts upbringing by fear with a middle course of education
+    intended to produce courage in war and wisdom in peace.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Conclusion of Uira-ccoccha's life account
+  summary: Father Blas Valera is described as ending the life account of the Ynca
+    Uira-ccoccha with the preceding saying.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: balanced instruction producing courage and wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents a didactic teaching that proper upbringing avoids excessive
+    fear and aims to form courage for war and wisdom for peace.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethical or educational maxim rather than a clearly mythic narrative
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4410-4416
+  quote_or_summary: Excessive fear is said to weaken the spirit, make a child lose
+    hope of learning, hate instruction, and lack courage for worthy deeds.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: 4416-4421
+  quote_or_summary: "“The proper way is to bring children up by a middle course,”
+    so that they become “strong and courageous in war” and “wise and judicious in
+    peace.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 4421-4423
+  quote_or_summary: Father Blas Valera is said to conclude the life of the Ynca Uira-ccoccha
+    with this saying.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal content is clear, but the passage is primarily didactic and biographical,
+    with limited mythic-symbolic material.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No symbols or comparison claims were extracted because the passage does not provide explicit symbolic objects or comparative framing.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l4410-l4423
+  passage_sha256=a72eeeb1b9832542c797868ddd44c1385d4a17d9a1c238371973591d939dbc33
+

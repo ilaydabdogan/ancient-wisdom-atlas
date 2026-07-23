@@ -1,0 +1,452 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l20888-l20900
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 349 / TEIT, THE THOMPSON
+    INDIANS OF BRITISH COLUMBIA. 351 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA.
+    353 / TEIT, THE THOMPSON INDIANS OF BRITISH COLUMBIA. 355; lines 20888-20900
+  start: '20888'
+  end: '20900'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes beliefs about ghosts interacting with living people:
+    ghosts may consume a living person''s food, drink, or tobacco smoke and take away
+    the person''s soul; pipe-smoking can make a ghost disappear; people without guardian
+    spirits may swoon at seeing ghosts; ghosts may pursue, throw stones or bones,
+    haunt camps, trouble dreams, or be inferred from sudden fear or depression. It
+    also states that suicide souls do not go to the land of souls, according to shamans.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ghosts are believed sometimes to eat or drink a living person's food and smoke
+    the person's tobacco.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When ghosts leave after consuming food, drink, or tobacco smoke, they are
+    said to take the living person's soul away.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: If a man sees a ghost and begins smoking his pipe, the ghost disappears at
+    once.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Persons without a guardian spirit swoon if they see a ghost approaching.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: If a man runs from a ghost, the ghost runs after him and may throw stones
+    or bones at him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: If someone unknowingly camps or sleeps near ghost haunts, ghosts may throw
+    stones or bones at him or trouble his dreams.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A sudden depression or fear in a cheerful and brave person is explained as
+    the possible nearness of an unseen spirit or ghost.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The souls of people who commit suicide are said not to go to the land of souls.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Shamans declare that they never saw suicide souls in the land of souls.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: ghosts
+  description: Dead or unseen spirits described as consuming food, drink, and tobacco
+    smoke, taking souls, disappearing before pipe-smoking, pursuing people, throwing
+    stones or bones, and troubling dreams.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: living person or man
+  description: A living person whose food, drink, tobacco, soul, pipe-smoking, fear,
+    camping, sleeping, or flight may bring him into relation with ghosts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: persons without guardian spirits
+  description: People said to swoon if they see a ghost approaching.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: guardian spirit
+  description: A protective spirit whose absence is associated with swooning at the
+    approach of a ghost.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: shamans
+  description: Authorities who declare that they never saw suicide souls in the land
+    of souls.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: souls of people who commit suicide
+  description: Souls said not to go to the land of souls and not seen there by shamans.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: soul-taking ghost
+  assigned_to:
+  - fig:1
+  basis: Ghosts consume a living person's food, drink, or tobacco smoke and take the
+    person's soul away when leaving.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: haunting pursuer or attacker
+  assigned_to:
+  - fig:1
+  basis: Ghosts may pursue a fleeing man, throw stones or bones, haunt camps, and
+    trouble dreams.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: living human exposed to ghosts
+  assigned_to:
+  - fig:2
+  basis: The living person may have food or tobacco consumed, lose a soul, smoke a
+    pipe, run from ghosts, or camp near their haunts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:4
+  label: unprotected witness
+  assigned_to:
+  - fig:3
+  basis: Persons without a guardian spirit swoon when seeing a ghost approach.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: protective guardian presence
+  assigned_to:
+  - fig:4
+  basis: The passage links lack of a guardian spirit with swooning at the sight of
+    an approaching ghost.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: afterlife witness
+  assigned_to:
+  - fig:5
+  basis: Shamans state that they have not seen suicide souls in the land of souls.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: excluded dead
+  assigned_to:
+  - fig:6
+  basis: Suicide souls are said not to go to the land of souls.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: food and drink of a living person
+  literal_form: Food and drink belonging to a living person, consumed by ghosts.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tobacco smoke
+  literal_form: Tobacco smoke consumed by ghosts from a living person.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: pipe
+  literal_form: A pipe taken out and smoked by a man after seeing a ghost.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: soul
+  literal_form: The living person's soul, taken away by ghosts; and suicide souls
+    excluded from the land of souls.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:5
+  label: stones and bones
+  literal_form: Objects thrown by ghosts at people who flee or camp near ghost haunts.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: ghost haunts
+  literal_form: Places near which a person may unknowingly camp or sleep and be attacked
+    or troubled by ghosts.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: land of souls
+  literal_form: Afterlife location from which the souls of people who commit suicide
+    are said to be absent.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Ghosts consume living food and take soul
+  summary: Ghosts are said to consume a living person's food, drink, or tobacco smoke
+    and then take that person's soul away when leaving.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pipe-smoking dispels ghost
+  summary: A man who sees a ghost takes out his pipe and begins smoking, after which
+    the ghost disappears immediately.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Unprotected person swoons before ghost
+  summary: A person without a guardian spirit swoons if a ghost is seen approaching.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Ghost pursuit and haunting attacks
+  summary: Ghosts may chase a fleeing man, throw stones or bones, attack those camping
+    or sleeping near their haunts, and trouble dreams.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Unseen ghost inferred from fear
+  summary: Sudden depression or fear in a normally cheerful and brave person is interpreted
+    as possible nearness of an unseen spirit or ghost.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Suicide souls absent from land of souls
+  summary: The souls of people who commit suicide are said not to go to the land of
+    souls, and shamans report not seeing them there.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Ghost consumes substance and removes soul
+  taxonomy_refs: []
+  basis: The passage states that ghosts may eat, drink, or smoke what belongs to a
+    living person and take the person's soul away when departing.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not describe the mechanism of soul removal beyond the
+    ghost's departure.
+- id: motif:2
+  label: Ritualized smoking as ghost-repellent action
+  taxonomy_refs: []
+  basis: The passage says a ghost disappears immediately when a man who sees it takes
+    out his pipe and begins to smoke.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain whether the pipe, tobacco, smoke, or act
+    of smoking is the decisive element.
+- id: motif:3
+  label: Guardian spirit protects against ghost encounter
+  taxonomy_refs: []
+  basis: The passage says persons without a guardian spirit swoon when they see a
+    ghost approaching.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Protection is inferred from the stated consequence of lacking a guardian
+    spirit; no direct protective act is described.
+- id: motif:4
+  label: Ghosts punish flight or trespass near haunts
+  taxonomy_refs: []
+  basis: Ghosts may chase a fleeing man, throw stones or bones, and harm or disturb
+    people who camp or sleep near their haunts.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents these as sometimes occurring, not as fixed narrative
+    episodes.
+- id: motif:5
+  label: Afterlife exclusion of suicide souls
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage distinguishes the land of souls as a postmortem destination and
+    states that souls of people who commit suicide do not go there, with shamans reporting
+    they have not seen them there.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives only a negative afterlife destination statement and
+    does not map where suicide souls go.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 20888-20889
+  quote_or_summary: "“ghosts will eat or drink of the food, and smoke of the tobacco,
+    of a living person” and “take his soul away.”"
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 20891-20892
+  quote_or_summary: "“If a man, on seeing a ghost, takes out his pipe and begins to
+    smoke, the ghost at once disappears.”"
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 20892-20893
+  quote_or_summary: "“Persons who have no guardian spirit swoon if they see a ghost
+    approaching.”"
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 20893-20894
+  quote_or_summary: "“If a man runs from a ghost, the latter will run after him, and
+    may throw stones or bones at him.”"
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 20894-20896
+  quote_or_summary: A person who unknowingly camps or sleeps near ghost haunts may
+    have stones or bones thrown at him or have his dreams troubled.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 20896-20897
+  quote_or_summary: "“An unseen spirit or ghost may be near him.”"
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: summary
+  locator: lines 20899-20900
+  quote_or_summary: The souls of people who commit suicide do not go to the land of
+    souls; shamans say they never saw such people there.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal beliefs and actions are explicit in the supplied passage. Motif labels
+    are descriptive and should be reviewed, especially the taxonomy assignment to
+    afterlife_journey_map because the passage only states exclusion from the land
+    of souls.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison beyond the supplied taxonomy-style motif candidate.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l20888-l20900
+  passage_sha256=fb0a9ac77807e38967586d941ca1e7d40ac6db4c3ee800659af4db3a794d42b0
+

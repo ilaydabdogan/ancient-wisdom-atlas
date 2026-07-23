@@ -1,0 +1,223 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l7253-l7273
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / SIXTH  BOOK  OF  THE  ROYAL / CHAPTER  XXII.
+    / OP  THE  OMENS  TN  THEIR  SACRIFICES,  AND  THE  FIRES  FOR  THEM.; lines 7253-7273
+  start: '7253'
+  end: '7273'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: If the lungs were palpitating... the augury was looked upon as most fortunate.
+  summary: 'The passage describes sacrificial omen reading: palpitating lungs were
+    considered a highly fortunate sign, inflated entrails and full veins or arteries
+    were also read as good omens, and the narrator says he saw these methods practiced
+    in childhood by old unbaptised Indians during a special-purpose sacrifice.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Palpitating lungs, or lungs considered not to have ceased living, were treated
+    as a very fortunate augury.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When this favorable lung omen appeared, contrary signs were disregarded because
+    the lucky omen was said to overcome them.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The entrails were taken, air was blown into them, and the opening was fastened
+    or held shut by hand.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Observers watched how the air entered and distended the veins and arteries.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Veins and arteries very full of air were considered a good omen.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The narrator says he saw these two methods practiced twice when he was a child.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The narrator describes entering a yard where old unbaptised Indians were performing
+    a sacrifice for a special purpose in order to watch omens.
+  category: setting
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: sacrificial omen practitioners
+  description: Unnamed persons described as taking entrails, blowing air into them,
+    and watching the signs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: old unbaptised Indians
+  description: A group seen by the narrator in a yard performing a special-purpose
+    sacrifice and watching omens.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: child narrator
+  description: The narrator recalls seeing the two omen-reading methods on two occasions
+    when he was a child.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: sacrificial omen reader
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes these people performing sacrifice-related actions and
+    watching physical signs as omens.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: eyewitness narrator
+  assigned_to:
+  - fig:3
+  basis: The narrator states that he remembers having seen the described methods practiced
+    in childhood.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: palpitating lungs as fortunate omen
+  literal_form: lungs still palpitating or considered still living
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: inflated entrails as omen medium
+  literal_form: entrails filled with blown air, with veins and arteries distended
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sacrifice
+  literal_form: special-purpose sacrifice performed to watch omens
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Reading lungs for augury
+  summary: A lung omen is evaluated; palpitating lungs are treated as a most fortunate
+    augury that overrides contrary signs.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Inflating entrails to read signs
+  summary: The practitioners blow air into entrails, close the opening, and observe
+    whether the veins and arteries become very full of air, which is considered a
+    good omen.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Childhood witnessing of a special sacrifice
+  summary: The narrator recalls entering a yard as a child and seeing old unbaptised
+    Indians performing a special-purpose sacrifice in order to watch omens.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: sacrificial omen reading through entrails
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly presents omens sought in connection with sacrifice,
+    including interpretation of palpitating lungs and air-filled entrails, veins,
+    and arteries.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives ritual observations but does not explain the theological
+    or mythic rationale for the omens.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7253-7258
+  quote_or_summary: Palpitating lungs, or lungs that had not ceased to live, are called
+    a most fortunate augury; this sign overcomes contrary signs.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; brief summary/quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 7258-7265
+  quote_or_summary: The entrails are filled with blown air, closed or held tight,
+    and the observers watch whether veins and arteries become very full of air, which
+    is read as a good omen.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; neutral summary used.
+- id: ev:3
+  type: summary
+  locator: lines 7265-7273
+  quote_or_summary: The narrator says he saw these two methods twice as a child, including
+    in a yard where old unbaptised Indians performed a special-purpose sacrifice to
+    watch omens; it was not the abolished Raymi festival.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; neutral summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal ritual details are explicit. Motif labeling is limited to the available
+    broad taxonomy reference for sacrifice; no comparison claims are made because
+    the passage itself does not compare traditions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The chapter heading mentions fires, but the supplied passage excerpt does not describe fire practices; no fire symbol was extracted.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l7253-l7273
+  passage_sha256=4c8f4c2e933aba4012f8bd0749f460c2930b6ea895f43bc36109aa5b7bf05ef4
+

@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l8118-l8154
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: XLII. / KINGUNGU A NJILA AND NGUNDU A NDALA. / XLIII. / MALA KIIADI, MUHETU
+    UMOXI.; lines 8118-8154
+  start: '8118'
+  end: '8154'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: In a dispute over an elephant, Kingungu a Njila and Ngundu a Ndala each
+    claim it. The decision-maker delays judgment, messengers observe that Kingungu
+    cries by the elephant all night while Ngundu cries only briefly, and the decision-maker
+    declares Kingungu right and Ngundu wrong.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker postpones deciding the case until the next day, saying his wife
+    is not present, and the parties separate at sunset.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kingungu a Njila and Ngundu a Ndala each claim the same elephant as his own.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ngundu a Ndala cries for one hour and then leaves.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Kingungu a Njila remains there crying through the night until dawn.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:5
+  text: The next morning, both men are called to plead; Kingungu repeats his prior
+    plea, while the text says Ngundu pleads falsely.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Messengers who stayed overnight report that Kingungu cried all night and Ngundu
+    cried one hour.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: So and So decides that Kingungu a Njila is right and Ngundu a Ndala is wrong,
+    saying the other wanted to take the elephant wrongly.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Kingungu a Njila
+  description: One of the two claimants to the elephant; he cries by it all night
+    and is declared right.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Ngundu a Ndala
+  description: The competing claimant to the elephant; he cries for one hour, is said
+    to plead falsely, and is declared wrong.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: So and So
+  description: The decision-maker who questions the messengers and rules in the case.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: messengers
+  description: The persons who stayed overnight with the two men and report their
+    crying durations.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: wife of the decision-maker
+  description: Absent wife cited as the reason the case is postponed until the next
+    day.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: rightful claimant
+  assigned_to:
+  - fig:1
+  basis: The ruling states that Kingungu a Njila is right.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: false claimant or wrongful taker
+  assigned_to:
+  - fig:2
+  basis: The passage says Ngundu a Ndala pleads falsely and is judged wrong for wanting
+    to take the elephant wrongly.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: adjudicator
+  assigned_to:
+  - fig:3
+  basis: So and So asks the messengers for evidence and decides the case.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: overnight mourner by the elephant
+  assigned_to:
+  - fig:1
+  basis: Kingungu a Njila remains crying through the night until dawn.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: witness messengers
+  assigned_to:
+  - fig:4
+  basis: The messengers stayed overnight and report who cried all night and who cried
+    one hour.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: absent wife
+  assigned_to:
+  - fig:5
+  basis: The decision-maker says the case will be decided tomorrow because his wife
+    is not present.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: contested elephant
+  literal_form: the elephant claimed by both Kingungu a Njila and Ngundu a Ndala
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: observed crying as evidentiary behavior
+  literal_form: Kingungu crying all night until dawn and Ngundu crying one hour
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Case postponed
+  summary: The decision is deferred until the next day because the decision-maker
+    says his wife is absent, and the parties separate at sunset.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rival claims over the elephant
+  summary: Kingungu a Njila goes to the elephant, Ngundu a Ndala comes too, and each
+    cries that the elephant is his.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Nighttime crying observed
+  summary: Ngundu a Ndala cries for one hour and leaves, while Kingungu a Njila keeps
+    crying there through the night until dawn.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Morning inquiry and verdict
+  summary: The men plead again; So and So asks the messengers what happened overnight;
+    the messengers report the crying durations, and So and So rules for Kingungu.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: wise adjudication by observing claimants
+  taxonomy_refs:
+  - wisdom
+  basis: The decision-maker resolves an ownership dispute by asking witnesses about
+    the claimants' conduct overnight, then rules for the claimant who cried all night.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents human adjudication; it does not support divine or
+    supernatural judgment.
+- id: motif:2
+  label: false claimant exposed in a contested possession dispute
+  taxonomy_refs: []
+  basis: Both men claim the elephant, but the text says Ngundu pleads falsely and
+    is judged to have tried to take the elephant wrongly.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: No more specific supplied taxonomy reference is clearly supported.
+- id: motif:3
+  label: attachment proven by prolonged mourning
+  taxonomy_refs: []
+  basis: 'The narrative sequence makes the duration of crying central to the verdict:
+    Kingungu cries all night, while Ngundu cries only one hour.'
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly state the rule of inference; the motif
+    label summarizes the function implied by the verdict sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8118-8127
+  quote_or_summary: A speaker says the case will be decided tomorrow because his wife
+    is not present; the parties separate as the sun goes down.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 8128-8134
+  quote_or_summary: Kingungu a Njila goes to his elephant; Ngundu a Ndala comes too;
+    both claim the elephant as their own.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8134-8139
+  quote_or_summary: Ngundu a Ndala cries for one hour and goes away; Kingungu a Njila
+    remains crying there through the night.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8140-8146
+  quote_or_summary: In the morning, the men are called to plead; Kingungu pleads as
+    before, Ngundu pleads falsely, and So and So asks the messengers who stayed overnight
+    what happened.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 8146-8149
+  quote_or_summary: The messengers say Kingungu a Njila lay all night crying, while
+    Ngundu a Ndala cried one hour.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 8150-8154
+  quote_or_summary: So and So declares Kingungu a Njila right and Ngundu a Ndala wrong,
+    saying the other wanted to take the elephant wrongly.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The central dispute, observed conduct, and verdict are clear. Some opening
+    wording is fragmentary, so the role of the absent wife is recorded only literally
+    and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were extracted because the passage itself does not identify an external analogue or nearby corpus comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l8118-l8154
+  passage_sha256=5395c03c0a0e433a9fd180f89ec71c3bbd0de6e73b8f3ff6b0f1716d337d16c6
+

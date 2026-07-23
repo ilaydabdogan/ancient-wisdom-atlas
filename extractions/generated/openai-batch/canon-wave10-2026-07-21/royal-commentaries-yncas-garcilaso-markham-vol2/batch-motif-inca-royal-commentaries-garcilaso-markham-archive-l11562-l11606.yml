@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l11562-l11606
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: OP  TWO  GRANTS  MADE  BY  THE  CITY  POR  PIOUS  PURPOSES. / VOL.  II. /
+    SEVENTH  BOOK  OP  THE  ROYAL / COMMENTARIES  OE  THE  YNCAS.; lines 11562-11606
+  start: '11562'
+  end: '11606'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage recounts fundraising for a hospital for natives, the beginning
+    of construction, and a first-stone ceremony in Cuzco. Garcilasso de la Vega places
+    a rare gold doubloon under the first stone as Corregidor, the coin is examined
+    by the municipality and gentlemen present, and Diego Maldonado places a silver
+    plate with his arms in the foundation. The passage also notes later pontifical
+    indulgences, though the final sentence is cut off in the supplied excerpt.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Money was collected for the project, including 1,000 dollars in one afternoon
+    and more than 100,000 ducats within a few months.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the intention to found a hospital for natives became known, subscriptions
+    and testamentary bequests were received, the work began, and Indians within the
+    city's jurisdiction assembled because the project was for their benefit.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Garcilasso de la Vega placed a gold doubloon under the first stone of the
+    edifice in his capacity as Corregidor.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The gold doubloon was described as a scarce and wonderful object in that land,
+    where no money was then coined and no coin of another metal was present.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The doubloon passed from hand to hand among the municipality of Cuzco and
+    other gentlemen at the ceremony, who said it was the first coined money they had
+    seen in that land.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Diego Maldonado, called the rich and identified as the oldest Regidor, put
+    a silver plate with his arms engraved on it into the foundation context.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The gold doubloon and silver plate are described as trifles placed as a foundation
+    for the rich edifice.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Supreme Pontiffs are said to have granted many indulgences after the foundation,
+    though the supplied passage ends before the sentence is complete.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: people applied to for contributions
+  description: Citizens and non-citizens who were asked for contributions and responded
+    largely.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Indians within the jurisdiction of the city
+  description: Native people who assembled promptly when the hospital work began,
+    knowing it was for their benefit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Garcilasso de la Vega
+  description: The narrator's lord, acting as Corregidor, who placed the gold doubloon
+    under the first stone.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: municipality of Cuzco and other gentlemen present
+  description: Witnesses at the first-stone ceremony who passed the doubloon from
+    hand to hand and commented on its rarity.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Diego Maldonado
+  description: Called the rich, a native of Salamanca, and the oldest Regidor; he
+    placed a silver plate with his arms engraved on it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Supreme Pontiffs
+  description: Ecclesiastical authorities later said to have granted many indulgences.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: contributors to pious civic project
+  assigned_to:
+  - fig:1
+  basis: They were solicited and gave largely toward the collection.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: beneficiaries and assembled native community
+  assigned_to:
+  - fig:2
+  basis: They assembled when work began because the hospital was for their benefit.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Corregidor and first-stone depositor
+  assigned_to:
+  - fig:3
+  basis: He placed the gold doubloon under the first stone as Corregidor.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: ceremonial witnesses
+  assigned_to:
+  - fig:4
+  basis: They were present at the ceremony, handled the coin, and commented on it.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: oldest Regidor and silver-plate depositor
+  assigned_to:
+  - fig:5
+  basis: He is identified as oldest Regidor and put in the engraved silver plate.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: grantors of indulgences
+  assigned_to:
+  - fig:6
+  basis: They are said to have granted many indulgences after the foundation.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: first stone
+  literal_form: The first stone of the hospital edifice under which foundation objects
+    were placed.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: gold doubloon de dos caras
+  literal_form: A gold doubloon bearing the effigies of Don Fernando and Doña Isabel,
+    placed under the first stone.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: engraved silver plate
+  literal_form: A silver plate with Diego Maldonado's arms engraved on it, placed
+    in the foundation.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: hospital for natives
+  literal_form: A hospital edifice being founded for the benefit of natives.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: collection and commencement of the hospital
+  summary: Funds are collected through appeals, subscriptions, and bequests; after
+    the hospital for natives is announced, work begins and Indians within the city's
+    jurisdiction assemble.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: first-stone foundation ceremony
+  summary: At the ceremony for laying the first stone, Garcilasso de la Vega places
+    a rare gold doubloon under it; witnesses handle the coin and remark on its rarity;
+    Diego Maldonado adds a silver plate engraved with his arms.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: later pontifical indulgences
+  summary: The passage states that Supreme Pontiffs later granted many indulgences,
+    but the supplied excerpt ends mid-sentence.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: pious donation for communal healing institution
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage frames the hospital as a pious purpose supported by donations,
+    subscriptions, bequests, and later indulgences.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The passage is a historical civic-religious account rather than a mythic
+    narrative; the taxonomy reference is applicable only at a broad pattern level.
+- id: motif:2
+  label: foundation deposit beneath first stone
+  taxonomy_refs: []
+  basis: A rare gold doubloon and an engraved silver plate are placed in connection
+    with the first stone and explicitly described as foundation items for the edifice.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference directly names this foundation-deposit
+    pattern.
+- id: motif:3
+  label: official and heraldic objects embedded in a civic foundation
+  taxonomy_refs: []
+  basis: The objects placed in the foundation include a coin with royal effigies and
+    a silver plate with a regidor's arms, both deposited by civic officials.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage emphasizes rarity and ceremonial suitability more than an
+    explicit theory of authority or legitimacy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11562-11606, opening collection account
+  quote_or_summary: The passage states that 1,000 dollars were collected in five hours
+    and that appeals to citizens and others yielded more than 100,000 ducats within
+    a few months.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 11562-11606, hospital announcement and commencement
+  quote_or_summary: When the plan to found a hospital for natives became known, subscriptions
+    and bequests were received; the work commenced, and Indians within the city's
+    jurisdiction assembled because it was for their benefit.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 11562-11606, first-stone ceremony
+  quote_or_summary: Garcilasso de la Vega "placed a doubloon of gold" with the effigies
+    of Don Fernando and Doña Isabel "under the first stone of the edifice, as Corregidor."
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 11562-11606, rarity and handling of doubloon
+  quote_or_summary: The doubloon was treated as scarce because no money was then coined
+    there; it was passed among the municipality of Cuzco and gentlemen present, who
+    said it was the first coined money they had seen in that land and suitable for
+    the ceremony.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 11562-11606, silver plate and foundation description
+  quote_or_summary: Diego Maldonado, called the rich and identified as the oldest
+    Regidor, put in a silver plate engraved with his arms; these items are described
+    as trifles placed as a foundation for the rich edifice.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 11562-11606, final sentence fragment
+  quote_or_summary: The passage says that the Supreme Pontiffs have since granted
+    many indulgences, but the supplied excerpt ends before the sentence is complete.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif labels are cautious because
+    the passage is a historical account of colonial civic-religious construction rather
+    than a mythic episode. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to those provided in the request.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l11562-l11606
+  passage_sha256=22c13503d6873688b7de04db6c884527746932e0be649bb7c81c20a86f938ff2
+

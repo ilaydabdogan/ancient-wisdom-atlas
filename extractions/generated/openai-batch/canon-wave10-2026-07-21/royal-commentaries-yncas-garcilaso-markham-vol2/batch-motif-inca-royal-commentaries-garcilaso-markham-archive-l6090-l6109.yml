@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l6090-l6109
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XII. / SIXTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS.
+    / CHAPTER  XIII.; lines 6090-6109
+  start: '6090'
+  end: '6109'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The chapter heading frames the episode as the Ynca subduing provinces through
+    hunger and military strategy. General Ccapac Yupanqui receives an enemy’s defiant
+    reply calmly, prepares his army after learning the enemy has withdrawn to fastnesses,
+    divides his force into four divisions, orders blockade rather than engagement,
+    and remains with his nephew to provide assistance where needed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chapter heading states that the Ynca subdues provinces by hunger and military
+    strategy.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: General Ccapac Yupanqui receives a defiant and insolent reply from the enemy
+    without being put out.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ccapac Yupanqui is described as having magnanimity that allows equal composure
+    toward good and evil words and toward good or ill success.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After receiving intelligence that the enemy has retired into fastnesses, Ccapac
+    Yupanqui prepares his army.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ccapac Yupanqui divides his force into four parts of ten thousand men each.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Each division advances to the nearest fastness with orders not to engage the
+    enemy.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The divisions are ordered to blockade the enemy positions and reduce them
+    by hunger.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The general remains with his nephew to give assistance wherever it may be
+    requested.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: General Ccapac Yupanqui
+  description: A general who calmly receives the enemy’s reply, prepares and divides
+    his army, orders a blockade, and remains available to assist.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the enemy
+  description: An opposing group that gives a defiant and insolent reply and retires
+    into fastnesses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Ccapac Yupanqui’s army or force
+  description: The force prepared by Ccapac Yupanqui and divided into four parts of
+    ten thousand men each.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Ccapac Yupanqui’s nephew
+  description: An unnamed nephew who remains with the general while assistance is
+    provided where needed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: composed magnanimous commander
+  assigned_to:
+  - fig:1
+  basis: The passage says Ccapac Yupanqui was not put out by the enemy’s reply and
+    received good and evil words with composure.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: military strategist and blockade commander
+  assigned_to:
+  - fig:1
+  basis: He prepares the army, divides the force, orders no direct engagement, and
+    uses blockade and hunger.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: opposing enemy in defensive positions
+  assigned_to:
+  - fig:2
+  basis: The enemy gives a defiant reply and retires into fastnesses that are then
+    blockaded.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: deployed divided force
+  assigned_to:
+  - fig:3
+  basis: The army is divided into four divisions, each sent toward a fastness.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: unnamed assisting kinsman
+  assigned_to:
+  - fig:4
+  basis: The nephew remains with the general as he stays ready to provide assistance.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fastnesses
+  literal_form: enemy defensive positions or fastnesses
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: fourfold military division
+  literal_form: four parts of ten thousand men each
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Enemy reply and commander’s composure
+  summary: Ccapac Yupanqui receives the enemy’s defiant reply calmly and is described
+    as magnanimous in response to varying words and outcomes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Preparation after enemy withdrawal
+  summary: After learning that the enemy has withdrawn into fastnesses, Ccapac Yupanqui
+    prepares the army and divides the force into four large parts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Blockade by hunger
+  summary: Each army division advances toward a fastness with orders to avoid engagement,
+    blockade the positions, and reduce the enemy by hunger, while the general and
+    his nephew remain ready to assist.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: subduing enemies by hunger and blockade rather than direct battle
+  taxonomy_refs: []
+  basis: The title names hunger and military strategy, and the orders are to avoid
+    engagement, blockade positions, and reduce the enemy by hunger.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: This is a military-historical pattern in the passage, not an explicitly
+    mythic motif.
+- id: motif:2
+  label: equanimous commander under provocation
+  taxonomy_refs: []
+  basis: Ccapac Yupanqui is described as unmoved by the enemy’s insolent reply and
+    composed toward both favorable and unfavorable words or outcomes.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as personal virtue; broader symbolic or comparative
+    meaning is not stated.
+- id: motif:3
+  label: fourfold division of forces around enemy strongholds
+  taxonomy_refs: []
+  basis: The force is divided into four parts of ten thousand men each, with each
+    division advancing to the nearest enemy fastness.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The fourfold arrangement may be purely tactical; no cosmological or ritual
+    meaning is stated in the passage.
+- id: motif:4
+  label: central commander held in reserve to aid dispersed forces
+  taxonomy_refs: []
+  basis: The general remains with his nephew to provide assistance wherever it is
+    called for while divisions advance.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is inferred as a narrative pattern of command; the passage gives
+    only the tactical arrangement.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6090-6094
+  quote_or_summary: 'Chapter heading: the Ynca subdues these provinces by hunger and
+    military strategy.'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 6095-6101
+  quote_or_summary: General Ccapac Yupanqui is not disturbed by the enemy’s defiant
+    and insolent reply; his magnanimity lets him receive good and evil words and success
+    or failure with composure.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 6101-6104
+  quote_or_summary: Ccapac Yupanqui prepares his army after receiving intelligence
+    that the enemy has retired into their fastnesses.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 6104-6106
+  quote_or_summary: He divides his force into four parts of ten thousand men each.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 6106-6108
+  quote_or_summary: Each division advances to the nearest fastness with orders not
+    to engage but to blockade the positions and reduce them by hunger.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 6108-6109
+  quote_or_summary: The general remains with his nephew to give assistance wherever
+    it might be called for.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is a military chronicle excerpt and does not state mythic, ritual,
+    or comparative meanings. No comparison claims are made because the passage itself
+    provides no explicit comparative basis.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were left empty because the available motif and symbol taxonomy terms were not directly supported by this excerpt.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l6090-l6109
+  passage_sha256=977cdf68e24e6e8016eb0f53c6546b3097e8b4df6a9522dcf5cad7ff11170d66
+

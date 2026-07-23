@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.native-american-blackfoot-lodge-tales-grinnell-archive-l10455-l10489
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+passage_locator:
+  label: THE   BLACKFOOT   IN   WAR  245 / THE    BLACKPOOT    IN    WAR  249 / THE    BLACKFOOT    IN    WAR  253
+    / THE    BLACKFOOT    IN    WAR  255; lines 10455-10489
+  start: '10455'
+  end: '10489'
+  translation: Blackfoot Lodge Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Blackfoot long-distance war or raiding journeys to
+    Spanish lands and western regions, including long absences, returns with horses
+    and unfamiliar arms, observations of reeds and marsh water, and reports of parties
+    reaching the Salt Lake region and seeing large salt water beyond the mountains.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Parties traveled to regions where horses were abundant, stayed away through
+    a summer and winter, and sometimes remained absent for two years before returning
+    with large bands of horses.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The journeys are said to have gone to Spai'yu ksah'ku, glossed in the passage
+    as the Spanish lands.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that branded horses and some branded mules were brought
+    back, and that the Blackfeet did not know what the marks meant.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The raids sometimes brought back unfamiliar arms, including lances, axes,
+    and swords of forms unlike those previously seen.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Spanish lands are described as having very long, hard, jointed reeds growing
+    in marshy places, with water that had a strange mouldy smell.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Some war parties are said to have crossed mountains and traveled far enough
+    west to see big salt water beyond or west of the Great Salt Lake.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Journeys as far south as Salt Lake are described as not uncommon, and Hugh
+    Monroe reported accompanying a war party that reached that area.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: The Blackfeet
+  description: The people described as undertaking long-distance journeys or raids
+    to Spanish lands and bringing back horses, mules, and unfamiliar arms.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: war parties
+  description: Groups said to have crossed mountains, traveled west or south, and
+    reached the Salt Lake region or big salt water beyond it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Hugh Monroe
+  description: A person who told the author of a war party he accompanied as far as
+    the Salt Lake region.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: long-distance raiding party
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes extended journeys, raids into distant lands, returns
+    with horses and arms, and parties crossing mountains.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:2
+  label: participant-informant
+  assigned_to:
+  - fig:3
+  basis: Hugh Monroe is named as having told the author about a war party he accompanied.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Spanish lands
+  literal_form: Spai'yu ksah'ku, glossed as the Spanish lands
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: branded horses and mules
+  literal_form: horses and mules bearing brands from Spanish American settlements
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: unfamiliar foreign arms
+  literal_form: lances, axes, and swords of strange make, including a sword described
+    as probably an old Spanish rapier
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: marsh reeds and mouldy water
+  literal_form: very long jointed reeds in marshy places and water with a strange
+    mouldy smell
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: mountain crossing
+  literal_form: mountains crossed by war parties going west
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: big salt water
+  literal_form: the big salt water beyond or west of the Great Salt Lake
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Raids to Spanish lands and return with horses and arms
+  summary: Blackfoot parties are described as traveling to Spanish lands, being absent
+    for long periods, and returning with horses, branded animals, and unfamiliar weapons.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Description of reeds and marsh water
+  summary: 'The passage reports details told about Spanish lands: very long jointed
+    reeds in marshes and water with a strange mouldy smell.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Westward journeys beyond mountains
+  summary: War parties are said to have crossed mountains, gone far west toward big
+    salt water beyond the Great Salt Lake, and also traveled to the Salt Lake region,
+    with Hugh Monroe named as a participant in one such journey.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Long-distance raid and return with captured horses
+  taxonomy_refs:
+  - departure
+  - return
+  basis: The passage gives a sequence of departure to horse-rich distant lands, prolonged
+    absence, and return with great bands of horses and other goods.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic war account rather than a mythic narrative; the
+    taxonomy references are broad journey-and-return pattern tags.
+- id: motif:2
+  label: Distant land identified by exotic objects and environmental markers
+  taxonomy_refs: []
+  basis: The Spanish lands are characterized through branded animals, unfamiliar weapons,
+    long reeds, marshes, and unusual-smelling water.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents practical observations and inferred geography, not
+    an explicit symbolic interpretation.
+- id: motif:3
+  label: War journey beyond mountains to great water
+  taxonomy_refs:
+  - departure
+  basis: War parties are said to have crossed mountains and gone far enough west to
+    see big salt water beyond the Great Salt Lake.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage does not frame the journey as sacred or mythic; it is recorded
+    as remembered war travel.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10457-10460
+  quote_or_summary: Parties went where horses were abundant, were absent through summer
+    and winter, returned the next summer or autumn with great bands of horses, and
+    sometimes stayed away two years.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 10460-10463
+  quote_or_summary: The journeys are said to have gone to Spai'yu ksah'ku, meaning
+    the Spanish lands; the passage notes Spai'yu as a recently made word probably
+    from French espagnol.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 10464-10469
+  quote_or_summary: The passage says travel as far as Mexico or New Mexico is indicated
+    by branded horses and mules, because branded stock was found only in Spanish American
+    settlements; the Blackfeet did not know what the marks meant.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 10470-10476
+  quote_or_summary: 'Raids into distant lands brought back strange arms: lances, axes,
+    and swords; the passage describes broad-headed lances, trade axes, and a sword
+    probably identifiable as an old Spanish rapier.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 10478-10482
+  quote_or_summary: In accounts of the Spanish lands, very long reeds are described
+    as large at the butt, jointed, hard, tall, and growing in marshy places; the water
+    is said to have a strange mouldy smell.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 10484-10487
+  quote_or_summary: Some war parties are said to have crossed the mountains and gone
+    far enough west to see big salt water beyond, or west of, the Great Salt Lake.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 10487-10489
+  quote_or_summary: Journeys as far south as Salt Lake were not uncommon, and Hugh
+    Monroe told the author of a war party he accompanied that went as far as this.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward. Motif candidates are broad because
+    the passage is ethnographic and historical rather than a mythic tale. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available refs and used cautiously.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-blackfoot-lodge-tales-grinnell-archive__l10455-l10489
+  passage_sha256=9b989f989961f66fa0d590b228f7b404802f7e5b6fcc728a6a965afba8528630
+

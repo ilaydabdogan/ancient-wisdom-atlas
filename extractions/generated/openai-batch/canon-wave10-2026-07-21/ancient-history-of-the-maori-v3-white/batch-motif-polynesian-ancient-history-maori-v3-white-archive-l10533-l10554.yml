@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.polynesian-ancient-history-maori-v3-white-archive-l10533-l10554
+source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+passage_locator:
+  label: TE-WEKA KILLS A WOMAN. 225 / TE-WEEA AND NIGHT ATTACK. 227 / PAUA-COLLECTORS
+    KILLED. 229 / ANCIENT MAOUI AMUSEMENTS. 231; lines 10533-10554
+  start: '10533'
+  end: '10554'
+  translation: The Ancient History of the Maori, His Mythology and Traditions, Volume
+    3
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes food gathering, storage in elevated storehouses,
+    cultivation, fishing, bird preservation, craft work, winter recitation and performance,
+    and a general statement that illness and enemy harassment were the main causes
+    of unhappiness while war was regarded with delight.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Men gathered food and stored it in whata or storehouses built on tall posts
+    to protect the contents from damp and rats; each dwelling had one.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The listed foods include natural products such as fern-root, ti-palm stems,
+    and convolvulus-roots, and cultivated crops including kamara, line, taro, and
+    karaka.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Fish were caught in season and dried in the sun, while birds were cooked and
+    preserved in their own fat in kelp-leaf vessels strengthened with bark.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Netting, carving, grinding by friction, and fitting stone implements and weapons
+    occupied old men and much of the young men's time.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Winter evenings were spent reciting tales, myths, historical traditions, and
+    genealogies, chanting and singing poetry, telling fairy tales, and performing
+    hakas or harihari war-dances.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that the ancient Maori were reported as miserable or unhappy
+    only when ill or harassed by enemies.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage states that the ancient Maori delighted in war, treating its danger
+    and fatigue more as delight than sorrow or weariness.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the men
+  description: Men who gathered food and stored it in whata or storehouses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: old men
+  description: Old men whose time was occupied by netting, carving, grinding by friction,
+    and fitting stone implements and weapons.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: young men
+  description: Young men whose time was also substantially occupied by netting, carving,
+    grinding by friction, and fitting stone implements and weapons.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: ancient Maori
+  description: The collective people described as engaging in winter recitations and
+    performances, becoming unhappy in illness or enemy harassment, and delighting
+    in war.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: enemies
+  description: Enemies who harassed the ancient Maori.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: food gatherers and storers
+  assigned_to:
+  - fig:1
+  basis: The men gathered food and stored it in elevated whata or storehouses.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: craft and tool workers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Old men and young men were occupied with netting, carving, grinding, and
+    fitting stone implements and weapons.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: reciters, singers, and dancers
+  assigned_to:
+  - fig:4
+  basis: The passage describes winter recitation, chanting, singing, fairy-tale telling,
+    and haka or harihari performance.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: war participants
+  assigned_to:
+  - fig:4
+  basis: The passage states that the ancient Maori delighted in war and its hardships.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: harassing adversaries
+  assigned_to:
+  - fig:5
+  basis: Enemies are mentioned as harassing the ancient Maori.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: whata storehouse
+  literal_form: Storehouse built on tall posts to protect food from damp and rats.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: preserved food vessel
+  literal_form: Vessel made of large kelp leaves and bound with bark, used for birds
+    preserved in fat.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: stone implements and weapons
+  literal_form: Stone implements and weapons shaped or fitted after grinding by friction.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: haka or harihari war-dance
+  literal_form: War-dance performed during winter evening amusements.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: food storage and preservation
+  summary: Men gather food, store it in elevated household storehouses, and the passage
+    lists gathered, cultivated, caught, dried, cooked, and preserved foods.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: craft and weapon work
+  summary: Old men and young men spend time netting, carving, grinding by friction,
+    and fitting stone tools and weapons.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: winter evening recitation and performance
+  summary: Winter evenings are passed through recitation of tales, myths, historical
+    traditions, and genealogies, along with chanting, singing, fairy-tale telling,
+    and war-dance performance.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: illness, enemies, and war
+  summary: The passage says unhappiness was associated with illness or enemy harassment,
+    while war itself was regarded as delightful despite danger and fatigue.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: elevated household food storage
+  taxonomy_refs: []
+  basis: Food is stored in whata or storehouses built on tall posts to protect contents
+    from damp and rats, and every dwelling has one.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a descriptive cultural pattern rather than a mythic narrative
+    motif.
+- id: motif:2
+  label: seasonal food preservation
+  taxonomy_refs: []
+  basis: Fish are caught in season and sun-dried, and birds are cooked and preserved
+    in fat within kelp-leaf vessels.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic subsistence pattern, not a supernatural or narrative
+    motif.
+- id: motif:3
+  label: winter oral transmission and performance
+  taxonomy_refs: []
+  basis: Winter evenings are occupied by reciting tales, myths, historical traditions,
+    genealogies, poetry, fairy tales, and performing war-dances.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a general cultural description and does not narrate
+    a specific myth.
+- id: motif:4
+  label: crafting of tools and weapons as communal occupation
+  taxonomy_refs: []
+  basis: Old men and young men spend time in netting, carving, grinding by friction,
+    and fitting stone implements and weapons.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a material-culture pattern rather than a comparative mythological
+    motif.
+- id: motif:5
+  label: war as valued activity
+  taxonomy_refs: []
+  basis: The passage states that the ancient Maori delighted in war and found danger
+    and fatigue more delightful than sorrowful or wearisome.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The statement is a narrator's broad generalization and should be reviewed
+    against wider source context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10534-10538
+  quote_or_summary: Men gathered food and stored it in whata or storehouses on tall
+    posts, protecting the contents from damp and rats; every dwelling owned one.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:2
+  type: summary
+  locator: 10538-10544
+  quote_or_summary: The passage lists gathered and cultivated foods, fish caught and
+    sun-dried in season, and birds cooked and preserved in fat within kelp-leaf vessels
+    bound with bark.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:3
+  type: summary
+  locator: 10544-10547
+  quote_or_summary: Netting, carving, grinding by friction, and fitting stone implements
+    and weapons occupied old men and much of the young men's time.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:4
+  type: summary
+  locator: 10547-10550
+  quote_or_summary: Winter evenings were passed by reciting tales, myths, historical
+    traditions, genealogies, poetry, fairy tales, and by performing hakas or harihari
+    war-dances.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:5
+  type: summary
+  locator: 10550-10554
+  quote_or_summary: The passage says the ancient Maori were truly miserable only when
+    ill or harassed by enemies, and that they delighted in war, including its danger
+    and fatigue.
+  source_text_path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  rights_note: Public domain source; summary allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Candidate motifs are mainly
+    descriptive ethnographic patterns rather than mythic narrative motifs. No comparison
+    claims were made because the passage itself does not support a specific comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy references were assigned; none were directly supported by the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-ancient-history-maori-v3-white-archive__l10533-l10554
+  passage_sha256=1aabf1ce2a31e098f84802d445047c19a529e184dc93fc903ab01a0b49dcd464
+

@@ -1,0 +1,247 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l7379-l7409
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: XXXII. / XXXIII. / XXXII. / SQUIRREL AND THE KINGSHIP.; lines 7379-7409
+  start: '7379'
+  end: '7409'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“To-day at once deprived Squirrel of the kingship.”"
+  summary: The people consider giving Squirrel the kingship, but while they are still
+    seeking the royal insignia, Squirrel repeatedly insists that it must happen immediately.
+    The people decide not to give him the kingship, saying he could not govern the
+    people.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The people say they will give Squirrel the kingship.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people say they are looking for the insignia of the kingship.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Squirrel says the kingship must be given today or at once.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The people decide not to give Squirrel the kingship after his insistence on
+    immediacy.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The people state that Squirrel could not govern the people if they gave him
+    the kingship.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The closing statement says that “To-day at once” deprived Squirrel of the
+    kingship.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Squirrel
+  description: An animal figure whom the people discuss giving the kingship to; he
+    insists that it be given immediately.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the people
+  description: A collective group who consider giving Squirrel the kingship, seek
+    the insignia, and then decide not to give it to him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: prospective recipient of kingship
+  assigned_to:
+  - fig:1
+  basis: The people talk of giving Squirrel the kingship.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: impatient claimant
+  assigned_to:
+  - fig:1
+  basis: Squirrel repeatedly says the kingship must be given today or at once.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: community deciding kingship
+  assigned_to:
+  - fig:2
+  basis: The people consider the kingship, seek the insignia, and decide not to give
+    it to Squirrel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: insignia of kingship
+  literal_form: royal insignia being sought by the people before granting kingship
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: kingship
+  literal_form: the office or authority the people consider giving to Squirrel
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Offer of kingship delayed by need for insignia
+  summary: The people say they will give Squirrel the kingship, but they are still
+    looking for the insignia of kingship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Squirrel insists on immediate kingship
+  summary: Squirrel says the kingship must be given today, at once, while the people
+    have only said they are going to get the insignia.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Kingship withheld
+  summary: The people decide not to give Squirrel the kingship, saying he could not
+    govern, and the story concludes that his demand for immediate action deprived
+    him of kingship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: impatience disqualifies a would-be ruler
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Squirrel is considered for kingship, but his insistence that it be granted
+    immediately leads the people to decide he could not govern and should not receive
+    it.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives a brief moralized explanation, but does not elaborate
+    a formal theory of royal legitimacy beyond the need for patience and proper insignia.
+- id: motif:2
+  label: royal insignia required before bestowal of kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The people say they are looking for the insignia of the kingship before granting
+    it, and Squirrel’s refusal to wait contributes to the loss of kingship.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The insignia are mentioned but not described; their ritual or political
+    function is not explained in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7392-7393
+  quote_or_summary: "“Squirrel,” the people said, “directly, we (will) give him the
+    kingship.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 7394-7395
+  quote_or_summary: "“We are looking for the insignia of the kingship.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7393-7396, 7401-7402
+  quote_or_summary: Squirrel says that the kingship shall or must be given today,
+    at once.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7396-7399
+  quote_or_summary: The people say they only told Squirrel they were going to get
+    the insignia, but because he insists on today, they will give him the kingship
+    no more; they add that he could not govern the people.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 7401-7404
+  quote_or_summary: "“To-day at once deprived Squirrel of the kingship.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and explicit about figures, action, and the loss of
+    kingship. Motif labels are interpretive but closely based on the stated cause
+    of Squirrel’s disqualification. No comparison claims are made because the passage
+    itself does not support an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The passage contains repeated headings from the bilingual source; extraction focuses on the English tale titled “Squirrel and the Kingship.”
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l7379-l7409
+  passage_sha256=7612cbb552f405fcbf29bd811e339c90a7d59b4b9e75eaaf31c574358db68a48
+

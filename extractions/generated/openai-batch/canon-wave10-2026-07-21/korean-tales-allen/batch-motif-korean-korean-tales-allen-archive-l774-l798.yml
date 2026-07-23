@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.korean-korean-tales-allen-archive-l774-l798
+source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+passage_locator:
+  label: DESCRIPTIVE. / DESCRIPTIVE . / THE  RABBIT,  AND  OTHER  LEGENDS. / STORIES  OF  BIRDS  AND  ANIMALS.;
+    lines 774-798
+  start: '774'
+  end: '798'
+  translation: Korean Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces a section on rabbit and animal legends, then describes
+    Koreans as attentive observers of nature. It presents the Korean landscape as
+    green and well preserved by restrictions on timber and fuel cutting, notes peasants
+    gathering dried grass and underbrush for fuel, and comments on the visual effect
+    of people and clothing in the landscape.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The headings frame the section as legends and stories concerning a rabbit,
+    birds, and animals.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Koreans are described as close students of nature who notice their surroundings
+    while moving through fields and hills.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The landscape is described as preserved by a rule restricting the cutting
+    of timber or fuel to prescribed places.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Peasants are said to rake together dried grass and underbrush for fuel.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The gathered-underbrush practice is said to make rugged mountain sides look
+    like a well-kept park.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Human presence and the colors of clothing are described as adding visual charm
+    to the Korean landscape.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Koreans
+  description: A collective people described as attentive students of nature.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: peasants
+  description: People working in fields, gathering dried grass and underbrush for
+    fuel, and wearing white garments described in the landscape view.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: attentive observers of nature
+  assigned_to:
+  - fig:1
+  basis: The passage says Koreans are great students of nature and attentive to fields
+    and hills.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: fuel gatherers
+  assigned_to:
+  - fig:2
+  basis: The passage says peasants rake dried grass and underbrush together for fuel.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: field workers in the landscape
+  assigned_to:
+  - fig:2
+  basis: The passage mentions peasants at work in the fields and describes their garments
+    as part of the view.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: green hills
+  literal_form: green hills in the Korean landscape
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: timber and fuel
+  literal_form: timber or fuel whose cutting is restricted to prescribed localities
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: dried grass and underbrush
+  literal_form: dried grass and underbrush gathered for fuel
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: mountain sides
+  literal_form: rugged mountain sides compared to a well-kept park
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: bright costume and white garments
+  literal_form: bright-tinted ample costume and soil-begrimed white garments worn
+    in the fields
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: animal-legend section heading
+  summary: The passage begins with headings announcing rabbit and animal legends.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: observed and preserved landscape
+  summary: Koreans are presented as attentive to nature, and the landscape is described
+    as green and preserved by restrictions on cutting timber or fuel.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: peasant fuel gathering
+  summary: Peasants gather dried grass and underbrush for fuel, leaving mountain sides
+    with a park-like appearance.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: human color in the landscape
+  summary: The passage describes human presence and clothing colors as enhancing the
+    view, while also noting peasants' soil-marked white garments in the fields.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 774-776
+  quote_or_summary: The headings identify the section as 'The Rabbit, and Other Legends'
+    and 'Stories of Birds and Animals.'
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; brief heading summary used.
+- id: ev:2
+  type: summary
+  locator: lines 778-781
+  quote_or_summary: Koreans are described as great students of nature who notice the
+    fields and green hills.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; neutral summary used.
+- id: ev:3
+  type: summary
+  locator: lines 781-784
+  quote_or_summary: The landscape is said to remain fresh because cutting timber or
+    fuel is allowed only in prescribed localities.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; neutral summary used.
+- id: ev:4
+  type: summary
+  locator: lines 785-792
+  quote_or_summary: Peasants rake dried grass and underbrush for fuel, making rugged
+    mountain sides appear like a well-kept park.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; neutral summary used.
+- id: ev:5
+  type: summary
+  locator: lines 794-798
+  quote_or_summary: The passage says nature's beauty is enhanced by human presence
+    and clothing colors, and mentions peasants' soil-begrimed white garments in the
+    fields.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; neutral summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is primarily descriptive and introductory rather than a narrative
+    legend. Literal landscape and social observations are clear, but no mythic motif
+    or comparison claim is directly supported beyond the animal-legend section heading.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No candidate motifs or comparison claims were extracted because the supplied lines contain descriptive framing material rather than a developed legend episode.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-tales-allen-archive__l774-l798
+  passage_sha256=9482532ae338e84378d70dcc9039d08fbe9f0f7e01b1cda91534e300070afca6
+

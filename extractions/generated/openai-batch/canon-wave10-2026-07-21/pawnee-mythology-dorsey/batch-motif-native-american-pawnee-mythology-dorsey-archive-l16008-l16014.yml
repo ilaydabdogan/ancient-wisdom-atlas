@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l16008-l16014
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE  THUNDER-BIRD  CEREMONY.  317 / PROUD  BOY  AND  THE  ANIMAL  MEDICINE.  3I9
+    / THE  ORIGIN  OF  MEDICINE  CEREMONIES  OR  POWER. / PROUD  BOY  AND  THE  ANIMAL  MEDICINE.  321;
+    lines 16008-16014
+  start: '16008'
+  end: '16014'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: homes of the water-dogs, which possessed magic power
+  summary: The people go north to the Platte River for hunting, entering a landscape
+    of timber, hills, birds, animals, and hill-side holes identified as the homes
+    of magical water-dogs. Proud-Boy wakes one morning and goes to the timber and
+    to the water-dogs' homes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A hunting movement begins when the people again go hunting.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people travel north to the Platte River, where there is thick timber and
+    hills.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The timber is described as full of owls, birds of all kinds, and many wonderful
+    animals.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Holes on the side of the hills are said by the people to be the homes of water-dogs.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The water-dogs are described as possessing magic power.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: One morning Proud-Boy wakes, goes to the timber, and comes to the homes of
+    the water-dogs.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the people
+  description: The group who go hunting north to the Platte River and identify the
+    hill-side holes as water-dog homes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Proud-Boy
+  description: A named figure who wakes one morning and goes to the timber and to
+    the water-dogs' homes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: water-dogs
+  description: Beings whose homes are said to be holes in the hills and who possess
+    magic power.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: owls, birds, and wonderful animals
+  description: Animals inhabiting the thick timber near the Platte River.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: hunting group
+  assigned_to:
+  - fig:1
+  basis: The people go hunting and travel north to the Platte River.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: local identifiers of animal homes
+  assigned_to:
+  - fig:1
+  basis: The people say the hill-side holes are homes of the water-dogs.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: visitor to the water-dog homes
+  assigned_to:
+  - fig:2
+  basis: Proud-Boy goes to the timber and comes to the homes of the water-dogs.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: magical animal beings
+  assigned_to:
+  - fig:3
+  basis: The water-dogs are said to possess magic power.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: forest animals
+  assigned_to:
+  - fig:4
+  basis: The timber is full of owls, birds, and many wonderful animals.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Platte River
+  literal_form: river
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: thick timber and hills
+  literal_form: timber and hills
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: hill-side holes
+  literal_form: holes on the side of the hills
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: water-dogs' homes
+  literal_form: homes of the water-dogs
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Hunting journey to the Platte River
+  summary: The people go north to the Platte River for hunting, entering a place of
+    thick timber and hills.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Description of the animal-filled timber and water-dog homes
+  summary: The timber contains many birds and animals, and holes in the hills are
+    identified as homes of water-dogs with magic power.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Proud-Boy approaches the water-dog homes
+  summary: Proud-Boy wakes one morning, goes to the timber, and comes to the homes
+    of the water-dogs.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Journey to a place inhabited by powerful animal beings
+  taxonomy_refs:
+  - mystical_quest
+  basis: A named figure, Proud-Boy, goes to the timber and to the homes of water-dogs,
+    which are described as possessing magic power.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The excerpt ends before any encounter, request, gift, initiation, or quest
+    outcome is described.
+- id: motif:2
+  label: Magical animal beings dwelling in hill-side holes
+  taxonomy_refs: []
+  basis: The people say that holes in the hills are the homes of water-dogs, and the
+    passage states that the water-dogs possess magic power.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only the setting and attribution of power, not the later
+    ritual or narrative function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: '16008'
+  quote_or_summary: The time comes again for the people to go hunting.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 16008-16010
+  quote_or_summary: The people go north to the Platte River, a place with thick timber
+    and hills.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 16010-16011
+  quote_or_summary: The thick timber contains owls, birds of all kinds, and many wonderful
+    animals.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 16011-16013
+  quote_or_summary: The hill-side holes are said to be the "homes of the water-dogs,
+    which possessed magic power."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: summary
+  locator: 16013-16014
+  quote_or_summary: One morning Proud-Boy wakes, goes to the timber, and comes to
+    the homes of the water-dogs.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif identification is limited because
+    the supplied passage is an introductory scene and ends before any direct encounter
+    or ritual transfer.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the provided passage and metadata. No external comparisons were added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l16008-l16014
+  passage_sha256=fb9a911e08c9d2e8acc89c5375196f142f14254b552b87d083b31779c3382a96
+

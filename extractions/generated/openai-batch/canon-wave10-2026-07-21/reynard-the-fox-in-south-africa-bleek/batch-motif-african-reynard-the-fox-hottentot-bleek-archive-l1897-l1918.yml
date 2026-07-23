@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.african-reynard-the-fox-hottentot-bleek-archive-l1897-l1918
+source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+passage_locator:
+  label: THE  LEOPARD  AND   TEE  RAM.  25 / THE  SPRINGBOK  (GAZELLE). / THE  ELEPHANT  AND   THE   TORTOISE.  29
+    / THE  GIRAFFE.; lines 1897-1918
+  start: '1897'
+  end: '1918'
+  translation: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A descriptive address to the Giraffe is followed by a tale in which the
+    Giraffe meets the Tortoise, threatens to trample and then swallow it, swallows
+    it, and the Tortoise sticks in the Giraffe's throat. A footnote explains that
+    the Giraffe is called blue because it is said to give blue ashes when burnt.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens with a descriptive address to the Giraffe involving descent
+    by rivers, a burnt thornbush, blueness, and resemblance to a distant thornhill
+    full of seated people.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A footnote says the Giraffe is described as blue because it is said to give
+    blue ashes when burnt.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Giraffe and the Tortoise meet one day.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Giraffe tells the Tortoise that it could trample it to death at once.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Tortoise is afraid and remains silent after the trampling threat.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Giraffe then tells the Tortoise that it could swallow it at once.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Tortoise answers that it belongs to the family of those whom it has always
+    been customary to swallow.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Giraffe swallows the Tortoise.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: While being gulped down, the Tortoise sticks in the Giraffe's throat.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Giraffe
+  description: Animal addressed in the opening descriptive lines; later meets, threatens,
+    and swallows the Tortoise.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Tortoise
+  description: Animal met by the Giraffe; is threatened, is afraid and silent, replies
+    to the swallowing threat, is swallowed, and sticks in the Giraffe's throat.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: described animal
+  assigned_to:
+  - fig:1
+  basis: The title and opening address describe the Giraffe with several images and
+    attributes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: threatening animal
+  assigned_to:
+  - fig:1
+  basis: The Giraffe threatens to trample and swallow the Tortoise.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: threatened animal
+  assigned_to:
+  - fig:2
+  basis: The Tortoise is the target of the Giraffe's threats and is described as afraid.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: swallower
+  assigned_to:
+  - fig:1
+  basis: The Giraffe swallows the Tortoise.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: swallowed obstruction
+  assigned_to:
+  - fig:2
+  basis: The Tortoise is swallowed but sticks in the Giraffe's throat while being
+    gulped down.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: river descent
+  literal_form: river by river
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: burnt thornbush and blue ashes
+  literal_form: burnt thornbush; blue ashes when burnt
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: distant thornhill with seated people
+  literal_form: a distant thornhill full of people sitting down
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: throat obstruction
+  literal_form: the Tortoise stuck in the Giraffe's throat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Descriptive address to the Giraffe
+  summary: The Giraffe is addressed through images of rivers, a burnt thornbush, blueness,
+    and a distant thornhill full of seated people; the footnote links the blue color
+    to ashes when burnt.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Meeting and threats
+  summary: The Giraffe and the Tortoise meet; the Giraffe says it could trample the
+    Tortoise to death, the Tortoise remains silent in fear, and the Giraffe then says
+    it could swallow the Tortoise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Swallowing and obstruction
+  summary: After the Tortoise answers the swallowing threat, the Giraffe swallows
+    it, but the Tortoise sticks in the Giraffe's throat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Large animal threatens smaller animal
+  taxonomy_refs: []
+  basis: The Giraffe threatens to trample and then swallow the Tortoise.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not provide a larger resolution within the supplied lines.
+- id: motif:2
+  label: Threatened animal answers with a customary-swallowing claim
+  taxonomy_refs: []
+  basis: The Tortoise responds to the swallowing threat by saying it belongs to those
+    customarily swallowed.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not explicitly state whether the answer is meant as a
+    trick, submission, or another tactic.
+- id: motif:3
+  label: Swallowed animal lodges in swallower's throat
+  taxonomy_refs: []
+  basis: The Giraffe swallows the Tortoise, but the Tortoise sticks in the Giraffe's
+    throat while being gulped down.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: Only the beginning of the swallowing episode is present; any later outcome
+    is outside the provided passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1897-1904
+  quote_or_summary: '"Thou who descendest river by river... Thou burnt thornbush...
+    Thou blue one... Who appearest like a distant thornhill full of people sitting
+    down."'
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: footnote within lines 1916-1918
+  quote_or_summary: '"Because the Giraffe is said to give blue ashes when burnt."'
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1905-1906
+  quote_or_summary: '"THE Giraffe and the Tortoise, they say, met one day."'
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1906-1909
+  quote_or_summary: The Giraffe says it could trample the Tortoise to death at once;
+    the Tortoise is afraid and remains silent.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1909-1913
+  quote_or_summary: The Giraffe says it could swallow the Tortoise; the Tortoise answers
+    that it belongs to the family of those customarily swallowed.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 1913-1916
+  quote_or_summary: The Giraffe swallows the Tortoise, but as the Tortoise is gulped
+    down it sticks in the Giraffe's throat.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are limited to patterns
+    present in the supplied passage. No comparison claims are made because the passage
+    itself does not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction limited to the provided passage text and metadata. The supplied passage ends while the Tortoise is stuck in the Giraffe's throat; any subsequent resolution is not included.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-reynard-the-fox-hottentot-bleek-archive__l1897-l1918
+  passage_sha256=97030165157266b3ab0f82b62d93adcc24b58b4481be5fe676c5a558d2c5e646
+

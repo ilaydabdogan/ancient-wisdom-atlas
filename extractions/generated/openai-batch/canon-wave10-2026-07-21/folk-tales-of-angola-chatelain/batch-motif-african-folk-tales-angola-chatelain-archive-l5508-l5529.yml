@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l5508-l5529
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: A BRIDE AND HER BROTHERS-IN-LAW. / O JIHOJI NI KIMONA-NGOMBE. / THE LIONS
+    AND KIMONA-NGOMBE. / MUSUDI NI A-MULOMBE.; lines 5508-5529
+  start: '5508'
+  end: '5529'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A woman turns into a lioness and tries to catch Kimona-ngombe. Kimona-ngombe
+    believes Ndala's warning, removes Ndala by night to his mother's house, and summons
+    the village and his slaves to burn the house. The woman is killed in the burning
+    house. The closing statement says that Ndala, Kimona-ngombe's child, saved his
+    life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The woman turns into a lioness and wants to catch the man.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kimona-ngombe sees the woman and believes what Ndala said.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kimona-ngombe rises at night and tells his child that they should go so he
+    can bring the child to the child's mother.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ndala is put into the house of his mother.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Kimona-ngombe tells the village and his slaves to come set the house on fire
+    because the woman he married keeps turning into a lioness.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The house is surrounded with fire, and the woman is roasted in the house.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage closes with the statement that begetting is truth and that Ndala
+    saved Kimona-ngombe's life.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the woman
+  description: A woman married by Kimona-ngombe who keeps turning into a lioness and
+    is killed in the burning house.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Kimona-ngombe / Ngana Kimona-ngombe
+  description: The man threatened by the lioness-woman; he believes Ndala, removes
+    the child at night, and orders the house burned.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Ndala
+  description: Kimona-ngombe's child, whose words are believed and who is said to
+    have saved Kimona-ngombe's life.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: the village and Kimona-ngombe's slaves
+  description: A collective group summoned by Kimona-ngombe to set the house on fire.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: shapeshifting threatening wife
+  assigned_to:
+  - fig:1
+  basis: She turns into a lioness, wants to catch the man, and is described by Kimona-ngombe
+    as the woman he married who keeps turning into a lioness.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: threatened husband and father
+  assigned_to:
+  - fig:2
+  basis: A woman was going to kill him, and his child Ndala saved his life.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: child savior
+  assigned_to:
+  - fig:3
+  basis: The closing statement says that Ndala, Kimona-ngombe's child, saved his life.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: summoned fire-setters
+  assigned_to:
+  - fig:4
+  basis: Kimona-ngombe calls the village and his slaves to set the house on fire,
+    and the house is surrounded with fire.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: lioness form
+  literal_form: lioness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: fire around the house
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: mother's house
+  literal_form: house of Ndala's mother
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: burning house
+  literal_form: house set on fire
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Lioness transformation and recognition
+  summary: The woman turns into a lioness and wants to catch the man; Kimona-ngombe
+    sees this and believes Ndala's words.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Night removal of the child
+  summary: Kimona-ngombe rises at night and takes Ndala outside, saying he will bring
+    the child to the child's mother; Ndala is put into his mother's house.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Burning of the house
+  summary: Kimona-ngombe summons the village and his slaves to set the house on fire
+    because the woman keeps turning into a lioness; they surround the house with fire,
+    and the woman dies inside.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Closing moral statement
+  summary: The passage concludes that begetting is truth and that Ndala saved Kimona-ngombe's
+    life.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: spouse as dangerous animal shapeshifter
+  taxonomy_refs:
+  - shapeshifter
+  basis: The woman married by Kimona-ngombe repeatedly turns into a lioness and threatens
+    him.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain the cause or nature of the transformation
+    beyond the literal statement that she turns into a lioness.
+- id: motif:2
+  label: child saves parent by truthful warning
+  taxonomy_refs: []
+  basis: Kimona-ngombe believes Ndala, and the closing statement says Ndala saved
+    his life.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: The excerpt refers to what Ndala said but does not include the earlier
+    warning itself.
+- id: motif:3
+  label: dangerous being destroyed by burning in an enclosed house
+  taxonomy_refs: []
+  basis: Kimona-ngombe orders the house set on fire, the house is surrounded with
+    fire, and the woman is roasted inside.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The act is literal in the passage; any ritual or symbolic meaning is not
+    stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5508-5529
+  quote_or_summary: "“The woman then turns a lioness; she wants to catch the man.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5508-5529
+  quote_or_summary: Kimona-ngombe sees the woman and believes what Ndala had said,
+    saying that Ndala spoke the truth.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 5508-5529
+  quote_or_summary: "“He arose in the night, saying: ‘My child, let us go, that I
+    bring thee to thy mother!’”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 5508-5529
+  quote_or_summary: Ndala is taken outside and put into the house of his mother.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 5508-5529
+  quote_or_summary: 'Kimona-ngombe says: “Come to set the house on fire. The woman,
+    whom I married just now, keeps turning a lioness.”'
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 5508-5529
+  quote_or_summary: They surround the house with fire, and the woman is roasted in
+    the house before day breaks.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: lines 5508-5529
+  quote_or_summary: "“Begetting is truth.” The passage explains that a woman was going
+    to kill Kimona-ngombe, but his child Ndala saved his life."
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt and summary used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main actions and figures are explicit in the passage. Motif labels are
+    conservative; the excerpt does not include the earlier warning by Ndala or explain
+    the nature of the lioness transformation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text comparison beyond candidate motif identification.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l5508-l5529
+  passage_sha256=de3e5ec64a9eac21b25fbd3277f854038dd17b826cd3c195abdc925d91588b0b
+

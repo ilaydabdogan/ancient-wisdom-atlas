@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l7584-l7621
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: THE HOUSE-HOG AND THE WILD BOAR. / XXXVII. / PARTRIDGE AND TURTLE. / XXXVIII.;
+    lines 7584-7621
+  start: '7584'
+  end: '7621'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: At the end of a fire-hunt episode, fire reaches Partridge and burns him.
+    After the hunters scatter, Turtle emerges from an ant-hill, notes that Partridge
+    had previously said Turtle would be burnt, removes a spur from Partridge, and
+    sings that Partridge is dead while the little horn remains.
+  language: English with Kimbundu heading and song fragments
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fire comes nearer to Partridge; Partridge runs or flies from it, but the fire
+    catches and burns him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fire-hunt ends, and the hunters who came to it scatter.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Turtle comes out of an ant-hill and sees that Partridge is burnt.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Turtle says that Partridge had argued that Turtle would be burnt, but Partridge
+    himself was burnt.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Turtle takes Partridge by the leg and removes a spur from him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Turtle plays with Partridge’s spur and sings that Partridge is dead and the
+    little horn remains.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The closing statement contrasts Partridge’s burning with Turtle’s escape.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Partridge
+  description: Animal character who is caught and burnt by the fire; Turtle later
+    removes a spur from him.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Turtle
+  description: Animal character who emerges from the ant-hill, comments on Partridge’s
+    death, removes Partridge’s spur, plays with it, and is said to have escaped.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Hunters
+  description: Unnamed hunters who came to the fire-hunt and then scattered.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: burned animal victim
+  assigned_to:
+  - fig:1
+  basis: Partridge is caught by the fire and burnt.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: survivor or escapee
+  assigned_to:
+  - fig:2
+  basis: Turtle comes out of the ant-hill after the fire and the closing statement
+    says Turtle escaped.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: speaker and handler of the spur
+  assigned_to:
+  - fig:2
+  basis: Turtle speaks about Partridge’s fate, removes a spur, and sings while playing
+    with it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: participants in a prior discussion
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage refers to a discussion between Partridge and Turtle about who
+    would be burnt.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:5
+  label: fire-hunt participants
+  assigned_to:
+  - fig:3
+  basis: The hunters are described as having come to the fire-hunt and then scattering.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: A fire in the fire-hunt that comes near Partridge, catches him, and
+    burns him.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: ant-hill
+  literal_form: The ant-hill from which Turtle comes out after the fire.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Partridge’s spur or little horn
+  literal_form: A spur removed from Partridge and called the little horn in Turtle’s
+    song.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Partridge is caught by the fire
+  summary: The fire comes near Partridge; he runs or flies from it, but it catches
+    and burns him.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Turtle emerges after the fire-hunt
+  summary: After the fire-hunt ends and hunters scatter, Turtle comes out of the ant-hill,
+    sees burnt Partridge, and comments on the reversal of Partridge’s earlier words.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Turtle takes and sings over Partridge’s spur
+  summary: Turtle takes Partridge by the leg, removes a spur, plays with it, and sings
+    that Partridge is dead while the little horn remains.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Animal burned by fire-hunt while another animal escapes
+  taxonomy_refs: []
+  basis: Partridge is burnt by the fire, while the final line says Turtle escaped.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: high
+  cautions: The selected passage appears to preserve the ending of a longer tale,
+    so the full setup of the fire-hunt is not present.
+- id: motif:2
+  label: Ironic reversal of predicted burning
+  taxonomy_refs: []
+  basis: Turtle states that Partridge had said Turtle would be burnt, but Partridge
+    himself was burnt.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The earlier discussion is only referred to in this line range, not narrated
+    in full.
+- id: motif:3
+  label: Survivor sings over a remnant of the dead rival
+  taxonomy_refs: []
+  basis: Turtle removes Partridge’s spur and sings that Partridge is dead while the
+    little horn remains.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not state whether the spur functions as a trophy beyond
+    Turtle’s play and song.
+- id: motif:4
+  label: Escape associated with an ant-hill refuge
+  taxonomy_refs: []
+  basis: Turtle comes out of an ant-hill after the fire and is later said to have
+    escaped.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The passage implies, but does not explicitly narrate, that the ant-hill
+    was Turtle’s refuge during the fire.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7584-7621; English narrative paragraph beginning “hill.”
+  quote_or_summary: "“The fire comes nearer him; he begins to fly from the fire. The
+    fire catches him; he is burnt.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 7584-7621; following paragraph
+  quote_or_summary: "“The fire came to end in country. The hunters, who had come to
+    the fire-hunt, have scattered.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 7584-7621; following paragraph
+  quote_or_summary: "“Turtle comes out of the ant-hill; he looks on ground; Partridge
+    is burnt.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 7584-7621; Turtle speech
+  quote_or_summary: "“comrade Partridge ... he saying ‘thou shalt be burnt’; but he
+    himself was burnt.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 7584-7621; paragraph beginning “Turtle took him”
+  quote_or_summary: "“Turtle took him by the leg; he took off from him a spur.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 7584-7621; Turtle song
+  quote_or_summary: "“Little horn of Partridge, / Partridge is dead, / The little
+    horn is left.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 7584-7621; closing sentence
+  quote_or_summary: "“Partridge had a discussion with Turtle; Partridge was burnt;
+    Turtle escaped.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the ending of the tale. Motif labels are
+    draft abstractions from a short passage that lacks the full preceding setup.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not establish a specific external comparison or corpus-level relationship.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l7584-l7621
+  passage_sha256=b0e5741f13b3214eeb96c5d85db8c203c93584dc9ac4357282cd16f0f6ac5cd0
+

@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l1823-l1832
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE  FOUR  GODS  OF  THE  NORTH.  29 / LONG-TONGUE,  THE  ROLLING  HEAD.  3I
+    / S.  LONQ-TONQUE,  THE  ROLLING  HEAD.' / LONG-TONGUE,  THE  ROLLING  HEAD.  33;
+    lines 1823-1832
+  start: '1823'
+  end: '1832'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Long-Tongue reaches a lodge, calls for the woman to open it, receives no
+    answer, and enters while knowing the girl is absent. He finds the lodge covered
+    with tallow, decides to eat it before going after her, licks tallow from the ground
+    and walls, and as he eats upward the opening at the top of his tongue seems to
+    grow.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Long-Tongue runs to the lodge and calls for the woman to open it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: No answer is received, and Long-Tongue enters the lodge while knowing that
+    the girl is not there.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Everything about the lodge is covered with tallow.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Long-Tongue says the woman put tallow everywhere and says he will eat before
+    going for her.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Long-Tongue licks tallow from the ground and then from the sides of the walls.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: As Long-Tongue eats upward, the opening at the top of his tongue seems to
+    grow.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Long-Tongue
+  description: A figure who comes to the lodge, enters it, eats tallow by licking
+    the ground and walls, and has an opening at the top of his tongue that seems to
+    grow.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: woman / girl
+  description: An absent female figure whom Long-Tongue addresses as woman and whom
+    the narrator calls the girl; Long-Tongue says she put tallow everywhere.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: lodge-entering speaker
+  assigned_to:
+  - fig:1
+  basis: Long-Tongue calls for the lodge to be opened, receives no answer, and enters.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: tallow eater
+  assigned_to:
+  - fig:1
+  basis: Long-Tongue decides to eat the tallow and licks it from the ground and walls.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: absent addressed woman
+  assigned_to:
+  - fig:2
+  basis: Long-Tongue addresses a woman at the lodge, receives no answer, and knows
+    the girl is not there.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: lodge
+  literal_form: lodge
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: tallow-covered interior
+  literal_form: tallow covering the lodge, ground, and walls
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: growing tongue opening
+  literal_form: opening at the top of Long-Tongue's tongue
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Long-Tongue enters the empty lodge
+  summary: Long-Tongue reaches the lodge, asks the woman to open it, gets no answer,
+    knows the girl is absent, and enters.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Long-Tongue eats the tallow
+  summary: Long-Tongue finds tallow covering the lodge and decides to eat it before
+    going for the absent woman or girl.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Tongue opening grows while licking upward
+  summary: After licking tallow from the ground, Long-Tongue licks it from the walls,
+    and the opening at the top of his tongue seems to grow as he eats upward.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: pursuer delayed by food left in a dwelling
+  taxonomy_refs: []
+  basis: Long-Tongue says he will eat the tallow before going for the absent woman
+    or girl, causing a delay in his pursuit or search.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The broader chase context is not contained in this excerpt; the label
+    depends only on his statement that he will eat before going for her.
+- id: motif:2
+  label: monstrous or extraordinary tongue altered by eating
+  taxonomy_refs: []
+  basis: Long-Tongue licks tallow from the ground and walls, and the opening at the
+    top of his tongue seems to grow as he eats upward.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage describes the apparent growth but does not explain its cause
+    or later significance within the truncated excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1823-1826
+  quote_or_summary: Long-Tongue runs to the lodge, tells the woman to open it, receives
+    no answer, knows the girl is absent, and enters.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 1826-1829
+  quote_or_summary: The lodge is covered with tallow; Long-Tongue says the woman put
+    it everywhere, says he likes it, and says he will eat before going for her.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 1829-1832
+  quote_or_summary: Long-Tongue licks tallow from the ground and the sides of the
+    walls; as he eats upward, the opening at the top of his tongue seems to grow.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif labels remain provisional
+    because the passage is short and ends mid-sentence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy refs or comparison claims were assigned because the excerpt itself does not support a specific available taxonomy match or cross-tradition comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l1823-l1832
+  passage_sha256=d997a6842353c3e976d4ff84a0331be3bf48aab30928896f007ba7635e7ac43e
+

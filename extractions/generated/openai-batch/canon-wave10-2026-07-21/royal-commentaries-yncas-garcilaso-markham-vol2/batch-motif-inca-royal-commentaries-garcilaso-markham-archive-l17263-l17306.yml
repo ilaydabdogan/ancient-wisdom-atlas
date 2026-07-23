@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l17263-l17306
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: EIGHTH  BOOK  OP  THE  KOYAL / COMMENTARIES  OF  THE  YNCAS. / CHAPTER  XVIII.
+    / OF  LIONS,  BEAKS,  TIGERS,  AND  MONKEYS.; lines 17263-17306
+  start: '17263'
+  end: '17306'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a natural-history survey of pumas, bears, tigers, serpents,
+    and other reptiles in Peru and the Antis. It includes an anecdote about a Spaniard
+    killing a lioness near Cuzco and finding two spotted whelps in her belly, and
+    it closes with the narrator’s reflection on forgetting and recalling the Peruvian
+    name for tiger.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Lions are said to be found, smaller and less fierce than African lions, and
+    are called puma by the Indians.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bears are described as rare because Peru lacks dense forests; the Yucas ordered
+    them killed, and their name is given as ucumari.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Tigers are located only in the dense forests of the Antis, where great serpents
+    called amaru also breed.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The amaru are described as twenty-five to thirty feet long and thicker than
+    a man’s thigh; the Antis also contain smaller snakes, poisonous vipers, and other
+    reptiles.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A Spaniard known to the narrator killed a great lioness in the Antis near
+    Cuzco after she had climbed into a high tree.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Two whelps were found in the lioness’s belly and were identified as sons of
+    a tiger because their skins bore the sire’s spots.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The narrator says he had forgotten the general Peruvian-language name for
+    tiger, explains this by forty-two years without using the language, and then states
+    his belief that the name is uturuncu.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: lions / puma
+  description: Large cats found in the region, said to be smaller and less fierce
+    than African lions; called puma by the Indians.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: bears / ucumari
+  description: Rare animals in Peru, associated with the lack of dense forests and
+    with orders that they be killed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Yucas
+  description: Rulers or authorities who ordered that bears should be killed, according
+    to the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: tigers / uturuncu
+  description: Fierce beasts found in the Antis; the narrator later recalls or believes
+    their name to be uturuncu. One tiger is identified as sire of the lioness’s whelps.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: great serpents / amaru
+  description: Great serpents that breed in the Antis forests, described as very long
+    and thick.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: smaller snakes, vipers, and evil reptiles
+  description: Reptiles of the Antis region, including smaller snakes called machachuay
+    and poisonous vipers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Spaniard known to the narrator
+  description: A Spaniard who killed a great lioness in the Antis near Cuzco.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: great lioness
+  description: A lioness in the Antis near Cuzco who climbed into a high tree and
+    was killed by four lance thrusts.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:9
+  name_or_label: two whelps
+  description: Two unborn whelps found in the lioness’s belly, described as sons of
+    a tiger and marked with the sire’s spots.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: narrator
+  description: First-person speaker who comments on forgetting and later recalling
+    the Peruvian-language name for tiger.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: named animal or reptile group
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage lists these animals or reptiles and gives local names or regional
+    descriptions for them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: role:2
+  label: authority ordering animal killing
+  assigned_to:
+  - fig:3
+  basis: The passage states that the Yucas ordered bears to be killed.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: human killer of the lioness
+  assigned_to:
+  - fig:7
+  basis: The Spaniard is said to have killed the lioness with lance thrusts.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: killed animal
+  assigned_to:
+  - fig:8
+  basis: The lioness climbed a tree and was killed by four thrusts of a lance.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: offspring found in womb
+  assigned_to:
+  - fig:9
+  basis: The whelps were found in the lioness’s belly and identified by their spotted
+    skins.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: sire indicated by markings
+  assigned_to:
+  - fig:4
+  basis: The whelps are described as sons of a tiger because their skins had the sire’s
+    spots.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: narrating linguistic informant
+  assigned_to:
+  - fig:10
+  basis: The narrator explains his lapse of memory and gives the name uturuncu for
+    tiger.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: great serpent
+  literal_form: great serpents called amaru
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: high tree
+  literal_form: a high tree climbed by the lioness before she was killed
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: spotted skins
+  literal_form: the whelps’ skins marked with their sire’s spots
+  associated_figures:
+  - fig:4
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Survey of animals and regions
+  summary: The passage describes pumas, bears, tigers, serpents, snakes, vipers, and
+    reptiles, distinguishing Peru from the forested Antis region.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Killing of the lioness and discovery of whelps
+  summary: A Spaniard kills a lioness in a high tree in the Antis near Cuzco, and
+    two unborn whelps are found in her belly with tiger-like spots.
+  figure_refs:
+  - fig:4
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Narrator recalls the tiger name
+  summary: The narrator comments on forgetting his native language after decades without
+    using it and gives uturuncu as the tiger’s name.
+  figure_refs:
+  - fig:4
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: great serpent in remote forest region
+  taxonomy_refs:
+  - serpent
+  basis: Great serpents called amaru are said to breed in the dense forests of the
+    Antis and are given extraordinary measurements.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents this as natural history, not as a mythic serpent
+    episode.
+- id: motif:2
+  label: offspring marked by the sire
+  taxonomy_refs: []
+  basis: The two whelps are identified as sons of a tiger because their skins bear
+    the sire’s spots.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is an anecdotal zoological claim in the passage; no explicit mythic
+    or ritual function is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17270-17273
+  quote_or_summary: Lions are found but are smaller and less fierce than African lions;
+    the Indians call them puma.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 17273-17279
+  quote_or_summary: Bears are rare because Peru lacks dense forests; the Yucas ordered
+    them killed; the bear is called ucumari.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 17279-17283
+  quote_or_summary: Tigers are found only in the Antis, where there are dense forests
+    and where great serpents called amaru breed.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 17283-17289
+  quote_or_summary: The amaru are described as twenty-five to thirty feet long and
+    thicker than a man’s thigh; smaller snakes called machachuay, poisonous vipers,
+    and other reptiles are also described as present in that region.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 17289-17294
+  quote_or_summary: A Spaniard known to the narrator killed a great lioness in the
+    Antis near Cuzco after she climbed a high tree; she was killed by four lance thrusts.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 17294-17298
+  quote_or_summary: Two whelps were found in the lioness’s belly and were called sons
+    of a tiger because their skins were marked with the sire’s spots.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 17298-17306
+  quote_or_summary: The narrator says he forgot the Peruvian-language name for tiger
+    after forty-two years without speaking or writing the language, and then states
+    that he believes the tiger is called uturuncu.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is primarily natural-history description rather than myth narrative.
+    No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The printed heading appears to contain OCR irregularities, but the extraction follows the supplied passage text and metadata. Interpretive claims have been kept minimal.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l17263-l17306
+  passage_sha256=508c103ec811b6d9c09a0af1291b546042684c4857cb20bc3f07d000749d548b
+

@@ -1,0 +1,451 @@
+---
+record_id: batch.motif.malay-pagan-races-malay-peninsula-skeat-blagden-vol1-archive-l24140-l24168
+source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+passage_locator:
+  label: MYTH-BAMBOOS    AND    OTHERS.1 / VOL.  I  2  G / C       3 / TART  II; lines
+    24140-24168
+  start: '24140'
+  end: '24168'
+  translation: Pagan Races of the Malay Peninsula, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives technical corrections for geometric printed figures
+    or patterns: hatching with right angles, figures above a disc at A, overlapping
+    crescent-shaped figures, right-angled cross-lines, regular crosses with inner
+    squares, and a corrected gable-and-square arrangement above a disc-pattern. The
+    passage ends mid-instruction.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hatched element is described in which right angles become larger as they
+    approach the corners.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One group of figures is said to be exactly like figures at a referenced label
+    printed or OCR-rendered as “By”; above the disc-figure at A there should be only
+    two figures, with the lower one considerably longer than the upper.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Crescent-shaped figures should be arranged one behind another so that the
+    upper point is covered by the end of the lower crescent.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Part of one group of figures should show right-angled cross-lines.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A group of figures differs at the top and bottom, but all should be regular
+    crosses.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Lower figures should have the points of an inner square placed on vertical
+    margin-lines.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Another set of cross-lines should be right-angled.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The pattern above the disc-pattern at A is described as incorrect, and a one-lined
+    gable-shaped figure over the disc should be obliterated.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The uppermost square should have a one-lined gable-shaped figure above it,
+    with a short one-lined under-piece; another portion is triple-lined and forms
+    a double strip passing into the second figure without a dividing line at the top
+    of the second square.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: All other lines of the lower square are double, and the third square is to
+    be extended, though the instruction is cut off in the passage.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: disc-figure or disc-pattern at A
+  description: A disc figure or pattern marked A, with other figures or patterns positioned
+    above it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:2
+  name_or_label: figures at By/B
+  description: A referenced set of figures; another group is said to be exactly like
+    these figures. The label appears in the passage as “By,” possibly due to OCR.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: K crescent-shaped figures
+  description: Crescent-shaped figures arranged one behind another, with the point
+    of the upper covered by the end of the lower.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: L figures with right-angled cross-lines
+  description: Figures of which part should show right-angled cross-lines.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: M regular cross figures
+  description: Figures that differ at top and bottom but should all be regular crosses;
+    lower figures should align inner-square points with vertical margin-lines.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: N cross-line figures
+  description: Figures whose cross-lines should be right-angled.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: O pattern above disc-pattern at A
+  description: A corrected pattern above the disc-pattern at A involving removal of
+    a one-lined gable over the disc, an upper square, a gable-shaped figure, under-piece,
+    triple-lined portion, double strip, second square, lower square, and third square.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: internal reference pattern
+  assigned_to:
+  - fig:2
+  basis: The passage says another group of figures is exactly like the figures at
+    the referenced label.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: corrected diagram element
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The passage repeatedly states how these diagram elements should be drawn
+    or corrected.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:3
+  label: element to be obliterated
+  assigned_to:
+  - fig:7
+  basis: A one-lined gable-shaped figure over the disc is specifically said to be
+    obliterated.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: hatching with enlarging right angles
+  literal_form: hatching and right angles
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: disc figure
+  literal_form: disc-figure or disc-pattern
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:3
+  label: overlapping crescents
+  literal_form: crescent-shaped figures placed one behind another
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: right-angled cross-lines
+  literal_form: cross-lines at right angles
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: regular crosses
+  literal_form: regular cross figures
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: inner square and margin alignment
+  literal_form: inner square with points on vertical margin-lines
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: gable-shaped figure
+  literal_form: one-lined gable-shaped figure with under-piece
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:8
+  label: double and triple line strips
+  literal_form: double lines, triple-lined portion, and double strip
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:9
+  label: stacked square pattern
+  literal_form: uppermost square, second square, lower square, and third square
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Figures above disc A compared with referenced figures
+  summary: The passage states that one group of figures matches a referenced group
+    at By/B, but specifies that above the disc-figure at A there should be two figures,
+    the lower longer than the upper.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Corrections to crescent, cross-line, and cross figures
+  summary: The passage describes overlapping crescents, right-angled cross-lines,
+    regular crosses, and lower figures whose inner-square points align with vertical
+    margin-lines.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Correction of pattern O above disc-pattern A
+  summary: The passage marks the pattern above disc-pattern A as incorrect, removes
+    a one-lined gable over the disc, and specifies a revised arrangement of gable,
+    under-piece, line strips, and squares; the final instruction is incomplete.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: overlapping crescent visual pattern
+  taxonomy_refs: []
+  basis: The passage explicitly describes crescent-shaped figures placed one behind
+    another, with the upper point covered by the lower end.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a visual or ornamental pattern in a technical correction note,
+    not a mythic motif in the passage.
+- id: motif:2
+  label: regular cross and inner-square geometric pattern
+  taxonomy_refs: []
+  basis: The passage specifies regular crosses and lower figures with inner-square
+    points aligned on vertical margin-lines.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No religious or narrative meaning is supplied by the passage.
+- id: motif:3
+  label: disc with superposed gable-and-square arrangement
+  taxonomy_refs: []
+  basis: The passage describes a disc-pattern at A with an incorrect pattern above
+    it and gives corrections involving a gable-shaped figure, squares, and double
+    or triple lines.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The instruction ends mid-sentence and appears to be a figure-correction
+    note; symbolic meaning is not stated.
+- id: motif:4
+  label: right-angled hatching and cross-line pattern
+  taxonomy_refs: []
+  basis: The passage mentions right angles in hatching and requires right-angled cross-lines
+    in multiple figure groups.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is extracted as a geometric pattern only; no mythological function
+    is indicated.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares one group of figures with the figures at
+    the referenced label printed or OCR-rendered as By/B, saying they are exactly
+    alike.
+  claim_level: visual_similarity
+  target: figures at By/B within the same diagram or plate
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is only an internal visual comparison within the passage; the
+    referenced label is OCR-uncertain and no broader tradition or historical relationship
+    is stated.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 24140-24141
+  quote_or_summary: The passage mentions hatching and says right angles become larger
+    as they approach the corners.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 24142-24147
+  quote_or_summary: A group of figures is said to be exactly like those at a referenced
+    label printed/OCR-rendered as By; above the disc-figure at A there should only
+    be two figures, with the lower longer than the upper.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 24147-24150
+  quote_or_summary: For K, crescent-shaped figures should be one behind the other
+    so that the point of the upper is covered by the end of the lower.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 24150-24152
+  quote_or_summary: For L, part of the figures should show right-angled cross-lines.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 24153-24157
+  quote_or_summary: For M, figures differ at top and bottom but should all be regular
+    crosses; lower figures should have inner-square points on vertical margin-lines.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 24158-24159
+  quote_or_summary: For N, the cross-lines of the figures should be right-angled.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 24159-24163
+  quote_or_summary: For O, the pattern above the disc-pattern at A is called incorrect;
+    a one-lined gable-shaped figure over the disc should be obliterated.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 24163-24167
+  quote_or_summary: The uppermost square should have above it a one-lined gable-shaped
+    figure with a short one-lined under-piece; another part is triple-lined, forming
+    a double strip and passing into the second figure without a dividing line at the
+    top of the second square.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 24167-24168
+  quote_or_summary: All other lines of the lower square are double, and the third
+    square must be extended; the passage cuts off before the direction is completed.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a technical figure-correction note with OCR irregularities
+    and ends mid-sentence. Extracted motifs are visual/geometric patterns only; no
+    mythic actors, narrative actions, or religious interpretations are stated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available mythological taxonomy motif family or symbol reference is assigned because the passage provides only geometric figure-correction details.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-pagan-races-malay-peninsula-skeat-blagden-vol1-archive__l24140-l24168
+  passage_sha256=60df3ca51b2c371c3e320b851571fe0492021a080091bb4e3cbc55bbf5f991cd
+

@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.native-american-menomini-bundles-skinner-archive-l3722-l3824
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+passage_locator:
+  label: DREAM  FASTING  OF  YOUTHS  AND  MAIDENS. / MENSTRUAL  CUSTOMS. / GAMES.
+    / MONTHS  AND  SEASONS.; lines 3722-3824
+  start: '3722'
+  end: '3824'
+  translation: Social Life and Ceremonial Bundles of the Menomini Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Menomini time reckoning by winters, five named seasons,
+    twelve named lunar months, six directions including up and beneath, and an eclipse
+    custom in which warriors fired at an eclipse to ward off calamity. A note says
+    Le Jeune reported the same custom among the Huron.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Menomini are described as having no calendar sticks or painted year counts,
+    with historical reckoning done mentally.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Winter was used as the unit corresponding to a year.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'The lunar year is described as divided into five seasons: winter, spring,
+    summer, autumn, and Indian summer, with Menomini names given.'
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Twelve lunar months were recognized, although the author notes uncertainty
+    about whether this custom was introduced by Europeans.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The listed month names are associated with moons named for divinity, fish,
+    snow crust, sugar-making, bark, berries, ripening, leaves, frozen ground, deer
+    rutting, and a god moon.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Directions are described as six in number, adding up and down to the compass
+    points, with dual terminology for most directions.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: An eclipse was thought to presage calamity.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Warriors would fire at an eclipse to ward off the danger.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage states that Le Jeune said the same eclipse custom was known to
+    the Huron.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Menomini
+  description: The people whose time reckoning, seasons, directions, and eclipse custom
+    are described in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Menomini warriors
+  description: Warriors who would fire at an eclipse to ward off danger.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Huron
+  description: A people among whom Le Jeune is said to report the same eclipse custom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Le Jeune
+  description: A cited source who is said to report the same custom among the Huron.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: ethnographic subject
+  assigned_to:
+  - fig:1
+  basis: The passage describes Menomini reckoning, seasons, months, directions, and
+    eclipse response.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: warders-off of eclipse danger
+  assigned_to:
+  - fig:2
+  basis: The warriors fire at the eclipse to ward off the danger it presages.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: comparison group for eclipse custom
+  assigned_to:
+  - fig:3
+  basis: The passage says the same custom was known to the Huron.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: cited source for comparison
+  assigned_to:
+  - fig:4
+  basis: Le Jeune is cited for the statement about the Huron custom.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: winter as year unit
+  literal_form: Winter used as the reckoning unit corresponding to a year.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: five seasons
+  literal_form: Winter, spring, summer, autumn, and Indian summer as divisions of
+    the lunar year.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: named lunar moons
+  literal_form: Twelve lunar months with names such as Great god moon, Sucker moon,
+    Sugar-making moon, Strawberry moon, Falling leaves moon, and God moon.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: six directions
+  literal_form: East, south, west, north, up or heavenward, and beneath.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: eclipse
+  literal_form: A celestial eclipse thought to presage calamity.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: firing at eclipse
+  literal_form: Warriors firing at an eclipse to ward off danger.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Mental reckoning and seasonal year
+  summary: Menomini historical reckoning is described as mental, using winter as the
+    year unit and dividing the lunar year into five named seasons.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Named lunar months
+  summary: The passage lists twelve recognized lunar months and their English glosses,
+    while noting uncertainty about possible European introduction of the twelve-month
+    custom.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Six-direction orientation
+  summary: The passage gives Menomini directions as six in number, adding up or heavenward
+    and beneath to the compass directions.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Eclipse danger and response
+  summary: An eclipse is described as a sign of calamity, and warriors fire at it
+    to ward off the danger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Huron comparison note
+  summary: The passage notes that Le Jeune said the same eclipse custom was known
+    to the Huron.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: seasonal cycle and lunar reckoning
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage describes winter as a year unit, a five-part seasonal division
+    of the lunar year, and twelve named lunar months.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage itself notes uncertainty about whether recognition of twelve
+    lunar months was introduced by Europeans.
+- id: motif:2
+  label: six-direction cosmological orientation
+  taxonomy_refs: []
+  basis: The passage describes six directions by adding up or heavenward and beneath
+    to the compass points.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage provides terminology but no narrative or ritual action connected
+    to the directions.
+- id: motif:3
+  label: eclipse as calamity omen warded by shooting
+  taxonomy_refs: []
+  basis: The passage says an eclipse was thought to presage calamity and that warriors
+    fired at it to ward off danger.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain the cosmological cause of the eclipse or
+    the mechanism by which firing wards off danger.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Menomini eclipse-firing custom with a
+    Huron custom reported by Le Jeune, presenting them as the same custom.
+  claim_level: same_function
+  target: Huron eclipse custom reported by Le Jeune
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is brief and secondhand within the passage; no details
+    of the Huron practice are provided here beyond the statement that it was the same
+    custom.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3722-3728
+  quote_or_summary: The Menomini had no calendar sticks or painted year counts; historical
+    reckoning was mental, with winter as the unit corresponding to a year.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 3728-3737
+  quote_or_summary: 'The lunar year is divided into five seasons: Pipon/Piponowik
+    winter, Sikwon/Sikwonowik spring, Nepin summer, Tukwuok/Tukwogowik autumn, and
+    Sawan Indian summer.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 3739-3795
+  quote_or_summary: Twelve lunar months are recognized, with Menomini names and English
+    glosses, while the author notes no proof that the custom was not introduced by
+    Europeans.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 3796-3812
+  quote_or_summary: Directions are six in number because up/heavenward and beneath
+    are added to the compass points; most directions have dual terminology.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 3813-3817
+  quote_or_summary: An eclipse was thought to presage calamity, and warriors would
+    fire at it to ward off the danger.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 3816-3820
+  quote_or_summary: The passage states that Le Jeune says the same custom was known
+    to the Huron, with a citation to Jesuit Relations, X, 59.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is ethnographic and mostly descriptive. Seasonal-cycle and eclipse-response
+    motifs are directly supported; broader symbolic interpretation is limited by the
+    absence of narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy reference was applied only where directly supported by the seasonal reckoning material.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-menomini-bundles-skinner-archive__l3722-l3824
+  passage_sha256=2711a2f50d77af24ec2e3a6753703c7b67b0c43ee49dca41580c8f6630cbebcd
+

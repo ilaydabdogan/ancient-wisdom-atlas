@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.native-american-eastern-cree-skinner-archive-l2843-l2870
+source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/eastern-cree-northern-saulteaux-skinner.md
+passage_locator:
+  label: TRAVEL AND TRANSPORTATION. / SIGNS AND SIGNALS. / DIVISIONS OF TIME. / MISCELLANEOUS.;
+    lines 2843-2870
+  start: '2843'
+  end: '2870'
+  translation: Notes on the Eastern Cree and Northern Saulteaux
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes markings on animal skins and skin tents: some are
+    made to propitiate an animal spirit, some form decorative borders including crosses,
+    and some resemble sacred crosses on shaman''s drums. Paintings on the inner skin
+    surface represent the animal from which the skin came; red daubs outline the animal''s
+    eyes when the head skin is used as a hood. The markings are said to symbolize
+    that the skin is animate and able to imbue the owner.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Markings are described as being made with the idea of propitiating the animal's
+    spirit.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Decorative borders on skin tents include other figures, among them solid rectangular
+    crosses.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dot figures are described as similar to sacred crosses painted on shaman's
+    drums.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Paintings on the inner surface of the skin represent the animal from which
+    the skin was taken.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Red daubs outline the animal's eyes when the skin of its head is used as a
+    hood.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The markings are said to symbolize that the skin is animate and able to imbue
+    the owner.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: animal's spirit
+  description: A spirit associated with the animal, described as being propitiated.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: source animal
+  description: The animal from which the skin was taken and which is represented by
+    paintings on the skin.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: owner
+  description: The owner who is described as able to be imbued by the animate skin.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: propitiated spirit
+  assigned_to:
+  - fig:1
+  basis: The passage says markings are made with the idea of propitiating the animal's
+    spirit.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: represented animal
+  assigned_to:
+  - fig:2
+  basis: The inner skin paintings represent the animal from which the skin was taken.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: recipient owner
+  assigned_to:
+  - fig:3
+  basis: The markings symbolize that the animate skin is able to imbue the owner.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: animate animal skin
+  literal_form: animal skin, including head skin used as a hood
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: solid rectangular crosses
+  literal_form: solid rectangular crosses on skin-tent decorative borders
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: dot figures resembling sacred crosses
+  literal_form: dot figures similar to sacred crosses painted on shaman's drums
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: red daubs around eyes
+  literal_form: red daubs outlining the animal's eyes on a head skin used as a hood
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Propitiatory and decorative markings
+  summary: Markings are associated with propitiating the animal's spirit and with
+    decorative skin-tent borders containing figures such as solid rectangular crosses;
+    dot figures are compared with sacred crosses on shaman's drums.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Animal skin representation and animacy
+  summary: Paintings on the inner skin surface represent the source animal. When the
+    head skin is used as a hood, red daubs outline the eyes. The markings symbolize
+    that the skin is animate and can imbue the owner.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Propitiation of an animal spirit through markings
+  taxonomy_refs: []
+  basis: The passage explicitly links markings with the idea of propitiating the animal's
+    spirit.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic note rather than a narrative episode.
+- id: motif:2
+  label: Animate animal skin as empowering covering
+  taxonomy_refs: []
+  basis: The skin represents the animal, is marked at the eyes when used as a hood,
+    and is said to be animate and able to imbue the owner.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The sentence ends after 'owner' in the supplied passage, so the exact
+    nature of what is imbued is not provided.
+- id: motif:3
+  label: Sacred cross-like ritual markings
+  taxonomy_refs: []
+  basis: The passage mentions solid rectangular crosses on skin tents and dot figures
+    similar to sacred crosses painted on shaman's drums.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage provides a visual and ritual association but does not explain
+    the full meaning of the cross forms.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares observed dot figures with sacred crosses painted
+    on shaman's drums.
+  claim_level: visual_similarity
+  target: sacred crosses on shaman's drums
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to similarity stated in the passage and does
+    not establish shared origin or identical function.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2843-2870
+  quote_or_summary: Markings are described as propitiating the animal's spirit and
+    as decorative borders on skin tents, with figures including solid rectangular
+    crosses.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/eastern-cree-northern-saulteaux-skinner.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2843-2870
+  quote_or_summary: Dot figures are described as similar to sacred crosses painted
+    on shaman's drums.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/eastern-cree-northern-saulteaux-skinner.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2843-2870
+  quote_or_summary: Paintings on the inner surface of the skin represent the animal
+    from which the skin was taken.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/eastern-cree-northern-saulteaux-skinner.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2843-2870
+  quote_or_summary: Red daubs outline the animal's eyes when the skin of its head
+    is used as a hood.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/eastern-cree-northern-saulteaux-skinner.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2843-2870
+  quote_or_summary: The markings symbolize that the skin is animate and able to imbue
+    the owner.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/eastern-cree-northern-saulteaux-skinner.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based only on the supplied passage. Some text appears fragmentary
+    and ends mid-thought after the statement that the animate skin can imbue the owner.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy symbol references clearly apply to the literal symbols in this passage; taxonomy_refs are therefore left empty.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-eastern-cree-skinner-archive__l2843-l2870
+  passage_sha256=877312341c99eb470955653dea6d641becafe498f9e6cf72b3562ee48e690cbc
+

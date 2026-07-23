@@ -1,0 +1,236 @@
+---
+record_id: batch.motif.korean-corea-the-hermit-nation-griffis-archive-l13978-l13984
+source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+passage_locator:
+  label: CHAPTER  XL. / PBBSECUTION  AND  MARTYRDOM. / PERSECUTION  AND  MARTYRDOM.  357
+    / PERSECUTION  AND  MARTYRDOM.  359; lines 13978-13984
+  start: '13978'
+  end: '13984'
+  translation: Corea, the Hermit Nation
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: '"The Religion of Jesus Christ" ... "May the spirits of the earth bless you!"'
+  summary: Native Christians near Wen-san board ships after seeing a Christian legend
+    on a flag. A Protestant minister greets them with a formula described as sacramental
+    among pagans. The visitors conclude they have been deceived, leave quickly, do
+    not return the greeting, and make no further visits.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The episode occurs while ships are off the island of Wen-san.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some native Christians come on board after being attracted by a flag legend
+    in Chinese characters reading "The Religion of Jesus Christ."
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A Protestant minister salutes the visitors with the words, "May the spirits
+    of the earth bless you!"
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The greeting is described in the passage as sacramental among pagans.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The neophytes interpret the encounter as deception and as a snare laid for
+    their good faith.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The neophytes withdraw quickly, do not return the salute, and make no further
+    visits to the ships.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: native Christians / neophytes
+  description: Visitors who board the ships after seeing the Christian legend on the
+    flag and then leave when they believe they have been deceived.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Protestant minister
+  description: A minister who salutes the native Christians with a formula invoking
+    the spirits of the earth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: spirits of the earth
+  description: Beings invoked in the minister's spoken blessing formula.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: ship visitors
+  assigned_to:
+  - fig:1
+  basis: They come on board after seeing the flag legend.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: speaker of greeting
+  assigned_to:
+  - fig:2
+  basis: The minister salutes the visitors with the quoted words.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: rejecters of the encounter
+  assigned_to:
+  - fig:1
+  basis: They leave without returning the salute and make no further visits.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: invoked blessing agents
+  assigned_to:
+  - fig:3
+  basis: The words of greeting ask the spirits of the earth to bless the hearers.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Christian flag legend
+  literal_form: A flag with Chinese characters reading "The Religion of Jesus Christ."
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: earth-spirit blessing formula
+  literal_form: The spoken salute, "May the spirits of the earth bless you!"
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: unreturned salute
+  literal_form: The visitors do not return the minister's salute before leaving.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Boarding prompted by flag legend
+  summary: Off Wen-san, native Christians come aboard after seeing a Christian religious
+    inscription on a flag.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Greeting and withdrawal
+  summary: A Protestant minister greets the visitors with a formula invoking earth
+    spirits; the visitors interpret the situation as deception, withdraw, and make
+    no further visits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: deceptive religious sign draws believers into contact
+  taxonomy_refs: []
+  basis: A flag bearing a Christian legend attracts native Christians aboard, after
+    which they conclude a snare has been laid for their good faith.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage reports the visitors' conclusion of deception but does not
+    describe the intent behind the flag beyond their interpretation.
+- id: motif:2
+  label: recognition of religious mismatch through improper greeting
+  taxonomy_refs: []
+  basis: The visitors hear a greeting described as sacramental among pagans and respond
+    by leaving without returning the salute.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain the doctrinal reasoning, only the immediate
+    reaction and the narrator's description of the greeting.
+- id: motif:3
+  label: refusal of ritual speech exchange
+  taxonomy_refs: []
+  basis: The neophytes withdraw without returning the minister's salute.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a small behavioral motif within a historical anecdote, not a developed
+    mythic narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13978-13980
+  quote_or_summary: Off Wen-san, native Christians are attracted by the flag legend
+    "The Religion of Jesus Christ" and come on board.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 13980-13982
+  quote_or_summary: 'A Protestant minister salutes them with words described as sacramental
+    among pagans: "May the spirits of the earth bless you!"'
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 13982-13984
+  quote_or_summary: The neophytes think they have been deceived and that a snare has
+    been laid for their good faith; they leave quickly, do not return the salute,
+    and make no further visits to the ships.
+  source_text_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  rights_note: Public domain source; summarized from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and historically framed. Literal events are clear; motif
+    labels are cautious and not linked to supplied taxonomy IDs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific broader comparative claim beyond its internal Christian/pagan contrast.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-corea-the-hermit-nation-griffis-archive__l13978-l13984
+  passage_sha256=2d9e828c8d7ec78ff6d778b6037267338278ea2877fa9a3167bbe9552959fd51
+

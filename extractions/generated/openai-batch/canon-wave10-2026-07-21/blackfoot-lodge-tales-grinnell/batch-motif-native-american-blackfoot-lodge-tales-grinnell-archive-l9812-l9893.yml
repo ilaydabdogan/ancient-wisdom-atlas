@@ -1,0 +1,488 @@
+---
+record_id: batch.motif.native-american-blackfoot-lodge-tales-grinnell-archive-l9812-l9893
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+passage_locator:
+  label: HUNTING  233 / HUNTING  235 / HUNTING  237 / HUNTING  239; lines 9812-9893
+  start: '9812'
+  end: '9893'
+  translation: Blackfoot Lodge Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: An ethnographic passage describes Blackfoot methods for catching eagles
+    from a concealed pit, including decoys, bait, songs, sweet-grass smoke purification,
+    fasting, capture by the feet, killing, and a post-hunt rite in a special eagles'
+    lodge where the dead birds are fed with pemmican. It also notes prayer to a ghost
+    associated with a human skull, the value of eagles, and briefly describes methods
+    for hunting other game.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A concealed pit is covered with juniper twigs and grass, and a stuffed wolf,
+    coyote, or fox skin is arranged with a rope tied to meat bait.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hunter sings eagle songs at night, burns sweet grass, rubs smoke over
+    his body for purification, and leaves before day without eating or drinking.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The hunter lies in the pit, uncovers the bait, holds the rope, and ignores
+    crows and other birds that peck at the bait.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When an eagle approaches the bait and steps onto the roof, the hunter reaches
+    through the sticks, grasps the bird by both feet, draws it into the pit, and wrings
+    its neck.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At dark, the hunter takes the captured eagles to a special lodge outside the
+    camp called the eagles' lodge.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The dead eagles are placed in a row with their heads raised on a stick, and
+    each has pemmican placed in its mouth.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The stated purpose of feeding the eagles is that their spirits may tell other
+    eagles that the people feed and treat them well.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A human skull is kept in the lodge, and people pray to it, asking the ghost
+    to help them obtain eagles.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage says that forty eagles were once killed in one pit in a day, that
+    large hawks were also caught, and that eagles were highly valued in exchange.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Other game such as deer and elk were usually hunted singly by creeping close,
+    while deadfalls, nooses, and snares were used for wolves, foxes, and other fur
+    animals.
+  category: action
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: eagle hunter
+  description: The man who prepares the eagle pit, performs songs and purification,
+    waits in concealment, captures eagles, and carries them to the eagles' lodge.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: eagles
+  description: Birds lured to the bait, captured from the pit, killed, carried to
+    the eagles' lodge, arranged in a row, and fed with pemmican.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: eagle spirits
+  description: The spirits of the eagles are expected to tell other eagles how the
+    people treat and feed them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: ghost associated with the human skull
+  description: A ghost addressed through a human skull in the eagles' lodge and asked
+    to help the people get eagles.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: crows and other birds
+  description: Birds that alight by the bait and peck at it before flying away when
+    the eagle approaches.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: large hawks
+  description: Birds also caught by the same general eagle-catching practice, though
+    eagles are said to be most highly valued.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: deer and elk
+  description: Game animals usually killed singly by hunters creeping close in brush
+    and shooting arrows.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: wolves, foxes, coyotes, and other fur animals
+  description: Animals caught with deadfalls, nooses, snares, or stake arrangements
+    around carcasses.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: ritual hunter
+  assigned_to:
+  - fig:1
+  basis: The man performs songs, smoke purification, fasting, concealment, capture,
+    and post-hunt handling of eagles.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: valued captured bird
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: Eagles are the primary birds caught and ritually handled; large hawks are
+    also caught, but eagles are most highly valued.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: animal-spirit messenger
+  assigned_to:
+  - fig:3
+  basis: The passage states that eagle spirits may tell other eagles how they are
+    being treated and fed by the people.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: ghost helper
+  assigned_to:
+  - fig:4
+  basis: People pray to the human skull, asking the ghost to help them get eagles.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: non-target bait birds
+  assigned_to:
+  - fig:5
+  basis: Crows and other birds peck at the bait but are ignored by the hunter and
+    leave when the eagle approaches.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: other game prey
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The passage separately describes methods for taking deer, elk, wolves, foxes,
+    coyotes, and other fur animals.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: concealed hunting pit
+  literal_form: pit covered with juniper twigs, grass, and a stick roof
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: canid-skin decoy
+  literal_form: stuffed skin of a wolf, coyote, or fox made to look natural
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: meat bait and rope
+  literal_form: large piece of meat tied to a rope passing through the decoy and roof
+    into the pit
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: sweet-grass smoke
+  literal_form: smoke from burned sweet grass rubbed over the hunter's body
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: eagles' lodge
+  literal_form: special lodge outside the camp where captured eagles are placed
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: pemmican in eagle mouths
+  literal_form: piece of pemmican placed in the mouth of each dead eagle
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: human skull
+  literal_form: human skull kept in the eagles' lodge and addressed in prayer
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Preparing the eagle trap
+  summary: A hunter prepares a covered pit, a stuffed canid-skin decoy, a rope, and
+    concealed meat bait.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Purification and concealed vigil
+  summary: The hunter sings eagle songs, uses sweet-grass smoke to purify himself,
+    fasts, enters the pit before day, and waits with the bait uncovered.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Capturing the eagle
+  summary: An eagle descends to the bait, walks onto the roof, and is seized by the
+    feet, pulled into the pit, and killed by the hunter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Eagles' lodge rite
+  summary: After dark, captured eagles are taken to a special lodge, arranged in a
+    row, fed with pemmican, and associated with prayers to a ghost through a human
+    skull.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Other game methods
+  summary: The passage briefly notes stalking deer and elk, using deadfalls and snares
+    for fur animals, and beginning a description of a stake arrangement around carcasses
+    for wolves and coyotes.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Ritualized hunting reciprocity with animal spirits
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Dead eagles are fed with pemmican so that their spirits may tell other eagles
+    they are being fed and treated by the people.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents an ethnographic hunting rite rather than a narrative
+    myth; the taxonomy fit is functional rather than a direct named motif.
+- id: motif:2
+  label: Purification and fasting before a ritual hunt
+  taxonomy_refs: []
+  basis: Before entering the pit, the hunter sings eagle songs, burns sweet grass,
+    rubs smoke over himself to purify his body, and goes out without eating or drinking.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No initiation or transformation is stated; this is limited to preparation
+    for eagle hunting.
+- id: motif:3
+  label: Hidden hunter using decoy and bait
+  taxonomy_refs: []
+  basis: The hunter hides in a covered pit, uses a lifelike stuffed canid skin and
+    meat bait attached to a rope, and captures the eagle from below by the feet.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a practical hunting pattern in the passage and should not be treated
+    as a trickster narrative without additional evidence.
+- id: motif:4
+  label: Ghost or skull invoked for hunting help
+  taxonomy_refs: []
+  basis: A human skull is kept in the eagles' lodge, and people pray to it, asking
+    the ghost to help them get eagles.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not identify the ghost or explain a broader ancestral
+    or mythic context.
+comparison_claims:
+- id: claim:1
+  claim: The eagle-lodge rite is functionally comparable to a sacred-exchange pattern
+    because food is placed in dead eagles' mouths with the stated aim that their spirits
+    will report favorable treatment to other eagles.
+  claim_level: same_function
+  target: sacred_exchange motif family
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not describe an explicit bargain, covenant, or named
+    mythic exchange; it describes a hunting practice and its stated ritual rationale.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9812-9823; eagle-pit setup paragraph
+  quote_or_summary: A pit is covered with juniper twigs and grass; a stuffed wolf,
+    coyote, or fox skin is made lifelike, and a rope ties it to a large piece of meat
+    used as bait.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 9824-9837; purification and waiting paragraph
+  quote_or_summary: At night the hunter sings eagle songs, burns sweet grass, rubs
+    the smoke over himself to purify and avoid scent, leaves before day without food
+    or drink, enters the pit, uncovers the bait, and waits while lesser birds peck
+    at it.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: lines 9838-9857; eagle approach and capture paragraph
+  quote_or_summary: An eagle descends slowly, lands near the bait, approaches, and
+    steps onto the roof; the hunter sees its head direction through the crevices,
+    seizes both feet, draws it into the pit, and wrings its neck.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 9858-9872; eagles' lodge paragraph
+  quote_or_summary: After dark, the hunter takes the eagles to a special lodge outside
+    camp, places them in a row with heads raised on a stick, and puts pemmican in
+    each mouth so their spirits may tell other eagles that the people feed and treat
+    them well.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: quote
+  locator: lines 9872-9875; human skull and ghost prayer
+  quote_or_summary: "“In the lodge is a human skull, and they pray to it, asking the
+    ghost to help them get the eagles.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 9876-9883; yield and exchange value note
+  quote_or_summary: The passage reports that one pit once yielded forty eagles in
+    a day; large hawks were also caught, but eagles were most valued, with five eagles
+    formerly worth a good horse in Blackfoot country.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: summary
+  locator: lines 9884-9890; other game paragraph
+  quote_or_summary: Deer and elk were not taken in numbers by special means; hunters
+    crept close in brush and shot arrows, sometimes returning the next day to find
+    wounded animals dead or disabled nearby.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:8
+  type: summary
+  locator: lines 9891-9893; fur-animal traps and wolf/coyote method beginning
+  quote_or_summary: Deadfalls, nooses, and snares were used for wolves, foxes, and
+    other fur animals; another method for wolves and coyotes began with heavy stakes
+    set in a circle around carcasses.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the hunting procedure and eagle-lodge rite.
+    Motif classification is more tentative because the source passage is ethnographic
+    and procedural rather than a myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. The final paragraph on stake arrangements is truncated in the supplied range, so only the visible portion was summarized.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-blackfoot-lodge-tales-grinnell-archive__l9812-l9893
+  passage_sha256=106d0b4072dec7380b91cad311a137cc7830a49fd997bfd036edb0a95d7e3d08
+

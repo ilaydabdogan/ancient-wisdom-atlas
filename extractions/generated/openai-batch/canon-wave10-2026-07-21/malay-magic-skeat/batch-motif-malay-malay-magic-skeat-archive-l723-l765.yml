@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l723-l765
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: LEGEND  OF  HAJI  BATU / NATURE / CAUSE  OF  ECLIPSES / NATURE; lines 723-765
+  start: '723'
+  end: '765'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a Malay account of lunar eclipse in which people
+    make loud noise with gongs, drums, shouts, and voices to frighten away a monster
+    that is trying to swallow the Moon. A footnote says the monster is Rahu and connects
+    the word Gerhana with Sanskrit terminology for eclipse.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Malays are said to make a loud din during an eclipse because they imagine
+    the noise will frighten the monster away.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At Pekan, when the Moon has nearly waxed full, brass gongs, Malay drums, yells,
+    and many voices fill the night with noise.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Moon is described as being in danger because the monster Gerhana is trying
+    to swallow her.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The monster's black bulk is described as creeping over the Moon, dimming her
+    face, and consuming her.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speakers shout, clang gongs, and beat drums in an effort to scare the
+    Monster from its prey.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A footnote states that Gerhana is from a Sanskrit word meaning eclipse and
+    that the monster's name is Rahu.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The noise is described as rolling across river waters and echoing back from
+    the jungle on the far bank.
+  category: setting
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Moon
+  description: The nearly full Moon is described as dear, light-giving, and in dire
+    peril during the eclipse.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Gerhana / Rahu
+  description: A fierce hated monster, identified in a footnote as Rahu, whose black
+    bulk is said to creep over and swallow the Moon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Malays / people of Pekan
+  description: Human participants who make noise with gongs, drums, shouts, and voices
+    to frighten the monster away.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: threatened celestial body
+  assigned_to:
+  - fig:1
+  basis: The Moon is described as in dire peril and being swallowed during the eclipse.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: eclipse monster and aggressor
+  assigned_to:
+  - fig:2
+  basis: Gerhana/Rahu is described as a monster striving to swallow the Moon.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: human noisemakers and would-be rescuers
+  assigned_to:
+  - fig:3
+  basis: The people make loud noise to scare the monster away from the Moon.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: Moon in eclipse
+  literal_form: Nearly full Moon being darkened during a lunar eclipse
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: eclipse monster
+  literal_form: Gerhana/Rahu, a black bulk striving to swallow the Moon
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: apotropaic noise instruments
+  literal_form: Large brass gongs, Malay drums, yells, and voices used to frighten
+    the monster
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: river waters
+  literal_form: White waters of the river carrying or reflecting the sound and scene
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Noisy eclipse night at Pekan
+  summary: As the Moon nears fullness, people at Pekan create a loud tumult with gongs,
+    drums, yells, and voices; the sound carries across river and jungle.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Gerhana attacks the Moon and is opposed by noise
+  summary: The Moon is said to be in peril as Gerhana/Rahu strives to swallow her;
+    the people shout and beat instruments to scare the Monster from its prey.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: eclipse as a monster swallowing the Moon
+  taxonomy_refs: []
+  basis: The passage explains the lunar eclipse as the monster Gerhana/Rahu striving
+    to swallow and darken the Moon.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage identifies the being as a monster but does not classify it
+    as a serpent or another specific creature type.
+- id: motif:2
+  label: ritual noise to repel an eclipse monster
+  taxonomy_refs: []
+  basis: The people make a loud din with gongs, drums, shouts, and voices because
+    they believe it will frighten the monster away from the Moon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage presents the action descriptively; it does not provide a full
+    ritual prescription beyond noise-making.
+- id: motif:3
+  label: human rescue of threatened luminary
+  taxonomy_refs: []
+  basis: The speakers frame their noise-making as an effort to save the Moon from
+    perishing as the Monster's prey.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is inferred from the passage's stated effort to save the Moon, but
+    the outcome of the episode is not included in the provided lines.
+comparison_claims:
+- id: claim:1
+  claim: The footnote supports a linguistic comparison between the Malay term Gerhana
+    and Sanskrit eclipse terminology, and it names the eclipse monster as Rahu.
+  claim_level: linguistic_similarity
+  target: Sanskrit eclipse terminology and the name Rahu
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only a name and etymological note; it does not provide
+    a detailed Sanskrit narrative for comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 723-727
+  quote_or_summary: Malays are said to make sufficient noise during an eclipse to
+    frighten the monster away.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 731-746
+  quote_or_summary: At Pekan near the full Moon, brass gongs, Malay drums, yells,
+    and voices create a great night noise that carries over the river and echoes from
+    the jungle.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 746-756
+  quote_or_summary: The Moon is described as in dire peril because Gerhana, a fierce
+    monster, is striving to swallow her; its black bulk creeps over and darkens her.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 756-762
+  quote_or_summary: The speakers refuse to let the Moon perish and shout, clang gongs,
+    and beat drums to scare the Monster from its prey.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: footnote, lines 762-764
+  quote_or_summary: "“Gerhdna is from a Sanskr. word meaning ‘eclipse.’ The name of
+    the monster is Rahu.”"
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The core eclipse-monster and noise-repulsion motifs are explicit. The comparison
+    claim is limited to the passage's own Sanskrit etymology and naming note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references are left empty except for the literal water symbol because no supplied motif family exactly matches the eclipse monster/noise pattern.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l723-l765
+  passage_sha256=3fce05998605aaf69a251f7cbacced759f68872b7aed424cf1e24821940a9f27
+

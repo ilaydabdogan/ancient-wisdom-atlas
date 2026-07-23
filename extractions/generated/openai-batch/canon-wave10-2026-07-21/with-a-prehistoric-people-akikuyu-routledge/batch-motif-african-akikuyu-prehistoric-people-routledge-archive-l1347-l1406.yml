@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.african-akikuyu-prehistoric-people-routledge-archive-l1347-l1406
+source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+passage_locator:
+  label: XXXIII. / XXXIV. / XXXV. / XXXVI.; lines 1347-1406
+  start: '1347'
+  end: '1406'
+  translation: 'With a Prehistoric People: The Akikuyu of British East Africa'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A plate list gives captions and page references for images of embroidered
+    bands, waist fringes, cultivated land near Nyeri, women hoeing, a bull-roarer
+    and sling, a herd of cattle, a chief's present involving a goat and kid, women
+    pounding grain, and Kikuyu rubbing stones in use.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is formatted as a list of plates with plate numbers, captions,
+    and page references.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One plate caption identifies Ki-ni-a'-ta as embroidered bands.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One plate caption identifies waist fringes.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One plate caption identifies cultivated land in the neighbourhood of Nyeri.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One plate caption depicts women hoeing.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: One plate caption pairs a bull-roarer with a sling.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: One plate caption identifies a herd of cattle.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: One plate caption identifies a chief's present involving a goat and kid.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: One plate caption depicts women pounding grain.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: One plate caption identifies Kikuyu rubbing stones in use.
+  category: object
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Women
+  description: Women are named in captions for hoeing and pounding grain.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: fig:2
+  name_or_label: Chief
+  description: A chief is referenced in the caption for a present involving a goat
+    and kid.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: hoeing participants
+  assigned_to:
+  - fig:1
+  basis: The caption states that women are hoeing.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: grain-pounding participants
+  assigned_to:
+  - fig:1
+  basis: The caption states that women are pounding grain.
+  evidence_refs:
+  - ev:9
+- id: role:3
+  label: person associated with a present
+  assigned_to:
+  - fig:2
+  basis: The caption names a chief in connection with a present of a goat and kid.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: embroidered bands
+  literal_form: Ki-ni-a'-ta, or embroidered bands
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: waist fringes
+  literal_form: Waist fringes
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: cultivated land near Nyeri
+  literal_form: Cultivated land in the neighbourhood of Nyeri
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: bull-roarer
+  literal_form: Bull-roarer
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: sling
+  literal_form: Sling
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: cattle herd
+  literal_form: Herd of cattle
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: goat and kid as present
+  literal_form: Goat and kid named in a chief's present caption
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: grain
+  literal_form: Grain named in the caption 'Women Pounding Grain'
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:9
+  label: rubbing stones
+  literal_form: Kikuyu rubbing stones in use
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Ornaments listed as plate subjects
+  summary: Captions identify Ki-ni-a'-ta embroidered bands and waist fringes as plate
+    subjects.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Cultivated land near Nyeri
+  summary: A caption identifies cultivated land in the neighbourhood of Nyeri.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Women hoeing
+  summary: A caption identifies women engaged in hoeing.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Bull-roarer and sling
+  summary: A caption identifies a bull-roarer and a sling together.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Herd of cattle
+  summary: A caption identifies a herd of cattle.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Chief's present of goat and kid
+  summary: A caption identifies a chief's present involving a goat and kid.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:8
+- id: scene:7
+  label: Women pounding grain
+  summary: A caption identifies women pounding grain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:9
+- id: scene:8
+  label: Kikuyu rubbing stones in use
+  summary: A caption identifies Kikuyu rubbing stones in use.
+  figure_refs: []
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:10
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1347-1406
+  quote_or_summary: The passage is a plate list with plate numbers XXVIII-XXXVI, captions,
+    and page references.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 1347-1406; Plate XXVIII
+  quote_or_summary: Ki-ni-a'-ta, or Embroidered Bands
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 1347-1406; Plate XXIX
+  quote_or_summary: Waist Fringes
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 1347-1406; Plate XXX
+  quote_or_summary: Cultivated Land in neighbourhood of Nyeri
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 1347-1406; Plate XXXI
+  quote_or_summary: Women Hoeing
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 1347-1406; Plate XXXII
+  quote_or_summary: Bull-Roarer and Sling
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 1347-1406; Plate XXXIII
+  quote_or_summary: Herd of Cattle
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:8
+  type: quote
+  locator: lines 1347-1406; Plate XXXIV
+  quote_or_summary: A Chief's Present op a Goat and Kid
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short excerpt from supplied passage; OCR reads
+    'op'.
+- id: ev:9
+  type: quote
+  locator: lines 1347-1406; Plate XXXV
+  quote_or_summary: Women Pounding Grain
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:10
+  type: quote
+  locator: lines 1347-1406; Plate XXXVI
+  quote_or_summary: Kiku'yu Rubbing Stones in Use
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The plate captions are straightforward, but this passage provides no narrative
+    or ritual explanation sufficient for comparative mythology motif identification.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Available taxonomy references were not applied because the passage does not explicitly support any listed motif family or symbol taxonomy item.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-akikuyu-prehistoric-people-routledge-archive__l1347-l1406
+  passage_sha256=70227259a73f50fef755fffdac4b17c73ad7eeaf1249192f9de41b3d95fc3883
+

@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.african-reynard-the-fox-hottentot-bleek-archive-l1453-l1490
+source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+passage_locator:
+  label: THE  LION'S  SSARE.  7 / JACKAL  FABLES. / THE  HYENA. / CL  0  UD-EA  TING.  1
+    5; lines 1453-1490
+  start: '1453'
+  end: '1490'
+  translation: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“Since that day, it is said, that the Hyena's left hind foot is shorter
+    and smaller than the right one.”"
+  summary: In the cloud-eating tale fragment, the Hyena catches the Jackal and breaks
+    his fall, then goes up to eat on the top of a cloud. When she asks the Jackal
+    to catch her as she descends, he promises but jumps aside claiming a thorn has
+    pricked him. The Hyena falls and is hurt, and the passage explains her uneven
+    hind feet from that event.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A female figure catches a male figure and breaks his fall.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The female figure also goes up and eats high on the top of a cloud.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After being satisfied, she asks her “greyish brother” to catch her, and he
+    promises to catch her well.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Jackal holds up his hands while she comes down from the cloud.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When she is near, the Jackal jumps to one side and says a thorn has pricked
+    him and is stuck in him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: She falls from above and is badly hurt.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage states that, since that day, the Hyena's left hind foot is shorter
+    and smaller than the right one.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: 'The two figures address one another with sibling terms: “brother” and “sister.”'
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Jackal
+  description: The “greyish rogue” who is addressed as brother, promises to catch
+    the descending Hyena, then jumps aside claiming a thorn has pricked him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Hyena
+  description: The female figure who catches the Jackal, goes up to eat on the cloud,
+    asks to be caught while descending, falls, is hurt, and is said thereafter to
+    have a shorter left hind foot.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: deceptive catcher
+  assigned_to:
+  - fig:1
+  basis: The Jackal promises to catch the Hyena but jumps aside with the explanation
+    that a thorn has pricked him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: cloud ascender and eater
+  assigned_to:
+  - fig:2
+  basis: The Hyena goes up and eats on the top of the cloud.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: injured faller
+  assigned_to:
+  - fig:2
+  basis: The Hyena descends expecting to be caught, falls from above, is hurt, and
+    is later described as having an altered hind foot.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: cloud top
+  literal_form: The top of the cloud, treated as a place that can be reached and where
+    eating occurs.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: thorn
+  literal_form: A thorn that the Jackal says has pricked him and sticks in him.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: shorter left hind foot
+  literal_form: The Hyena's left hind foot, said to be shorter and smaller than the
+    right one.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Catching and cloud eating
+  summary: The Hyena catches the Jackal and breaks his fall, then goes up and eats
+    on the top of the cloud.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Request for reciprocal catching
+  summary: After eating, the Hyena asks the Jackal to catch her, and he promises to
+    do so.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: False excuse and fall
+  summary: As the Hyena comes down from the cloud, the Jackal jumps aside claiming
+    a thorn has pricked him, so she falls from above and is hurt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Explanation of Hyena's foot
+  summary: The tale states that the Hyena's left hind foot has been shorter and smaller
+    than the right since that event.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Ascent to a cloud for eating
+  taxonomy_refs:
+  - ascent
+  basis: The Hyena goes up and eats high on the top of the cloud.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is fragmentary and gives only a brief ascent scene; the available
+    taxonomy reference is broad.
+- id: motif:2
+  label: Trickster avoids promised reciprocal aid
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Jackal promises to catch the Hyena but jumps aside at the crucial moment,
+    giving the excuse of a thorn.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy label is general; the passage specifically presents a Jackal
+    deception during a descent.
+- id: motif:3
+  label: Animal feature explained by a past injury
+  taxonomy_refs: []
+  basis: The passage explicitly connects the Hyena's present shorter left hind foot
+    to her fall from above.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No specific available taxonomy reference for etiological animal-body explanations
+    was supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1455-1457
+  quote_or_summary: She catches him and breaks his fall; then she goes up and eats
+    high on the top of the cloud.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 1459-1462
+  quote_or_summary: "“My greyish brother, now catch me well”; he answers, “My sister,
+    I shall catch thee well.”"
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 1464-1469
+  quote_or_summary: Jackal holds up his hands; as she descends, he jumps aside, says
+    a thorn has pricked him, and she falls and is hurt.
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: quote
+  locator: lines 1471-1472
+  quote_or_summary: "“Since that day, it is said, that the Hyena's left hind foot
+    is shorter and smaller than the right one.”"
+  source_text_path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal action sequence and etiological statement are clear. Motif taxonomy
+    mapping is partly broad because the supplied taxonomy does not include a specific
+    etiological animal-feature motif. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The passage begins mid-sentence and includes a following section heading; extraction is limited to the Cloud-Eating narrative content within the supplied lines.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-reynard-the-fox-hottentot-bleek-archive__l1453-l1490
+  passage_sha256=7dc214cb8cd12b5280c9023380f77b026597c6b66eaea7216598894a34aab1c0
+

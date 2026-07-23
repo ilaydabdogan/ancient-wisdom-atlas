@@ -1,0 +1,360 @@
+---
+record_id: batch.motif.african-akikuyu-prehistoric-people-routledge-archive-l5674-l5697
+source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+passage_locator:
+  label: FOOD  AND  COOKERY  59 / THE  KITCHEN / FOOD  AND  COOKERY  61 / MEALS; lines
+    5674-5697
+  start: '5674'
+  end: '5697'
+  translation: 'With a Prehistoric People: The Akikuyu of British East Africa'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: The first mouthful taken must be spat out on to the ground.
+  summary: 'The passage describes Kikuyu meal practice: the formal meal occurs at
+    sundown, men and women do not eat together, women are restricted from seeing or
+    cooking men''s meat, utensils are not used, meat may be divided with a sword point,
+    a principal man distributes portions by precedence, diners eat slowly, the first
+    mouthful is spat onto the ground, and equals in rank generally eat together.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The only formal meal of the day is eaten at sundown, usually outside the hut
+    but inside the enclosure.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The morning meal consists of food kept over from supper.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Men and women never eat together.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A woman is not allowed to see a man eat meat or to cook meat for him.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: No knife, spoon, or fork is used with any dish.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A piece of meat needing division is chopped in half with the touch of a sword
+    point.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The principal man hands portions to diners in order of precedence.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Diners do not show eagerness to begin, hurry, or ask for another helping;
+    eating slowly is the rule.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: If the meal is meat, the whole amount on the grid is generally distributed
+    at first.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The first mouthful taken must be spat onto the ground.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: In general, only equals in rank eat together.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: men
+  description: Male meal participants; the passage says men and women never eat together
+    and refers to a man eating meat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: women
+  description: Female meal participants; the passage says women do not eat with men
+    and are not allowed to see a man eat meat or cook it for him.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: principal man
+  description: The principal man hands each diner a portion in order of precedence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: diners
+  description: Meal participants who receive portions, eat slowly, do not ask for
+    more, and generally eat only with equals in rank.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: principal distributor of portions
+  assigned_to:
+  - fig:3
+  basis: The principal man hands portions to diners according to precedence.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: diner under meal etiquette
+  assigned_to:
+  - fig:4
+  basis: Diners receive portions and are expected not to hurry, show eagerness, or
+    ask for more.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: sex-separated meal group
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that men and women never eat together.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: woman restricted from men's meat consumption and cooking
+  assigned_to:
+  - fig:2
+  basis: A woman is not allowed to see a man eat meat and does not cook it for him.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: rank-equal commensal
+  assigned_to:
+  - fig:4
+  basis: The passage states that only equals in rank generally eat together.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sundown formal meal
+  literal_form: Formal meal of the day eaten at sundown
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hut enclosure meal space
+  literal_form: Meal eaten outside the hut but inside the enclosure
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: meat under dining restrictions
+  literal_form: Meat eaten by men under rules about women's seeing or cooking it;
+    meat may be distributed from the grid
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: sword point for dividing meat
+  literal_form: Sword point touching meat to chop it in half
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: first mouthful to the ground
+  literal_form: Gesture of spitting the first mouthful onto the ground
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Evening formal meal setting
+  summary: The formal meal is eaten at sundown, usually outside the hut but inside
+    the enclosure; the morning meal is leftover supper.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gender separation around eating and meat
+  summary: Men and women do not eat together, and a woman is restricted from seeing
+    or cooking a man's meat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Utensil-less meat division
+  summary: No knife, spoon, or fork is used; meat needing division is divided by the
+    touch of a sword point.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Ranked serving and meal etiquette
+  summary: The principal man distributes portions in order of precedence; diners eat
+    slowly, avoid asking for more, may receive all meat at the start, spit out the
+    first mouthful, and generally eat with equals in rank.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Sex-separated commensality
+  taxonomy_refs: []
+  basis: The passage states that men and women never eat together and adds specific
+    restrictions concerning women and men's meat.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic dining rule in the passage, not a mythic narrative
+    motif.
+- id: motif:2
+  label: Hierarchical distribution of food
+  taxonomy_refs: []
+  basis: The principal man distributes portions in order of precedence, and rank equality
+    governs who generally eats together.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage gives social etiquette but does not explain a sacred or mythological
+    rationale.
+- id: motif:3
+  label: Meal-opening mouthful cast to the ground
+  taxonomy_refs: []
+  basis: The first mouthful taken must be spat onto the ground, followed in the text
+    by the Latin phrase 'Benedictus benedicat.'
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The local meaning of the gesture is not explained; it should not be assumed
+    to be an offering without further evidence.
+- id: motif:4
+  label: Weapon point used in food division
+  taxonomy_refs: []
+  basis: A piece of meat needing division is chopped in half by the touch of a sword
+    point rather than with ordinary utensils.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: This may be a practical or etiquette detail rather than a symbolic motif.
+comparison_claims:
+- id: claim:1
+  claim: The author's placement of 'Benedictus benedicat' after the rule about spitting
+    the first mouthful onto the ground cautiously suggests a comparison in function
+    to a meal-blessing or meal-opening formula.
+  claim_level: same_function
+  target: Meal blessing or grace formula, explicitly represented by the Latin phrase
+    'Benedictus benedicat' in the passage
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is an authorial gloss within the source text, not an indigenous
+    explanation; it does not support claims of historical contact or shared origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5674-5697
+  quote_or_summary: The formal meal occurs at sundown, usually outside the hut but
+    inside the enclosure; the morning meal is food kept from supper.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 5674-5697
+  quote_or_summary: Men and women never eat together; a woman is not allowed to see
+    a man eat meat or to cook it for him.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 5674-5697
+  quote_or_summary: No knife, spoon, or fork is used; meat needing division is chopped
+    in half by touching it with a sword point.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 5674-5697
+  quote_or_summary: The principal man hands portions to diners by precedence; diners
+    avoid eagerness, haste, and asking for more, and meat on the grid is generally
+    distributed at first.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 5674-5697
+  quote_or_summary: '"The first mouthful taken must be spat out on to the ground.
+    Benedictus benedicat." The passage also states that only equals in rank generally
+    eat together.'
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short quotation used for exact ritual gesture
+    and authorial phrase.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal dining practices are explicit in the passage. Motif labels are cautious
+    because the excerpt is ethnographic and does not provide mythological explanation.
+    The comparison claim rests only on the author's Latin phrase.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy references were applied; the passage does not directly support any listed motif family or symbol taxonomy item.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-akikuyu-prehistoric-people-routledge-archive__l5674-l5697
+  passage_sha256=94f475fdd0f1ea3feccafa472e714d75838c216d562161525f5b3e2da10de249
+

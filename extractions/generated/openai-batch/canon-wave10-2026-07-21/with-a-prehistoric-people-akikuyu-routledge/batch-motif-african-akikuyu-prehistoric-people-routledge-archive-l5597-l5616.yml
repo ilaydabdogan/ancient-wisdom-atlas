@@ -1,0 +1,275 @@
+---
+record_id: batch.motif.african-akikuyu-prehistoric-people-routledge-archive-l5597-l5616
+source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+passage_locator:
+  label: PL.  XXXVI / PL.  XXXVIII / HONEY  57 / FOOD  AND  COOKERY  59; lines 5597-5616
+  start: '5597'
+  end: '5616'
+  translation: 'With a Prehistoric People: The Akikuyu of British East Africa'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: The saline clay is broken up in this with a little water, when the flocks
+    greedily lick it up.
+  summary: The passage describes Akikuyu use of saline clay from marshes and river
+    banks for livestock. Flocks are driven to clay sources or given clay prepared
+    in tree-trunk troughs with water. The clay is considered essential for animal
+    health and is not used as human food.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Clay beneath surface mould in certain marshes and river banks has been excavated
+    by elephants and other game.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Akikuyu drive flocks to places where they lick saline earth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Akikuyu make saline clay into flat cakes of about 20 pounds to take home
+    or sell in markets.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Each homestead has a long trough hollowed from a tree trunk on the surrounding
+    green.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Saline clay is broken up in the trough with a little water, and the flocks
+    lick it up.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The owners consider the clay essential to the health of their animals and
+    go to expense and trouble to obtain it.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The saline clay is not used as human food.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Akikuyu
+  description: People who drive flocks to saline earth, prepare clay cakes, and procure
+    saline clay for animals.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: elephants and other game
+  description: Animals said to have excavated clay in marshes and river banks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: flocks
+  description: Domestic animals that lick saline earth and prepared saline clay.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: owners
+  description: Animal owners who consider the clay essential to animal health.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: procurers and preparers of saline clay
+  assigned_to:
+  - fig:1
+  basis: They drive flocks to saline earth, form clay cakes, and obtain the clay despite
+    expense and trouble.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: animal excavators of clay sources
+  assigned_to:
+  - fig:2
+  basis: The passage states that elephants and other game have excavated clay in marshes
+    and river banks.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: livestock consumers of saline clay
+  assigned_to:
+  - fig:3
+  basis: The flocks lick saline earth and prepared clay mixed with water.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: animal-health evaluators
+  assigned_to:
+  - fig:4
+  basis: The owners consider the clay essential to the health of their animals.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: saline clay
+  literal_form: Clay from marshes and river banks, made into cakes or mixed with water
+    for flocks to lick.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: tree-trunk trough
+  literal_form: An 8 to 20 foot trough hollowed from a tree trunk at each homestead.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: water
+  literal_form: A little water used to break up saline clay in the trough.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: flat clay cakes
+  literal_form: Flat cakes of saline clay of about 20 pounds each, made to take home
+    or sell in markets.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Clay sources in marshes and river banks
+  summary: Clay beneath surface mould in marshes and river banks is described as having
+    been excavated by elephants and other game.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Flocks driven to lick saline earth
+  summary: The Akikuyu take flocks to saline clay places so the animals can lick the
+    earth.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Preparation and distribution of saline clay
+  summary: The Akikuyu form saline clay into large flat cakes for home use or sale
+    and also break it up with water in tree-trunk troughs for flocks.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Animal-health valuation of clay
+  summary: Owners regard saline clay as essential to animal health, expend effort
+    to obtain it, and do not use it as human food.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5602-5605
+  quote_or_summary: Clay under surface mould in certain marshes and river banks has
+    in the past been excavated by elephants and other game.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 5605-5607
+  quote_or_summary: '"the Akiku5ru drive their flocks to lick the saline earth"'
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 5607-5609
+  quote_or_summary: They make the saline clay into flat cakes of about 20 pounds each
+    to take home or sell in markets.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 5609-5612
+  quote_or_summary: '"Every homestead has... a trough... hollowed out of a tree trunk.
+    The saline clay is broken up in this with a little water"'
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short quotation with ellipses.
+- id: ev:5
+  type: summary
+  locator: lines 5612-5616
+  quote_or_summary: Owners consider the clay essential to animal health; the practice
+    is widespread and costly, but the clay is not used as human food.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is ethnographic and practical rather than mythic; no candidate
+    mythology motif or comparison claim is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No mythological motif family is assigned because the passage only describes livestock feeding and clay procurement practices.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-akikuyu-prehistoric-people-routledge-archive__l5597-l5616
+  passage_sha256=c8ad646c291b6f8eea67e5b54852316e029738aaaa4b8a1d95a20b2e6a5db387
+

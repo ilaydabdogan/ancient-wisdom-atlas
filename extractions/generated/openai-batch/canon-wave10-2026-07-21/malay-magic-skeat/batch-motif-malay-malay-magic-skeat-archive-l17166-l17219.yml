@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l17166-l17219
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: FISHING  CEREMONIES / ORIGIN  OF  THE  PORPOISE / FISHING  CEREMONIES / SACRIFICE  AT  FISHING-STAKES;
+    lines 17166-17219
+  start: '17166'
+  end: '17219'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a ceremony of sacrifice at fishing-stakes. Empty
+    trays lined with banana leaves are prepared for offerings, with offerings displayed
+    on a raised platform. A diagram situates the trays, platform, sea, fishing-stakes
+    direction, verandahs, Bangsal Kelong, and a tree. Bilal Umat loads the trays with
+    parched rice, then places saffron-stained rice in the center and four corners
+    of each tray, followed by portions of washed rice, tubers, bananas, and betel
+    leaf, mostly in cooked and uncooked sets.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The trays were empty and lined with banana leaves before receiving offerings.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Offerings were displayed on a raised platform in front of the trays.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The diagram labels the sea, the direction of the shoal and fishing-stakes,
+    a raised platform, three trays, verandahs, Bangsal Kelong, and a tree where one
+    tray was suspended.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Bilal Umat began loading the trays by pouring parched rice into them until
+    each had an approximately inch-deep layer.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Bilal Umat placed saffron-stained rice in about five portions at the centre
+    and four corners of each tray.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Bilal Umat similarly distributed portions of washed rice, sweet potatoes,
+    yams, tapioca, bananas, and betel leaf; the listed food portions except betel
+    leaf had cooked and uncooked sets.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bilal Umat
+  description: Named person who loads the trays with ritual food items.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: tray-loading ritual officiant
+  assigned_to:
+  - fig:1
+  basis: Bilal Umat is described as taking bowls of rice and other food items and
+    depositing them into the trays in a set order and arrangement.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: ritual trays
+  literal_form: three trays lined with banana leaves and loaded with offerings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: raised platform with offerings
+  literal_form: raised platform standing before the trays, with offerings displayed
+    on it
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: sea and fishing-stakes setting
+  literal_form: sea, shoal direction, and fishing-stakes marked in the ceremony diagram
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: centre-and-four-corners placement
+  literal_form: five portions of saffron-stained rice placed in the centre and four
+    corners of each tray
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: food offerings
+  literal_form: parched rice, saffron-stained rice, washed rice, sweet potatoes, yams,
+    tapioca, bananas, and betel leaf
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: tree used for tray suspension
+  literal_form: tree where one of the trays was suspended
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Preparation of offering space
+  summary: Trays lined with banana leaves stand near a raised platform with offerings;
+    the diagram situates these elements in relation to the sea, fishing-stakes direction,
+    Bangsal Kelong, verandahs, and a tree.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Loading of sacrificial trays
+  summary: Bilal Umat loads the trays with an inch-deep layer of parched rice, then
+    places saffron-stained rice in a centre-and-four-corners pattern, followed by
+    other food and betel portions.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacrifice at fishing-stakes
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage title and figure caption identify the event as a sacrifice at
+    fishing-stakes, and the text describes prepared trays and food offerings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage excerpt describes preparation and loading of offerings but
+    is truncated before the ceremony’s completion.
+- id: motif:2
+  label: ordered food-offering arrangement
+  taxonomy_refs: []
+  basis: Food offerings are placed in trays in a specified sequence, including a layer
+    of parched rice, centre-and-four-corners placement of saffron-stained rice, and
+    cooked and uncooked portions of several foods.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a descriptive ritual pattern rather than a named motif in the
+    supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17166-17175
+  quote_or_summary: Empty trays were lined with banana leaves for offerings, which
+    were displayed on a raised platform in front of them.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 17176-17202
+  quote_or_summary: The figure for the ceremony labels the sea, direction of shoal
+    and fishing-stakes, raised platform with offerings, three trays, verandahs, Bangsal
+    Kelong, and a tree where one tray was suspended.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 17204-17209
+  quote_or_summary: Bilal Umat took a large bowl of parched rice and poured it into
+    the trays until each bottom was covered by about an inch of rice.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 17211-17214
+  quote_or_summary: Bilal Umat deposited about five portions of saffron-stained rice
+    in the centre and four corners of each tray.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 17214-17219
+  quote_or_summary: He then similarly distributed small portions of washed rice, sweet
+    potatoes, yams, tapioca, bananas, and betel leaf, with cooked and uncooked sets
+    for each except the last.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a short, partially truncated excerpt. Motif identification
+    is limited to the explicit sacrifice/offering pattern in the passage. No broader
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the provided passage and metadata were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l17166-l17219
+  passage_sha256=c78c114d473d409a69408df624a7ea7b1c0e9abe925d4995099ab5f2a696abef
+

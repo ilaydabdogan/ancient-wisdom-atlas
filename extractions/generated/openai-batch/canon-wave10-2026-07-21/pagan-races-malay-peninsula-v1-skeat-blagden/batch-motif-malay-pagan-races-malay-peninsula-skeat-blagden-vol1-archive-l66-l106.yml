@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.malay-pagan-races-malay-peninsula-skeat-blagden-vol1-archive-l66-l106
+source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+passage_locator:
+  label: Pagan Races of the Malay Peninsula, Volume 1; lines 66-106
+  start: '66'
+  end: '106'
+  translation: Pagan Races of the Malay Peninsula, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Malay Peninsula’s shape, proximity to the sea,
+    island-like character, geological and biological connections between mainland
+    Asia and the Malay Archipelago, and its effects on maritime trade routes and ports
+    such as Penang, Malacca, and Singapore.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Malay Peninsula is described as shaped like a narrow-necked bottle or
+    an Indian club, narrow at the upper end, bulging in the center, and tapering at
+    the lower end.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the Isthmus of Kraw is thirty-five miles from sea to sea,
+    the broadest part is under two hundred miles across, and no point in the far interior
+    is as much as one hundred miles from the sea.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Malay Peninsula is described as part of the Asiatic mainland but as having
+    characteristics of an island and as belonging in important respects to the Malay
+    Archipelago.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The peninsula is described as a causeway connecting the land forms, fauna,
+    flora, and geological strata of the Asiatic mainland with forms in the islands
+    of the Malay Archipelago.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The peninsula is also described as a breakwater that deflects Far Eastern
+    trade southeastward toward the equator and the tropical islands of the Malay Archipelago.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The actual trade route is described as following the coast-line of the Malay
+    Peninsula through the Straits by way of Penang, Malacca, and Singapore.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Malacca is described as formerly important, with its harbour later silted
+    up, and is metaphorically called the former Queen of those seas.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Malay Peninsula
+  description: A long peninsula described by its shape, proximity to the sea, island-like
+    characteristics, and dual function as causeway and breakwater.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Malacca
+  description: A port on the trade route, described as formerly important and later
+    affected by the silting of its harbour.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: geographical connector
+  assigned_to:
+  - fig:1
+  basis: The peninsula is said to connect mainland Asian land forms, fauna, flora,
+    and strata with forms in the Malay Archipelago.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: trade-deflecting barrier
+  assigned_to:
+  - fig:1
+  basis: The peninsula is described as a breakwater that deflects the normal course
+    of Far Eastern trade southeastward.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: former major port
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the ancient glories and former importance of Malacca,
+    while noting the silting up of its harbour.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: bottle or club shape image
+  literal_form: narrow-necked bottle or Indian club
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: causeway image
+  literal_form: causeway of colossal proportions
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: breakwater image
+  literal_form: breakwater
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: sea and coastal waters
+  literal_form: sea, Straits, coast-line, harbour
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: personified queen image
+  literal_form: former Queen of those seas
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Shape and maritime proximity of the peninsula
+  summary: The passage describes the peninsula’s bottle- or club-like shape and emphasizes
+    that even inland areas remain near the sea.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Peninsula as connector and barrier
+  summary: The peninsula is presented as both a causeway linking mainland and archipelago
+    forms and a breakwater redirecting trade.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Coastal trade route and Malacca’s former status
+  summary: Trade is described as following the peninsula’s coast through the Straits
+    by way of Penang, Malacca, and Singapore; Malacca is described as formerly important
+    but diminished by harbour silting.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: landform with dual connector-and-barrier function
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly describes the Malay Peninsula as both a causeway connecting
+    mainland and archipelago forms and a breakwater deflecting trade.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is an environmental and geographical description rather than a mythic
+    narrative; the motif-family assignment should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 66-75
+  quote_or_summary: The peninsula’s shape is compared to “a narrow necked bottle or
+    an Indian club,” narrow above, bulging at the center, and tapering below.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 75-83
+  quote_or_summary: The narrowest northern point is thirty-five miles from sea to
+    sea; the broadest part is under two hundred miles; no inland point is as much
+    as one hundred miles from the sea.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 83-90
+  quote_or_summary: Although part of the Asiatic mainland, the peninsula is said to
+    have island characteristics and to form an integral part of the Malay Archipelago.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 90-97
+  quote_or_summary: The peninsula is described as a colossal causeway connecting mainland
+    forms of fauna, flora, and geological strata with forms in the Malay Archipelago;
+    several islands are said to have once been geologically connected with it.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 97-103
+  quote_or_summary: In its breakwater capacity, the peninsula is said to deflect Far
+    Eastern trade southeastward toward the equator and the tropical islands of the
+    Malay Archipelago.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 103-106
+  quote_or_summary: Trade is described as following the peninsula’s coast-line through
+    the Straits by way of Penang, Malacca, and Singapore, with Penang and Singapore
+    convenient for vessels on that route.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 106 onward within supplied passage
+  quote_or_summary: Malacca’s former importance is emphasized; due to harbour silting,
+    the “former Queen of those seas” is said to brood over ancient fame.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is a geographical introduction, not a mythic narrative. Literal
+    environmental features and metaphoric images are extractable, but motif identification
+    is limited and requires human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not make a comparative mythological claim.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-pagan-races-malay-peninsula-skeat-blagden-vol1-archive__l66-l106
+  passage_sha256=396e5d4cc2faa41573474c8de10a1875d91a587b2db417c3d59a25ae4308ee9e
+

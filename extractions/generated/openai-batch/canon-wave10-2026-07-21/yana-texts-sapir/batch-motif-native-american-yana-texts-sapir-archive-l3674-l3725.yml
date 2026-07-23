@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.native-american-yana-texts-sapir-archive-l3674-l3725
+source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+passage_locator:
+  label: SPELL SAID BY A GIRL DESIROUS OF GETTING A HUSBAND. / XXI. CURSE ON PEOPLE
+    THAT WISH ONE ILL. / XXII. PRAYER ON SNEEZING. / THE ROLLING SKULL.; lines 3674-3725
+  start: '3674'
+  end: '3725'
+  translation: Yana Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Wildcat has a bad dream, climbs a digger pine, tears off his body parts,
+    and becomes a human skull. The skull rolls or bounds through several directions
+    and houses, causing people to die. Coyote hears the skull singing, becomes a woman
+    with associated objects and foods, persuades Wildcat to be roasted in a hot-rock
+    pit, holds him down, then carries the skull west and throws it into a creek where
+    future bathers will become medicine-men.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Wildcat has a bad dream, climbs a digger pine, removes his limbs, backbone,
+    and neck, and becomes only a human skull.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The human skull bounds south, north, west, and east to houses or toward houses,
+    and people die where it arrives or passes.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Coyote comes from the north near Montgomery creek, hears the human skull singing,
+    and stands still.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Coyote calls for a pack-basket, tasselled apron, basket cap, bread, salmon,
+    deer-meat, and staff; a note states these items mark a woman or old woman.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Coyote, now described as a woman, approaches Wildcat; Wildcat weeps, and Coyote
+    tells him about roasting a brother in a hot-rock hole and offers to roast him
+    in the same way.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Coyote roasts Wildcat in the hole, holds him down tightly, and the surrounding
+    earth shakes while Wildcat remains there.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Coyote retrieves the head or human skull, carries it west, throws it into
+    a creek, and says people will bathe there and become medicine-men.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Wildcat / human skull
+  description: Wildcat becomes a human skull after tearing apart his own body; the
+    skull moves through the landscape, is roasted in a hole, and is later thrown into
+    a creek.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Coyote
+  description: Coyote comes from the north, takes on the appearance of a woman, roasts
+    and restrains Wildcat, then disposes of the skull in a creek.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: People at houses
+  description: Collective people who die when the skull arrives at or moves toward
+    houses in different directions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Future bathers / medicine-men
+  description: People whom Coyote says will bathe in the creek and become medicine-men.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: self-dismembered death-bringing skull
+  assigned_to:
+  - fig:1
+  basis: Wildcat tears apart his body and becomes a skull; people die during the skull’s
+    movements.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: transforming trapper
+  assigned_to:
+  - fig:2
+  basis: Coyote is described as now a woman and leads Wildcat into a hot-rock roasting
+    hole while holding him down.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: maker of a medicine-place
+  assigned_to:
+  - fig:2
+  basis: Coyote throws the skull into the creek and says people who bathe there will
+    become medicine-men.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: victims of the skull’s arrival
+  assigned_to:
+  - fig:3
+  basis: The passage repeatedly states that all the people died when the skull reached
+    houses or directions.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: future recipients of medicine power
+  assigned_to:
+  - fig:4
+  basis: Coyote says people will bathe in the creek and become medicine-men.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: rolling human skull
+  literal_form: A human skull moving or bounding along the ground
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: hot-rock roasting pit
+  literal_form: Rocks heated in fire and placed in a round hole in the ground
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: medicine creek
+  literal_form: A creek into which the skull is thrown and where people will bathe
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: woman or old-woman markers
+  literal_form: Pack-basket, tasselled apron, basket cap, bread, salmon, deer-meat,
+    and staff
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: digger pine
+  literal_form: A digger pine climbed by Wildcat before dismembering himself
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Wildcat becomes a skull
+  summary: After a bad dream, Wildcat climbs a digger pine, tears off his own body
+    parts, falls down, and lies there as a human skull.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Skull’s deadly journey
+  summary: The skull bounds through different directions and reaches houses; people
+    die along its route.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Coyote hears the singing skull and becomes a woman
+  summary: Coyote comes from the north, hears the skull singing, calls for objects
+    and foods associated with womanhood or old womanhood, and is then described as
+    a woman approaching the skull.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Roasting trap
+  summary: Coyote tells Wildcat about roasting a brother in a hot-rock hole, roasts
+    Wildcat in such a hole, and holds him down while the earth shakes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Skull placed in creek for medicine-men
+  summary: Coyote takes up the skull, carries it west, throws it into a creek, and
+    declares that people who bathe there will become medicine-men before returning
+    east.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Self-dismemberment into a moving skull
+  taxonomy_refs: []
+  basis: Wildcat tears off his limbs, backbone, and neck and becomes a human skull
+    that later moves through the landscape.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly names a rolling-skull motif.
+- id: motif:2
+  label: Death-dealing skull visits houses and directions
+  taxonomy_refs: []
+  basis: The skull bounds to houses or directions, and people repeatedly die in connection
+    with its arrivals and movements.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain the mechanism of death.
+- id: motif:3
+  label: Coyote transforms or disguises himself to trap a dangerous being
+  taxonomy_refs:
+  - shapeshifter
+  - trickster_boundary
+  basis: Coyote calls for gender-marking objects, is described as now a woman, approaches
+    the skull, and gets Wildcat into a roasting hole.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage says Coyote is now a woman, but does not explicitly use a
+    term equivalent to shapeshifter or trickster.
+- id: motif:4
+  label: Hot-rock pit used to contain a dangerous being
+  taxonomy_refs: []
+  basis: Coyote roasts Wildcat in a hole with hot rocks and holds him down despite
+    the shaking earth.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The text does not state whether this destroys, purifies, or merely restrains
+    Wildcat; it only reports the action and result.
+- id: motif:5
+  label: Dangerous remains become source of medicine power in water
+  taxonomy_refs:
+  - culture_hero
+  basis: Coyote throws the skull into a creek and says people will bathe there and
+    become medicine-men.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The origin-of-medicine-place function is implied by Coyote’s statement,
+    but the passage gives no later confirmation scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3674-3725, opening paragraph
+  quote_or_summary: Wildcat has a bad dream, climbs a digger pine, tears off limbs,
+    backbone, and neck, and lies down as only a human skull.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3674-3725, skull journey paragraph
+  quote_or_summary: The skull bounds south and to houses; people die. It moves back
+    through other directions, and people die or are absent.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3674-3725, Coyote encounter and note 318
+  quote_or_summary: Coyote comes from the north, hears the skull singing, calls for
+    a pack-basket, tasselled apron, basket cap, bread, salmon, deer-meat, and staff;
+    the note explains these as woman or old-woman markers.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3674-3725, roasting scene
+  quote_or_summary: Coyote, now a woman, approaches Wildcat, tells of roasting a brother
+    in a hole with hot rocks, roasts Wildcat there, and holds him down while the earth
+    shakes.
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 3674-3725, closing paragraph
+  quote_or_summary: "“I shall throw you into the creek here. People will bathe here
+    ... they will become medicine-men.”"
+  source_text_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  rights_note: Public domain source metadata; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence is clear in the supplied English passage. Motif-family assignments
+    for shapeshifting, trickster boundary, and culture-hero functions require human
+    review because the passage itself does not provide abstract labels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external comparisons were added. Available taxonomy references were used only where directly supported by the supplied passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-yana-texts-sapir-archive__l3674-l3725
+  passage_sha256=42f8dc36129eb7e2bfc3c449053ed6f722f927a44fab42b99f8d2507305298cd
+

@@ -1,0 +1,185 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l5454-l5469
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: OF  THE  POSTS  AND  RUNNERS  AND  OF  THE  MESSAGES  THEY / CARRIED. / SIXTH  BOOK  OF  THE  KOYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 5454-5469
+  start: '5454'
+  end: '5469'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Chasquis keeping watched fires ready so that news
+    of rebellion in a great province could be sent rapidly to the Ynca, allowing him
+    to know of an outbreak within a few hours even from a great distance and issue
+    orders immediately.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Chasquis kept fire ready and constantly watched for use when an occasion
+    arose.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: News was sent by fires only when there was a rebellion in some great province.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The stated purpose of the fire-message system was for the Ynca to learn of
+    the rebellion within two or three hours at most, even from a distance of 500 or
+    600 leagues from the Court.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After the insurrection was reported, the Ynca could give necessary orders
+    immediately.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage identifies these practices as among the duties of the Chasquis
+    and their method of carrying messages.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Chasquis
+  description: Runners or messengers who kept watched fires ready and carried messages.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Ynca
+  description: Ruler who was to be informed quickly of rebellion and then give necessary
+    orders.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: message carriers and fire watchers
+  assigned_to:
+  - fig:1
+  basis: The Chasquis are described as keeping fires ready and as carrying messages.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: recipient of rebellion reports and issuer of orders
+  assigned_to:
+  - fig:2
+  basis: The Ynca is described as learning of the outbreak and giving orders once
+    the insurrection is reported.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: signal fire
+  literal_form: fire kept ready and watched for sending news by night
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Watched fires for rapid rebellion reports
+  summary: Chasquis keep fires ready and use them to send news when rebellion occurs
+    in a great province, so that the Ynca can learn quickly and issue orders.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: fire-signal network for urgent royal news
+  taxonomy_refs: []
+  basis: The passage describes a system of watched fires used to transmit news of
+    rebellion rapidly to the Ynca over great distances.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an administrative communication pattern in an historical chronicle
+    passage, not a mythic narrative motif in itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5454-5459
+  quote_or_summary: The Chasquis always had the fire ready and constantly watched
+    so it would be ready when needed.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5459-5462
+  quote_or_summary: Sending news by fires was adopted only when rebellion occurred
+    in some great province.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5462-5466
+  quote_or_summary: The system allowed the Ynca to know of the outbreak within two
+    or three hours at most, even if it was 500 or 600 leagues from the Court.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5466-5468
+  quote_or_summary: Once the insurrection was reported, the Ynca could give the necessary
+    orders immediately.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5468-5469
+  quote_or_summary: The passage concludes that these were the duties of the Chasquis
+    and their method of carrying messages.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif identification is limited because
+    the passage is primarily historical-administrative rather than mythic. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No historical-contact or cross-tradition comparison is asserted from this passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l5454-l5469
+  passage_sha256=78ef1ead14ee459492eccbc27e6855374aa376f2d6a949374240bea37eda8f19
+

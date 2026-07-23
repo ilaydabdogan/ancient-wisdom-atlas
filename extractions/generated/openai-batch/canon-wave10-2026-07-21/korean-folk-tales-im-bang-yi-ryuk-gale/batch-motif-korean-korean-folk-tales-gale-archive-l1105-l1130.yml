@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.korean-korean-folk-tales-gale-archive-l1105-l1130
+source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+passage_locator:
+  label: CHEUNG  PUK-CHANG,  THE  SEER / CHEUNG  PUK-CHANG,  THE  SEER  31 / CHEUNG  PUK-CHANG,  THE  SEER  83
+    / CHEUNG  PUK-CHANG,  THE  SEER  35; lines 1105-1130
+  start: '1105'
+  end: '1130'
+  translation: Korean Folk Tales - Imps, Ghosts and Fairies
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Puk-chang has predicted that the aunt's man will be arrested, pulled from
+    his horse, and beaten. The aunt doubts him but writes the day on the wall. When
+    the servant returns, she asks about his crossing of Bird Pass and about trouble
+    with a yangban; the servant confirms that the event occurred on the recorded day
+    and matched Puk-chang's account in detail.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Puk-chang describes an incident in which servants arrest the aunt's man, pull
+    him from his horse, and beat him with rough straw shoes.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The aunt initially does not believe the statement and treats it as a joke,
+    though Puk-chang does not appear to be joking.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After Puk-chang leaves, the aunt writes down the day on the wall.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When the servant returns, the aunt asks what day he came over Bird Pass, and
+    the day matches the day she recorded.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The aunt asks whether the servant had trouble with a yangban at Bird Pass.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The servant is startled, asks how she knows, and reports that what happened
+    matched Puk-chang's account even in small details.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Puk-chang
+  description: A figure identified in the passage title as the seer; he gives the
+    account that is later confirmed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: the aunt
+  description: She doubts Puk-chang, records the day, and later questions the returning
+    servant.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the servant / the aunt's man
+  description: The man whose experience at Bird Pass is described and later confirmed
+    by his own report.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: servants
+  description: Unnamed servants in Puk-chang's account who arrest the man, pull him
+    from his horse, and beat him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: a yangban
+  description: A yangban is mentioned in the aunt's question about the servant's trouble
+    at Bird Pass.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: seer whose account is verified
+  assigned_to:
+  - fig:1
+  basis: Puk-chang's description of the event is later said to match the servant's
+    report in detail.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: skeptical verifier
+  assigned_to:
+  - fig:2
+  basis: The aunt doubts the statement, records the day, and later checks it against
+    the servant's account.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: subject of the predicted event
+  assigned_to:
+  - fig:3
+  basis: The servant is the man described as arrested and beaten, and he later confirms
+    what occurred.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:4
+  label: agents of arrest and beating
+  assigned_to:
+  - fig:4
+  basis: The unnamed servants are described as arresting the man, pulling him from
+    his horse, and beating him.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: person associated with the trouble
+  assigned_to:
+  - fig:5
+  basis: The aunt asks whether the servant got into trouble with a yangban at Bird
+    Pass.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Puk-chang's account and the aunt's doubt
+  summary: Puk-chang describes the servant's arrest and beating; the aunt doubts him
+    and treats the matter as a joke.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Recording the date
+  summary: After Puk-chang leaves, the aunt writes the day on the wall as a record.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Return and confirmation
+  summary: When the servant returns, the aunt asks about his passage over Bird Pass
+    and about trouble with a yangban; the servant confirms that events matched Puk-chang's
+    account.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Verified seer's distant knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: Puk-chang gives an account of an event before the aunt verifies it; the returning
+    servant reports that the event matched Puk-chang's description in detail.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage presents verification of Puk-chang's knowledge but does not
+    explain the mechanism of his seeing or knowing.
+- id: motif:2
+  label: Skeptical test of a prophecy or vision
+  taxonomy_refs: []
+  basis: The aunt doubts the statement, records the date, and later checks the servant's
+    report against the recorded day and Puk-chang's account.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage shows verification behavior, but it does not frame the act
+    as a formal test.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1105-1130
+  quote_or_summary: '"servants arrest your man, pull him from his horse, and beat
+    him over the face with their rough straw shoes."'
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1105-1130
+  quote_or_summary: The aunt cannot believe the statement and treats it as a joke,
+    though Puk-chang does not seem to be joking.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1105-1130
+  quote_or_summary: After Puk-chang leaves, the aunt notes the day on the wall.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1105-1130
+  quote_or_summary: When the servant returns, the aunt asks what day he came over
+    Bird Pass, and it proves to be the recorded day.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:5
+  type: quote
+  locator: lines 1105-1130
+  quote_or_summary: '"Did you get into trouble with a yangban there when you came
+    by?"'
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:6
+  type: summary
+  locator: lines 1105-1130
+  quote_or_summary: The servant is startled, asks how the aunt knows, and tells what
+    happened; the narration says it was just as Puk-chang had given it, down to small
+    details.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The event sequence and verification are explicit in the passage. Motif labels
+    are cautious and limited to the passage evidence; no broader comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-folk-tales-gale-archive__l1105-l1130
+  passage_sha256=c0eb4a6f324ff8ee126238a01e5a96ca61a89f367c5cc786e5bcf582c66d2811
+

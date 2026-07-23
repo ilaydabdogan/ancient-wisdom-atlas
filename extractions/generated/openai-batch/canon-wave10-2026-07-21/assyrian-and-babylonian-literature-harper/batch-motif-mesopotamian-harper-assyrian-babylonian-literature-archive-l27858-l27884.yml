@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l27858-l27884
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: IX.    OMENS   FROM   STARS / XIII.    OMENS   FROM   THUNDER / XIV.    OMENS   FROM  EARTHQUAKES
+    / XV.    OMENS   FROM   ECLIPSES; lines 27858-27884
+  start: '27858'
+  end: '27884'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Two royal omen reports concern eclipses: one predicts an eclipse on the
+    fourteenth as harmful for Elam and Aharru but favorable for the king, and another
+    says an eclipse occurred but was not visible in Asshur because of clouds, recommends
+    checking other cities, and calls for a nambulbi-ceremony. The second report says
+    the great gods obscured the heavens so the eclipse was not directed against the
+    king or his country. A final omen states that thunder in Nisan predicts diminished
+    corn.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An eclipse is predicted for the fourteenth and is described as evil for Elam
+    and Aharru but lucky for the king.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The predicted eclipse is said to be seen without Venus.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Irasshi-ilu identifies himself as the servant of the king and reports the
+    expected eclipse to the king.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Bel-usur addresses the king of countries as his lord and invokes Bel, Nabu,
+    and Shamash to be gracious to him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: An eclipse is reported to have happened, but it was not visible in Asshur,
+    and clouds make the reporter uncertain about whether it happened there.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The king is advised to send inquiries to Asshur and to cities including Babylon,
+    Nippur, Erech, and Borsippa to learn what was seen there.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Omens for eclipses in Adar and Nisan are said to be sent to the king, and
+    a nambulbi-ceremony is recommended for the eclipse.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The great gods in the city where the king dwells are said to have obscured
+    the heavens and not shown the eclipse.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The eclipse is said not to be directed against the king or his country, and
+    the king is told to rejoice.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Thunder in Nisan is said to predict that corn will be diminished.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the king, my lord / king of countries
+  description: Royal addressee of the omen reports; he is told to rest happy, send
+    inquiries, act rightly, and rejoice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Irasshi-ilu
+  description: Servant of the king who reports that an eclipse will occur.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Bel-usur (?)
+  description: Servant who reports an eclipse that was not visible in Asshur and advises
+    further inquiry and ritual response.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Bel, Nabu, and Shamash
+  description: Named deities invoked to be gracious to the king.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: the great gods in the king's city
+  description: Divine group said to have obscured the heavens and not shown the eclipse.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: royal addressee and beneficiary
+  assigned_to:
+  - fig:1
+  basis: The reports are addressed to the king, say the omen is favorable or not directed
+    against him, and advise him on action.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: omen reporter and royal servant
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Both named figures identify as servants of the king and deliver eclipse-related
+    reports.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: invoked gracious deities
+  assigned_to:
+  - fig:4
+  basis: Bel, Nabu, and Shamash are invoked to be gracious to the king.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine obscurers of the heavens
+  assigned_to:
+  - fig:5
+  basis: The great gods in the king's city are credited with obscuring the heavens
+    and not showing the eclipse.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: eclipse as omen
+  literal_form: eclipse on the fourteenth; eclipse in Adar and Nisan
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Venus absent from eclipse visibility
+  literal_form: the eclipse will be seen without Venus
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: clouds and obscured heavens
+  literal_form: clouds everywhere; heavens obscured by the great gods
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: nambulbi-ceremony
+  literal_form: a nambulbi-ceremony for the eclipse
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: thunder in Nisan
+  literal_form: thunder in the month Nisan
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: diminished corn
+  literal_form: corn (?) will be diminished
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Predicted eclipse report
+  summary: Irasshi-ilu tells the king that an eclipse will occur on the fourteenth,
+    that it is unfavorable for Elam and Aharru but favorable for the king, and that
+    it will be seen without Venus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Unseen eclipse and requested verification
+  summary: Bel-usur reports that an eclipse occurred but was not visible in Asshur
+    because of clouds, invokes named deities, and advises the king to request observations
+    from several cities.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Ritual and divine reassurance after eclipse
+  summary: The report sends eclipse omens to the king, recommends a nambulbi-ceremony,
+    says the great gods obscured the heavens, and reassures the king that the eclipse
+    is not directed against him or his country.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Thunder omen in Nisan
+  summary: A brief omen states that thunder in Nisan means corn will be diminished.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Eclipse as royal and geopolitical omen
+  taxonomy_refs: []
+  basis: The eclipse is assigned different outcomes for Elam, Aharru, the king, and
+    the king's country.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage gives omen interpretation but does not explain the mechanism
+    behind the predicted outcomes.
+- id: motif:2
+  label: Unseen or obscured omen as reassurance
+  taxonomy_refs: []
+  basis: The eclipse is not visible in Asshur, the heavens are said to be obscured
+    by the great gods, and the king is told the eclipse is not directed against him
+    or his country.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The text combines meteorological obscurity, divine action, and political
+    reassurance; the exact ritual logic is not fully explained in the excerpt.
+- id: motif:3
+  label: Ritual response to an ominous celestial event
+  taxonomy_refs: []
+  basis: A nambulbi-ceremony is recommended for the eclipse, and the king is urged
+    not to omit acting rightly.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage names the ceremony but does not describe its performance.
+- id: motif:4
+  label: Thunder as seasonal agricultural omen
+  taxonomy_refs: []
+  basis: Thunder in Nisan is interpreted as predicting diminished corn.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The omen is brief and includes a question mark after corn in the translation.
+comparison_claims:
+- id: claim:1
+  claim: 'Within the passage, eclipses and thunder perform the same divinatory function:
+    observable natural phenomena are read as signs forecasting political or agricultural
+    outcomes.'
+  claim_level: same_function
+  target: natural phenomena as omen signs within the excerpt
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal functional comparison only; it does not establish
+    historical contact, inheritance, or a broader cross-cultural motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 27858-27864
+  quote_or_summary: An eclipse on the fourteenth is predicted as evil for Elam and
+    Aharru, lucky for the king, and visible without Venus; Irasshi-ilu reports it
+    as the king's servant.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 27866-27872
+  quote_or_summary: Bel-usur addresses the king, invokes Bel, Nabu, and Shamash, and
+    says an eclipse occurred but was not visible in Asshur because clouds made the
+    matter uncertain.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 27872-27878
+  quote_or_summary: The reporter advises sending to Asshur and cities such as Babylon,
+    Nippur, Erech, and Borsippa for observations, sends eclipse omens for Adar and
+    Nisan, and recommends a nambulbi-ceremony.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 27878-27883
+  quote_or_summary: The great gods in the king's city are said to have obscured the
+    heavens and not shown the eclipse, so it is not directed against the king or his
+    country and the king may rejoice.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: '27884'
+  quote_or_summary: '"(When) it thunders in Nisan, corn (?) will be diminished."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about omen readings, reports, and ritual advice.
+    Motif labels are descriptive and not mapped to supplied taxonomy families because
+    no listed family is directly supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No supplied symbol taxonomy refs were applied; available symbols do not include eclipse, Venus, clouds, thunder, or ritual ceremony.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l27858-l27884
+  passage_sha256=cb75d75dbd6331cca00238c8a76b3ddcc9d651dc11d79c83b9be1f5e63ce8efa
+

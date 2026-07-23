@@ -1,0 +1,414 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l16951-l16989
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: OF  THE  TAME  FLOCKS,  AND  OF  THE  DROVES  THEY  HAD  OF  THESE / ANIMALS.
+    / COMMENTARIES  OF  THE  YNCAS. / EIGHTH  BOOIC  OF  THE  ROYAL; lines 16951-16989
+  start: '16951'
+  end: '16989'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the usefulness and quality of llama meat, then recounts
+    a severe contagious disease among llamas and related animals in Peru in 1544-1545.
+    The disease spread from tame flocks to wild animals and foxes, caused major losses
+    and terror, and led to desperate remedies such as killing and burying infected
+    flocks. The narrator recalls seeing diseased foxes in Cuzco in 1548 and says Indians
+    divined from them that Gonzalo Pizarro would be defeated and slain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When one of the beasts became tired and lay down, the stated remaining action
+    was to kill it; its flesh is described as tender, agreeable, wholesome, and medically
+    preferred for sick people when from young lambs.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In 1544-1545, during the viceroyalty of Blasco Nunez Vela, llamas suffered
+    a previously unknown disease called earache or itch.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The disease is described as beginning in the stomach, spreading over the body,
+    producing thick scabs, deep scars, and flows of blood and matter.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The disease was very contagious, destroyed whole flocks quickly, caused terror
+    among Indians and Spaniards, and led to the loss of two-thirds of paco and huanacu
+    flocks.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The disease spread from tame animals to wild huanacus and vicunas, but it
+    was less fatal among them because of colder climate and less close congregation.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The disease also afflicted foxes; the narrator recalls seeing diseased foxes
+    entering Cuzco at night and being found alive and dead in streets and squares.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Indians are said to have divined from the foxes that Gonzalo Pizarro would
+    be defeated and slain, and the narrator says this later occurred.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: At the beginning of the plague, one desperate remedy was to kill and bury
+    the entire flock that had been attacked.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: tame llamas / tame beasts
+  description: Domestic animals whose meat is praised and which are later described
+    as suffering the contagious itch-like disease.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: pacos and tame huanacus
+  description: Two kinds of flocks in which Indians and Spaniards are said to have
+    lost two-thirds.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: wild huanacus and vicunas
+  description: Wild animals to which the disease spread, though with less fatal effect.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: foxes
+  description: Animals also afflicted by the disease, seen in Cuzco at night and found
+    alive and dead in streets and squares with deep holes left by scabs.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Indians
+  description: People who experienced terror and flock losses and who are described
+    as divining from the foxes.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:6
+  name_or_label: Spaniards
+  description: People who experienced terror and flock losses during the disease.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Gonzalo Pizarro
+  description: A leader said to have been at Cuzco in 1548 after victory at Huarina
+    and to have been the subject of a prediction of defeat and death.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:8
+  name_or_label: narrator
+  description: The speaking observer who says he remembers seeing diseased foxes and
+    remembers the Indians' prognostication.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:9
+  name_or_label: Viceroy Blasco Nunez Vela
+  description: Named as the viceroy during whose time the disease occurred in 1544-1545.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:10
+  name_or_label: Father Acosta
+  description: Cited as also saying that attacked flocks were killed and buried as
+    a desperate remedy.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: animals afflicted by the disease
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage describes the disease affecting tame llamas, pacos, huanacus,
+    vicunas, and foxes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: valued food and medical livestock
+  assigned_to:
+  - fig:1
+  basis: The animals' flesh is praised, and young lamb meat is recommended for sick
+    people.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: human groups suffering flock losses
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Indians and Spaniards are said to have felt terror and lost two-thirds of
+    the flocks.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: diviners or prognosticators
+  assigned_to:
+  - fig:5
+  basis: The Indians are described as divining and prognosticating from the foxes.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: omen-bearing animals
+  assigned_to:
+  - fig:4
+  basis: The foxes are the animals from which the Indians made a prediction about
+    Gonzalo Pizarro.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: target of prognostication
+  assigned_to:
+  - fig:7
+  basis: The prediction concerned Gonzalo Pizarro's defeat and death.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: eyewitness rememberer
+  assigned_to:
+  - fig:8
+  basis: The narrator explicitly states that he remembers seeing the foxes and remembers
+    the prognostication.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:8
+  label: chronological marker
+  assigned_to:
+  - fig:9
+  basis: Blasco Nunez Vela is mentioned to date the outbreak period.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: cited corroborating authority
+  assigned_to:
+  - fig:10
+  basis: Father Acosta is cited as also reporting the killing and burial of infected
+    flocks.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fox omen
+  literal_form: Diseased foxes entering Cuzco and appearing alive and dead in streets
+    and squares
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Quality and use of llama meat
+  summary: The passage presents the beast's flesh as excellent food and notes a medical
+    preference for young lamb meat for sick people.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Outbreak and spread of animal disease
+  summary: A severe contagious disease appears among llamas and related flocks, spreads
+    from tame to wild animals, and causes large losses and fear among Indians and
+    Spaniards.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Diseased foxes in Cuzco and divination
+  summary: The narrator recalls diseased foxes entering Cuzco and being found in streets
+    and squares; Indians use these foxes as the basis for a prediction that Gonzalo
+    Pizarro will be defeated and slain.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Killing and burial of infected flock
+  summary: At the beginning of the plague, a desperate remedy is to kill and bury
+    the whole attacked flock, a detail the narrator says Father Acosta also reports.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal omen foretelling defeat and death
+  taxonomy_refs: []
+  basis: The Indians are described as divining from diseased foxes that Gonzalo Pizarro
+    would be defeated and slain.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives no detailed ritual procedure or named divinatory system;
+    the motif is inferred from the explicit statement of divination from foxes.
+- id: motif:2
+  label: contagious animal plague crossing domestic and wild species
+  taxonomy_refs: []
+  basis: The disease destroys domestic flocks, spreads to wild huanacus and vicunas,
+    and also afflicts foxes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents this primarily as historical/medical description,
+    not as a mythic or divine punishment narrative.
+- id: motif:3
+  label: desperate destruction and burial of infected herd
+  taxonomy_refs: []
+  basis: The stated remedy at the beginning of the plague is to kill and bury the
+    entire attacked flock.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The act is described as a remedy, not as sacrifice or ritual offering.
+comparison_claims:
+- id: claim:1
+  claim: 'The fox episode has the same function as an animal-omen or animal-prognostication
+    pattern: observed animals become the basis for predicting a human leader''s defeat
+    and death.'
+  claim_level: same_function
+  target: animal omen / prognostication pattern
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not provide a broader comparative corpus, named ritual
+    specialists, or a formal system of fox divination.
+- id: claim:2
+  claim: The account explicitly aligns its report of killing and burying infected
+    flocks with a similar statement attributed to Father Acosta.
+  claim_level: same_function
+  target: Father Acosta's account of killing and burying infected flocks
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The cited Acosta passage is not included here, and the supplied excerpt
+    ends immediately after the reference begins.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16951-16957
+  quote_or_summary: The beast is killed when exhausted; its flesh is praised as tender,
+    agreeable, wholesome, and useful for sick people when from young lambs.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; evidence summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 16958-16975
+  quote_or_summary: In 1544-1545 llamas had a new severe itch-like disease; it spread
+    over the body, caused scabs and wounds, was contagious, destroyed flocks, frightened
+    Indians and Spaniards, and spread to wild huanacus and vicunas.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; evidence summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 16975-16983
+  quote_or_summary: The disease affected foxes; the narrator recalls that in 1548,
+    when Gonzalo Pizarro was at Cuzco, diseased foxes entered the town at night and
+    were found alive and dead in streets and squares.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; evidence summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 16984-16987
+  quote_or_summary: The Indians, described as fond of divining, “prognosticated from
+    the foxes that Gonzalo Pizarro would be defeated and slain,” which the narrator
+    says later happened.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 16987-16989
+  quote_or_summary: At the beginning of the plague, a desperate remedy was to kill
+    and bury the whole attacked flock; Father Acosta is cited as also saying this.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; evidence summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is explicit. Motif and comparison
+    confidence is lower where historical plague description is treated as a reusable
+    pattern rather than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned; the passage does not explicitly support divine judgment, sacrifice, or any listed symbol category.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l16951-l16989
+  passage_sha256=93a470001fdb3139456b4fbd3d865f2c61ce128a85072cc57832c00d3859eeaa
+

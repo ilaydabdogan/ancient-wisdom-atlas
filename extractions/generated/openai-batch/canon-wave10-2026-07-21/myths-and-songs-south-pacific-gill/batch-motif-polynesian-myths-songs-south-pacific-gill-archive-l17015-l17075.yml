@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l17015-l17075
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: EREU,    OR   SUMMER. / PARORO,    OR  WINTER. / CHANGES  OF  THE  MOON  (TE  TAU  AROPO).
+    / IN    THE   WEST.; lines 17015-17075
+  start: '17015'
+  end: '17075'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: CHANGES OF THE MOON (TE TAU AROPO). IN THE WEST.
+  summary: A calendrical list of named moon changes or lunar days in the west, including
+    entries associated with Iro, Oata as a shadowed moon, Amiama and Tamatea days
+    linked with sprat arrival, Vari-ma-te-takere as originator of all things, Tu-metua
+    as the last made of the major gods, and Marangi as full moon.
+  language: English with Mangaian terms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage presents a numbered sequence of moon changes under the heading
+    'in the west.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first entry, Iro, is sacred to Iro, who is described as patron of thieves,
+    and the entry is said to be favorable for thieving.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Oata is glossed as 'shadow' and explained as the moon seen in shadow.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note in the Amiama and Tamatea portion of the list says sprats arrive during
+    these days, with timing in February and, if that fails, the same days in March.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Several entries use 'akaoti' to mark a last form, including last Amiama, last
+    Tamatea, and last Korekore.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: The Vari entry identifies Vari-ma-te-takere as the originator of all things.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The list includes the names Una, Maaru, and Ua as successive entries.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The entry E atua is glossed as 'a god.'
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The Tu entry identifies Tu as Tu-metua, described as the last made of the
+    major gods.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The Marangi entry is identified as full moon.
+  category: attribute
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Iro
+  description: A figure to whom the first lunar entry is sacred; described as patron
+    of thieves.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Vari-ma-te-takere
+  description: Named in the Vari entry and glossed as the originator of all things.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Tu-metua
+  description: Named in the Tu entry and described as the last made of the major gods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: patron of thieves
+  assigned_to:
+  - fig:1
+  basis: The Iro entry explicitly calls Iro the patron of thieves and says the time
+    is favorable for thieving.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: originator of all things
+  assigned_to:
+  - fig:2
+  basis: The Vari entry glosses Vari-ma-te-takere as the originator of all things.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: last made major god
+  assigned_to:
+  - fig:3
+  basis: The Tu entry identifies Tu-metua as the last made of the major gods.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: lunar change sequence
+  literal_form: numbered moon changes or lunar days
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:9
+  - ev:10
+- id: sym:2
+  label: shadowed moon
+  literal_form: Oata, moon seen in shadow
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sprat arrival
+  literal_form: sprats arriving during specified lunar days in February or March
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: full moon
+  literal_form: Marangi, full moon
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Western list of moon changes
+  summary: The passage enumerates named lunar entries in the west, combining moon-phase
+    terms with named divine figures and glosses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:2
+  label: Sprat timing note
+  summary: Within the lunar list, the Amiama and Tamatea entries include a note that
+    sprats are expected during these days in February, or failing that during the
+    same days in March.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: lunar calendar linked to seasonal fish arrival
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage is explicitly a list of moon changes and includes a note that
+    sprats arrive during specified days in February or March.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:10
+  confidence: high
+  cautions: This is a calendrical table rather than a narrative myth episode.
+- id: motif:2
+  label: auspicious lunar time for theft under divine patronage
+  taxonomy_refs: []
+  basis: The Iro entry is sacred to Iro, calls him patron of thieves, and states that
+    the time is favorable for thieving.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a calendrical association only; it does not narrate
+    a theft or trickster episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a functional comparison with a seasonal-cycle pattern
+    because named lunar changes are used to mark expected sprat arrival in February
+    or March.
+  claim_level: same_function
+  target: seasonal_cycle
+  evidence_refs:
+  - ev:1
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself provides no external comparison and no full narrative
+    sequence; the claim is limited to calendrical function.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 17015-17075, heading
+  quote_or_summary: CHANGES OF THE MOON (TE TAU AROPO). IN THE WEST.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 17015-17075, entry 1
+  quote_or_summary: Iro. Sacred to Iro, patron of thieves. Favourable for thieving.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 17015-17075, entry 2
+  quote_or_summary: Oata = shadow, i.e. moon seen in shadow.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 17015-17075, entries 3-6 and adjacent note
+  quote_or_summary: The Amiama and Tamatea portion of the list includes a note that
+    sprats arrive during these days, in February or, if that fails, the same days
+    in March; Amiama-akaoti and Tamatea-akaoti are marked as last forms.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 17015-17075, entries 7-8
+  quote_or_summary: Korekore is followed by Korekore-akaoti, glossed as last Korekore.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 17015-17075, entry 9
+  quote_or_summary: The Vari entry identifies Vari-ma-te-takere as the originator
+    of all things.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 17015-17075, entries 10-12
+  quote_or_summary: The list gives Una, Maaru, and Ua as successive named entries.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: 17015-17075, entry 13
+  quote_or_summary: E atua = A god.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:9
+  type: summary
+  locator: 17015-17075, entry 14
+  quote_or_summary: The Tu entry identifies Tu as Tu-metua, the last made of the major
+    gods.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: quote
+  locator: 17015-17075, entry 15
+  quote_or_summary: O Marangi, or Full-Moon.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short but formatted as a fragmented table, so the sprat timing
+    note is summarized cautiously. Divine-name identifications and moon-phase glosses
+    are explicit.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external traditions or taxonomy identifiers beyond the provided motif family list were added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l17015-l17075
+  passage_sha256=bea98791cbc243ca64d0a9f0bcd3acbf315266716b1433482766a950a838a04d
+

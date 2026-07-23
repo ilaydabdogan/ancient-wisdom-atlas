@@ -1,0 +1,134 @@
+---
+batch_request_index_version: '1'
+run_id: replication-gpt54-wave10-2026-07-21
+created_at: '2026-07-22T20:44:42Z'
+updated_at: '2026-07-23T03:23:09Z'
+endpoint: "/v1/responses"
+model: gpt-5.4-std
+prompt_path: templates/batch-motif-extraction-prompt.md
+passages_path: data/batches/replication-gpt54-wave10-2026-07-21/passages.jsonl
+request_map_path: data/batches/replication-gpt54-wave10-2026-07-21/request-map.jsonl
+skip_ingested_from_run_id: replication-gpt54-wave10-2026-07-21
+skipped_ingested_count: 0
+shards:
+- shard_id: shard-0001
+  path: data/batches/replication-gpt54-wave10-2026-07-21/requests/shard-0001.jsonl
+  request_count: 1000
+  bytes: 14937965
+  sha256: 78dee69a8b9780da3b0d9a68c25cc6c790defe79a1d478d1e6ed81d331db54a5
+  endpoint: "/v1/responses"
+  model: gpt-5.4-std
+  status: completed_with_errors
+  output_path: data/batches/replication-gpt54-wave10-2026-07-21/results/shard-0001.output.jsonl
+  output_sha256: 50a8b4ceeeb594cfeba821f76f02904e13fad2c9bd3fbf58317bbcdc5ebb688f
+  errors_path: data/batches/replication-gpt54-wave10-2026-07-21/results/shard-0001.errors.jsonl
+  errors_sha256: e746c7c0937768fc25cf68ce20ffda99962b9ef6f8828aec40225c6d2ff2d270
+  runtime: realtime
+  error_count: 6
+  last_checked_at: '2026-07-22T21:28:17Z'
+- shard_id: shard-0002
+  path: data/batches/replication-gpt54-wave10-2026-07-21/requests/shard-0002.jsonl
+  request_count: 1000
+  bytes: 15578814
+  sha256: b3f1d1a992b6014687006fffce13a035e6ca44d17975d9c2518a970dc89949ed
+  endpoint: "/v1/responses"
+  model: gpt-5.4-std
+  status: completed_with_errors
+  output_path: data/batches/replication-gpt54-wave10-2026-07-21/results/shard-0002.output.jsonl
+  output_sha256: 0c343efa0a7f2f1d20ba7466e0dad4f2ba618509a9b33137c382c6fb70026beb
+  errors_path: data/batches/replication-gpt54-wave10-2026-07-21/results/shard-0002.errors.jsonl
+  errors_sha256: 72590c177324ac2c074b88354d0bf1bc0ff653f0396a5ad7cacc376aad565215
+  runtime: realtime
+  error_count: 3
+  last_checked_at: '2026-07-22T22:12:18Z'
+- shard_id: shard-0003
+  path: data/batches/replication-gpt54-wave10-2026-07-21/requests/shard-0003.jsonl
+  request_count: 1000
+  bytes: 15775979
+  sha256: a824213abe96f886ceabb23faf7eefd0a88333aec56cf40f8448b28b6d421a4c
+  endpoint: "/v1/responses"
+  model: gpt-5.4-std
+  status: completed_with_errors
+  output_path: data/batches/replication-gpt54-wave10-2026-07-21/results/shard-0003.output.jsonl
+  output_sha256: 115c0a03e53e31877298d0a203e94dd1653a70ddf250b7d863bdb92eee60679e
+  errors_path: data/batches/replication-gpt54-wave10-2026-07-21/results/shard-0003.errors.jsonl
+  errors_sha256: 5a9f60a3e448bb82c9d53f482e3e8c4d7a372057626c0d8c47f9772cde18a8d1
+  runtime: realtime
+  error_count: 2
+  last_checked_at: '2026-07-22T22:50:26Z'
+- shard_id: shard-0004
+  path: data/batches/replication-gpt54-wave10-2026-07-21/requests/shard-0004.jsonl
+  request_count: 1000
+  bytes: 15937942
+  sha256: d32ccb46579c07b7e6923047b3acc27a2350c0ffd36f292bd8c24e098759bdb4
+  endpoint: "/v1/responses"
+  model: gpt-5.4-std
+  status: completed_with_errors
+  output_path: data/batches/replication-gpt54-wave10-2026-07-21/results/shard-0004.output.jsonl
+  output_sha256: 56e15aab9dfc90dd2bc309e2591cfb5b1275ea6d17b03a5fdffb920aef52f452
+  errors_path: data/batches/replication-gpt54-wave10-2026-07-21/results/shard-0004.errors.jsonl
+  errors_sha256: cc75126f1e53065c6875224641ccabd2f911fd84e6f4e3adbeec4e11ecf315ae
+  runtime: realtime
+  error_count: 15
+  last_checked_at: '2026-07-22T23:33:42Z'
+- shard_id: shard-0005
+  path: data/batches/replication-gpt54-wave10-2026-07-21/requests/shard-0005.jsonl
+  request_count: 1000
+  bytes: 16691930
+  sha256: d66c9d3636161094af4356843a0dda1c7d157b95c40554efd418df4078cce7e4
+  endpoint: "/v1/responses"
+  model: gpt-5.4-std
+  status: completed_with_errors
+  output_path: data/batches/replication-gpt54-wave10-2026-07-21/results/shard-0005.output.jsonl
+  output_sha256: da41191cc5ecddb98641239e301265cf75377e55d722b18276bcb6f808f4fd55
+  errors_path: data/batches/replication-gpt54-wave10-2026-07-21/results/shard-0005.errors.jsonl
+  errors_sha256: eafbaeb1c4f1a35400d986e93952e5fc1669f6d2c0571c25d10938c36f7dc287
+  runtime: realtime
+  error_count: 4
+  last_checked_at: '2026-07-23T00:23:10Z'
+- shard_id: shard-0006
+  path: data/batches/replication-gpt54-wave10-2026-07-21/requests/shard-0006.jsonl
+  request_count: 1000
+  bytes: 16502570
+  sha256: eff918f066be459b3276d494ab44e79575a9741af341fda1a3717b8e023613e6
+  endpoint: "/v1/responses"
+  model: gpt-5.4-std
+  status: completed_with_errors
+  output_path: data/batches/replication-gpt54-wave10-2026-07-21/results/shard-0006.output.jsonl
+  output_sha256: 730a259dece635f424249ae65fb65fc6f4f52c96b5f299368d042ebd7dbdf63a
+  errors_path: data/batches/replication-gpt54-wave10-2026-07-21/results/shard-0006.errors.jsonl
+  errors_sha256: '09756e7b2533dd0c17be4cd3c3374c10fc55aec0078b7d42749058a7291c4575'
+  runtime: realtime
+  error_count: 4
+  last_checked_at: '2026-07-23T01:13:37Z'
+- shard_id: shard-0007
+  path: data/batches/replication-gpt54-wave10-2026-07-21/requests/shard-0007.jsonl
+  request_count: 1000
+  bytes: 17020074
+  sha256: d3ca156b1cb0a0d529de8bfa7cb790c821fccc3536c3c534c9c1b3621c2fd5a6
+  endpoint: "/v1/responses"
+  model: gpt-5.4-std
+  status: completed_with_errors
+  output_path: data/batches/replication-gpt54-wave10-2026-07-21/results/shard-0007.output.jsonl
+  output_sha256: dda0b7e629db6183f16e096b07143315c0d81610c7787f7340dcbb27378a3516
+  errors_path: data/batches/replication-gpt54-wave10-2026-07-21/results/shard-0007.errors.jsonl
+  errors_sha256: '01485a2761f7b81923ed09773e4dad062e080e02908f6b20d6ecb760214b7630'
+  runtime: realtime
+  error_count: 24
+  last_checked_at: '2026-07-23T02:14:33Z'
+- shard_id: shard-0008
+  path: data/batches/replication-gpt54-wave10-2026-07-21/requests/shard-0008.jsonl
+  request_count: 952
+  bytes: 15478196
+  sha256: 4e596dd0376940a1b9ddc749b9574401060831dd33828dc9931ff788d0c070a2
+  endpoint: "/v1/responses"
+  model: gpt-5.4-std
+  status: completed_with_errors
+  output_path: data/batches/replication-gpt54-wave10-2026-07-21/results/shard-0008.output.jsonl
+  output_sha256: b70d53628bb66cf644099992e2240b084bfa7286d29ce8b77f395c7a7aead532
+  errors_path: data/batches/replication-gpt54-wave10-2026-07-21/results/shard-0008.errors.jsonl
+  errors_sha256: c4d0fc13550b293bac08d85443803c26ab63bbc1e1c7b7e915cb540ace0c91b6
+  runtime: realtime
+  error_count: 43
+  last_checked_at: '2026-07-23T03:23:09Z'
+

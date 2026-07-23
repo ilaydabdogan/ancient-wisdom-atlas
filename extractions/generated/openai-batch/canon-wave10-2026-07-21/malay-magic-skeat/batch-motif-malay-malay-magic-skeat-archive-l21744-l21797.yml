@@ -1,0 +1,383 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l21744-l21797
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: ANOTHER  ACCOUNT / WEDDING  CEREMONIES / FUNERALS / FUNERALS; lines 21744-21797
+  start: '21744'
+  end: '21797'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: The “contact with iron” prevents the dead body from rising again
+  summary: The passage describes Malay funeral arrangements for a corpse, including
+    bedding, pillows, betel-nut scissors, incense bowls, guarding the body during
+    the wake, and customs concerning cats, iron, fire, lamps, and deathbed handling.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The corpse is laid on a mattress resting on a new pandanus-leaf mat, with
+    hangings displayed and pillows placed at the head and sides.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A pair of betel-nut scissors is laid below the folded hands of the corpse,
+    and incense bowls are placed on the matting at either side.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One explanation says that a cat once brushed against a dead body, causing
+    the cat’s evil influence, called badi, to enter the body so that it rose and stood.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that contact with iron prevents the dead body from rising
+    again if a cat brushes against it.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: Cats should be driven out of the house before the funeral ceremonies begin.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: From this point until burial, the wake must be observed and the body watched
+    by day and night to keep forbidden things from coming near it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note reports traditions that corpses were formerly watched for three days
+    before burial, sometimes for a week or longer, and that Raja S’nei was kept forty
+    days in her coffin above ground.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage states that before the introduction of Muhammadanism, the dead
+    were burned.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The hearth-fire and lamps are kept burning while the corpse is in the house
+    and for seven days and nights after the death.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: When death approaches, the sick person’s mosquito-curtain is opened, and in
+    some cases the dying are taken from their beds and laid on the floor.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: corpse / dead body
+  description: The body prepared for funeral display and burial, guarded during the
+    wake, and protected from cat contact by iron.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: cat
+  description: An animal said to carry badi and to be capable of causing a corpse
+    to rise if it brushes against it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: wake watchers
+  description: Persons implied by the requirement that the body be watched by day
+    and night until burial.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Raja S’nei
+  description: A reported person whose coffin was kept above ground for forty days.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: sick or dying person
+  description: The person whose mosquito-curtain is opened as death approaches and
+    who may be laid on the floor.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: funeral subject
+  assigned_to:
+  - fig:1
+  basis: The passage centers on preparing and guarding the body before burial.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: body at risk of rising
+  assigned_to:
+  - fig:1
+  basis: The passage says iron prevents the dead body from rising again if a cat brushes
+    against it.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: taboo animal carrying badi
+  assigned_to:
+  - fig:2
+  basis: A cat is said to have badi that can enter a dead body through contact.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: ritual guards of the corpse
+  assigned_to:
+  - fig:3
+  basis: The body must be watched by day and night to keep forbidden things away.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: example of prolonged above-ground keeping
+  assigned_to:
+  - fig:4
+  basis: Raja S’nei is reported to have been kept forty days in her coffin above ground.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: person near death
+  assigned_to:
+  - fig:5
+  basis: The passage describes actions performed when death is approaching.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: iron betel-nut scissors
+  literal_form: Pair of betel-nut scissors placed below the folded hands; explained
+    as symbolising iron, with short weapons sometimes substituted.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: cat and badi
+  literal_form: Cat whose evil influence, badi, may enter a corpse through contact.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: incense bowls
+  literal_form: Bowls for burning incense placed on the matting at either side of
+    the corpse.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: hearth-fire and lamps
+  literal_form: Hearth-fire and lamps kept burning during the corpse’s presence in
+    the house and for seven days and nights after death.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: funeral bedding
+  literal_form: Mattress, new pandanus-leaf mat, pillows, and hangings used around
+    the corpse.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: corpse arranged for funeral
+  summary: The corpse is placed on bedding with pillows, hangings, betel-nut scissors,
+    and incense bowls arranged around it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: cat-contact origin account
+  summary: An explanatory account says a cat brushed a dead body, badi entered it,
+    and the body rose and stood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: iron protection and corpse watch
+  summary: Iron contact is described as preventing a corpse from rising if a cat brushes
+    it, and the wake requires day-and-night watching to keep forbidden things away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: extended funerary and deathbed customs
+  summary: The notes describe prolonged corpse-watching traditions, pre-Muhammadan
+    burning of the dead, seven-day burning of hearth-fire and lamps, and actions taken
+    for a dying person.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: apotropaic iron prevents corpse rising
+  taxonomy_refs: []
+  basis: Betel-nut scissors are placed on the corpse and explained as iron that prevents
+    the dead body from rising if touched by a cat.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage frames this as a Malay funerary explanation; no broader comparative
+    connection is stated in the supplied excerpt.
+- id: motif:2
+  label: cat contact animates corpse
+  taxonomy_refs: []
+  basis: The origin account says a cat’s badi entered a dead body after contact, causing
+    it to rise and stand.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an explanatory tradition within the passage, not evidence here
+    for a cross-cultural revenant type.
+- id: motif:3
+  label: corpse vigil against forbidden contact
+  taxonomy_refs: []
+  basis: The wake requires the body to be watched day and night so that forbidden
+    things do not come near it.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not specify all forbidden things beyond the cat-related
+    concern.
+- id: motif:4
+  label: funerary fire and lamps kept burning after death
+  taxonomy_refs: []
+  basis: The hearth-fire and lamps are kept burning while the corpse is in the house
+    and for seven days and nights after the death.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage states the practice but does not explicitly explain its meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 21744-21797; funeral arrangement paragraph
+  quote_or_summary: The body is laid on a mattress on a new pandanus-leaf mat; pillows
+    are placed at the head and sides; betel-nut scissors and incense bowls are set
+    near the corpse.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 21744-21797; cat origin explanation
+  quote_or_summary: A cat brushed a dead body, causing the evil influence “badi” in
+    cats to enter it, “so that it rose and stood upon its feet.”
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 21744-21797; iron protection explanation
+  quote_or_summary: "“The ‘contact with iron’ prevents the dead body from rising again”
+    if a cat enters and brushes against it."
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 21744-21797; note 1
+  quote_or_summary: "“The explanation usually given by Malays is that the betel-nut
+    scissors symbolise iron. Short weapons are sometimes substituted.”"
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: quote
+  locator: lines 21744-21797; wake instruction
+  quote_or_summary: The wake must be observed until burial, and the body watched day
+    and night so nothing forbidden, “pantang,” may come near it.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; concise summary with short terms used.
+- id: ev:6
+  type: summary
+  locator: lines 21744-21797; note 2
+  quote_or_summary: A tradition says corpses were formerly watched three days before
+    burial, sometimes longer; Raja S’nei was reportedly kept forty days above ground;
+    before Muhammadanism the dead were burned.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 21744-21797; post-funeral customs note
+  quote_or_summary: The hearth-fire and lamps are kept burning while the corpse is
+    in the house and for seven days and nights after death; at approaching death the
+    mosquito-curtain is opened and some dying persons are laid on the floor.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    candidates; no comparison claims were made because the excerpt does not itself
+    support a broader comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The supplied excerpt ends mid-sentence after mentioning fumigation material; that incomplete detail was not used as a separate observation.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l21744-l21797
+  passage_sha256=614cd17f6d02bca30d8adbdb02f24f62691fc65bb8555380b4036ebad031cbb7
+

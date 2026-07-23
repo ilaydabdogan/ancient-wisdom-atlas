@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l24034-l24111
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: THE   SHURPU   SERIES  387 / COLOPHON / THIRD  TABLET / THE   SHURPU   SERIES  389;
+    lines 24034-24111
+  start: '24034'
+  end: '24111'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A section of the Shurpu Series lists many bans to be loosed by an unnamed
+    agent. The bans concern food and drink, violence, water supply and water privileges,
+    plants, oaths and divine precincts, spirits or protective figures, trees, wells
+    and rivers, boundaries and crossings, canals, sacrifices, and other damaged or
+    uncertain items.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is structured as a sequence of entries in which a ban is named
+    and then said to be loosed by an unnamed “he.”
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some entries are damaged or uncertain in the translation, marked by asterisks
+    and question marks.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:3
+  text: Some bans concern social relations or violence involving a friend, a neighbour,
+    or an enemy.
+  category: relationship
+  evidence_refs:
+  - ev:7
+  - ev:4
+- id: obs:4
+  text: Several bans concern water access, water containers, wells, rivers, canals,
+    drinking water, and spitting in a river.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: Some bans concern divine or sacred acts and spaces, including swearing by
+    a god, conjuring by the rising sun, swearing with unclean hands, entering a god’s
+    precincts, and eating sacrificial flesh.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Some bans concern plants and animals, including tearing up plants in a field,
+    slaughtering a sheep, tamarisk or date-palm, and demands made in stalls or among
+    animals.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Some bans concern boundaries, crossings, or infrastructure, including wall,
+    ford, bridge, dividing-line or boundary, canal, and chariot.
+  category: setting
+  evidence_refs:
+  - ev:7
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed loosing agent
+  description: The recurring unnamed “he” who is said to loose each ban.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: god
+  description: A deity invoked in oaths and associated with precincts mentioned in
+    the bans.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: generic human counterparts
+  description: Generic persons named in the listed situations, including a friend,
+    a neighbour, and an enemy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:4
+roles:
+- id: role:1
+  label: looser of bans
+  assigned_to:
+  - fig:1
+  basis: Each listed ban is followed by the formula that he will loose it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deity invoked or approached in sacred contexts
+  assigned_to:
+  - fig:2
+  basis: The passage mentions swearing by the god, swearing by the god with unclean
+    hands, and entering the precincts of a god.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: persons affected by prohibited conduct
+  assigned_to:
+  - fig:3
+  basis: The list includes acts involving a friend, a neighbour’s canal, and conduct
+    toward an enemy.
+  evidence_refs:
+  - ev:7
+  - ev:4
+symbols:
+- id: sym:1
+  label: water
+  literal_form: one day’s water supply; water privileges; water-bucket; well or river;
+    neighbour’s canal; drinking water; spitting in a river
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: plants and trees
+  literal_form: plants in the field; tamarisk; date-palm
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: sacred oath and precinct
+  literal_form: swearing by the god; conjuring by the sun when it rises; swearing
+    with unclean hands; entering the precincts of a god
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: boundary and crossing places
+  literal_form: wall; ford; bridge; dividing-line; boundary
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: sacrificial flesh
+  literal_form: the flesh of sacrifices
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: catalog of bans to be loosed
+  summary: The passage gives a litany of bans, each described as something the unnamed
+    agent will loose.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: scene:2
+  label: water, field, animal, and boundary bans
+  summary: The listed bans include acts involving water rights and waterways, plants
+    and trees, animals, crossings, boundaries, canals, and chariots.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: divine oath, purity, and sacrifice bans
+  summary: The list includes bans connected with swearing by a god, conjuring by the
+    rising sun, unclean hands in oath-taking, entering divine precincts, and eating
+    sacrificial flesh.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual loosening of bans
+  taxonomy_refs: []
+  basis: The repeated formula names a ban and states that the unnamed agent will loose
+    it.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a catalog rather than a narrative; several entries are
+    damaged or uncertain.
+- id: motif:2
+  label: water-related taboo and access obligation
+  taxonomy_refs: []
+  basis: Multiple entries concern requests for water, water privileges, a water-bucket,
+    well or river, a neighbour’s canal, drinking water, and spitting in a river.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain the ritual or legal consequences beyond the
+    formula that the ban will be loosed.
+- id: motif:3
+  label: sacred oath and purity restriction
+  taxonomy_refs: []
+  basis: Entries mention swearing by a god, conjuring by the sun at rising, swearing
+    by the god with unclean hands, and entering a god’s precincts.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a list of bans and does not narrate a specific oath
+    scene.
+- id: motif:4
+  label: boundary and neighbour-right violation
+  taxonomy_refs: []
+  basis: Entries mention damming a neighbour’s canal, fixing a dividing-line or boundary,
+    and places such as wall, ford, and bridge.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: These items appear among many other bans, so their thematic grouping is
+    interpretive.
+- id: motif:5
+  label: sacrifice-related ban
+  taxonomy_refs:
+  - sacrifice
+  basis: One entry names a ban from eating the flesh of sacrifices.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage mentions sacrificial flesh only briefly and does not describe
+    a sacrificial rite.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 24034-24111
+  quote_or_summary: The passage repeatedly lists “A ban from ...” followed by the
+    statement that “he will loose” it.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: quote
+  locator: 24034-24111
+  quote_or_summary: "“A ban from refusing the request for one day's water supply he
+    will loose.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain translation; short excerpt.
+- id: ev:3
+  type: quote
+  locator: 24034-24111
+  quote_or_summary: "“A ban from refusing the request for water privileges he will
+    loose.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain translation; short excerpt.
+- id: ev:4
+  type: summary
+  locator: 24034-24111
+  quote_or_summary: Water-related entries include taking a water-bucket and swearing
+    by the god, well or river, damming a neighbour’s canal, drinking water out of
+    a bowl, and spitting in a river.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: 24034-24111
+  quote_or_summary: Sacred or divine entries include swearing by the god, conjuring
+    by the sun when it rises, swearing by the god with unclean hands, protecting spirit
+    or bull-colossus, entering the precincts of a god, and eating the flesh of sacrifices.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: 24034-24111
+  quote_or_summary: Plant and animal entries include tearing up plants in the field,
+    slaughtering a sheep, making a demand in the stalls or among the animals, and
+    tamarisk or date-palm.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: 24034-24111
+  quote_or_summary: Social, boundary, and infrastructure entries include coming upon
+    a friend and killing him, consenting and then refusing, hostility to an enemy,
+    fixing a dividing-line or boundary, wall or ford, bridge, and destroying a chariot
+    or its damaged term.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: 24034-24111
+  quote_or_summary: Several entries contain question marks or asterisks, indicating
+    uncertain readings or damaged text in the printed translation.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The repeated ban-loosening formula and many concrete objects/settings are
+    clear, but the passage is fragmentary and catalog-like, with several uncertain
+    readings. No comparison claims are made because the passage itself does not provide
+    a comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Interpretive grouping is kept separate from literal observations.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l24034-l24111
+  passage_sha256=1431a4593447897ee2e3f0ade70d589a2745c5be25a1ab26ae4bb5214f0137c4
+

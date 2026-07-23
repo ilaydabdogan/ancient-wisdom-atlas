@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l422-l449
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  I. / HOW  THEY  DIVIDED  THE  LAND  AMONGST  THE  VASSALS. / FIFTH  BOOK  OF  THE  ROYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 422-449
+  start: '422'
+  end: '449'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: 'These also were divided into three parts: for the people, the Sun, and the
+    Ynca.'
+  summary: The passage describes how lands were apportioned among vassals, the Sun,
+    and the Ynca; how population growth could lead to redistribution from the lands
+    of the Sun and the Ynca to the vassals; and how irrigated, unirrigated, and fallow
+    lands were managed to maintain abundance.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: When the people of a village or province increased, a portion was taken from
+    the lands of the Sun and of the Ynca for the vassals.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The King is described as taking for himself and for the Sun only lands that
+    would otherwise remain desert and without an owner.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Most of the andenes belonged to the Sun and to the Ynca because the sovereign
+    had ordered them to be made.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Unirrigated tracts used for crops such as papas, ocas, and imus were divided
+    into three parts: for the people, the Sun, and the Ynca.'
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Poor unirrigated lands were cropped once or twice and then replaced by other
+    lots so that the first could lie fallow.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The stated purpose of rotating poor lands was that there might always be abundance.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Maize lands were sown every year because irrigation and manure kept them fertile.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A seed likened to rice and called i/uinua was sown with the maize and was
+    also raised on cold lands.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the people / vassals
+  description: The inhabitants of a village or province who received land portions,
+    especially when their numbers increased, and who are one of the three named recipients
+    of divided land.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: the King / the Ynca / the sovereign
+  description: The ruler associated with land set aside for the Ynca, with limiting
+    his own and the Sun's claims to otherwise unused land, and with ordering the andenes
+    to be made.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the Sun
+  description: The named entity or institution for which lands were set aside and
+    which is one of the three recipients in the division of land.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: recipient of apportioned land
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage names the people, the Sun, and the Ynca as recipients in the
+    division of land.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: redistributing ruler
+  assigned_to:
+  - fig:2
+  basis: The King is described as taking only otherwise unused land for himself and
+    the Sun, while land could be taken from the Sun and the Ynca for vassals when
+    population increased.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: sponsor of constructed terraces
+  assigned_to:
+  - fig:2
+  basis: Most andenes are said to belong to the Sun and the Ynca because the sovereign
+    ordered them to be made.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: threefold land division
+  literal_form: 'three parts: for the people, the Sun, and the Ynca'
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: lands of the Sun
+  literal_form: lands assigned to or taken from the Sun
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: irrigated maize lands
+  literal_form: maize lands irrigated and manured like a garden
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: fallow lots
+  literal_form: poor lands left fallow after one or two crops
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Population-responsive land redistribution
+  summary: As a village or province increased in population, portions could be taken
+    from the lands of the Sun and the Ynca for the vassals, while the King is described
+    as claiming only otherwise ownerless land for himself and the Sun.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Terraces and unirrigated tracts apportioned
+  summary: Terraces are linked to the sovereign's order to make them, and unirrigated
+    crop lands are divided into three parts for the people, the Sun, and the Ynca.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Fallow rotation for abundance
+  summary: Poor lands are cropped once or twice, then exchanged for other lots so
+    that the earlier lots may lie fallow, with abundance named as the goal.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Annual cultivation of irrigated maize lands
+  summary: Irrigated and manured maize lands remain fertile and are sown every year;
+    a rice-like seed called i/uinua is also sown with the maize and raised on cold
+    lands.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Tripartite allocation of land among community, Sun, and ruler
+  taxonomy_refs: []
+  basis: 'The passage repeatedly presents land division as involving three recipients:
+    the people, the Sun, and the Ynca.'
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an administrative pattern in a chronicle passage, not a mythic
+    narrative episode.
+- id: motif:2
+  label: Royal stewardship through redistribution and improvement of land
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The King is portrayed as limiting claims to otherwise unused land, reallocating
+    land for vassals when population grew, and ordering the construction of andenes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The royal_legitimacy taxonomy reference is interpretive; the passage does
+    not explicitly state a mythic charter or divine sanction.
+- id: motif:3
+  label: Agricultural rotation maintained for abundance
+  taxonomy_refs: []
+  basis: The passage describes moving from exhausted poor lands to other lots so the
+    first could lie fallow, explicitly so that abundance would continue.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is presented as agronomic practice rather than a symbolic seasonal-cycle
+    myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 422-428
+  quote_or_summary: When population increased in a village or province, land was taken
+    from the lands of the Sun and the Ynca for the vassals; the King took only otherwise
+    desert and ownerless land for himself and the Sun.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 428-431
+  quote_or_summary: Most andenes belonged to the Sun and to the Ynca because the sovereign
+    ordered them to be made.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary from provided passage.
+- id: ev:3
+  type: quote
+  locator: lines 431-437
+  quote_or_summary: '"These also were divided into three parts: for the people, the
+    Sun, and the Ynca."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quote from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 437-442
+  quote_or_summary: Unirrigated poor lands were cropped once or twice, then exchanged
+    for other lots so the first could lie fallow; this method was said to keep abundance.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 443-449
+  quote_or_summary: Maize lands were sown every year because irrigation and manure
+    kept them fertile; a rice-like seed called i/uinua was sown with maize and also
+    raised on cold lands.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The administrative details are explicit. Motif candidates are cautious because
+    the passage is a historical-ethnographic description rather than a mythic narrative.
+    No comparison claims were made because the passage itself does not provide cross-traditional
+    comparison evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Header/page text in the supplied passage was ignored; extraction focuses on the prose description of land division and cultivation.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l422-l449
+  passage_sha256=455cf951eda21e9424ce4ae2e85aaa57539da693c6beff5fa373f5629a8556c2
+

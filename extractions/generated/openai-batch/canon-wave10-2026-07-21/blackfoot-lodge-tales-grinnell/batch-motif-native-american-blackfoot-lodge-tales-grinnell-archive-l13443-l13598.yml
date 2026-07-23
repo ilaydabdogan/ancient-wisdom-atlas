@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.native-american-blackfoot-lodge-tales-grinnell-archive-l13443-l13598
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+passage_locator:
+  label: INDEX / INDEX / INDEX / INDEX; lines 13443-13598
+  start: '13443'
+  end: '13598'
+  translation: Blackfoot Lodge Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: An index section from Blackfoot Lodge Tales, pages 309-310, listing topics
+    and page references from Sun-related entries through Wolves. The entries include
+    Sun's Lodge, theft from the Sun, Thunder, Under Water People, origin of death,
+    transmigration of souls, Medicine Lodge and sweat lodge practices, tobacco, war
+    topics, and animal or named-being entries.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index section listing topics and page references rather
+    than a narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The index contains Sun-related entries: seeking the Sun''s Lodge, theft from
+    the Sun, a penalty for that theft, and things sacred to the Sun.'
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:3
+  text: The Thunder entry includes subentries identifying Thunder as a bird, describing
+    Thunder, saying Thunder brings rain, and saying Thunder steals women.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:4
+  text: The passage lists Under Water People and Under Water Persons as indexed topics.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:5
+  text: The index includes entries for transmigration of souls and a version of the
+    origin of death.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:6
+  text: The passage includes ritual or ceremonial entries for sweat bath, sweat lodge,
+    Medicine Lodge houses and tongues, tobacco, tobacco songs, and punishment of a
+    tobacco thief.
+  category: object
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:7
+  text: The passage lists war-related topics including taking horses, war bonnet,
+    war journeys, war lodges, and war parties.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:8
+  text: The index includes an entry for trial by jumping.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Sun
+  description: A named entity associated in the index with a lodge that is sought,
+    theft from the Sun, and things sacred to the Sun.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Thunder
+  description: A named being or force indexed as a bird, as described elsewhere, as
+    bringing rain, and as stealing women.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Under Water People / Under Water Persons
+  description: A collective group listed as indexed topics under water.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: entity associated with a sought lodge
+  assigned_to:
+  - fig:1
+  basis: The index entry names the Sun's Lodge and says it is sought.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: entity associated with theft and sacred things
+  assigned_to:
+  - fig:1
+  basis: The index lists theft from the Sun, penalty for that theft, and things sacred
+    to the Sun.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: rain-bringing thunder being
+  assigned_to:
+  - fig:2
+  basis: The Thunder index entry states that Thunder brings the rain.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: abductor of women
+  assigned_to:
+  - fig:2
+  basis: The Thunder index entry states that Thunder steals women.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: underwater collective beings
+  assigned_to:
+  - fig:3
+  basis: The passage lists Under Water People and Under Water Persons.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Sun's Lodge
+  literal_form: A lodge associated with the Sun and described in the index as being
+    sought.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Sacred things of the Sun
+  literal_form: Unspecified things sacred to the Sun.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Thunder bird and rain
+  literal_form: Thunder indexed as a bird and as bringing rain.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Under-water beings
+  literal_form: People or persons identified as under water.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Sweat lodge and Medicine Lodge materials
+  literal_form: Sweat bath, sweat lodge, houses for Medicine Lodge, and tongues for
+    Medicine Lodge.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: Tobacco and tobacco songs
+  literal_form: Indian tobacco, tobacco songs, and a punished tobacco thief.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Seeking the Sun's Lodge
+  taxonomy_refs:
+  - mystical_quest
+  basis: The index directly lists an entry for seeking the Sun's Lodge.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is only an index entry; it does not provide the plot or purpose
+    of the seeking.
+- id: motif:2
+  label: Theft from a solar sacred power
+  taxonomy_refs:
+  - sacred_theft
+  basis: The index lists The Theft from the Sun, a penalty for that theft, and things
+    sacred to the Sun.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The exact stolen object, actor, and narrative outcome are not present
+    in this index excerpt.
+- id: motif:3
+  label: Thunder steals women
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The Thunder entry states that Thunder steals women.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The index does not state whether the women are beloved figures, wives,
+    captives, or other roles; the taxonomy mapping is therefore tentative.
+- id: motif:4
+  label: Thunder as rain-bringer
+  taxonomy_refs: []
+  basis: The Thunder entry states that Thunder brings the rain.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The index does not give narrative context, ritual use, or cosmological
+    explanation.
+- id: motif:5
+  label: Origin of death and soul transmigration
+  taxonomy_refs: []
+  basis: The index lists a version of the origin of death and transmigration of souls.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The entries indicate topics only; they do not describe the specific origin-of-death
+    account or the mechanics of transmigration.
+- id: motif:6
+  label: Underwater people
+  taxonomy_refs: []
+  basis: The passage lists Under Water People and Under Water Persons as indexed topics.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The index provides no narrative actions, attributes, or relationships
+    for these beings.
+- id: motif:7
+  label: Trial by jumping
+  taxonomy_refs: []
+  basis: The index contains an entry for trial by jumping.
+  evidence_refs:
+  - ev:11
+  confidence: low
+  cautions: The index does not indicate whether the trial is initiatory, judicial,
+    heroic, or ceremonial.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13443-13598
+  quote_or_summary: Index pages 309-310 list entries from Sun-related topics through
+    Wolves.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 13443-13598
+  quote_or_summary: '"Sun''s Lodge, seeking the, 94."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 13443-13598
+  quote_or_summary: '"Theft from the Sun, The, 167. penalty for, 220."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 13443-13598
+  quote_or_summary: '"Things sacred to the Sun, 258."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: quote
+  locator: lines 13443-13598
+  quote_or_summary: '"Thunder, 113 et seq., 259. bird, 8a. described, 259. brings
+    the rain, 116, 277. steals women, 113."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: quote
+  locator: lines 13443-13598
+  quote_or_summary: '"Under Water People, 25, ige. Persons, 259."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:7
+  type: summary
+  locator: lines 13443-13598
+  quote_or_summary: The index includes entries for "Transmigration of souls" and "Version
+    of the origin of death."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; brief summary with short entry titles.
+- id: ev:8
+  type: summary
+  locator: lines 13443-13598
+  quote_or_summary: The index includes entries for sweat bath, sweat lodge, houses
+    for Medicine Lodge, and tongues for Medicine Lodge.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:9
+  type: quote
+  locator: lines 13443-13598
+  quote_or_summary: '"Tobacco, Indians'', 268. songs, 270. Tobacco thief punished,
+    271."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:10
+  type: summary
+  locator: lines 13443-13598
+  quote_or_summary: War-related index entries include taking horses, war bonnet, war
+    journeys, war lodges, and war parties.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:11
+  type: quote
+  locator: lines 13443-13598
+  quote_or_summary: '"Trial by jumping, 161."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The source passage is an index rather than a narrative; literal extraction
+    of indexed topics is fairly secure, but motif identification is tentative because
+    plot context is absent.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not compare these entries with other traditions or motif families beyond the indexed topic labels.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-blackfoot-lodge-tales-grinnell-archive__l13443-l13598
+  passage_sha256=b68c6be28683d50302d7de8fd8b6a0a70d6d2668bb697335e9766b45908a6265
+

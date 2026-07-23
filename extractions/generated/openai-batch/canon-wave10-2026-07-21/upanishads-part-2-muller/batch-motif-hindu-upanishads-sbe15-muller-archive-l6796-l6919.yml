@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.hindu-upanishads-sbe15-muller-archive-l6796-l6919
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+passage_locator:
+  label: II VALLI, 8 ANUVAKA, 2. 59 / II VALLI, 8 ANUVAKA, 5. / II VALLI, 9 ANUVAKA.
+    63 / I ADHYAYA, 3 BRAHMAJVA, 27. 83; lines 6796-6919
+  start: '6796'
+  end: '6919'
+  translation: The Upanishads, Part II (Sacred Books of the East, Vol. 15)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: Brahman is Svayambhu, self-existent. Adoration to Brahman
+  summary: The passage presents a teacher-pupil genealogy for the Madhukaw^a, listing
+    successive named transmitters in repeated “from” relationships. It includes notes
+    on Madhyandina textual variants, traces the final sequence to Brahman, identifies
+    Brahman as self-existent, and notes similar genealogies elsewhere in the Brhadaranyaka
+    Upanishad.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the sequence as a line of teachers and pupils by whom
+    the Madhukaw^a was handed down.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says the Madhyandina-jakha version begins with “ourselves” and then
+    lists named teachers in sequence.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The main list repeatedly uses a formula in which one named figure is said
+    to be “from” another named figure.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: One segment of the chain lists Vi^varupa Tvash/ra from A^vinau, A^vinau from
+    Dadhya/^ Atharva/za, and Dadhya/^ Atharva/^a from Atharvan Daiva.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The final entries list Paramesh///in from Brahman, then state that Brahman
+    is Svayambhu, self-existent, followed by adoration to Brahman.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note states that similar genealogies are found in Brhadaranyaka Upanishad
+    IV, 6, and VI, 5.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Madhukaw^a line of teachers and pupils
+  description: A collective teacher-pupil transmission line by which the Madhukaw^a
+    was handed down.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Brahman / Svayambhu
+  description: Named at the end of the lineage; identified as Svayambhu, self-existent,
+    and addressed with adoration.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Paramesh///in
+  description: Listed as receiving from Brahman in the final sequence of the genealogy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: A^vinau
+  description: Listed as receiving from Dadhya/^ Atharva/za and as the source from
+    whom Vi^varupa Tvash/ra receives.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Dadhya/^ Atharva/za
+  description: Listed as the source for A^vinau and as receiving from Atharvan Daiva.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Asuraya;/a and Yaska
+  description: Listed together as receiving from Traiva;a and as a source for 6^atiikar/^ya
+    in the teacher-pupil chain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:7
+  name_or_label: Bharadva^a
+  description: Appears as a named figure in several “from” entries near the beginning
+    and middle of the genealogy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: teacher-pupil transmission line
+  assigned_to:
+  - fig:1
+  basis: The passage note explicitly describes the sequence as the line of teachers
+    and pupils by whom the Madhukaw^a was handed down.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: named transmitter or recipient in lineage
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: These figures occur in the repeated lineage formula in which one named figure
+    is listed as “from” another.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: self-existent source named at lineage end
+  assigned_to:
+  - fig:2
+  basis: The final entries state Paramesh///in from Brahman and then identify Brahman
+    as Svayambhu, self-existent.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Madhukaw^a transmission genealogy introduced
+  summary: The passage introduces the material as a line of teachers and pupils by
+    whom the Madhukaw^a was handed down, with variant Madhyandina details.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Successive teacher-pupil chain
+  summary: A long sequence of named figures is arranged through repeated “from” relationships,
+    including Bharadva^a, Asuraya;/a and Yaska, A^vinau, and Dadhya/^ Atharva/za.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Lineage terminus at self-existent Brahman
+  summary: The final entries list Paramesh///in from Brahman, identify Brahman as
+    Svayambhu and self-existent, and add adoration to Brahman.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Teacher-pupil wisdom lineage
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly frames the list as a line of teachers and pupils through
+    whom the Madhukaw^a was handed down, and the entries enumerate transmission through
+    named figures.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is a genealogy/list rather than a narrative episode; mapping
+    to the broad wisdom family rests on transmission of sacred teaching.
+- id: motif:2
+  label: Wisdom lineage traced to self-existent Brahman
+  taxonomy_refs:
+  - wisdom
+  basis: The final sequence places Paramesh///in as from Brahman and then identifies
+    Brahman as Svayambhu, self-existent.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not narrate an act of revelation; it only gives the lineage
+    formula and final theological identification.
+comparison_claims:
+- id: claim:1
+  claim: A note in the passage states that similar genealogies are found in Brhadaranyaka
+    Upanishad IV, 6, and VI, 5.
+  claim_level: same_motif
+  target: Brhadaranyaka Upanishad IV, 6, and VI, 5 genealogies
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only reports the similarity; it does not provide the parallel
+    passages or analyze their wording.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6796-6813
+  quote_or_summary: Initial entries name Bharadva^a and Gautama; the note describes
+    the material as the line of teachers and pupils by whom the Madhukaw^a was handed
+    down and gives a Madhyandina-jakha variant beginning with “ourselves.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6814-6844
+  quote_or_summary: The numbered list continues with entries such as Bharadva^a from
+    Para^arya, Para^arya from Vai^avapayana, and 6^atiikar/^ya from Asuraya;/a and
+    Yaska.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6845-6877
+  quote_or_summary: The sequence continues from Asuraya;/a and Yaska through Traiva;a,
+    Aupa^andhani, Asuri, Bharadva^a, and other named figures, ending this segment
+    with Vi^varupa Tvash/ra from A^vinau.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6878-6908
+  quote_or_summary: 'Final entries list A^vinau from Dadhya/^ Atharva/za, Dadhya/^
+    Atharva/^a from Atharvan Daiva, subsequent figures down to Paramesh///in from
+    Brahman, and then state: “Brahman is Svayambhu, self-existent. Adoration to Brahman.”'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source text; short quotation from public domain passage.
+- id: ev:5
+  type: quote
+  locator: lines 6909-6912
+  quote_or_summary: "“Similar genealogies are found Brzli. Ar. Up. IV, 6, and VI,
+    5.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  rights_note: Public domain source text; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily an OCR-corrupted lineage list. The teacher-pupil
+    transmission pattern is clear, but many names are preserved in source/OCR spellings
+    and should be reviewed against the canonical text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy symbol refs are directly supported by this passage; symbols are therefore left empty.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:hindu-upanishads-sbe15-muller-archive__l6796-l6919
+  passage_sha256=ee989d56018d16c6bc5671cecd67d49acad614d59b915c15baa32ab873967e29
+

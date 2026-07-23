@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.korean-korean-folk-tales-gale-archive-l1772-l1798
+source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+passage_locator:
+  label: THE  VISIT  OF  THE  MAN  OF  GOD  53 / THE  LITERARY  MAN  OF  IMSIL / THE  LITERARY  MAN  OF  IMSIL  55
+    / THE  LITERARY  MAN  OF  IMSIL  57; lines 1772-1798
+  start: '1772'
+  end: '1798'
+  translation: Korean Folk Tales - Imps, Ghosts and Fairies
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A man humbly invites the scholar back to his house and explains that his
+    daughter died, revived, and reported that a devil had carried her soul away until
+    a man drove the spirit off. The daughter recognizes the scholar as that rescuer.
+    The host asks whether he is a supernatural being or a Buddhist and offers refreshment.
+    The scholar dismisses the claim and later dies after seven or eight more years.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man humbly asks the visitors to return and accept entertainment and lodging
+    at his house.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man says his daughter fell ill, died, and later came to life again on
+    the same day.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The daughter reports that a devil caught her and carried her soul down the
+    main roadway.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The daughter reports that a man stopped them, spoke fiercely, and drove off
+    the spirit, after which she returned to life.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The daughter sees the scholar through a window chink and identifies him as
+    the man who drove off the spirit.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The host asks whether the scholar is a genii or a Buddhist and offers him
+    refreshment.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The scholar laughs, denies that he could do such things, lives seven or eight
+    more years, and dies.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the scholar
+  description: The man recognized by the revived daughter as the one who stopped the
+    devil or spirit; he denies having such power.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the daughter
+  description: A daughter who fell ill, died, came to life again, and reported that
+    her soul had been carried off and released.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the host or father
+  description: The speaker who says his daughter died and revived, identifies the
+    scholar through her report, and offers refreshment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: the devil or spirit
+  description: The being said by the daughter to have caught her and carried off her
+    soul, then to have been driven away.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: recognized rescuer of soul
+  assigned_to:
+  - fig:1
+  basis: The daughter identifies the scholar as the man who drove off the spirit that
+    carried her soul.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: denier of supernatural agency
+  assigned_to:
+  - fig:1
+  basis: The scholar laughs and says he could not do such things.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: revived daughter
+  assigned_to:
+  - fig:2
+  basis: She is described as having died and come to life again.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: grateful host
+  assigned_to:
+  - fig:3
+  basis: He invites the visitors to his house, recounts his daughter's revival, and
+    offers refreshment.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:5
+  label: soul-seizing spirit
+  assigned_to:
+  - fig:4
+  basis: The daughter says the devil caught her and carried her soul away.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: soul carried on roadway
+  literal_form: the daughter's soul carried down the main roadway
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: window chink recognition
+  literal_form: the daughter looking through the chink of the window
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: refreshment offering
+  literal_form: small refreshment offered to the scholar
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Host recounts daughter's death and revival
+  summary: The host asks the visitors to return to his house and explains that his
+    daughter died and came to life again.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Daughter's soul is seized and released
+  summary: In the daughter's report, a devil carries her soul down the main roadway
+    until a man drives the spirit away, allowing her to return to life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Recognition and offering
+  summary: The daughter identifies the scholar through the window, and her father
+    asks whether he is a genii or Buddhist before offering refreshment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Scholar's denial and later death
+  summary: The scholar dismisses the claim of supernatural power, lives several more
+    years, and dies.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: death and return to life
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: The daughter is said to have died and later come to life again after her
+    soul was released.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage reports the event through the father's and daughter's speech
+    rather than direct narration of the death scene.
+- id: motif:2
+  label: soul carried away by a spirit
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The daughter says a devil carried her soul down the main roadway before a
+    man intervened.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a brief roadway image and does not describe a full
+    afterlife geography.
+- id: motif:3
+  label: unacknowledged supernatural rescuer
+  taxonomy_refs: []
+  basis: The daughter recognizes the scholar as the rescuer who drove off the spirit,
+    but the scholar denies being able to do such things.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The scholar's actual agency is ambiguous because the account is mediated
+    through the daughter's report and his denial.
+- id: motif:4
+  label: return of the soul to life
+  taxonomy_refs:
+  - return
+  - resurrection
+  basis: After the spirit lets her go, the daughter says she returned to life.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This overlaps with the broader death-and-revival motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1772-1778
+  quote_or_summary: A man humbly asks the visitors to return for entertainment and
+    lodging and says his daughter fell ill, died, and came to life again.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 1778-1784
+  quote_or_summary: The daughter says, "A devil caught me and carried my soul off
+    down the main roadway," until a man drove off the spirit and she returned to life.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 1785-1791
+  quote_or_summary: The daughter sees the scholar through a window chink and identifies
+    him as the rescuer; the host asks whether he is a genii or a Buddhist and offers
+    refreshment.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1793-1798
+  quote_or_summary: The scholar laughs, calls the claim nonsense, says he could not
+    do such things, then lives seven or eight more years and dies.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence is clear in the supplied passage, but supernatural causation
+    is reported indirectly by characters and partly denied by the scholar. No explicit
+    cross-text comparison is made in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to the provided lists.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-folk-tales-gale-archive__l1772-l1798
+  passage_sha256=5e17eb78d1010fa8e6c783465e0a78a6c09ccd509fe01294d871fdcb75373a5c
+

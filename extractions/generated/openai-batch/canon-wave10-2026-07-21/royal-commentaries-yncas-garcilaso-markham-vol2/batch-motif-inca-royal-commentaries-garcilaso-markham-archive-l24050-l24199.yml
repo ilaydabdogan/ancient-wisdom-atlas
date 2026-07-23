@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l24050-l24199
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: OP  THE / ROYAL  COMMENTARIES  OF  GARCILASSO  YNCA  DE  LA  VEGA. / NAMES  OF  PLACES.
+    / INDEX.; lines 24050-24199
+  start: '24050'
+  end: '24199'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A non-narrative index segment listing place names, volume/page references,
+    and brief identifications. The entries include Cuzco suburbs, palaces, the temple
+    of the Sun at Cuzco, imperial territorial divisions, natural landmarks, and a
+    bridge over the Apurimac.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index segment made up of place-name entries with volume
+    and page references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several entries identify Cuzco-related urban features, including suburbs,
+    palaces, a ward, a square, a fountain, a bridge, and the temple of the Sun.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: obs:3
+  text: Named palaces are associated with Pachacutec and Ynca Bocea.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage identifies Chincha-suyu as the northern division, Colla-suyu as
+    the southern division, and Cunti-suyu as the western division of the empire of
+    the Yncas.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Cuzco entry records topics including its founding, Hanan Cuzco, Hurin
+    Cuzco, the temple of the Sun, topography, description, comparison to “Borne” as
+    printed, and climate.
+  category: attribute
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: obs:6
+  text: The passage lists natural or place landmarks including a river, isle, peak,
+    valley, fountain, and bridge over the Apurimac.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Hanan Cuzco and Hurin Cuzco are presented as paired named entries within the
+    Cuzco index entry.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Pachacutec
+  description: Named in the Cassana entry as associated with a palace.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Ynca Bocea
+  description: Named in the Cora-cora entry as associated with a palace at Cuzco.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named royal associated with a Cuzco palace
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The index identifies Cassana as a palace of Pachacutec and Cora-cora as a
+    palace of Ynca Bocea at Cuzco.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Cuzco
+  literal_form: city or place-name entry with founded, topography, temple, palaces,
+    and climate cross-references
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: Temple of the Sun at Cuzco
+  literal_form: temple
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: Hanan Cuzco and Hurin Cuzco
+  literal_form: paired Cuzco place-name entries
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Collque machachuay fountain
+  literal_form: fountain at Cuzco
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Desaguadero river
+  literal_form: river
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Coro puna peak
+  literal_form: peak
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Huaca-puncu bridge
+  literal_form: bridge over the Apurimac
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: Imperial suyu divisions
+  literal_form: 'named territorial divisions: Chincha-suyu, Colla-suyu, and Cunti-suyu'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Royal-sacred urban center
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The index associates Cuzco with royal palaces linked to named Incas and with
+    the temple of the Sun. This supports only a weak candidate pattern of royal-sacred
+    urban centrality.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  confidence: low
+  cautions: The passage is an index, not a narrative or theological explanation; it
+    does not explicitly state a legitimacy doctrine.
+- id: motif:2
+  label: Paired urban division
+  taxonomy_refs:
+  - duality
+  basis: The Cuzco entry includes the paired names Hanan Cuzco and Hurin Cuzco.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The supplied passage does not translate or explain the terms; duality
+    is only a candidate inference from the paired listing.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 24050-24199; index heading and entries
+  quote_or_summary: The segment is headed “INDEX” and consists of place-name entries
+    with volume and page references.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 24050-24199; entries Cassana, Ccuri-cancba, Collcampata, Cora-cora
+  quote_or_summary: Entries identify Cassana as the palace of Pachacutec, Ccuri-cancba
+    as the temple of the Sun at Cuzco, Collcampata as a palace at Cuzco, and Cora-cora
+    as the palace of Ynca Bocea at Cuzco.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 24050-24199; entries Chincha-suyu, Colla-suyu, Cunti-suyu
+  quote_or_summary: The index identifies Chincha-suyu as the northern division, Colla-suyu
+    as the southern division, and Cunti-suyu as the western division of the empire
+    of the Yncas.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 24050-24199; Cuzco entry
+  quote_or_summary: The Cuzco entry includes cross-references for its founding, Hanan
+    Cuzco, Hurin Cuzco, the temple of the Sun, topography, description, comparison,
+    and climate.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 24050-24199; entries Collque machachuay, Coro puna, Desaguadero,
+    Gorgona, Cusapa, Huaca-puncu
+  quote_or_summary: The passage lists Collque machachuay as a fountain at Cuzco, Coro
+    puna as a peak, Desaguadero as a river, Gorgona as an isle, Cusapa as a valley
+    near Arica, and Huaca-puncu as a bridge over the Apurimac.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 24050-24199; Cuzco entry
+  quote_or_summary: Within the Cuzco entry, Hanan Cuzco and Hurin Cuzco are both listed
+    as named cross-references.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 24050-24199; entries Carmenca, Cayau-cachi, Chaquill-chaca, Hatun-eancha,
+    Cusi-pata
+  quote_or_summary: The passage identifies multiple Cuzco urban features, including
+    Carmenca, Cayau-cachi, and Chaquill-chaca as suburbs; Hatun-eancha as a ward;
+    and Cusi-pata as a great square.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 24050-24199; Cuzco entry
+  quote_or_summary: "“compared to Borne”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward because the passage is an index. Motif
+    candidates are weak because the passage gives cross-references and labels rather
+    than mythic narration or explicit symbolic interpretation. The printed comparison
+    phrase is recorded as evidence but not promoted to a comparison claim because
+    its target and criteria are unclear in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No narrative scenes were extracted because the passage is a place-name index. Candidate motifs are retained only as low-confidence indexing aids.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l24050-l24199
+  passage_sha256=b33caa83e49221c12f35b4f9d8196930785b91253e811da21a4348a6879346ee
+

@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l6967-l6983
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XIX. / OF  THE  ALLEGED  ANCIENT  CONQUESTS  OF  THE  YUNCAS. /
+    SIXTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OK  THE  YNOAS.; lines 6967-6983
+  start: '6967'
+  end: '6983'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that the King Ynca later adorned the valley of Chincha
+    by building a grand temple of the Sun and a house of chosen virgins. It describes
+    Chincha as populous and beautiful, notes the numerous deeds and conquests of King
+    Pachacutec, and explains that the narrator will pause the life narrative to discuss
+    two principal feasts celebrated by the kings.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An immediately preceding crime, identified only as “this” in the passage,
+    is said to have been abominated by the Yucas beyond anything.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The King Ynca adorned the valley of Chincha by building a grand temple of
+    the Sun there.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The King Ynca also built a house of chosen virgins in the valley of Chincha.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The valley of Chincha is described as containing more than thirty thousand
+    inhabitants and as one of the most beautiful valleys in Peru.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The deeds and conquests of King Pachacutec are described as numerous.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator says he will divide the king’s life and acts into two parts because
+    treating one subject constantly becomes tedious.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The narrator plans to place between the two parts an account of two principal
+    feasts celebrated by the kings in the days of their idolatry, then return to the
+    king’s life.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: King Ynca Pachacutec
+  description: The ruler whose deeds and conquests are called numerous and who is
+    said to have adorned Chincha by building a temple of the Sun and a house of chosen
+    virgins.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: chosen virgins
+  description: A group for whom a house was built in the valley of Chincha.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: these kings
+  description: The kings said to have celebrated two principal feasts in the days
+    of their idolatry.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: narrator
+  description: The first-person narrator who explains the planned division of the
+    king’s life narrative and the insertion of an account of feasts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: king and conqueror
+  assigned_to:
+  - fig:1
+  basis: The passage refers to “this king Pachacutec” and says his deeds and conquests
+    were numerous.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: builder or patron of solar and virginal institutions
+  assigned_to:
+  - fig:1
+  basis: The King Ynca is said to have built a grand temple of the Sun and a house
+    of chosen virgins in Chincha.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: chosen virgins housed in Chincha
+  assigned_to:
+  - fig:2
+  basis: The passage mentions a house of chosen virgins built in the valley.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: feast-celebrating kings
+  assigned_to:
+  - fig:3
+  basis: The passage states that two principal feasts were celebrated by these kings.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: narrative organizer
+  assigned_to:
+  - fig:4
+  basis: The narrator states that he will divide the king’s life and acts and insert
+    an account of feasts before returning to the narrative.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: temple of the Sun
+  literal_form: a grand temple of the Sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: house of chosen virgins
+  literal_form: a house of chosen virgins
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: valley of Chincha
+  literal_form: the valley of Chincha
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: two principal feasts
+  literal_form: two principal feasts
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Royal building in Chincha
+  summary: The King Ynca adorns the valley of Chincha by building a grand temple of
+    the Sun and a house of chosen virgins in a populous and beautiful valley.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Narrative transition to feasts
+  summary: The narrator pauses the account of King Pachacutec’s numerous deeds and
+    conquests, dividing the life narrative into two parts and inserting an account
+    of two principal feasts celebrated by the kings.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal foundation of solar cult buildings
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: A king is described as adorning Chincha by constructing a grand temple of
+    the Sun and a house of chosen virgins, in the context of a narrative about his
+    deeds and conquests.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly state that these buildings legitimated
+    the king’s rule; the royal-legitimacy classification is inferred from royal construction
+    of major cultic institutions.
+- id: motif:2
+  label: royal ritual feasts
+  taxonomy_refs: []
+  basis: The passage announces an account of two principal feasts celebrated by the
+    kings in the days of their idolatry.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage only previews the feasts and provides no ritual details here.
+- id: motif:3
+  label: chosen virgins as a royal-cultic institution
+  taxonomy_refs: []
+  basis: The King Ynca is said to have built a house of chosen virgins alongside a
+    grand temple of the Sun.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage names the institution but does not describe the virgins’ duties
+    or ritual function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6969-6970
+  quote_or_summary: "“for this was a crime which the Yucas abominated beyond anything.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 6972-6974
+  quote_or_summary: "“The King Ynca afterwards adorned this valley of Chincha by building
+    in it a grand temple of the Sun and a house of chosen virgins.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 6974-6976
+  quote_or_summary: "“The valley contained more than thirty thousand inhabitants,
+    and is one of the most beautiful in Peru.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 6976-6977
+  quote_or_summary: "“the deeds and conquests of this king Pachacutcc were numerous”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 6977-6983
+  quote_or_summary: The narrator says he will divide the king’s life and acts into
+    two parts, insert an account of two principal feasts celebrated by the kings in
+    the days of their idolatry, and then return to the king’s life.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The central royal-building and narrative-transition details are clear. The
+    opening sentence depends on missing prior context, and some names appear affected
+    by OCR spelling. Motif classification is cautious because the passage gives limited
+    ritual explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not supply an explicit cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l6967-l6983
+  passage_sha256=98b48e156ea0de39acd18974bb6ca4009334cd6424b06d037a48353f733b140c
+

@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l12627-l12686
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / SEVENTH  BOOK  OP  THE  ROYAL / CHAPTER  XX.
+    / COMMENTARIES  OF  THE  YNCAS.; lines 12627-12686
+  start: '12627'
+  end: '12686'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage recounts a three-day battle between the Yncas and allied tribes,
+    followed by a mutual pause and withdrawal. The Purumancas and allies return home
+    proclaiming victory because they resisted Ynca arms. The Yncas decide to return
+    to already conquered territory and set the river Maulli as the boundary of the
+    Empire until further orders from Ynca Yupanqui. A footnote compares Ercilla's
+    Araucana account of the same retreat and halted conquest south of the Maule.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Both armies advanced from their quarters, attacked each other, and fought
+    all day without either side gaining advantage.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The second and third days repeated the same ferocious fighting, described
+    as one side fighting for liberty and the other for honour.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: By the end of the third battle, both sides had lost half their forces killed
+    and nearly all survivors were wounded.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: On the fourth day and the two following days, both armies remained entrenched
+    in their quarters rather than attacking.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Both sides eventually retired, each fearing that the other might have sent
+    for reinforcements.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Purumancas and allies returned home chanting songs of victory and proclaiming
+    complete success because they had resisted the arms of the Yncas.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Some Ynca captains argued that the war should continue until the enemy submitted,
+    but this view was not adopted.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Yncas resolved to return to already conquered territory and fix the river
+    Maulli as the boundary of the Empire until fresh orders were received from Ynca
+    Yupanqui.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The Yncas
+  description: The imperial side in the battle; they fight for honour, consider subjugating
+    the enemy, debate continuing the war, and finally retire to conquered territory.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Purumancas and allied tribes
+  description: The opposing allied force; they fight for liberty, resist the Ynca
+    arms, return home, and proclaim victory.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Ynca Yupanqui
+  description: The Ynca ruler to whom the events are reported and from whom fresh
+    orders are expected.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: imperial conquering force
+  assigned_to:
+  - fig:1
+  basis: The Yncas are described as fighting for honour, considering subjugation,
+    and defining the boundary of the Empire.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: resisting allied force
+  assigned_to:
+  - fig:2
+  basis: The allied tribes are described as fighting for liberty, resisting Ynca arms,
+    and proclaiming victory after the Yncas withdraw.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: royal authority receiving reports and expected to issue orders
+  assigned_to:
+  - fig:3
+  basis: The decision to halt further conquest is made pending fresh orders from Ynca
+    Yupanqui, to whom events are reported.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: river boundary
+  literal_form: the river Maulli fixed as the boundary of the Empire
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Three-day battle of mutual losses
+  summary: The Yncas and the allied tribes fight for three days with no advantage,
+    suffering severe deaths and wounds on both sides.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Entrenched pause and mutual withdrawal
+  summary: After the severe fighting, both armies remain entrenched for three days
+    and then retire, while the Purumancas and allies return home singing victory.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ynca decision to set a river boundary
+  summary: The Yncas choose not to continue the conquest immediately, return to conquered
+    territory, and make the river Maulli the imperial boundary while awaiting Ynca
+    Yupanqui's orders.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: indecisive battle of mutual exhaustion
+  taxonomy_refs: []
+  basis: The battle lasts three days without advantage, with half the forces killed
+    and most survivors wounded on both sides.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a historical battle pattern in the chronicle, not an explicitly
+    mythic episode.
+- id: motif:2
+  label: successful resistance to a formerly invincible imperial force
+  taxonomy_refs: []
+  basis: The Purumancas and allies claim victory because they resisted Ynca arms,
+    which the passage says had previously been deemed invincible.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage frames the resistance politically and militarily rather than
+    supernaturally.
+- id: motif:3
+  label: royal boundary set after halted expansion
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Yncas invoke the policy of their kings, return to conquered territory,
+    and set the river Maulli as the imperial boundary pending orders from Ynca Yupanqui.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The royal authority is political in this passage; no explicit divine sanction
+    is stated.
+comparison_claims:
+- id: claim:1
+  claim: The footnote aligns Ercilla's Araucana with this passage in presenting the
+    Ynca retirement and abandonment of further conquest south of the Maule/Maulli
+    as an endpoint to expansion.
+  claim_level: same_function
+  target: Ercilla's Araucana, Part I, Canto I, as summarized in the passage footnote
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: 'The comparison is supplied by the footnote, not by a full quoted passage
+    from Araucana. The same note also reports differences: Ercilla says many Orejones
+    were killed and that the Yncas lost their camp and ensigns.'
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12632-12645
+  quote_or_summary: For three days the armies fought with fury and no advantage; one
+    side fought for liberty and the other for honour, and by the end both sides had
+    lost half their forces with nearly all survivors wounded.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 12645-12656
+  quote_or_summary: For the next three days the armies stayed entrenched and did not
+    attack; both later retired, and the Purumancas and allies returned home chanting
+    victory because they had resisted the Ynca arms.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 12656-12665
+  quote_or_summary: The Yncas judged it more consistent with royal policy to give
+    way rather than destroy the enemy for subjugation; some captains still argued
+    for continuing the war until submission.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 12665-12673
+  quote_or_summary: The Yncas resolved to return to conquered country, fix the river
+    Maulli as the boundary of the Empire, and await fresh orders from Ynca Yupanqui,
+    to whom the events were reported.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 12673-12686 footnote
+  quote_or_summary: The footnote says Ercilla reports many Orejones killed and the
+    loss of the Ynca camp and ensigns, and also says, as in the main text, that the
+    Yncas retired and gave up further conquest south of the river Maule.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The battle sequence and political decision are explicit. Motif labels are
+    cautious because the passage is mainly historical chronicle material rather than
+    mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No divine or supernatural figures are present in this passage. Taxonomy use is limited to the river as water symbol and the royal-legitimacy motif family for the boundary decision.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l12627-l12686
+  passage_sha256=bc1b98e0741f3c65a469753f9c73f019c6ccf38676d4799f0929421772514a66
+

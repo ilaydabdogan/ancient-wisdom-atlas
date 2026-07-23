@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.mongol-sagas-from-the-far-east-busk-gutenberg-l2709-l2719
+source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+passage_locator:
+  label: HOW THE SERPENT-GODS WERE PROPITIATED. / TALE VI. / THE TURBULENT SUBJECT.
+    / TALE VII.; lines 2709-2719
+  start: '2709'
+  end: '2719'
+  translation: Sagas from the Far East
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: In the frame opening of Tale VII, the Well-and-wise-walking Khan, having
+    again failed in his purpose, returns to the cool grove, binds the Siddhî-kür in
+    a bag, and carries him toward his Master and Teacher Nâgârg'una. On the way, the
+    Siddhî-kür requests a tale; after the Khan remains silent, he asks for permission
+    to tell one himself, receives assent, and begins.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Khan has again missed the intended end and object of his labour.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Khan proceeds again by the same manner and means to the cool grove.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Khan binds the Siddhî-kür in his bag and carries him on his shoulder.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Khan intends to present the Siddhî-kür to his Master and Teacher Nâgârg'una.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: On the way, the Siddhî-kür asks the Khan to tell a tale.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When the Khan does not answer, the Siddhî-kür requests a token of assent to
+    tell a tale himself.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After the Khan gives assent, the Siddhî-kür begins to tell a tale.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Well-and-wise-walking Khan
+  description: A Khan who resumes his task after again failing in its object, returns
+    to the cool grove, binds the Siddhî-kür, and carries him toward Nâgârg'una.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Siddhî-kür
+  description: A being bound in the Khan's bag and carried on his shoulder, who asks
+    for a tale and then begins to tell one after receiving assent.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Nâgârg'una
+  description: Named as the Khan's Master and Teacher, to whom the Khan intends to
+    present the Siddhî-kür.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: returning task-performer and carrier
+  assigned_to:
+  - fig:1
+  basis: He resumes the same effort after failure, binds the Siddhî-kür, and carries
+    him toward the master.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: bound tale-initiator
+  assigned_to:
+  - fig:2
+  basis: He is bound and carried, then prompts or initiates storytelling on the journey.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: master-teacher destination
+  assigned_to:
+  - fig:3
+  basis: He is identified as the Khan's Master and Teacher and as the intended recipient
+    of the Siddhî-kür.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: cool grove
+  literal_form: grove
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bag used to bind and carry
+  literal_form: bag
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tale-request and assent
+  literal_form: spoken request and token of assent
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Return to the cool grove after failed labour
+  summary: The Khan, after again failing to accomplish the object of his labour, returns
+    to the cool grove by the same means as before.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Binding and transport of the Siddhî-kür
+  summary: The Khan binds the Siddhî-kür in a bag and carries him on his shoulder
+    toward Nâgârg'una.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Storytelling request on the road
+  summary: During the journey, the Siddhî-kür asks for a tale, requests assent to
+    tell one himself when the Khan remains silent, and begins after receiving permission.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: repeated quest after failed task
+  taxonomy_refs:
+  - mystical_quest
+  basis: The Khan has again missed the end of his labour but repeats the journey to
+    the grove and resumes the task.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a frame episode and does not state the full aim of the
+    labour within this excerpt.
+- id: motif:2
+  label: capture and transport of a speaking being
+  taxonomy_refs: []
+  basis: The Siddhî-kür is bound in a bag, carried on the Khan's shoulder, and speaks
+    during the journey.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the available taxonomy
+    does not include a direct capture-and-transport motif.
+- id: motif:3
+  label: tale within a journey frame
+  taxonomy_refs:
+  - wisdom
+  basis: On the road, the bound Siddhî-kür prompts storytelling and begins a tale
+    after receiving assent.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The wisdom association is tentative; the excerpt shows a tale-telling
+    frame but not the contents or lesson of the tale.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2709-2713
+  quote_or_summary: The Khan finds he has again missed the end and object of his labour
+    and again proceeds by the same manner and means to the cool grove.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 2713-2716
+  quote_or_summary: At the cool grove, the Khan binds the Siddhî-kür in his bag and
+    carries him on his shoulder to present to his Master and Teacher Nâgârg'una.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 2717-2719
+  quote_or_summary: On the way, the Siddhî-kür asks the Khan to tell a tale; when
+    the Khan does not answer, he asks for assent to tell one himself, receives it,
+    and begins.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    this short passage is a narrative frame and gives limited context for the Khan's
+    larger task.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the excerpt itself does not support a specific cross-text or historical comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mongol-sagas-from-the-far-east-busk-gutenberg__l2709-l2719
+  passage_sha256=fc670cd53f9cf2643e4274e7e0ed2941af20087925021c731f82edd1e10bc549
+

@@ -1,0 +1,363 @@
+---
+record_id: batch.motif.malay-malay-magic-skeat-archive-l30316-l30412
+source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+passage_locator:
+  label: ORDEAL  BY  DIVING / LUCKY  AND  UNLUCKY  TIMES / KATIKA  LIMA / KATIKA  TUJOH;
+    lines 30316-30412
+  start: '30316'
+  end: '30412'
+  translation: Malay Magic
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Malay systems for determining lucky and unlucky times
+    by planetary day-sequences, shadow measurement, calendars of auspicious and inauspicious
+    dates, yearly cycles, the seven heavenly bodies, and the zodiacal Twelve Constellations.
+    It states that these systems are astrological, use Arabic names, and are related
+    by the author to Arabic-mediated Ptolemaic astronomy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Each day in the weekly series begins with an appropriate planet, and the seven
+    divisions have lucky or unlucky characteristics.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Another system assigns appropriate occupations to each day of the week at
+    times determined by measuring the length of one's shadow.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists several schemes in which particular days, weekdays in particular
+    months, and named dates in the Muhammadan year are considered unlucky.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A calendar is described as classifying days of the Muhammadan year as lucky,
+    somewhat unlucky, very unlucky, or neutral.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Whole years are said to be lucky or unlucky depending on the weekday of the
+    first of Muharram and on a letter in the Cycle of Eight.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The author states that these divination systems often require calendar construction
+    and some astronomical knowledge, but that astrology is treated as more important
+    than astronomy.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The seven Heavenly Bodies are said to retain Arabic names, to have motions
+    produced by angels, and to rule the seven ominous moments.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The signs of the Zodiac are said to bear Arabic names, and the divination
+    form in which they are principal is called the Twelve Constellations.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Twelve Constellations divination is described as less common than the
+    Five Ominous Times and Seven Heavenly Bodies systems, and the author mentions
+    a diagram used for it.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Malays
+  description: The collective group to whom the passage attributes these astrological
+    and calendrical divination practices and beliefs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: angels
+  description: Beings whose agency is believed to produce the motions of the seven
+    Heavenly Bodies.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: users of astrological divination systems
+  assigned_to:
+  - fig:1
+  basis: The passage describes Malay divination systems, calendars, astrology, and
+    beliefs about heavenly bodies.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: agents of celestial motion
+  assigned_to:
+  - fig:2
+  basis: The motions of the seven Heavenly Bodies are said to be produced by the agency
+    of angels.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: seven ominous moments
+  literal_form: Seven time divisions or moments called Katika Tujoh, ruled by the
+    seven Heavenly Bodies.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: seven Heavenly Bodies
+  literal_form: The Bintang Tujoh, celestial bodies with Arabic names whose influences
+    rule the seven ominous moments.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: calendar of lucky and unlucky days
+  literal_form: A calendar classifying days of the Muhammadan year as lucky, somewhat
+    unlucky, very unlucky, or neutral.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: shadow measurement
+  literal_form: The length of one's shadow used to ascertain times for appropriate
+    occupations.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Cycle of Eight
+  literal_form: An eight-part letter cycle by which years vary in luck.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Twelve Constellations
+  literal_form: A zodiacal form of divination using signs of the Zodiac with Arabic
+    appellations.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Planetary ordering of days and seven divisions
+  summary: The passage explains a weekday sequence beginning with appropriate planets
+    and states that the seven divisions carry lucky or unlucky characteristics.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Calendrical and shadow-based selection of auspicious times
+  summary: The passage describes occupations assigned to days by shadow measurement,
+    calendars of lucky and unlucky days, and yearly luck determined by Muharram and
+    the Cycle of Eight.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Celestial and zodiacal divination
+  summary: The passage describes Malay astrology as involving Arabic-named heavenly
+    bodies moved by angels, seven ominous moments, Arabic-named zodiac signs, and
+    the Twelve Constellations form of divination.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: astrological regulation of auspicious and inauspicious times
+  taxonomy_refs: []
+  basis: The passage repeatedly links luck, unluck, occupations, days, years, and
+    ominous moments to planetary or celestial systems.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage is descriptive and does not narrate a mythic episode; the
+    motif is extracted as a ritual-divinatory pattern rather than a narrative motif.
+- id: motif:2
+  label: calendrical divination by numbered cycles
+  taxonomy_refs: []
+  basis: The passage mentions seven divisions, seven Heavenly Bodies, the Cycle of
+    Eight, and the Twelve Constellations as structured divinatory systems.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The exact procedures for several systems are not fully explained in the
+    passage.
+- id: motif:3
+  label: angelic agency behind celestial motions
+  taxonomy_refs: []
+  basis: The passage states that the motions of the seven Heavenly Bodies are believed
+    to be produced by angels.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not elaborate on the angels' identities, hierarchy, or
+    ritual role.
+- id: motif:4
+  label: shadow as a measure for divinatory timing
+  taxonomy_refs: []
+  basis: The passage states that certain times are ascertained by measuring the length
+    of one's shadow.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only a brief description is given, and the specific occupations or rules
+    are not provided in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly relates Malay celestial ideas to an Arabic-mediated
+    Ptolemaic system.
+  claim_level: historical_contact
+  target: Arabic and Ptolemaic astrological-astronomical tradition
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is reported as the author's statement within the passage; the
+    excerpt does not provide independent historical demonstration or detailed transmission
+    evidence.
+- id: claim:2
+  claim: The passage compares the planetary weekday order with French and English
+    weekday names as an illustration of the same order of planets assigned to days.
+  claim_level: linguistic_similarity
+  target: French and English planetary weekday names
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns naming/order only; the passage does not claim
+    identical ritual or divinatory use.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 30316-30331
+  quote_or_summary: The second day begins with the Moon, the third with Mars, and
+    each day begins with its appropriate planet; the seven divisions have lucky or
+    unlucky characteristics.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 30332-30355
+  quote_or_summary: Days of the week have appropriate occupations at times found by
+    measuring shadow length; some days are unlucky, and a calendar classifies Muhammadan-year
+    days as lucky, somewhat unlucky, very unlucky, or neutral.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 30356-30363
+  quote_or_summary: Whole years are lucky or unlucky depending on the weekday on which
+    the first of Muharram falls and according to the letter they bear in the Cycle
+    of Eight.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 30364-30372
+  quote_or_summary: The passage states that these divination systems involve calendars
+    and some astronomical knowledge, but that astrology is more important; it also
+    says Malay ideas on heavenly motions are derived through Arabs from the Ptolemaic
+    system.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 30373-30382
+  quote_or_summary: The seven Heavenly Bodies, or Bintang Tujoh, retain Arabic names;
+    their motions are believed to be produced by angels, and they rule the seven ominous
+    moments, or Katika Tujoh.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 30383-30391
+  quote_or_summary: The zodiac signs have Arabic appellations, and the form of divination
+    in which they are principal is called the Twelve Constellations, or Bintang Dua-b'las.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 30392-30398
+  quote_or_summary: The Twelve Constellations divination is said to be less common
+    than the Five Ominous Times and Seven Heavenly Bodies systems; the author refers
+    to a diagram used for it.
+  source_text_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is expository rather than narrative. Literal calendrical and
+    astrological patterns are clear, but motif labels should be reviewed because they
+    describe divinatory systems rather than mythic plot episodes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif-family or symbol ID was assigned because the passage concerns astrology, calendrical divination, zodiacal signs, and ominous times rather than the supplied symbol set or a clearly matching listed motif family.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-malay-magic-skeat-archive__l30316-l30412
+  passage_sha256=a69b32862ca114cd8543e295e10a67ee85a1a8969328819b7f10f384703bc016
+

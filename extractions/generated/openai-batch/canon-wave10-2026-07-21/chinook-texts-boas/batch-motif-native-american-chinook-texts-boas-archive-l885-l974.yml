@@ -1,0 +1,511 @@
+---
+record_id: batch.motif.native-american-chinook-texts-boas-archive-l885-l974
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+passage_locator:
+  label: Chinook Texts; lines 885-974
+  start: '885'
+  end: '974'
+  translation: Chinook Texts
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: Then it became hot and the wells dried up, except that of the youngest wolf.
+  summary: A salmon figure disguised as an old man is abused by wolf brothers until
+    a woman identifies him as her relative and distributes salmon meat. The wolves
+    later ask him to make flint arrowheads; he makes them and keeps one from each
+    set. He then tells the woman he will kill the wolves, points an arrow toward the
+    mountains, produces heat that dries their wells, and shoots the eldest wolf when
+    he comes to drink from the remaining water.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Several entrants smell salmon, see the old man, kick him violently, and later
+    apologize when the woman identifies him as an in-law relative who brought salmon
+    meat.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The woman states that she is a human being with relatives and gives bundles
+    of meat to the wolf figures.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The wolves hunt elk, bring elk home, skin and carve the animals, and at one
+    point fill the house with elk meat.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:4
+  text: The salmon figure bathes, eats, goes to bed, then blows into the fire so that
+    he is covered with ashes and becomes an old man.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Each wolf gives five pieces of flint for arrowheads; the salmon's son finishes
+    the arrowheads, gives four back, and keeps one for himself.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After the arrowhead-making sequence, the salmon tells the woman to arise because
+    he will kill the wolves, and she warns him to take care.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Each of the five wolves has a well; the salmon's son points his arrow toward
+    the mountains, heat follows, and the wells dry up except for a little water in
+    the youngest wolf's well.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The eldest wolf's bow breaks in the heat, he says the salmon's son must have
+    come in disguise, and he searches the wells for water.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The eldest wolf drinks from the remaining water, and the salmon's son shoots
+    him; the body is hauled out and hidden.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage begins the same water-seeking sequence for the second brother
+    but breaks off before its completion.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: salmon's son / young salmon / old man
+  description: A figure called the young salmon and salmon's son; he appears as an
+    old man, is kicked, bathes and eats, becomes an old man after blowing into the
+    fire, makes arrowheads, dries the wells, and shoots the eldest wolf.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: the woman / widow
+  description: A human woman who identifies the old man as a relative, gives meat
+    to the wolves, accompanies the salmon's son outside the house, and warns him to
+    take care.
+  role_refs:
+  - role:4
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: five wolves
+  description: A group of five wolf brothers who hunt elk, have separate wells, request
+    arrowheads from the disguised salmon figure, and are targeted by him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: eldest wolf
+  description: The eldest brother asks for flint arrowheads, later suffers from the
+    heat, finds the remaining water, drinks, and is shot.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: youngest wolf
+  description: The youngest wolf is identified as the husband of the woman; his well
+    is the only one left with a little water.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: disguised salmon figure
+  assigned_to:
+  - fig:1
+  basis: The figure becomes an old man after blowing into the fire, and the eldest
+    wolf later says the salmon's son came in disguise.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:2
+  label: arrowhead maker
+  assigned_to:
+  - fig:1
+  basis: He makes arrowheads from the flint given by the wolf brothers and keeps one
+    from each set.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: killer of the eldest wolf
+  assigned_to:
+  - fig:1
+  basis: After drying the wells, he shoots the eldest wolf at the remaining water.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:4
+  label: human intercessor
+  assigned_to:
+  - fig:2
+  basis: She declares that she is human and has relatives, explains that the old man
+    brought salmon meat, and gives the meat to the wolves.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: wolf hunters and brothers
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The wolves go hunting, bring elk, and are referred to as brothers with individual
+    wells.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: role:6
+  label: first victim at the dried wells
+  assigned_to:
+  - fig:4
+  basis: The eldest wolf finds the last water, drinks, and is shot.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:7
+  label: woman's husband and youngest brother
+  assigned_to:
+  - fig:5
+  basis: The passage calls the youngest wolf the husband of the woman and notes his
+    well retains a little water.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:8
+  label: companion in the killing plan
+  assigned_to:
+  - fig:2
+  basis: She arises when the salmon says he will kill the wolves and goes out of the
+    house with him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: salmon
+  literal_form: Salmon odor, salmon meat bundles, and the salmon identity of the disguised
+    figure.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: fire and ashes
+  literal_form: The fire into which the salmon figure blows, covering himself with
+    ashes and becoming an old man.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: flint arrowheads
+  literal_form: Five pieces of flint given by each wolf; arrowheads made by the salmon's
+    son, with one retained from each set.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: wells and water
+  literal_form: Five wells belonging to the wolves; all dry except for a little water
+    in the youngest wolf's well.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: mountains
+  literal_form: The direction toward which the salmon's son points his arrow before
+    heat dries the wells.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: elk meat
+  literal_form: Elks hunted, brought home, skinned, carved, and filling the wolves'
+    house.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Old man abused and then recognized as an in-law relative
+  summary: Wolf figures smell salmon, kick the old man, and cause him to bleed; the
+    woman identifies him as a relative who brought salmon and gives the wolves meat,
+    after which they apologize.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Daily alternation between old man and salmon figure
+  summary: While the wolves hunt elk, the salmon figure bathes and eats; later he
+    blows into the fire, is covered with ashes, and becomes an old man again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Arrowheads made for the wolf brothers
+  summary: Each wolf brother leaves five pieces of flint; the salmon's son makes the
+    arrowheads, returns four, and keeps one for himself.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Heat dries the wells
+  summary: The salmon's son tells the woman he will kill the wolves, goes outside
+    with her, points his arrow toward the mountains, and heat dries the wolves' wells
+    except for a little water in the youngest wolf's well.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Eldest wolf killed at the last water
+  summary: The eldest wolf's bow breaks in the heat; he recognizes the salmon's son
+    as disguised, searches the dry wells, drinks from the remaining water, and is
+    shot. The body is hidden, and the second brother's similar sequence begins.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Disguised salmon figure changes into an old man
+  taxonomy_refs:
+  - shapeshifter
+  basis: The salmon figure becomes an old man after blowing into the fire, and a wolf
+    later identifies him as the salmon's son in disguise.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: The passage gives the transformation and disguise directly, but the larger
+    narrative context is outside the excerpt.
+- id: motif:2
+  label: Abuse of a disguised in-law guest followed by apology
+  taxonomy_refs: []
+  basis: The old man is kicked by wolf figures until the woman identifies him as a
+    relative who brought salmon meat; the offenders then apologize using in-law terms.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not explicitly frame this as a hospitality test; that
+    function should remain a candidate only.
+- id: motif:3
+  label: Secret weapon preparation through requested craft work
+  taxonomy_refs: []
+  basis: The wolves ask the disguised figure to make arrowheads; he completes them
+    and secretly keeps one from each set before announcing he will kill them.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The later use of the retained arrowheads is not fully shown in the excerpt,
+    though the killing plan follows the sequence.
+- id: motif:4
+  label: Dried water sources used as a trap
+  taxonomy_refs: []
+  basis: The salmon's son points his arrow to the mountains, heat dries the wells,
+    and the thirsty eldest wolf is shot when he reaches the remaining water.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The effect is local to the wolves' wells; it should not be generalized
+    as world destruction from this passage alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 885-974, opening confrontation
+  quote_or_summary: A person smells salmon, kicks the old man so that blood comes
+    from his mouth, and the woman says she is human, has relatives, and that the old
+    man brought meat; the person apologizes as to a sister-in-law's relative.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 885-974, husband's entrance
+  quote_or_summary: The husband, later identified as the youngest wolf, smells salmon,
+    kicks the old man many times, receives a bundle from the woman, and apologizes
+    to his brother-in-law.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 885-974, after the kicking episodes
+  quote_or_summary: The wolves skin and carve elks, later go hunting, return with
+    elks, and no longer kick the old man.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 885-974, transformation routine
+  quote_or_summary: The young salmon bathes and eats; later he blows into the fire,
+    is covered with ashes, and becomes an old man.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 885-974, arrowhead-making sequence
+  quote_or_summary: The wolf brothers successively give five pieces of flint; the
+    salmon's son makes arrowheads, returns four, and keeps one for himself; the house
+    becomes full of elk meat during this sequence.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 885-974, before the well episode
+  quote_or_summary: 'The salmon said to the woman: "Arise, now I shall kill them."
+    The woman answered, "Take care."'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 885-974, wells and heat
+  quote_or_summary: Each of the five wolves has a well; the salmon's son and the woman
+    go out, he points his arrow toward the mountains, heat comes, and the wells dry
+    up except for a little water in the youngest wolf's well.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 885-974, eldest wolf searches for water
+  quote_or_summary: The eldest wolf's bow breaks in the heat; he says the salmon's
+    son surely came in disguise, goes to the beach, becomes thirsty, and finds the
+    wells dry until he reaches the youngest brother's well.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 885-974, shooting of eldest wolf
+  quote_or_summary: The eldest wolf drinks from the remaining water until satisfied;
+    the salmon's son shoots him, he falls where he stands, and the body is hauled
+    out and hidden.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:10
+  type: summary
+  locator: lines 885-974, final incomplete sequence
+  quote_or_summary: The second brother is then on his hunt in a repeated sequence
+    and finds a little water, but the supplied excerpt ends before the action is completed.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  rights_note: Public domain source; summary based on supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear for figures, actions, objects, and local motifs, but
+    it begins and ends mid-narrative, limiting interpretation of broader narrative
+    function. No cross-text comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references applied only where directly supported.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-chinook-texts-boas-archive__l885-l974
+  passage_sha256=55db302a302eacdad58af3d86d8ba506ae849dd51e7b3f5375689b2ddead4a23
+

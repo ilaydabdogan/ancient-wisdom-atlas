@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l1256-l1264
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: I.    TRUE  STORIES  OF  THE  HEAVENLY  BEINGS. / ORIGIN  OF  THE  CHAUI.  17
+    / ORIGIN  OF  THE  CHAUI.  19 / THE    FOUR    GODS    IN    THE    WEST.  21;
+    lines 1256-1264
+  start: '1256'
+  end: '1264'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: In the morning the young man goes down to a spring to drink. At the cave
+    from which the water flows, he sees an old woman, who tells him to go back up
+    the hill and return before sunset to drink again. The young man goes up the high
+    hill and cries; another man comes and cries beside him. The young man tells the
+    other man, addressed as his brother, to go down to the village and stay with his
+    people, leaving him alone on the hill.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The young man comes down in the morning and goes to a spring to drink.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The spring's water comes from a cave.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The young man sees an old woman sitting in the cave.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The old woman tells the young man to go upon the hill again and return before
+    sunset to drink from the spring again.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The young man goes upon a high hill and stands crying.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Another man comes, stands by the young man, and cries.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The young man addresses the other man as his brother and tells him to go down
+    to the village to his people and stay with them.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The young man asks to be left alone upon the high hill.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: young man
+  description: The young man goes to the spring, sees the old woman, follows her instruction
+    to go up the hill, cries there, and speaks to the other man.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: old woman
+  description: An old woman is seen sitting in the cave from which the spring water
+    comes; she speaks to the young man and gives him instructions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: other man / brother
+  description: Another man comes to the high hill, stands by the young man, and cries;
+    the young man addresses him as brother and tells him to return to the village
+    and his people.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: instructed young man on hill and at spring
+  assigned_to:
+  - fig:1
+  basis: He receives the old woman's instruction to return to the hill and spring,
+    goes to the high hill, and later speaks to the other man.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: old woman in cave giving instruction
+  assigned_to:
+  - fig:2
+  basis: She sits in the cave and tells the young man to go up the hill again and
+    return before sunset to drink.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: companion addressed as brother
+  assigned_to:
+  - fig:3
+  basis: He stands by the young man and cries; the young man calls him brother and
+    tells him to return to his people.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: spring water
+  literal_form: spring and stream of water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: cave
+  literal_form: cave from which came the stream of water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: high hill
+  literal_form: high hill
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: village
+  literal_form: village of the other man's people
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Morning at the spring and cave
+  summary: The young man comes down to drink at a spring, looks into the cave from
+    which the stream flows, and sees an old woman sitting there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Instruction to return before sunset
+  summary: The old woman tells the young man to go back up the hill and come down
+    again before sunset to drink from the spring.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Crying on the high hill
+  summary: The young man stands crying on the high hill; another man comes, stands
+    by him, and cries. The young man tells him to return to his village and people,
+    and to leave him alone on the hill.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ascent to a high place followed by return to water
+  taxonomy_refs:
+  - ascent
+  basis: The old woman instructs the young man to go upon the hill again and return
+    before sunset to drink from the spring; he goes upon the high hill.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only this segment of action, so the broader narrative
+    function of the ascent is not established here.
+- id: motif:2
+  label: instruction from an old woman at a cave spring
+  taxonomy_refs:
+  - wisdom
+  basis: An old woman sitting in the cave from which the stream flows speaks to the
+    young man and gives him directions about the hill and spring.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The taxonomy link to wisdom is tentative; the passage records instruction
+    but does not explicitly characterize the old woman as a wisdom figure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1256-1257
+  quote_or_summary: In the morning the young man comes down, goes to the spring, and
+    kneels to drink.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 1257-1259
+  quote_or_summary: While kneeling at the spring, he looks into the cave from which
+    the stream of water comes and sees an old woman sitting there.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 1259-1261
+  quote_or_summary: '"Go upon the hill again, and before sunset come down and drink
+    again of this spring."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1261-1263
+  quote_or_summary: The young man goes upon the high hill and cries; another man comes,
+    stands by him, and cries.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 1263-1264
+  quote_or_summary: The young man calls the other man brother and tells him to go
+    down to the village to his people, stay with them, and leave him alone on the
+    high hill.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward, but the passage is a short excerpt
+    ending mid-sentence, limiting motif interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Passage appears to end mid-sentence after the word "Encourage"; no content beyond the provided text was inferred.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l1256-l1264
+  passage_sha256=9384ef1e7ae1d774fbd7301238dd598d788b8586561a4bd4b8d0628bf4b8d817
+

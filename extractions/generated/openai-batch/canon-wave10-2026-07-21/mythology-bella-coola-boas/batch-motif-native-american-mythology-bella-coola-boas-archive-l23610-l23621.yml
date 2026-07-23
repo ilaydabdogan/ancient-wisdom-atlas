@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l23610-l23621
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: FARRAND, BASKETRY DESIGNS OF THE SALISH INDIANS. 395 / FARRAND, BASKETRY
+    DESIGNS OF THE SALISH INDIANS. 397 / FARRAND, BASKETRY DESIGNS OF THE SALISH INDIANS.
+    399 / PLATES XXIV-XXVI.,; lines 23610-23621
+  start: '23610'
+  end: '23621'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Hudson Bay Company agents are described as the first whites to reach the
+    vicinity and as building a block-house west of the mouth of North Thompson River.
+    Nearby graves are identified as belonging to Indians who first met whites; the
+    bodies were buried on their backs with heads west in wooden coffins fastened with
+    blacksmith-made iron nails. Traces of underground houses were found near the graves.
+    Local Indians did not object to exploration of graves they knew were those of
+    immediate ancestors, but they did not know the people associated with other graves
+    at Kamloops.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hudson Bay Company agents are identified as the first whites to reach the
+    vicinity.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A block-house was built on the point west of the mouth of North Thompson River.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Graves were found there and were said to belong to Indians who first met the
+    whites.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The bodies were buried stretched out on their backs, with heads toward the
+    west.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The bodies were placed in wooden coffins assembled with blacksmith-made iron
+    nails.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Traces of underground houses were located near the graves.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The local Indians raised no objection to exploration of the graves, despite
+    knowing them as graves of immediate ancestors.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The local Indians did not know what people the graves at other Kamloops sites
+    belonged to.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Hudson Bay Company agents
+  description: Agents described as the first whites to reach the vicinity and as builders
+    of the block-house.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Indians who first met the whites
+  description: A deceased group whose graves were found near the block-house location.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Local Indians / descendants
+  description: Indians who knew the graves were those of their immediate ancestors
+    and did not object to their exploration.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Unknown people associated with other Kamloops graves
+  description: People to whom the graves at other Kamloops sites belonged, not known
+    by the local Indians in the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: arriving company agents and builders
+  assigned_to:
+  - fig:1
+  basis: The passage says these agents first reached the vicinity and built a block-house.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceased ancestors in identified graves
+  assigned_to:
+  - fig:2
+  basis: The graves are identified as those of Indians who first met whites, with
+    bodies described in burial position.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: living descendants permitting grave exploration
+  assigned_to:
+  - fig:3
+  basis: The passage states that these Indians did not object to exploration although
+    they knew the graves were those of their immediate ancestors.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: unidentified dead at other sites
+  assigned_to:
+  - fig:4
+  basis: The passage reports uncertainty about the people to whom other Kamloops graves
+    belonged.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: graves
+  literal_form: graves of Indians who first met the whites
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: wooden coffins with iron nails
+  literal_form: wooden coffins put together with blacksmith-made iron nails
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: westward head orientation
+  literal_form: bodies stretched on the back with heads west
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: underground houses
+  literal_form: traces of underground houses near the graves
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: block-house
+  literal_form: block-house on the point west of the mouth of North Thompson River
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Arrival and block-house construction
+  summary: Hudson Bay Company agents reached the vicinity and built a block-house
+    west of the mouth of North Thompson River.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Description of graves and burial features
+  summary: Graves near the block-house location are described as containing bodies
+    laid on their backs with heads west in wooden coffins fastened with iron nails.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Nearby underground-house traces
+  summary: Traces of underground houses were observed near the graves.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Local response to grave exploration
+  summary: Local Indians did not object to exploration of graves they recognized as
+    those of immediate ancestors, while not knowing the affiliation of graves at other
+    Kamloops sites.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: identified ancestral graves near a contact-era structure
+  taxonomy_refs: []
+  basis: The passage links graves of Indians who first met whites with a nearby Hudson
+    Bay Company block-house and notes that living Indians recognized them as immediate
+    ancestors.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: This is an ethnographic or archaeological pattern in the passage, not
+    an explicit mythological motif.
+- id: motif:2
+  label: burial orientation and coffin burial
+  taxonomy_refs: []
+  basis: 'The passage gives a specific burial arrangement: bodies stretched on the
+    back, heads west, in wooden coffins fastened with iron nails.'
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No symbolic meaning for the westward orientation or coffin materials is
+    stated in the passage.
+- id: motif:3
+  label: ancestral grave exploration without objection
+  taxonomy_refs: []
+  basis: The passage states that the Indians allowed exploration of graves they knew
+    belonged to immediate ancestors.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage reports a response to exploration but does not explain ritual,
+    ethical, or mythic significance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23610-23612
+  quote_or_summary: Hudson Bay Company agents were the first whites to reach the vicinity
+    and built a block-house on the point west of the mouth of North Thompson River.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 23612-23613
+  quote_or_summary: Graves were found there and were identified as graves of the Indians
+    who first met the whites.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 23613-23615
+  quote_or_summary: Bodies were buried stretched on the back, heads west, in wooden
+    coffins joined with blacksmith-made iron nails.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 23615-23616
+  quote_or_summary: Traces of underground houses were found near the graves.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 23616-23619
+  quote_or_summary: The Indians raised no objections to exploration of the graves,
+    though they knew the graves belonged to their immediate ancestors.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 23619-23621
+  quote_or_summary: The Indians did not know what people the graves at other Kamloops
+    sites belonged to.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are low-confidence
+    because the passage is descriptive and archaeological rather than mythological,
+    and it gives no stated symbolic meanings or comparative links.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned because the available taxonomy terms are not directly supported by the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l23610-l23621
+  passage_sha256=0e15d0d71ef47aedc82ad004597276d48fd724c65b68d6bb6932d426eac48ac1
+

@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l12254-l12274
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: THE   ANNALS   OF   NABONIDUS  169 / THE    CYLINDER   OF    CYRUS / THE    CYLINDER   OF   CYRUS  173
+    / BRICK   OF   CYRUS; lines 12254-12274
+  start: '12254'
+  end: '12274'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a short brick inscription in which Cyrus identifies himself
+    as builder of Esagila and Ezida, son of Cambyses, and a powerful king. It then
+    begins the Large Inscription of Darius from Behistun, where Darius identifies
+    himself with royal, Persian, and Achaemenian titles and states a paternal genealogy
+    from Hystaspes back to Achaemenes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The section headed “Brick of Cyrus” presents Cyrus speaking in the first person.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cyrus states that he is the builder of Esagila and Ezida.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Cyrus identifies Cambyses as his father and calls himself a powerful king.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A new section is headed as the Large Inscription of Darius from Behistun.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Darius identifies himself as great king, king of kings, king of countries,
+    king of all men, a Persian, and King of Persia.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Darius identifies himself as Achaemenian.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: 'Darius states a paternal line: Hystaspes, Arsamnes, Ariaramnes, Shishpish
+    or Teispes, and Achaemenes.'
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Cyrus
+  description: First-person speaker in the Brick of Cyrus; described as builder of
+    Esagila and Ezida, son of Cambyses, and powerful king.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Cambyses
+  description: Named as the father of Cyrus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Darius
+  description: Speaker of the Behistun inscription opening; identified with multiple
+    royal titles, Persian identity, Achaemenian affiliation, and paternal descent.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Hystaspes
+  description: Named as the father of Darius.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Arsamnes
+  description: Named as the father of Hystaspes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Ariaramnes
+  description: Named as the father of Arsamnes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Shishpish / Teispes
+  description: Named as the father of Ariaramnes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Achaemenes
+  description: Named as the father of Shishpish.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: royal speaker
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Cyrus identifies himself as a powerful king, and Darius speaks as king with
+    multiple royal titles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: builder of named sacred structures
+  assigned_to:
+  - fig:1
+  basis: Cyrus states that he is builder of Esagila and Ezida.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: son named in royal self-identification
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Cyrus names Cambyses as his father, and Darius names Hystaspes as his father.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: named father or paternal ancestor
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: Cambyses is named as Cyrus’s father; Hystaspes, Arsamnes, Ariaramnes, Shishpish
+    or Teispes, and Achaemenes are named in Darius’s paternal genealogy.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:5
+  label: Achaemenian dynastic claimant
+  assigned_to:
+  - fig:3
+  basis: Darius identifies himself as Achaemenian and lists a paternal line ending
+    with Achaemenes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Esagila and Ezida
+  literal_form: two named buildings or temple sites presented as works built by Cyrus
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: paternal genealogy
+  literal_form: a named father-to-son ancestry chain from Darius through Hystaspes,
+    Arsamnes, Ariaramnes, Shishpish or Teispes, and Achaemenes
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Cyrus brick titulary
+  summary: Cyrus identifies himself as builder of Esagila and Ezida, son of Cambyses,
+    and powerful king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Darius royal opening at Behistun
+  summary: The Behistun inscription opens with Darius identifying himself through
+    royal titles, Persian identity, and Achaemenian affiliation.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Darius paternal genealogy
+  summary: Darius states a paternal ancestry chain from Hystaspes back through Arsamnes,
+    Ariaramnes, Shishpish or Teispes, and Achaemenes.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: royal legitimacy through titles, ancestry, and building claims
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage presents royal self-identification through kingly titles, named
+    fathers or ancestors, Achaemenian affiliation, and Cyrus’s building of Esagila
+    and Ezida.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is an inscriptional excerpt rather than a narrative myth;
+    the motif is extracted as a political-religious legitimacy pattern.
+- id: motif:2
+  label: dynastic genealogy
+  taxonomy_refs: []
+  basis: Darius gives a father-to-son ancestry chain that connects him to named predecessors
+    ending with Achaemenes.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The excerpt breaks shortly after the genealogy begins to be used for a
+    further statement, so its full argumentative context is outside the passage.
+- id: motif:3
+  label: king as temple builder
+  taxonomy_refs: []
+  basis: Cyrus identifies himself specifically as builder of Esagila and Ezida in
+    his royal self-presentation.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only a brief titulary formula is present; no narrative of construction
+    is included.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12254-12259
+  quote_or_summary: "“Cyrus, builder of Esagila and Ezida, son of Cambyses, the powerful
+    king, am I.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 12261-12266
+  quote_or_summary: 'The passage introduces the Large Inscription of Darius from Behistun
+    and gives Darius’s titles: great king, king of kings, king of countries, king
+    of all men, Achaemenian, Persian, and King of Persia.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 12268-12272
+  quote_or_summary: Darius states that his father is Hystaspes and gives successive
+    fathers as Arsamnes, Ariaramnes, Shishpish or Teispes, and Achaemenes.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward, but the passage is a brief and
+    partly truncated inscriptional excerpt. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy linkage is limited to royal_legitimacy because other available motif families and listed symbols are not directly supported by the excerpt.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l12254-l12274
+  passage_sha256=2fee4635c54e6ea0f11de978d247da5b241b203c4afe4668697a063c8e6e60ff
+

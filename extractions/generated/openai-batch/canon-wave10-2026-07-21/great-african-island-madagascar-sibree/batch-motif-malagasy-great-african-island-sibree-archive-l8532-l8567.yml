@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l8532-l8567
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: DESIGNATION  FROM  CHILDREN.  167 / SAKALAVA  CUSTOMS.  169 / TRIBAL  APPELLATIONS.  171
+    / ENGLISH  ELEMENT  IN  NOMENCLA  TURE.         173; lines 8532-8567
+  start: '8532'
+  end: '8567'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes foreign elements in Madagascar place-names, including
+    French, English, and Portuguese names and their alteration in Malagasy usage.
+    It concludes that place-names in Madagascar can preserve historical records more
+    enduringly than monuments.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: French occupation is said to be remembered in place-names such as Fort Dauphin,
+    St. Marie's, Port Choiseul, Foule Pointe, and Louisbourg.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: English names assigned by Captain Owen and others are listed for ports and
+    islands, including William Pitt Bay, Liverpool Point, Port Croker, Point Barrow,
+    and several islands.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Some foreign place-names in Madagascar are described as having been altered
+    by Malagasy speakers in sound and spelling.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that place-names in Madagascar may serve as ancient historical
+    records.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage compares the endurance of names with tombs, temples, marble, and
+    bronze, saying names can be more enduring and unmistakable records.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: French occupants or settlers in Madagascar
+  description: Associated with French occupation remembered in several Madagascar
+    place-names.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Captain Owen and others
+  description: Named as those who gave English names to ports and islands on the map.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Malagasy
+  description: Described as altering some foreign place-names in sound and spelling.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Portuguese settlers
+  description: Associated with San Tomaso, identified as the source behind Toamasina/Tamatave.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: remembered foreign presence
+  assigned_to:
+  - fig:1
+  basis: French occupation is said to be retained in Madagascar place-names.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: name-giver
+  assigned_to:
+  - fig:2
+  basis: Captain Owen and others are described as giving names to ports and islands.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: adaptor of foreign names
+  assigned_to:
+  - fig:3
+  basis: The Malagasy are described as altering foreign names in sound and spelling.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: earlier source of a place-name
+  assigned_to:
+  - fig:4
+  basis: San Tomaso of the Portuguese settlers is identified behind the Malagasy form
+    Toamasina.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: place-names as historical records
+  literal_form: Place-names in Madagascar
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: French toponyms
+  literal_form: Fort Dauphin, St. Marie's, Port Choiseul, Foule Pointe, Louisbourg
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: English map names
+  literal_form: William Pitt Bay, Liverpool Point, Port Croker, Point Barrow, Barren,
+    Barlow, Crab, Murder, and Grave Islands, Barracouta Island, Port Leven
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: altered foreign names
+  literal_form: Toamasina from San Tomaso; Féradoféy from Fort Dauphin
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Foreign naming layers on the Madagascar map
+  summary: The passage lists French and English place-names preserved on maps of Madagascar
+    and connects some names with foreign occupation, surveying, or ships.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Malagasy alteration of foreign names
+  summary: The passage describes foreign names being changed in Malagasy pronunciation
+    and spelling, giving Toamasina and Féradoféy as examples.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Names as enduring records
+  summary: The passage concludes that Madagascar place-names can preserve ancient
+    historical information and may endure more clearly than physical monuments.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: toponym as cultural-historical memory
+  taxonomy_refs: []
+  basis: The passage explicitly treats place-names as records that preserve memories
+    of occupation, naming, settlement, and historical contact.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a historical-ethnographic pattern rather than a mythological narrative
+    motif; no listed taxonomy motif family directly applies.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Madagascar with European and other countries
+    in treating place-names as valuable ancient historical records.
+  claim_level: same_function
+  target: European and other countries' place-name traditions
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is broad and functional only; it does not establish
+    historical contact beyond the specific foreign names listed in Madagascar.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8534-8541
+  quote_or_summary: The passage says memory of French occupation is retained in names
+    including Fort Dauphin, St. Marie's, Port Choiseul, Foule Pointe, and Louisbourg.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8541-8549
+  quote_or_summary: The passage says an English element appears in names given by
+    Captain Owen and others to ports and islands, and that Owen's surveying ships
+    are memorialized in Barracouta Island and Port Leven.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8551-8558
+  quote_or_summary: The passage says some foreign names were altered by the Malagasy
+    in sound and spelling, citing Toamasina from San Tomaso and Féradoféy from Fort
+    Dauphin.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8560-8564
+  quote_or_summary: The passage states that in Madagascar, as in European and other
+    countries, place-names may prove to be valuable ancient historical records.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8564-8567
+  quote_or_summary: The passage says names can form more enduring and unmistakable
+    records than tombs, temples, marble, or bronze.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear as historical commentary on toponyms, but motif relevance
+    is limited because it is not a mythic narrative passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family or symbol reference was directly applicable; taxonomy_refs are left empty.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l8532-l8567
+  passage_sha256=853b5b517402bdd370c05868e82e023c309a2fbc687ee41067c9096511be8595
+

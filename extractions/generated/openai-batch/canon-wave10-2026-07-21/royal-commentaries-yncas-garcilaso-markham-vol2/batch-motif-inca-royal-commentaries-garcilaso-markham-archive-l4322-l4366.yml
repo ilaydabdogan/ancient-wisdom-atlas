@@ -1,0 +1,374 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l4322-l4366
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: THE  DEATH  OE  YNCA  UIRA-CCOCHA.  THE  AUTHOR  SAW  HIS / BODY. / FIFTH  BOOK  OF  THE  BOYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 4322-4366
+  start: '4322'
+  end: '4366'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes preserved bodies of Inca kings kept in Cuzco chapels
+    or oratories, their removal by the Marquis of Cañete to the City of the Kings
+    to combat idolatry, and the author’s explanation that cold high-altitude drying
+    and bitumen may have produced their incorrupt condition. It ends with the author
+    recalling that Huayna Ccapac’s finger felt hard and rigid like wood.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The bodies of Inca kings are described as remaining entire, without bad odour
+    or corruption, for more than two hundred years.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The preserved Inca kings were kept in Cuzco, each in a chapel or oratory.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Marquis of Cañete ordered three or four of the bodies seized and brought
+    to the City of the Kings in order to root out Indian idolatry.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage contrasts the hot, damp City of the Kings with the cold, dry air
+    of Cuzco, which is said to preserve flesh from corruption until it dries.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The author proposes that embalming chiefly involved taking the bodies near
+    the snow-line, drying the flesh, and then applying bitumen where the flesh had
+    withered.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The preserved bodies are described as complete, as if alive and well, lacking
+    only speech.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The author compares the drying of bodies to Indian hung beef, made by hanging
+    meat in air without salt or other preservative until it loses moisture.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The author says he touched a finger of Huayna Ccapac’s hand and found it hard
+    and rigid, like wood.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Kings Yncas
+  description: Collective royal dead whose bodies were preserved in Cuzco chapels
+    or oratories and described as incorrupt.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Marquis of Cañete
+  description: Viceroy who ordered several preserved bodies seized and brought to
+    the City of the Kings to root out idolatry.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the good father / his Paternity
+  description: Clerical witness cited as having seen the bodies after they had been
+    in the City of the Kings for nearly twenty years.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: author-narrator
+  description: Narrator who offers an explanation of the embalming process and recalls
+    touching Huayna Ccapac’s finger.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:5
+  name_or_label: Huayna Ccapac
+  description: Named Inca whose preserved hand or finger the author reports touching.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: preserved royal dead
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The passage describes royal Inca bodies preserved for centuries and identifies
+    Huayna Ccapac’s preserved hand.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: anti-idolatry colonial official
+  assigned_to:
+  - fig:2
+  basis: The viceroy orders bodies seized and transferred to root out idolatry.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: clerical witness
+  assigned_to:
+  - fig:3
+  basis: The passage refers to the good father seeing the bodies in the City of the
+    Kings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: eyewitness and explanatory narrator
+  assigned_to:
+  - fig:4
+  basis: The narrator states his belief about the embalming process and says he remembered
+    touching Huayna Ccapac’s finger.
+  evidence_refs:
+  - ev:4
+  - ev:7
+symbols:
+- id: sym:1
+  label: incorrupt royal body
+  literal_form: Preserved human bodies of Inca kings, complete and without corruption.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: chapel or oratory
+  literal_form: Ritual spaces in Cuzco where each preserved Inca king was kept.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: snow-line and cold dry air
+  literal_form: High cold place near the snow-line and cold dry Cuzco air used or
+    imagined as preserving flesh.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: bitumen
+  literal_form: Substance applied after drying to fill or supply the place of withered
+    flesh.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: wooden statue comparison
+  literal_form: Huayna Ccapac’s finger felt like part of a wooden statue, hard and
+    rigid.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Preserved Inca kings in Cuzco
+  summary: The passage reports that the bodies of Inca kings remained entire and incorrupt
+    for more than two hundred years and were preserved in Cuzco chapels or oratories.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Removal to the City of the Kings
+  summary: The Marquis of Cañete orders several preserved bodies seized and transported
+    to the City of the Kings as an anti-idolatry measure, where their condition causes
+    admiration.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Explanation of preservation by drying and bitumen
+  summary: The author contrasts climates and proposes that the bodies were dried near
+    the snow-line before bitumen was applied, comparing this preservation to air-dried
+    meat.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: scene:4
+  label: Touching Huayna Ccapac’s finger
+  summary: The author recalls touching Huayna Ccapac’s finger and finding it hard
+    and rigid, like wood.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: incorrupt royal dead
+  taxonomy_refs: []
+  basis: Royal bodies are described as entire, without bad odour or corruption, after
+    more than two hundred years.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives a historical and material explanation rather than an
+    explicit supernatural explanation.
+- id: motif:2
+  label: royal ancestors kept in ritual spaces
+  taxonomy_refs: []
+  basis: The bodies of the Kings Yncas were preserved in Cuzco, each in his own chapel
+    or oratory.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage calls the colonial response anti-idolatry, but it does not
+    explain the Inca ritual function in detail.
+- id: motif:3
+  label: dead body made almost living but speechless
+  taxonomy_refs: []
+  basis: The bodies are said to be complete as if alive and well, wanting only the
+    power of speech.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a descriptive simile of preservation, not a resurrection episode.
+- id: motif:4
+  label: cold high-place preservation of the dead
+  taxonomy_refs: []
+  basis: The author proposes that the bodies were taken near the snow-line until the
+    flesh was dry, with cold dry air preserving flesh from corruption.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents this as the author’s inferred embalming technique,
+    not as a stated mythic rite.
+comparison_claims:
+- id: claim:1
+  claim: The author explicitly compares the preservation of royal bodies by drying
+    to the Indian practice of making hung beef by air-drying meat without salt or
+    other preservatives.
+  claim_level: same_function
+  target: Indian hung-beef preservation practice described in the passage
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a practical analogy within the passage, not evidence for a
+    separate mythic parallel or historical borrowing.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4322-4366
+  quote_or_summary: "“The Kings Yncas were preserved in Cuzco, each in his chapel
+    or oratory.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public-domain source metadata; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 4322-4366
+  quote_or_summary: The viceroy, Marquis of Cañete, caused three or four bodies to
+    be seized and brought to the City of the Kings to root out Indian idolatry; observers
+    admired their completeness and skins.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public-domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4322-4366
+  quote_or_summary: The City of the Kings is described as hot and damp, while Cuzco’s
+    cold dry air is said to preserve flesh from corruption until it dries.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public-domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4322-4366
+  quote_or_summary: The author believes the bodies were taken near the snow-line until
+    dry, after which bitumen was applied to fill the place of withered flesh.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public-domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 4322-4366
+  quote_or_summary: "“as complete in everything as if they had been alive and well,
+    and wanting nothing but the power of speech.”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public-domain source metadata; short quotation used.
+- id: ev:6
+  type: summary
+  locator: lines 4322-4366
+  quote_or_summary: Indian hung beef is described as meat hung in the air until moisture
+    is lost, without salt or other preservative, and used for armies in the time of
+    the Yncas.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public-domain source metadata; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 4322-4366
+  quote_or_summary: "“I remember having touched a finger of the hand of Huayna Ccapac,”
+    which felt like “a statue of wood,” hard and rigid."
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public-domain source metadata; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong; motif labels are descriptive and mostly untaxed
+    because the passage emphasizes preservation technique and colonial removal rather
+    than an explicit mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external tradition comparisons were added. Taxonomy use is limited to the supported mountain symbol for the snow-line/cold high-place imagery.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l4322-l4366
+  passage_sha256=2fa5703ee710bc8d9a7803ef5a3cdc1aab6c12c5b885ffdc7d4c4cd16da9187f
+

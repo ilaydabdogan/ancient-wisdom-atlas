@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l9384-l9423
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: AKAREINGA.  FINALE. / TUMU. / INTRODUCTION. / PAPA.; lines 9384-9423
+  start: '9384'
+  end: '9423'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a TUMU section in Mangaian, followed by an English solo-and-chorus
+    introduction. The solo addresses Vera, evokes the sea, pandanus trees, billows,
+    and rocks, and says it is time for friends to depart. The chorus describes garments
+    as mourning weeds and flowers. A PAPA section then begins in unglossed Mangaian
+    and is followed by a Solo label.
+  language: Mangaian and English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The TUMU section contains Mangaian poetic lines addressing Vera by name.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The English solo addresses Vera and tells her to listen to the music of the
+    sea.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The English solo describes dwarfed pandanus trees, billows, and rocks in a
+    seashore setting.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The English solo says that it is time for friends to depart.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The chorus says that the garments are mourning weeds and flowers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The PAPA section contains unglossed Mangaian lines, including the forms "tua
+    moana" and "Mitimiti," and is followed by the label "Solo."
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Vera
+  description: A named addressee in the TUMU lines and in the English solo introduction.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Solo voice
+  description: A performance voice marked by the label "Solo."
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Chorus
+  description: A performance voice marked by the label "Chorus" and associated with
+    the line about garments.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: friends
+  description: A collective group directly addressed in the departure statement.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named addressee
+  assigned_to:
+  - fig:1
+  basis: Vera is named in direct address in the Mangaian TUMU section and in the English
+    solo.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: solo performer or voice
+  assigned_to:
+  - fig:2
+  basis: The passage uses the performance label "Solo."
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: choral performer or voice
+  assigned_to:
+  - fig:3
+  basis: The passage uses the performance label "Chorus" before the line about garments.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: collective addressees of departure
+  assigned_to:
+  - fig:4
+  basis: The solo says, "'Tis time, friends, to depart."
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sea and billows
+  literal_form: music of the sea; billows dashing over rocks
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: dwarfed pandanus trees
+  literal_form: dwarfed pandanus trees
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rocks
+  literal_form: rocks struck by billows
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: mourning weeds and flowers
+  literal_form: garments described as mourning weeds and flowers
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: TUMU address to Vera
+  summary: The TUMU section presents Mangaian poetic lines that address Vera; no English
+    rendering is supplied for these lines in the provided passage.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: English solo at the seashore
+  summary: The solo voice addresses Vera, describes a shore with sea, pandanus trees,
+    billows, and rocks, and states that it is time for friends to depart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Chorus on mourning garments
+  summary: The chorus describes the garments as mourning weeds and flowers.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Opening of PAPA
+  summary: The PAPA section begins with unglossed Mangaian lines and is followed by
+    a Solo label.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: departure announcement
+  taxonomy_refs:
+  - departure
+  basis: The English solo explicitly tells the friends that it is time to depart.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives the announcement of departure but does not provide a
+    developed journey narrative within this excerpt.
+- id: motif:2
+  label: seashore departure setting
+  taxonomy_refs:
+  - departure
+  basis: The departure statement occurs in a setting described with sea, billows,
+    rocks, and pandanus trees.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The association between the seashore imagery and the departure is local
+    to this short passage.
+- id: motif:3
+  label: mourning adornment
+  taxonomy_refs: []
+  basis: The chorus describes garments as mourning weeds and flowers.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage states the mourning imagery but does not explain its ritual
+    or narrative function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9384-9392; TUMU
+  quote_or_summary: '"Akarongo, Vera, i te tangi tai" and subsequent Mangaian TUMU
+    lines.'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 9394-9406; INTRODUCTION, Solo
+  quote_or_summary: '"List, Vera, to the music of the sea... ''Tis time, friends,
+    to depart;"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 9407-9410; Chorus
+  quote_or_summary: '"Our garments are mourning weeds and flowers."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 9411-9423; PAPA
+  quote_or_summary: '"Reki atu koe i te ngau rua" and following unglossed Mangaian
+    lines, ending with the label "Solo."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The English solo and chorus are directly extractable. The Mangaian TUMU and
+    PAPA lines are treated cautiously because the provided passage does not include
+    a full English translation for them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison with another tradition or corpus.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l9384-l9423
+  passage_sha256=9a93e60759c324ecc8aa29ab980bdc3349b28ffdd5c6a5acf40b2334e27e9eed
+

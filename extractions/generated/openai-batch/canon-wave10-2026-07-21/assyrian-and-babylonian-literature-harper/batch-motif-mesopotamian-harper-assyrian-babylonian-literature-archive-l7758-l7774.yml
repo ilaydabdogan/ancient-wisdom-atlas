@@ -1,0 +1,229 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l7758-l7774
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: TAYLOR   CYLINDER   OF   SENNACHERIB  75 / THE   MURDER  OF   SENNACHERIB
+    / ESARHADDON'S    ACCESSION    TO    THE / THRONE,   AND   THE    BATTLE   OF;
+    lines 7758-7774
+  start: '7758'
+  end: '7774'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A Babylonian Chronicle notice states that Sennacherib, king of Assyria,
+    was killed by his son during a revolt after twenty-three years of rule. The revolt
+    continued for a stated interval, and later Esarhaddon, also identified as Sennacherib's
+    son, took the throne.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as an account of the murder of Sennacherib and is attributed
+    to the Babylonian Chronicle.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sennacherib is identified as king of Assyria.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Sennacherib was killed by his son in a revolt on the twentieth day of Tebet.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sennacherib had ruled Assyria for twenty-three years.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The revolt in Assyria continued from the twentieth day of Tebet to the second
+    day of Adar.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: On the eighteenth day of Sivan, Esarhaddon, identified as Sennacherib's son,
+    took his seat on the throne.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Sennacherib
+  description: King of Assyria who had ruled for twenty-three years and was killed
+    by his son in a revolt.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: unnamed son of Sennacherib
+  description: A son of Sennacherib who killed him in a revolt; the passage does not
+    name this son in the killing notice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Esarhaddon
+  description: A son of Sennacherib who took his seat on the throne on the eighteenth
+    day of Sivan.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: king of Assyria
+  assigned_to:
+  - fig:1
+  basis: Sennacherib is explicitly called king of Assyria.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: slain ruler
+  assigned_to:
+  - fig:1
+  basis: The passage states that Sennacherib was killed after twenty-three years of
+    rule.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: son who kills the king in revolt
+  assigned_to:
+  - fig:2
+  basis: The passage says Sennacherib was killed by his son in a revolt.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: enthroned successor son
+  assigned_to:
+  - fig:3
+  basis: The passage says Esarhaddon, his son, took his seat on the throne.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: throne
+  literal_form: throne
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Murder of Sennacherib during revolt
+  summary: Sennacherib, king of Assyria, is killed by his son in a revolt after twenty-three
+    years of rule.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Continuation of revolt
+  summary: The revolt in Assyria continues from the twentieth day of Tebet to the
+    second day of Adar.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Esarhaddon's accession
+  summary: Esarhaddon, identified as Sennacherib's son, takes his seat on the throne
+    on the eighteenth day of Sivan.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: dynastic murder followed by royal accession
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage links the killing of a king by his son during revolt with the
+    later enthronement of Esarhaddon, another figure identified as the king's son.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt reports events chronologically but does not provide divine
+    sanction, legal argument, or explicit ideology of legitimacy.
+- id: motif:2
+  label: son kills father-ruler in revolt
+  taxonomy_refs: []
+  basis: Sennacherib is identified as king of Assyria and is said to have been killed
+    by his son in a revolt.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The son who kills Sennacherib is unnamed in the passage, and the passage
+    does not state his motive.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: 7758-7762
+  quote_or_summary: Heading identifies the passage as 'The Murder of Sennacherib'
+    and states it is from the Babylonian Chronicle.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 7764-7765
+  quote_or_summary: '"Sennacherib, King of Assyria, was killed by his son in a revolt."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: 7765-7767
+  quote_or_summary: '"For twenty-three years Sennacherib had ruled Assyria."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: 7767-7769
+  quote_or_summary: The revolt in Assyria continued from the twentieth day of Tebet
+    to the second day of Adar.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 7769-7770
+  quote_or_summary: '"On the eighteenth day of Sivan, Esarhaddon, his son, took his
+    seat on the throne."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are cautious because
+    the passage is a brief chronicle notice and gives little narrative or interpretive
+    framing. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  The passage does not explicitly identify Esarhaddon as the son who killed Sennacherib; figures are therefore kept separate.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l7758-l7774
+  passage_sha256=57823832ec9d3bffb3e90c3400151b675753badb7ea989ef7840be3144894432
+

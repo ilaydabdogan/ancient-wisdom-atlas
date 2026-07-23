@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l2226-l2312
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: RAINFALL.  37 / CHAPTER  III. / THE   ANDIAL    LIFE    OF   MADAGASCAE.
+    / FA  UNA.  39; lines 2226-2312
+  start: '2226'
+  end: '2312'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contrasts Madagascar’s fauna with that of nearby Africa, lists
+    major mammal groups absent from the island or introduced from elsewhere, summarizes
+    zoological assessments of Madagascar as a distinctive faunal district, and describes
+    lemurs, especially their forest habitat, cries, agility, appearance, and variety.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Madagascar is described as separated from Africa by a sea 230 miles wide at
+    the narrowest point, with a bank of soundings reducing the distance to 160 miles.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Madagascar’s fauna is remarkably different from Africa’s
+    despite the island’s proximity to the continent.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Several African mammal groups are listed as absent from Madagascar, including
+    larger felines, most ungulates, zebra, quagga, giraffe, antelope families, elephants,
+    apes, and monkeys.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Some domestic animals in Madagascar are described as recent or foreign introductions,
+    including horses, asses, humped cattle, sheep, and goats.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Zoologists are reported to regard the Madagascar zoological sub-region as
+    one of the most remarkable districts on the globe.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage says Madagascar’s mammalian fauna is deficient in orders and families,
+    but that Lemuridae, Viverridae, and Centetidae are well represented in genera
+    and species.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Within the Primates, the passage says Madagascar lacks apes, baboons, and
+    monkeys, but has Lemuridae in varied forms and colors through the encircling forest.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Travelers from the coast toward the interior plateaux are said to frequently
+    hear lemurs’ loud wailing cries, which can make the woods resound.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The narrator says that on first hearing the cries, one may suppose that nearby
+    people are in deep distress before discovering the animal source.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Lemurs are described as agile like monkeys but with heads more like dogs or
+    foxes, sharp muzzles, large expressive eyes, thick soft fur, and often long bushy
+    tails.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The passage notes variety in lemur size and color, with the largest species
+    compared to a good-sized monkey and the smallest to a rat or small squirrel.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Madagascar / Madagascar zoological sub-region
+  description: The island and faunal sub-region described as near Africa yet zoologically
+    distinctive and remarkable.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Africa / African continent
+  description: The nearby continent used as the expected faunal comparator for Madagascar.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Absent or introduced mammal groups
+  description: The passage groups together absent large African mammals and domestic
+    animals described as introduced or foreign.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Lemuridae / lemurs
+  description: Lemurs are described as varied forest quadrumana with loud wailing
+    cries, agility, dog- or fox-like heads, expressive eyes, soft fur, and varied
+    size and color.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Narrator-traveler
+  description: The first-person observer reports long journeys in Madagascar, study
+    of naturalists’ papers, and listening to lemurs’ cries after identifying their
+    source.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: distinctive insular faunal district
+  assigned_to:
+  - fig:1
+  basis: Madagascar is described as close to Africa but possessing a remarkably different
+    and notable fauna.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: mainland comparator
+  assigned_to:
+  - fig:2
+  basis: Africa is the nearby continent whose fauna one might expect Madagascar to
+    resemble, and Wallace’s comparison frames Madagascar’s relation to Africa.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: catalogued absent or introduced animals
+  assigned_to:
+  - fig:3
+  basis: The passage lists major mammal groups absent from Madagascar and domestic
+    species introduced by Europeans or from abroad.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: forest primates occupying the monkey niche
+  assigned_to:
+  - fig:4
+  basis: The passage says apes and monkeys are absent but their place is taken by
+    Lemuridae found throughout the forest.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: field observer and compiler
+  assigned_to:
+  - fig:5
+  basis: The narrator describes observing during journeys and studying scientific
+    papers, then reports personal experience hearing lemur cries.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: separating sea
+  literal_form: The sea between Madagascar and Africa, 230 miles wide at its narrowest
+    and reduced by a bank of soundings to 160 miles.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: encircling forest ring
+  literal_form: The encircling ring of forest where Lemuridae are found in variety
+    and where their cries resound.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: wailing animal cries mistaken for human distress
+  literal_form: Long-drawn-out melancholy cries of lemurs that make the woods resound
+    and are initially mistaken for distressed people.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Madagascar contrasted with nearby Africa
+  summary: The passage explains that although Madagascar lies close to Africa, its
+    fauna differs strongly from the continent’s, with many large African mammals absent
+    and several domestic animals described as introduced.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Zoological assessment of the island fauna
+  summary: Madagascar is presented as a remarkable faunal district, deficient in many
+    mammalian orders and families but rich in certain groups such as Lemuridae.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Encounter with lemurs in the forest
+  summary: A traveler moving from coast to interior may hear loud lemur cries in the
+    forest, first take them for human distress, and then identify them as the sounds
+    of lemurs; the animals’ physical traits and size variation are described.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: nearby island with fauna unlike the adjacent mainland
+  taxonomy_refs: []
+  basis: The passage emphasizes that Madagascar is close to Africa but has a remarkably
+    different fauna with many expected mammal groups absent.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a natural-history pattern, not a mythological motif in the passage.
+- id: motif:2
+  label: absence and substitution of expected animals
+  taxonomy_refs: []
+  basis: The passage lists absent apes and monkeys and says their place is taken by
+    Lemuridae in Madagascar’s forests.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The substitution is zoological and descriptive; no symbolic or mythic
+    function is stated.
+- id: motif:3
+  label: nonhuman cry mistaken for human distress
+  taxonomy_refs: []
+  basis: The narrator describes loud lemur cries that initially make one suppose people
+    nearby are in deep distress before the animal source is discovered.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents this as a traveler’s auditory experience, not as
+    folklore or myth.
+- id: motif:4
+  label: encircling forest as animal habitat boundary
+  taxonomy_refs: []
+  basis: Lemuridae are said to be found in great variety through the encircling ring
+    of forest, and travelers hear their cries while moving from coast to interior.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a landscape-and-habitat pattern only; no ritual or cosmological
+    meaning is supplied.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports Wallace’s comparison that Madagascar’s fauna bears a
+    similar island-to-mainland relation to Africa as the Antilles do to tropical America
+    and New Zealand does to Australia.
+  claim_level: same_function
+  target: Antilles to tropical America; New Zealand to Australia
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an explicit zoological analogy in the passage, not a claim
+    of mythic similarity, historical contact, or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2226-2249
+  quote_or_summary: Madagascar is described as close to Africa but faunally different;
+    larger felines, most ungulates, elephants, apes, and monkeys are absent, while
+    several domestic animals are introduced or foreign.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain; supplied passage.
+- id: ev:2
+  type: summary
+  locator: 2250-2264
+  quote_or_summary: Zoologists, including Alfred Wallace, describe Madagascar as a
+    remarkable faunal district; the passage compares its relation to Africa with the
+    Antilles to tropical America and New Zealand to Australia, and notes strong representation
+    of Lemuridae, Viverridae, and Centetidae.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain; supplied passage.
+- id: ev:3
+  type: summary
+  locator: 2265-2279
+  quote_or_summary: The narrator states that he has no claim to exact scientific research
+    but has observed during long journeys and studied naturalists’ papers on Madagascar’s
+    fauna.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain; supplied passage.
+- id: ev:4
+  type: summary
+  locator: 2280-2300
+  quote_or_summary: Madagascar’s Primates are represented by Lemuridae rather than
+    apes, baboons, or monkeys; lemurs are found throughout the forest, and their loud
+    wailing cries may at first be mistaken for nearby people in distress.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain; supplied passage.
+- id: ev:5
+  type: summary
+  locator: 2301-2312
+  quote_or_summary: Lemurs are described as agile, with dog- or fox-like heads, sharp
+    muzzles, expressive eyes, thick soft fur, often long bushy tails, and considerable
+    variation in size and color.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain; supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is natural-history prose rather than myth or folklore. Literal
+    extraction is strong; motif labels are descriptive patterns and should be reviewed
+    before integration with comparative mythology data.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No mythological taxonomy motif family is directly supported. The only taxonomy symbol used is water for the literal sea separating Madagascar and Africa; other symbolic interpretations are intentionally avoided.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l2226-l2312
+  passage_sha256=dfc5420c4917186e90e41e7f89913c4d24dbb63be5829f391755cc947350f896
+

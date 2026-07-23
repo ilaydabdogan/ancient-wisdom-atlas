@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l11236-l11301
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE   MAN  WHO   SANG  TO  COYOTE. / HOW  THE  CANNIBAL  SPIDER-WOMAN  WAS  OVERCOME.  221
+    / THE   WITCH-WOMAN   WHO   STOLE  THE    WONDERFUL  ROBE. / TALES  OF  READY-TO-GIVE.;
+    lines 11236-11301
+  start: '11236'
+  end: '11301'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A woman refuses to return a wonderful robe, saying she now has it for
+    a skirt. A boy repeatedly sings that he is hunting the robe and names paintings
+    on it: dragonflies, lightning, thunders, and winds. The Witch-Woman challenges
+    his power. The boy cries and blows from the west; clouds, wind, and rain come.
+    The old woman returns the robe, but the wind carries her into the heavens and
+    then blows her down into mud at a ravine, where she sinks.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The woman says the robe must be wonderful, but says the boy will never have
+    it again because she now has it for her skirt.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boy sings that he is hunting a robe and asks who has picked it up.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The song describes dragonflies, lightning, thunders, and winds as painted
+    on the robe.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The Witch-Woman says she has more power than the boy and asks whether he thinks
+    she will be blown away.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the boy cries and blows with his breath from the west, clouds are seen
+    coming from the west and blowing over the land.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When the boy cries the fourth time, the old woman takes off the robe, throws
+    it down, and asks that the storm not blow her away.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The wind catches the old woman and whirls her up into the heavens, and rain
+    begins over the land.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: At a ravine on the side of a hill, the woman is brought down again, blown
+    to muddy ground at the head of the ravine, and sunk into the mud.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the boy
+  description: A boy who sings about hunting the robe, cries, and blows with his breath
+    from the west before clouds and storm appear.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the woman / Witch-Woman / old woman
+  description: A woman identified in the passage as the Witch-Woman and later as the
+    old woman; she has the robe as her skirt, returns it under threat of the storm,
+    and is carried by wind and sunk in mud.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: singer seeking the robe
+  assigned_to:
+  - fig:1
+  basis: The boy sings that he is hunting a robe and asks who picked it up.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: holder of the robe
+  assigned_to:
+  - fig:2
+  basis: The woman says the boy will not have the robe again because she has it for
+    her skirt.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: weather-calling actor
+  assigned_to:
+  - fig:1
+  basis: After the boy cries and blows with his breath from the west, clouds come
+    from the west and a storm follows.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: storm-overcome opponent
+  assigned_to:
+  - fig:2
+  basis: The woman challenges the boy's power, returns the robe, and is then whirled
+    up by wind and sunk in mud.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: wonderful robe
+  literal_form: A robe used by the woman as a skirt and sought by the boy.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: robe paintings
+  literal_form: Dragonflies, lightning, thunders, and winds painted on the robe.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: west storm
+  literal_form: Breath from the west, clouds from the west, wind like a whirlwind,
+    and rain over the land.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: rain, ravine, and mud
+  literal_form: Rain over the land, a ravine on the side of a hill, and muddy ground
+    where the woman sinks.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Robe refused and identified in song
+  summary: The woman refuses to return the wonderful robe and says she is using it
+    as a skirt. The boy sings that he is hunting the robe and describes its painted
+    images.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Storm challenge and surrender of the robe
+  summary: The Witch-Woman challenges the boy's power. The boy cries and blows from
+    the west; clouds come. On the fourth cry the old woman throws down the robe and
+    asks not to be blown away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Woman carried upward and sunk in mud
+  summary: The wind catches the old woman, whirls her into the heavens, and rain falls.
+    The wind then brings her down near a muddy ravine, where she sinks into the mud.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: withheld wonderful robe recovered under supernatural pressure
+  taxonomy_refs:
+  - sacred_theft
+  basis: The woman keeps the wonderful robe as her skirt and refuses to return it;
+    the boy seeks it through song, and she gives it back when the storm threatens
+    her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The excerpt supports withholding or appropriation of a powerful robe,
+    but it does not fully narrate the initial taking or explicitly state the robe's
+    sacred status; the taxonomy reference is provisional.
+- id: motif:2
+  label: song and breath bring storm
+  taxonomy_refs: []
+  basis: The boy's repeated singing, crying, and breath from the west are followed
+    by clouds from the west, wind, and rain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents the sequence as effective, but the exact mechanism
+    of power is not explained in the excerpt.
+- id: motif:3
+  label: power challenger overcome by storm
+  taxonomy_refs: []
+  basis: The Witch-Woman asserts that she has more power than the boy, but the storm
+    causes her to return the robe and then carries her into the heavens and down into
+    mud.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage frames a contest of power through speech and outcome, but
+    no broader ritual or cosmological explanation is included.
+comparison_claims:
+- id: claim:1
+  claim: The robe episode can be cautiously compared by function to a stolen or withheld
+    powerful-object recovery pattern, especially the provided sacred_theft motif family.
+  claim_level: same_function
+  target: sacred_theft motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The excerpt calls the robe wonderful and weather-painted and shows
+    it being withheld and recovered, but it does not explicitly establish sacred status,
+    narrate the original theft, or support any historical-contact or inheritance claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11236-11301; opening portion
+  quote_or_summary: The woman says the robe is wonderful, refuses to let the boy have
+    it again, and says she has it for her skirt. The boy sings that he is hunting
+    a robe with dragonflies painted on it.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 11236-11301; song sequence
+  quote_or_summary: The boy repeats the robe-hunting song, naming lightning, thunders,
+    and winds as painted on the robe and saying it is among the people.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 11236-11301; Witch-Woman challenge and first storm signs
+  quote_or_summary: The Witch-Woman challenges the boy's power. The boy cries and
+    blows with his breath from the west, and clouds come from the west over the land.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 11236-11301; robe returned and wind strikes
+  quote_or_summary: At the boy's fourth cry, the old woman removes and throws down
+    the robe, asks not to be blown away, and is caught by wind and whirled into the
+    heavens.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 11236-11301; closing storm and mud episode
+  quote_or_summary: Rain begins over the land. Near a ravine on the side of a hill,
+    the woman is brought down again, blown to muddy ground at the head of the ravine,
+    and sinks into the mud.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is based directly on the supplied passage. Motif labeling
+    is provisional where it depends on interpreting the robe as a powerful or sacred
+    object.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No historical-contact, common-inheritance, or nearby-corpus comparison is asserted.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l11236-l11301
+  passage_sha256=32fabc75b77d03f2a078ca5f28d942c7fbb85f57d2da59716c4ead83fec89906
+

@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l18523-l18568
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OP  THE  YNCAS. / EIGHTH  BOOK  OP  THE  ROYAL / COMMENTARIES  OP  THE  YNCAS.
+    / CHAPTER  XXV.; lines 18523-18568
+  start: '18523'
+  end: '18568'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: they prohibited its being extracted, by a law
+  summary: The passage says the Ynca kings knew quicksilver but did not know how to
+    use it and prohibited its extraction because it harmed workers. It also distinguishes
+    the mineral pigment ychma from llimpi, notes concern about injury from searching
+    in caverns, and states that ychma was used only by ladies of royal blood.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Ynca kings had discovered quicksilver, admired its slippery movements,
+    but did not know how to use it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Quicksilver was described as injurious to those who worked to procure it,
+    causing trembling and loss of feeling.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Because the kings were said to care for their people and bore the title Lovers
+    of the Poor, they prohibited extraction of quicksilver by law.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Indians abominated quicksilver and forgot its name; the passage states
+    they had no name for mercury except names adopted after Spanish discovery in 1567.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A rich powder color called ychma was found among minerals associated with
+    mercury; llimpi is identified as a purple color from another mineral.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Indians liked the beauty of ychma, but the Yncas ordered them not to use
+    it to prevent injury from searching for it in caverns.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Ychma was used only by ladies of royal blood and not by men; young and beautiful
+    women used it, while mature women refrained.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Kings Yncas
+  description: Rulers who discovered quicksilver, prohibited its extraction, and regulated
+    the use of ychma.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Indians and vassals
+  description: People described as working to procure quicksilver, abominating it,
+    forgetting its name, and being fond of ychma color.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Spaniards
+  description: Later discoverers of mercury in 1567, after which adopted names for
+    it were used.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Father Acosta
+  description: Source associated with the word llimpi in the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Ladies of the blood royal
+  description: The only group said to use ychma; the passage specifies young and beautiful
+    women as users.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: royal protector and lawgiver
+  assigned_to:
+  - fig:1
+  basis: The kings are said to care for their people and to prohibit harmful extraction
+    by law.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: workers and vassals subject to regulation
+  assigned_to:
+  - fig:2
+  basis: The passage refers to those who worked to procure quicksilver and to vassals
+    permitted or forbidden to use mineral color.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: later discoverers and naming source
+  assigned_to:
+  - fig:3
+  basis: Names for mercury are said to have been adopted after the Spaniards discovered
+    it in 1567.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: lexical source cited by narrator
+  assigned_to:
+  - fig:4
+  basis: Father Acosta is cited for the term llimpi.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: restricted elite users of pigment
+  assigned_to:
+  - fig:5
+  basis: The passage says ychma was only used by ladies of royal blood and not by
+    men.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: quicksilver or mercury
+  literal_form: A slippery mineral substance known to the Ynca kings and described
+    as harmful to workers.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: ychma color
+  literal_form: A rich powder color found among minerals associated with mercury.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: caverns
+  literal_form: Underground places where people might search for ychma and injure
+    themselves.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: llimpi color
+  literal_form: A purple color obtained from another mineral, distinct from ychma
+    in the passage.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Discovery and prohibition of quicksilver
+  summary: The Ynca kings know quicksilver but find no use for it; because it harms
+    those who procure it, they prohibit its extraction by law.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Forgetting the name of mercury
+  summary: The Indians abominate quicksilver so strongly that its name drops from
+    memory, and later names are associated with Spanish discovery in 1567.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Regulation and restricted use of mineral colors
+  summary: Ychma and llimpi are distinguished as mineral colors; the Yncas restrict
+    ychma because of danger from caverns, while ladies of royal blood use it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Benevolent royal prohibition of a dangerous substance
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage links the kings' title Lovers of the Poor and concern for welfare
+    with a law forbidding extraction of harmful quicksilver.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is presented as historical-administrative explanation rather than
+    an explicit mythic episode.
+- id: motif:2
+  label: Royally restricted adornment substance
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The mineral color ychma is described as beautiful, regulated by the Yncas,
+    and used only by ladies of royal blood.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The passage does not state ritual or sacred meaning for ychma; the pattern
+    is limited to elite restriction and adornment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18528-18537
+  quote_or_summary: The Ynca kings had discovered quicksilver, admired its slippery
+    movements, did not know how to use it, and observed that it harmed those who procured
+    it by causing trembling and loss of feeling.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 18537-18542
+  quote_or_summary: Because they cared for the welfare of their people and bore the
+    title Lovers of the Poor, the kings “prohibited its being extracted, by a law.”
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 18542-18551
+  quote_or_summary: The Indians abominated mercury, let its name drop from memory
+    and language, and had no name for it except terms adopted after the Spaniards
+    discovered it in 1567; the passage adds that lack of letters made unused words
+    quickly forgotten.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 18551-18560
+  quote_or_summary: The Yncas used and allowed vassals to use a rich powder color
+    called ychma, found among minerals associated with mercury; Father Acosta's llimpi
+    is described as a purple color from another mineral.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 18560-18564
+  quote_or_summary: The Indians were fond of ychma's beauty, but the Yncas ordered
+    them not to use it lest they injure themselves while searching for it in caverns.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 18564-18568
+  quote_or_summary: Ychma was used only by ladies of royal blood, not by men; the
+    women who used it were young and beautiful, while mature women refrained.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a short supplied public-domain passage. Motif candidates
+    are cautious because the passage is a chronicle-style account of mining, naming,
+    law, and elite adornment rather than an explicit myth narrative. No cross-tradition
+    comparison claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison beyond its internal distinction between ychma and llimpi.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l18523-l18568
+  passage_sha256=8e90ac3f54e85b12074f2284635da683c28604200018233cfe6fe8f3b11d86bf
+

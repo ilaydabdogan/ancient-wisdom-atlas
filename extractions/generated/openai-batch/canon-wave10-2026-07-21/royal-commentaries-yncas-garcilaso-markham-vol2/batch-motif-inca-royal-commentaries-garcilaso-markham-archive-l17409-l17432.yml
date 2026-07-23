@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l17409-l17432
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: VOL.  II. / EIGHTH  BOOK  OF  THE  KOYAL / COMMENTARIES  OF  THE  YNCAS.
+    / EIGHTH  BOOK  OE  THE  ROYAL; lines 17409-17432
+  start: '17409'
+  end: '17432'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes monkeys carrying their young on their backs, forming
+    chains between trees to cross rivers, and coordinating by signals and cries. It
+    also reports sayings attributed to Indians: that monkeys can speak but hide their
+    speech from Spaniards to avoid being forced to get silver and gold, and that they
+    carry children on their backs to help Indian women.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Monkeys carry their young on their backs until the young can jump and live
+    by themselves.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The young clasp their arms around their mothers' necks and their legs around
+    their mothers' bodies.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Monkeys form chains to cross rivers or great streams that they cannot jump
+    across.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The chain is fastened to one tree and swung until the lowest monkey reaches
+    a branch of another tree.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the lowest monkey climbs level with the monkey at the other end, it
+    gives a signal or order for the others to let go, and the group passes over the
+    river.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage says the monkeys cross by using strength and cunning, and compares
+    their coordination to disciplined soldiers.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Indians are reported as saying that monkeys can speak but hide their speech
+    from Spaniards to avoid being forced to get silver and gold.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Indians are reported as saying that monkeys carry their children on their
+    backs to help Indian women.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: monkeys
+  description: Collective animal figures described as carrying young, forming chains
+    to cross rivers, coordinating by cries or signals, and being the subject of reported
+    tales about hidden speech.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: young monkeys
+  description: Young carried on the backs of monkeys until they can jump and live
+    independently.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: mother monkeys
+  description: Mothers whose necks and bodies are clasped by the young while being
+    carried.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Indians
+  description: Human group named in the passage as reporting sayings about monkeys'
+    speech and back-carrying.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Spaniards
+  description: Human group from whom monkeys are said to hide speech, in the reported
+    explanation, to avoid being forced to get silver and gold.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Indian women
+  description: Women whom monkeys are said to help by carrying children on their backs,
+    according to the reported saying.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: coordinated animal actors
+  assigned_to:
+  - fig:1
+  basis: Monkeys collectively carry young, form a chain across water, respond to signals,
+    and are described as acting with strength and cunning.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: offspring carried on backs
+  assigned_to:
+  - fig:2
+  basis: The young are carried on backs until they are able to jump and live independently.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: mothers or bearers of young
+  assigned_to:
+  - fig:3
+  basis: The young clasp around the necks and bodies of their mothers while being
+    carried.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: reporters of animal tales
+  assigned_to:
+  - fig:4
+  basis: The passage attributes sayings about monkey speech and child-carrying to
+    Indians.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: feared coercers in reported tale
+  assigned_to:
+  - fig:5
+  basis: In the reported saying, monkeys hide speech from Spaniards lest they be forced
+    to get silver and gold.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: human beneficiaries in reported tale
+  assigned_to:
+  - fig:6
+  basis: The passage reports a saying that monkeys carry children on their backs to
+    help Indian women.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water obstacle
+  literal_form: rivers or great streams
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: trees as crossing anchors
+  literal_form: one tree and a branch of another tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: living monkey chain
+  literal_form: a chain formed by monkeys' bodies
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: silver and gold
+  literal_form: silver and gold
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Young carried on backs
+  summary: Monkeys carry young on their backs until the young can move and live by
+    themselves; the young clasp the mothers' bodies while being carried.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Chain crossing over water
+  summary: Monkeys form a chain between trees, swing across a river or stream, receive
+    a signal, let go, and pass over the water together.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Reported explanations about speech and carrying
+  summary: Indians are reported as saying that monkeys conceal speech from Spaniards
+    to avoid forced labor for silver and gold, and that monkeys carry children on
+    their backs to help Indian women.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Living animal chain used to cross water
+  taxonomy_refs: []
+  basis: The passage describes monkeys forming a bodily chain between trees to cross
+    rivers or great streams they cannot jump across.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Presented as natural-history anecdote and reported behavior, not explicitly
+    as sacred myth.
+- id: motif:2
+  label: Animals conceal speech from humans to avoid exploitation
+  taxonomy_refs: []
+  basis: A reported saying attributes speech to monkeys and explains that they hide
+    it from Spaniards to avoid being forced to obtain silver and gold.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The claim is explicitly attributed to Indians in the passage; no wider
+    comparative context is provided.
+- id: motif:3
+  label: Animal childcare linked to aiding human women
+  taxonomy_refs: []
+  basis: A reported saying explains monkeys carrying children on their backs as an
+    action done to help Indian women.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives the saying but does not explain the mechanism or broader
+    narrative context.
+- id: motif:4
+  label: Animal cries interpreted as species-specific speech
+  taxonomy_refs: []
+  basis: The passage states that monkeys understand one another's cries and reports
+    that Indians say they can speak.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage combines the narrator's general claim about animal communication
+    with an attributed local saying.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17411-17415
+  quote_or_summary: Monkeys are said to carry their young on their backs until independence;
+    the young clasp their mothers' necks and bodies.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 17415-17422
+  quote_or_summary: Monkeys form chains to cross rivers or great streams, fasten to
+    one tree, swing until a branch of another tree is reached, and respond to a signal
+    to let go.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 17422-17425
+  quote_or_summary: The passage says the monkeys pass over the river by strength and
+    cunning, like disciplined soldiers, and that they understand one another's cries.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 17426-17428
+  quote_or_summary: '"the Indians say that they can speak, but that they hide their
+    speech from the Spaniards lest they should be forced to get silver and gold"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: 17428-17429
+  quote_or_summary: '"They also say that they carry their children on their backs,
+    to help the Indian women."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate patterns
+    drawn from a passage that mixes natural-history description with attributed tales;
+    no external comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Passage is framed as an addition to Father Acosta. Reported statements are treated as attributed claims within the passage, not as verified beliefs beyond the supplied text.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l17409-l17432
+  passage_sha256=59bf16533bdac87559064684fbcebe22042b240e35b30e561e3a48d184bc9023
+

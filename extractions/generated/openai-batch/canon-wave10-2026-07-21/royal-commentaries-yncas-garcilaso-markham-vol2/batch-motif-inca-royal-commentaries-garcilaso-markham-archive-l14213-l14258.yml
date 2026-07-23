@@ -1,0 +1,368 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l14213-l14258
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XXIX. / COMMENTARIES  OP  THE  YNCAS. / SEVENTH  BOOK  OF  THE  BOYAL
+    / COMMENTARIES  OF  THE  YNCAS.; lines 14213-14258
+  start: '14213'
+  end: '14258'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage concludes an anecdote about a stone whose failure to reach
+    its place in an edifice is explained through a fable of weeping blood and tiredness.
+    It then says such fables were preserved as traditions to memorialize notable events.
+    The author laments that Spaniards did not preserve the fortress, but dismantled
+    its masonry for private houses in Cuzco, reusing stones from walls and subterranean
+    passages. The narrator recalls seeing only ruins, notes that the largest outer
+    walls remained because they were too massive to move, and reports that some larger
+    stones were later damaged in a search for a gold chain or cable.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A stone is said to have wept blood because it did not reach its intended place
+    in the edifice.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The account says the stone became tired and could not reach its place, while
+    also explaining that the people dragging it were tired.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Events that happened to the Indians were attributed to the stone itself.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator says such fables were handed down as traditions to create a continuous
+    memorial of noteworthy events.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator says the Spaniards should have preserved and repaired the fortress
+    as a memorial of those who took it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Spaniards dismantled masonry walls inside the fortress circle and used the
+    stones to build private houses in Cuzco.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Long stones from subterranean passages were reused as lintels and porches,
+    while smaller stones were reused in walls and foundations.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: For staircase steps, Spaniards selected a course of stones of the desired
+    height and pulled down the courses above it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The narrator remembers seeing only ruins of the fortress after its destruction.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Three outer walls remained because the Spaniards could not move the stones,
+    owing to their immense size.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The narrator reports being told that later destruction of some larger stones
+    occurred while people sought a gold chain or cable.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the stone that did not reach its place
+  description: A stone in the edifice tradition, said to have wept blood, become tired,
+    and failed to reach its place.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the Indians
+  description: People involved in dragging the stone; the account says they were tired
+    and that events happening to them were attributed to the stone.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: the Spaniards
+  description: Group said to have taken the fortress, failed to preserve it, dismantled
+    it for building stones, and later reportedly damaged larger stones while seeking
+    gold.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: the narrator
+  description: First-person speaker who laments the destruction, remembers seeing
+    ruins, and reports what he has been told about later damage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+roles:
+- id: role:1
+  label: personified stone in a traditional fable
+  assigned_to:
+  - fig:1
+  basis: The stone is said to have wept, grown tired, and failed to reach its place.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: draggers of the stone
+  assigned_to:
+  - fig:2
+  basis: The passage explains the stone's tiredness by saying the people dragging
+    it were tired.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: dismantlers and reusers of fortress stones
+  assigned_to:
+  - fig:3
+  basis: Spaniards are said to have dismantled fortress masonry and reused the stones
+    in Cuzco houses, porches, lintels, walls, foundations, and staircases.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: witness and reporter of ruins
+  assigned_to:
+  - fig:4
+  basis: The narrator says he remembers seeing only the ruins and reports later information
+    about the larger stones.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: seekers of a gold chain or cable
+  assigned_to:
+  - fig:3
+  basis: The narrator reports that some larger stones were later destroyed while people
+    were seeking a gold chain or cable.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: weeping and tired stone
+  literal_form: stone that did not reach its place in the edifice
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: fortress as memorial and ruin
+  literal_form: fortress, described as a majestic pile, later dismantled and remembered
+    as ruins
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: reused building stones
+  literal_form: stones from masonry walls and subterranean passages reused for houses,
+    lintels, porches, walls, foundations, and steps
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: gold chain or cable
+  literal_form: chain or cable of gold sought among the larger stones
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Fable of the stone that failed to reach its place
+  summary: A stone is described as weeping blood, becoming tired, and failing to reach
+    its place in an edifice; the explanation links this to the tiredness of the people
+    dragging it and to traditions that attribute events to the stone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dismantling of the fortress for Cuzco houses
+  summary: The narrator laments that Spaniards did not preserve the fortress but pulled
+    down masonry walls and reused the stones in private buildings, including lintels,
+    porches, foundations, walls, and staircases.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Remaining outer walls and search for gold
+  summary: The narrator recalls seeing ruins, says three massive outer walls remained
+    because the stones could not be moved, and reports that some larger stones were
+    later damaged in a search for a gold chain or cable.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Personified stone explains a remembered event
+  taxonomy_refs: []
+  basis: The passage presents a fable in which a stone weeps blood, becomes tired,
+    and fails to reach its place, with human events attributed to the stone.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage begins mid-anecdote, so the full narrative context of the
+    bloodshed and stone is not present in the supplied lines.
+- id: motif:2
+  label: Fable preserved as communal memorial
+  taxonomy_refs: []
+  basis: The narrator explicitly says such fables were handed down as traditions to
+    maintain a continuous memorial of noteworthy events.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a stated function of tradition in the passage rather than a full
+    independent mythic narrative.
+- id: motif:3
+  label: Monument dismantled and transformed into ordinary buildings
+  taxonomy_refs: []
+  basis: The fortress is described as a majestic structure whose stones were removed
+    and reused in private houses, walls, foundations, lintels, porches, and stairs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage frames this primarily as historical destruction and authorial
+    lament, not as a mythic episode.
+- id: motif:4
+  label: Treasure sought by breaking monumental remains
+  taxonomy_refs: []
+  basis: The narrator reports that some of the larger stones were later destroyed
+    while people searched for a gold chain or cable.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage reports this secondhand and ends mid-sentence, so the full
+    treasure context is not available.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14217-14220 within supplied range
+  quote_or_summary: A stone is said to have wept blood because it never reached its
+    place in the edifice and became tired.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 14220-14224 within supplied range
+  quote_or_summary: The passage says events affecting the Indians were attributed
+    to the stone, and that many such fables were handed down as traditions to memorialize
+    noteworthy events.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 14226-14230 within supplied range
+  quote_or_summary: The narrator says Spaniards should have preserved and repaired
+    the fortress as an eternal memorial of those who took it, but did not maintain
+    it.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 14230-14238 within supplied range
+  quote_or_summary: Spaniards dismantled the masonry walls within the fortress circle
+    and used the stones in private houses in Cuzco.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 14240-14247 within supplied range
+  quote_or_summary: Long stones from subterranean passages were used for lintels and
+    porches, smaller stones for walls and foundations, and selected stone courses
+    for staircase steps.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 14247-14256 within supplied range
+  quote_or_summary: The narrator laments the destruction, remembers seeing ruins,
+    notes that three massive outer walls remained because they could not be moved,
+    and reports later damage while people sought a gold chain or cable.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is limited by the passage beginning mid-anecdote and ending
+    mid-sentence. Motif candidates are cautious and mostly pattern-level; no comparison
+    claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy reference was assigned because the supplied passage does not directly support the listed motif-family or symbol IDs. The passage is treated as English translation text from a public-domain source.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l14213-l14258
+  passage_sha256=83993359b7c939790b58ae33fe7c12c8332febd861780c7dea35ac7ac79cc8eb
+

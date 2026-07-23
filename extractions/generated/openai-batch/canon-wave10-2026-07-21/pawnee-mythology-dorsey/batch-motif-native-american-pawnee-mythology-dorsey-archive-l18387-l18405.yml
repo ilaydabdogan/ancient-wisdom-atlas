@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l18387-l18405
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE  ORIGIN   OF  THE   BUFFALO    CEREMONY.  363 / THE   ORIGIN    OF   THE   BUFFALO    CEREMONY.  367
+    / THE    ORIGIN    OF   THE    BUFFALO    CEREMONY.  369 / THE    WOMAN    AND    THE    BUFFALO    DANCE.  371;
+    lines 18387-18405
+  start: '18387'
+  end: '18405'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A boy playing on a hillside sees an old lean Buffalo, addresses him as
+    grandfather, and pities his age. The Buffalo replies that he is old, notes that
+    the boy's people kill and eat buffalo, and says he wants to give the boy something
+    before dying. The boy feeds the Buffalo grass. After eating, the Buffalo gives
+    the boy a small stomach-carried ball with magic powers, saying that smelling it
+    will allow the boy to see him. A note states that the boy receives power from
+    the buffalo and becomes a great medicine-man.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A little boy goes to a hillside to play and sees an old, lean Buffalo.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boy speaks to the Buffalo, calls him grandfather, and comments that he
+    is old and cannot travel as before.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Buffalo calls the boy grandchild and says he is glad the boy takes pity
+    on him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Buffalo says the boy's people kill and eat buffalo, but have never killed
+    him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Buffalo says that before he dies he wants to speak to the boy and give
+    him some things.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The boy cuts grass, brings it to the Buffalo, and feeds him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After eating, the Buffalo tells the boy that when he wants to see him he should
+    take and smell the given object.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The object given to the boy is a little ball carried in the Buffalo bull's
+    stomach and described as having magic powers.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A note states that in the story the boy receives power from the buffalo and
+    becomes a great medicine-man.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: little boy
+  description: A boy who plays on the hillside, speaks compassionately to the old
+    Buffalo, feeds him grass, and receives the magic ball.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: old lean Buffalo
+  description: An old, lean Buffalo who speaks to the boy, accepts grass from him,
+    and gives him a magic ball carried in his stomach.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: compassionate human recipient
+  assigned_to:
+  - fig:1
+  basis: The boy pities the old Buffalo, feeds him, and receives a magic object and
+    power.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: animal donor of power
+  assigned_to:
+  - fig:2
+  basis: The Buffalo gives the boy a stomach-carried ball with magic powers; the note
+    says the boy receives power from the buffalo.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: grandchild addressee
+  assigned_to:
+  - fig:1
+  basis: The Buffalo addresses the boy as his grandchild.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: grandfather figure
+  assigned_to:
+  - fig:2
+  basis: The boy calls the Buffalo his grandfather, and the Buffalo responds using
+    kinship language.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: old Buffalo
+  literal_form: old, lean Buffalo
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: magic ball
+  literal_form: a little ball carried in the Buffalo bull's stomach and possessing
+    magic powers
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: grass feeding
+  literal_form: grass cut by the boy and fed to the Buffalo
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Boy encounters old Buffalo on hillside
+  summary: A boy playing on a hillside sees an old lean Buffalo and addresses him
+    as grandfather, noting his age and weakness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Buffalo speaks before death
+  summary: The Buffalo replies to the boy, says he has lived long, acknowledges the
+    boy's pity, and says he wants to give the boy something before dying.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Boy feeds Buffalo
+  summary: The boy cuts grass, brings it to the Buffalo, and feeds him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Buffalo gives magic ball
+  summary: After eating, the Buffalo gives the boy a little stomach-carried ball with
+    magic powers and instructs him to smell it when he wants to see him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacred exchange with animal donor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The boy offers care and food to the old Buffalo, and the Buffalo gives him
+    a magic object and power.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not explicitly label the exchange as sacred; the classification
+    rests on reciprocal gift and power transfer.
+- id: motif:2
+  label: initiation through animal-bestowed power
+  taxonomy_refs:
+  - initiation
+  basis: The Buffalo gives a magic object, and the note states that the boy receives
+    power from the buffalo and becomes a great medicine-man.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The excerpt does not narrate a complete initiation sequence; the medicine-man
+    outcome appears in the supplied note.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18387-18388
+  quote_or_summary: A little boy goes out on a hillside to play and sees an old, lean
+    Buffalo.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 18388-18391
+  quote_or_summary: The boy talks to the Buffalo, calls him grandfather, and says
+    he is old and can no longer stand or travel as he once did.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 18391-18397
+  quote_or_summary: The Buffalo calls the boy grandchild, says he has lived long and
+    is glad for the boy's pity, notes that humans kill and eat buffalo, and says he
+    wants to give the boy things before he dies.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 18397-18398
+  quote_or_summary: The boy cuts a lot of grass, brings it to the Buffalo, and feeds
+    him.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 18400-18405
+  quote_or_summary: After eating, the Buffalo tells the boy to take and smell the
+    given object whenever he wants to see him; the object is a little ball carried
+    in the Buffalo bull's stomach and possessing magic powers.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: note
+  locator: passage note after line 18405
+  quote_or_summary: The note says that a boy receives power from the buffalo and becomes
+    a great medicine-man.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized from provided passage note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the supplied passage. Motif classification
+    is cautious because the excerpt is partial and some outcome information comes
+    from the note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims added because the passage does not itself establish a comparison beyond candidate motif classification.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l18387-l18405
+  passage_sha256=30760f3a91e6dbd1eb490597b9a31b60484bc5b81cfb843ebfbdb02978a72739
+

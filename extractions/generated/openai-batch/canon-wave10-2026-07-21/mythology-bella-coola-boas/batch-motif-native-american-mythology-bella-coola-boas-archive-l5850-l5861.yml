@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l5850-l5861
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: BOAS, THE MYTHOLOGY OF THE BELLA COOLA INDIANS. 85 / BOAS, THE MYTHOLOGY
+    OF THE BELLA COOLA INDIANS. 87 / BOAS, THE MYTHOLOGY OF THE BELLA COOLA INDIANS.
+    89 / THE RAVEN.; lines 5850-5861
+  start: '5850'
+  end: '5861'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Raven and Deer cry, compare how long they have been in the world, and make
+    claims tied to the rising mountains and the Sun shaping the world. Deer mocks
+    Raven’s scarred foot in song. Raven becomes angry, pushes Deer down a precipice,
+    assumes raven shape, flies down the mountain, eats some of Deer’s meat, and hides
+    the rest under stones.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Raven and Deer had been crying and later began to cry again.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:2
+  text: Raven asks Deer how long Deer has been in this world.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Raven says he became a man when the mountains began to rise.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Deer says he has been in the world a long time and claims to be older than
+    Raven.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Deer says he became a man before the Sun gave the world its present form.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Deer sings that Raven’s foot is ugly and covered with scars.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Raven becomes angry, pushes Deer, and throws him down a precipice.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Raven assumes the shape of the Raven and flies down the mountain while crying
+    “Qoax.”
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Raven eats part of Deer’s meat and conceals the rest under stones.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Raven
+  description: A speaker who asks Deer about time in the world, says he became a man
+    when mountains began to rise, becomes angry, throws Deer down a precipice, assumes
+    raven shape, flies down the mountain, eats part of Deer’s meat, and hides the
+    rest.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Deer
+  description: A speaker who says he has long been in the world, claims to be older
+    than Raven, says he became a man before the Sun formed the world, sings mockery
+    of Raven’s foot, and is thrown down a precipice by Raven.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Sun
+  description: Mentioned in Deer’s speech as having given the world its present form.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: age claimant and questioner
+  assigned_to:
+  - fig:1
+  basis: Raven asks how long Deer has been in the world and says he became a man when
+    the mountains began to rise.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: older age claimant
+  assigned_to:
+  - fig:2
+  basis: Deer says he has been in the world a long time and claims to be older than
+    Raven.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: mocker and victim
+  assigned_to:
+  - fig:2
+  basis: Deer sings mockery of Raven’s scarred foot and is then thrown down a precipice.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: angry aggressor and eater
+  assigned_to:
+  - fig:1
+  basis: Raven grows angry, throws Deer down a precipice, eats part of Deer’s meat,
+    and conceals the rest.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: shape-changing figure
+  assigned_to:
+  - fig:1
+  basis: Raven assumes the shape of the Raven and flies down the mountain.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: world-forming referent
+  assigned_to:
+  - fig:3
+  basis: Deer refers to the Sun as giving the world its present form.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: mountains rising; the mountain Raven flies down
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: Sun
+  literal_form: the Sun giving the world its present form
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: scarred foot
+  literal_form: Raven’s foot described as ugly and covered with scars
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: precipice
+  literal_form: the precipice down which Deer is thrown
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: stones
+  literal_form: stones under which Raven conceals remaining Deer meat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Crying and primordial age exchange
+  summary: Raven and Deer cry and exchange claims about how long they have been in
+    the world, with Raven dating himself to the rising of the mountains and Deer dating
+    himself before the Sun gave the world its present form.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Mockery, killing, transformation, and concealment
+  summary: Deer mocks Raven’s scarred foot in song. Raven grows angry, throws Deer
+    down a precipice, assumes raven shape, flies down the mountain, eats part of Deer’s
+    meat, and hides the rest under stones.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: shape-changing Raven
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage states that Raven assumes the shape of the Raven and flies down
+    the mountain after throwing Deer down the precipice.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives only this brief transformation event; broader mythic
+    context is not included.
+- id: motif:2
+  label: primordial age contest
+  taxonomy_refs: []
+  basis: Raven and Deer compare how long they have been in the world, linking their
+    ages to the rising mountains and the Sun giving the world its present form.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a descriptive passage-level motif label, not a supplied taxonomy
+    reference.
+- id: motif:3
+  label: mockery leading to violent retaliation
+  taxonomy_refs: []
+  basis: Deer’s song mocks Raven’s scarred foot; immediately afterward Raven grows
+    angry and throws Deer down a precipice.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The motive is supported by sequence, but the passage does not explicitly
+    state that the song is the sole cause of Raven’s action.
+- id: motif:4
+  label: predator concealing remains
+  taxonomy_refs: []
+  basis: After throwing Deer down the precipice, Raven eats part of Deer’s meat and
+    conceals the rest under stones.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a literal action-pattern label without an external taxonomy reference.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious comparison to a shapeshifter motif family
+    because Raven assumes raven shape after acting in the scene as a speaking person.
+  claim_level: same_motif
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:2
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage contains a clear shape-assumption event, but it does not
+    describe the mechanics, purpose, or wider tradition of the transformation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5850-5852
+  quote_or_summary: Raven and Deer finish crying; Raven asks Deer how long he has
+    been in this world.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 5852-5855
+  quote_or_summary: Deer says he has been here a long time; Raven says, “I became
+    a man when the mountains began to rise.”
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 5855-5857
+  quote_or_summary: Deer says he is older and “became a man before the Sun gave the
+    world its present form.”
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 5857-5859
+  quote_or_summary: They cry again; Deer sings that Raven’s foot is ugly and covered
+    with scars.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 5859-5861
+  quote_or_summary: Raven grows angry, throws Deer down a precipice, assumes raven
+    shape, flies down the mountain, cries “Qoax,” eats part of Deer’s meat, and hides
+    the rest under stones.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; concise summary with brief quoted cry used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal events and figures are explicit. Motif labels beyond the supplied
+    shapeshifter taxonomy are descriptive and require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata; no external motif index or broader corpus context was applied.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l5850-l5861
+  passage_sha256=133adfb03d1070e39bd73143540472ceb7dcb5e5c6f0e044141341989e500941
+

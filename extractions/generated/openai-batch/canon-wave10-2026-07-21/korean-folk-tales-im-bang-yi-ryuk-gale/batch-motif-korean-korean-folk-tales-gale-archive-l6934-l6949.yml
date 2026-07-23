@@ -1,0 +1,275 @@
+---
+record_id: batch.motif.korean-korean-folk-tales-gale-archive-l6934-l6949
+source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+passage_locator:
+  label: TA-HONG / TA-HONG / TA-HONG / TA-HONG; lines 6934-6949
+  start: '6934'
+  end: '6949'
+  translation: Korean Folk Tales - Imps, Ghosts and Fairies
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: '"To-morrow is your day"'
+  summary: Sim explains that Ta-hong came to him in a dream, announced that the next
+    day was his appointed day, and wept with him. He wakes with tear marks on his
+    cheeks, says he does not fear death but has seen Ta-hong, asks that the matter
+    be kept secret, and dies the following day as foretold.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A female figure identified as Ta-hong comes to Sim once more in a dream.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ta-hong tells Sim that the following day is his day.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sim and Ta-hong weep together in the dream while meeting and talking.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When Sim wakes, tear marks remain on his cheeks.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Sim says he does not fear death, but has seen Ta-hong.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Sim asks that the account be told to no one.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Sim dies on the day following the dream, as foretold.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Sim
+  description: The speaker who recounts the dream, wakes with tear marks, says he
+    has seen Ta-hong, and dies the next day.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Ta-hong
+  description: The female figure whom Sim says he has seen; she comes in a dream and
+    announces that the next day is his day.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Sim's associates
+  description: People whom Sim says he has bidden farewell.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: dream recipient
+  assigned_to:
+  - fig:1
+  basis: Sim reports that Ta-hong came to him in a dream and spoke to him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dream visitor and death-announcer
+  assigned_to:
+  - fig:2
+  basis: Ta-hong appears in the dream and tells Sim that the following day is his
+    day.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: foretold dying person
+  assigned_to:
+  - fig:1
+  basis: Sim dies on the day following the dream, as foretold.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: farewell recipients
+  assigned_to:
+  - fig:3
+  basis: Sim says he has bidden all his associates farewell.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: dream encounter
+  literal_form: dream in which Sim meets and talks with Ta-hong
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: tears after waking
+  literal_form: marks of tears on Sim's cheeks after waking
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: appointed day
+  literal_form: Ta-hong's statement that tomorrow is Sim's day
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Farewell before the foretold day
+  summary: Sim says he has already bidden all his associates farewell because of the
+    coming event.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:2
+  label: Ta-hong's dream visit
+  summary: Ta-hong comes to Sim in a dream, announces the next day as his day, and
+    weeps with him while they meet and talk.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:3
+  label: Waking tears and disclosure
+  summary: Sim wakes with tear marks on his cheeks, explains that he does not fear
+    death but has seen Ta-hong, and asks for secrecy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:4
+  label: Death as foretold
+  summary: Sim dies on the day after the dream, matching the announced timing.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: dream visitation announcing death
+  taxonomy_refs: []
+  basis: A figure appears in a dream and announces the next day as Sim's day; Sim
+    dies on that following day.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage does not explicitly identify Ta-hong as a ghost or divine
+    being in this excerpt.
+- id: motif:2
+  label: waking bodily trace of a dream encounter
+  taxonomy_refs: []
+  basis: Sim and Ta-hong weep in the dream, and Sim wakes with tear marks still on
+    his cheeks.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents the tear marks literally, but does not explain their
+    mechanism.
+- id: motif:3
+  label: calm acceptance of foretold death after beloved vision
+  taxonomy_refs: []
+  basis: Sim says he does not fear death because he has seen Ta-hong, and then dies
+    as foretold.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The term 'beloved' is inferred from Sim's emotional language toward Ta-hong;
+    the exact relationship is not stated in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6937-6941
+  quote_or_summary: Ta-hong came once more and said to Sim, "To-morrow is your day."
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 6940-6943
+  quote_or_summary: Sim and Ta-hong wept together in the dream; after waking, tear
+    marks were still on Sim's cheeks.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 6943-6947
+  quote_or_summary: Sim says the tears are not from fear of death but because he has
+    seen Ta-hong; he tells the listener not to tell anyone.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 6947-6949
+  quote_or_summary: Sim dies on the following day, as had been foretold.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 6936-6937
+  quote_or_summary: Sim says that for this reason he has bidden all his associates
+    farewell.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage clearly supports dream visitation, foretold death, tears after
+    waking, and fulfillment of the prediction. Relationship details and supernatural
+    status of Ta-hong are not explicit in this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy references were assigned because the available list does not include a precise dream-visitation or death-omen category, and the excerpt does not explicitly support a broader afterlife or divine-beloved classification.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-folk-tales-gale-archive__l6934-l6949
+  passage_sha256=d8f857079a0cbdce762b73b7ac934232aab851330f5b4ba85e6cd2ea462b6241
+

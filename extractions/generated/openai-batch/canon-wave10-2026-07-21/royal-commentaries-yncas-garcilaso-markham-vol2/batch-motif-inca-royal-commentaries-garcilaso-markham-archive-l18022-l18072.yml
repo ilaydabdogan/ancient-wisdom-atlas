@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l18022-l18072
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: EIGHTH  BOOK  OE  THE  BOYAL / COMMENTARIES  OF  THE  YNCAS. / VOL.  II.
+    / EIGHTH  BOOK  OF  THE  ROYAL; lines 18022-18072
+  start: '18022'
+  end: '18072'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Peruvian rivers and Lake Titicaca in natural-historical
+    terms. It notes abundant water but few fish in Peruvian rivers, attributes scarcity
+    to strong currents and few still pools, describes local fish forms and names,
+    and contrasts river scarcity with the greater fish abundance and named varieties
+    in Lake Titicaca.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Small streams are said to flow in many directions, and if united would form
+    large rivers.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Although Peru is described as having much water, the passage says there is
+    very little fish there.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The scarcity of fish is attributed to furious river currents and to the small
+    number of pools of still water.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Peruvian river fish are described as differing from Spanish fish, having skin
+    rather than scales, a wide flat frog-like head, and a broad mouth.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The fish are eaten with their thin skin, and the Indians call them chalina,
+    glossed as meaning “fish.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Few fish enter the coastal rivers of Peru because those rivers are small and
+    rapid, and in winter they cannot be forded because they flow more furiously.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Lake Titicaca is described as having many fish; one kind, called suchi by
+    the Indians, is very fat and can be fried in its own grease.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Another small fish in Lake Titicaca is called bogas by Spaniards; the narrator
+    says he forgets its Indian name and describes it as small, unpleasant-tasting,
+    ugly, and perhaps scaled.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: 'A note gives additional Titicaca fish names from local dialects and other
+    sources: quesintuu, umantiuu, mauri, suchi, queresa, umanto, quesi, and umantu.'
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: First-person commentator
+  description: The narrator limits his remarks to Peru, says he forgets one Indian
+    fish name, and qualifies one recollection about scales.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: Indians
+  description: Indigenous people are cited as using fish names including chalina and
+    suchi; the note also records dialect names for Titicaca fish.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Spaniards
+  description: Spaniards are said to call one small Lake Titicaca fish bogas.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: commentator-observer
+  assigned_to:
+  - fig:1
+  basis: The passage is framed through first-person limitation, memory, and recollection.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: Indigenous naming group
+  assigned_to:
+  - fig:2
+  basis: The passage attributes the fish names chalina and suchi, and several dialect
+    names in the note, to Indigenous usage.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:3
+  label: Spanish naming group
+  assigned_to:
+  - fig:3
+  basis: The passage says Spaniards call the small Lake Titicaca fish bogas.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: water abundance
+  literal_form: many streams and rivers in Peru
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: rapid river water
+  literal_form: furious currents, rapid coastal rivers, few still pools
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: Lake Titicaca
+  literal_form: great lake of Titicaca with many fish
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: fish
+  literal_form: chalina, suchi, bogas, and other named fish of rivers and Lake Titicaca
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Peruvian rivers and scarcity of fish
+  summary: The passage describes abundant Peruvian water but little fish, explaining
+    the scarcity by strong currents and few still pools, and describing the form and
+    Indigenous name of the river fish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Fish of Lake Titicaca
+  summary: The passage contrasts river scarcity with Lake Titicaca’s many fish, naming
+    suchi and bogas and adding further fish names in a note.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18022-18032
+  quote_or_summary: Small streams flow in multiple directions and, if united, would
+    make rivers as large as those previously mentioned.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 18034-18040
+  quote_or_summary: The narrator says that, although so much water might imply fish
+    abundance, there is very little fish in Peru; the scarcity is attributed to furious
+    currents and few still pools.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 18040-18047
+  quote_or_summary: Peruvian fish are described as unlike Spanish fish, with skin
+    instead of scales, broad frog-like heads and mouths, eaten with the skin; Indians
+    call them chalina, meaning fish.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized with short retained terms.
+- id: ev:4
+  type: summary
+  locator: lines 18047-18050
+  quote_or_summary: Few fish enter the coastal rivers of Peru because they are small
+    and rapid; in winter they cannot be forded because the flow is more furious.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 18052-18056
+  quote_or_summary: Lake Titicaca has many fish; one kind, similar to the river fish,
+    is called suchi by Indians and is fat enough to fry in its own grease.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized with short retained terms.
+- id: ev:6
+  type: summary
+  locator: lines 18056-18060
+  quote_or_summary: Another small Lake Titicaca fish is called bogas by Spaniards;
+    the narrator forgets the Indian name and describes it as very small, bad-tasting,
+    ugly, and perhaps scaled.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized with short retained terms.
+- id: ev:7
+  type: summary
+  locator: lines 18062-18068
+  quote_or_summary: A note lists additional fish names for Lake Titicaca dialects
+    and sources, including quesintuu, umantiuu, mauri, suchi, queresa, umanto, quesi,
+    and umantu.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized with retained names.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is primarily geographic and natural-historical rather than mythic.
+    Literal water and fish imagery is extractable, but no passage-supported mythological
+    motif or comparative claim is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No candidate motif families or comparison claims were assigned because the passage itself does not present a mythic narrative or explicit comparative pattern.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l18022-l18072
+  passage_sha256=19ae675a06a84f3b96f365bb0dd070225cee5fb517c4bb461db428fe73f82221
+

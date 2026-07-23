@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l8704-l8806
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: IN    1824. / CHAPTER    IX. / THE  SOUL. / VAIPO'S  DIRGE  FOR  VEETINI.;
+    lines 8704-8806
+  start: '8704'
+  end: '8806'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A dirge for Veetini announces his approaching death and describes his movement
+    in relation to Avaiki or Spirit-world, the sky, the sea, the sun's path, and nether-land.
+    It also mentions a house built for him at Karanga-iti facing the rising sun, and
+    frames the song as performed with music and dance.
+  language: Mangaian with English translation and editorial glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented as Vaipo's dirge for Veetini, founded on a preceding
+    myth, and associated with performances around 1794 and 1819.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The song begins with a call for music and dance.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: News is said to have reached Avaiki that Veetini is about to die.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A house is built for Veetini at Karanga-iti, facing the rising sun.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Veetini is said to have gained the sky, glossed as the place where the sun
+    drops down, and to have fled in relation to the Spirit-world.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Veetini is described as coming up out of Spirit-world and moving over treacherous
+    waves.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Veetini is described as trembling on the wing and skimming the sea.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Veetini follows the sun's track or dazzling light as the sun sets in the ocean.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The chorus calls for the sun to be thrust down so that Veetini may descend
+    to nether-land.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Veetini
+  description: The named person for whom the dirge is sung; described as about to
+    die and as moving through sky, Spirit-world, sea, the sun's track, and nether-land.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Sun
+  description: The celestial body addressed in the song; Veetini follows its track
+    or light as it sets in the ocean, and the chorus asks that it be thrust down.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: subject of dirge
+  assigned_to:
+  - fig:1
+  basis: The title identifies the song as a dirge for Veetini.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dying or dead journeying figure
+  assigned_to:
+  - fig:1
+  basis: The passage announces Veetini's approaching death and describes his movement
+    through Spirit-world, sky, sea, and nether-land.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:3
+  label: celestial path-marker
+  assigned_to:
+  - fig:2
+  basis: Veetini follows the sun's track or dazzling light as it sets in the ocean,
+    and the sun is to be thrust down to enable descent.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: Avaiki or Spirit-world
+  literal_form: Avaiki; Spirit-world
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: house at Karanga-iti facing the rising sun
+  literal_form: house built at Karanga-iti to face the rising sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sky where the sun drops down
+  literal_form: sky, glossed as the place where the sun drops down
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: treacherous sea and waves
+  literal_form: treacherous waves; sea
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: sun's track or dazzling light
+  literal_form: track and dazzling light of the sun setting in the ocean
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: nether-land
+  literal_form: nether-land
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Dirge performance frame
+  summary: The passage frames the song as Vaipo's dirge for Veetini and calls for
+    music and dance to begin.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Death news reaches Avaiki
+  summary: News reaches Avaiki that Veetini is about to die, and the day is marked
+    as a sad day of death.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: House at Karanga-iti
+  summary: A house is built for Veetini at Karanga-iti, facing the rising sun.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Movement through sky and Spirit-world
+  summary: Veetini is said to have gained the sky, to have fled, and to have come
+    up out of Spirit-world.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Sea crossing and solar track
+  summary: Veetini moves over treacherous waves, skims the sea, and follows the sun's
+    track or light as it sets in the ocean.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Descent to nether-land
+  summary: The chorus calls for the sun to be thrust down so that Veetini may descend
+    to nether-land.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: journey of the dead through mapped otherworld places
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Veetini's approaching death is followed by references to Avaiki or Spirit-world,
+    the sky, waves and sea, the sun's setting track, and nether-land as stages or
+    landmarks of movement.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage is a dirge and does not give a prose route map; the motif
+    is inferred from the sequence of named places and movements in the song.
+- id: motif:2
+  label: ascent from Spirit-world or toward sky
+  taxonomy_refs:
+  - ascent
+  basis: Veetini is said to have gained the sky and to have come up out of Spirit-world.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The same passage also describes descent to nether-land, so ascent is only
+    one movement within a larger afterlife itinerary.
+- id: motif:3
+  label: descent following the setting sun
+  taxonomy_refs: []
+  basis: Veetini follows the sun's track as it sets in the ocean, and the chorus asks
+    that the sun be thrust down so that he may descend to nether-land.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: No specific taxonomy reference for a solar descent motif is provided;
+    this is a plain motif label grounded in the passage.
+- id: motif:4
+  label: funerary house oriented to the rising sun
+  taxonomy_refs: []
+  basis: A house is built for Veetini at Karanga-iti facing the rising sun.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain the ritual or symbolic function of the house
+    beyond its orientation.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious motif-family comparison with an afterlife
+    journey map, because Veetini's death is narrated through movement among named
+    otherworld and cosmological locations.
+  claim_level: same_motif
+  target: afterlife_journey_map
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a taxonomy-level comparison only. The passage does not itself
+    establish historical contact, common inheritance, or comparison with a named external
+    tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8704-8710
+  quote_or_summary: The passage title identifies Vaipo's dirge for Veetini, says it
+    is founded on the preceding myth, gives performance dates, and calls for music
+    and dance to begin.
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: 8711-8717
+  quote_or_summary: '"The news has sped to Avaiki / Of Veetini about to die. / Sad
+    day of death!"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: 8720-8732
+  quote_or_summary: '"A house is built for him at Karanga-iti / To face the rising
+    sun."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: 8733-8742
+  quote_or_summary: '"Veetini has gained the sky [i.e. the place where the sun drops
+    down]; / Has fled! / Oh, all-dividing Spirit-world!"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: quote
+  locator: 8743-8758
+  quote_or_summary: '"He came up out of Spirit-world, / Stepping lightly on his path
+    / O''er the treacherous waves."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: quote
+  locator: 8759-8775
+  quote_or_summary: '"Veetini is again trembling on the wing. / He skims, he skims
+    the sea!"'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: quote
+  locator: 8776-8792
+  quote_or_summary: '"he follows thy track, [O Sun!]" and "he follows thy dazzling
+    light, / As thou gently settest in the ocean."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: quote
+  locator: 8793-8806
+  quote_or_summary: '"Thrust down the sun, / That he may descend to nether-land."'
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main movements and locations are explicit in the English translation,
+    but interpretation of motif structure remains draft-level because the passage
+    is poetic and includes editorial glosses.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the provided passage and metadata. Taxonomy references were limited to supplied motif families and symbols.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l8704-l8806
+  passage_sha256=aab5b9d3f152e4880d2a56447eca697bc14d65d9712faba5831b0c799ca3c781
+

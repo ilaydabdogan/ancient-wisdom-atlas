@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.african-akikuyu-prehistoric-people-routledge-archive-l1474-l1556
+source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+passage_locator:
+  label: XLIX. / LIII. / LVII. / LVIII.; lines 1474-1556
+  start: '1474'
+  end: '1556'
+  translation: 'With a Prehistoric People: The Akikuyu of British East Africa'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a sequence of illustrated plate captions listing string
+    bags at different stages, iron-sand quarrying and processing, iron smelting and
+    smithy items, and wire drawing and chain making.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The list includes string bags at a commencement stage, at a stage with three
+    parts finished, and as three completed or displayed string bags.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The list includes an iron sand quarry, children washing iron sand, and drying
+    iron sand after washing.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The list includes a furnace for smelting iron ore and the interior of a smithy.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The list includes the hammer of Kiku'yu and earthenware nozzles of a smith's
+    bellows.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The list includes a wiredrawer's clamp, wire drawing, and the first step in
+    making chain.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Children
+  description: Children are named in the caption for washing iron sand.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Smith
+  description: A smith is named possessively in the caption for bellows nozzles.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Wiredrawer
+  description: A wiredrawer is named in the caption for a clamp.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Kiku'yu
+  description: Kiku'yu is named in the caption for a hammer.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: iron-sand washer
+  assigned_to:
+  - fig:1
+  basis: The caption identifies children washing iron sand.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: smith
+  assigned_to:
+  - fig:2
+  basis: The caption refers to a smith's bellows.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: wiredrawer
+  assigned_to:
+  - fig:3
+  basis: The caption refers to a wiredrawer's clamp.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: named associated figure
+  assigned_to:
+  - fig:4
+  basis: The caption names Kiku'yu in association with a hammer.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: String bag
+  literal_form: string bag
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Iron sand
+  literal_form: iron sand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Iron-smelting furnace
+  literal_form: furnace for smelting iron ore
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Smithy
+  literal_form: interior of a smithy
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: Hammer
+  literal_form: hammer of Kiku'yu
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Bellows nozzles
+  literal_form: earthenware nozzles of smith's bellows
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Wiredrawer's clamp
+  literal_form: wiredrawer's clamp
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: Chain making
+  literal_form: first step in the making of chain
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: String-bag stages
+  summary: Captions present string bags in a beginning stage, a three-parts-finished
+    stage, and as three string bags.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Iron-sand processing
+  summary: Captions present quarrying iron sand, children washing it, and drying it
+    after washing.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Iron smelting and smithy
+  summary: Captions present a furnace for smelting iron ore and interiors or equipment
+    of a smithy.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Wire drawing and chain making
+  summary: Captions present a wiredrawer's clamp, wire drawing, and an initial step
+    in making chain.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Sequential craft production
+  taxonomy_refs: []
+  basis: 'Several captions arrange objects or activities as stages of making or processing:
+    string bags, iron sand, wire drawing, and chain making.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: This is a material-culture pattern in plate captions, not a narrative
+    myth motif.
+- id: motif:2
+  label: Ironworking process
+  taxonomy_refs: []
+  basis: The captions list quarrying and washing iron sand, drying it, smelting iron
+    ore in a furnace, and smithy equipment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives captions only and does not attach ritual or mythic interpretation
+    to the ironworking sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1474-1498
+  quote_or_summary: Captions list a string bag at commencement, a string bag with
+    three parts finished, and three string bags.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:2
+  type: summary
+  locator: lines 1500-1514
+  quote_or_summary: Captions list an iron sand quarry, children washing iron sand,
+    and drying the iron sand after washing.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:3
+  type: summary
+  locator: lines 1516-1530
+  quote_or_summary: Captions list a furnace for smelting iron ore and interiors of
+    a smithy.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:4
+  type: summary
+  locator: lines 1532-1540
+  quote_or_summary: Captions list the hammer of Kiku'yu and earthenware nozzles of
+    a smith's bellows.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:5
+  type: summary
+  locator: lines 1542-1556
+  quote_or_summary: Captions list a wiredrawer's clamp, wire drawing, and the first
+    step in the making of chain.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a plate-caption list, so literal extraction is straightforward
+    but mythological motif interpretation is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the available taxonomy list does not include the explicitly named craft objects or ironworking processes, and no comparative claim is directly supported by the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-akikuyu-prehistoric-people-routledge-archive__l1474-l1556
+  passage_sha256=ef1b57afddbc75c847057e50347c79d770ddb9cacc47b64debc4431b3bc217eb
+

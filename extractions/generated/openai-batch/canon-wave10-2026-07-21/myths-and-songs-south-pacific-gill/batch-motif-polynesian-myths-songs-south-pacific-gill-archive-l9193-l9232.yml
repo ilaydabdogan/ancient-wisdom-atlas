@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.polynesian-myths-songs-south-pacific-gill-archive-l9193-l9232
+source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+passage_locator:
+  label: FOUNDATION. / UNUUNU   TORU.  THIRD  OFFSHOOT. / PAPA. / FOUNDATION.; lines
+    9193-9232
+  start: '9193'
+  end: '9232'
+  translation: Myths and Songs from the South Pacific
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A song section titled “PAPA” names Vera and Ngake. Torrential rain obstructs
+    a journey, but an unnamed mighty god aids the band led by Vera so that they may
+    safely reach a home beneath the glowing ocean. A speaker says he goes far away
+    from his mother, and the chorus describes the route as a perilous path to spirit-land.
+    A later address tells Vera to halt on his journey. A note says Ngake was one of
+    the three first slain and is represented here as traversing the ocean.
+  language: Mangaian and English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is structured as a song section with a solo attributed to Ngake
+    and a chorus response.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Torrents of rain obstruct the journey being addressed.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An unnamed mighty god provides aid during the journey.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The band led by Vera is said to safely reach a home beneath the glowing ocean.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker says he goes far away and addresses his mother.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The chorus describes the route as a perilous path to spirit-land.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A foundation line addresses Vera and tells him to halt on his journey.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A note identifies Ngake as one of the three first slain and says he is represented
+    as traversing the ocean.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ngake
+  description: Named as the solo voice; the note says Ngake was one of the three first
+    slain and is represented as traversing the ocean.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: Vera
+  description: Named in the opening line and addressed later; a band is described
+    as led by Vera.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Unnamed mighty god
+  description: A mighty god whose aid enables the journeying band to reach its destination
+    safely.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Band led by Vera
+  description: A traveling group led by Vera that is said to reach its home beneath
+    the glowing ocean.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Mother
+  description: The speaker addresses a mother while saying he goes far away.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: solo speaker
+  assigned_to:
+  - fig:1
+  basis: The passage labels Ngake as the solo voice.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: journey leader and addressee
+  assigned_to:
+  - fig:2
+  basis: The band is led by Vera, and Vera is addressed directly on the journey.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: divine helper
+  assigned_to:
+  - fig:3
+  basis: The journey succeeds by the aid of a mighty god.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: traveling group
+  assigned_to:
+  - fig:4
+  basis: The band led by Vera is described as traveling and reaching its home.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: addressed mother
+  assigned_to:
+  - fig:5
+  basis: The speaker says, “I go far away, mother.”
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: slain ocean-traverser
+  assigned_to:
+  - fig:1
+  basis: The note calls Ngake one of the three first slain and says he is represented
+    as traversing the ocean.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: obstructing rain
+  literal_form: torrents of rain
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: glowing ocean
+  literal_form: home beneath the glowing ocean
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:3
+  label: perilous path
+  literal_form: perilous path to spirit-land
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: spirit-land
+  literal_form: spirit-land
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Vera’s band aided through an obstructed journey
+  summary: Torrents of rain obstruct the journey, but a mighty god aids the band led
+    by Vera so that it safely reaches a home beneath the glowing ocean.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Departure toward spirit-land
+  summary: The speaker says he goes far away from his mother, and the chorus identifies
+    the way as a perilous path to spirit-land.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Halt addressed to Vera
+  summary: A foundation line calls on Vera to halt while on his journey.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: journey to spirit-land
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The chorus describes a perilous path to spirit-land, and the note identifies
+    Ngake as slain while represented as traversing the ocean.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage is fragmentary and gives only limited route details.
+- id: motif:2
+  label: departure from mother toward the otherworld
+  taxonomy_refs:
+  - departure
+  basis: The speaker tells his mother that he goes far away, immediately followed
+    by the chorus line about the perilous path to spirit-land.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The exact identity of the speaking “I” depends on the song structure and
+    note.
+- id: motif:3
+  label: divine assistance on a hazardous journey
+  taxonomy_refs: []
+  basis: Torrents of rain obstruct the journey, but a mighty god aids Vera’s band
+    so that it safely reaches its destination.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: No available taxonomy reference directly names this motif.
+- id: motif:4
+  label: submarine destination of the journey
+  taxonomy_refs: []
+  basis: The band led by Vera is said to reach its home beneath the glowing ocean,
+    and the surrounding chorus names spirit-land as the destination path.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage sequence suggests but does not explicitly equate the home
+    beneath the ocean with spirit-land.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9193-9232
+  quote_or_summary: "“Solo. Ngake.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 9193-9232
+  quote_or_summary: "“Torrents of rain obstruct thy journey.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 9193-9232
+  quote_or_summary: "“Yet by the aid of a mighty god / The band led by Vera shall
+    safely reach / Their home beneath the glowing ocean.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 9193-9232
+  quote_or_summary: "“I go far away, mother.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:5
+  type: quote
+  locator: lines 9193-9232
+  quote_or_summary: "“By a perilous path to spirit-land.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:6
+  type: quote
+  locator: lines 9193-9232
+  quote_or_summary: "“Halt, Vera, on thy journey.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:7
+  type: quote
+  locator: lines 9193-9232
+  quote_or_summary: "“Ngake was one of the three first slain” and is “represented
+    as traversing the ocean.”"
+  source_text_path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based on a short passage with clear song cues. Motif
+    candidates are limited by the fragmentary context and by uncertainty about the
+    exact relationship between the ocean destination and spirit-land. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy refs were limited to provided available references.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:polynesian-myths-songs-south-pacific-gill-archive__l9193-l9232
+  passage_sha256=350297e4d3c3d100d142c9db6f1f79b565bf602188168a079a6ccde89f6fccb5
+

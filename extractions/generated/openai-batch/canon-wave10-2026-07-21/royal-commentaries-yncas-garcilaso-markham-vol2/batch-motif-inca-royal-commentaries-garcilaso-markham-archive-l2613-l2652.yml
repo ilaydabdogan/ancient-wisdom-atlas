@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l2613-l2652
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XVIII. / A VERY  BLOODY  BATTLE,  AND  OF  TIIE  STRATAGEM  BY  WHICH  IT
+    / WAS  WON. / FIFTH  BOOK  OF  THE  BOYAL; lines 2613-2652
+  start: '2613'
+  end: '2652'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The Chancas reject messages and challenge the question of kingship. At
+    daybreak the Chancas and the Ynca forces fight fiercely. Ynca Uira-ccocha leads
+    from the front and throws the first missile. At noon a concealed force of five
+    thousand attacks the Chancas' right flank. Later, fresh supporters join the Ynca
+    army after hearing that the Prince has returned to defend the house of the Sun.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Chancas receive the second messages after encamping and reply that the
+    next day will show who is worthy to be King and who can grant pardons.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the defiance, both armies stay on watch through the night with sentries
+    posted.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At daybreak the squadrons arm themselves and march against each other with
+    cries, shouts, trumpets, and shells.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ynca Uira-ccocha advances in front of his army and is the first to throw his
+    missile at the enemy.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The battle continues until noon with severe slaughter and no decided advantage
+    on either side.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At noon, five thousand concealed Indians suddenly appear and attack the rebels
+    on their right flank, forcing the Chancas to fall back several paces.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After more than two further hours of fighting without clear advantage, the
+    Chancas begin to waver.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Fresh men from the city and surrounding districts join the Ynca army after
+    hearing that the Prince has returned to defend the house of the Sun; they come
+    to die with their Prince.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Chancas
+  description: The opposing force, also called rebels in the passage, who reject the
+    messages, fight the Yncas, are struck on the right flank, and later begin to waver.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Ynca Uira-ccocha
+  description: The Ynca leader who advances in front of his army and throws the first
+    missile; the passage also refers to the Prince whose return draws supporters.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Army of the Yncas
+  description: The force fighting against the Chancas to free their Prince from insult
+    and death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Five thousand concealed Indians
+  description: A force ordered to conceal themselves, who suddenly appear at noon
+    and attack the rebels' right flank.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Fresh supporters from the city and surrounding districts
+  description: Those who had fled from the city and inhabitants of surrounding districts,
+    arriving in small bodies to join the Ynca army.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: defiant opposing force
+  assigned_to:
+  - fig:1
+  basis: The Chancas reject the messages, frame the next day as a test of kingship,
+    and fight against the Yncas.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: royal field leader
+  assigned_to:
+  - fig:2
+  basis: Ynca Uira-ccocha advances in front of the army and initiates combat by throwing
+    the first missile; the passage later calls him the Prince.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: loyal defenders of the Prince
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The Yncas fight to free their Prince, and later supporters come to die with
+    their Prince after hearing of his return.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: concealed flanking attackers
+  assigned_to:
+  - fig:4
+  basis: The hidden force appears at noon and attacks the rebels on their right flank.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: house of the Sun
+  literal_form: the house of the Sun
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: trumpets and shells
+  literal_form: trumpets and shells sounded as the armies advanced
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Defiance before battle
+  summary: The Chancas receive messages after encamping and answer that the next day
+    will decide who is worthy to be King and able to grant pardons.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dawn engagement
+  summary: Both armies arm and advance at daybreak with battle sounds. Ynca Uira-ccocha
+    leads from the front and throws the first missile, and the fighting continues
+    fiercely until noon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Noon flanking stratagem
+  summary: A concealed force of five thousand suddenly appears at noon, attacks the
+    rebels' right flank, and forces the Chancas to fall back before they recover and
+    continue fighting.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Reinforcements rally to the Prince
+  summary: After further fighting, fresh men join the Ynca army from the city and
+    surrounding districts because they have heard that the Prince returned to defend
+    the house of the Sun; the Chancas begin to waver.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal worth tested in battle
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Chancas' reply frames the coming battle as deciding who is worthy to
+    be King and who can grant pardons, while the Yncas fight for their Prince.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage is a battle narrative; it does not include an explicit divine
+    judgment statement in this excerpt.
+- id: motif:2
+  label: concealed flanking force wins advantage
+  taxonomy_refs: []
+  basis: Five thousand men hidden beforehand suddenly appear at noon and attack the
+    Chancas' right flank, forcing them back.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a military stratagem motif rather than a clearly mythic symbol
+    in the excerpt.
+- id: motif:3
+  label: followers come to die with their Prince
+  taxonomy_refs: []
+  basis: Fresh men from the city and surrounding districts join the battle after hearing
+    of the Prince's return, described as coming to die with their Prince.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The wording supports loyal self-exposure to death, not a ritual sacrifice
+    motif.
+- id: motif:4
+  label: Prince returns to defend the house of the Sun
+  taxonomy_refs: []
+  basis: Supporters rally after hearing that the Prince returned to defend the house
+    of the Sun.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage names the house of the Sun but does not explain its function
+    or symbolic status within this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2613-2619
+  quote_or_summary: The Chancas receive the second messages after encamping and answer
+    contemptuously that the next day will show who is worthy to be King and who can
+    grant pardons.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2620-2626
+  quote_or_summary: Both armies keep watch overnight; at daybreak they arm and advance
+    with cries, shouts, trumpets, and shells. Ynca Uira-ccocha advances in front and
+    throws the first missile.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2627-2633
+  quote_or_summary: The Chancas fight obstinately expecting victory, while the Yncas
+    fight to free their Prince. The battle rages until noon with terrible slaughter
+    and no decided advantage.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2633-2641
+  quote_or_summary: At noon five thousand Indians who had been ordered to conceal
+    themselves suddenly appear, attack the rebels on their right flank, and force
+    the Chancas to fall back before they recover.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2642-2652
+  quote_or_summary: After more fighting without clear advantage, the Chancas begin
+    to waver as fresh men join the Ynca army from the city and surrounding districts,
+    having heard that the Prince returned to defend the house of the Sun and coming
+    to die with him.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main battle sequence, figures, and roles are explicit in the provided
+    passage. Motif labels are limited to patterns directly visible in the excerpt;
+    comparison claims are omitted because no specific external comparison is supported
+    by the passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external cultural context or unprovided taxonomy identifiers were added.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l2613-l2652
+  passage_sha256=ca87b47b1398942ba6c44cc13d53ce1b3ad9071e23567509a5ef6dea1de07494
+

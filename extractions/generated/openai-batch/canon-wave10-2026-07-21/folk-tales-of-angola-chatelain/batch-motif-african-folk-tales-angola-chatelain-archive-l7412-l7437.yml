@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l7412-l7437
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: XXXII. / SQUIRREL AND THE KINGSHIP. / XXXIII. / DOG AND THE KINGSHIP,; lines
+    7412-7437
+  start: '7412'
+  end: '7437'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Mr. Dog is to be invested with kingship. Royal objects are gathered, headmen
+    and musicians attend, and a ceremonial seating place is prepared. During the distribution
+    of food, Dog steals the breast of a fowl and runs into the bush. Because of this
+    thievery, he loses the kingship.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mr. Dog is identified as the figure whom others wanted to invest with kingship.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The royal items gathered for the installation include a cap, sceptre, rings,
+    and the skin of mukaka.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Headmen come, and players of drum and marimba are sent for and arrive.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Coarse mats, fine mats, and a chair are arranged where the lord is to sit.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Mr. Dog sits in the prepared place, and the people begin to divide the victuals.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: When Mr. Dog sees the breast of a fowl, greed seizes him; he stands up, takes
+    the breast, and runs into the bush.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The people say that the lord whom they are installing has run away with the
+    breast of the fowl into the bush.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: After Dog runs away with the fowl breast, the people separate.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Mr. Dog loses the kingship because of his thievery.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Mr. Dog
+  description: Animal figure intended for investiture with kingship; he sits in the
+    prepared place, then takes the breast of a fowl and runs into the bush, losing
+    the kingship.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Headmen
+  description: Group that comes in full for the installation and sends for drum and
+    marimba players.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Players of drum and marimba
+  description: Ceremonial players who are sent for and come to the installation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: People
+  description: Participants who begin to divide the victuals, remark on Dog’s flight
+    with the fowl breast, and then separate.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: intended king or lord being installed
+  assigned_to:
+  - fig:1
+  basis: Mr. Dog is the one others wanted to invest with kingship and is called the
+    lord during the seating and public reaction.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: ceremonial headmen
+  assigned_to:
+  - fig:2
+  basis: The headmen come in full and arrange for musicians during the installation
+    preparations.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ceremonial musicians
+  assigned_to:
+  - fig:3
+  basis: The players of drum and marimba are summoned and arrive for the installation.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: community participants and witnesses
+  assigned_to:
+  - fig:4
+  basis: The people divide the victuals, observe and speak about Dog’s flight, and
+    then separate.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: thief who loses kingship
+  assigned_to:
+  - fig:1
+  basis: Dog takes the breast of a fowl and runs into the bush; the passage states
+    that because of his thievery he lost the kingship.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: royal regalia
+  literal_form: The cap, sceptre, rings, and skin of mukaka gathered as things of
+    royalty.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: installation seat
+  literal_form: Coarse mat, fine mat, and chair set where the lord is to sit.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: breast of a fowl
+  literal_form: The breast of a fowl that Dog takes during the division of victuals.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: bush
+  literal_form: The bush into which Dog runs with the breast of the fowl.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Preparation for Dog’s royal installation
+  summary: Royal items are gathered; headmen and musicians assemble; mats and a chair
+    are arranged; Dog sits as the lord to be installed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Food distribution and theft
+  summary: As the people divide the victuals, Dog sees the breast of a fowl, takes
+    it, and runs into the bush.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Loss of kingship
+  summary: The people separate, and the passage states that Dog loses the kingship
+    because of his thievery.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: royal installation with regalia and ceremonial seating
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage describes a planned investiture with royal objects, headmen,
+    musicians, mats, and a chair for the lord.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage emphasizes a failed installation rather than a completed royal
+    legitimation.
+- id: motif:2
+  label: loss of kingship through theft or greed
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Dog’s greed leads him to steal the fowl breast and run away; the passage
+    explicitly states that because of his thievery he lost the kingship.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy link is broad; the immediate passage gives a moralized animal-tale
+    episode, not a detailed political theory.
+- id: motif:3
+  label: ceremony disrupted by appetite for food
+  taxonomy_refs: []
+  basis: The installation ceremony is interrupted when Dog abandons the proceedings
+    to seize a desirable piece of food.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a plain recurring narrative pattern inferred from the sequence;
+    no named comparative motif is supplied in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7416-7419
+  quote_or_summary: Dog is to be invested with kingship; royal things are gathered,
+    including a cap, sceptre, rings, and mukaka skin; the day of installation has
+    come.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7421-7426
+  quote_or_summary: Headmen come, drum and marimba players are summoned, mats and
+    a chair are prepared for the lord, Dog sits, and the people begin dividing the
+    victuals.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7428-7432
+  quote_or_summary: Dog sees the breast of a fowl, is seized by greed, takes it, runs
+    into the bush, and the people remark that the lord being installed has run away
+    with it; the people separate.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 7434-7435
+  quote_or_summary: "“because of his thieveiy, the kingship he lost it.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are passage-based, with
+    the royal_legitimacy taxonomy applied only broadly. No cross-text comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy symbol refs from the provided symbol list were directly applicable.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l7412-l7437
+  passage_sha256=6d9f7f7aa8e81b8c96e809b27374433b78dfca5d8ef1adcc61a2464372a2e1b7
+

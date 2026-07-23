@@ -1,0 +1,147 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l1780-l1790
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: FIRST  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS. / VOL.  II. /
+    COMMENTARIES  OF  THE  YNCAS.; lines 1780-1790
+  start: '1780'
+  end: '1790'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“these laws, or the greater part of them, have been lost with the government
+    of the Yncas”"
+  summary: The narrator says the work will describe Inca laws, lives, and customs,
+    and will explain how many laws were lost with the Inca government. The passage
+    contrasts the praised former government and past abundance with the present condition
+    of Indians lacking civic habits and necessities.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The narrator states that the work will relate information about lives and
+    customs.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator states that the laws, or most of them, have been lost with the
+    government of the Yncas.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The government of the Yncas is described as excellent and worthy of praise.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Indians are described as now lacking habits of good citizens and necessities
+    of life, although formerly they possessed these blessings.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the Yncas
+  description: The group associated with the former government under which the laws
+    existed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the Indians now
+  description: The people described as lacking civic habits and necessities in the
+    present, in contrast with former times.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: former governing group
+  assigned_to:
+  - fig:1
+  basis: The passage links the lost laws to the government of the Yncas and praises
+    that government.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: present deprived population
+  assigned_to:
+  - fig:2
+  basis: The passage says the Indians now lack civic habits and necessities that were
+    formerly possessed.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Loss of Inca laws and former abundance
+  summary: The narrator frames a historical change in which Inca laws and government
+    have been lost, while the present condition of the Indians is contrasted with
+    an earlier possession of blessings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Loss of former ordered prosperity
+  taxonomy_refs: []
+  basis: The passage presents a contrast between a praised former Inca government
+    with laws and blessings and a present condition marked by loss and deprivation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a historical and moralizing pattern in the passage rather than
+    a fully developed mythic episode; no listed taxonomy reference is directly supported.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1780-1783
+  quote_or_summary: The narrator says the work will speak about the lives and customs
+    by which laws may be understood.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 1783-1787
+  quote_or_summary: "“these laws, or the greater part of them, have been lost with
+    the government of the Yncas, which was so excellent and so worthy of praise”"
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 1787-1790
+  quote_or_summary: The passage says Indians now lack habits of good citizens and
+    necessities of life, though in former times they possessed these blessings.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif identification is tentative
+    because the passage is programmatic historical commentary rather than a narrative
+    myth episode. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available symbol taxonomy item is literally present in the passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l1780-l1790
+  passage_sha256=79aaa4803059bfbdac56357e4050d7e1086490ec8ee20b430323bbacb27ac69e
+

@@ -1,0 +1,204 @@
+---
+record_id: batch.motif.jain-jaina-sutras-sbe22-jacobi-archive-l6561-l6581
+source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+passage_locator:
+  label: EIGHTH LESSON. / BOOK II, LECTURE I, LESSON 8. 1OQ / NINTH LESSON. / BOOK
+    II, LECTURE I, LESSON IO.; lines 6561-6581
+  start: '6561'
+  end: '6581'
+  translation: 'Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred
+    Books of the East, Vol. 22)'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage instructs ascetics on sharing excess food or drink with nearby
+    fellow-ascetics who follow the same rules, and on when a monk or nun on a begging-tour
+    may accept food placed before a door for another person.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Nearby fellow-ascetics who follow the same rules of conduct are described
+    as agreeable and not to be shunned.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An ascetic with more food or drink than needed is instructed to go to the
+    fellow-ascetics and offer it to them after consideration.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fellow-ascetics may state that they will consume as much as they require,
+    or that they require and will consume the whole amount.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A monk or nun on a begging-tour should not accept food placed before a door
+    for someone else unless the householder permits it or gives it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage concerns food and drink as items to be eaten, drunk, accepted,
+    refused, or transferred according to rules.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Monk or nun on a begging-tour
+  description: A monk or nun who is begging for food and must decide whether food
+    placed before a door may be accepted.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Fellow-ascetics
+  description: Ascetics living nearby, following the same rules of conduct, who may
+    receive excess food or drink.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Householder
+  description: The person whose permission or act of giving determines whether food
+    placed before the door may be accepted.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: begging ascetic subject to food-acceptance rules
+  assigned_to:
+  - fig:1
+  basis: The monk or nun is described as being on a begging-tour and instructed not
+    to accept certain food unless permitted or given.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: nearby rule-observing ascetics who may receive excess food
+  assigned_to:
+  - fig:2
+  basis: They live nearby, follow the same conduct rules, and may eat or drink excess
+    food offered by another ascetic.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: permission-giving householder
+  assigned_to:
+  - fig:3
+  basis: The householder's permission or act of giving is required for accepting food
+    placed before the door for another.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: food and drink
+  literal_form: food, drink, and related alms items
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: door
+  literal_form: food placed before the door
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Offering excess food or drink to fellow-ascetics
+  summary: An ascetic who has too much food or drink is told to go to nearby fellow-ascetics
+    who follow the same rules and invite them to eat or drink it; they may accept
+    only what they require or the whole amount.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Rule for accepting food placed before a door
+  summary: A monk or nun on a begging-tour is told not to accept food placed before
+    a door for someone else unless the householder permits or gives it; with such
+    permission, acceptance is allowed.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6561-6565
+  quote_or_summary: '"fellow-ascetics living in the neighbourhood, who follow the
+    same rules of conduct, are agreeable and not to be shunned"'
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 6565-6568
+  quote_or_summary: '"this food, &c., is too much for me, eat it or drink it"'
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 6568-6572
+  quote_or_summary: The other ascetics may say they will eat or drink as much as required,
+    or that they require and will consume the whole amount.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source text summarized for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 6574-6580
+  quote_or_summary: A monk or nun on a begging-tour should not accept food placed
+    before a door for another unless the householder permits or gives it; otherwise
+    acceptance may be allowed.
+  source_text_path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  rights_note: Public domain source text summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is prescriptive monastic conduct rather than narrative mythology;
+    literal extraction is clear, but no supported comparative motif claim is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy motif family was assigned because the passage itself does not support a mythic or comparative motif identification beyond rules for ascetic conduct.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:jain-jaina-sutras-sbe22-jacobi-archive__l6561-l6581
+  passage_sha256=a662cbadb099c8e7c1c74b644e6a8fac3f425deb7fa09eaf12201d41660ec8b7
+

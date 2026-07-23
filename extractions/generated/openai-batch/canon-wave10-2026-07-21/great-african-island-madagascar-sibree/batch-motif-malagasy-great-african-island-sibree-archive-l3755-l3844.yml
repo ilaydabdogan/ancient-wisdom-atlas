@@ -1,0 +1,366 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l3755-l3844
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: FORMER  CONTINENT.  67 / CHAPTEE  IV. / NOTES   ON  THE  VEGETABLE   PEODUCTIOXS   OF  MADAGASCAR.
+    / PALMS  AND  BAMBOOS.  73; lines 3755-3844
+  start: '3755'
+  end: '3844'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: the celebrated tangena, the tree producing a poisonous nut which was long
+    used in Madagascar as an ordeal
+  summary: The passage surveys trees and palms of Madagascar, including the tangena
+    tree and its poisonous nut used in a crime-detection ordeal, the jilao tree, sago
+    and fan palms, anhona and bamboo-palms, the cocoa-nut, and the rofia palm. It
+    notes practical uses of some plants and a reported linguistic parallel between
+    the Malagasy cocoa-nut name and Polynesian island terms.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Barringtonia, certain Hibiscus species, and Aleurites or candle-nut are said
+    to occur on the seaboard; Hibiscus bark is used to make twine and cordage.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The tangena is found in woods bordering the sea and produces a poisonous nut
+    formerly used in Madagascar as an ordeal for detecting certain crimes.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The tangena is described as about the size of a cherry-tree, with glossy green
+    leaves somewhat resembling horse-chestnut leaves.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The tangena tree was valued because power was believed to be inherent in its
+    fruit, and a kind of divine influence was believed to be embodied in that fruit.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The jilao or beef-wood tree occurs along the eastern coast, has fine wire-like
+    leaves, is indigenous to Madagascar, and is also found in Malayo-Polynesian and
+    Australian regions.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The sago-palm is common on maritime plains, but sago is not used for food
+    by the people.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Fan-palms are plentiful on both sides of the island, especially the warmer
+    western plains, and are described in groves along the Betsiboka river.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Large fan-palm leaves are used for roofing on the north-west coast and make
+    an impervious thatch.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The anhona palm grows very tall beside the traveller's tree; its tough bark
+    is used for building houses and making native boats on the south-east coast.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Bamboo-palms are found in the upper forests, with stems about the size of
+    fine bamboo.
+  category: attribute
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The cocoa-nut is found sparingly on both eastern and western coasts; the author
+    doubts an accidental introduction theory and reports that the Malagasy name as
+    printed is identical with names used by many Polynesian islanders.
+  category: relationship
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The rofia palm is introduced as a beautiful, abundant, useful palm not found
+    directly on the coast but encountered after ascending from the plains.
+  category: object
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: tangena tree
+  description: A tree found in sea-bordering woods, producing a poisonous nut used
+    in an ordeal and associated with believed power in its fruit.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: fan-palm
+  description: A palm with tall trunks and large fan-like leaves, seen in groves along
+    the Betsiboka and used for roofing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: anhona palm
+  description: A tall palm growing with the traveller's tree; its bark is described
+    as very tough and used for houses and native boats.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+- id: fig:4
+  name_or_label: cocoa-nut palm
+  description: A palm found sparingly on the eastern and western coasts of Madagascar,
+    with a reported native name parallel to Polynesian island usage.
+  role_refs: []
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: poison-ordeal source
+  assigned_to:
+  - fig:1
+  basis: The tangena produces a poisonous nut formerly used as an ordeal for detecting
+    certain crimes.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: fruit believed to embody divine influence
+  assigned_to:
+  - fig:1
+  basis: The passage says the fruit was believed to contain inherent power and a kind
+    of divine influence.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: roofing material source
+  assigned_to:
+  - fig:2
+  basis: The large fan-palm leaves are used for roofing and make an impervious thatch.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: house and boat material source
+  assigned_to:
+  - fig:3
+  basis: The bark of the anhona palm is used in building houses and in making native
+    boats.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: tangena tree
+  literal_form: tree producing a poisonous nut
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: poisonous tangena nut or fruit
+  literal_form: poisonous nut; fruit believed to contain power and divine influence
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Tangena poison ordeal reference
+  summary: In woods bordering the sea, the tangena tree is identified as producing
+    a poisonous nut formerly used in Madagascar as an ordeal for detecting crimes;
+    its fruit is said to have been believed to embody divine influence.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Fan-palms along the Betsiboka
+  summary: The author describes passing groves of fan-palms while sailing down the
+    Betsiboka river, then notes that their large leaves are used as roofing material.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:3
+  label: Useful palms and coastal distribution
+  summary: The passage describes tall anhona palms with bark used for houses and boats,
+    bamboo-palms in upper forests, and sparse coastal cocoa-nuts with a reported Polynesian
+    name parallel.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: poison ordeal as divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: A poisonous nut is said to have been used as an ordeal for detecting crimes,
+    and the fruit is described as believed to embody divine influence.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage mentions the ordeal and belief in divine influence but does
+    not describe the ritual procedure, verdict mechanism, deity, or a narrative example.
+comparison_claims:
+- id: claim:1
+  claim: The tangena passage can be cautiously compared at the functional level to
+    a divine-judgment ordeal pattern, because a poisonous plant product is used for
+    crime detection and its fruit is believed to embody divine influence.
+  claim_level: same_function
+  target: divine_judgment motif family / poison ordeal pattern
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is ethnobotanical and anticipates fuller discussion elsewhere;
+    it gives no detailed procedure or mythic narrative.
+- id: claim:2
+  claim: The passage reports a linguistic similarity between the Malagasy cocoa-nut
+    name and the name used by many Polynesian islanders.
+  claim_level: linguistic_similarity
+  target: Polynesian islanders' cocoa-nut term
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is only a lexical observation in the passage; it does not by itself
+    establish a mythic motif, migration route, or historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3755-3760
+  quote_or_summary: Barringtonia, Hibiscus used for twine and cordage, and Aleurites
+    or candle-nut are listed on the seaboard.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: 3761-3767
+  quote_or_summary: "“the celebrated tangena, the tree producing a poisonous nut which
+    was long used in Madagascar as an ordeal for the detection of certain crimes.”"
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 3767-3774
+  quote_or_summary: The tangena is described as cherry-tree sized, with glossy green
+    leaves resembling those of a horse-chestnut.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: 3774-3781
+  quote_or_summary: "“the tree was valued because of the power supposed to be inherent
+    in the fruit, in which a kind of divine influence was believed to be embodied.”"
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:5
+  type: summary
+  locator: 3782-3792
+  quote_or_summary: The jilao or beef-wood tree occurs along the eastern coast, has
+    wire-like leaves, is indigenous to Madagascar, and also occurs in Malayo-Polynesian
+    and Australian regions.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: 3793-3797
+  quote_or_summary: The sago-palm is common on maritime plains, but sago is not used
+    for food by the people.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: 3797-3813
+  quote_or_summary: Fan-palms are found on both eastern and western sides, are especially
+    plentiful in western plains, and appear in groves along the Betsiboka river, with
+    trunks rising from the water's edge.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: quote
+  locator: 3814-3818
+  quote_or_summary: "“These large leaves are used for roofing on the north-west coast,
+    and make a very impervious thatch.”"
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:9
+  type: summary
+  locator: 3819-3832
+  quote_or_summary: The anhona palm grows with the traveller's tree to great heights;
+    its tough bark is used in houses and native boats along the south-east coast.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:10
+  type: summary
+  locator: 3832-3835
+  quote_or_summary: Bamboo-palms are numerous in upper forests, with stems about one
+    and a half inches in diameter.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:11
+  type: summary
+  locator: 3836-3843
+  quote_or_summary: The cocoa-nut is found sparingly on both coasts; the author doubts
+    recent accidental introduction and states that the native name printed as “voanw”
+    is identical with names used by many Polynesian islanders.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source metadata; summarized with short term quoted.
+- id: ev:12
+  type: summary
+  locator: '3844'
+  quote_or_summary: The rofia palm is introduced as a graceful, abundant, useful palm
+    not found on the coast but encountered after ascending from the plains.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The botanical and ethnographic content is clear. Motif extraction is limited
+    because only the tangena poison ordeal carries explicit religious or divinatory
+    significance in this passage; the cocoa-nut comparison is lexical rather than
+    mythic.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No external sources or taxonomy IDs beyond the supplied metadata were used. The passage itself says fuller tangena ordeal customs are described elsewhere, so ritual details are not inferred here.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l3755-l3844
+  passage_sha256=abe1f20a015955c509a2d07613862a76d95c104929e027dc0030f09898342917
+

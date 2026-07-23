@@ -1,0 +1,437 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l9330-l9416
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: OA  TH  OF  ALLEGIANCE.  185 / COURT  ETIQUETTE.  187 / ROYAL  PROPERTY.  189
+    / A  ROYAL  SALUTE.  191; lines 9330-9416
+  start: '9330'
+  end: '9416'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a Malagasy royal public ceremony: officials and
+    representatives assemble, troops and the crowd salute the Queen toward the palace,
+    the Prime Minister delivers the royal message, the people give shouted assent,
+    representatives pledge loyalty and present a silver dollar called hasina, and
+    some orators perform vigorous martial gestures against an imagined enemy of the
+    Queen.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: On important occasions the Prime Minister brings the royal message, accompanied
+    by officers in European-style uniforms.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The assembly includes inferior officers, judges, head-men of Imerina divisions,
+    and people from distant tribes; soldiers keep an upper space and an open area
+    clear.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Troops present arms toward the palace and salute the Queen while the multitude
+    uncovers, turns the same way, repeats a blessing formula, and hears cannon and
+    the national anthem.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After the Queen is saluted, the Prime Minister and then lower-ranking officers
+    receive salutes in descending order of rank.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Prime Minister advances, draws his sword, and delivers a royal speech
+    that recites the Queen’s ancestry and predecessors before announcing laws and
+    regulations.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: At the end of important paragraphs, a question asking for agreement is put
+    aloud and the crowd answers with a united shout of assent.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Representatives of classes and groups reply in strict precedence, salute the
+    Queen, express assent and loyalty, and present the hasina or silver dollar.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Some speakers remove or adjust the lamba, take up spear and shield, leap and
+    brandish weapons against an imagined enemy of the Queen, while excited auditors
+    wave weapons and soldiers toss rifles; an Armstrong cannon is also lifted and
+    carried about.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Prime Minister
+  description: Brings the royal message on important occasions, gives commands for
+    salutes, is saluted, advances, draws his sword, delivers the royal message, and
+    resumes his seat.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Queen
+  description: The troops and multitude salute her toward the palace; representatives
+    salute her, pledge loyalty, and imagine an enemy as her enemy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Troops and soldiers
+  description: Appear in white uniforms, keep ceremonial space clear, present arms,
+    salute the Queen, and later participate in weapon displays.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:4
+  name_or_label: Ranked officers
+  description: Officers accompany the Prime Minister; inferior officers wait to receive
+    them; lower-ranking officers give commands for successive salutes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Representatives of classes and groups
+  description: Representatives include nobles, tribal heads, army officers, native-born
+    Arabs, and Europeans; they reply to the royal communication according to precedence.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Multitude, people, and auditors
+  description: The seated people uncover and turn toward the palace, answer with shouts
+    of assent, and become excited during vigorous loyal oratory.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: royal messenger and principal orator
+  assigned_to:
+  - fig:1
+  basis: The Prime Minister brings and delivers the royal message and is described
+    as an animated public speaker.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: sovereign recipient of salutes and loyalty
+  assigned_to:
+  - fig:2
+  basis: The Queen is saluted by troops and people; representatives salute her and
+    pledge fidelity, and martial gestures are directed against her imagined enemy.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:3
+  label: military ceremonial performers
+  assigned_to:
+  - fig:3
+  basis: Troops keep the space clear, present arms, salute, and participate in weapon
+    displays.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: role:4
+  label: ranked officials in precedence order
+  assigned_to:
+  - fig:1
+  - fig:4
+  - fig:5
+  basis: Salutes and replies proceed through ranks and strictly followed precedence.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:5
+  label: assenting loyal assembly
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The people and representatives shout assent and state fidelity and loyalty.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: martial loyalty performers
+  assigned_to:
+  - fig:5
+  basis: Some replying speakers take up weapons and act against an imagined enemy
+    of the Queen.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: palaceward salute
+  literal_form: presenting arms and turning toward the palace in salute to the Queen
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: drawn sword of proclamation
+  literal_form: Prime Minister draws his sword before delivering the royal message
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: hasina silver dollar
+  literal_form: the hasina or silver dollar presented while pledging fidelity and
+    loyalty
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: lamba removal and girding
+  literal_form: speaker throws off or girds up the lamba before martial gesticulation
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: weapons of loyal zeal
+  literal_form: spear, shield, swords, spears, Snider rifles, and an Armstrong cannon
+    used or displayed in excitement
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Ceremonial assembly and royal salute
+  summary: Officials, judges, head-men, troops, and people assemble; soldiers clear
+    space; the Prime Minister commands the troops; the palace and Queen are saluted
+    with arms, uncovered heads, blessing words, cannon, and anthem.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Royal message and collective assent
+  summary: The Prime Minister draws his sword, delivers the royal speech, recites
+    royal ancestry and predecessors, announces laws, and prompts repeated public assent
+    after important paragraphs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Replies, loyalty assurances, and hasina
+  summary: Representatives of ranked classes and groups answer the royal communication,
+    salute the Queen, offer assent and fidelity, and present the hasina or silver
+    dollar.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Martial loyal oratory
+  summary: An orator’s energetic loyal speech can turn into weapon-brandishing against
+    an imagined enemy of the Queen, drawing the crowd and soldiers into excited displays
+    with weapons and artillery.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: public royal salute and hierarchy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The ceremony salutes the Queen toward the palace, then honors the Prime Minister
+    and lower ranks in sequence, visibly ordering authority around the sovereign.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is ethnographic description of court ceremony, not a mythic
+    narrative.
+- id: motif:2
+  label: ancestral framing of royal law
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The royal speech recites the Queen’s ancestry and predecessors before announcing
+    laws and regulations.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The excerpt does not provide the full speech, only the narrator’s summary
+    of its structure.
+- id: motif:3
+  label: collective assent and fidelity pledge
+  taxonomy_refs:
+  - covenant
+  basis: The crowd answers formal questions with shouted assent, and representatives
+    state fidelity and loyalty in response to the royal communication.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly call the exchange a covenant or oath;
+    the label is based on the formalized assent and loyalty pledge.
+- id: motif:4
+  label: loyal tribute gift
+  taxonomy_refs: []
+  basis: Representatives present the hasina or silver dollar while assuring fidelity
+    and loyalty.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage glosses hasina as a silver dollar here and does not explain
+    wider ritual or sacred meanings.
+- id: motif:5
+  label: martial defense of the sovereign against an imagined enemy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Speakers brandish spear and shield against an imaginary enemy of the Queen,
+    and auditors respond with enthusiastic weapon displays.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The enemy is explicitly imaginary in the performance; no actual battle
+    episode is narrated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9330-9341
+  quote_or_summary: On important occasions the Prime Minister brings the royal message,
+    accompanied by officers in European-style uniforms representing many services
+    and nations.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 9342-9355
+  quote_or_summary: Inferior officers, judges, head-men, and people from distant tribes
+    wait at the gathering; soldiers keep an upper space and open area clear.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 9356-9369
+  quote_or_summary: The Prime Minister commands the troops; they present arms toward
+    the palace and salute the Queen; the multitude uncovers, turns the same direction,
+    repeats “Trarantitra,” cannon fire, the anthem plays, and ranked salutes follow.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; brief quotation from public domain passage included.
+- id: ev:4
+  type: summary
+  locator: lines 9370-9380
+  quote_or_summary: The Prime Minister advances, draws his sword, and delivers the
+    royal message, which includes a recital of the Queen’s ancestry and predecessors
+    before announcing laws and regulations.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 9381-9388
+  quote_or_summary: After important paragraphs, the speaker asks whether the people
+    agree; the assembly responds with a united shout of “Izay!”
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; brief quotation from public domain passage included.
+- id: ev:6
+  type: summary
+  locator: lines 9389-9402
+  quote_or_summary: Representatives of nobles, tribes, army officers, native-born
+    Arabs, and Europeans reply by precedence, salute the Queen, express assent, give
+    assurance of fidelity and loyalty, and present the hasina or silver dollar.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 9403-9416
+  quote_or_summary: A speaker may throw off or adjust the lamba, seize spear and shield,
+    leap and brandish weapons against an imaginary enemy of the Queen; auditors wave
+    swords and spears, soldiers toss rifles, and an Armstrong cannon is lifted and
+    carried about.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal ceremony details are clear in the passage. Motif labels are cautious
+    because the material is court ethnography rather than mythic narrative. No external
+    comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were applied only where directly supported by the described royal ritual.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l9330-l9416
+  passage_sha256=1bc7c29e065c6188b572dad99996cda35287fda7b76b977481e1855301cea8de
+

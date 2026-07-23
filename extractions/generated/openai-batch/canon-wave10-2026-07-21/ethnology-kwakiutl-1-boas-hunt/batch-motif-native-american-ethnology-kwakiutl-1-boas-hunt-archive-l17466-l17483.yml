@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.native-american-ethnology-kwakiutl-1-boas-hunt-archive-l17466-l17483
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+passage_locator:
+  label: IV. RECIPES / HUNTING TABOOS / B0AS3 BELIEFS AND CUSTOMS 661 / VI. SOCIAL
+    CUSTOMS; lines 17466-17483
+  start: '17466'
+  end: '17483'
+  translation: Ethnology of the Kwakiutl, Part 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: those who carry the long-handled ladles blacken their faces
+  summary: The passage describes people dispersing after being called, widespread
+    anxiety about an unavoidable feast, the host waking members of his numaym for
+    breakfast, and ritual dressing in which four long-handled-ladle carriers blacken
+    their faces. If the host chief is going to break a copper over his fire, he also
+    blackens his face and his speakers dress like him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A calling continues until the group reaches the end of the houses; then all
+    scatter and return to their houses.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: All the tribes go to bed early because they do not know what the chief is
+    planning and are afraid of a feast involving salal-berry cakes, crabapples, and
+    oil.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Chiefs and common people are afraid of the feast, but there is no way to avoid
+    going because the host's numaym would laugh at them.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The host gets up early in the morning and wakes the members of his numaym
+    to eat breakfast in his house.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After breakfast, people dress themselves; four carriers of long-handled ladles
+    blacken their faces and paint their faces as though angry.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: If the host chief is going to break a copper for a crosspiece over his fire,
+    he also blackens his face, makes an angry face, and his speakers dress the same
+    way.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: all the tribes
+  description: Collective group that goes to bed early before the feast and fears
+    what the chief is planning.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: host chief
+  description: The chief who is host; he wakes members of his numaym, may break a
+    copper over his fire, and may blacken his face.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: chiefs and common people
+  description: Social categories described as afraid of the feast but unable to avoid
+    attending.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: host's numaym
+  description: The host's numaym would laugh at those who did not attend; its members
+    are awakened by the host for breakfast.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: four long-handled-ladle carriers
+  description: Four persons who carry long-handled ladles, blacken their faces, and
+    paint their faces as though angry.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: host chief's speakers
+  description: Speakers who dress the same way as the host chief when he prepares
+    to break a copper.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: host
+  assigned_to:
+  - fig:2
+  basis: The host rises early, wakes members of his numaym, and has people eat breakfast
+    in his house.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: feast attendees under social pressure
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The tribes, chiefs, and common people are afraid of the feast but cannot
+    avoid attending without being laughed at.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: host's supporting numaym
+  assigned_to:
+  - fig:4
+  basis: The host's numaym is named as the group that would laugh at non-attendees,
+    and its members are awakened for breakfast.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: long-handled-ladle carriers
+  assigned_to:
+  - fig:5
+  basis: Four individuals are identified as carrying long-handled ladles and blackening
+    their faces.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: speakers of the host chief
+  assigned_to:
+  - fig:6
+  basis: The speakers dress the same way as the host chief in the copper-breaking
+    context.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: conditional copper breaker
+  assigned_to:
+  - fig:2
+  basis: The passage says the chief who is host does the same if he is going to break
+    a copper over his fire.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: feast foods
+  literal_form: salal-berry cakes, crabapples, and oil
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: long-handled ladles
+  literal_form: long-handled ladles carried by four persons
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: blackened angry face
+  literal_form: blackened face and face painted or held as though angry
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: copper
+  literal_form: a copper to be broken for a crosspiece over the fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: fire
+  literal_form: the host chief's fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: four carriers
+  literal_form: four persons carrying the long-handled ladles
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Calling ends and group disperses
+  summary: After a calling continues to the end of the houses, the people scatter
+    and go home.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Anxious night before the feast
+  summary: The tribes go to bed early, afraid of the chief's plan and the feast foods;
+    chiefs and common people cannot avoid attending because of possible ridicule by
+    the host's numaym.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Host's morning breakfast
+  summary: The host rises early and wakes members of his numaym to come eat breakfast
+    in his house.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Ritual dressing and face blackening
+  summary: After breakfast, the four long-handled-ladle carriers blacken their faces
+    and appear angry; if the host chief will break a copper over his fire, he and
+    his speakers dress similarly.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: unavoidable communal feast under threat of ridicule
+  taxonomy_refs: []
+  basis: The passage states that chiefs and common people fear the feast but cannot
+    avoid going because the host's numaym would laugh at them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a social-custom context but does not explain the wider
+    ceremonial system.
+- id: motif:2
+  label: ritual face blackening before public ceremonial action
+  taxonomy_refs: []
+  basis: Four ladle carriers blacken their faces and paint them as angry; the host
+    chief also blackens his face if he is going to break a copper.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage records the action but does not explicitly interpret its meaning.
+- id: motif:3
+  label: ceremonial breaking of copper over the fire
+  taxonomy_refs: []
+  basis: The host chief may break a copper for a crosspiece over his fire while dressed
+    and blackened in the same style as the ladle carriers.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The copper-breaking action is conditional in this passage and its ritual
+    significance is not explained here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17466-17468
+  quote_or_summary: The calling continues until the end of the houses is reached;
+    then all scatter and return home.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: 17468-17472
+  quote_or_summary: All tribes go to bed early because they do not know the chief's
+    plan and fear the feast of salal-berry cakes, crabapples, and oil, especially
+    when there is much oil.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: 17472-17474
+  quote_or_summary: Chiefs and common people are afraid of the feast but cannot avoid
+    attending because the host's numaym would laugh at them.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: 17474-17476
+  quote_or_summary: The host rises early and wakes the members of his numaym to eat
+    breakfast in his house.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: quote
+  locator: 17476-17479
+  quote_or_summary: '"those who carry the long-handled ladles blacken their faces.
+    There are four of these"'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: 17479-17483
+  quote_or_summary: If the host chief is going to break a copper for a crosspiece
+    over his fire, he blackens his face, puts on an angry face, and his speakers dress
+    the same way.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is fragmentary at the beginning and some pronouns are ambiguous.
+    Motif candidates are limited to directly described social and ceremonial patterns;
+    no external comparisons are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-ethnology-kwakiutl-1-boas-hunt-archive__l17466-l17483
+  passage_sha256=e8c98ec2fa4d33c125153d25f585bef194fa0a8b0a07002aa75370edfb0839dd
+

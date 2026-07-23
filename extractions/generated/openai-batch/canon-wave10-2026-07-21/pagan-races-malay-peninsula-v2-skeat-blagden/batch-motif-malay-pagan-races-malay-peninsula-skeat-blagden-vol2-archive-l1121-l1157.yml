@@ -1,0 +1,333 @@
+---
+record_id: batch.motif.malay-pagan-races-malay-peninsula-skeat-blagden-vol2-archive-l1121-l1157
+source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+passage_locator:
+  label: CHAP.  I  SAVAGE  MALAYS  OF  MALACCA  17 / VOL.  II  C / CHAP.  I  SAVAGE  MALAYS  OF  JO  HO  R  19
+    / BIRTH-CUSTOMS  AND  BELIEFS; lines 1121-1157
+  start: '1121'
+  end: '1157'
+  translation: Pagan Races of the Malay Peninsula, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage reports Jakun birth customs from Begbie and Favre: use of
+    a round wooden support during labour, a husband kindling fire and acting as midwife,
+    post-birth proximity to fire, naming children from the tree under which they were
+    born, lack of ordinary assistance from Pawangs or midwives in another account,
+    and a reported rite in which newborns are washed in a rivulet and passed over
+    a fire with incense or benzoin. Favre adds a broad comparison to child-passing-over-fire
+    practices elsewhere.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In Begbie's account, a Jakun woman in labour was placed face down on a round
+    piece of wood fastened at both ends in a shed, pressing on the abdomen until the
+    child was born.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The husband kindled a fire before the labouring woman, the fire was described
+    as being considered essential service, and the husband performed the office of
+    midwife.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After the child was born, the woman was put close to the fire.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jakun children were said to be named from the tree under which they happened
+    to be brought forth.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Favre recorded that lying-in Jakun women ordinarily received no assistance;
+    Pawangs were not permitted to appear, and midwives were not known among them.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In several tribes, newborn children were reportedly carried to the nearest
+    rivulet, washed, brought back to the house, and passed several times over a fire
+    on which incense or benzoin had been thrown.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Favre added a comparative note that passing children over fire had been widely
+    practised among heathen nations and was still practised in China and other places.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Jakun woman in labour
+  description: A woman giving birth in the Jakun accounts, either placed on a wooden
+    support in Begbie's report or described generally as a lying-in woman in Favre's
+    report.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Husband of the labouring woman
+  description: The husband kindles the fire and performs the office of midwife in
+    Begbie's account.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Jakun child or newborn
+  description: The child born in the accounts; children are named from a tree in one
+    report and washed and passed over fire in another.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Pawangs or physicians
+  description: Specialists whom Favre says were not permitted to appear in lying-in
+    circumstances.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: labouring mother
+  assigned_to:
+  - fig:1
+  basis: The passage describes a Jakun woman in labour and lying-in Jakun women.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: husband acting as midwife
+  assigned_to:
+  - fig:2
+  basis: The husband kindles the fire and performs the office of midwife.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: newborn recipient of birth rites
+  assigned_to:
+  - fig:3
+  basis: The child is born, named in relation to a tree, washed at a rivulet, and
+    passed over fire.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:4
+  label: excluded Pawang or physician
+  assigned_to:
+  - fig:4
+  basis: Favre states Pawangs were not permitted to appear in these circumstances.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire at childbirth
+  literal_form: Fire kindled before the labouring woman; fire near the woman after
+    birth; fire over which a newborn is passed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: birth tree used for naming
+  literal_form: The tree under which a child was brought forth and from which the
+    child was named.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: rivulet washing
+  literal_form: The nearest rivulet where newborn children were washed.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: incense or benzoin on fire
+  literal_form: Incense or benzoin thrown onto the fire before the child is passed
+    over it.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Begbie account of childbirth with wood support and fire
+  summary: A Jakun woman in labour is laid face down on a round wooden support in
+    a shed; the husband kindles a fire before her, acts as midwife, and the mother
+    is placed close to the fire after birth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Naming from the birth tree
+  summary: Children are named from the tree under which they happen to be born.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Favre account of unaided birth and newborn washing and fire-passing
+  summary: Favre reports ordinary absence of assistance from Pawangs or midwives,
+    followed in several tribes by carrying the newborn to a rivulet, washing the child,
+    bringing the child home, kindling a fire with incense or benzoin, and passing
+    the child over the fire several times.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: fire-assisted childbirth and postpartum fire proximity
+  taxonomy_refs:
+  - sacred_birth
+  basis: The husband kindles a fire before the woman in labour, the fire is described
+    as essential service, and the mother is put close to the fire after the birth.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states the practice and its supposed service but does not
+    explain a mythic or theological meaning.
+- id: motif:2
+  label: child named from tree at birthplace
+  taxonomy_refs: []
+  basis: Children are said to receive names from the tree under which they were brought
+    forth.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not state that the tree is sacred or give a mythic explanation.
+- id: motif:3
+  label: newborn washing and repeated passage over fire
+  taxonomy_refs:
+  - sacred_birth
+  basis: Newborns are washed at a rivulet and then passed several times over a fire
+    on which incense or benzoin has been thrown.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The rite is described as a birth custom; any purification or initiation
+    function is not explicitly stated in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself reports a comparison between the Jakun-related practice
+    of passing newborns over fire and broader child-passing-over-fire practices said
+    to occur among heathen nations, including China and other places.
+  claim_level: same_motif
+  target: reported child-passing-over-fire practices in China and other places
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is a broad authorial note with no specific parallel
+    texts, dates, ritual details, or stated shared function.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1129-1137
+  quote_or_summary: Begbie reports that when a Jakun woman was in labour, a round
+    piece of wood was fastened in a shed and the woman was laid face down on it, pressing
+    on the abdomen until the child was born.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1138-1142
+  quote_or_summary: The husband kindled a fire before the woman, this was supposed
+    to be essential service, he acted as midwife, and after birth the woman was placed
+    close to the fire.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1142-1145
+  quote_or_summary: The same writer adds that Jakun children were named from the tree
+    under which they happened to be brought forth.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1147-1150
+  quote_or_summary: Favre records that lying-in Jakun women were ordinarily given
+    no assistance; Pawangs were not permitted to appear, and midwives were not known
+    among them.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1150-1155
+  quote_or_summary: In several tribes, children as soon as born were carried to the
+    nearest rivulet, washed, brought back to the house, and passed several times over
+    a fire on which incense or benzoin had been thrown.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1155-1157
+  quote_or_summary: Favre adds that passing children over fire had been much practised
+    among heathen nations and was still practised in China and other places.
+  source_text_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The customs are clearly described, but symbolic or mythic functions are mostly
+    not explained in the passage. The comparison claim is explicitly present but broad
+    and second-hand.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used; interpretations are kept cautious.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malay-pagan-races-malay-peninsula-skeat-blagden-vol2-archive__l1121-l1157
+  passage_sha256=32b36b11cc2caf88d6db11cfd5188e7da05159ba52e47119e977072c9917d915
+

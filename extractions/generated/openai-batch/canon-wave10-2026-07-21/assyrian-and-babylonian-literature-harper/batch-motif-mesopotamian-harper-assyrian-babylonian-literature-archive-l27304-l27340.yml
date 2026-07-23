@@ -1,0 +1,491 @@
+---
+record_id: batch.motif.mesopotamian-harper-assyrian-babylonian-literature-archive-l27304-l27340
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+passage_locator:
+  label: SOME  BABYLONIAN  LAWS / A.    ANCIENT   BABYLONIAN   LAWS / SOME   BABYLONIAN   LAWS
+    / B.    NEO-BABYLONIAN   LAWS; lines 27304-27340
+  start: '27304'
+  end: '27340'
+  translation: 'Assyrian and Babylonian Literature: Selected Translations'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A short set of Babylonian legal clauses addresses field or pasture compensation,
+    the contested sale of a slave-girl, dowry promises after loss of property, dowry
+    reversion after a daughter's childless death, and a childless widow's rights to
+    dowry or an estate share.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A field owner is to receive a daily amount of sixty KA when a flock is treated
+    as pasture on the field.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When a slave-girl sold for money is taken away by another party with just
+    claims, the seller must return the sale money to the buyer in the exact amount
+    stated by the receipt.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If the slave-girl has borne children in the meantime, the seller must also
+    pay one half shekel for each child.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A man who promised a dowry to his daughter may give a dowry according to his
+    reduced property if he later loses part of his property.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In the reduced-property dowry case, neither the father-in-law nor the son-in-law
+    may bring a lawsuit on that account.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: If a daughter who has received a dowry dies without issue, the dowry returns
+    to her father's house.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A childless woman whose husband held her dowry receives the dowry back in
+    full from the late husband's estate.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: If the husband gave the woman part of his property during his lifetime, she
+    keeps that gift and still receives her dowry in full.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: If the childless woman had no dowry, the probate judge examines the late husband's
+    estate and gives her a proper share according to the estate.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: owner of the field
+  description: The person who receives a daily payment when the field is used as pasture
+    by a flock.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: seller of a slave-girl
+  description: The person who sold the slave-girl for money and must refund the buyer
+    if another party proves just claims to her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: slave-girl
+  description: The sold person who is taken away from her present owner when another
+    party proves just claims to her; she may have borne children in the meantime.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: buyer or present owner
+  description: The person from whom the slave-girl is taken and to whom the seller
+    must return the sale money.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: another party with just claims
+  description: The party who proves just claims to the slave-girl and takes her away
+    from her present owner.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: father or dowry-promising man
+  description: The man who promised or gave a dowry to his daughter and whose household
+    may receive the dowry back if the daughter dies without issue.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: daughter
+  description: The daughter to whom a dowry is promised or given; if she dies without
+    issue, the dowry returns to her father's house.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:8
+  name_or_label: father-in-law
+  description: A party barred from going to law over a dowry reduced according to
+    the father's diminished property.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: son-in-law
+  description: A party barred from going to law over a dowry reduced according to
+    the father's diminished property.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: childless woman or widow
+  description: A woman who remains childless and loses her husband; she may receive
+    her dowry in full, keep a lifetime gift, or receive a proper share if she had
+    no dowry.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:11
+  name_or_label: husband or late husband
+  description: The husband who had charge of the woman's dowry, may have given her
+    property during his lifetime, and whose estate is used after his death.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+- id: fig:12
+  name_or_label: judge of the probate court
+  description: The judge who examines the late husband's estate and assigns a proper
+    share to a widow who had no dowry.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: compensation recipient
+  assigned_to:
+  - fig:1
+  basis: The field owner receives sixty KA for each day of pasture use.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: liable seller
+  assigned_to:
+  - fig:2
+  basis: The seller must return the sale money and, in the child case, pay an additional
+    amount.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: sold person under contested claim
+  assigned_to:
+  - fig:3
+  basis: The slave-girl is sold, claimed by another party, and taken away from the
+    present owner.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: restitution recipient
+  assigned_to:
+  - fig:4
+  basis: The buyer receives back the money that the receipt calls for.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: successful claimant
+  assigned_to:
+  - fig:5
+  basis: Another party proves just claims and takes the slave-girl away.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: dowry giver and natal-house representative
+  assigned_to:
+  - fig:6
+  basis: The father promises or gives the dowry, and the dowry may return to his house.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: dowry recipient daughter
+  assigned_to:
+  - fig:7
+  basis: The daughter receives or is promised a dowry; her childless death determines
+    reversion of the dowry.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:8
+  label: barred litigant over adjusted dowry
+  assigned_to:
+  - fig:8
+  - fig:9
+  basis: The father-in-law and son-in-law are both barred from going to law over the
+    adjusted dowry.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: widow with property claim
+  assigned_to:
+  - fig:10
+  basis: The childless woman receives dowry rights or an estate share after the husband's
+    death.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: deceased husband and estate source
+  assigned_to:
+  - fig:11
+  basis: The late husband's estate is the source for returning the dowry or giving
+    the widow a share.
+  evidence_refs:
+  - ev:5
+- id: role:11
+  label: probate examiner and allocator
+  assigned_to:
+  - fig:12
+  basis: The judge examines the estate and gives the widow a proper share when she
+    had no dowry.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: daily pasture compensation
+  literal_form: sixty KA per day owed to the field owner for flock pasture use
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sale price and receipt
+  literal_form: money for the slave-girl, returned in the exact amount called for
+    by the receipt
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: child payment amount
+  literal_form: one half shekel for each child borne by the slave-girl in the meantime
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: dowry
+  literal_form: property promised or given to a daughter or woman as dowry
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: estate or property condition
+  literal_form: the father's diminished property and the late husband's estate considered
+    for inheritance or support
+  associated_figures:
+  - fig:6
+  - fig:10
+  - fig:11
+  - fig:12
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: pasture compensation clause
+  summary: A field owner receives a fixed daily compensation when a flock uses the
+    field as pasture.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: contested sale of a slave-girl
+  summary: A slave-girl sold for money is taken by a party with just claims; the seller
+    refunds the buyer and pays an additional child-based amount if applicable.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: dowry promise after loss of property
+  summary: A father who loses property after promising a dowry may adjust the dowry
+    to his current means, and specified in-laws may not sue about it.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: dowry reversion after childless death
+  summary: A daughter who dies without issue causes the dowry to revert to her father's
+    house.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: widow's dowry and estate share
+  summary: A childless widow receives her dowry from the late husband's estate, keeps
+    a lifetime gift from him, or receives a proper estate share if she had no dowry.
+  figure_refs:
+  - fig:10
+  - fig:11
+  - fig:12
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: daily compensation for pasture use
+  taxonomy_refs: []
+  basis: The clause requires payment of sixty KA per day to the field owner for flock
+    pasture use.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The clause is fragmentary within the supplied passage and is a legal rule
+    rather than a mythological narrative.
+- id: motif:2
+  label: contested transfer resolved by restitution
+  taxonomy_refs: []
+  basis: A sale is undone after a third party proves a claim; the seller refunds the
+    buyer according to the receipt and pays extra if children have been born.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a legal-social pattern; no mythological taxonomy reference is
+    directly supported by the passage.
+- id: motif:3
+  label: dowry adjusted to diminished household property
+  taxonomy_refs: []
+  basis: A promised dowry may be reduced in accordance with the father's current property
+    after loss, without litigation by specified in-laws.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a legal provision about property and marriage arrangements, not
+    a narrative motif.
+- id: motif:4
+  label: dowry reversion to natal house after childless death
+  taxonomy_refs: []
+  basis: When the dowried daughter dies without issue, the dowry returns to her father's
+    house.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The pattern is legal and familial; the passage does not frame it as sacred
+    or mythic.
+- id: motif:5
+  label: widow's protected property claim after husband's death
+  taxonomy_refs: []
+  basis: A childless widow receives her dowry in full, keeps any lifetime gift from
+    her husband, or receives a proper estate share if she had no dowry.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is an inheritance and probate pattern; no comparative mythological
+    claim is made.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 27308-27309
+  quote_or_summary: A remaining clause states that the owner of a field receives sixty
+    KA for each day a flock uses it as pasture.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 27313-27318
+  quote_or_summary: If a man sells a slave-girl and another party proves just claims
+    and takes her away, the seller returns the exact purchase money to the buyer and
+    pays one half shekel per child if she has borne children.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 27320-27325
+  quote_or_summary: If a man promised his daughter a dowry and later lost part of
+    his property, he may give the dowry according to his current property; neither
+    father-in-law nor son-in-law may sue about it.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 27327-27329
+  quote_or_summary: If a dowried daughter dies without issue, the dowry reverts to
+    the house of her father.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 27331-27339
+  quote_or_summary: A childless widow whose husband held her dowry receives it back
+    in full from his estate, keeps any lifetime gift from him, and, if she had no
+    dowry, receives a proper share assigned by the probate judge after examination
+    of the estate.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a legal text with clear conditional rules. Candidate motifs
+    are legal or social patterns only; no available mythological taxonomy references
+    or comparison claims are directly supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy symbol refs from the supplied list apply to this passage. No comparison claims were added because the passage itself does not support comparison to another motif family, text, pattern, or tradition.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mesopotamian-harper-assyrian-babylonian-literature-archive__l27304-l27340
+  passage_sha256=f1b48487ea4cc8e413679babdc477d138d63c55b3b24961c1698dd5facc143cb
+

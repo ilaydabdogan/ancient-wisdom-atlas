@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.mongol-sagas-from-the-far-east-busk-gutenberg-l4044-l4077
+source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+passage_locator:
+  label: TALE XII. / TALE XIII. / THE FORTUNES OF SHRIKANTHA. / TALE XIV.; lines 4044-4077
+  start: '4044'
+  end: '4077'
+  translation: Sagas from the Far East
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: "“Spare the leafy mango-tree, and I will come down to thee.”"
+  summary: The Khan resumes his journey to complete his task, reaches the mango-tree
+    in a cool grove, and threatens it with his axe. The Siddhî-kür offers to come
+    down if the tree is spared, is bound on the Khan’s back, and then repeatedly tries
+    to make the Khan speak during the journey. The Khan keeps silent but finally nods
+    backward as consent for the Siddhî-kür to tell a tale.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Khan sets out again on his journey, determined to control his speech and
+    complete his task.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Khan arrives at a cool grove at the foot of a mango-tree.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Khan raises his axe named “White Moon” as though he would cut down the
+    mango-tree.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Siddhî-kür asks the Khan to spare the leafy mango-tree and says he will
+    come down.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Khan puts away the axe, binds the Siddhî-kür on his back, and carries
+    him toward Nâgârg'una.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: During the tiring journey, the Siddhî-kür tries to make the Khan speak by
+    asking him to tell a tale.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Khan presses his lips together and does not answer.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Siddhî-kür asks whether he should tell a tale and requests a backward
+    nod as a sign of consent.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Khan nods his head backward, and the Siddhî-kür begins to tell the tale.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the Khan / Well-and-wise-walking Khan
+  description: The traveler who resumes the task, reaches the mango-tree, captures
+    the Siddhî-kür, and remains silent until giving a nod of consent.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Siddhî-kür
+  description: The being associated with the mango-tree who comes down when the tree
+    is spared, is bound to the Khan’s back, tempts him to speak, and then begins a
+    tale.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Nâgârg'una
+  description: The Khan’s master and the intended recipient of the Siddhî-kür.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: task-bound traveler
+  assigned_to:
+  - fig:1
+  basis: The Khan sets out again determined to fulfill his task.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: silent respondent
+  assigned_to:
+  - fig:1
+  basis: The Khan refuses to answer aloud while being prompted to speak.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: tree-associated supernatural captive
+  assigned_to:
+  - fig:2
+  basis: The Siddhî-kür offers to come down if the mango-tree is spared and is then
+    bound on the Khan’s back.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: tempter and storyteller
+  assigned_to:
+  - fig:2
+  basis: The Siddhî-kür tries to make the Khan speak and then begins to tell a tale
+    after receiving a nod.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:5
+  label: master and destination figure
+  assigned_to:
+  - fig:3
+  basis: Nâgârg'una is named as the Khan’s master and the one to whom the Siddhî-kür
+    is to be carried.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: mango-tree
+  literal_form: leafy mango-tree in the cool grove
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: axe White Moon
+  literal_form: axe named “White Moon” raised as if to fell the tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: backward nod
+  literal_form: nodding the head backward as a sign of consent
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Return to the mango-tree
+  summary: The Khan resumes his journey, reaches the cool grove and mango-tree, and
+    raises his axe as if to cut the tree down.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Siddhî-kür comes down and is bound
+  summary: The Siddhî-kür asks the Khan to spare the mango-tree, then the Khan puts
+    away the axe and binds the Siddhî-kür on his back to carry him to Nâgârg'una.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Silence tested on the road
+  summary: As the journey grows wearying, the Siddhî-kür repeatedly attempts to elicit
+    speech from the Khan; the Khan remains silent but nods backward to allow the Siddhî-kür
+    to tell a tale.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Repeated journey to complete an unfinished task
+  taxonomy_refs:
+  - departure
+  basis: The Khan sets out on the journey once again, explicitly determined to fulfill
+    his task.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only the resumption of the journey, not the full task
+    cycle.
+- id: motif:2
+  label: Threat to a tree compels a hidden being to descend
+  taxonomy_refs: []
+  basis: The Khan raises an axe toward the mango-tree, after which the Siddhî-kür
+    asks that the tree be spared and says he will come down.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not explicitly state where the Siddhî-kür was located
+    before speaking, only that he will come down.
+- id: motif:3
+  label: Speech restraint tested by a tempting companion
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Siddhî-kür repeatedly tries to make the Khan speak, while the Khan keeps
+    his lips pressed together and does not answer.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The broader reason for the speech restraint is only summarized here as
+    the Khan’s determination to command his utterance.
+- id: motif:4
+  label: Supernatural captive initiates an embedded tale
+  taxonomy_refs: []
+  basis: After being bound and carried, the Siddhî-kür obtains nonverbal consent and
+    begins to tell a tale.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The contents of the embedded tale fall outside this passage.
+- id: motif:5
+  label: Quest to deliver a captured supernatural being to a master
+  taxonomy_refs:
+  - mystical_quest
+  basis: The Khan binds the Siddhî-kür on his back in order to carry him to Nâgârg'una.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not provide the larger background of the task or its
+    ritual significance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4046-4051
+  quote_or_summary: The Khan resumes his journey, determined to control his speech
+    and finish his task; he reaches the cool grove and mango-tree and raises the axe
+    “White Moon” as if to fell it.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; short summary/excerpt use allowed.
+- id: ev:2
+  type: quote
+  locator: lines 4053-4054
+  quote_or_summary: "“Spare the leafy mango-tree, and I will come down to thee.”"
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; short quotation use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 4056-4057
+  quote_or_summary: The Khan puts up his axe, binds the Siddhî-kür on his back, and
+    carries him off to Nâgârg'una.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; short summary/excerpt use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 4059-4062
+  quote_or_summary: Because the day is long and oppressive, the weary Siddhî-kür begins
+    tempting the Khan to speak by asking him to lighten the journey with a tale.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; short summary/excerpt use allowed.
+- id: ev:5
+  type: summary
+  locator: lines 4064-4065
+  quote_or_summary: Although weary, the Khan presses his lips together and gives no
+    answer.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; short summary/excerpt use allowed.
+- id: ev:6
+  type: summary
+  locator: lines 4067-4073
+  quote_or_summary: The Siddhî-kür asks whether he should tell a tale instead and
+    requests a backward nod from the Khan as a sign of consent.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; short summary/excerpt use allowed.
+- id: ev:7
+  type: summary
+  locator: lines 4075-4076
+  quote_or_summary: The Well-and-wise-walking Khan nods backward, and the Siddhî-kür
+    proceeds to tell the tale.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  rights_note: Public domain source; short summary/excerpt use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward within the supplied passage. Motif
+    taxonomy assignments are cautious because the passage is a short frame episode
+    and lacks the wider tale context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a cross-text or historical comparison beyond candidate motif identification.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:mongol-sagas-from-the-far-east-busk-gutenberg__l4044-l4077
+  passage_sha256=73e4db99b93af81cfe6fe7f0e67d71a18c1d5d330576ecf9b209cc0ac3b38857
+

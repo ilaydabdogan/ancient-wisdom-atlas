@@ -1,0 +1,358 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l13981-l14001
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE  ORIGIN  OF  MEDICINE  CEREMONIES  OR  POWER. / THE  LIGHTNING  S  MEDICINE  CEREMONY.  271
+    / THE  LIGHTNING  S  MEDICINE  CEREMONY.  27S / THE  LIGHTNING  S  MEDICINE  CEREMONY.  279;
+    lines 13981-14001
+  start: '13981'
+  end: '14001'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: A poor elderly couple living east of the village in a grass-lodge find
+    a baby boy after a bird falls into grass gathered by the woman. They care for
+    him despite having no food, lay him by the fire, and he grows quickly. The boy
+    asks for bows and arrows, then for a spider-web ring made from the woman's robe,
+    which is rolled for him as a shooting target.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A poor man and woman live east of the village and, lacking a tipi, make a
+    grass-lodge.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: While the woman gathers grass, a bird of some kind flies downward and falls
+    into the grass.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The woman looks into the grass and finds a baby boy, then tells her husband
+    she has a baby grandchild.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The couple wrap the baby in old skins, have nothing to feed him, and lay him
+    by the fire.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The child is larger the next morning and grows taller over the following days
+    until he can run around.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The boy asks the old man for a bow and four arrows, later asks for larger
+    ones, and goes to the timber to try to kill game.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The boy asks the old woman to make him a spider-web ring; she cuts part of
+    her robe to make it, and he hangs it outside the grass-lodge.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The next morning the boy calls for his grandmother to roll the ring; she rolls
+    it inside the lodge, and he shoots at it.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: poor man / old man / grandfather
+  description: A poor man living east of the village with the woman; he makes bows
+    and arrows for the boy when asked.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: poor woman / old woman / grandmother
+  description: A poor woman living with the man; she finds the baby boy in the grass,
+    helps wrap him, makes the spider-web ring, and rolls it for him.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: bird of some kind
+  description: A bird that flies downward and falls into the bunch of grass immediately
+    before the baby boy is found there.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: baby boy / boy / grandchild
+  description: A baby boy found in the grass, cared for by the old couple, growing
+    quickly and later requesting weapons and a spider-web ring.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: poor grass-lodge dwellers and caretakers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: They live poorly without a tipi, make a grass-lodge, and care for the found
+    child.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: finder and ring-maker
+  assigned_to:
+  - fig:2
+  basis: The woman finds the baby in the grass and later makes and rolls the spider-web
+    ring.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:3
+  label: maker of bows and arrows
+  assigned_to:
+  - fig:1
+  basis: The old man makes the boy a bow and arrows, then larger ones.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: found rapidly growing child
+  assigned_to:
+  - fig:4
+  basis: The child is found in the grass and grows larger and taller over a few days.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: bird associated with the child's discovery
+  assigned_to:
+  - fig:3
+  basis: The bird falls into the grass just before the woman sees the baby boy there.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: grass-lodge
+  literal_form: Grass-lodge made because the couple have no tipi.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: bird descent into grass
+  literal_form: A bird flying downward and falling into a bunch of grass.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fire
+  literal_form: The fire beside which the baby is laid.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: bow and arrows
+  literal_form: A bow and four arrows, followed by a larger bow and larger arrows.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: spider-web ring
+  literal_form: A ring made from a piece of the old woman's robe, hung outside the
+    grass-lodge and rolled as a target.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Poor couple in a grass-lodge
+  summary: A poor man and woman live east of the village and make a grass-lodge because
+    they have no tipi.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bird falls into grass and child is found
+  summary: While gathering grass, the woman sees a bird fall into the grass and then
+    finds a baby boy there.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Care of the growing child
+  summary: The old couple wrap the baby in skins, lay him by the fire, and the child
+    grows quickly over the next days.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Bow-and-arrow requests
+  summary: The boy asks the old man for a small bow and four arrows, then larger ones,
+    and attempts to hunt in the timber.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Spider-web ring target
+  summary: The boy asks for a spider-web ring, has it made from the woman's robe,
+    and asks her to roll it so he can shoot at it.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Extraordinary found child associated with bird descent
+  taxonomy_refs:
+  - miraculous_child
+  basis: The baby boy appears in the grass immediately after a bird falls into it,
+    is adopted as a grandchild, and grows unusually quickly.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly state that the bird transforms into the
+    baby or identify the child's origin.
+- id: motif:2
+  label: Child receives weapons and practices with a target
+  taxonomy_refs:
+  - initiation
+  basis: The rapidly growing boy asks for bows and arrows, tries to hunt, and then
+    has a ring rolled so he can shoot at it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The excerpt presents play, hunting practice, and target shooting, but
+    does not explicitly call this an initiation or ceremony within the quoted lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13981-13983
+  quote_or_summary: A poor man and woman live east of the village; because they have
+    no tipi, they make a grass-lodge.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 13983-13986
+  quote_or_summary: While the woman gathers grass, a bird falls into the grass; when
+    she looks, a baby boy is there, and she tells her husband she has a baby grandchild.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 13986-13990
+  quote_or_summary: The couple wrap the baby in old skins, lack food for him, lay
+    him by the fire, and observe him growing larger and taller over the next days.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 13990-13995
+  quote_or_summary: The boy asks his grandfather for a bow and four arrows, then for
+    larger ones, and goes to the timber to try to kill game.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 13995-13998
+  quote_or_summary: The boy asks the old woman for a spider-web ring; she cuts part
+    of her robe to make it, and he hangs it outside the grass-lodge.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 13998-14001
+  quote_or_summary: The next morning the boy calls for his grandmother to roll the
+    ring; she rolls it inside the lodge, and the boy shoots at it.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the supplied excerpt. Motif labels
+    are cautious because the excerpt ends mid-action and does not yet explain the
+    ritual or medicine-power significance indicated by the surrounding title.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l13981-l14001
+  passage_sha256=44c6f815346e026dbf6693b58213a23e161d1348ed8860507e1965127b4f7595
+

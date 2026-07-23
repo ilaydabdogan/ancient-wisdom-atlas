@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l9005-l9032
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE  POOR   BOY   WHO    TURNED   INTO   AN    EAGLE.  175 / THE  POOR  BOY  WHO  LOST  HIS  POWER.  177
+    / THE  FLINT  MAN.  179 / THE  TURKEY  RITUAL.  1 83; lines 9005-9032
+  start: '9005'
+  end: '9032'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: In a Turkey Ritual passage, the Gobbler sings of acorns on trees, walking
+    to a distant rocky place, and flat, rough feet. An old man tells the people that
+    the Turkeys have been where rocks abound and explains that the Turkeys are going
+    south to a rocky land with many acorns, where they will live so people may come
+    to hunt and kill them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Gobbler sings about acorns hanging upon trees.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The song describes walking far away to arrive at a place where rocks abound.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The song says that the speakers' feet are flat and rough.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The old man cries out and tells the people what the Turkeys said.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The old man states that the Turkeys have been where rocks abound, explaining
+    their flat and rough feet.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The old man says the Turkeys are going to a southern land where rocks abound
+    and many acorns grow.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The old man says the Turkeys want the people to know where they will always
+    live so the people can come there to hunt and kill them.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Gobbler
+  description: The Gobbler sings the ritual song.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: old man
+  description: An old man cries out, reports what the Turkeys said, and tells the
+    people where the Turkeys are going.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: people
+  description: The people are addressed by the old man and are told where the Turkeys
+    will live so they may hunt and kill them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Turkeys
+  description: The Turkeys are said to have been where rocks abound and to be going
+    to a southern land with rocks and acorns, where they will always live.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: ritual singer
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Gobbler sang.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: announcer and reporter of the Turkeys' words
+  assigned_to:
+  - fig:2
+  basis: The old man cries out and tells the people what the Turkeys said, then gives
+    further information about their destination.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: addressed audience and potential hunters
+  assigned_to:
+  - fig:3
+  basis: The people are told where the Turkeys will live so they can come there to
+    hunt and kill them.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: animals going to a permanent southern habitat
+  assigned_to:
+  - fig:4
+  basis: The Turkeys are said to be going to the land in the south where rocks abound
+    and many acorns are present, and to always live there.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: acorns
+  literal_form: acorns hanging on trees; many acorns in the southern land
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: trees
+  literal_form: trees upon which acorns hang
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: rocky place
+  literal_form: place or land where rocks abound
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: flat and rough feet
+  literal_form: feet described as flat and rough
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:5
+  label: southern land
+  literal_form: land in the south where rocks abound and where there are many acorns
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Gobbler's song of acorns, rocks, and feet
+  summary: The Gobbler sings of acorns on trees, walking far away to a rocky place,
+    and flat, rough feet.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Old man reports the Turkeys' explanation
+  summary: The old man cries out to the people and says the Turkeys have been where
+    rocks abound, which explains their flat, rough feet.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Turkeys' southern dwelling is announced
+  summary: The old man tells the people that the Turkeys are going to a southern land
+    with rocks and many acorns, where they will always live so people may hunt and
+    kill them.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: animal song explaining a bodily trait
+  taxonomy_refs: []
+  basis: The Gobbler's song and the old man's report connect flat, rough feet with
+    being in a place where rocks abound.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives an etiological explanation for the Turkeys' feet but
+    does not state a broader comparative classification.
+- id: motif:2
+  label: animal group announces migration to a permanent habitat
+  taxonomy_refs:
+  - departure
+  basis: The Turkeys are said to be going to a land in the south where rocks and acorns
+    abound, and to always live there.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy term 'departure' is broad; the passage describes
+    animal relocation rather than a hero's departure.
+- id: motif:3
+  label: game animals reveal where humans may hunt them
+  taxonomy_refs: []
+  basis: The old man says the Turkeys want people to know their dwelling place so
+    people can come there to hunt and kill them.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage states the disclosure of a hunting place but does not explicitly
+    frame it as exchange, sacrifice, or covenant.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9005-9020
+  quote_or_summary: The Gobbler sings of acorns hanging on trees, of walking far away
+    to where rocks abound, and of feet that are flat and rough.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 9021-9024
+  quote_or_summary: The old man cries out and tells the people that the Turkeys have
+    been where rocks abound, and that this is why their feet are flat and rough.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 9025-9032
+  quote_or_summary: The old man tells the people that the Turkeys are going south
+    to a rocky land with many acorns, where they will always live so people may come
+    to hunt and kill them.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The figures, actions, and locations are explicit in the passage. Motif labels
+    are cautious and passage-level only. No comparison claims were generated because
+    the passage itself does not supply comparative evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Extraction uses only the supplied passage and metadata.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l9005-l9032
+  passage_sha256=abc44af9dccdf2d802bb46b85863e397f099598c5bd6975593c04471d94906d5
+

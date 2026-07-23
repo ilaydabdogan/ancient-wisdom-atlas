@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.native-american-pawnee-mythology-dorsey-archive-l11483-l11493
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+passage_locator:
+  label: THE   WITCH-WOMAN   WHO   STOLE  THE    WONDERFUL  ROBE. / TALES  OF  READY-TO-GIVE.
+    / THE  WITCH-WOMAN  WHO  STOLE  THE  WONDERFUL  ROBE.  225 / HOW  THE  CANNIBAL  WITCH-WOMAN  WAS  OVERCOME.  227;
+    lines 11483-11493
+  start: '11483'
+  end: '11493'
+  translation: The Pawnee - Mythology (Part I)
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: There was a peculiar noise in the sky and presently a Bald Eagle came through
+    the tipi and sat down by the girl.
+  summary: A peculiar sky-noise precedes a Bald Eagle entering through the tipi and
+    sitting beside a girl. The Eagle says that grandfather is present and hungry.
+    A note attributes the tale to Thief, Kitkehahki, and gives explicit lessons about
+    children seeking food, higher aims in life, and associations among coyote, magpie,
+    and buffalo.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A peculiar noise is heard in the sky before the Bald Eagle appears.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Bald Eagle comes through the tipi and sits down by the girl.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Eagle looks around and says that grandfather is present and hungry.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note says the tale was told by Thief, Kitkehahki.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note says the tale teaches children to be on the lookout for something
+    to eat and to have higher aims than pushing girls in a swing.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note says coyote, magpie, and buffalo are associated together, so that
+    seeing one implies the others are not far off.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Bald Eagle
+  description: A Bald Eagle arrives after a peculiar noise in the sky, enters through
+    the tipi, sits by the girl, and speaks.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: girl
+  description: The girl is present in the tipi; the Bald Eagle sits down beside her.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: grandfather
+  description: The Eagle states that grandfather is present and hungry.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Thief, Kitkehahki
+  description: Named in the note as the teller of the tale.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: coyote, magpie, and buffalo
+  description: Named in the note as animals associated together.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: sky-arriving animal visitor
+  assigned_to:
+  - fig:1
+  basis: The Bald Eagle appears after a peculiar sky-noise and comes through the tipi.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: speaking animal
+  assigned_to:
+  - fig:1
+  basis: The Eagle speaks about grandfather being present and hungry.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: seated-beside human girl
+  assigned_to:
+  - fig:2
+  basis: The Bald Eagle sits down by the girl.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: hungry grandfather
+  assigned_to:
+  - fig:3
+  basis: The Eagle says grandfather is here and hungry.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: named teller
+  assigned_to:
+  - fig:4
+  basis: The note attributes the tale to Thief, Kitkehahki.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sky
+  literal_form: sky
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tipi
+  literal_form: tipi
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Bald Eagle
+  literal_form: Bald Eagle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: associated animals
+  literal_form: coyote, magpie, and buffalo
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Bald Eagle enters the tipi
+  summary: After a peculiar noise in the sky, a Bald Eagle enters through the tipi,
+    sits by the girl, looks around, and remarks that grandfather is present and hungry.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Explicit teaching note
+  summary: A note attributes the tale to Thief, Kitkehahki, states lessons for children,
+    and explains an association among coyote, magpie, and buffalo.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: speaking animal visitor from the sky
+  taxonomy_refs: []
+  basis: The Bald Eagle arrives after a sky-noise, enters the tipi, and speaks.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The excerpt is short and gives only the Eagle's arrival and first speech.
+- id: motif:2
+  label: didactic tale explaining practical conduct
+  taxonomy_refs:
+  - wisdom
+  basis: The note explicitly says the tale teaches children to look for food and to
+    have higher aims in life.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The wisdom taxonomy assignment is based on the note's stated moral, not
+    on a broader narrative pattern in this excerpt.
+- id: motif:3
+  label: animal association as omen-like practical knowledge
+  taxonomy_refs: []
+  basis: The note says coyote, magpie, and buffalo are associated so that seeing one
+    means the others are nearby.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states an association, but the excerpt does not narrate how
+    the association functions in the plot.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11483-11485
+  quote_or_summary: "“There was a peculiar noise in the sky” and a Bald Eagle “came
+    through the tipi and sat down by the girl.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 11485-11487
+  quote_or_summary: The Eagle looked around and said, “Why, grandfather is here. I
+    know he is hungry.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 11488-11491
+  quote_or_summary: A note says the tale was told by Thief, Kitkehahki, and teaches
+    children to look for food and to have higher aims than pushing girls in a swing.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 11491-11493
+  quote_or_summary: A note says coyote, magpie, and buffalo are associated together,
+    and that when one is seen the others cannot be far off.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  rights_note: Public domain source; summarized for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by the short passage and the presence of a footnote-like
+    editorial teaching note embedded in the line range. No comparison claims are made
+    because the passage itself does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference to wisdom is tentative and based on the explicit didactic note.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-pawnee-mythology-dorsey-archive__l11483-l11493
+  passage_sha256=b5f9e76e81e686a2963c38a756ca1287007f4e1b62e0afc8f47140bd67c9eacd
+

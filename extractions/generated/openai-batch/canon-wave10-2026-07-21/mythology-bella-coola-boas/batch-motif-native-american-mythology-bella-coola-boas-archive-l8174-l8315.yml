@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.native-american-mythology-bella-coola-boas-archive-l8174-l8315
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+passage_locator:
+  label: BOAS, THE MYTHOLOGY OF THE BELLA COOLA INDIANS. 12 / PLATE XII, / SMITH,
+    ARCHAOLOGY OF LYTTON, BRITISH COLUMBIA. 131 / SMITH, ARCHAOLOGY OF LYTTON, BRITISH
+    COLUMBIA. 137; lines 8174-8315
+  start: '8174'
+  end: '8315'
+  translation: The Mythology of the Bella Coola Indians
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: they call them “raven arrows,”
+  summary: 'Archaeological passage on Thompson River/Lytton tools: present inhabitants
+    quarry and chip basalt arrow-points; larger chipped points found nearby are attributed
+    by them to Raven before humans existed and called raven arrows. The passage also
+    describes antler harpoon-points, an elk-antler digging-stick handle, stone pestles
+    or hammers, and possible mortars or anvils.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Indians living near Lytton are described as still making small chipped
+    stone arrow-points and obtaining basalt by journeys to mountain quarries.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Large chipped points found in the vicinity are said to be believed to have
+    been made by Raven before there were humans on earth.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same large chipped points are called “raven arrows.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Two antler harpoon-points were found; each had two barbs on one side and a
+    perforated, slightly wedge-shaped base.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A digging-stick handle made from elk-antler was found on the surface of the
+    sixth site; the passage states that natives now use digging-sticks for edible
+    roots.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Stone pestles or hammers are described as tools for crushing dried meat, berries,
+    and other food.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Oval bowlders found on village-site surfaces are interpreted in the passage
+    as likely useful in camp, with larger ones possibly serving as anvils or crushing
+    stones.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Indians living in the Thompson River valley near Lytton
+  description: Present inhabitants described as retaining the art of chipping small
+    stone arrow-points, quarrying basalt, and holding the belief that some older large
+    points were made by Raven.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Raven
+  description: A being to whom large chipped points are attributed as having been
+    made before humans were on earth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: contemporary stone-point makers and quarry visitors
+  assigned_to:
+  - fig:1
+  basis: The passage says they still chip small stone arrow-points and travel to mountain
+    quarries for basalt.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: holders of the Raven-arrow attribution
+  assigned_to:
+  - fig:1
+  basis: The passage reports their belief and naming of large chipped points as Raven
+    arrows.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: attributed prehuman maker of large chipped points
+  assigned_to:
+  - fig:2
+  basis: Large points are said to be believed to have been made by Raven before humans
+    existed.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: digging-stick users for gathering edible roots
+  assigned_to:
+  - fig:1
+  basis: The passage states that natives now use digging-sticks for gathering edible
+    roots.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: raven arrows
+  literal_form: Large chipped stone points found near Lytton and named “raven arrows.”
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: mountain basalt quarry
+  literal_form: Mountains where basalt is broken fresh from the quarry for arrow-point
+    making.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: stone pestles or hammers
+  literal_form: Stone tools used for crushing dried meat, berries, and other food.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Basalt procurement and arrow-point making
+  summary: The passage describes present inhabitants traveling to mountain quarries
+    to obtain fresh basalt and chip small arrow-points.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Attribution of old chipped points to Raven
+  summary: Large chipped points found near Lytton are distinguished from recent work
+    and are said to be believed to have been made by Raven before humans existed;
+    they are called raven arrows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Archaeological tools for hunting, digging, and food preparation
+  summary: The passage describes antler harpoon-points, a digging-stick handle, stone
+    pestles or hammers, and large stones interpreted as mortars or anvils.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ancient artifacts attributed to a prehuman Raven maker
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage reports a belief that large chipped points were made by Raven
+    before humans were on earth.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a brief reported belief, not a full narrative;
+    it does not explicitly call Raven a culture hero or describe broader Raven actions.
+- id: motif:2
+  label: mythic naming of archaeological objects
+  taxonomy_refs: []
+  basis: Large chipped points found in the vicinity receive the name “raven arrows”
+    and are linked to a prehuman Raven origin.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level pattern based on reported naming and attribution,
+    not a developed myth episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8174-8181
+  quote_or_summary: Indians near Lytton are said to still chip small stone arrow-points
+    and to travel up the mountains to break fresh basalt from quarries.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 8181-8185
+  quote_or_summary: "“These they believe were made by the raven before there were
+    men on the earth, and they call them ‘raven arrows,’”"
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 8186-8227
+  quote_or_summary: Two antler harpoon-points are described, each with two barbs on
+    one side and a perforated, slightly wedge-shaped base; the passage discusses possible
+    hafting and string attachment.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 8230-8245
+  quote_or_summary: The passage states that natives now use digging-sticks for edible
+    roots and describes an elk-antler digging-stick handle found at the sixth site.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 8252-8295
+  quote_or_summary: Stone pestles or hammers are described as serving to crush dried
+    meat, berries, and other food; their forms and materials are summarized.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 8296-8315
+  quote_or_summary: Oval bowlders on village-site surfaces are described as numerous
+    and likely valuable in camp; larger examples are interpreted as possible anvils,
+    hand-mill stones, shallow mortars, or anvils.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the archaeological descriptions
+    and the reported Raven-arrow belief. Motif assignment is limited because the passage
+    is not a full myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Most of the passage is archaeological description rather than mythology; motif extraction centers on the reported belief and name attached to large chipped points.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-mythology-bella-coola-boas-archive__l8174-l8315
+  passage_sha256=057cbebf86b7d6a3a43116f757fd51850687bc58d5ab8b71dc00a4ac74b8cda4
+

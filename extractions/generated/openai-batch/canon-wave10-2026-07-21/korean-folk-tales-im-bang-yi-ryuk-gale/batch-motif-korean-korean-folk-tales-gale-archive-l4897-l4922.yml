@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.korean-korean-folk-tales-gale-archive-l4897-l4922
+source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+passage_locator:
+  label: A  VISIT  FROM  THE  SHADES  159 / A  VISIT  FROM  THE  SHADES  161 / XXXIII
+    / THE  FEARLESS  CAPTAIN; lines 4897-4922
+  start: '4897'
+  end: '4922'
+  translation: Korean Folk Tales - Imps, Ghosts and Fairies
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Yee Man-ji of Yong-nam, a physically strong and
+    fearless soldier. During a sudden storm, a great ball of fire rolls through his
+    house and household spaces. Yee remains undisturbed, thinking that because he
+    has done no wrong he need not fear lightning. Lightning then strikes and destroys
+    a large elm tree in front of the house, after which the storm stops; he turns
+    to check on his family.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Yee Man-ji of Yong-nam is introduced as a soldier who is strong, muscular,
+    brave, green-eyed, and terrible in countenance.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yee frequently speaks dismissively of fear.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A sudden rainstorm with lightning flashes and heavy thunder occurs while Yee
+    is in his house.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A great ball of fire enters the home and rolls through the verandah, rooms,
+    kitchen, yard, and servants' quarters several times.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The ball of fire is described as terrifying because of its blazing light and
+    accompanying noise.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Yee sits on the outer verandah and remains wholly undisturbed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Yee thinks that, since he has done no wrong, he has no need to fear the lightning.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A flash of lightning strikes the large elm tree in front of the house and
+    smashes it to pieces.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After the lightning strike, the rain and thunder cease.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: At the end of the excerpt, Yee turns to see how his family has fared.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Yee Man-ji
+  description: A soldier from Yong-nam, described as strong, muscular, brave, green-eyed,
+    and of terrible countenance; he remains calm during the storm and fireball event.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Yee's family
+  description: Unnamed family members whose condition Yee turns to check after the
+    storm and lightning strike.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: soldier
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Yee Man-ji as a soldier of Yong-nam.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fearless central actor
+  assigned_to:
+  - fig:1
+  basis: Yee is described as brave, repeatedly dismisses fear, and remains undisturbed
+    while the fireball and lightning occur.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: household family
+  assigned_to:
+  - fig:2
+  basis: The passage mentions Yee's family when he turns to see how they have fared.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: rolling fireball
+  literal_form: A great ball of fire that rolls through the home and household spaces
+    during the thunderstorm.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: lightning and thunderstorm
+  literal_form: A sudden rainstorm with flashes of lightning and heavy claps of thunder.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: elm tree destroyed by lightning
+  literal_form: The large elm tree in front of the house, struck by lightning and
+    smashed to pieces.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Introduction of the fearless soldier
+  summary: Yee Man-ji of Yong-nam is introduced as a formidable and brave soldier
+    who frequently dismisses fear.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Storm and fireball in the house
+  summary: During a sudden storm, a great ball of fire rolls through multiple parts
+    of Yee's home and is described as terrifying.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Yee's calm response and the lightning-struck elm
+  summary: Yee remains calm on the verandah, reasons that wrongdoing would be the
+    cause for fear, and then lightning destroys the large elm tree before the rain
+    and thunder cease.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Checking on the family
+  summary: The excerpt closes with Yee turning to see how his family has fared.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: fearless person facing a terrifying storm-fire phenomenon
+  taxonomy_refs: []
+  basis: The passage emphasizes Yee's fearlessness and shows him remaining undisturbed
+    while a thunderstorm, lightning, and a rolling ball of fire terrify the household
+    setting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level descriptive motif; the excerpt does not yet show
+    a completed trial, victory, or transformation.
+- id: motif:2
+  label: moral innocence asserted before lightning
+  taxonomy_refs:
+  - divine_judgment
+  basis: Yee explicitly reasons that he has done no wrong and therefore need not fear
+    lightning, suggesting a moral frame for the lightning event.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The passage does not explicitly identify the lightning as divine, judicial,
+    or sent by an agent; the taxonomy link is only a cautious candidate.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4897-4904
+  quote_or_summary: The passage identifies Yee Man-ji of Yong-nam as a soldier, strong
+    and muscular, brave, green-eyed, terrible in countenance, and habitually dismissive
+    of fear.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: 4904-4913
+  quote_or_summary: While Yee is in his house, a sudden rainstorm begins with lightning
+    and thunder; a great ball of fire rolls through the verandah, rooms, kitchen,
+    yard, and servants' quarters, creating terror by its light and noise.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: 4914-4918
+  quote_or_summary: Yee sits on the outer verandah wholly undisturbed and thinks that,
+    because he has done no wrong, he need not fear the lightning.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: 4918-4921
+  quote_or_summary: A flash strikes the large elm tree in front of the house and smashes
+    it to pieces; afterward the rain and thunder cease.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: '4922'
+  quote_or_summary: Yee turns to see how his family has fared.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied excerpt. Motif candidates
+    are cautious because the passage is brief and does not explicitly explain the
+    origin or meaning of the lightning and fireball. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to available refs and applied only where directly or cautiously supported.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-folk-tales-gale-archive__l4897-l4922
+  passage_sha256=92367ac3fcd1d10432c4dc708f7d5781a9902921c3b6039f26d6ded830902d91
+

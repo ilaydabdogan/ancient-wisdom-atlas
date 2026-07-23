@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l12953-l12995
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XXII. / COMMENTARIES  OF  THE  YNCAS. / VOL.  II. / SEVENTH  BOOK  OE  THE  ROYAL;
+    lines 12953-12995
+  start: '12953'
+  end: '12995'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a prolonged battle in which the Spaniards grow exhausted
+    while the opposing Indian army continues to recover strength and form new squadrons.
+    Governor Pedro de Valdivia decides to withdraw toward a narrow pass where the
+    Spaniards could defend themselves on foot. He orders a gradual retreat in close
+    order, with the men facing the enemy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Spaniards saw that the enemy still had ten squadrons ready to fight and
+    prepared to continue despite the weariness of men and horses.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: During the continuing battle, the opposing army recovered strength while the
+    Spaniards lost strength.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Pedro de Valdivia judged that eight or ten squadrons remained and that the
+    enemy continued forming new squadrons.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Valdivia decided to retire before the horses were completely worn out.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Valdivia intended to retreat to a narrow pass about a league and a half behind
+    him, where the Spaniards could defend the pass on foot.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Spaniards retreated gradually in close order, facing the foe and acting
+    primarily defensively rather than offensively.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Spaniards
+  description: The army that continues fighting while worn and tired, then retreats
+    in close order toward a narrow pass.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Indians / opposing army
+  description: The enemy army with multiple squadrons ready to fight, recovering strength
+    and forming new squadrons.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Governor Pedro de Valdivia
+  description: The commander who assesses the situation, decides to retreat, and orders
+    his men toward the narrow pass.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: horses
+  description: The horses of the Spaniards are described as worn and at risk of being
+    completely worn out.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: exhausted retreating force
+  assigned_to:
+  - fig:1
+  basis: The Spaniards are described as worn and tired, losing strength, and then
+    retreating in close order.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: renewing opposing force
+  assigned_to:
+  - fig:2
+  basis: The opposing army retains ready squadrons, recovers strength, and forms new
+    squadrons.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: commander and decision-maker
+  assigned_to:
+  - fig:3
+  basis: Pedro de Valdivia evaluates the remaining squadrons and orders a retreat
+    to a narrow pass.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: worn mounts
+  assigned_to:
+  - fig:4
+  basis: The horses are described as worn, and Valdivia seeks to retire before they
+    are completely worn out.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: narrow pass
+  literal_form: a narrow pass about a league and a half in the rear
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: enemy squadrons
+  literal_form: ten squadrons; eight or ten squadrons; newly formed squadrons
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: faces toward the foe
+  literal_form: retiring little by little, with their faces always to the foe
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: battle of exhaustion
+  summary: The Spaniards continue the battle while worn and tired, while the opposing
+    army retains squadrons and recovers strength.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Valdivia decides to withdraw
+  summary: Pedro de Valdivia observes that enemy squadrons remain and keep forming,
+    then resolves to retire before the horses are fully exhausted.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: ordered retreat toward the pass
+  summary: Valdivia orders his men to retreat gradually to the narrow pass; they withdraw
+    in close order, facing the enemy and emphasizing defense.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: orderly retreat to a defensible narrow pass
+  taxonomy_refs: []
+  basis: The commander decides to withdraw to a narrow pass where the Spaniards could
+    defend against the whole opposing army, and the men retreat in close order facing
+    the enemy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a historical military episode rather than an explicitly mythic
+    motif; no available taxonomy reference is directly supported.
+- id: motif:2
+  label: exhausted force opposed by renewing formations
+  taxonomy_refs: []
+  basis: The Spaniards lose strength while the opposing army recovers strength and
+    continues forming new squadrons.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents a battlefield situation, not a supernatural or comparative
+    mythic pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12953-12966
+  quote_or_summary: The Spaniards see ten enemy squadrons still ready, continue fighting
+    despite the exhaustion of men and horses, while the opposing army recovers strength
+    and the battle continues until two in the afternoon.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 12967-12982
+  quote_or_summary: Pedro de Valdivia observes that eight or ten enemy squadrons remain,
+    that new ones continue to form, and that there may be no rest; he decides to retire
+    before the horses are fully worn out.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 12978-12988
+  quote_or_summary: Valdivia intends to retreat to a narrow pass about a league and
+    a half behind him, where he believes the Spaniards could defend the pass on foot
+    against the enemy army.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 12989-12995
+  quote_or_summary: Valdivia orders a gradual retreat to the narrow pass; the men
+    withdraw in close order, little by little, facing the foe, with a defensive rather
+    than offensive intention.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is well supported by the passage. Motif candidates
+    are limited because the passage is a military-historical account and does not
+    itself make comparative or mythic claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied because the passage supports only military-historical patterns and literal battlefield imagery.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l12953-l12995
+  passage_sha256=74e1f90c7b512bc9a4c80bc03efd52898d11ee4bb0e1fd974e9228901b3ba10f
+

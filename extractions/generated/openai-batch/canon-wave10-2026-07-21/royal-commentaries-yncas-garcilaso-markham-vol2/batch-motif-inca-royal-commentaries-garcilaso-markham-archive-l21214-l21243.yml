@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l21214-l21243
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: NINTH  BOOK  OP  THE  ROYAL / CHAPTER  XIX. / OF  THE  PIGS,  AND  THEIR  RAPID  INCREASE.
+    / COMMENTARIES  OF  THE  YNCAS.; lines 21214-21243
+  start: '21214'
+  end: '21243'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: The sows have been very prolific in Peru.
+  summary: The passage describes high Spanish prices for animals and commodities from
+    Spain, gives Cuzco pig prices, explains the value of pig grease for curing disease
+    among llamas and substituting for oil, reports an observed sow with sixteen young
+    pigs, and notes the Indigenous adoption of the word cuchi for pigs after hearing
+    Spaniards call them coche coche.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Spaniards paid extreme prices for commodities and animals from Spain because
+    of attachment to their country and a desire to buy and rear the animals.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In 1560 a good pig in Cuzco was said to be worth ten pesos; at the narrator’s
+    later reference point pigs were worth six or seven pesos.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Pig grease was valued because it was said to have cured a disease among llamas
+    and because Spaniards used it in dishes when they lacked oil on Fridays and during
+    Lent.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator says sows were very prolific in Peru.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In 1558 the narrator saw two sows in the smaller square at Cuzco with a litter
+    of sixteen sucking pigs, a little more than thirty days old.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The young pigs were so fat that observers were astonished the sow could rear
+    so many together and keep them in good condition.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Indians called pigs cuchi, adopting the word after hearing Spaniards say coche
+    coche when calling pigs.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Spaniards
+  description: People who paid high prices for Spanish commodities and animals, used
+    pig grease in cooking, and called pigs with the phrase coche coche.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Indians
+  description: People who called pigs cuchi and introduced the word into their language
+    after hearing the Spaniards’ call.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: pigs, sows, and sucking pigs
+  description: Pigs are described as valuable livestock in Cuzco; sows are described
+    as prolific, including one with sixteen young pigs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: llamas
+  description: Animals among which a disease was said to have been cured by pig grease.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Spanish purchasers, rearers, and users of pig products
+  assigned_to:
+  - fig:1
+  basis: The passage says Spaniards paid high prices to buy and rear animals from
+    Spain and used pig grease in dishes when oil was lacking.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Indigenous adopters of a pig term
+  assigned_to:
+  - fig:2
+  basis: The passage says Indians called pigs cuchi after hearing Spaniards say coche
+    coche.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: prolific and valued livestock
+  assigned_to:
+  - fig:3
+  basis: The passage gives pig prices and reports a sow with sixteen young pigs in
+    good condition.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: livestock affected by disease
+  assigned_to:
+  - fig:4
+  basis: The passage says pig grease was prized for a cure it effected among llamas.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: pig
+  literal_form: pigs, sows, and sucking pigs
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: pig grease
+  literal_form: grease from pigs, valued as cure and cooking substitute
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: litter of sixteen
+  literal_form: sixteen sucking pigs about thirty days old
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: cuchi / coche coche
+  literal_form: Indigenous pig name and Spanish calling phrase
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: High valuation of animals from Spain
+  summary: Spaniards are described as paying extreme prices for Spanish commodities
+    and animals because they valued things from Spain and wanted to rear the animals.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pig price and uses of grease in Cuzco
+  summary: The passage gives Cuzco pig prices and explains that pig grease kept prices
+    higher because it was valued as a llama-disease cure and as a cooking fat for
+    Spaniards without oil.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Observation of a large litter in Cuzco
+  summary: The narrator reports seeing a sow in the smaller square at Cuzco with sixteen
+    fat young pigs, causing astonishment at the sow’s ability to rear them.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Adoption of a pig name
+  summary: Indians are said to call pigs cuchi after hearing Spaniards call them coche
+    coche.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Rapid increase of introduced livestock
+  taxonomy_refs: []
+  basis: The chapter title and passage emphasize pigs’ rapid increase, especially
+    through a reported litter of sixteen young pigs in good condition.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a historical-economic animal-proliferation pattern rather than
+    a clearly mythological motif.
+- id: motif:2
+  label: Animal fat as practical cure and substitute substance
+  taxonomy_refs: []
+  basis: Pig grease is described as valued both for curing disease among llamas and
+    as a substitute for oil in Spanish food practices.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states the practical uses but does not frame the grease as
+    sacred or ritual.
+- id: motif:3
+  label: Colonial loanword formed from an animal call
+  taxonomy_refs: []
+  basis: The passage explains the Indigenous word cuchi for pigs as derived from hearing
+    Spaniards say coche coche.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a linguistic-contact pattern, not a mythological comparison.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21214-21223
+  quote_or_summary: Spaniards paid extreme prices for commodities and animals from
+    Spain out of love for their country and because they wanted to buy and rear the
+    animals.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 21224-21231
+  quote_or_summary: A good pig was worth ten pesos in Cuzco in 1560 and later six
+    or seven; pig grease was prized for curing disease among llamas and for Spanish
+    cooking without oil on Fridays and during Lent.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 21231-21236
+  quote_or_summary: The narrator says sows were prolific in Peru and reports seeing
+    two in the smaller square at Cuzco in 1558 with a litter of sixteen sucking pigs
+    a little over thirty days old.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 21236-21239
+  quote_or_summary: The young pigs were very fat, and people were astonished that
+    the sow could rear so many at once in good condition.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 21239-21243
+  quote_or_summary: Indians called pigs cuchi and introduced the word into their language
+    after hearing Spaniards say coche coche when calling pigs.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif candidates are limited because
+    the passage is historical and economic rather than explicitly mythological. No
+    comparison claims were made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied; the passage concerns pigs, grease, llamas, and language contact rather than the listed symbolic terms.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l21214-l21243
+  passage_sha256=72491682737956a66942987cd2cec5e4a98696383b38f840df57c1eac62b737d
+

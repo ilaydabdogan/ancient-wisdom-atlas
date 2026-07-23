@@ -1,0 +1,385 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l9527-l9565
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: THE  SEVENTH  BOOK. / CHAPTER  I. / THE  YNCAS  FORMED  COLONIES.  THEY  USED  TWO  LANGUAGES.
+    / SEVENTH  BOOK  OE  THE  ROYAL; lines 9527-9565
+  start: '9527'
+  end: '9565'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Inca policies of resettling and irrigating formerly
+    uncultivated valleys, creating laws for exchange between valley and highland peoples,
+    allocating crop shares to the Sun and the Ynca, and supplying Collao through llama
+    transport. It also quotes Pedro de Cieza de León praising the Yncas as wise governors
+    whose laws reduced hardship in cold, less fertile regions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Valleys east toward the Antis and west on the sea-coast are described as producing
+    maize, uchu, and fruits, but as formerly almost uninhabited because irrigation
+    channels were not known there.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Kings Yncas populated many previously uncultivated valleys by sending
+    nearby Indians there and teaching them irrigation.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A law ordered people to help their relations by exchanging surplus harvests
+    for surplus crops raised in the high lands.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'Two-thirds of the yield belonged to the Yncas: one third to the Sun and one
+    third to the Ynca.'
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Yncas increased maize supplies for their armies and for the cold, sterile
+    land of the Collao.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Collas carried quinua, chuñu, and dried meat called charqui on llamas
+    to the valleys and returned with maize, uchu, and fruit.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Pedro de Cieza de León is quoted as saying that the Collao suffered distress
+    when rains failed and that Inca laws and customs prevented severe hardships.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Kings Yncas
+  description: Rulers who considered the needs of valleys and highlands, sent settlers,
+    taught irrigation, made laws, and are quoted as wise governors.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Indians sent to the valleys
+  description: People living nearby who were sent to inhabit and cultivate previously
+    uncultivated valleys.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Collas
+  description: People of the Collao who transported highland foods by llama to the
+    valleys and returned with valley crops.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Sun
+  description: Recipient of one third of the agricultural yield.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Ynca
+  description: Royal recipient of one third of the agricultural yield.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Pedro de Cieza de León
+  description: Cited author whose ninety-ninth chapter is quoted on the Collao and
+    Inca governance.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: royal planner and lawgiver
+  assigned_to:
+  - fig:1
+  basis: The Kings Yncas peopled valleys, taught irrigation, established exchange
+    laws, and are described in the quoted passage as wise governors.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:2
+  label: settler-irrigator
+  assigned_to:
+  - fig:2
+  basis: They were sent into uncultivated valleys and taught irrigation.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: highland transporter and exchanger
+  assigned_to:
+  - fig:3
+  basis: The Collas carried highland products to valleys by llama and returned with
+    valley products.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: crop-share recipient
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage says one third of the yield belonged to the Sun and another third
+    to the Ynca.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: cited chronicler
+  assigned_to:
+  - fig:6
+  basis: Pedro de Cieza de León is named and quoted on the subject.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: irrigation channels
+  literal_form: channels to irrigate fields
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: maize and valley crops
+  literal_form: maize, uchu, and fruits produced in the warm valleys and carried back
+    to the Collao
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: two-thirds crop division
+  literal_form: two-thirds of the yield, divided as one third to the Sun and one third
+    to the Ynca
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: llama transport
+  literal_form: loads carried on the backs of llamas between the Collao and the valleys
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: highland-valley contrast
+  literal_form: cold and sterile Collao and high lands contrasted with warm valleys
+    yielding maize, uchu, and fruit
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Resettlement and irrigation of valleys
+  summary: The Kings Yncas send nearby Indians into previously uncultivated valleys
+    and teach irrigation so the lands can be populated and farmed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Law of exchange and crop shares
+  summary: A law directs exchange between relatives in valleys and highlands, while
+    the crop yield is partly assigned to the Sun and the Ynca.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Colla llama caravans
+  summary: The Collas transport quinua, chuñu, and charqui to the valleys on llamas
+    and return with maize, uchu, and fruit unavailable in their own land.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Cieza de León on Inca governance
+  summary: Pedro de Cieza de León is quoted as saying that the Collao suffered in
+    bad years but that Inca laws and customs mitigated hardship in cold, less fertile
+    regions.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: wise royal governance through irrigation and settlement
+  taxonomy_refs:
+  - wisdom
+  - royal_legitimacy
+  basis: The Kings Yncas are described as carefully considering conditions, populating
+    uncultivated valleys, teaching irrigation, making laws, and being praised in the
+    quoted Cieza passage as wise and excellent governors.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage is historical-ethnographic rather than a myth narrative; the
+    motif label reflects a governance pattern in the text.
+- id: motif:2
+  label: state-organized highland-valley exchange
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage describes a law requiring exchange of surplus harvests between
+    valley and highland peoples, along with llama transport of complementary foods
+    between ecological zones.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The exchange is explicitly economic and administrative; it is only partly
+    aligned with a sacred-exchange taxonomy because the passage also includes shares
+    assigned to the Sun.
+- id: motif:3
+  label: royal and solar crop allocation
+  taxonomy_refs:
+  - royal_legitimacy
+  - sacred_exchange
+  basis: 'Two-thirds of the yield are assigned to the Inca order: one third to the
+    Sun and one third to the Ynca, while the policy supports armies and provisioning
+    of the Collao.'
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states the allocation but does not explain ritual details
+    or mythic symbolism of the Sun share.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly aligns its account of Inca provisioning laws with
+    Pedro de Cieza de León’s quoted chapter, where Inca rulers are also described
+    as wise governors whose laws reduced hardship in the Collao and other cold regions.
+  claim_level: same_function
+  target: Pedro de Cieza de León, chapter 99 as quoted in this passage
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal textual comparison based only on the quoted excerpt;
+    it does not establish broader diffusion, common inheritance, or independent recurrence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9527-9535
+  quote_or_summary: Eastern Antis country and western sea-coast valleys are described
+    as yielding maize, uchu, and fruits, but formerly lacking inhabitants because
+    people did not know how to make irrigation channels.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 9535-9539
+  quote_or_summary: "“the Kings Yncas peopled many valleys, hitherto uncultivated”
+    by sending nearby Indians and teaching irrigation."
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 9539-9543
+  quote_or_summary: A law ordered people to help their relations by exchanging surplus
+    harvests for surplus crops raised in the high lands.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 9543-9549
+  quote_or_summary: The Yncas increased maize supplies for armies; two-thirds of the
+    yield belonged to them, divided as one third to the Sun and one third to the Ynca,
+    providing maize for the cold, sterile Collao.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 9549-9553
+  quote_or_summary: The Collas carried quinua, chuñu, and charqui on llamas to the
+    valleys and returned with maize, uchu, and fruit.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 9554-9565
+  quote_or_summary: Pedro de Cieza de León is quoted as saying that Collao people
+    suffer when rains fail, and that Inca kings were wise governors who established
+    laws and customs preventing hardships in cold, less fertile parts of Peru.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal administrative and economic details are clear. Motif assignments
+    are more tentative because the passage is a historical chronicle rather than an
+    explicit mythic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No taxonomy IDs beyond the supplied motif-family and symbol labels were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l9527-l9565
+  passage_sha256=6e93862cd19e92892645a6e8821fd856133d2aff0fa5323a6580ae7864043bc9
+

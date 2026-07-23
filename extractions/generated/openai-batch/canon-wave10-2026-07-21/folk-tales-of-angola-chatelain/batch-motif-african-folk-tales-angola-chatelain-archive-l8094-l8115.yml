@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.african-folk-tales-angola-chatelain-archive-l8094-l8115
+source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+passage_locator:
+  label: XLII. / KINGUNGU A NJILA NI NGUNDU A NDALA. / XLII. / KINGUNGU A NJILA AND
+    NGUNDU A NDALA.; lines 8094-8115
+  start: '8094'
+  end: '8115'
+  translation: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: Kingungu a Njila goes hunting with a gun, shoots an elephant, and the animal
+    falls. Ngundu a Ndala hears the gunshot, comes to the elephant, shoots it again,
+    and claims it as his own. Kingungu disputes the claim, and the two decide to go
+    home to plead the case. Before an unnamed adjudicating figure, both men present
+    their claims; the passage ends as the adjudicator notes the difficulty of judging
+    where there is no witness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The opening saying states that a quarrel occurs in the bush and that witnesses
+    are obtained from the disputants' tongues.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kingungu a Njila takes up his gun, goes shooting in the forest, stalks elephants,
+    shoots one elephant, and it falls to the ground.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ngundu a Ndala hears Kingungu a Njila's gun, comes to the elephant, shoots
+    it again, and says the elephant is his.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Kingungu a Njila says the elephant is his and challenges Ngundu a Ndala's
+    claim.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The two men quarrel over the elephant and agree to go home to plead the matter.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Kingungu a Njila brings an accusation before So and So; Ngundu a Ndala is
+    called, and both men plead.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: So and So asks how the case should be judged; the supplied passage breaks
+    off after a reference to there being no witness.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Kingungu a Njila
+  description: A man who takes up a gun, goes hunting, shoots an elephant first, and
+    later claims the elephant before a hearing.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Ngundu a Ndala
+  description: A man who hears Kingungu a Njila's gun, comes to the elephant, shoots
+    it again, claims it, and later pleads the case.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: So and So
+  description: An unnamed person before whom Kingungu a Njila brings the accusation
+    and who asks how to judge the case.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: first hunter and first shooter
+  assigned_to:
+  - fig:1
+  basis: Kingungu a Njila goes shooting, stalks elephants, shoots one, and it falls.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: rival claimant and second shooter
+  assigned_to:
+  - fig:2
+  basis: Ngundu a Ndala hears the gun, arrives, shoots the elephant again, and claims
+    it as his.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: disputing litigants
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The two men quarrel about the elephant and then plead the case.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: case-hearer or adjudicator
+  assigned_to:
+  - fig:3
+  basis: So and So receives the accusation, calls Ngundu a Ndala, tells them to plead,
+    and asks how to judge the case.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: hunting gun
+  literal_form: gun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: disputed elephant
+  literal_form: elephant
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: bush or forest
+  literal_form: bush; forest
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: tongues as source of witnesses
+  literal_form: tongues
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: Kingungu a Njila hunts and shoots an elephant
+  summary: Kingungu a Njila takes his gun into the forest, stalks elephants, shoots
+    one, and the elephant falls.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Ngundu a Ndala arrives and claims the elephant
+  summary: Ngundu a Ndala hears Kingungu's gunshot, comes to the fallen elephant,
+    shoots it again, and says it is his.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Quarrel over ownership of the elephant
+  summary: Kingungu a Njila contests Ngundu a Ndala's claim, and the two quarrel about
+    the elephant before deciding to go home and plead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Pleading before So and So
+  summary: Kingungu a Njila brings an accusation, Ngundu a Ndala is called, both men
+    plead, and So and So expresses difficulty in judging the case.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: rival claim over a hunted animal
+  taxonomy_refs: []
+  basis: One hunter shoots an elephant first; another later shoots the same elephant
+    again and claims it, producing a quarrel over ownership.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The provided passage does not include the final judgment or resolution.
+- id: motif:2
+  label: legal pleading where external witnesses are absent
+  taxonomy_refs: []
+  basis: The opening saying links the bush quarrel to witnesses obtained from tongues,
+    and the case is later pleaded before So and So, who asks how to judge it as the
+    text breaks after mention of no witness.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The final line is truncated at 'wit-', so the exact statement and outcome
+    require review against the full source.
+- id: motif:3
+  label: speech as testimony in a dispute
+  taxonomy_refs: []
+  basis: The passage frames witnesses as coming from tongues and then has both disputants
+    plead their versions of the elephant killing.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: This is based on the introductory saying and the pleading scene; no explicit
+    judgment is included in the supplied lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8094-8100
+  quote_or_summary: "“They quarrelled in the bush; witnesses; We get them from (their)
+    tongues.”"
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; short quote used.
+- id: ev:2
+  type: summary
+  locator: lines 8101-8104
+  quote_or_summary: Kingungu a Njila takes up his gun, goes shooting in the forest,
+    stalks elephants, shoots one, and the elephant falls.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8105-8108
+  quote_or_summary: Ngundu a Ndala hears Kingungu a Njila's gun, comes to the elephant,
+    shoots it again, and says the elephant is his.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8109-8113
+  quote_or_summary: Kingungu a Njila says the elephant is his, challenges Ngundu a
+    Ndala's claim, and the two begin a quarrel before deciding to go home and plead.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8114-8115
+  quote_or_summary: Kingungu a Njila accuses before So and So; Ngundu a Ndala is called;
+    both plead; So and So asks how the case can be judged, and the supplied text breaks
+    after 'There is no wit-'.
+  source_text_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  rights_note: Public domain source; summarized with brief citation of truncated wording.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main actions and figures are clear, but the passage ends mid-word during
+    the adjudication scene, so the judgment and full legal point are not recoverable
+    from the supplied excerpt. No cross-tradition comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied English passage and metadata were used; available taxonomy references were not applied because none were directly supported by the excerpt.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-folk-tales-angola-chatelain-archive__l8094-l8115
+  passage_sha256=ecd8cca872806919b30b9ebdd0603755d2e7d12a7a33a4959988181e3c784472
+

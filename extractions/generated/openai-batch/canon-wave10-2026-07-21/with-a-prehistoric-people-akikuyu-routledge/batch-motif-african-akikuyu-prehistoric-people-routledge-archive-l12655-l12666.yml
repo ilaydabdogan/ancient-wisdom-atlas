@@ -1,0 +1,216 @@
+---
+record_id: batch.motif.african-akikuyu-prehistoric-people-routledge-archive-l12655-l12666
+source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+passage_locator:
+  label: DISPOSAL  OF  THE  DEAD / DISPOSAL  OF  THE  DEAD  169 / BURIAL  171 / DEATH  173;
+    lines 12655-12666
+  start: '12655'
+  end: '12666'
+  translation: 'With a Prehistoric People: The Akikuyu of British East Africa'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes property of a deceased person, such as a blanket,
+    being left untouched by a highway after the body had disappeared. It also recounts
+    a corpse being tested for signs of life with a borrowed cane, after which the
+    cane was refused with horror.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Property associated with a deceased owner, including a good blanket, was left
+    untouched by the highway for months.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The untouched property was described as evidence of death after traces of
+    the deceased owner had disappeared.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A husband borrowed a cane from a follower and used it to touch a corpse's
+    eyelid to check whether life was extinct.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the husband offered to return the stick, it was refused with horror.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: deceased owner
+  description: A deceased person whose property was left by the highway after bodily
+    traces had disappeared.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: husband
+  description: The narrator's husband, who borrowed a cane and touched a corpse's
+    eyelid with it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: follower
+  description: One of the group's followers who lent a cane and then refused its return
+    with horror.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: corpse
+  description: A corpse whose eyelid was touched with a cane to determine whether
+    life was extinct.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: deceased person
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the owner of the property as deceased.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: tester of death
+  assigned_to:
+  - fig:2
+  basis: The husband touched the corpse's eyelid with a cane to see whether life was
+    extinct.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: owner or lender of cane
+  assigned_to:
+  - fig:3
+  basis: The cane was borrowed from one follower, who refused the stick when it was
+    offered back.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: body examined for life
+  assigned_to:
+  - fig:4
+  basis: The corpse's eyelid was touched to test whether life was extinct.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: untouched property of the dead
+  literal_form: blanket or other property left by the highway
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cane used to touch corpse
+  literal_form: cane or stick
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: property left after death
+  summary: Property belonging to a deceased owner remains untouched beside the highway
+    for months, serving as evidence of death after the deceased has disappeared.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: cane refused after contact with corpse
+  summary: A borrowed cane is used to touch a corpse's eyelid to test for life; when
+    the cane is offered back, it is refused with horror.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: property of the dead left untouched
+  taxonomy_refs: []
+  basis: The passage describes a deceased owner's property being left untouched for
+    months by the highway.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an ethnographic social-custom passage, not a mythic narrative;
+    the reason for leaving the property untouched is not fully explained in the excerpt.
+- id: motif:2
+  label: avoidance of object that touched a corpse
+  taxonomy_refs: []
+  basis: A cane used to touch a corpse's eyelid was refused with horror when returned.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage reports the reaction but does not explicitly define the belief
+    behind it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12655-12659
+  quote_or_summary: Property such as a good blanket was left untouched for months
+    by the highway, serving as evidence of death after traces of the deceased owner
+    had disappeared.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 12659-12663
+  quote_or_summary: On encountering corpses, the narrator's husband borrowed a cane
+    from a follower and touched an eyelid with it to see whether life was extinct.
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 12663-12665
+  quote_or_summary: "“When he offered to return the stick it was refused with horror.”"
+  source_text_path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage reports customs and reactions without fully explaining their underlying
+    belief system. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Available taxonomy symbols and motif families did not include a direct match for death-related avoidance or corpse-contact taboo; taxonomy references are therefore left empty.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:african-akikuyu-prehistoric-people-routledge-archive__l12655-l12666
+  passage_sha256=603200d12fd89385f0574a17f0aa15783084f3c596ac787cc11793ac23447101
+

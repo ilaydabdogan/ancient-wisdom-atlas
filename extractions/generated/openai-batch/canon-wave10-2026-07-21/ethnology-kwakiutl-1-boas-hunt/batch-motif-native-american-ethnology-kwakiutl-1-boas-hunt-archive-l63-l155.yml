@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.native-american-ethnology-kwakiutl-1-boas-hunt-archive-l63-l155
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+passage_locator:
+  label: Ethnology of the Kwakiutl, Part 1 / I. INDUSTRIES; lines 63-155
+  start: '63'
+  end: '155'
+  translation: Ethnology of the Kwakiutl, Part 1
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives procedural descriptions for making wooden dishes and
+    boxes: selecting straight alder or cedar, cutting and hollowing the wood, smoothing
+    it with tools, painting a dish rim black, and assigning dish sizes to different
+    feast or household uses.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A dish-maker goes into the woods with an ax and chooses a straight, knotless
+    alder tree that is not twisted.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The alder is chopped down, cut to measured lengths, split through the heart,
+    and shaped so that the heart of the tree becomes the bottom of the dish.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The dish is hollowed, carried home, leveled and smoothed with an adz, and
+    further shaped with a small crooked knife.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Dog-salmon spawn is chewed and spat into a paint dish, mixed with coal to
+    make a black color, and applied around the rim of the dish with a paint-brush.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Different dish sizes are associated with different eating groups, including
+    many tribes at a large feast, six men, two guests, a host's own numaym, a household
+    family, a chief's daughter and son, two friends, and one woman whose husband is
+    away.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A husband makes a cedar-wood box-like vessel for pounding salal-berries by
+    hollowing, adzing, cutting, and smoothing the wood.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The making of boxes for lily-bulbs begins with the husband taking a wedge-basket,
+    stone hammer, and ax to a patch of cedar-trees and looking for a straight-barked
+    tree.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: dish-maker
+  description: An unnamed maker who selects alder, cuts it, hollows it, smooths it,
+    and paints the rim of a wooden dish.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: husband of the woman
+  description: An unnamed husband who makes a cedar-wood box for pounding salal-berries
+    and begins making a box for lily-bulbs.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: feast and household eaters
+  description: Groups or persons assigned to eat from dishes of specified sizes, including
+    guests, men at a feast, a host's numaym, husband and wife with children, a chief's
+    daughter and son, friends, and a woman whose husband is away.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: wooden vessel maker
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both figures are described selecting wood and using tools to shape dishes
+    or boxes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:2
+  label: husband acting for food-preparation equipment
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the maker of the salal-berry pounding box and lily-bulb
+    box as the woman's husband.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: users of sized eating vessels
+  assigned_to:
+  - fig:3
+  basis: The passage lists social groups and persons for whom different dish sizes
+    are used.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: alder tree selected for dish-making
+  literal_form: straight, knotless alder tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: cedar tree selected for box-making
+  literal_form: cedar tree with straight bark and no twist
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: wooden feasting dish
+  literal_form: hollowed and painted wooden dish of measured size
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: black rim paint
+  literal_form: black color made from chewed dog-salmon spawn and coal, painted around
+    the dish rim
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: salal-berry pounding box
+  literal_form: cedar-wood box-like vessel for pounding salal-berries
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Making a wooden dish from alder
+  summary: The dish-maker selects a suitable alder, cuts and splits it, shapes it
+    into a hollow dish, smooths it with tools, and paints its rim black.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Assigning dish sizes to social uses
+  summary: The passage explains which dish sizes are used for large feasts, lesser
+    feasts, a host's own numaym, family eating, chiefly children, friends, and a woman
+    eating alone while her husband is away.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Making a salal-berry pounding box
+  summary: The woman's husband obtains cedar, hollows it like a box, adzes and cuts
+    it, and smooths the inside until the salal-berry pounding box is finished.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Beginning a lily-bulb box
+  summary: The husband takes a wedge-basket, stone hammer, and ax to cedar trees and
+    chooses a tree with straight bark for making a box for lily-bulbs.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: careful selection and transformation of straight-grained wood into food vessels
+  taxonomy_refs: []
+  basis: The passage repeatedly emphasizes choosing straight, untwisted alder or cedar
+    and shaping it with specialized tools into dishes or boxes for food-related uses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is an ethnographic craft pattern rather than an explicitly mythological
+    motif.
+- id: motif:2
+  label: vessel size matched to social eating group
+  taxonomy_refs: []
+  basis: The passage lists dish dimensions and links them to feasting, guests, the
+    host's numaym, households, chiefly children, friends, and solitary use.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not state a sacred or mythic interpretation of these
+    assignments.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 63-70
+  quote_or_summary: The dish-maker takes an ax into the woods and chooses a good alder
+    tree that is straight, knotless, and not twisted.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 70-82
+  quote_or_summary: The selected alder is felled, cut to measured length, split through
+    the heart, and shaped so the heart of the tree becomes the bottom of the dish.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 82-99
+  quote_or_summary: The maker hollows the dish, carries it home, levels and adzes
+    it, thins the sides, and cuts grooves with a small crooked knife.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 99-107
+  quote_or_summary: The maker chews dog-salmon spawn, spits it into a paint dish,
+    rubs coal into it until black, and paints around the rim of the dish before letting
+    it dry.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 108-124
+  quote_or_summary: 'The passage assigns dish sizes to various uses: large feasts
+    for many tribes, feasts by six men, two guests, the host''s own numaym, a husband
+    and wife with children, a chief''s daughter and son, two friends, and a woman
+    whose husband is away.'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 125-145
+  quote_or_summary: The husband of the woman gets knotless cedar, hollows it like
+    a box, adzes it, cuts the corners, and smooths it to make a box for pounding salal-berries.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 146-155
+  quote_or_summary: For a lily-bulb box, the husband takes a wedge-basket, stone hammer,
+    and ax to cedar trees and looks for a tree whose bark runs straight without a
+    twist.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal craft and social-use details are explicit. Motif candidates are
+    limited to ethnographic craft/social patterns because the passage contains no
+    explicit mythic narrative or comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage does not itself support comparison to another text, tradition, or motif family. Taxonomy symbol reference 'tree' is used only for literal alder and cedar trees.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:native-american-ethnology-kwakiutl-1-boas-hunt-archive__l63-l155
+  passage_sha256=34c3466977945b013b4abee8d0b7bbf800ba0b3bd98148319c12c5babf376293
+

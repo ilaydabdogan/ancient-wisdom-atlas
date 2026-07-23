@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l7802-l7824
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / SIXTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS.
+    / CHAPTER  XXYI.; lines 7802-7824
+  start: '7802'
+  end: '7824'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The chapter heading states that the prince became a novice and was treated
+    more severely than the others. The passage describes daily speeches by captains
+    or ceremony managers to novices, recalling Ynca ancestry, former kings, and royal
+    heroes, and instructing the novices in virtues such as bravery, endurance, clemency,
+    justice, liberality, and magnificence as children of the Sun.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chapter heading states that the prince became a novice and was treated
+    with more severity than the others.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Each day a captain or manager of ceremonies delivered a harangue.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The harangues recalled the ancestry of the Yncas, the deeds of former kings,
+    and the deeds of other heroes of royal blood.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The novices were urged to practise moral philosophy and to display bravery
+    in imperial wars, patience in work, clemency toward the poor and subdued enemies,
+    justice by harming no one, and liberality and magnificence.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The novices are described as children of the Sun.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the prince
+  description: A prince who became a novice and was treated more severely than the
+    others.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: captains or managers of the ceremonies
+  description: Officials who delivered daily harangues to the novices.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the novices
+  description: Novices who received speeches instructing them in ancestry, royal examples,
+    and moral conduct.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: former kings and royal heroes
+  description: Former kings and other heroes of the blood royal whose deeds were called
+    to mind in the speeches.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: the poor and the subdued enemy
+  description: Groups toward whom the novices were told clemency, piety, and meekness
+    were due.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: the Sun
+  description: The Sun is named in the phrase describing the novices as children of
+    the Sun.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: novice or initiand
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The heading says the prince became a novice, and the passage repeatedly refers
+    to novices receiving instruction.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: ceremonial instructor
+  assigned_to:
+  - fig:2
+  basis: The captains or managers of ceremonies deliver daily harangues.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: royal exemplar from the past
+  assigned_to:
+  - fig:4
+  basis: Former kings and royal heroes are recalled for their deeds.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipient of expected clemency
+  assigned_to:
+  - fig:5
+  basis: The novices are told of clemency, piety, and meekness due to the poor and
+    the subdued enemy.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: royal child of the Sun
+  assigned_to:
+  - fig:3
+  basis: The novices are addressed as children of the Sun in the moral exhortation.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: celestial parent in royal descent formula
+  assigned_to:
+  - fig:6
+  basis: The passage describes the novices as children of the Sun.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Sun as royal descent marker
+  literal_form: the Sun
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Daily instruction of royal novices
+  summary: A captain or manager of ceremonies gives a daily speech to novices, recalling
+    Ynca ancestry and royal deeds.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Catalogue of expected royal virtues
+  summary: The novices are exhorted to cultivate bravery, endurance, clemency, justice,
+    liberality, and magnificence, with their identity as children of the Sun invoked.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Initiatory instruction of royal novices
+  taxonomy_refs:
+  - initiation
+  basis: The prince and other novices are presented as undergoing a novice stage with
+    severe treatment and daily ceremonial instruction.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage describes instruction and discipline rather than a full initiation
+    rite.
+- id: motif:2
+  label: Royal legitimacy through ancestry and solar descent
+  taxonomy_refs:
+  - royal_legitimacy
+  - divine_parent_child
+  basis: The speeches recall Ynca ancestry, former kings, and royal heroes, and describe
+    the novices as children of the Sun.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The sentence after 'children of the Sun' is cut off in the provided passage,
+    so the exact descent claim is incomplete.
+- id: motif:3
+  label: Transmission of royal moral wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Ceremonial instructors urge novices to practise moral philosophy and enumerate
+    virtues expected of them.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is an ethical-instruction pattern in a chronicle passage, not a mythic
+    wisdom narrative by itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7802-7806
+  quote_or_summary: '"WHEN THE PRINCE BECAME A NOVICE HE WAS TREATED WITH MORE SEVERITY
+    THAN THE OTHERS."'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 7807-7809
+  quote_or_summary: '"Every day one of the captains or managers of the ceremonies
+    delivered an harangue"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7809-7813
+  quote_or_summary: The speeches called to mind Ynca ancestry, the deeds of former
+    kings in peace and war, and the deeds of other heroes of the blood royal.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7814-7823
+  quote_or_summary: The novices were urged to practise moral philosophy, including
+    bravery in wars of expansion, patience in work, clemency toward the poor and subdued
+    enemy, justice by injuring no one, and liberality and magnificence.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:5
+  type: quote
+  locator: lines 7822-7824
+  quote_or_summary: '"as children of the Sun"'
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif classification is moderate because
+    the passage is a chronicle description of novice instruction and the final solar
+    descent sentence is incomplete in the supplied excerpt. No comparison claims were
+    added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to the provided available taxonomy list.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l7802-l7824
+  passage_sha256=e7fac4912257fd8ddf7037388bb7c8b1853da5c6bca28014df681ef18f346ba9
+

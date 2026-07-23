@@ -1,0 +1,239 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l17128-l17142
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OE  THE  YNCAS. / EIGHTH  BOOK  OF  THE  ROYAL / COMMENTARIES  OF  THE  YNCAS.
+    / EIGHTH  BOOK  OF  THE  ROYAL; lines 17128-17142
+  start: '17128'
+  end: '17142'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: They call the milk ñuñu, as well as the teat, and the act of sucking.
+  summary: The passage describes cloth made with durable dyes, notes that Indians
+    do not use animal milk for cheese or fresh consumption, gives a term for milk/teat/sucking,
+    and describes Indian dogs and their name.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Indians make three kinds of cloth from an antecedent material, using beautiful
+    dyes described as never fading.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Indians do not use the milk of either kind to make cheese or to consume
+    fresh.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The milk-giving animals are said to give little milk, only enough to rear
+    their young.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the narrator's time, cheeses of Majorca were brought to Peru and were highly
+    esteemed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The term ñuñu is given for milk, teat, and the act of sucking.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The dogs of the Indians are described as not thoroughbred as in Spain, but
+    as curs, both large and small.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The dogs are all called aleo, glossed as meaning dog.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the Indians
+  description: Collective group described as making cloth, applying dyes, not using
+    milk for dairy foods, and owning dogs.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: milk-giving animals of either kind
+  description: Animals not named in this passage; they are said to give little milk,
+    enough only for their young.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: young of the milk-giving animals
+  description: The young are reared by the small amount of milk given by the animals.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: dogs of the Indians
+  description: Dogs described as large and small curs, all called aleo.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: cloth makers and dyers
+  assigned_to:
+  - fig:1
+  basis: The passage says they make three kinds of cloth and know how to apply durable
+    dyes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: non-users of milk for dairy foods
+  assigned_to:
+  - fig:1
+  basis: The passage says they make no use of the milk to make cheese or to eat fresh.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: limited milk providers
+  assigned_to:
+  - fig:2
+  basis: The animals are said to give only a little milk, sufficient to rear their
+    young.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: offspring reared by milk
+  assigned_to:
+  - fig:3
+  basis: The passage states that the small quantity of milk is sufficient to rear
+    the animals' young.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: owners of dogs
+  assigned_to:
+  - fig:1
+  basis: The passage refers to the dogs of the Indians.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: indigenous dogs
+  assigned_to:
+  - fig:4
+  basis: The passage describes the dogs of the Indians as large and small curs called
+    aleo.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: milk
+  literal_form: milk, called ñuñu along with teat and the act of sucking
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: cloth and dye work
+  summary: The Indians make three kinds of cloth from an antecedent material and apply
+    durable dyes.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: milk use and terminology
+  summary: The passage states that the Indians do not use milk for cheese or fresh
+    consumption, that the animals give little milk, and that ñuñu names milk, teat,
+    and sucking.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: dogs and naming
+  summary: The passage describes Indian dogs as large and small curs and gives aleo
+    as the word meaning dog.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17128-17131
+  quote_or_summary: The Indians make three kinds of cloth from an antecedent material
+    and apply beautiful dyes said never to fade.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 17131-17134
+  quote_or_summary: The Indians make no use of the milk of either kind for cheese
+    or fresh consumption; the animals give little milk, only enough to rear their
+    young.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 17134-17137
+  quote_or_summary: Cheeses of Majorca were brought to Peru and highly esteemed; “They
+    call the milk ñuñu, as well as the teat, and the act of sucking.”
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 17137-17142
+  quote_or_summary: The dogs of the Indians are described as not thoroughbred as in
+    Spain, but as curs, large and small, all called aleo, meaning dog.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is descriptive and does not present a mythic narrative or supported
+    comparative motif claim. Milk is recorded only as a literal symbol/object because
+    it is present in the supplied taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No candidate mythology motifs or comparison claims were extracted from this descriptive ethnographic passage.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l17128-l17142
+  passage_sha256=3069eb4e93c763fe5adc55ba2e9d20a36cde87706c2553dd873feddf44c81ac0
+

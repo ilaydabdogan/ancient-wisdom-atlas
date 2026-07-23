@@ -1,0 +1,391 @@
+---
+record_id: batch.motif.korean-korean-tales-allen-archive-l1280-l1340
+source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+passage_locator:
+  label: OR,  WHY  THE  CAT  AND  DOG  ARE  ENEMIES. / THE  ENCHANTED  WINE-JUG. /
+    THE  ENCHANTED  WINE-JUG . 43 / THE  ENCHANTED  WINE-JUG.  45; lines 1280-1340
+  start: '1280'
+  end: '1340'
+  translation: Korean Tales
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: 'After the old man''s wine-jug is exhausted, neighbors gather and regret
+    the loss of cheap good wine. The old man suspects he may have accidentally poured
+    the secret bit of amber into a customer''s jug. His dog and cat listen, discuss
+    how to help him, and adopt a plan to search every house: the cat will use smell
+    indoors while the dog converses with dogs outside. They continue searching night
+    after night despite failures and occasional fights.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The old man's jug has no wine left and he has no more with which to refill
+    it.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: People fill the old man's small straw-thatched hut and court to verify the
+    news.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The old man admits the statement is true but gives little explanation.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dog sits upright with bowed head and appears to share the sorrow.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The cat named Thomas moves nervously from the floor to the counter and then
+    to a roof beam under the thatch.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The old man privately concludes that he may have poured the bit of amber into
+    a customer's jug, but does not know whose jug it is or how to reclaim it.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: At night the dog and cat listen to the old man, wink at each other, and consider
+    how to help him.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: After the old man falls asleep, the dog and cat sit face to face and discuss
+    a plan.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The cat says it can detect the missing thing by smell if close enough.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The dog proposes searching every house in the neighborhood, with the cat visiting
+    cats indoors and the dog talking with dogs outside.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The dog and cat adopt the plan that night and continue searching night after
+    night, sometimes fighting before they can continue.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: old man
+  description: Owner of the exhausted jug; he suspects the bit of amber may have gone
+    into a customer's jug.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: dog
+  description: The old man's dog; it appears sorrowful, listens to the problem, and
+    proposes a neighborhood search.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:9
+- id: fig:3
+  name_or_label: Thomas the cat
+  description: The cat called Thomas; it is agitated, says it can detect the missing
+    object by smell, and joins the search plan.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:10
+- id: fig:4
+  name_or_label: neighbors and customers
+  description: People who gather to verify the news and regret the loss of cheap good
+    wine; one unknown customer may possess the jug containing the amber.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: owner who has lost the source of wine
+  assigned_to:
+  - fig:1
+  basis: The jug is exhausted, and the old man suspects the amber may have been poured
+    into someone else's jug.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: animal helper
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The dog and cat listen to the old man's problem and puzzle over how to assist
+    their kind old friend.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: planner of neighborhood search
+  assigned_to:
+  - fig:2
+  basis: The dog proposes searching every house and speaking with dogs outside.
+  evidence_refs:
+  - ev:9
+- id: role:4
+  label: scent-detector
+  assigned_to:
+  - fig:3
+  basis: The cat says it can detect the missing thing by smell if within smelling
+    distance.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: public witnesses and possible holders of the lost object
+  assigned_to:
+  - fig:4
+  basis: People gather to verify the wine-jug's exhaustion, and the old man thinks
+    the amber may have been poured into a customer's jug.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: exhausted wine-jug
+  literal_form: wine-jug with no drop remaining
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bit of amber
+  literal_form: small amber object believed to have been poured into a customer's
+    jug
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: straw-thatched hut and mud-walled court
+  literal_form: little straw-thatched hut and small court encircled by a mud wall
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: cat's smelling ability
+  literal_form: the cat's claim that it can detect the thing by smell
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Public discovery of the exhausted jug
+  summary: The old man's wine-jug is empty, people gather at his hut, and the old
+    man confirms the news while the dog and cat visibly react.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Old man's private explanation
+  summary: The old man thinks he may have accidentally poured the bit of amber into
+    a customer's jug but does not know who has it.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Animal helpers plan a search
+  summary: After listening to the old man, the dog and cat discuss how to help; the
+    cat offers scent detection and the dog proposes a house-to-house search.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Nightly neighborhood search
+  summary: The dog and cat adopt the plan and continue searching house by house on
+    successive nights, sometimes meeting resistance and fighting before continuing.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: lost source of miraculous abundance
+  taxonomy_refs: []
+  basis: The old man's wine supply from the jug is exhausted, and he suspects the
+    crucial bit of amber has been lost into another jug.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage implies the jug and amber are special, but the mechanism of
+    enchantment is not fully described within this excerpt.
+- id: motif:2
+  label: animal helpers search for a lost object
+  taxonomy_refs: []
+  basis: The dog and cat act on behalf of the old man, plan a search, and use their
+    respective social and sensory abilities to look through the neighborhood.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This is a passage-level motif candidate rather than a supplied taxonomy
+    category.
+- id: motif:3
+  label: quest for a hidden or misplaced magical object
+  taxonomy_refs:
+  - mystical_quest
+  basis: The missing bit of amber is sought through a systematic house-to-house search
+    after the wine-jug's abundance fails.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the excerpt gives a practical search
+    rather than a fully developed sacred or visionary quest.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1280-1283
+  quote_or_summary: The jug is exhausted; no drop remains and the old man cannot refill
+    it.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1283-1291
+  quote_or_summary: People come to the old man's straw-thatched hut and mud-walled
+    court; he admits the news is true but says little.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1291-1297
+  quote_or_summary: The dog sits upright with bowed head, looking sorrowful rather
+    than lying down.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1298-1306
+  quote_or_summary: Thomas the cat moves nervously from the floor to the counter and
+    then to a roof beam under the thatch.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1307-1318
+  quote_or_summary: The old man offers no explanation but privately thinks he may
+    have poured the bit of amber into a customer's jug and cannot identify or reclaim
+    it.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 1318-1324
+  quote_or_summary: At night the old man talks the matter over to himself while the
+    dog and cat listen, wink at each other, and think how to help him.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 1325-1327
+  quote_or_summary: After the old man falls asleep, the dog and cat sit face to face
+    and begin a discussion.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: quote
+  locator: lines 1327-1331
+  quote_or_summary: The cat says it can detect the thing if it comes within smelling
+    distance.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; brief quote/paraphrase from public domain text.
+- id: ev:9
+  type: summary
+  locator: lines 1331-1338
+  quote_or_summary: 'The dog proposes a search through every house: the cat will visit
+    cats indoors and smell for the object while the dog talks with dogs outside.'
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:10
+  type: summary
+  locator: lines 1339-1340
+  quote_or_summary: The plan is adopted that night; they continue searching night
+    after night, and sometimes have to fight before going on with the search.
+  source_text_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are passage-level candidates;
+    the excerpt hints at enchantment but does not fully explain the jug or amber's
+    power.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a cross-text or historical comparison.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:korean-korean-tales-allen-archive__l1280-l1340
+  passage_sha256=552819fdcaaf1fcf1a02376d2c863692a39ec747917fbfde54786435f829b970
+

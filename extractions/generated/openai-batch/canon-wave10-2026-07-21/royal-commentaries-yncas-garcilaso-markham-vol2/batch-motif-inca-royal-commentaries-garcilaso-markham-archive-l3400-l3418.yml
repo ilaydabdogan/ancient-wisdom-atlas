@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l3400-l3418
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: CHAPTER  XXII. / FIFTH  BOOK  OF  THE  BOYAL / COMMENTARIES  OF  THE  YNCAS.
+    / FIFTH  BOOK  OF  THE  ROYAL; lines 3400-3418
+  start: '3400'
+  end: '3418'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: The first thing they pulled down was the statue, because they believed there
+    was much gold buried under its feet.
+  summary: The passage describes Spaniards destroying a statue, temple, and related
+    edifices, reportedly because they believed treasure or gold lay beneath them;
+    the buildings were reduced to ruins, and the stone statue remained for some years
+    in a disfigured state.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says that certain works ought to have been preserved so future
+    people could see what conquerors had obtained by prowess and good fortune.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the works were destroyed and leveled, leaving scarcely
+    any vestiges, and that thoughtful persons deplored this.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage identifies the Spaniards as the people who pulled down the buildings.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The stated chief reason for pulling down the buildings was the belief that
+    treasure lay under them.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The first object pulled down was a statue because it was believed that much
+    gold was buried under its feet.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The temple was destroyed in parts until the whole was in ruins.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A stone statue continued to exist for some years, but it was disfigured by
+    stones hurled against it.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Spaniards
+  description: The group said to have pulled down the statue, temple, and other buildings.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: conquerors
+  description: A group whose great works are said to have been obtained by prowess
+    and good fortune.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: thoughtful persons
+  description: Persons said to have deeply deplored the destruction and loss of vestiges.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: destroyers of buildings
+  assigned_to:
+  - fig:1
+  basis: The passage says the Spaniards pulled down this and other buildings.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: seekers of hidden treasure
+  assigned_to:
+  - fig:1
+  basis: The passage says the chief reason for pulling down the buildings was a belief
+    that treasure lay beneath them.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: possessors of notable works
+  assigned_to:
+  - fig:2
+  basis: The passage refers to great works that the conquerors had obtained by prowess
+    and good fortune.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: deplorers of destruction
+  assigned_to:
+  - fig:3
+  basis: The passage says thoughtful persons deeply deplored the loss of vestiges
+    and similar edifices.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: statue
+  literal_form: statue; later specified as a statue of stone
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: temple
+  literal_form: temple destroyed part by part until it was wholly in ruins
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: hidden treasure or gold
+  literal_form: treasure under buildings; gold buried under the statue's feet
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: ruins and vestiges
+  literal_form: scarcely any vestiges; the whole temple in ruins
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Loss of monuments and vestiges
+  summary: The passage reflects that works which could have been preserved for future
+    viewing were instead destroyed and leveled, leaving little trace and causing regret
+    among thoughtful persons.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Demolition in search of treasure
+  summary: The Spaniards pull down buildings because they believe treasure lies beneath
+    them, beginning with a statue under whose feet they believe much gold is buried.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Temple ruined and statue disfigured
+  summary: The temple is destroyed piece by piece until ruined, while a stone statue
+    remains for some years in a damaged condition after stones are hurled against
+    it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: destruction of monuments in search of hidden treasure
+  taxonomy_refs: []
+  basis: The passage states that the Spaniards pulled down buildings because they
+    believed treasure lay beneath them, and first pulled down a statue because they
+    believed gold was under its feet.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a descriptive passage-level motif; no supplied taxonomy reference
+    directly matches it.
+- id: motif:2
+  label: ruined temple and damaged statue
+  taxonomy_refs: []
+  basis: The temple is reduced to ruins, and the stone statue remains for some years
+    in a disfigured state after stones are thrown at it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain the statue's iconography or cultic identity.
+- id: motif:3
+  label: loss of commemorative works through destruction
+  taxonomy_refs: []
+  basis: The passage says works that might have been preserved for future viewers
+    were destroyed and leveled, leaving scarcely any vestiges.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents this as historical reflection rather than an explicit
+    mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3400-3403
+  quote_or_summary: Works “ought to have preserved” so future people might behold
+    “the great works that the conquerors had obtained by their prowess and good fortune.”
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 3403-3408
+  quote_or_summary: The passage says the works were destroyed out of envy, leveled
+    to the ground, and left with scarcely any vestiges; thoughtful persons deplored
+    this.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 3408-3412
+  quote_or_summary: "“The chief reason which moved the Spaniards to pull down this
+    and other buildings” was belief in treasure beneath them; “The first thing they
+    pulled down was the statue” because gold was thought buried under its feet."
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 3412-3415
+  quote_or_summary: The temple was destroyed successively, one part after another,
+    until the whole was in ruins.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 3415-3418
+  quote_or_summary: "“The statue of stone continued to exist for some years,” though
+    disfigured by stones hurled against it."
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive because
+    the available taxonomy does not contain a close direct match. No comparison claims
+    were made because the passage itself does not compare this episode to another
+    corpus or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l3400-l3418
+  passage_sha256=d29b20988f0bf39db03756decfeadbf4ee8fff2d5eb1b1c401280a77f796db31
+

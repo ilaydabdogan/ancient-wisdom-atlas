@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.malagasy-great-african-island-sibree-archive-l4954-l5045
+source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+passage_locator:
+  label: THE  TRAVELLER'S  TREE.  93 / USEFUL  PLANTS.  95 / FLOWERING  PLANTS.  97
+    / VEGETABLE  EXPORTS.  99; lines 4954-5045
+  start: '4954'
+  end: '5045'
+  translation: 'The Great African Island: Chapters on Madagascar'
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes flowering plants near the Matitanana, vegetable exports
+    such as gum-copal and rubber, the use of fragrant tree gums as incense in Malagasy
+    ody worship and a proposed connection to a divine name meaning “The Fragrant One,”
+    the island’s botanical abundance and incomplete scientific exploration, and the
+    underwater lace-leaf plant.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A sea-shore area near the mouth of the Matitanana river is described as covered
+    with bushes bearing many large waxy white flowers.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gum-copal is described as an export obtained from more than one species of
+    tree, chiefly on the eastern coast.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The gum of certain trees is described as having been used as incense from
+    time immemorial.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the worship of charms or ody venerated by Malagasy tribes, the charms were
+    invoked together with fumes of fragrant gums.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage reports that some people have supposed the name Andriamdnitra,
+    glossed as “The Fragrant One,” to be derived from incense use in ancient worship.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Indiarubber is described as being obtained from a liana or creeper and from
+    larger trees, with destructive harvesting threatening the trade.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Madagascar’s vegetable productions are described as varied and abundant, but
+    no complete botanical investigation is said to have been made.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The lace-leaf plant or water-yam is described as peculiar to Madagascar, edible-rooted,
+    and growing under water about a foot or more deep.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The lace-leaf plant’s leaves are described as open between the veins, resembling
+    bright green lace or open needlework.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Malagasy tribes
+  description: Human groups described as venerating charms or ody in worship.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Andriamdnitra, the Supreme Being
+  description: The passage names Andriamdnitra as the most frequent name for the Supreme
+    Being and glosses it as “The Fragrant One.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: venerators of ody charms
+  assigned_to:
+  - fig:1
+  basis: The passage says the charms or ody were venerated by Malagasy tribes and
+    invoked in worship with fragrant gum fumes.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Supreme Being with fragrance-associated name
+  assigned_to:
+  - fig:2
+  basis: The passage glosses the frequent name for the Supreme Being as “The Fragrant
+    One” and links it by reported supposition to incense use.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: gum-producing trees
+  literal_form: trees yielding gum-copal and fragrant gums
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fragrant gum fumes
+  literal_form: fumes of fragrant gums used as incense
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ody charms
+  literal_form: charms or ody venerated by Malagasy tribes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: fragrance-linked divine name
+  literal_form: Andriamdnitra glossed as “The Fragrant One”
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: water-yam or lace-leaf plant
+  literal_form: edible-rooted plant growing under water with lace-like leaves
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: orchid-like shore flowers
+  literal_form: large waxy white flowers on bushes near the Matitanana river mouth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Matitanana shore flower display
+  summary: The narrator describes a large sea-shore display of orchid-like bushes
+    bearing many white flowers near the mouth of the Matitanana river.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fragrant gum in ody worship
+  summary: The passage describes tree gums as incense and says ody charms venerated
+    by Malagasy tribes were invoked with fragrant fumes; it also reports a proposed
+    link between incense use and a divine name meaning “The Fragrant One.”
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rubber extraction and threatened trade
+  summary: Rubber is described as coming from a creeper and larger trees, while destructive
+    harvesting is said to threaten the continuation of the trade.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Underwater lace-leaf plant
+  summary: The lace-leaf plant is described as a Madagascar plant with an edible root,
+    growing under water, and producing leaves that resemble green lace or open needlework.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Fragrant gum incense accompanying invocation
+  taxonomy_refs: []
+  basis: The passage states that ody charms were invoked together with the fumes of
+    fragrant gums in worship.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic religious-use pattern, not a narrated myth; no
+    full ritual sequence is provided.
+- id: motif:2
+  label: Divine name associated with ritual fragrance
+  taxonomy_refs: []
+  basis: The passage reports a supposition that the Supreme Being’s name, glossed
+    as “The Fragrant One,” derives from the use of incense in ancient worship.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage explicitly presents the etymological connection as something
+    only “some have supposed.”
+comparison_claims:
+- id: claim:1
+  claim: The incense passage supports only a functional comparison to a broad ritual
+    pattern in which fragrant smoke accompanies worship or invocation.
+  claim_level: same_function
+  target: ritual incense or fumigation accompanying worship/invocation
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No external tradition, historical contact, or common inheritance is
+    named in the passage; the claim is limited to ritual function.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4954-4967
+  quote_or_summary: A sea-shore near the mouth of the Matitanana river is described
+    as covered with orchid-like bushes bearing many large waxy white flowers.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4968-4980
+  quote_or_summary: Gum-copal comes from trees; certain tree gums have long been used
+    as incense; ody charms were invoked with fragrant gum fumes; the divine name Andriamdnitra
+    is glossed as “The Fragrant One” and linked by some to incense use.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4981-4988
+  quote_or_summary: Indiarubber is described as coming from a creeper and from larger
+    trees, with wanton destruction of trees threatening the trade.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4989-5018
+  quote_or_summary: The passage describes Madagascar’s vegetable productions as varied
+    and abundant, mentions potential exports and valuable timber, and notes that complete
+    scientific botanical exploration has not yet been made.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5019-5045
+  quote_or_summary: The lace-leaf plant or water-yam is described as peculiar to Madagascar,
+    with an edible root, underwater growth, and leaves resembling a living fibrous
+    skeleton or bright green lace.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  rights_note: Public domain source; passage summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Botanical and commercial observations are straightforward. Religious motifs
+    are limited to the short passage on ody worship and incense; broader comparative
+    interpretation should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No historical-contact or common-inheritance claim is made. Available taxonomy symbol refs are used only where the literal passage supports tree or water associations.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:malagasy-great-african-island-sibree-archive__l4954-l5045
+  passage_sha256=abd8dc22a38b6e3ec5b140c2155f59ef723ce7adbb20a94be0bdadc947a6a418
+

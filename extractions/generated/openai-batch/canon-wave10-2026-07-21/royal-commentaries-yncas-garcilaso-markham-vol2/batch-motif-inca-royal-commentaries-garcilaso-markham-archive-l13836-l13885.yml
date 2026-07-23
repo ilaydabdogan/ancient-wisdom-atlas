@@ -1,0 +1,324 @@
+---
+record_id: batch.motif.inca-royal-commentaries-garcilaso-markham-archive-l13836-l13885
+source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+passage_locator:
+  label: COMMENTARIES  OF  THE  YNCAS. / SEVENTH  BOOS  OE  THE  KOTAL / COMMENTARIES  OE  THE  YNCAS.
+    / CHAPTER  XXVIII.; lines 13836-13885
+  start: '13836'
+  end: '13885'
+  translation: First Part of the Royal Commentaries of the Yncas, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave10-2026-07-21; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes masonry using sticky red clay mortar, then introduces
+    a chapter on three enclosing walls. It states that, on the gradual slope before
+    a hill and facing a wide plain where enemies might approach, three long walls
+    were constructed one before another and were reported to form a half-moon joining
+    another wall over the city. Editorial notes describe surviving walls, measurements,
+    flanking walls, angles, heights, and later crosses visible from the city, while
+    also correcting the half-moon description.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A mixture of sticky red clay is described as mortar used to fill small inequalities
+    left in worked stone.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wall is described as thick, strong, neatly finished, and accurately worked.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Opposite the wall there is a wide plain in front of a hill.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The ascent from the plain is described as very gradual, allowing a hypothetical
+    enemy to approach in squadrons.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Three walls were constructed one in front of another on the slope of the hill.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Each of the three walls is reported as more than two hundred brazas long and
+    as forming a half-moon to join another wall overlooking the city.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: An editorial note describes the works overlooking the town as three light-coloured
+    sandstone walls built in half-circles around the summit, with terraces, ruins,
+    hewn stones, and three crosses above.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Another editorial note states that the walls are nearly straight rather than
+    half-moon shaped, connected to the town-overlooking works by a flanking wall,
+    and have salient and retiring angles.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Unspecified builders
+  description: The passage refers to unnamed builders only as those who used mortar
+    and constructed the walls.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Hypothetical enemy force
+  description: An enemy is mentioned as potentially able to approach the hill from
+    the gradual ascent in squadrons.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Annotating observer
+  description: The footnotes include a first-person measuring and correcting observer
+    who comments on distances and the shape of the walls.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: constructors
+  assigned_to:
+  - fig:1
+  basis: The passage says they used mortar and constructed three walls on the hill
+    slope.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: potential attackers
+  assigned_to:
+  - fig:2
+  basis: The passage states that an enemy might approach in squadrons because of the
+    gradual ascent.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: measuring and correcting annotator
+  assigned_to:
+  - fig:3
+  basis: The notes give measurements and correct the statement that the walls form
+    a half-moon.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: red clay mortar
+  literal_form: sticky red clay mixture used as mortar in the masonry
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: three enclosing walls
+  literal_form: three walls placed one before another on the slope of the hill
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: reported half-moon wall plan
+  literal_form: walls described by the main text as forming a half-moon, though the
+    note says they are nearly straight
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:4
+  label: hill and summit
+  literal_form: hill slope, summit, and town-overlooking works
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: three crosses
+  literal_form: three crosses standing above the ruined upper wall and visible from
+    the city
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: masonry finish with red clay mortar
+  summary: A wall is described as carefully worked, thick, strong, and finished with
+    sticky red clay mortar filling small gaps in the stones.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: construction of triple defensive walls on the hill approach
+  summary: On the gradual slope facing a wide plain, three walls are placed one before
+    another to close toward another wall over the city, in a position where an enemy
+    might otherwise approach in formation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: editorial description and correction of the surviving works
+  summary: The notes describe surviving sandstone walls, measurements, flanking connections,
+    angles, varying heights, ruins, and three crosses, while disputing the main text's
+    half-moon description.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: triple fortified enclosure
+  taxonomy_refs: []
+  basis: The central pattern is three walls built one before another on a hill slope,
+    closing toward another city-facing wall.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: This is an architectural pattern rather than a mythic narrative motif;
+    no supplied taxonomy family is directly supported.
+- id: motif:2
+  label: defended city approach from plain to hill
+  taxonomy_refs: []
+  basis: The passage links a wide plain, gradual ascent, possible enemy approach,
+    and enclosing walls protecting the side of the hill connected to the city-facing
+    works.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage describes practical fortification; symbolic or ritual significance
+    is not stated.
+- id: motif:3
+  label: monumental fitted masonry
+  taxonomy_refs: []
+  basis: The passage emphasizes sticky red clay mortar, filled inequalities, thick
+    walls, neat finish, accuracy, and large surviving sandstone walls with measured
+    heights.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: This is a material construction motif; no mythological meaning is supplied
+    in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13836-13843
+  quote_or_summary: A wall is described as using sticky red clay mortar to fill small
+    inequalities in worked stone, displaying strength, neat finish, thickness, and
+    accuracy.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13849-13855
+  quote_or_summary: On the opposite side there is a wide plain before the hill; the
+    ascent is gradual and an enemy might approach in squadrons.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13855-13858
+  quote_or_summary: Three walls were constructed on the slope of the hill, one in
+    front of another.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13858-13862
+  quote_or_summary: Each wall is said to be more than two hundred brazas long and
+    to form a half-moon so as to close in and join the wall overhanging the city.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: footnote 1, lines 13863-13873
+  quote_or_summary: A note describes three light-coloured sandstone walls built in
+    half-circles around the summit, with terraces, a ruined third wall, hewn stones,
+    and three crosses visible from the city.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+- id: ev:6
+  type: summary
+  locator: footnote 2, lines 13874-13880
+  quote_or_summary: A note says Garcilasso underrates the distance, gives the outer
+    wall as four hundred yards by the annotator's measurement, and mentions a forty-three-yard
+    flanking wall at the western end.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+- id: ev:7
+  type: summary
+  locator: footnote 3, lines 13881-13885
+  quote_or_summary: A note says the walls do not form a half-moon but are nearly straight,
+    connected by a flanking wall, and each have twenty-two salient and retiring angles
+    with differing heights.
+  source_text_path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal architectural extraction is well supported. Motif candidates
+    are cautious because the passage is descriptive architecture rather than explicit
+    myth or ritual symbolism. No comparison claims were made because the passage itself
+    does not support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-22'
+notes: |-
+  No supplied taxonomy motif family or symbol was assigned, because the passage does not explicitly support those categories beyond general architectural description.
+  batch_run_id=canon-wave10-2026-07-21
+  custom_id=motif_extract:inca-royal-commentaries-garcilaso-markham-archive__l13836-l13885
+  passage_sha256=ba8f5d06b7082f1f31351bcfe0493b73caf146ba2b06abc49b609c961ed5e302
+
