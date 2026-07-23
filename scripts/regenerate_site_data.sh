@@ -14,6 +14,6 @@ ruby scripts/build_motif_constellations.rb --force
 ruby scripts/build_null_model.rb
 ruby scripts/build_motif_sequence_index.rb --force
 ruby scripts/build_isolated_prediction_test.rb
-ruby scripts/build_consensus_index.rb --run motif-extraction-2026-07-17-azure-wave1 --run replication-gpt54-2026-07-17 --run replication-gpt56terra-2026-07-17 --run replication-gpt51-2026-07-17 --run replication-gpt56luna-2026-07-18 || true
-ruby scripts/build_replication_agreement.rb --run-id motif-extraction-2026-07-17-azure-wave1 --run-id replication-gpt54-2026-07-17 --run-id replication-gpt56terra-2026-07-17 --run-id replication-gpt51-2026-07-17 || true
+ruby scripts/build_consensus_index.rb --run motif-extraction-2026-07-17-azure-wave1 --run replication-gpt54-2026-07-17 --run replication-gpt56terra-2026-07-17 --run replication-gpt51-2026-07-17 --run replication-gpt56luna-2026-07-18 --run canon-wave10-2026-07-21 --run replication-gpt54-wave10-2026-07-21 || true
+ruby scripts/build_replication_agreement.rb --run-id motif-extraction-2026-07-17-azure-wave1 --run-id replication-gpt54-2026-07-17 --run-id replication-gpt56terra-2026-07-17 --run-id replication-gpt51-2026-07-17 --run-id canon-wave10-2026-07-21 --run-id replication-gpt54-wave10-2026-07-21 || true
 echo "REGEN-DONE"

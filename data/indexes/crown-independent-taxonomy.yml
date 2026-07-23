@@ -9,94 +9,445 @@ interpretation: STRONG = aligned structure beats chance AND webs share topology;
   isolated peoples' independently-built web matches Eurasia's without ever being mapped
   into it.
 corpus:
-  iso_records: 7709
-  iso_labels: 40883
-  con_records: 41236
-  con_labels: 207634
+  iso_records: 9690
+  iso_labels: 51170
+  con_records: 46486
+  con_labels: 231576
 results:
 - k: 40
-  alignment_cosine: 0.8401
-  iso_edges: 293
-  con_edges: 289
-  reproduction: 0.5768
-  iso_edges_tested: 293
-  jointly_present_weight_rho: 0.2627
-  null_mean: 0.3719
-  null_sd: 0.0239
-  null_max: 0.4505
+  alignment_cosine: 0.8161
+  iso_edges: 298
+  con_edges: 287
+  reproduction: 0.5067
+  iso_edges_tested: 298
+  jointly_present_weight_rho: 0.1396
+  null_mean: 0.3691
+  null_sd: 0.0223
+  null_max: 0.4329
   permutations_beaten: 500/500
   p_value: 0.002
   topology_iso:
     nodes: 40
-    edges: 293
+    edges: 298
     giant_frac: 1.0
-    mean_degree: 14.65
-    clustering: 0.552
-    modularity: 0.2
+    mean_degree: 14.9
+    clustering: 0.609
+    modularity: 0.229
   topology_con:
     nodes: 40
-    edges: 289
+    edges: 287
     giant_frac: 1.0
-    mean_degree: 14.45
-    clustering: 0.578
-    modularity: 0.279
+    mean_degree: 14.35
+    clustering: 0.602
+    modularity: 0.259
   degree_ks_stat: 0.15
   degree_ks_p: 0.7659
   matched_bonds: null
 - k: 64
-  alignment_cosine: 0.8213
-  iso_edges: 771
-  con_edges: 737
-  reproduction: 0.5253
-  iso_edges_tested: 771
-  jointly_present_weight_rho: 0.1146
-  null_mean: 0.3649
-  null_sd: 0.0143
-  null_max: 0.4137
+  alignment_cosine: 0.824
+  iso_edges: 706
+  con_edges: 736
+  reproduction: 0.5241
+  iso_edges_tested: 706
+  jointly_present_weight_rho: 0.18
+  null_mean: 0.366
+  null_sd: 0.0157
+  null_max: 0.4306
   permutations_beaten: 500/500
   p_value: 0.002
   topology_iso:
     nodes: 64
-    edges: 771
+    edges: 706
     giant_frac: 1.0
-    mean_degree: 24.094
-    clustering: 0.576
-    modularity: 0.22
+    mean_degree: 22.062
+    clustering: 0.556
+    modularity: 0.255
   topology_con:
     nodes: 64
-    edges: 737
+    edges: 736
     giant_frac: 1.0
-    mean_degree: 23.031
-    clustering: 0.584
-    modularity: 0.268
-  degree_ks_stat: 0.156
-  degree_ks_p: 0.418
+    mean_degree: 23.0
+    clustering: 0.592
+    modularity: 0.251
+  degree_ks_stat: 0.141
+  degree_ks_p: 0.5551
   matched_bonds:
   - iso_cluster_a:
-    - hidden or vanishing spirit dwelling
-    - dangerous spirit beings with harmful objects
-    - spirit appears in animal form
-    - animal-like spirits as killers
-    - spirits of dead and living persons
+    - boundary violation brings war and near extermination
+    - starvation siege followed by treacherous massacre
+    - destruction of rival settlement and incorporation of survivors
+    - boundary agreement followed by continued raids
+    - raid and refuge in fortified places
     iso_cluster_b:
-    - shamanic initiation through illness and recovery
-    - spirit-made medicine-man initiation
-    - shamanic healing and magic-working
-    - ritual healing through animal invocation and medicinal substances
-    - shamanic initiation by supernatural beings
+    - returning warrior rejoins companions with trophies
+    - return to battlefield and taking enemy trophies
+    - return with war trophies after presumed death
+    - ritualized victorious warrior return
+    - lone warrior incursion and successful return with trophies
     con_cluster_a:
-    - mystical discipline leading to emancipation
-    - mystical discipline toward emancipation
-    - internalized mystical quest for liberation
-    - union with the divine and dissolution of distinctions
-    - mystical deliverance from self and union with truth
+    - rescue of a ruler from battlefield capture
+    - heroic crossing through overwhelming troops
+    - fortress defeat followed by disguised escape
+    - outnumbered hero's last stand before capture
+    - intercepted warrior challenged before reaching allies
     con_cluster_b:
-    - sacred wisdom transmitted through divine teaching
-    - sacred wisdom instruction
-    - divinely bestowed sacred knowledge
-    - divine instruction and sacred knowledge
-    - transmission of sacred wisdom
-    iso_weight: 1.291
+    - warrior's battlefield vow to slay a rival hero
+    - warrior urged to fulfill a battlefield vow
+    - aged warrior voluntarily accepts likely death in single combat
+    - warrior self-sacrifice in battle
+    - warrior boast before fatal combat
+    iso_weight: 1.205
+    con_weight: 1.485
+    iso_traditions:
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - khoisan-south-african
+    - maya
+    - mesoamerican
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - san
+    - siberian
+    - zulu
+    - zuni
+    - amazonian
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - inuit
+    - khoisan-south-african
+    - mesoamerican
+    - nahua
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - siberian
+    - zulu
+    - zuni
+  - iso_cluster_a:
+    - ritual peacemaking representative carried by opponents
+    - conditional sacred exchange after war success
+    - peace covenant through burial of weapons
+    - peace delegation tested by required participation in war
+    - ritual removal of weapons to enact peace
+    iso_cluster_b:
+    - boundary violation brings war and near extermination
+    - starvation siege followed by treacherous massacre
+    - destruction of rival settlement and incorporation of survivors
+    - boundary agreement followed by continued raids
+    - raid and refuge in fortified places
+    con_cluster_a:
+    - enemy suppliant granted a pledge of safety
+    - oath-bound submission of an enemy ruler
+    - coerced ransom oath leading to betrayal
+    - collective retaliation for unrighteous capture
+    - ritualized surrender and royal pardon
+    con_cluster_b:
+    - rescue of a ruler from battlefield capture
+    - heroic crossing through overwhelming troops
+    - fortress defeat followed by disguised escape
+    - outnumbered hero's last stand before capture
+    - intercepted warrior challenged before reaching allies
+    iso_weight: 1.43
+    con_weight: 0.93
+    iso_traditions:
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - khoisan-south-african
+    - maya
+    - nahua
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - siberian
+    - zulu
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - khoisan-south-african
+    - maya
+    - mesoamerican
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - san
+    - siberian
+    - zulu
+    - zuni
+  - iso_cluster_a:
+    - ritual peacemaking representative carried by opponents
+    - conditional sacred exchange after war success
+    - peace covenant through burial of weapons
+    - peace delegation tested by required participation in war
+    - ritual removal of weapons to enact peace
+    iso_cluster_b:
+    - returning warrior rejoins companions with trophies
+    - return to battlefield and taking enemy trophies
+    - return with war trophies after presumed death
+    - ritualized victorious warrior return
+    - lone warrior incursion and successful return with trophies
+    con_cluster_a:
+    - enemy suppliant granted a pledge of safety
+    - oath-bound submission of an enemy ruler
+    - coerced ransom oath leading to betrayal
+    - collective retaliation for unrighteous capture
+    - ritualized surrender and royal pardon
+    con_cluster_b:
+    - warrior's battlefield vow to slay a rival hero
+    - warrior urged to fulfill a battlefield vow
+    - aged warrior voluntarily accepts likely death in single combat
+    - warrior self-sacrifice in battle
+    - warrior boast before fatal combat
+    iso_weight: 1.352
+    con_weight: 0.637
+    iso_traditions:
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - khoisan-south-african
+    - maya
+    - nahua
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - siberian
+    - zulu
+    - amazonian
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - inuit
+    - khoisan-south-african
+    - mesoamerican
+    - nahua
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - siberian
+    - zulu
+    - zuni
+  - iso_cluster_a:
+    - tree refuge against an angry pursuer
+    - waterborne escape from a pursuer
+    - hidden helpers ambush from rocks to enable escape
+    - pursuer thwarted by disappearance and altered terrain
+    - wish traps the attacking pursuer
+    iso_cluster_b:
+    - returning warrior rejoins companions with trophies
+    - return to battlefield and taking enemy trophies
+    - return with war trophies after presumed death
+    - ritualized victorious warrior return
+    - lone warrior incursion and successful return with trophies
+    con_cluster_a:
+    - natural weapons against armed war host
+    - arming against a feared special weapon
+    - hero arming against a feared special weapon
+    - ambush by concealed warriors
+    - weapon challenge as test of prowess
+    con_cluster_b:
+    - warrior's battlefield vow to slay a rival hero
+    - warrior urged to fulfill a battlefield vow
+    - aged warrior voluntarily accepts likely death in single combat
+    - warrior self-sacrifice in battle
+    - warrior boast before fatal combat
+    iso_weight: 0.616
+    con_weight: 1.325
+    iso_traditions:
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - khoisan-south-african
+    - mesoamerican
+    - nahua
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zulu
+    - zuni
+    - amazonian
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - inuit
+    - khoisan-south-african
+    - mesoamerican
+    - nahua
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - siberian
+    - zulu
+    - zuni
+  - iso_cluster_a:
+    - departure from earth to sky as weather beings
+    - return of sky beings to clouds
+    - sky and storm phenomena rendered as sacred body and shelter emblems
+    - directional and atmospheric arrival of sacred beings
+    - ritual transition from visible storm display to invisible life force
+    iso_cluster_b:
+    - etiology of an animal's present form
+    - etiological origin of an animal feature
+    - origin of animal markings from an ancestral mishap
+    - origin of animal traits from mythic incidents
+    - origin explanation for present animal traits
+    con_cluster_a:
+    - divine cosmic ordering of heaven and earth
+    - divine support of cosmic strata
+    - divine control of cosmic alternation
+    - cosmic and theological duality among divine powers
+    - divine wisdom manifested in the cosmos
+    con_cluster_b:
+    - creation after cosmic dissolution
+    - cosmic creation and dissolution inquiry
+    - cosmic creation and resurrection from earth
+    - creation following cosmic dissolution
+    - creation from the divine body in the cosmic ocean
+    iso_weight: 0.527
+    con_weight: 1.38
+    iso_traditions:
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - khoisan-south-african
+    - maya
+    - mesoamerican
+    - nahua
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zulu
+    - zuni
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - khoisan-south-african
+    - maya
+    - mesoamerican
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zulu
+    - zuni
+  - iso_cluster_a:
+    - departure from earth to sky as weather beings
+    - return of sky beings to clouds
+    - sky and storm phenomena rendered as sacred body and shelter emblems
+    - directional and atmospheric arrival of sacred beings
+    - ritual transition from visible storm display to invisible life force
+    iso_cluster_b:
+    - divine beings invoked for successful birth
+    - celestial parents invoked as helpers
+    - divine parent and celestial child
+    - divine parent-child lineage
+    - divine parent-child ancestry
+    con_cluster_a:
+    - divine cosmic ordering of heaven and earth
+    - divine support of cosmic strata
+    - divine control of cosmic alternation
+    - cosmic and theological duality among divine powers
+    - divine wisdom manifested in the cosmos
+    con_cluster_b:
+    - divine wisdom guiding devotees to hidden truth
+    - mystical union with god and unveiled divine discourse
+    - revelation of the unknowable through a personal divine form
+    - divine revelation of truth and wisdom
+    - divine or transcendent beloved sought and revealed
+    iso_weight: 0.901
     con_weight: 0.915
     iso_traditions:
     - amazonian
@@ -107,7 +458,10 @@ results:
     - hopi
     - indigenous-australian
     - inuit
+    - khoisan-south-african
+    - maya
     - mesoamerican
+    - nahua
     - nahua-maya-inca
     - native-american-great-lakes
     - native-american-northeast-woodlands
@@ -124,8 +478,13 @@ results:
     - andamanese
     - australian-aboriginal
     - guiana-amerindian
+    - hawaiian
     - hopi
+    - indigenous-australian
     - inuit
+    - maya
+    - mesoamerican
+    - nahua
     - nahua-maya-inca
     - native-american-great-lakes
     - native-american-northeast-woodlands
@@ -136,33 +495,34 @@ results:
     - navajo
     - san
     - siberian
+    - zulu
     - zuni
   - iso_cluster_a:
-    - burial rites involving bones of the deceased
-    - mortuary ritual continuation at the grave
-    - burial of extracted ritual matter
-    - burial and mourning rite centered on a retained bone
-    - totem-marked burial of remains
+    - refuge and incorporation after tribal disruption
+    - tradition preserving tribal separation and emigration
+    - collective relocation after encounter with foreign settlement
+    - tribal expulsion and migratory displacement
+    - ancestral migration, settlement, and return to homes
     iso_cluster_b:
-    - mourning rites with bodily alteration
-    - ritualized departure after mourning
-    - mourning with self-wounding and grave marking
-    - "visible mourning for the dead person\u2019s spirit"
-    - obligatory mourning over corpse
+    - chiefly ancestral affiliation and name succession
+    - chiefly succession through inherited name-taking and public feasting
+    - kinship-based succession to chiefly seats and names
+    - clan-linked ritual office succession
+    - chiefly legitimacy through inherited or affinal names and dances
     con_cluster_a:
-    - ritual honoring of a presumed dead body
-    - mourning without proper burial rites
-    - dead residing at burial place and receiving memorial feasts
-    - grave offering to the dead
-    - unburied dead seeking burial before full afterlife passage
+    - virtuous rulership receives divine decree
+    - divine sanction of rulership
+    - divinely authorized kingship and stable reign
+    - quasi-divine rulership
+    - ancestral sanction of rulership
     con_cluster_b:
-    - grief for an absent beloved
-    - vengeance for absent beloved
-    - bereaved unmarried wife laments slain beloved
-    - concealed lament of a separated beloved
-    - "mourning after beloved\u2019s departure"
-    iso_weight: 1.547
-    con_weight: 0.576
+    - royal homage and succession legitimation
+    - royal consecration and legitimate sovereignty
+    - royal legitimacy through ancestral succession and consecration
+    - royal consecration and dynastic legitimacy
+    - royal legitimacy through paternal lineage and sacred consecration
+    iso_weight: 0.951
+    con_weight: 0.851
     iso_traditions:
     - amazonian
     - andamanese
@@ -172,6 +532,7 @@ results:
     - hopi
     - indigenous-australian
     - inuit
+    - khoisan-south-african
     - maya
     - mesoamerican
     - nahua-maya-inca
@@ -185,6 +546,57 @@ results:
     - san
     - siberian
     - zulu
+    - zuni
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - inuit
+    - khoisan-south-african
+    - maya
+    - mesoamerican
+    - nahua
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zulu
+    - zuni
+  - iso_cluster_a:
+    - boundary violation brings war and near extermination
+    - starvation siege followed by treacherous massacre
+    - destruction of rival settlement and incorporation of survivors
+    - boundary agreement followed by continued raids
+    - raid and refuge in fortified places
+    iso_cluster_b:
+    - tree refuge against an angry pursuer
+    - waterborne escape from a pursuer
+    - hidden helpers ambush from rocks to enable escape
+    - pursuer thwarted by disappearance and altered terrain
+    - wish traps the attacking pursuer
+    con_cluster_a:
+    - rescue of a ruler from battlefield capture
+    - heroic crossing through overwhelming troops
+    - fortress defeat followed by disguised escape
+    - outnumbered hero's last stand before capture
+    - intercepted warrior challenged before reaching allies
+    con_cluster_b:
+    - natural weapons against armed war host
+    - arming against a feared special weapon
+    - hero arming against a feared special weapon
+    - ambush by concealed warriors
+    - weapon challenge as test of prowess
+    iso_weight: 0.525
+    con_weight: 1.253
+    iso_traditions:
     - amazonian
     - andamanese
     - australian-aboriginal
@@ -193,7 +605,30 @@ results:
     - hopi
     - indigenous-australian
     - inuit
+    - khoisan-south-african
     - maya
+    - mesoamerican
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - san
+    - siberian
+    - zulu
+    - zuni
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - khoisan-south-african
+    - mesoamerican
     - nahua
     - nahua-maya-inca
     - native-american-great-lakes
@@ -209,319 +644,30 @@ results:
     - zuni
   - iso_cluster_a:
     - death followed by bodily restoration
-    - death followed by return to life
     - death or killing followed by restored human form
     - death followed by revival
-    - return from death after visiting the dead
+    - death-and-restoration ordeal
+    - death followed by restoration
     iso_cluster_b:
-    - afterlife journey across a world-edge abyss
-    - afterlife journey by bridge to an under-earth realm
-    - afterlife journey through successive lands
-    - afterlife journey through dangerous paths with animal encounter and ancestral
-      help
-    - mapped afterlife journey through an underworld crossroads
+    - hidden or vanishing spirit dwelling
+    - graveyard vigil leading to supernatural empowerment
+    - spirit removal and disappearance into the woods
+    - masked return of a dead relative as supernatural being
+    - ritual night-watch for a supernatural guest
     con_cluster_a:
+    - death as afterlife crossing and transition
+    - after-death journey through darkness toward new life
+    - death followed by heavenly rebirth
     - death as rebirth into postmortem life
-    - successive death and transformation toward return
-    - death and re-embodiment succession
-    - death as rebirth and continued existence
-    - death followed by renewed embodied life
-    con_cluster_b:
     - afterlife passage through guarded thresholds
-    - afterlife passage under divine guidance
-    - afterlife journey through mapped halls
-    - afterlife journey with staged ascent and descent
-    - after-death journey through darkness toward new life
-    iso_weight: 1.244
-    con_weight: 0.839
-    iso_traditions:
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - maya
-    - mesoamerican
-    - nahua
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - maya
-    - mesoamerican
-    - nahua
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-  - iso_cluster_a:
-    - wish traps the attacking pursuer
-    - hidden helpers ambush from rocks to enable escape
-    - decoy and ambush after repeated challenge
-    - fire assault defeated by concealed escape
-    - pursuer defeated through tree obstacle
-    iso_cluster_b:
-    - ritual validation of warrior honor
-    - returning warrior rejoins companions with trophies
-    - warrior victory with coup and captured regalia
-    - ritual qualification through counted defensive-war honors
-    - war trophies conferring ritual honor
-    con_cluster_a:
-    - intercepted warrior challenged before reaching allies
-    - rescue of a ruler from battlefield capture
-    - defeat of the hostile enemy
-    - chosen war-leader defending against invaders
-    - warlike ultimatum before rescue battle
     con_cluster_b:
-    - aftermath of a warrior's death in battle
-    - mortally wounded warrior's final act
-    - warrior's battlefield vow to slay a rival hero
-    - warrior death leading to meritorious end
-    - warrior duty as victory or death
-    iso_weight: 0.722
-    con_weight: 1.34
-    iso_traditions:
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - maya
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - maya
-    - mesoamerican
-    - nahua
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-  - iso_cluster_a:
-    - etiological animal-behavior tale
-    - etiology of animal bodily features
-    - etiology of animal feature
-    - etiology of animal bodily feature
-    - etiological origin of animal markings
-    iso_cluster_b:
-    - trickster obtains food by deception
-    - trickster deception and disguise
-    - trickster escapes a trap by deceiving others into it
-    - trickster deceives a dangerous being through staged self-harm
-    - trickster deception for food
-    con_cluster_a:
-    - disease as consequence of taboo violation
-    - taboo violation after animal catch causes sickness, death, and monster attack
-    - illness following violation of totem taboo
-    - ritual neglect and impurity feeding a harmful being
-    - illness as consequence of taboo breach
-    con_cluster_b:
-    - ritual confrontation with an enchanter
-    - deceptive supernatural task-giver traps the seeker at a threshold
-    - crafty acquisition of a supernatural talisman
-    - suspected magical disguise or shapeshifter deception
-    - ritually instructed encounter with a dangerous supernatural being
-    iso_weight: 1.239
-    con_weight: 0.801
-    iso_traditions:
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - maya
-    - mesoamerican
-    - nahua-maya-inca
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-    - amazonian
-    - australian-aboriginal
-    - guiana-amerindian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - mesoamerican
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-  - iso_cluster_a:
-    - burial rites involving bones of the deceased
-    - mortuary ritual continuation at the grave
-    - burial of extracted ritual matter
-    - burial and mourning rite centered on a retained bone
-    - totem-marked burial of remains
-    iso_cluster_b:
-    - afterlife journey across a world-edge abyss
-    - afterlife journey by bridge to an under-earth realm
-    - afterlife journey through successive lands
-    - afterlife journey through dangerous paths with animal encounter and ancestral
-      help
-    - mapped afterlife journey through an underworld crossroads
-    con_cluster_a:
-    - ritual honoring of a presumed dead body
-    - mourning without proper burial rites
-    - dead residing at burial place and receiving memorial feasts
-    - grave offering to the dead
-    - unburied dead seeking burial before full afterlife passage
-    con_cluster_b:
-    - afterlife passage through guarded thresholds
-    - afterlife passage under divine guidance
-    - afterlife journey through mapped halls
-    - afterlife journey with staged ascent and descent
-    - after-death journey through darkness toward new life
-    iso_weight: 1.156
-    con_weight: 0.874
-    iso_traditions:
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - maya
-    - mesoamerican
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - maya
-    - mesoamerican
-    - nahua
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-  - iso_cluster_a:
-    - totemic reincarnation of ancestors
-    - totemic ancestor emergence from animal form
-    - totemic ancestral reenactment
-    - totemic ancestry in a mythic past
-    - ancestral representation in totemic ceremony
-    iso_cluster_b:
-    - origin of animal population from a transformed body part
-    - living beings produced from tree fragments
-    - body part or remnant becomes living animal
-    - animal species arise from dismembered monsters placed in water
-    - human-to-plant transformation
-    con_cluster_a:
-    - creation through divine bodily substances
-    - creation from the divine body
-    - creation of beings from a creator's body
-    - creation from divine bodily substance
-    - creation and transformation by divine word
-    con_cluster_b:
-    - creation from primordial water and raised earth
-    - ancestors emerging from the earth
-    - earth-diver creation from primordial water
-    - primordial emergence from cosmic waters
-    - earth-hole emergence of primordial beings
-    iso_weight: 0.419
-    con_weight: 1.495
+    - divine judgment and afterlife recompense
+    - divine judgment and accounting for deeds
+    - divine judgment with afterlife recompense
+    - divine judgment and accounting of deeds
+    - divine judgment at death and resurrection
+    iso_weight: 0.579
+    con_weight: 1.158
     iso_traditions:
     - amazonian
     - andamanese
@@ -556,7 +702,9 @@ results:
     - indigenous-australian
     - inuit
     - khoisan-south-african
+    - mesoamerican
     - nahua-maya-inca
+    - native-american-great-lakes
     - native-american-northeast-woodlands
     - native-american-northwest-coast
     - native-american-plains
@@ -568,31 +716,175 @@ results:
     - zulu
     - zuni
   - iso_cluster_a:
-    - ascent through a sky opening to another world
+    - marriage alliance through sacred-object and gift transfer
+    - ritualized compensation after unauthorized marriage
+    - ritual establishment of prospective affinal marriage rights
+    - elder-arranged rapid marriage after hospitality
+    - marriage sanctioned by gifts to kin
+    iso_cluster_b:
+    - taken or deserted wife and revenge killing
+    - stolen wife pursued by disabled ancestor
+    - stolen wife causing retaliatory pursuit
+    - deceptive escape from an unwanted husband
+    - abducted wife as provocation for vengeance
+    con_cluster_a:
+    - marital partnership in ancestral ritual duty
+    - marriage exchange conditioned on surrender of a sibling
+    - marriage exchange securing reproductive and child claims
+    - ritualized marriage exchange
+    - rival marriage resolved by prior exchange obligation
+    con_cluster_b:
+    - wife transfer through quarrel and deceit
+    - wife or widow as avenger with inverted loyalties
+    - wife taken by adversary
+    - marriage following recovery of a stolen or captive beloved
+    - wife or beloved retained by monstrous rival
+    iso_weight: 0.755
+    con_weight: 0.971
+    iso_traditions:
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - khoisan-south-african
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zulu
+    - zuni
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - khoisan-south-african
+    - maya
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zulu
+    - zuni
+  - iso_cluster_a:
+    - flood refuge and renewal
+    - flood survival and world renewal
+    - flood, mountain refuge, boat, and earth-diver world renewal
+    - flood, mountain refuge, and land reappearance
+    - flood or storm catastrophe with survival and renewal
+    iso_cluster_b:
+    - etiology of an animal's present form
+    - etiological origin of an animal feature
+    - origin of animal markings from an ancestral mishap
+    - origin of animal traits from mythic incidents
+    - origin explanation for present animal traits
+    con_cluster_a:
+    - flood as seasonal destruction and renewal
+    - divine destructive rain and inundation
+    - prophetic flood wave from the underworld
+    - flood-like submergence of the earth by storm beings
+    - rain or heavenly waters as divine nourishment
+    con_cluster_b:
+    - creation after cosmic dissolution
+    - cosmic creation and dissolution inquiry
+    - cosmic creation and resurrection from earth
+    - creation following cosmic dissolution
+    - creation from the divine body in the cosmic ocean
+    iso_weight: 1.157
+    con_weight: 0.567
+    iso_traditions:
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - khoisan-south-african
+    - maya
+    - mesoamerican
+    - nahua
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zulu
+    - zuni
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - khoisan-south-african
+    - maya
+    - mesoamerican
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zulu
+    - zuni
+  - iso_cluster_a:
+    - ascent into the sky
     - ascent into a higher world through a sky passage
+    - ascent through a sky opening to another world
     - ascent from lower world to sky dwelling
-    - emergence from lower world by vertical ascent
-    - ascent from the under-world through an opening
+    - ascent to the celestial upper world
     iso_cluster_b:
-    - celestial ascent of the sun woman
-    - celestial ascent and rejection of sun and moon as homes
-    - life-giving solar descent
-    - celestial rising and brightened earth in ritual song
-    - earth-sky duality with descending life-giving power
+    - departure from earth to sky as weather beings
+    - return of sky beings to clouds
+    - sky and storm phenomena rendered as sacred body and shelter emblems
+    - directional and atmospheric arrival of sacred beings
+    - ritual transition from visible storm display to invisible life force
     con_cluster_a:
     - guided ascent to celestial realms
-    - ascent toward heaven
-    - ascent toward the true upper world
-    - ascent from earth toward heaven
+    - heavenly ascent to higher realm
     - ascent through celestial realms
+    - ascent to a bright divine place
+    - celestial ascent to the sky realm
     con_cluster_b:
-    - elemental cosmic order
-    - cosmic creation and dissolution inquiry
-    - cosmic creation and resurrection from earth
-    - cosmic ordering of sky and earth
-    - cosmic transformation through natural powers
-    iso_weight: 1.081
-    con_weight: 0.688
+    - divine cosmic ordering of heaven and earth
+    - divine support of cosmic strata
+    - divine control of cosmic alternation
+    - cosmic and theological duality among divine powers
+    - divine wisdom manifested in the cosmos
+    iso_weight: 0.818
+    con_weight: 0.867
     iso_traditions:
     - amazonian
     - andamanese
@@ -643,668 +935,31 @@ results:
     - zulu
     - zuni
   - iso_cluster_a:
-    - wish traps the attacking pursuer
-    - hidden helpers ambush from rocks to enable escape
-    - decoy and ambush after repeated challenge
-    - fire assault defeated by concealed escape
-    - pursuer defeated through tree obstacle
+    - theft of guarded food or treasure
+    - theft of a wonderful object
+    - theft of a shared medicine or powerful object
+    - theft or coerced acquisition of a guarded powerful substance
+    - theft of magic garments and pouch
     iso_cluster_b:
-    - deadly contest with heads wagered
-    - series of wagered contests for people
-    - gambling contest with human stakes
-    - gambling contest with captivity as the stake
-    - life-wager contest and reversal
-    con_cluster_a:
-    - intercepted warrior challenged before reaching allies
-    - rescue of a ruler from battlefield capture
-    - defeat of the hostile enemy
-    - chosen war-leader defending against invaders
-    - warlike ultimatum before rescue battle
-    con_cluster_b:
-    - heroic single-combat challenge to a renowned champion
-    - heroic combat with named opponent
-    - heroic combat against a powerful adversary
-    - heroic single combat with opposing leader
-    - heroic challenger confronts a troop-slaying warrior
-    iso_weight: 0.453
-    con_weight: 1.276
-    iso_traditions:
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - maya
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - maya
-    - mesoamerican
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - siberian
-    - zulu
-    - zuni
-  - iso_cluster_a:
-    - quest for abducted elder sibling through successive helpers
-    - child departs to find captive mother
-    - quest to recover a child from a nonhuman herd
-    - return of a lost child
-    - rescue and return of captive kin
-    iso_cluster_b:
-    - animal-woman lure and human transformation into animal spouse
-    - marriage with animal or animal-associated woman
-    - human spouse transformed through animal union
-    - human marriage to an animal spouse
-    - nonhuman spouse or suitor
-    con_cluster_a:
-    - stolen beloved or captive wife rescue
-    - abducted wife as stolen beloved
-    - abduction of a beloved woman and forced return
-    - stolen or captive beloved wife
-    - abducted daughter or stolen beloved
-    con_cluster_b:
-    - maiden delivered to a supernatural bridegroom in the forest
-    - supernatural woman encountered in forest as possible bride or lover
-    - otherworld woman as royal beloved
-    - female supernatural beloved or consort encounter
-    - disguised deity repeatedly woos resistant maiden
-    iso_weight: 0.899
-    con_weight: 0.812
-    iso_traditions:
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hopi
-    - inuit
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-  - iso_cluster_a:
-    - hidden or vanishing spirit dwelling
-    - dangerous spirit beings with harmful objects
-    - spirit appears in animal form
-    - animal-like spirits as killers
-    - spirits of dead and living persons
-    iso_cluster_b:
-    - death followed by bodily restoration
-    - death followed by return to life
-    - death or killing followed by restored human form
-    - death followed by revival
-    - return from death after visiting the dead
-    con_cluster_a:
-    - mystical discipline leading to emancipation
-    - mystical discipline toward emancipation
-    - internalized mystical quest for liberation
-    - union with the divine and dissolution of distinctions
-    - mystical deliverance from self and union with truth
-    con_cluster_b:
-    - death as rebirth into postmortem life
-    - successive death and transformation toward return
-    - death and re-embodiment succession
-    - death as rebirth and continued existence
-    - death followed by renewed embodied life
-    iso_weight: 0.691
-    con_weight: 1.01
-    iso_traditions:
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - mesoamerican
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - maya
-    - mesoamerican
-    - nahua
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-  - iso_cluster_a:
-    - ritual storage of sacred objects
-    - restricted ritual handling of a sacred object
-    - sacred object and ceremony possession
-    - ritual transfer of sacred object
-    - ceremonial gathering with sacred objects
-    iso_cluster_b:
-    - sacred pole or tree as ritually guarded object
-    - sacred ritual tree or plant implement
-    - sacred tree as spirit abode or ancestral marker
-    - sacred pole with origin legend and ritual objects
-    - sacred pole or tree as ritual focus
-    con_cluster_a:
-    - priestly custodianship of restricted sacred practice
-    - sacred exchange with scriptural communities
-    - ritualized oath or testimony before sacred presence
-    - ritual consecration carried into exile
-    - initiatory witnessing of restricted sacred mysteries
-    con_cluster_b:
-    - sacred mountain sanctuary as holy center
-    - sacred mountain as appointed encounter-place
-    - enclosed sacred landscape for divine worship
-    - sacred high mountain as ritual setting
-    - sacred mountain as access point to divine aid
-    iso_weight: 1.121
-    con_weight: 0.58
-    iso_traditions:
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - maya
-    - nahua
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zuni
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - maya
-    - nahua
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-  - iso_cluster_a:
-    - totemic reincarnation of ancestors
-    - totemic ancestor emergence from animal form
-    - totemic ancestral reenactment
-    - totemic ancestry in a mythic past
-    - ancestral representation in totemic ceremony
-    iso_cluster_b:
-    - celestial ascent of the sun woman
-    - celestial ascent and rejection of sun and moon as homes
-    - life-giving solar descent
-    - celestial rising and brightened earth in ritual song
-    - earth-sky duality with descending life-giving power
-    con_cluster_a:
-    - creation through divine bodily substances
-    - creation from the divine body
-    - creation of beings from a creator's body
-    - creation from divine bodily substance
-    - creation and transformation by divine word
-    con_cluster_b:
-    - elemental cosmic order
-    - cosmic creation and dissolution inquiry
-    - cosmic creation and resurrection from earth
-    - cosmic ordering of sky and earth
-    - cosmic transformation through natural powers
-    iso_weight: 0.444
-    con_weight: 1.185
-    iso_traditions:
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - maya
-    - mesoamerican
-    - nahua
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - maya
-    - mesoamerican
-    - nahua
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-  - iso_cluster_a:
-    - quest for abducted elder sibling through successive helpers
-    - child departs to find captive mother
-    - quest to recover a child from a nonhuman herd
-    - return of a lost child
-    - rescue and return of captive kin
-    iso_cluster_b:
-    - devouring monster destroys a settlement and is slain from concealment
-    - cannibal monster besieges a cave refuge
-    - shapeshifting escape from a man-eating pursuer
-    - animal entices hunter-warrior into hidden supernatural dwelling
-    - monster abduction and devouring from a hidden lair
-    con_cluster_a:
-    - stolen beloved or captive wife rescue
-    - abducted wife as stolen beloved
-    - abduction of a beloved woman and forced return
-    - stolen or captive beloved wife
-    - abducted daughter or stolen beloved
-    con_cluster_b:
-    - apparent death of heroes enabling hidden escape
-    - helper rescues victim from hostile dead
-    - rescue quest after abduction by a deathless captor
-    - rescue after repeated cries from mortal danger
-    - wounded survivor conceals tracks and returns from presumed death
-    iso_weight: 0.723
-    con_weight: 0.862
-    iso_traditions:
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - maya
-    - mesoamerican
-    - nahua-maya-inca
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-  - iso_cluster_a:
-    - ritual validation of warrior honor
-    - returning warrior rejoins companions with trophies
-    - warrior victory with coup and captured regalia
-    - ritual qualification through counted defensive-war honors
-    - war trophies conferring ritual honor
-    iso_cluster_b:
-    - deadly contest with heads wagered
-    - series of wagered contests for people
-    - gambling contest with human stakes
-    - gambling contest with captivity as the stake
-    - life-wager contest and reversal
-    con_cluster_a:
-    - aftermath of a warrior's death in battle
-    - mortally wounded warrior's final act
-    - warrior's battlefield vow to slay a rival hero
-    - warrior death leading to meritorious end
-    - warrior duty as victory or death
-    con_cluster_b:
-    - heroic single-combat challenge to a renowned champion
-    - heroic combat with named opponent
-    - heroic combat against a powerful adversary
-    - heroic single combat with opposing leader
-    - heroic challenger confronts a troop-slaying warrior
-    iso_weight: 0.02
-    con_weight: 1.564
-    iso_traditions:
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - maya
-    - mesoamerican
-    - nahua
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - maya
-    - mesoamerican
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - siberian
-    - zulu
-    - zuni
-  - iso_cluster_a:
-    - death-like reduction to bones followed by restoration
-    - restoration of flesh to skeletal or flesh-eaten living kin
-    - death and revival from bones and hide
-    - dismemberment followed by transformed reappearance
-    - death and restoration of a dismembered warrior
-    iso_cluster_b:
-    - deadly contest with heads wagered
-    - series of wagered contests for people
-    - gambling contest with human stakes
-    - gambling contest with captivity as the stake
-    - life-wager contest and reversal
-    con_cluster_a:
-    - divine weapon confrontation
-    - potent weapon believed enchanted
-    - heroic weapon with inherited violent memory
-    - divinely sourced weapons in heroic combat
-    - divine weapon used by hero in decisive combat
-    con_cluster_b:
-    - heroic single-combat challenge to a renowned champion
-    - heroic combat with named opponent
-    - heroic combat against a powerful adversary
-    - heroic single combat with opposing leader
-    - heroic challenger confronts a troop-slaying warrior
-    iso_weight: 0.242
-    con_weight: 1.309
-    iso_traditions:
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - maya
-    - mesoamerican
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - siberian
-    - zulu
-    - zuni
-  - iso_cluster_a:
-    - ritual personation of divine beings
-    - ritualized confrontation with masked divine personator
-    - ritual reenactment of a divine path
-    - ritual image received from supernatural beings
-    - ritual reenactment of ancestral or specialized beings
-    iso_cluster_b:
-    - ritual smoke offering or invocation brings rain
-    - ritual song summons weather beings for rain and fertility
-    - rain-making by song and ritual object
-    - ritual petition for rain
-    - totemic rain-making rite
-    con_cluster_a:
-    - animal embodiment of the divine
-    - divine animal embodiment
-    - invocation of personified divine powers
-    - divine parent of all creation
-    - personified abstractions attend a supreme deity
-    con_cluster_b:
-    - heavenly ascent to higher realm
-    - ascent to a divine celestial palace
-    - ascent to the divine upper realm
-    - ascent to the world of heaven
-    - ascent to the divine realm
-    iso_weight: 0.862
-    con_weight: 0.628
-    iso_traditions:
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - maya
-    - mesoamerican
-    - nahua
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - nahua
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-  - iso_cluster_a:
     - deceptive lure into animal ambush
-    - animal helpers misdirect pursuit
-    - dangerous kinsman lured into vulnerability by animal decoys
-    - injured animal summons animal retaliation
-    - "animal speech preventing a hunter\u2019s shot"
-    iso_cluster_b:
-    - trickster obtains food by deception
-    - trickster deception and disguise
-    - trickster escapes a trap by deceiving others into it
-    - trickster deceives a dangerous being through staged self-harm
-    - trickster deception for food
+    - deceptive mourning ruse to obtain prey
+    - animal deceives by feigning weakness and trapping humans
+    - dangerous predator overcome by collective trickery
+    - protective ruse using animal entrails and feigned death
     con_cluster_a:
-    - predatory animal becomes means of escape
-    - animal behaving as human hunter
-    - wounded animal leads pursuers to hidden dwelling
-    - animal ally attempts rescue and is slain
-    - helper neutralizes pursuing beast with concealed animal
+    - theft of divine treasure
+    - theft of protected or accursed treasure
+    - divine theft of treasure
+    - stolen magical treasure recovered
+    - theft and concealment of a divine lucky object
     con_cluster_b:
-    - ritual confrontation with an enchanter
-    - deceptive supernatural task-giver traps the seeker at a threshold
-    - crafty acquisition of a supernatural talisman
-    - suspected magical disguise or shapeshifter deception
-    - ritually instructed encounter with a dangerous supernatural being
-    iso_weight: 0.89
-    con_weight: 0.595
+    - trickster deception against a monstrous captor
+    - small trickster deceives predator with false guardianship claim
+    - predatory trickster consumes companion and takes possessions
+    - clever defeat of a dangerous supernatural animal from a tree refuge
+    - trickster escape from predator through deception and concealment
+    iso_weight: 0.885
+    con_weight: 0.789
     iso_traditions:
     - amazonian
     - andamanese
@@ -1315,7 +970,7 @@ results:
     - indigenous-australian
     - inuit
     - khoisan-south-african
-    - nahua
+    - maya
     - nahua-maya-inca
     - native-american-great-lakes
     - native-american-northeast-woodlands
@@ -1329,13 +984,14 @@ results:
     - zulu
     - zuni
     - amazonian
+    - andamanese
     - australian-aboriginal
     - guiana-amerindian
+    - hawaiian
     - hopi
     - indigenous-australian
     - inuit
     - khoisan-south-african
-    - mesoamerican
     - nahua-maya-inca
     - native-american-great-lakes
     - native-american-northeast-woodlands
@@ -1349,31 +1005,31 @@ results:
     - zulu
     - zuni
   - iso_cluster_a:
-    - ritual offering exchange for divine aid
-    - ritual offering and sacred exchange
-    - sacred exchange through offerings and prayer
-    - food offering exchanged for ritual aid
-    - sacred exchange and offering
+    - deadly contest with upper-world animal in-laws
+    - animal entices hunter-warrior into hidden supernatural dwelling
+    - hero frees captives from a man-eater's control
+    - hostile animal tribe devours transformed outsider
+    - devouring foster child consumes herd and threatens caretaker
     iso_cluster_b:
-    - ritual procession and solitary circling of fire
-    - ritualized hunt through enclosure, fire, meal, and directional prayer
-    - ritual preparation for divine arrival
-    - ritual pursuit to a safe ceremonial ground
-    - sequential totemic performances in a cleared ritual ground
+    - taken or deserted wife and revenge killing
+    - stolen wife pursued by disabled ancestor
+    - stolen wife causing retaliatory pursuit
+    - deceptive escape from an unwanted husband
+    - abducted wife as provocation for vengeance
     con_cluster_a:
-    - sacred exchange of offerings and divine aid
-    - sacred exchange of offering and divine aid
-    - sacred exchange of offering for divine aid and wealth
-    - ritual praise and offering exchanged for divine gifts
-    - sacred exchange through offerings and divine favor
+    - threatened maiden given in marriage to rescuer
+    - forced bride seeks heroic deliverance
+    - bride offered as reward to end fatal quest
+    - marriage quest to obtain a bride from a distant or elevated ruler
+    - quest for a guarded bride
     con_cluster_b:
-    - ancestral ritual precedent
-    - ritual speech enabling afterlife passage
-    - ritual mediation between human and spirit
-    - ritual speech producing fertility and auspicious passage
-    - ritual uncertainty resolved by ancestral wisdom
-    iso_weight: 0.785
-    con_weight: 0.677
+    - wife transfer through quarrel and deceit
+    - wife or widow as avenger with inverted loyalties
+    - wife taken by adversary
+    - marriage following recovery of a stolen or captive beloved
+    - wife or beloved retained by monstrous rival
+    iso_weight: 0.428
+    con_weight: 1.178
     iso_traditions:
     - amazonian
     - andamanese
@@ -1381,10 +1037,9 @@ results:
     - guiana-amerindian
     - hawaiian
     - hopi
+    - indigenous-australian
     - inuit
-    - maya
     - mesoamerican
-    - nahua
     - nahua-maya-inca
     - native-american-great-lakes
     - native-american-northeast-woodlands
@@ -1407,7 +1062,6 @@ results:
     - inuit
     - khoisan-south-african
     - maya
-    - nahua
     - nahua-maya-inca
     - native-american-great-lakes
     - native-american-northeast-woodlands
@@ -1421,32 +1075,52 @@ results:
     - zulu
     - zuni
   - iso_cluster_a:
-    - burial rites involving bones of the deceased
-    - mortuary ritual continuation at the grave
-    - burial of extracted ritual matter
-    - burial and mourning rite centered on a retained bone
-    - totem-marked burial of remains
+    - healing and charm-working through special medicines
+    - ritual and medicinal wisdom of the healer
+    - medicine-power acquisition for healing the sick
+    - medicine power through animal encounter
+    - ritual healing by smoke, medicine, and extraction of intrusive matter
     iso_cluster_b:
-    - food offering to deceased man's kin to secure goodwill
-    - ritual provision of a servant spirit for the dead
-    - offerings to deceased ritual predecessors
-    - ritual feast distribution for the dead
-    - food offering to the dead for intercession
+    - initiation through sequenced ritual ordeal and instruction
+    - initiation through ritual ordeal
+    - initiation ritual
+    - initiation ceremony
+    - initiation ceremonies
     con_cluster_a:
-    - ritual honoring of a presumed dead body
-    - mourning without proper burial rites
-    - dead residing at burial place and receiving memorial feasts
-    - grave offering to the dead
-    - unburied dead seeking burial before full afterlife passage
+    - wisdom through inward understanding
+    - wisdom through disciplined inner sight
+    - wisdom through self-knowledge and self-effacement
+    - wisdom through self-mastery and discernment
+    - wisdom through knowledge and discernment
     con_cluster_b:
-    - sacrifice and ritual offerings
-    - sacrifice and ritual offering
-    - sacrifice and ritual burning
-    - sacrificial offering and ritual preparation
-    - ritual sacrifice and offering to sacred recipients
-    iso_weight: 1.352
-    con_weight: 0.105
+    - renunciation of worldly ties
+    - renunciation of worldly attachments
+    - renunciation of worldly life
+    - renunciation of passions and removal from worldly bondage
+    - renunciation of worldly attachment
+    iso_weight: 0.428
+    con_weight: 1.157
     iso_traditions:
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - inuit
+    - maya
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zulu
+    - zuni
     - amazonian
     - andamanese
     - australian-aboriginal
@@ -1468,51 +1142,33 @@ results:
     - san
     - siberian
     - zulu
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - inuit
-    - maya
-    - nahua
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - siberian
-    - zulu
     - zuni
   - iso_cluster_a:
-    - origin of animal population from a transformed body part
-    - living beings produced from tree fragments
-    - body part or remnant becomes living animal
-    - animal species arise from dismembered monsters placed in water
-    - human-to-plant transformation
+    - etiology of an animal's present form
+    - etiological origin of an animal feature
+    - origin of animal markings from an ancestral mishap
+    - origin of animal traits from mythic incidents
+    - origin explanation for present animal traits
     iso_cluster_b:
-    - celestial ascent of the sun woman
-    - celestial ascent and rejection of sun and moon as homes
-    - life-giving solar descent
-    - celestial rising and brightened earth in ritual song
-    - earth-sky duality with descending life-giving power
+    - divine beings invoked for successful birth
+    - celestial parents invoked as helpers
+    - divine parent and celestial child
+    - divine parent-child lineage
+    - divine parent-child ancestry
     con_cluster_a:
-    - creation from primordial water and raised earth
-    - ancestors emerging from the earth
-    - earth-diver creation from primordial water
-    - primordial emergence from cosmic waters
-    - earth-hole emergence of primordial beings
-    con_cluster_b:
-    - elemental cosmic order
+    - creation after cosmic dissolution
     - cosmic creation and dissolution inquiry
     - cosmic creation and resurrection from earth
-    - cosmic ordering of sky and earth
-    - cosmic transformation through natural powers
-    iso_weight: 0.397
-    con_weight: 1.051
+    - creation following cosmic dissolution
+    - creation from the divine body in the cosmic ocean
+    con_cluster_b:
+    - divine wisdom guiding devotees to hidden truth
+    - mystical union with god and unveiled divine discourse
+    - revelation of the unknowable through a personal divine form
+    - divine revelation of truth and wisdom
+    - divine or transcendent beloved sought and revealed
+    iso_weight: 0.501
+    con_weight: 1.049
     iso_traditions:
     - amazonian
     - andamanese
@@ -1523,7 +1179,10 @@ results:
     - indigenous-australian
     - inuit
     - khoisan-south-african
+    - maya
+    - mesoamerican
     - nahua-maya-inca
+    - native-american-great-lakes
     - native-american-northeast-woodlands
     - native-american-northwest-coast
     - native-american-plains
@@ -1542,7 +1201,6 @@ results:
     - hopi
     - indigenous-australian
     - inuit
-    - khoisan-south-african
     - maya
     - mesoamerican
     - nahua
@@ -1559,104 +1217,310 @@ results:
     - zulu
     - zuni
   - iso_cluster_a:
-    - ritual water abstention linked to divine watering of earth
-    - ritual water from a sacred spring
-    - ritual water-making function
-    - ritual address to ancient rock and primordial water
-    - lost creation-related water rites
+    - human-form carving on functional objects
+    - animal and natural-form facial-painting emblems
+    - natural-object imitation in ornament
+    - realistic animal and human figures on implements
+    - plant-fibre transformation into personal ornament
     iso_cluster_b:
-    - ritual smoke offering or invocation brings rain
-    - ritual song summons weather beings for rain and fertility
-    - rain-making by song and ritual object
-    - ritual petition for rain
-    - totemic rain-making rite
+    - animal-derived adornment and animal-form head covering
+    - ritual-like body adornment before a dangerous or important encounter
+    - ritual garment with named meaningful ornaments
+    - animal-skin clothing and animal-form headgear
+    - ceremonial adornment marking personal value
     con_cluster_a:
-    - divine aid and repentance
-    - divine deliberation over rescue from destined death
-    - resurrection-associated divine assistance
-    - divine recompense and salvation
-    - divine healing and rescue through remembered aids
+    - culture hero fashions a wonder-working object from natural gifts
+    - animal-form ornamentation on useful objects
+    - decorated implements as apotropaic charms
+    - craft design obtained from non-human hidden artisans
+    - animal-form ornamentation of utilitarian tools
     con_cluster_b:
+    - body-part remedy obtained by killing an obstructing figure
+    - ghost retaining bodily wounds
+    - harm through separated bodily remnants
+    - healing through perilous retrieval of corpse-associated objects and monster
+      head
+    - corpse as site of apotropaic correction
+    iso_weight: 1.01
+    con_weight: 0.54
+    iso_traditions:
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - maya
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zulu
+    - zuni
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - khoisan-south-african
+    - nahua
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zuni
+  - iso_cluster_a:
+    - deadly contest with upper-world animal in-laws
+    - animal entices hunter-warrior into hidden supernatural dwelling
+    - hero frees captives from a man-eater's control
+    - hostile animal tribe devours transformed outsider
+    - devouring foster child consumes herd and threatens caretaker
+    iso_cluster_b:
+    - animal helper in hidden dwelling gives aid
+    - animal helper saves and empowers a human ritual specialist
+    - animal helpers guide and protect a youth
+    - animal rescued and becoming helper
+    - animal helpers assisting a human pursuit
+    con_cluster_a:
+    - threatened maiden given in marriage to rescuer
+    - forced bride seeks heroic deliverance
+    - bride offered as reward to end fatal quest
+    - marriage quest to obtain a bride from a distant or elevated ruler
+    - quest for a guarded bride
+    con_cluster_b:
+    - extraordinary companions aiding a rescue quest
+    - forest-guided quest to a sacred animal
+    - animal guide carries heroes to hidden captive
+    - supernatural horse helper in a quest sequence
+    - quest to rescue enchanted kin
+    iso_weight: 0.489
+    con_weight: 1.061
+    iso_traditions:
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - mesoamerican
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zulu
+    - zuni
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - khoisan-south-african
+    - mesoamerican
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zulu
+    - zuni
+  - iso_cluster_a:
+    - deadly contest with heads wagered
+    - life-wager contest against a deadly antagonist
+    - contest of power with life stakes
+    - heroic strength contest against multiple challengers
+    - contest with powerful strangers and escalating stakes
+    iso_cluster_b:
+    - returning warrior rejoins companions with trophies
+    - return to battlefield and taking enemy trophies
+    - return with war trophies after presumed death
+    - ritualized victorious warrior return
+    - lone warrior incursion and successful return with trophies
+    con_cluster_a:
+    - hero combats monstrous beings
+    - heroic combat against a powerful adversary
+    - hero rescues endangered elder in battle
+    - hero recounts solitary battle against overwhelming foes
+    - single hero defeats overwhelming warrior band
+    con_cluster_b:
+    - warrior's battlefield vow to slay a rival hero
+    - warrior urged to fulfill a battlefield vow
+    - aged warrior voluntarily accepts likely death in single combat
+    - warrior self-sacrifice in battle
+    - warrior boast before fatal combat
+    iso_weight: 0.212
+    con_weight: 1.324
+    iso_traditions:
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - khoisan-south-african
+    - maya
+    - mesoamerican
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zulu
+    - zuni
+    - amazonian
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - inuit
+    - khoisan-south-african
+    - mesoamerican
+    - nahua
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - siberian
+    - zulu
+    - zuni
+  - iso_cluster_a:
+    - deadly contest with upper-world animal in-laws
+    - animal entices hunter-warrior into hidden supernatural dwelling
+    - hero frees captives from a man-eater's control
+    - hostile animal tribe devours transformed outsider
+    - devouring foster child consumes herd and threatens caretaker
+    iso_cluster_b:
+    - transformation into animals
+    - transformation into animal form
+    - animal people transformed into animal form
+    - human transformed into animal
+    - magical transformation into animals
+    con_cluster_a:
+    - threatened maiden given in marriage to rescuer
+    - forced bride seeks heroic deliverance
+    - bride offered as reward to end fatal quest
+    - marriage quest to obtain a bride from a distant or elevated ruler
+    - quest for a guarded bride
+    con_cluster_b:
+    - magical transformation of a human into an animal
+    - human transformation into bird or beast form
+    - human transformation into animal forms
+    - human transformation into animal form
+    - magical transformation into animal form
+    iso_weight: 0.756
+    con_weight: 0.767
+    iso_traditions:
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - mesoamerican
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zulu
+    - zuni
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - khoisan-south-african
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zulu
+    - zuni
+  - iso_cluster_a:
+    - ascent into the sky
+    - ascent into a higher world through a sky passage
+    - ascent through a sky opening to another world
+    - ascent from lower world to sky dwelling
+    - ascent to the celestial upper world
+    iso_cluster_b:
+    - divine beings invoked for successful birth
+    - celestial parents invoked as helpers
+    - divine parent and celestial child
+    - divine parent-child lineage
+    - divine parent-child ancestry
+    con_cluster_a:
+    - guided ascent to celestial realms
     - heavenly ascent to higher realm
-    - ascent to a divine celestial palace
-    - ascent to the divine upper realm
-    - ascent to the world of heaven
-    - ascent to the divine realm
-    iso_weight: 0.843
-    con_weight: 0.588
-    iso_traditions:
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - maya
-    - mesoamerican
-    - nahua
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-    - amazonian
-    - andamanese
-    - australian-aboriginal
-    - guiana-amerindian
-    - hawaiian
-    - hopi
-    - indigenous-australian
-    - inuit
-    - khoisan-south-african
-    - nahua
-    - nahua-maya-inca
-    - native-american-great-lakes
-    - native-american-northeast-woodlands
-    - native-american-northwest-coast
-    - native-american-plains
-    - native-american-southeast
-    - native-american-southwest
-    - navajo
-    - san
-    - siberian
-    - zulu
-    - zuni
-  - iso_cluster_a:
-    - ritual personation of divine beings
-    - ritualized confrontation with masked divine personator
-    - ritual reenactment of a divine path
-    - ritual image received from supernatural beings
-    - ritual reenactment of ancestral or specialized beings
-    iso_cluster_b:
-    - celestial ascent of the sun woman
-    - celestial ascent and rejection of sun and moon as homes
-    - life-giving solar descent
-    - celestial rising and brightened earth in ritual song
-    - earth-sky duality with descending life-giving power
-    con_cluster_a:
-    - animal embodiment of the divine
-    - divine animal embodiment
-    - invocation of personified divine powers
-    - divine parent of all creation
-    - personified abstractions attend a supreme deity
+    - ascent through celestial realms
+    - ascent to a bright divine place
+    - celestial ascent to the sky realm
     con_cluster_b:
-    - elemental cosmic order
-    - cosmic creation and dissolution inquiry
-    - cosmic creation and resurrection from earth
-    - cosmic ordering of sky and earth
-    - cosmic transformation through natural powers
-    iso_weight: 0.604
-    con_weight: 0.806
+    - divine wisdom guiding devotees to hidden truth
+    - mystical union with god and unveiled divine discourse
+    - revelation of the unknowable through a personal divine form
+    - divine revelation of truth and wisdom
+    - divine or transcendent beloved sought and revealed
+    iso_weight: 0.784
+    con_weight: 0.716
     iso_traditions:
     - amazonian
     - andamanese
@@ -1666,6 +1530,7 @@ results:
     - hopi
     - indigenous-australian
     - inuit
+    - khoisan-south-african
     - maya
     - mesoamerican
     - nahua
@@ -1689,7 +1554,6 @@ results:
     - hopi
     - indigenous-australian
     - inuit
-    - khoisan-south-african
     - maya
     - mesoamerican
     - nahua
@@ -1706,31 +1570,31 @@ results:
     - zulu
     - zuni
   - iso_cluster_a:
-    - death-like reduction to bones followed by restoration
-    - restoration of flesh to skeletal or flesh-eaten living kin
-    - death and revival from bones and hide
-    - dismemberment followed by transformed reappearance
-    - death and restoration of a dismembered warrior
+    - encounter with mysterious beings in water
+    - dangerous water crossed or survived with supernatural or animal aid
+    - entry into water to confront and kill a devouring being
+    - abduction into water by a being from a spring
+    - water-source abduction by a supernatural whale helper
     iso_cluster_b:
-    - wish traps the attacking pursuer
-    - hidden helpers ambush from rocks to enable escape
-    - decoy and ambush after repeated challenge
-    - fire assault defeated by concealed escape
-    - pursuer defeated through tree obstacle
+    - transformation into animals
+    - transformation into animal form
+    - animal people transformed into animal form
+    - human transformed into animal
+    - magical transformation into animals
     con_cluster_a:
-    - divine weapon confrontation
-    - potent weapon believed enchanted
-    - heroic weapon with inherited violent memory
-    - divinely sourced weapons in heroic combat
-    - divine weapon used by hero in decisive combat
+    - descent through water to an animal-person realm
+    - monstrous creature as source of waters
+    - water-associated supernatural being
+    - hidden aquatic dwelling of supernatural women
+    - heroic sea crossing with a sea-dwelling female monster
     con_cluster_b:
-    - intercepted warrior challenged before reaching allies
-    - rescue of a ruler from battlefield capture
-    - defeat of the hostile enemy
-    - chosen war-leader defending against invaders
-    - warlike ultimatum before rescue battle
-    iso_weight: 0.646
-    con_weight: 0.761
+    - magical transformation of a human into an animal
+    - human transformation into bird or beast form
+    - human transformation into animal forms
+    - human transformation into animal form
+    - magical transformation into animal form
+    iso_weight: 0.452
+    con_weight: 1.038
     iso_traditions:
     - amazonian
     - andamanese
@@ -1741,6 +1605,8 @@ results:
     - indigenous-australian
     - inuit
     - khoisan-south-african
+    - maya
+    - nahua
     - nahua-maya-inca
     - native-american-great-lakes
     - native-american-northeast-woodlands
@@ -1762,7 +1628,147 @@ results:
     - indigenous-australian
     - inuit
     - khoisan-south-african
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zulu
+    - zuni
+  - iso_cluster_a:
+    - initiation through sequenced ritual ordeal and instruction
+    - initiation through ritual ordeal
+    - initiation ritual
+    - initiation ceremony
+    - initiation ceremonies
+    iso_cluster_b:
+    - four-direction ritual centering
+    - four-direction ritual circuit
+    - four-directional ritual entrance
+    - fourfold ritual spatial arrangement
+    - ritual collection from four directions
+    con_cluster_a:
+    - renunciation of worldly ties
+    - renunciation of worldly attachments
+    - renunciation of worldly life
+    - renunciation of passions and removal from worldly bondage
+    - renunciation of worldly attachment
+    con_cluster_b:
+    - transmission of sacred wisdom
+    - sacred knowledge transmitted through teachers
+    - sacred speech and wisdom transmission
+    - sacred wisdom instruction
+    - divine transmission of wisdom and sacred arts
+    iso_weight: 0.663
+    con_weight: 0.792
+    iso_traditions:
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
     - maya
+    - mesoamerican
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zulu
+    - zuni
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - maya
+    - mesoamerican
+    - nahua
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - siberian
+    - zulu
+    - zuni
+  - iso_cluster_a:
+    - sibling-pair ordeal
+    - sibling pair in peril
+    - sibling pair with supernatural aid
+    - sibling pair surviving and traveling together
+    - sibling pair cooperates in survival and revenge
+    iso_cluster_b:
+    - abandoned child returned by supernatural grandfather
+    - supernaturally protected child recalled after mistreatment
+    - child departs to find captive mother
+    - return of a lost child
+    - surviving celestial child taken in by old woman
+    con_cluster_a:
+    - beloved child entrusted to protective kin
+    - supernatural fosterage of a hidden child
+    - concealed parentage revealed by an elder
+    - repeated newborn children taken by hidden father
+    - heroic fosterage of a mysterious infant
+    con_cluster_b:
+    - divine parent-child birth with unusual infant form
+    - sacred birth of a divine child
+    - divine parent-child birth of a marvelous figure
+    - sacred birth and divine child references
+    - divinely assisted birth
+    iso_weight: 0.748
+    con_weight: 0.672
+    iso_traditions:
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - maya
+    - mesoamerican
+    - nahua-maya-inca
+    - native-american-great-lakes
+    - native-american-northeast-woodlands
+    - native-american-northwest-coast
+    - native-american-plains
+    - native-american-southeast
+    - native-american-southwest
+    - navajo
+    - san
+    - siberian
+    - zulu
+    - zuni
+    - amazonian
+    - andamanese
+    - australian-aboriginal
+    - guiana-amerindian
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - khoisan-south-african
     - nahua-maya-inca
     - native-american-great-lakes
     - native-american-northeast-woodlands
@@ -1776,31 +1782,31 @@ results:
     - zulu
     - zuni
 - k: 90
-  alignment_cosine: 0.8194
-  iso_edges: 1402
-  con_edges: 1418
-  reproduction: 0.5407
-  iso_edges_tested: 1402
-  jointly_present_weight_rho: 0.1961
-  null_mean: 0.3539
-  null_sd: 0.0114
-  null_max: 0.3923
+  alignment_cosine: 0.8305
+  iso_edges: 1421
+  con_edges: 1391
+  reproduction: 0.5109
+  iso_edges_tested: 1421
+  jointly_present_weight_rho: 0.208
+  null_mean: 0.3473
+  null_sd: 0.0102
+  null_max: 0.3786
   permutations_beaten: 500/500
   p_value: 0.002
   topology_iso:
-    nodes: 88
-    edges: 1402
+    nodes: 90
+    edges: 1421
     giant_frac: 1.0
-    mean_degree: 31.864
-    clustering: 0.545
-    modularity: 0.239
+    mean_degree: 31.578
+    clustering: 0.548
+    modularity: 0.222
   topology_con:
     nodes: 90
-    edges: 1418
+    edges: 1391
     giant_frac: 1.0
-    mean_degree: 31.511
-    clustering: 0.555
-    modularity: 0.272
-  degree_ks_stat: 0.06
-  degree_ks_p: 0.9927
+    mean_degree: 30.911
+    clustering: 0.548
+    modularity: 0.263
+  degree_ks_stat: 0.156
+  degree_ks_p: 0.227
   matched_bonds: null

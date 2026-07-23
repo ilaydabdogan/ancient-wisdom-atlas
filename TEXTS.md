@@ -1,6 +1,6 @@
 # Texts Checklist
 
-Generated on 2026-07-20 from `data/collections/ingested-corpus.yml`, `data/collections/first-500-corpus.yml`, and `data/collections/first-500-source-map.yml`.
+Generated on 2026-07-22 from `data/collections/ingested-corpus.yml`, `data/collections/first-500-corpus.yml`, and `data/collections/first-500-source-map.yml`.
 
 This page tracks complete source Markdown files currently present in the repo and the planned first-500 corpus units still to be filled or split. A checked first-500 unit means a complete source Markdown file exists that covers it; long works may still need unit-level splitting before the unit is final.
 

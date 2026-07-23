@@ -1,7 +1,7 @@
 ---
 isolated_prediction_test_version: '1'
 preregistration: docs/prereg-isolated-lineage-test.md
-generated_at: '2026-07-21T03:53:51Z'
+generated_at: '2026-07-23T03:40:53Z'
 training:
   traditions:
   - aboriginal-australian
@@ -47,15 +47,25 @@ training:
   - hausa
   - hermetic
   - hindu
+  - inca
   - islamic
   - islamicate-folklore
+  - jain
   - japanese
   - jewish-pseudepigrapha
+  - khoekhoe
+  - kikuyu
+  - kimbundu
+  - korean
   - malagasy
+  - malay
+  - mangaian
+  - maori
   - melanesian
   - mesopotamian
   - micronesian
   - mongol
+  - native-american-california
   - native-american-northeast-woodlands
   - native-american-plateau
   - norse
@@ -78,8 +88,8 @@ training:
   - xhosa
   - yoruba
   - zoroastrian
-  records: 36934
-  conserved_edges: 332
+  records: 40933
+  conserved_edges: 334
 holdout:
   lineages:
   - amazonian
@@ -105,18 +115,18 @@ holdout:
   - siberian
   - zulu
   - zuni
-  records: 5728
-  significant_edges: 289
+  records: 7226
+  significant_edges: 290
 result:
-  reproduced_edges: 276
-  reproduction_rate: 0.8313
-  null_mean: 0.7806
-  null_sd: 0.0158
-  null_max: 0.8223
-  permutations_beaten: 200/200
-  lift: 1.065
-  novelty_rate: 0.045
-  hard_core_rate: 0.2801
+  reproduced_edges: 277
+  reproduction_rate: 0.8293
+  null_mean: 0.8028
+  null_sd: 0.0146
+  null_max: 0.8443
+  permutations_beaten: 192/200
+  lift: 1.033
+  novelty_rate: 0.0448
+  hard_core_rate: 0.3623
   verdict: leakage_flag
 per_lineage:
   amazonian:
@@ -124,13 +134,13 @@ per_lineage:
     training_edges_present: 10
   andamanese:
     records: 123
-    training_edges_present: 49
+    training_edges_present: 50
   australian-aboriginal:
     records: 572
     training_edges_present: 84
   guiana-amerindian:
     records: 284
-    training_edges_present: 85
+    training_edges_present: 86
   hawaiian:
     records: 84
     training_edges_present: 68
@@ -141,8 +151,8 @@ per_lineage:
     records: 65
     training_edges_present: 23
   inuit:
-    records: 136
-    training_edges_present: 36
+    records: 318
+    training_edges_present: 85
   khoisan-south-african:
     records: 46
     training_edges_present: 2
@@ -157,16 +167,16 @@ per_lineage:
     training_edges_present: 21
   nahua-maya-inca:
     records: 102
-    training_edges_present: 149
+    training_edges_present: 150
   native-american-great-lakes:
-    records: 191
-    training_edges_present: 28
+    records: 326
+    training_edges_present: 86
   native-american-northwest-coast:
-    records: 562
-    training_edges_present: 145
+    records: 1014
+    training_edges_present: 162
   native-american-plains:
-    records: 1483
-    training_edges_present: 192
+    records: 2212
+    training_edges_present: 209
   native-american-southeast:
     records: 212
     training_edges_present: 126
@@ -242,6 +252,8 @@ reproduced_edge_list:
 - - ascent
   - divine_judgment
 - - ascent
+  - duality
+- - ascent
   - flood_and_renewal
 - - ascent
   - hero_journey
@@ -350,9 +362,9 @@ reproduced_edge_list:
 - - covenant
   - hero_journey
 - - covenant
-  - sacred_exchange
+  - royal_legitimacy
 - - covenant
-  - sacred_knowledge
+  - sacred_exchange
 - - covenant
   - sacrifice
 - - culture_hero
@@ -410,8 +422,6 @@ reproduced_edge_list:
 - - death_and_transformation
   - miraculous_child
 - - death_and_transformation
-  - mother_goddess
-- - death_and_transformation
   - mystical_quest
 - - death_and_transformation
   - royal_legitimacy
@@ -510,6 +520,8 @@ reproduced_edge_list:
 - - duality
   - sacred_knowledge
 - - duality
+  - sacred_love
+- - duality
   - sacred_time
 - - duality
   - sacred_twins
@@ -529,8 +541,6 @@ reproduced_edge_list:
   - mother_goddess
 - - flood_and_renewal
   - mystical_quest
-- - flood_and_renewal
-  - royal_legitimacy
 - - flood_and_renewal
   - sacred_exchange
 - - flood_and_renewal
@@ -595,21 +605,21 @@ novel_edge_list:
 - - cosmic_origin
   - trickster
 - - culture_hero
+  - sacred_fire
+- - culture_hero
   - sacred_waters
-- - descent
-  - sacred_time
 - - hero_journey
   - mother_goddess
 - - hero_journey
   - sacred_waters
 - - initiation
   - sacred_waters
-- - sacred_exchange
-  - sacred_fire
+- - sacred_fire
+  - sacred_twins
 - - sacred_fire
   - shapeshifter
-- - sacred_time
-  - serpent_guardian
+- - sacred_fire
+  - trickster
 - - sacred_time
   - trickster
 - - sacred_waters

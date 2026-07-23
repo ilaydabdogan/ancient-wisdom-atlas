@@ -1,6 +1,6 @@
 ---
 replication_agreement_version: '1'
-generated_at: '2026-07-21T03:53:57Z'
+generated_at: '2026-07-23T03:43:18Z'
 runs:
   motif-extraction-2026-07-17-azure-wave1:
     parsed: 3217
@@ -14,6 +14,12 @@ runs:
   replication-gpt51-2026-07-17:
     parsed: 1287
     parse_failed: 2097
+  canon-wave10-2026-07-21:
+    parsed: 7895
+    parse_failed: 16
+  replication-gpt54-wave10-2026-07-21:
+    parsed: 6794
+    parse_failed: 1057
 pairwise:
 - run_a: motif-extraction-2026-07-17-azure-wave1
   run_b: replication-gpt54-2026-07-17
@@ -84,6 +90,20 @@ pairwise:
     hindu: 0.4835
     persian: 0.4633
     celtic-welsh: 0.383
+- run_a: motif-extraction-2026-07-17-azure-wave1
+  run_b: canon-wave10-2026-07-21
+  shared_passages: 0
+  mean_raw_jaccard:
+  mean_canonical_jaccard:
+  exact_canonical_match_rate:
+  per_tradition_canonical_jaccard: {}
+- run_a: motif-extraction-2026-07-17-azure-wave1
+  run_b: replication-gpt54-wave10-2026-07-21
+  shared_passages: 0
+  mean_raw_jaccard:
+  mean_canonical_jaccard:
+  exact_canonical_match_rate:
+  per_tradition_canonical_jaccard: {}
 - run_a: replication-gpt54-2026-07-17
   run_b: replication-gpt56terra-2026-07-17
   shared_passages: 3090
@@ -130,6 +150,20 @@ pairwise:
     islamicate-folklore: 0.383
     daoist: 0.325
     celtic-welsh: 0.2727
+- run_a: replication-gpt54-2026-07-17
+  run_b: canon-wave10-2026-07-21
+  shared_passages: 0
+  mean_raw_jaccard:
+  mean_canonical_jaccard:
+  exact_canonical_match_rate:
+  per_tradition_canonical_jaccard: {}
+- run_a: replication-gpt54-2026-07-17
+  run_b: replication-gpt54-wave10-2026-07-21
+  shared_passages: 0
+  mean_raw_jaccard:
+  mean_canonical_jaccard:
+  exact_canonical_match_rate:
+  per_tradition_canonical_jaccard: {}
 - run_a: replication-gpt56terra-2026-07-17
   run_b: replication-gpt51-2026-07-17
   shared_passages: 1278
@@ -153,4 +187,59 @@ pairwise:
     greek: 0.3181
     persian: 0.2854
     celtic-welsh: 0.2248
+- run_a: replication-gpt56terra-2026-07-17
+  run_b: canon-wave10-2026-07-21
+  shared_passages: 0
+  mean_raw_jaccard:
+  mean_canonical_jaccard:
+  exact_canonical_match_rate:
+  per_tradition_canonical_jaccard: {}
+- run_a: replication-gpt56terra-2026-07-17
+  run_b: replication-gpt54-wave10-2026-07-21
+  shared_passages: 0
+  mean_raw_jaccard:
+  mean_canonical_jaccard:
+  exact_canonical_match_rate:
+  per_tradition_canonical_jaccard: {}
+- run_a: replication-gpt51-2026-07-17
+  run_b: canon-wave10-2026-07-21
+  shared_passages: 0
+  mean_raw_jaccard:
+  mean_canonical_jaccard:
+  exact_canonical_match_rate:
+  per_tradition_canonical_jaccard: {}
+- run_a: replication-gpt51-2026-07-17
+  run_b: replication-gpt54-wave10-2026-07-21
+  shared_passages: 0
+  mean_raw_jaccard:
+  mean_canonical_jaccard:
+  exact_canonical_match_rate:
+  per_tradition_canonical_jaccard: {}
+- run_a: canon-wave10-2026-07-21
+  run_b: replication-gpt54-wave10-2026-07-21
+  shared_passages: 6771
+  mean_raw_jaccard: 0.7016
+  mean_canonical_jaccard: 0.7113
+  exact_canonical_match_rate: 0.5456
+  per_tradition_canonical_jaccard:
+    khoekhoe: 0.8583
+    kikuyu: 0.8503
+    malagasy: 0.7839
+    native-american-northeast-woodlands: 0.7782
+    native-american-northwest-coast: 0.7514
+    melanesian: 0.7503
+    inca: 0.7448
+    malay: 0.744
+    mangaian: 0.7103
+    mesopotamian: 0.6967
+    kimbundu: 0.6945
+    hindu: 0.6921
+    korean: 0.6738
+    mongol: 0.6627
+    native-american-california: 0.6519
+    native-american-plains: 0.6472
+    jain: 0.6257
+    inuit: 0.6237
+    maori: 0.621
+    native-american-great-lakes: 0.6155
 

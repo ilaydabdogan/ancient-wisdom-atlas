@@ -1,43 +1,33 @@
 ---
 null_model_version: '1'
-generated_at: '2026-07-21T03:51:39Z'
+generated_at: '2026-07-23T03:38:25Z'
 config:
   permutations: 200
   min_pair_count: 3
   min_traditions: 4
   seed: 42
-  traditions_analyzed: 93
+  traditions_analyzed: 103
 result:
-  observed_conserved_edges: 342
-  null_mean: 322.59
-  null_sd: 3.34
-  null_max: 331
-  z_score: 5.81
+  observed_conserved_edges: 346
+  null_mean: 324.64
+  null_sd: 3.14
+  null_max: 332
+  z_score: 6.81
   p_value: 0.00498
 edges:
 - pair:
-  - flood_and_renewal
-  - sacred_waters
-  observed_traditions: 6
-  null_hit_rate: 0.0
-- pair:
-  - sacred_fire
-  - serpent_guardian
-  observed_traditions: 5
-  null_hit_rate: 0.0
-- pair:
-  - sacred_fire
-  - sacred_waters
-  observed_traditions: 5
-  null_hit_rate: 0.0
-- pair:
   - axis_mundi
   - sacred_fire
-  observed_traditions: 4
+  observed_traditions: 5
   null_hit_rate: 0.0
 - pair:
-  - initiation
   - sacred_fire
+  - sacred_waters
+  observed_traditions: 5
+  null_hit_rate: 0.0
+- pair:
+  - sacred_fire
+  - sacred_time
   observed_traditions: 4
   null_hit_rate: 0.0
 - pair:
@@ -46,204 +36,209 @@ edges:
   observed_traditions: 7
   null_hit_rate: 0.005
 - pair:
-  - death_and_transformation
-  - sacred_fire
-  observed_traditions: 7
-  null_hit_rate: 0.035
+  - flood_and_renewal
+  - sacred_waters
+  observed_traditions: 6
+  null_hit_rate: 0.005
 - pair:
   - sacred_fire
   - sacred_love
-  observed_traditions: 5
-  null_hit_rate: 0.035
+  observed_traditions: 6
+  null_hit_rate: 0.005
 - pair:
   - sacred_fire
-  - shapeshifter
+  - serpent_guardian
+  observed_traditions: 5
+  null_hit_rate: 0.005
+- pair:
+  - sacred_fire
+  - trickster
   observed_traditions: 4
-  null_hit_rate: 0.06
+  null_hit_rate: 0.005
+- pair:
+  - initiation
+  - sacred_fire
+  observed_traditions: 4
+  null_hit_rate: 0.05
 - pair:
   - sacred_waters
   - serpent_guardian
   observed_traditions: 9
+  null_hit_rate: 0.075
+- pair:
+  - death_and_transformation
+  - sacred_fire
+  observed_traditions: 7
   null_hit_rate: 0.095
 - pair:
   - sacred_fire
-  - sacrifice
+  - shapeshifter
   observed_traditions: 5
   null_hit_rate: 0.095
 - pair:
   - mystical_quest
   - sacred_fire
   observed_traditions: 4
-  null_hit_rate: 0.095
+  null_hit_rate: 0.105
 - pair:
-  - sacred_love
-  - sacred_waters
-  observed_traditions: 7
-  null_hit_rate: 0.1
+  - sacred_fire
+  - sacrifice
+  observed_traditions: 5
+  null_hit_rate: 0.11
 - pair:
   - sacred_waters
   - sacrifice
   observed_traditions: 4
-  null_hit_rate: 0.13
+  null_hit_rate: 0.12
 - pair:
   - miraculous_child
   - sacred_fire
-  observed_traditions: 4
+  observed_traditions: 5
+  null_hit_rate: 0.13
+- pair:
+  - sacred_love
+  - sacred_waters
+  observed_traditions: 7
   null_hit_rate: 0.155
 - pair:
   - afterlife_passage
   - sacred_waters
   observed_traditions: 4
-  null_hit_rate: 0.23
-- pair:
-  - flood_and_renewal
-  - mother_goddess
-  observed_traditions: 5
-  null_hit_rate: 0.25
-- pair:
-  - miraculous_child
-  - sacred_waters
-  observed_traditions: 7
-  null_hit_rate: 0.28
+  null_hit_rate: 0.19
 - pair:
   - sacred_waters
   - shapeshifter
   observed_traditions: 10
-  null_hit_rate: 0.305
+  null_hit_rate: 0.285
+- pair:
+  - miraculous_child
+  - sacred_waters
+  observed_traditions: 8
+  null_hit_rate: 0.325
+- pair:
+  - flood_and_renewal
+  - mother_goddess
+  observed_traditions: 5
+  null_hit_rate: 0.335
+- pair:
+  - divine_judgment
+  - sacred_waters
+  observed_traditions: 6
+  null_hit_rate: 0.355
+- pair:
+  - divine_judgment
+  - sacred_fire
+  observed_traditions: 5
+  null_hit_rate: 0.38
 - pair:
   - death_and_transformation
   - sacred_waters
   observed_traditions: 6
-  null_hit_rate: 0.345
-- pair:
-  - divine_judgment
-  - sacred_fire
-  observed_traditions: 5
-  null_hit_rate: 0.36
-- pair:
-  - divine_judgment
-  - sacred_waters
-  observed_traditions: 6
-  null_hit_rate: 0.4
+  null_hit_rate: 0.39
 - pair:
   - cosmic_origin
   - mother_goddess
   observed_traditions: 11
-  null_hit_rate: 0.405
-- pair:
-  - royal_legitimacy
-  - sacred_waters
-  observed_traditions: 5
-  null_hit_rate: 0.42
+  null_hit_rate: 0.435
 - pair:
   - mystical_quest
   - sacred_waters
   observed_traditions: 7
-  null_hit_rate: 0.43
+  null_hit_rate: 0.47
 - pair:
   - mother_goddess
   - sacred_twins
-  observed_traditions: 4
-  null_hit_rate: 0.54
+  observed_traditions: 5
+  null_hit_rate: 0.485
+- pair:
+  - royal_legitimacy
+  - sacred_waters
+  observed_traditions: 5
+  null_hit_rate: 0.495
 - pair:
   - hero_journey
   - sacred_fire
+  observed_traditions: 7
+  null_hit_rate: 0.61
+- pair:
+  - cosmic_origin
+  - descent
   observed_traditions: 5
-  null_hit_rate: 0.565
+  null_hit_rate: 0.61
 - pair:
   - descent
   - flood_and_renewal
   observed_traditions: 5
-  null_hit_rate: 0.625
+  null_hit_rate: 0.675
 - pair:
   - axis_mundi
   - mother_goddess
   observed_traditions: 11
-  null_hit_rate: 0.645
-- pair:
-  - cosmic_origin
-  - descent
-  observed_traditions: 4
-  null_hit_rate: 0.66
+  null_hit_rate: 0.755
 - pair:
   - sacred_exchange
   - sacred_waters
-  observed_traditions: 9
-  null_hit_rate: 0.675
+  observed_traditions: 10
+  null_hit_rate: 0.765
 - pair:
   - mother_goddess
   - sacred_love
-  observed_traditions: 15
-  null_hit_rate: 0.705
+  observed_traditions: 16
+  null_hit_rate: 0.78
 - pair:
   - culture_hero
   - mother_goddess
-  observed_traditions: 9
-  null_hit_rate: 0.755
+  observed_traditions: 10
+  null_hit_rate: 0.79
 - pair:
   - sacred_fire
   - sacred_knowledge
   observed_traditions: 7
-  null_hit_rate: 0.755
+  null_hit_rate: 0.795
+- pair:
+  - covenant
+  - flood_and_renewal
+  observed_traditions: 4
+  null_hit_rate: 0.8
+- pair:
+  - cosmic_origin
+  - sacred_twins
+  observed_traditions: 6
+  null_hit_rate: 0.81
 - pair:
   - axis_mundi
   - descent
   observed_traditions: 10
-  null_hit_rate: 0.805
+  null_hit_rate: 0.815
+- pair:
+  - covenant
+  - sacred_twins
+  observed_traditions: 6
+  null_hit_rate: 0.82
 - pair:
   - axis_mundi
   - covenant
   observed_traditions: 9
-  null_hit_rate: 0.815
-- pair:
-  - hero_journey
-  - sacred_waters
-  observed_traditions: 4
-  null_hit_rate: 0.82
+  null_hit_rate: 0.83
 - pair:
   - mother_goddess
   - sacred_time
-  observed_traditions: 13
-  null_hit_rate: 0.83
-- pair:
-  - cosmic_origin
-  - sacred_twins
-  observed_traditions: 6
-  null_hit_rate: 0.83
+  observed_traditions: 14
+  null_hit_rate: 0.845
 - pair:
   - mother_goddess
   - serpent_guardian
   observed_traditions: 5
-  null_hit_rate: 0.835
-- pair:
-  - cosmic_origin
-  - flood_and_renewal
-  observed_traditions: 17
-  null_hit_rate: 0.86
+  null_hit_rate: 0.88
 - pair:
   - ascent
   - mother_goddess
   observed_traditions: 7
-  null_hit_rate: 0.86
+  null_hit_rate: 0.885
 - pair:
-  - covenant
-  - sacred_twins
-  observed_traditions: 6
-  null_hit_rate: 0.86
-- pair:
-  - afterlife_passage
-  - descent
-  observed_traditions: 26
-  null_hit_rate: 0.88
-- pair:
-  - divine_judgment
-  - mother_goddess
-  observed_traditions: 7
-  null_hit_rate: 0.89
-- pair:
-  - afterlife_passage
-  - mother_goddess
-  observed_traditions: 4
+  - hero_journey
+  - sacred_waters
+  observed_traditions: 5
   null_hit_rate: 0.89
 - pair:
   - cosmic_origin
@@ -251,50 +246,55 @@ edges:
   observed_traditions: 4
   null_hit_rate: 0.89
 - pair:
-  - descent
-  - duality
-  observed_traditions: 7
-  null_hit_rate: 0.895
+  - cosmic_origin
+  - flood_and_renewal
+  observed_traditions: 18
+  null_hit_rate: 0.9
 - pair:
-  - covenant
-  - sacred_time
-  observed_traditions: 4
+  - mother_goddess
+  - sacrifice
+  observed_traditions: 8
   null_hit_rate: 0.905
-- pair:
-  - death_and_transformation
-  - mother_goddess
-  observed_traditions: 9
-  null_hit_rate: 0.91
-- pair:
-  - mother_goddess
-  - shapeshifter
-  observed_traditions: 5
-  null_hit_rate: 0.91
-- pair:
-  - duality
-  - mother_goddess
-  observed_traditions: 15
-  null_hit_rate: 0.92
 - pair:
   - sacred_knowledge
   - sacred_waters
   observed_traditions: 13
+  null_hit_rate: 0.915
+- pair:
+  - divine_judgment
+  - mother_goddess
+  observed_traditions: 7
+  null_hit_rate: 0.915
+- pair:
+  - mother_goddess
+  - royal_legitimacy
+  observed_traditions: 7
+  null_hit_rate: 0.915
+- pair:
+  - afterlife_passage
+  - mother_goddess
+  observed_traditions: 4
+  null_hit_rate: 0.915
+- pair:
+  - duality
+  - mother_goddess
+  observed_traditions: 16
+  null_hit_rate: 0.92
+- pair:
+  - descent
+  - duality
+  observed_traditions: 8
+  null_hit_rate: 0.92
+- pair:
+  - death_and_transformation
+  - mother_goddess
+  observed_traditions: 9
   null_hit_rate: 0.925
 - pair:
   - mother_goddess
-  - royal_legitimacy
-  observed_traditions: 6
+  - mystical_quest
+  observed_traditions: 4
   null_hit_rate: 0.93
-- pair:
-  - covenant
-  - culture_hero
-  observed_traditions: 6
-  null_hit_rate: 0.93
-- pair:
-  - descent
-  - sacred_twins
-  observed_traditions: 12
-  null_hit_rate: 0.935
 - pair:
   - initiation
   - mother_goddess
@@ -303,102 +303,102 @@ edges:
 - pair:
   - covenant
   - serpent_guardian
-  observed_traditions: 4
+  observed_traditions: 5
   null_hit_rate: 0.935
+- pair:
+  - covenant
+  - culture_hero
+  observed_traditions: 7
+  null_hit_rate: 0.94
+- pair:
+  - descent
+  - sacred_twins
+  observed_traditions: 15
+  null_hit_rate: 0.945
+- pair:
+  - afterlife_passage
+  - descent
+  observed_traditions: 31
+  null_hit_rate: 0.95
+- pair:
+  - cosmic_origin
+  - sacred_time
+  observed_traditions: 14
+  null_hit_rate: 0.95
+- pair:
+  - covenant
+  - sacred_time
+  observed_traditions: 5
+  null_hit_rate: 0.95
+- pair:
+  - mother_goddess
+  - shapeshifter
+  observed_traditions: 5
+  null_hit_rate: 0.955
 - pair:
   - descent
   - sacred_time
   observed_traditions: 4
-  null_hit_rate: 0.935
-- pair:
-  - culture_hero
-  - descent
-  observed_traditions: 13
-  null_hit_rate: 0.945
-- pair:
-  - covenant
-  - sacred_love
-  observed_traditions: 10
-  null_hit_rate: 0.95
-- pair:
-  - mother_goddess
-  - sacrifice
-  observed_traditions: 8
-  null_hit_rate: 0.95
-- pair:
-  - miraculous_child
-  - mother_goddess
-  observed_traditions: 21
   null_hit_rate: 0.955
 - pair:
-  - axis_mundi
   - cosmic_origin
-  observed_traditions: 16
-  null_hit_rate: 0.955
+  - culture_hero
+  observed_traditions: 18
+  null_hit_rate: 0.96
 - pair:
   - ascent
   - covenant
-  observed_traditions: 5
+  observed_traditions: 6
   null_hit_rate: 0.96
 - pair:
-  - descent
-  - serpent_guardian
-  observed_traditions: 15
+  - axis_mundi
+  - cosmic_origin
+  observed_traditions: 17
   null_hit_rate: 0.965
+- pair:
+  - miraculous_child
+  - mother_goddess
+  observed_traditions: 23
+  null_hit_rate: 0.97
+- pair:
+  - culture_hero
+  - descent
+  observed_traditions: 14
+  null_hit_rate: 0.97
+- pair:
+  - covenant
+  - sacred_love
+  observed_traditions: 12
+  null_hit_rate: 0.975
 - pair:
   - cosmic_origin
   - sacred_love
   observed_traditions: 9
-  null_hit_rate: 0.965
-- pair:
-  - covenant
-  - divine_judgment
-  observed_traditions: 18
-  null_hit_rate: 0.97
-- pair:
-  - cosmic_origin
-  - culture_hero
-  observed_traditions: 15
-  null_hit_rate: 0.97
-- pair:
-  - cosmic_origin
-  - sacred_time
-  observed_traditions: 13
-  null_hit_rate: 0.97
+  null_hit_rate: 0.975
 - pair:
   - descent
-  - sacrifice
-  observed_traditions: 13
-  null_hit_rate: 0.975
+  - trickster
+  observed_traditions: 11
+  null_hit_rate: 0.98
+- pair:
+  - descent
+  - serpent_guardian
+  observed_traditions: 17
+  null_hit_rate: 0.985
+- pair:
+  - ascent
+  - cosmic_origin
+  observed_traditions: 15
+  null_hit_rate: 0.985
+- pair:
+  - cosmic_origin
+  - shapeshifter
+  observed_traditions: 9
+  null_hit_rate: 0.985
 - pair:
   - covenant
   - duality
   observed_traditions: 8
-  null_hit_rate: 0.975
-- pair:
-  - covenant
-  - trickster
-  observed_traditions: 5
-  null_hit_rate: 0.975
-- pair:
-  - ascent
-  - descent
-  observed_traditions: 20
-  null_hit_rate: 0.98
-- pair:
-  - cosmic_origin
-  - shapeshifter
-  observed_traditions: 9
-  null_hit_rate: 0.98
-- pair:
-  - covenant
-  - miraculous_child
-  observed_traditions: 6
-  null_hit_rate: 0.985
-- pair:
-  - covenant
-  - shapeshifter
-  observed_traditions: 5
   null_hit_rate: 0.985
 - pair:
   - covenant
@@ -406,1113 +406,1113 @@ edges:
   observed_traditions: 4
   null_hit_rate: 0.985
 - pair:
-  - cosmic_origin
-  - duality
+  - axis_mundi
+  - flood_and_renewal
   observed_traditions: 22
   null_hit_rate: 0.99
 - pair:
-  - cosmic_origin
-  - serpent_guardian
-  observed_traditions: 15
-  null_hit_rate: 0.99
-- pair:
-  - flood_and_renewal
-  - sacred_twins
-  observed_traditions: 14
-  null_hit_rate: 0.99
-- pair:
-  - axis_mundi
-  - sacred_twins
-  observed_traditions: 14
-  null_hit_rate: 0.99
-- pair:
-  - flood_and_renewal
-  - trickster
+  - descent
+  - sacrifice
   observed_traditions: 13
   null_hit_rate: 0.99
-- pair:
-  - covenant
-  - sacrifice
-  observed_traditions: 11
-  null_hit_rate: 0.99
-- pair:
-  - flood_and_renewal
-  - sacred_love
-  observed_traditions: 6
-  null_hit_rate: 0.99
-- pair:
-  - cosmic_origin
-  - sacrifice
-  observed_traditions: 5
-  null_hit_rate: 0.99
-- pair:
-  - death_and_transformation
-  - descent
-  observed_traditions: 26
-  null_hit_rate: 0.995
-- pair:
-  - covenant
-  - royal_legitimacy
-  observed_traditions: 21
-  null_hit_rate: 0.995
-- pair:
-  - axis_mundi
-  - flood_and_renewal
-  observed_traditions: 20
-  null_hit_rate: 0.995
-- pair:
-  - culture_hero
-  - serpent_guardian
-  observed_traditions: 18
-  null_hit_rate: 0.995
-- pair:
-  - duality
-  - sacred_twins
-  observed_traditions: 18
-  null_hit_rate: 0.995
-- pair:
-  - descent
-  - miraculous_child
-  observed_traditions: 17
-  null_hit_rate: 0.995
-- pair:
-  - cosmic_origin
-  - miraculous_child
-  observed_traditions: 17
-  null_hit_rate: 0.995
-- pair:
-  - cosmic_origin
-  - royal_legitimacy
-  observed_traditions: 15
-  null_hit_rate: 0.995
-- pair:
-  - ascent
-  - cosmic_origin
-  observed_traditions: 14
-  null_hit_rate: 0.995
-- pair:
-  - axis_mundi
-  - sacred_love
-  observed_traditions: 14
-  null_hit_rate: 0.995
-- pair:
-  - mother_goddess
-  - sacred_exchange
-  observed_traditions: 14
-  null_hit_rate: 0.995
-- pair:
-  - cosmic_origin
-  - divine_judgment
-  observed_traditions: 13
-  null_hit_rate: 0.995
-- pair:
-  - descent
-  - trickster
-  observed_traditions: 11
-  null_hit_rate: 0.995
-- pair:
-  - afterlife_passage
-  - flood_and_renewal
-  observed_traditions: 10
-  null_hit_rate: 0.995
-- pair:
-  - cosmic_origin
-  - death_and_transformation
-  observed_traditions: 9
-  null_hit_rate: 0.995
 - pair:
   - afterlife_passage
   - cosmic_origin
   observed_traditions: 8
+  null_hit_rate: 0.99
+- pair:
+  - covenant
+  - shapeshifter
+  observed_traditions: 6
+  null_hit_rate: 0.99
+- pair:
+  - covenant
+  - royal_legitimacy
+  observed_traditions: 24
+  null_hit_rate: 0.995
+- pair:
+  - ascent
+  - descent
+  observed_traditions: 22
+  null_hit_rate: 0.995
+- pair:
+  - covenant
+  - divine_judgment
+  observed_traditions: 19
+  null_hit_rate: 0.995
+- pair:
+  - cosmic_origin
+  - serpent_guardian
+  observed_traditions: 16
+  null_hit_rate: 0.995
+- pair:
+  - descent
+  - sacred_love
+  observed_traditions: 16
+  null_hit_rate: 0.995
+- pair:
+  - flood_and_renewal
+  - sacred_twins
+  observed_traditions: 16
+  null_hit_rate: 0.995
+- pair:
+  - duality
+  - flood_and_renewal
+  observed_traditions: 15
+  null_hit_rate: 0.995
+- pair:
+  - mother_goddess
+  - sacred_exchange
+  observed_traditions: 15
+  null_hit_rate: 0.995
+- pair:
+  - cosmic_origin
+  - divine_judgment
+  observed_traditions: 14
   null_hit_rate: 0.995
 - pair:
   - afterlife_passage
-  - sacred_twins
+  - flood_and_renewal
+  observed_traditions: 12
+  null_hit_rate: 0.995
+- pair:
+  - cosmic_origin
+  - death_and_transformation
+  observed_traditions: 10
+  null_hit_rate: 0.995
+- pair:
+  - covenant
+  - initiation
+  observed_traditions: 9
+  null_hit_rate: 0.995
+- pair:
+  - covenant
+  - trickster
+  observed_traditions: 5
+  null_hit_rate: 0.995
+- pair:
+  - cosmic_origin
+  - sacrifice
   observed_traditions: 4
   null_hit_rate: 0.995
 - pair:
   - sacred_exchange
   - sacrifice
-  observed_traditions: 59
+  observed_traditions: 67
   null_hit_rate: 1.0
 - pair:
   - hero_journey
   - mystical_quest
-  observed_traditions: 56
+  observed_traditions: 62
   null_hit_rate: 1.0
 - pair:
   - initiation
   - sacred_knowledge
-  observed_traditions: 52
+  observed_traditions: 58
   null_hit_rate: 1.0
 - pair:
   - mystical_quest
   - sacred_knowledge
-  observed_traditions: 51
+  observed_traditions: 58
+  null_hit_rate: 1.0
+- pair:
+  - ascent
+  - hero_journey
+  observed_traditions: 55
+  null_hit_rate: 1.0
+- pair:
+  - divine_judgment
+  - sacred_exchange
+  observed_traditions: 55
   null_hit_rate: 1.0
 - pair:
   - initiation
+  - sacred_exchange
+  observed_traditions: 55
+  null_hit_rate: 1.0
+- pair:
+  - hero_journey
+  - sacred_love
+  observed_traditions: 53
+  null_hit_rate: 1.0
+- pair:
+  - mystical_quest
+  - sacred_love
+  observed_traditions: 50
+  null_hit_rate: 1.0
+- pair:
+  - culture_hero
+  - miraculous_child
+  observed_traditions: 49
+  null_hit_rate: 1.0
+- pair:
+  - miraculous_child
   - sacred_exchange
   observed_traditions: 49
   null_hit_rate: 1.0
 - pair:
-  - ascent
+  - culture_hero
+  - sacred_knowledge
+  observed_traditions: 49
+  null_hit_rate: 1.0
+- pair:
+  - death_and_transformation
   - hero_journey
   observed_traditions: 48
   null_hit_rate: 1.0
 - pair:
-  - divine_judgment
+  - initiation
+  - mystical_quest
+  observed_traditions: 48
+  null_hit_rate: 1.0
+- pair:
+  - ascent
+  - mystical_quest
+  observed_traditions: 47
+  null_hit_rate: 1.0
+- pair:
+  - afterlife_passage
+  - death_and_transformation
+  observed_traditions: 47
+  null_hit_rate: 1.0
+- pair:
+  - death_and_transformation
+  - sacred_knowledge
+  observed_traditions: 47
+  null_hit_rate: 1.0
+- pair:
   - sacred_exchange
+  - sacred_love
   observed_traditions: 47
   null_hit_rate: 1.0
 - pair:
   - hero_journey
-  - sacred_love
-  observed_traditions: 45
-  null_hit_rate: 1.0
-- pair:
   - initiation
-  - mystical_quest
-  observed_traditions: 44
-  null_hit_rate: 1.0
-- pair:
-  - mystical_quest
-  - sacred_love
-  observed_traditions: 44
-  null_hit_rate: 1.0
-- pair:
-  - culture_hero
-  - miraculous_child
-  observed_traditions: 43
-  null_hit_rate: 1.0
-- pair:
-  - miraculous_child
-  - sacred_exchange
-  observed_traditions: 42
-  null_hit_rate: 1.0
-- pair:
-  - culture_hero
-  - sacred_knowledge
-  observed_traditions: 42
-  null_hit_rate: 1.0
-- pair:
-  - death_and_transformation
-  - hero_journey
-  observed_traditions: 42
-  null_hit_rate: 1.0
-- pair:
-  - hero_journey
-  - initiation
-  observed_traditions: 41
-  null_hit_rate: 1.0
-- pair:
-  - sacred_exchange
-  - sacred_love
-  observed_traditions: 41
-  null_hit_rate: 1.0
-- pair:
-  - death_and_transformation
-  - sacred_knowledge
-  observed_traditions: 41
-  null_hit_rate: 1.0
-- pair:
-  - divine_judgment
-  - sacred_knowledge
-  observed_traditions: 41
+  observed_traditions: 46
   null_hit_rate: 1.0
 - pair:
   - sacred_knowledge
   - trickster
-  observed_traditions: 41
+  observed_traditions: 46
   null_hit_rate: 1.0
 - pair:
-  - miraculous_child
-  - sacred_love
-  observed_traditions: 41
-  null_hit_rate: 1.0
-- pair:
-  - sacred_exchange
+  - divine_judgment
   - sacred_knowledge
-  observed_traditions: 40
-  null_hit_rate: 1.0
-- pair:
-  - ascent
-  - mystical_quest
-  observed_traditions: 40
+  observed_traditions: 46
   null_hit_rate: 1.0
 - pair:
   - ascent
   - axis_mundi
-  observed_traditions: 39
-  null_hit_rate: 1.0
-- pair:
-  - afterlife_passage
-  - death_and_transformation
-  observed_traditions: 39
+  observed_traditions: 45
   null_hit_rate: 1.0
 - pair:
   - hero_journey
   - sacred_exchange
-  observed_traditions: 39
+  observed_traditions: 44
+  null_hit_rate: 1.0
+- pair:
+  - sacred_exchange
+  - sacred_time
+  observed_traditions: 44
+  null_hit_rate: 1.0
+- pair:
+  - miraculous_child
+  - sacred_love
+  observed_traditions: 44
+  null_hit_rate: 1.0
+- pair:
+  - sacred_exchange
+  - sacred_knowledge
+  observed_traditions: 43
+  null_hit_rate: 1.0
+- pair:
+  - hero_journey
+  - sacred_twins
+  observed_traditions: 43
   null_hit_rate: 1.0
 - pair:
   - descent
   - hero_journey
-  observed_traditions: 39
-  null_hit_rate: 1.0
-- pair:
-  - hero_journey
-  - royal_legitimacy
-  observed_traditions: 39
+  observed_traditions: 43
   null_hit_rate: 1.0
 - pair:
   - death_and_transformation
   - divine_judgment
-  observed_traditions: 38
+  observed_traditions: 43
+  null_hit_rate: 1.0
+- pair:
+  - death_and_transformation
+  - shapeshifter
+  observed_traditions: 42
   null_hit_rate: 1.0
 - pair:
   - ascent
   - sacred_knowledge
-  observed_traditions: 38
+  observed_traditions: 42
   null_hit_rate: 1.0
 - pair:
   - death_and_transformation
+  - miraculous_child
+  observed_traditions: 42
+  null_hit_rate: 1.0
+- pair:
+  - hero_journey
+  - miraculous_child
+  observed_traditions: 42
+  null_hit_rate: 1.0
+- pair:
+  - ascent
+  - miraculous_child
+  observed_traditions: 42
+  null_hit_rate: 1.0
+- pair:
+  - miraculous_child
+  - sacred_twins
+  observed_traditions: 41
+  null_hit_rate: 1.0
+- pair:
+  - mystical_quest
+  - sacred_exchange
+  observed_traditions: 40
+  null_hit_rate: 1.0
+- pair:
+  - hero_journey
+  - royal_legitimacy
+  observed_traditions: 40
+  null_hit_rate: 1.0
+- pair:
+  - shapeshifter
+  - trickster
+  observed_traditions: 40
+  null_hit_rate: 1.0
+- pair:
+  - mystical_quest
+  - shapeshifter
+  observed_traditions: 40
+  null_hit_rate: 1.0
+- pair:
+  - miraculous_child
+  - royal_legitimacy
+  observed_traditions: 40
+  null_hit_rate: 1.0
+- pair:
+  - ascent
+  - death_and_transformation
+  observed_traditions: 39
+  null_hit_rate: 1.0
+- pair:
+  - death_and_transformation
+  - mystical_quest
+  observed_traditions: 39
+  null_hit_rate: 1.0
+- pair:
+  - serpent_guardian
+  - shapeshifter
+  observed_traditions: 39
+  null_hit_rate: 1.0
+- pair:
+  - duality
+  - sacred_knowledge
+  observed_traditions: 37
+  null_hit_rate: 1.0
+- pair:
+  - sacred_knowledge
   - shapeshifter
   observed_traditions: 37
   null_hit_rate: 1.0
 - pair:
-  - ascent
-  - miraculous_child
-  observed_traditions: 36
-  null_hit_rate: 1.0
-- pair:
-  - sacred_exchange
-  - sacred_time
-  observed_traditions: 36
-  null_hit_rate: 1.0
-- pair:
-  - miraculous_child
-  - royal_legitimacy
-  observed_traditions: 36
-  null_hit_rate: 1.0
-- pair:
-  - hero_journey
-  - sacred_twins
-  observed_traditions: 36
-  null_hit_rate: 1.0
-- pair:
-  - death_and_transformation
-  - miraculous_child
-  observed_traditions: 36
-  null_hit_rate: 1.0
-- pair:
-  - sacred_knowledge
-  - shapeshifter
-  observed_traditions: 36
-  null_hit_rate: 1.0
-- pair:
-  - miraculous_child
-  - sacred_twins
-  observed_traditions: 35
-  null_hit_rate: 1.0
-- pair:
   - divine_judgment
   - miraculous_child
-  observed_traditions: 35
-  null_hit_rate: 1.0
-- pair:
-  - serpent_guardian
-  - shapeshifter
-  observed_traditions: 35
-  null_hit_rate: 1.0
-- pair:
-  - mystical_quest
-  - sacred_exchange
-  observed_traditions: 35
-  null_hit_rate: 1.0
-- pair:
-  - mystical_quest
-  - shapeshifter
-  observed_traditions: 34
-  null_hit_rate: 1.0
-- pair:
-  - hero_journey
-  - miraculous_child
-  observed_traditions: 34
-  null_hit_rate: 1.0
-- pair:
-  - death_and_transformation
-  - mystical_quest
-  observed_traditions: 34
-  null_hit_rate: 1.0
-- pair:
-  - hero_journey
-  - sacred_knowledge
-  observed_traditions: 33
-  null_hit_rate: 1.0
-- pair:
-  - ascent
-  - divine_judgment
-  observed_traditions: 33
-  null_hit_rate: 1.0
-- pair:
-  - duality
-  - sacred_knowledge
-  observed_traditions: 32
-  null_hit_rate: 1.0
-- pair:
-  - ascent
-  - death_and_transformation
-  observed_traditions: 32
-  null_hit_rate: 1.0
-- pair:
-  - sacred_love
-  - shapeshifter
-  observed_traditions: 32
-  null_hit_rate: 1.0
-- pair:
-  - shapeshifter
-  - trickster
-  observed_traditions: 32
-  null_hit_rate: 1.0
-- pair:
-  - axis_mundi
-  - sacred_exchange
-  observed_traditions: 32
-  null_hit_rate: 1.0
-- pair:
-  - royal_legitimacy
-  - sacred_exchange
-  observed_traditions: 31
+  observed_traditions: 37
   null_hit_rate: 1.0
 - pair:
   - afterlife_passage
   - hero_journey
-  observed_traditions: 31
+  observed_traditions: 37
   null_hit_rate: 1.0
 - pair:
   - initiation
   - miraculous_child
-  observed_traditions: 31
+  observed_traditions: 37
+  null_hit_rate: 1.0
+- pair:
+  - ascent
+  - divine_judgment
+  observed_traditions: 37
+  null_hit_rate: 1.0
+- pair:
+  - axis_mundi
+  - sacred_exchange
+  observed_traditions: 36
+  null_hit_rate: 1.0
+- pair:
+  - afterlife_passage
+  - ascent
+  observed_traditions: 35
+  null_hit_rate: 1.0
+- pair:
+  - sacred_love
+  - shapeshifter
+  observed_traditions: 35
   null_hit_rate: 1.0
 - pair:
   - afterlife_passage
   - divine_judgment
-  observed_traditions: 31
+  observed_traditions: 35
   null_hit_rate: 1.0
 - pair:
-  - afterlife_passage
-  - ascent
-  observed_traditions: 30
-  null_hit_rate: 1.0
-- pair:
-  - ascent
-  - culture_hero
-  observed_traditions: 30
-  null_hit_rate: 1.0
-- pair:
-  - descent
-  - mystical_quest
-  observed_traditions: 29
+  - hero_journey
+  - sacred_knowledge
+  observed_traditions: 35
   null_hit_rate: 1.0
 - pair:
   - sacred_exchange
   - shapeshifter
-  observed_traditions: 29
+  observed_traditions: 34
   null_hit_rate: 1.0
 - pair:
-  - miraculous_child
-  - shapeshifter
-  observed_traditions: 29
-  null_hit_rate: 1.0
-- pair:
-  - hero_journey
-  - shapeshifter
-  observed_traditions: 29
+  - royal_legitimacy
+  - sacred_exchange
+  observed_traditions: 33
   null_hit_rate: 1.0
 - pair:
   - covenant
   - sacred_exchange
+  observed_traditions: 33
+  null_hit_rate: 1.0
+- pair:
+  - miraculous_child
+  - shapeshifter
+  observed_traditions: 33
+  null_hit_rate: 1.0
+- pair:
+  - death_and_transformation
+  - sacred_exchange
+  observed_traditions: 33
+  null_hit_rate: 1.0
+- pair:
+  - miraculous_child
+  - sacred_knowledge
+  observed_traditions: 33
+  null_hit_rate: 1.0
+- pair:
+  - hero_journey
+  - shapeshifter
+  observed_traditions: 33
+  null_hit_rate: 1.0
+- pair:
+  - ascent
+  - culture_hero
+  observed_traditions: 33
+  null_hit_rate: 1.0
+- pair:
+  - flood_and_renewal
+  - sacred_knowledge
+  observed_traditions: 32
+  null_hit_rate: 1.0
+- pair:
+  - sacred_time
+  - sacrifice
+  observed_traditions: 32
+  null_hit_rate: 1.0
+- pair:
+  - ascent
+  - sacred_exchange
+  observed_traditions: 32
+  null_hit_rate: 1.0
+- pair:
+  - ascent
+  - initiation
+  observed_traditions: 32
+  null_hit_rate: 1.0
+- pair:
+  - divine_judgment
+  - sacrifice
+  observed_traditions: 32
+  null_hit_rate: 1.0
+- pair:
+  - ascent
+  - shapeshifter
+  observed_traditions: 31
+  null_hit_rate: 1.0
+- pair:
+  - axis_mundi
+  - mystical_quest
+  observed_traditions: 31
+  null_hit_rate: 1.0
+- pair:
+  - culture_hero
+  - shapeshifter
+  observed_traditions: 31
+  null_hit_rate: 1.0
+- pair:
+  - axis_mundi
+  - miraculous_child
+  observed_traditions: 31
+  null_hit_rate: 1.0
+- pair:
+  - initiation
+  - shapeshifter
+  observed_traditions: 31
+  null_hit_rate: 1.0
+- pair:
+  - descent
+  - mystical_quest
+  observed_traditions: 31
+  null_hit_rate: 1.0
+- pair:
+  - culture_hero
+  - flood_and_renewal
+  observed_traditions: 31
+  null_hit_rate: 1.0
+- pair:
+  - culture_hero
+  - sacred_exchange
+  observed_traditions: 30
+  null_hit_rate: 1.0
+- pair:
+  - death_and_transformation
+  - descent
+  observed_traditions: 30
+  null_hit_rate: 1.0
+- pair:
+  - sacred_knowledge
+  - sacred_love
+  observed_traditions: 30
+  null_hit_rate: 1.0
+- pair:
+  - afterlife_passage
+  - mystical_quest
+  observed_traditions: 30
+  null_hit_rate: 1.0
+- pair:
+  - ascent
+  - sacred_love
+  observed_traditions: 30
+  null_hit_rate: 1.0
+- pair:
+  - culture_hero
+  - hero_journey
+  observed_traditions: 30
+  null_hit_rate: 1.0
+- pair:
+  - death_and_transformation
+  - sacrifice
+  observed_traditions: 30
+  null_hit_rate: 1.0
+- pair:
+  - culture_hero
+  - royal_legitimacy
+  observed_traditions: 30
+  null_hit_rate: 1.0
+- pair:
+  - miraculous_child
+  - mystical_quest
   observed_traditions: 29
   null_hit_rate: 1.0
 - pair:
-  - ascent
-  - initiation
-  observed_traditions: 28
-  null_hit_rate: 1.0
-- pair:
-  - culture_hero
-  - royal_legitimacy
-  observed_traditions: 28
-  null_hit_rate: 1.0
-- pair:
-  - axis_mundi
-  - mystical_quest
-  observed_traditions: 28
-  null_hit_rate: 1.0
-- pair:
-  - initiation
-  - shapeshifter
-  observed_traditions: 28
-  null_hit_rate: 1.0
-- pair:
-  - ascent
-  - sacred_exchange
-  observed_traditions: 28
-  null_hit_rate: 1.0
-- pair:
-  - divine_judgment
-  - sacrifice
-  observed_traditions: 28
-  null_hit_rate: 1.0
-- pair:
-  - ascent
-  - shapeshifter
-  observed_traditions: 28
-  null_hit_rate: 1.0
-- pair:
   - miraculous_child
-  - sacred_knowledge
-  observed_traditions: 28
-  null_hit_rate: 1.0
-- pair:
-  - culture_hero
-  - flood_and_renewal
-  observed_traditions: 28
-  null_hit_rate: 1.0
-- pair:
-  - sacred_knowledge
-  - sacred_love
-  observed_traditions: 27
-  null_hit_rate: 1.0
-- pair:
-  - afterlife_passage
-  - mystical_quest
-  observed_traditions: 27
+  - sacrifice
+  observed_traditions: 29
   null_hit_rate: 1.0
 - pair:
   - descent
   - initiation
-  observed_traditions: 27
+  observed_traditions: 29
+  null_hit_rate: 1.0
+- pair:
+  - culture_hero
+  - trickster
+  observed_traditions: 28
+  null_hit_rate: 1.0
+- pair:
+  - initiation
+  - sacrifice
+  observed_traditions: 28
+  null_hit_rate: 1.0
+- pair:
+  - hero_journey
+  - sacrifice
+  observed_traditions: 28
+  null_hit_rate: 1.0
+- pair:
+  - divine_judgment
+  - shapeshifter
+  observed_traditions: 28
   null_hit_rate: 1.0
 - pair:
   - flood_and_renewal
-  - sacred_knowledge
+  - miraculous_child
   observed_traditions: 27
   null_hit_rate: 1.0
 - pair:
-  - ascent
-  - sacred_love
+  - sacred_knowledge
+  - serpent_guardian
+  observed_traditions: 27
+  null_hit_rate: 1.0
+- pair:
+  - divine_judgment
+  - hero_journey
   observed_traditions: 27
   null_hit_rate: 1.0
 - pair:
   - culture_hero
-  - sacred_exchange
+  - death_and_transformation
+  observed_traditions: 27
+  null_hit_rate: 1.0
+- pair:
+  - divine_judgment
+  - flood_and_renewal
+  observed_traditions: 27
+  null_hit_rate: 1.0
+- pair:
+  - flood_and_renewal
+  - hero_journey
   observed_traditions: 27
   null_hit_rate: 1.0
 - pair:
   - death_and_transformation
-  - sacred_exchange
+  - sacred_love
+  observed_traditions: 27
+  null_hit_rate: 1.0
+- pair:
+  - death_and_transformation
+  - duality
   observed_traditions: 26
   null_hit_rate: 1.0
 - pair:
   - axis_mundi
-  - miraculous_child
-  observed_traditions: 26
-  null_hit_rate: 1.0
-- pair:
-  - sacred_time
   - sacrifice
   observed_traditions: 26
   null_hit_rate: 1.0
 - pair:
-  - divine_judgment
+  - sacred_twins
+  - shapeshifter
+  observed_traditions: 26
+  null_hit_rate: 1.0
+- pair:
+  - death_and_transformation
   - flood_and_renewal
   observed_traditions: 26
   null_hit_rate: 1.0
 - pair:
-  - miraculous_child
-  - mystical_quest
-  observed_traditions: 25
-  null_hit_rate: 1.0
-- pair:
-  - hero_journey
-  - sacrifice
-  observed_traditions: 25
-  null_hit_rate: 1.0
-- pair:
-  - culture_hero
-  - hero_journey
-  observed_traditions: 25
-  null_hit_rate: 1.0
-- pair:
-  - miraculous_child
-  - sacrifice
-  observed_traditions: 25
-  null_hit_rate: 1.0
-- pair:
-  - divine_judgment
-  - shapeshifter
-  observed_traditions: 25
-  null_hit_rate: 1.0
-- pair:
   - axis_mundi
   - sacred_knowledge
-  observed_traditions: 24
+  observed_traditions: 26
+  null_hit_rate: 1.0
+- pair:
+  - royal_legitimacy
+  - sacred_love
+  observed_traditions: 26
   null_hit_rate: 1.0
 - pair:
   - death_and_transformation
+  - initiation
+  observed_traditions: 26
+  null_hit_rate: 1.0
+- pair:
+  - sacred_knowledge
   - sacrifice
-  observed_traditions: 24
-  null_hit_rate: 1.0
-- pair:
-  - death_and_transformation
-  - flood_and_renewal
-  observed_traditions: 24
+  observed_traditions: 26
   null_hit_rate: 1.0
 - pair:
   - miraculous_child
   - serpent_guardian
-  observed_traditions: 24
+  observed_traditions: 26
   null_hit_rate: 1.0
 - pair:
-  - culture_hero
-  - shapeshifter
-  observed_traditions: 24
-  null_hit_rate: 1.0
-- pair:
-  - culture_hero
   - death_and_transformation
-  observed_traditions: 24
-  null_hit_rate: 1.0
-- pair:
-  - duality
-  - sacred_time
-  observed_traditions: 24
+  - serpent_guardian
+  observed_traditions: 25
   null_hit_rate: 1.0
 - pair:
   - axis_mundi
   - death_and_transformation
-  observed_traditions: 24
+  observed_traditions: 25
+  null_hit_rate: 1.0
+- pair:
+  - death_and_transformation
+  - sacred_time
+  observed_traditions: 25
+  null_hit_rate: 1.0
+- pair:
+  - duality
+  - sacred_time
+  observed_traditions: 25
+  null_hit_rate: 1.0
+- pair:
+  - culture_hero
+  - duality
+  observed_traditions: 25
   null_hit_rate: 1.0
 - pair:
   - descent
   - sacred_knowledge
-  observed_traditions: 23
+  observed_traditions: 25
   null_hit_rate: 1.0
 - pair:
-  - initiation
-  - sacrifice
-  observed_traditions: 23
-  null_hit_rate: 1.0
-- pair:
-  - death_and_transformation
-  - sacred_love
-  observed_traditions: 23
-  null_hit_rate: 1.0
-- pair:
-  - sacred_exchange
-  - trickster
-  observed_traditions: 23
-  null_hit_rate: 1.0
-- pair:
-  - sacred_knowledge
-  - sacrifice
-  observed_traditions: 23
+  - culture_hero
+  - sacred_twins
+  observed_traditions: 25
   null_hit_rate: 1.0
 - pair:
   - descent
   - shapeshifter
-  observed_traditions: 23
+  observed_traditions: 24
   null_hit_rate: 1.0
 - pair:
   - axis_mundi
-  - culture_hero
-  observed_traditions: 23
+  - serpent_guardian
+  observed_traditions: 24
   null_hit_rate: 1.0
 - pair:
-  - flood_and_renewal
-  - mystical_quest
-  observed_traditions: 23
-  null_hit_rate: 1.0
-- pair:
-  - death_and_transformation
-  - initiation
-  observed_traditions: 23
-  null_hit_rate: 1.0
-- pair:
-  - divine_judgment
-  - hero_journey
-  observed_traditions: 23
-  null_hit_rate: 1.0
-- pair:
-  - culture_hero
-  - trickster
-  observed_traditions: 22
+  - afterlife_passage
+  - sacrifice
+  observed_traditions: 24
   null_hit_rate: 1.0
 - pair:
   - initiation
   - royal_legitimacy
-  observed_traditions: 22
-  null_hit_rate: 1.0
-- pair:
-  - sacrifice
-  - shapeshifter
-  observed_traditions: 22
+  observed_traditions: 24
   null_hit_rate: 1.0
 - pair:
   - flood_and_renewal
-  - miraculous_child
-  observed_traditions: 22
-  null_hit_rate: 1.0
-- pair:
-  - hero_journey
-  - trickster
-  observed_traditions: 22
+  - mystical_quest
+  observed_traditions: 24
   null_hit_rate: 1.0
 - pair:
   - hero_journey
   - serpent_guardian
-  observed_traditions: 22
+  observed_traditions: 24
   null_hit_rate: 1.0
 - pair:
-  - flood_and_renewal
-  - hero_journey
-  observed_traditions: 22
+  - royal_legitimacy
+  - sacred_twins
+  observed_traditions: 24
   null_hit_rate: 1.0
 - pair:
-  - death_and_transformation
-  - duality
-  observed_traditions: 22
-  null_hit_rate: 1.0
-- pair:
-  - axis_mundi
   - sacrifice
-  observed_traditions: 22
+  - serpent_guardian
+  observed_traditions: 24
   null_hit_rate: 1.0
 - pair:
   - axis_mundi
-  - initiation
-  observed_traditions: 22
+  - culture_hero
+  observed_traditions: 24
+  null_hit_rate: 1.0
+- pair:
+  - hero_journey
+  - trickster
+  observed_traditions: 24
   null_hit_rate: 1.0
 - pair:
   - afterlife_passage
   - sacred_knowledge
-  observed_traditions: 22
+  observed_traditions: 24
   null_hit_rate: 1.0
 - pair:
-  - royal_legitimacy
-  - sacrifice
-  observed_traditions: 21
-  null_hit_rate: 1.0
-- pair:
-  - miraculous_child
-  - sacred_time
-  observed_traditions: 21
-  null_hit_rate: 1.0
-- pair:
-  - royal_legitimacy
-  - sacred_twins
-  observed_traditions: 21
-  null_hit_rate: 1.0
-- pair:
-  - sacred_twins
-  - shapeshifter
-  observed_traditions: 21
-  null_hit_rate: 1.0
-- pair:
-  - descent
   - sacred_exchange
-  observed_traditions: 21
+  - trickster
+  observed_traditions: 23
+  null_hit_rate: 1.0
+- pair:
+  - duality
+  - sacred_exchange
+  observed_traditions: 23
+  null_hit_rate: 1.0
+- pair:
+  - sacred_exchange
+  - serpent_guardian
+  observed_traditions: 23
+  null_hit_rate: 1.0
+- pair:
+  - culture_hero
+  - divine_judgment
+  observed_traditions: 23
+  null_hit_rate: 1.0
+- pair:
+  - ascent
+  - flood_and_renewal
+  observed_traditions: 23
   null_hit_rate: 1.0
 - pair:
   - axis_mundi
   - hero_journey
-  observed_traditions: 21
-  null_hit_rate: 1.0
-- pair:
-  - afterlife_passage
-  - sacred_exchange
-  observed_traditions: 21
-  null_hit_rate: 1.0
-- pair:
-  - death_and_transformation
-  - sacred_time
-  observed_traditions: 21
-  null_hit_rate: 1.0
-- pair:
-  - culture_hero
-  - divine_judgment
-  observed_traditions: 21
-  null_hit_rate: 1.0
-- pair:
-  - royal_legitimacy
-  - sacred_love
-  observed_traditions: 21
-  null_hit_rate: 1.0
-- pair:
-  - death_and_transformation
-  - serpent_guardian
-  observed_traditions: 21
-  null_hit_rate: 1.0
-- pair:
-  - initiation
-  - sacred_love
-  observed_traditions: 21
-  null_hit_rate: 1.0
-- pair:
-  - axis_mundi
-  - serpent_guardian
-  observed_traditions: 21
+  observed_traditions: 23
   null_hit_rate: 1.0
 - pair:
   - flood_and_renewal
   - shapeshifter
-  observed_traditions: 20
+  observed_traditions: 23
+  null_hit_rate: 1.0
+- pair:
+  - sacred_exchange
+  - sacred_twins
+  observed_traditions: 23
+  null_hit_rate: 1.0
+- pair:
+  - sacrifice
+  - shapeshifter
+  observed_traditions: 23
   null_hit_rate: 1.0
 - pair:
   - culture_hero
-  - sacred_twins
-  observed_traditions: 20
+  - sacred_love
+  observed_traditions: 23
   null_hit_rate: 1.0
 - pair:
   - afterlife_passage
   - initiation
-  observed_traditions: 20
-  null_hit_rate: 1.0
-- pair:
-  - sacred_love
-  - sacred_time
-  observed_traditions: 20
-  null_hit_rate: 1.0
-- pair:
-  - afterlife_passage
-  - axis_mundi
-  observed_traditions: 20
-  null_hit_rate: 1.0
-- pair:
-  - afterlife_passage
-  - sacrifice
-  observed_traditions: 20
-  null_hit_rate: 1.0
-- pair:
-  - axis_mundi
-  - royal_legitimacy
-  observed_traditions: 20
-  null_hit_rate: 1.0
-- pair:
-  - sacred_exchange
-  - serpent_guardian
-  observed_traditions: 20
-  null_hit_rate: 1.0
-- pair:
-  - axis_mundi
-  - shapeshifter
-  observed_traditions: 20
-  null_hit_rate: 1.0
-- pair:
-  - divine_judgment
-  - mystical_quest
-  observed_traditions: 20
-  null_hit_rate: 1.0
-- pair:
-  - sacred_knowledge
-  - serpent_guardian
-  observed_traditions: 20
-  null_hit_rate: 1.0
-- pair:
-  - duality
-  - sacred_exchange
-  observed_traditions: 20
-  null_hit_rate: 1.0
-- pair:
-  - royal_legitimacy
-  - sacred_knowledge
-  observed_traditions: 20
-  null_hit_rate: 1.0
-- pair:
-  - mystical_quest
-  - sacrifice
-  observed_traditions: 19
-  null_hit_rate: 1.0
-- pair:
-  - axis_mundi
-  - sacred_time
-  observed_traditions: 19
-  null_hit_rate: 1.0
-- pair:
-  - mystical_quest
-  - serpent_guardian
-  observed_traditions: 19
+  observed_traditions: 22
   null_hit_rate: 1.0
 - pair:
   - duality
   - miraculous_child
-  observed_traditions: 19
-  null_hit_rate: 1.0
-- pair:
-  - sacred_exchange
-  - sacred_twins
-  observed_traditions: 19
-  null_hit_rate: 1.0
-- pair:
-  - culture_hero
-  - duality
-  observed_traditions: 19
+  observed_traditions: 22
   null_hit_rate: 1.0
 - pair:
   - divine_judgment
-  - serpent_guardian
-  observed_traditions: 19
+  - mystical_quest
+  observed_traditions: 22
+  null_hit_rate: 1.0
+- pair:
+  - axis_mundi
+  - initiation
+  observed_traditions: 22
   null_hit_rate: 1.0
 - pair:
   - initiation
   - serpent_guardian
-  observed_traditions: 19
+  observed_traditions: 22
   null_hit_rate: 1.0
 - pair:
   - axis_mundi
-  - divine_judgment
-  observed_traditions: 19
+  - royal_legitimacy
+  observed_traditions: 22
+  null_hit_rate: 1.0
+- pair:
+  - initiation
+  - sacred_love
+  observed_traditions: 22
   null_hit_rate: 1.0
 - pair:
   - culture_hero
-  - sacred_love
-  observed_traditions: 19
+  - serpent_guardian
+  observed_traditions: 22
   null_hit_rate: 1.0
 - pair:
   - ascent
   - duality
-  observed_traditions: 18
-  null_hit_rate: 1.0
-- pair:
-  - ascent
-  - flood_and_renewal
-  observed_traditions: 18
-  null_hit_rate: 1.0
-- pair:
-  - mystical_quest
-  - sacred_twins
-  observed_traditions: 18
-  null_hit_rate: 1.0
-- pair:
-  - divine_judgment
-  - royal_legitimacy
-  observed_traditions: 18
-  null_hit_rate: 1.0
-- pair:
-  - sacred_love
-  - serpent_guardian
-  observed_traditions: 18
-  null_hit_rate: 1.0
-- pair:
-  - ascent
-  - sacred_twins
-  observed_traditions: 18
-  null_hit_rate: 1.0
-- pair:
-  - sacrifice
-  - serpent_guardian
-  observed_traditions: 18
-  null_hit_rate: 1.0
-- pair:
-  - duality
-  - mystical_quest
-  observed_traditions: 18
-  null_hit_rate: 1.0
-- pair:
-  - sacred_love
-  - trickster
-  observed_traditions: 18
+  observed_traditions: 22
   null_hit_rate: 1.0
 - pair:
   - afterlife_passage
-  - shapeshifter
-  observed_traditions: 18
-  null_hit_rate: 1.0
-- pair:
-  - culture_hero
-  - sacred_time
-  observed_traditions: 17
-  null_hit_rate: 1.0
-- pair:
-  - flood_and_renewal
   - sacred_exchange
-  observed_traditions: 17
-  null_hit_rate: 1.0
-- pair:
-  - culture_hero
-  - sacrifice
-  observed_traditions: 17
-  null_hit_rate: 1.0
-- pair:
-  - divine_judgment
-  - duality
-  observed_traditions: 17
-  null_hit_rate: 1.0
-- pair:
-  - axis_mundi
-  - duality
-  observed_traditions: 17
-  null_hit_rate: 1.0
-- pair:
-  - afterlife_passage
-  - serpent_guardian
-  observed_traditions: 17
-  null_hit_rate: 1.0
-- pair:
-  - miraculous_child
-  - trickster
-  observed_traditions: 16
-  null_hit_rate: 1.0
-- pair:
-  - descent
-  - sacred_love
-  observed_traditions: 16
-  null_hit_rate: 1.0
-- pair:
-  - ascent
-  - trickster
-  observed_traditions: 16
-  null_hit_rate: 1.0
-- pair:
-  - sacred_love
-  - sacred_twins
-  observed_traditions: 16
-  null_hit_rate: 1.0
-- pair:
-  - royal_legitimacy
-  - serpent_guardian
-  observed_traditions: 16
-  null_hit_rate: 1.0
-- pair:
-  - sacred_love
-  - sacrifice
-  observed_traditions: 16
-  null_hit_rate: 1.0
-- pair:
-  - death_and_transformation
-  - trickster
-  observed_traditions: 16
+  observed_traditions: 22
   null_hit_rate: 1.0
 - pair:
   - cosmic_origin
-  - hero_journey
-  observed_traditions: 16
+  - duality
+  observed_traditions: 22
+  null_hit_rate: 1.0
+- pair:
+  - mystical_quest
+  - serpent_guardian
+  observed_traditions: 21
+  null_hit_rate: 1.0
+- pair:
+  - sacred_love
+  - trickster
+  observed_traditions: 21
+  null_hit_rate: 1.0
+- pair:
+  - sacred_love
+  - sacred_twins
+  observed_traditions: 21
+  null_hit_rate: 1.0
+- pair:
+  - afterlife_passage
+  - axis_mundi
+  observed_traditions: 21
   null_hit_rate: 1.0
 - pair:
   - culture_hero
-  - initiation
-  observed_traditions: 16
+  - sacrifice
+  observed_traditions: 21
+  null_hit_rate: 1.0
+- pair:
+  - axis_mundi
+  - shapeshifter
+  observed_traditions: 21
   null_hit_rate: 1.0
 - pair:
   - divine_judgment
-  - initiation
-  observed_traditions: 16
+  - serpent_guardian
+  observed_traditions: 21
+  null_hit_rate: 1.0
+- pair:
+  - royal_legitimacy
+  - sacred_knowledge
+  observed_traditions: 21
+  null_hit_rate: 1.0
+- pair:
+  - royal_legitimacy
+  - sacrifice
+  observed_traditions: 21
+  null_hit_rate: 1.0
+- pair:
+  - miraculous_child
+  - sacred_time
+  observed_traditions: 21
+  null_hit_rate: 1.0
+- pair:
+  - duality
+  - sacred_twins
+  observed_traditions: 21
+  null_hit_rate: 1.0
+- pair:
+  - axis_mundi
+  - divine_judgment
+  observed_traditions: 21
+  null_hit_rate: 1.0
+- pair:
+  - afterlife_passage
+  - serpent_guardian
+  observed_traditions: 20
+  null_hit_rate: 1.0
+- pair:
+  - death_and_transformation
+  - sacred_twins
+  observed_traditions: 20
+  null_hit_rate: 1.0
+- pair:
+  - mystical_quest
+  - sacred_twins
+  observed_traditions: 20
+  null_hit_rate: 1.0
+- pair:
+  - ascent
+  - sacred_twins
+  observed_traditions: 20
+  null_hit_rate: 1.0
+- pair:
+  - axis_mundi
+  - sacred_time
+  observed_traditions: 20
+  null_hit_rate: 1.0
+- pair:
+  - descent
+  - sacred_exchange
+  observed_traditions: 20
+  null_hit_rate: 1.0
+- pair:
+  - axis_mundi
+  - duality
+  observed_traditions: 20
+  null_hit_rate: 1.0
+- pair:
+  - afterlife_passage
+  - shapeshifter
+  observed_traditions: 20
+  null_hit_rate: 1.0
+- pair:
+  - ascent
+  - trickster
+  observed_traditions: 20
+  null_hit_rate: 1.0
+- pair:
+  - mystical_quest
+  - sacrifice
+  observed_traditions: 20
+  null_hit_rate: 1.0
+- pair:
+  - ascent
+  - sacrifice
+  observed_traditions: 20
+  null_hit_rate: 1.0
+- pair:
+  - duality
+  - mystical_quest
+  observed_traditions: 20
+  null_hit_rate: 1.0
+- pair:
+  - sacred_love
+  - sacred_time
+  observed_traditions: 20
+  null_hit_rate: 1.0
+- pair:
+  - cosmic_origin
+  - miraculous_child
+  observed_traditions: 19
+  null_hit_rate: 1.0
+- pair:
+  - flood_and_renewal
+  - serpent_guardian
+  observed_traditions: 19
+  null_hit_rate: 1.0
+- pair:
+  - death_and_transformation
+  - trickster
+  observed_traditions: 19
+  null_hit_rate: 1.0
+- pair:
+  - sacred_love
+  - serpent_guardian
+  observed_traditions: 19
+  null_hit_rate: 1.0
+- pair:
+  - divine_judgment
+  - royal_legitimacy
+  observed_traditions: 19
+  null_hit_rate: 1.0
+- pair:
+  - descent
+  - miraculous_child
+  observed_traditions: 19
   null_hit_rate: 1.0
 - pair:
   - covenant
   - hero_journey
-  observed_traditions: 16
+  observed_traditions: 18
+  null_hit_rate: 1.0
+- pair:
+  - miraculous_child
+  - trickster
+  observed_traditions: 18
+  null_hit_rate: 1.0
+- pair:
+  - divine_judgment
+  - duality
+  observed_traditions: 18
+  null_hit_rate: 1.0
+- pair:
+  - flood_and_renewal
+  - sacred_exchange
+  observed_traditions: 18
+  null_hit_rate: 1.0
+- pair:
+  - sacred_knowledge
+  - sacred_twins
+  observed_traditions: 18
+  null_hit_rate: 1.0
+- pair:
+  - culture_hero
+  - sacred_time
+  observed_traditions: 18
+  null_hit_rate: 1.0
+- pair:
+  - royal_legitimacy
+  - serpent_guardian
+  observed_traditions: 18
+  null_hit_rate: 1.0
+- pair:
+  - cosmic_origin
+  - hero_journey
+  observed_traditions: 18
+  null_hit_rate: 1.0
+- pair:
+  - sacred_knowledge
+  - sacred_time
+  observed_traditions: 17
   null_hit_rate: 1.0
 - pair:
   - afterlife_passage
   - duality
-  observed_traditions: 15
+  observed_traditions: 17
   null_hit_rate: 1.0
 - pair:
+  - culture_hero
   - initiation
-  - sacred_twins
-  observed_traditions: 15
+  observed_traditions: 17
   null_hit_rate: 1.0
 - pair:
-  - divine_judgment
-  - trickster
-  observed_traditions: 15
-  null_hit_rate: 1.0
-- pair:
-  - death_and_transformation
-  - sacred_twins
-  observed_traditions: 15
-  null_hit_rate: 1.0
-- pair:
-  - flood_and_renewal
-  - serpent_guardian
-  observed_traditions: 15
-  null_hit_rate: 1.0
-- pair:
-  - divine_judgment
-  - sacred_twins
-  observed_traditions: 15
+  - sacred_love
+  - sacrifice
+  observed_traditions: 17
   null_hit_rate: 1.0
 - pair:
   - divine_judgment
   - sacred_love
+  observed_traditions: 17
+  null_hit_rate: 1.0
+- pair:
+  - duality
+  - initiation
+  observed_traditions: 17
+  null_hit_rate: 1.0
+- pair:
+  - divine_judgment
+  - sacred_time
+  observed_traditions: 17
+  null_hit_rate: 1.0
+- pair:
+  - covenant
+  - sacrifice
+  observed_traditions: 17
+  null_hit_rate: 1.0
+- pair:
+  - divine_judgment
+  - initiation
+  observed_traditions: 17
+  null_hit_rate: 1.0
+- pair:
+  - divine_judgment
+  - sacred_twins
+  observed_traditions: 17
+  null_hit_rate: 1.0
+- pair:
+  - axis_mundi
+  - sacred_love
+  observed_traditions: 16
+  null_hit_rate: 1.0
+- pair:
+  - duality
+  - sacred_love
+  observed_traditions: 16
+  null_hit_rate: 1.0
+- pair:
+  - flood_and_renewal
+  - sacrifice
+  observed_traditions: 16
+  null_hit_rate: 1.0
+- pair:
+  - culture_hero
+  - mystical_quest
+  observed_traditions: 16
+  null_hit_rate: 1.0
+- pair:
+  - divine_judgment
+  - trickster
+  observed_traditions: 16
+  null_hit_rate: 1.0
+- pair:
+  - descent
+  - divine_judgment
   observed_traditions: 15
   null_hit_rate: 1.0
 - pair:
-  - sacred_knowledge
+  - mystical_quest
+  - trickster
+  observed_traditions: 15
+  null_hit_rate: 1.0
+- pair:
+  - initiation
   - sacred_twins
+  observed_traditions: 15
+  null_hit_rate: 1.0
+- pair:
+  - cosmic_origin
+  - royal_legitimacy
+  observed_traditions: 15
+  null_hit_rate: 1.0
+- pair:
+  - ascent
+  - sacred_time
   observed_traditions: 15
   null_hit_rate: 1.0
 - pair:
   - death_and_transformation
   - royal_legitimacy
   observed_traditions: 15
-  null_hit_rate: 1.0
-- pair:
-  - sacred_knowledge
-  - sacred_time
-  observed_traditions: 14
-  null_hit_rate: 1.0
-- pair:
-  - duality
-  - initiation
-  observed_traditions: 14
-  null_hit_rate: 1.0
-- pair:
-  - ascent
-  - sacrifice
-  observed_traditions: 14
-  null_hit_rate: 1.0
-- pair:
-  - mystical_quest
-  - royal_legitimacy
-  observed_traditions: 14
-  null_hit_rate: 1.0
-- pair:
-  - divine_judgment
-  - sacred_time
-  observed_traditions: 14
-  null_hit_rate: 1.0
-- pair:
-  - ascent
-  - sacred_time
-  observed_traditions: 14
-  null_hit_rate: 1.0
-- pair:
-  - royal_legitimacy
-  - sacred_time
-  observed_traditions: 14
-  null_hit_rate: 1.0
-- pair:
-  - duality
-  - shapeshifter
-  observed_traditions: 13
-  null_hit_rate: 1.0
-- pair:
-  - flood_and_renewal
-  - sacred_time
-  observed_traditions: 13
-  null_hit_rate: 1.0
-- pair:
-  - cosmic_origin
-  - mystical_quest
-  observed_traditions: 13
-  null_hit_rate: 1.0
-- pair:
-  - flood_and_renewal
-  - sacrifice
-  observed_traditions: 13
   null_hit_rate: 1.0
 
