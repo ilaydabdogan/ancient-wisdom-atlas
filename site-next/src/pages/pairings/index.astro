@@ -16,8 +16,8 @@ import {
  * The Bonds and the Order.
  *
  * Section 1: every conserved family pair from the constellation index —
- * which stories travel together — with the isolation-proven bonds
- * (re-formed among the held-out isolated lineages) grouped first.
+ * which stories travel together — with the listed holdout matches
+ * grouped first and the mapping-based test verdict shown alongside.
  * Section 2: every strong precedence candidate from the sequences index,
  * judged against its frequency-controlled permutation null. Section 3:
  * the most widespread recurring ordered chains. Nothing on this page is
@@ -30,22 +30,26 @@ const labelOf = (id) => familyById(id)?.label ?? humanize(id);
 
 const con = constellations();
 const iso = isolatedPredictionTest();
-const provenSet = new Set(
+const holdoutMatchSet = new Set(
   (iso.reproduced_edge_list ?? []).map((p) => [...p].sort().join('|')),
 );
+const reportedReproducedCount = iso.result?.reproduced_edges;
+const holdoutListIsTruncated = Number.isFinite(reportedReproducedCount) &&
+  reportedReproducedCount > holdoutMatchSet.size;
+const holdoutVerdict = humanize(iso.result?.verdict ?? 'unavailable');
+const mappingLeakageFlag = iso.result?.verdict === 'leakage_flag';
 
 const edges = (con.conserved_edges ?? []).map((e) => ({
   a: e.pair[0],
   b: e.pair[1],
   traditionCount: e.tradition_count,
   cooccurrences: e.total_cooccurrences,
-  proven: provenSet.has([...e.pair].sort().join('|')),
+  holdoutMatch: holdoutMatchSet.has([...e.pair].sort().join('|')),
 }));
 
-// Keep the index's own ranking (tradition spread) within each group;
-// isolation-proven bonds lead the ledger.
-const bondRows = [...edges.filter((e) => e.proven), ...edges.filter((e) => !e.proven)];
-const provenCount = edges.filter((e) => e.proven).length;
+// Keep the index's ranking within each group; unlisted pairs may also have reproduced.
+const bondRows = [...edges.filter((e) => e.holdoutMatch), ...edges.filter((e) => !e.holdoutMatch)];
+const holdoutMatchCount = edges.filter((e) => e.holdoutMatch).length;
 const maxEdgeTraditions = Math.max(...edges.map((e) => e.traditionCount), 1);
 
 /* ---- Section 2: what comes before what ---- */
@@ -100,7 +104,7 @@ const totalChains = seq.recurringSequences ?? recurringSequences().length;
 
 <Manuscript
   title="Pairings — the Bonds and the Order — Ancient Wisdom Atlas"
-  description={`The full ledger of story-partnerships: ${fmtInt(edges.length)} conserved family bonds (${fmtInt(provenCount)} isolation-proven) and the ${fmtInt(orderRows.length)} candidate orderings judged against a frequency-controlled null.`}
+  description={`The full ledger of story-partnerships: ${fmtInt(edges.length)} conserved family bonds (${fmtInt(holdoutMatchCount)} listed holdout matches) and the ${fmtInt(orderRows.length)} candidate orderings judged against a frequency-controlled null.`}
 >
   <div class="folio">
     <section class="story-open" style="padding-bottom: 1rem;">
@@ -117,7 +121,7 @@ const totalChains = seq.recurringSequences ?? recurringSequences().length;
         </p>
         <div class="stat-row">
           <div class="stat"><strong>{fmtInt(edges.length)}</strong> <span>conserved bonds</span></div>
-          <div class="stat"><strong>{fmtInt(provenCount)}</strong> <span>isolation-proven</span></div>
+          <div class="stat"><strong>{fmtInt(holdoutMatchCount)}</strong> <span>listed holdout matches</span></div>
           <div class="stat"><strong>{fmtInt(orderRows.length)}</strong> <span>candidate orderings</span></div>
           <div class="stat"><strong>{fmtInt(survivors.length)}</strong> <span>orderings that survive the null</span></div>
         </div>
@@ -138,22 +142,40 @@ const totalChains = seq.recurringSequences ?? recurringSequences().length;
           in the corpus.
         </p>
         <p class="footnote">
-          <span class="iso-badge">✦ isolation-proven</span> marks a bond that
-          <em>re-formed</em> among the held-out isolated lineages — peoples
-          with no possible contact with the training corpus — in the
-          preregistered isolated-lineage test. For these
-          {fmtInt(provenCount)} bonds, &ldquo;they borrowed it&rdquo; is not an
-          available explanation. They lead the ledger; the remaining
-          {fmtInt(edges.length - provenCount)} conserved bonds follow.
+          <span class="iso-badge">✦ holdout match</span> marks a bond included
+          in the stored list of pairs also observed in the held-out lineages.
+          This records recurrence; it does not establish independent origins.
+          The {fmtInt(holdoutMatchCount)} listed matches lead the ledger.
+          {holdoutListIsTruncated && (
+            <Fragment>
+              {' '}The stored list contains {fmtInt(holdoutMatchSet.size)} of
+              the test&rsquo;s {fmtInt(reportedReproducedCount)} reproduced
+              training pairs. Unlisted bonds may also have reproduced.
+            </Fragment>
+          )}
+        </p>
+        <p class="footnote">
+          The mapping-based holdout test currently reports
+          {' '}<strong>{holdoutVerdict}</strong>.
+          {mappingLeakageFlag && (
+            <Fragment>
+              {' '}Its low novelty rate flags possible mapping leakage;
+              under the preregistered criteria, this result cannot be claimed
+              as a success.
+            </Fragment>
+          )}
+          {' '}Read the
+          {' '}<a href="https://github.com/ilaydabdogan/ancient-wisdom-atlas/blob/main/docs/prereg-isolated-lineage-test.md">preregistration</a>
+          {' '}and the <a href="/lab/">Lab</a> for the method and results.
         </p>
       </div>
 
       <ol class="universal-list">
         {bondRows.map((e, i) => (
           <li class="universal-row">
-            {i === 0 && <p class="bond-group-head">Bonds proven in isolation</p>}
-            {i === provenCount && provenCount < bondRows.length && (
-              <p class="bond-group-head">The remaining conserved bonds</p>
+            {i === 0 && holdoutMatchCount > 0 && <p class="bond-group-head">Listed holdout matches</p>}
+            {i === holdoutMatchCount && holdoutMatchCount < bondRows.length && (
+              <p class="bond-group-head">Other conserved bonds</p>
             )}
             <div class="universal-head">
               <span class="u-rank">{i + 1}</span>
@@ -162,8 +184,8 @@ const totalChains = seq.recurringSequences ?? recurringSequences().length;
                 <span class="pair-glyph">✦</span>
                 <a href={`/descent/${e.b}/`}>{labelOf(e.b)}</a>
               </h3>
-              {e.proven && (
-                <span class="iso-badge" title="This bond re-formed among isolated lineages with no possible contact with the training corpus">✦ isolation-proven</span>
+              {e.holdoutMatch && (
+                <span class="iso-badge" title="This pair appears in the stored holdout reproduction list; recurrence alone does not establish independent origins">✦ holdout match</span>
               )}
               <span class="u-gloss">{fmtInt(e.cooccurrences)} co-occurrences</span>
             </div>
@@ -332,9 +354,9 @@ const totalChains = seq.recurringSequences ?? recurringSequences().length;
         <p class="footnote">
           Every family name opens its page in <a href="/descent/">the descent</a>,
           down to the quoted passages. The bonds come from the constellation
-          index; the isolation badge from the preregistered isolated-lineage
-          test; the orderings and chains from the sequences index with its
-          within-text permutation null. The wider argument lives in
+          index; the holdout badge from the stored reproduction list of the
+          preregistered mapping-based test; the orderings and chains from the
+          sequences index with its within-text permutation null. The wider argument lives in
           <a href="/findings/"> the findings</a>; the full apparatus in
           <a href="/lab/"> the Lab</a>.
         </p>
